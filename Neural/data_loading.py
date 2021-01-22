@@ -2,10 +2,6 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-# pre-trained GloVe embeddings with glove_dim=300
-import spacy
-_glove = spacy.load('en_core_web_md') 
-
 #DL utils
 import torch
 from torch import Tensor, LongTensor
@@ -19,11 +15,17 @@ WordEmbedder = Callable[[Sentence], Tensor]
 Sample = Tuple[Tensor, LongTensor]
 
 
-def glove_embedding(sent: Sentence) -> Tensor:
-    # tokenize sentence and map to [sent_len X glove_dim] tensor
-    sent_proc = _glove(sent)
-    vectors = [word.vector for word in sent_proc]
-    return torch.tensor(vectors)
+# pre-trained GloVe embeddings with glove_dim=300
+def glove_embeddings():
+    import spacy
+    _glove = spacy.load('en_core_web_md') 
+    def embedd(sent: Sentence) -> Tensor:
+        # tokenize sentence and map to [sent_len X glove_dim] tensor
+        sent_proc = _glove(sent)
+        vectors = [word.vector for word in sent_proc]
+        return torch.tensor(vectors)
+
+    return embedd
 
     
 def vectorize_label(label: str) -> LongTensor:
@@ -54,12 +56,15 @@ class EventClassesMultilabel(object):
 def collate_fn(batch: List[Sample]) -> Tuple[Tensor, LongTensor]:
     xs, ys = zip(*batch)
     return pad_sequence(xs, batch_first=True), torch.stack(ys, dim=0)
+ 
 
-
-def get_dataloaders(csv_path: str, bs: int=32) -> Tuple[DataLoader, DataLoader]:
-    dataset = EventClassesMultilabel(csv_path, word_embedder=glove_embedding)
+def get_datasets(csv_path: str) -> Tuple[List[Sample], List[Sample]]:
+    dataset = EventClassesMultilabel(csv_path, word_embedder=glove_embeddings())
     train_set, test_set = dataset.random_train_test_split()
+    return train_set, test_set
 
+
+def build_dataloaders(train_set: List[Sample], test_set:  List[Sample], bs: int=32) -> Tuple[DataLoader, DataLoader]:
     train_dl = DataLoader(train_set, batch_size=bs, shuffle=True, collate_fn=collate_fn)
     test_dl = DataLoader(test_set, batch_size=bs, shuffle=False, collate_fn=collate_fn)
-    return train_dl, test_dl
+    return train_dl, test_dl  

@@ -11,8 +11,7 @@ class MultiLabelLSTM(Module):
         self.fc = Linear(in_features=2*hidden_dim, out_features=num_classes)
 
     def forward(self, x: Tensor) -> Tensor:
-        batch_size = x.shape[0]
-        hiddens, (h0,_) = self.lstm(x)
-        context = h0.view(batch_size, self.num_layers, -1)[:,-1,:]
+        hiddens, _ = self.lstm(x)
+        context = torch.cat((hiddens[:,-1,:self.lstm.hidden_size], hiddens[:,0,self.lstm.hidden_size:]), dim=-1)
         out = self.fc(context)
         return out
