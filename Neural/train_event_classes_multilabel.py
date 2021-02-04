@@ -130,7 +130,7 @@ if __name__ == "__main__":
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=32)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=100)
     parser.add_argument('-de', '--embedd_dim', help='dimensionality of input word vectors', type=int, default=300)
-    parser.add_argument('-dh', '--hidden_dim', help='dimensionality of LSTM hidden vectors', type=int, default=150)
+    parser.add_argument('-dh', '--hidden_dim', help='dimensionality of models hidden vectors', type=int, default=150)
     parser.add_argument('-l', '--num_layers', help='depth of model', type=int, default=1)
     parser.add_argument('-H', '--num_heads', help='number of multi-attention heads for transformers', type=int, default=None)
     parser.add_argument('-c', '--num_classes', help='num of target classes', type=int, default=8)
