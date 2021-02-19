@@ -126,7 +126,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('-p', '--path_to_csv_file', help='path to CSV file containing the data', type=str)
-    parser.add_argument('-m', '--model_idx', help='which model to use for training (see code for options)', type=str, default='LSTM')
+    parser.add_argument('-m', '--model_idx', help='which model to use for training (see model_library.py for options)', type=str, default='LSTM')
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=32)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=100)
     parser.add_argument('-de', '--embedd_dim', help='dimensionality of input word vectors', type=int, default=300)
@@ -137,7 +137,7 @@ if __name__ == "__main__":
     parser.add_argument('-lr', '--learning_rate', help='learning rate to use for Adam optimization', type=float, default=.005)
     parser.add_argument('-dr', '--dropout', help='dropout rate used for regularization', type=float, default=.0)
     parser.add_argument('-wd', '--weight_decay', help='weight decay rate used for regularization', type=float, default=.0)
-    parser.add_argument('-emb', '--embeddings', help='what type of embedder to use for data vectorization (see code)', type=str, default='glove')
+    parser.add_argument('-emb', '--embeddings', help='what type of embedder to use for data vectorization (see code)', type=str, default='glove_lg')
     parser.add_argument('-early', '--early_stop_patience', help='stop training if evaluation is worse in that many epochs', type=int, default=6)
     parser.add_argument('-dev', '--dev_freq', help='every how many epochs to evaluate', type=int, default=5)
     parser.add_argument('--k_fold', action='store_true', help='whether to evaluate with k-fold cross validation', default=False)

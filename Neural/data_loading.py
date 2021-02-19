@@ -16,9 +16,9 @@ Samples = List[Sample]
 
 
 # pre-trained GloVe embeddings with glove_dim=300
-def glove_embeddings() -> WordEmbedder:
+def glove_embeddings(version: str) -> WordEmbedder:
     import spacy
-    _glove = spacy.load('en_core_web_md') 
+    _glove = spacy.load(f'en_core_web_{version}') 
     def embedd(sent: Sentence) -> Tensor:
         # tokenize sentence and map to [sent_len X glove_dim] tensor
         sent_proc = _glove(sent)
@@ -40,6 +40,19 @@ def bert_pretrained_embeddings() -> WordEmbedder:
     return embedd
 
 
+# frozen Roberta pretrained embeddings with bert_dim=768
+@torch.no_grad()
+def roberta_pretrained_embeddings() -> WordEmbedder:
+    from transformers import RobertaTokenizer, RobertaModel 
+    tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
+    roberta = RobertaModel.from_pretrained('roberta-base')
+    def embedd(sent: Sentence) -> Tensor:
+        inps = tokenizer(sent, return_tensors="pt")
+        vectors = roberta(**inps)[0].squeeze()
+        return vectors
+    return embedd
+
+
 def vectorize_label(label: str) -> LongTensor:
     # convert strings of ','-seperated bits to long tensor
     bits = list(map(int, label.split(',')))
@@ -53,9 +66,9 @@ class EventClassesMultilabel(object):
         self.text_embedds = list(map(word_embedder, self.text))
         self.label_embedds = list(map(vectorize_label, self.labels))
 
-    def random_train_test_split(self) -> Tuple[Samples, Samples]:
+    def random_train_test_split(self, test_size: float=0.2, seed: int=42) -> Tuple[Samples, Samples]:
         X_train, X_test, Y_train, Y_test = train_test_split(self.text_embedds, \
-            self.label_embedds, test_size = 0.20, random_state = 42)
+            self.label_embedds, test_size = test_size, random_state = seed)
         return list(zip(X_train, Y_train)), list(zip(X_test, Y_test))
 
     def __getitem__(self, n: int) -> Sample:
@@ -65,15 +78,27 @@ class EventClassesMultilabel(object):
         return len(self.text)
 
 
-def vectorize_dataset(csv_path: str, embeddings: str) -> EventClassesMultilabel:
-    if embeddings == 'glove':
-        embedder = glove_embeddings()
+def get_embedder(embeddings: str) -> WordEmbedder:
+    if embeddings.startswith('glove'):
+        version = embeddings.split('_')[1]
+        if version not in ['md', 'lg']:
+            raise ValueError('See data_loading.py for valid embedding options')
+        embedder = glove_embeddings(version)
+
     elif embeddings == 'bert':
         embedder = bert_pretrained_embeddings()
+
+    elif embeddings == 'roberta':
+        embedder = roberta_pretrained_embeddings()
+
     else:
         raise ValueError('See data_loading.py for valid embedding options')
 
-    return EventClassesMultilabel(csv_path, word_embedder=embedder)
+    return embedder 
+
+
+def vectorize_dataset(csv_path: str, embeddings: str) -> EventClassesMultilabel:
+    return EventClassesMultilabel(csv_path, word_embedder=get_embedder(embeddings))
 
 
 def collate_fn(pad_id: int) -> Callable[[Samples], Tuple[Tensor, LongTensor]]:
