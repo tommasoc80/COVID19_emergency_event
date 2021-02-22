@@ -5,7 +5,8 @@ from torch.nn import BCEWithLogitsLoss
 from torch.optim import Adam
 
 import pickle
-from sklearn.model_selection import KFold
+import numpy as np
+from sklearn.model_selection import KFold, train_test_split
 
 from data_loading import vectorize_dataset, build_dataloaders, EventClassesMultilabel
 from training import train_epoch, eval_epoch
@@ -16,7 +17,7 @@ from typing import Tuple, Optional
 # GPU acceleration if applied
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-_kappa = 10 # 10-fold cross-validation]
+_kappa = 5 # 5-fold cross-validation]
 
 
 def main(path_to_csv_file: str, 
@@ -34,6 +35,7 @@ def main(path_to_csv_file: str,
         embeddings: str,
         dev_freq: int, 
         k_fold: bool, 
+        with_tf_idf: int,
         checkpoint: bool,
         num_heads: Optional[int]=None):
 
@@ -41,7 +43,7 @@ def main(path_to_csv_file: str,
     def train_full(train_dl: DataLoader, test_dl: DataLoader) -> Tuple[float, float, float]:
         # init appropriate model
         model_kwargs = {'embedd_dim': embedd_dim, 'model_dim': hidden_dim, 'num_classes': num_classes, 'num_layers': num_layers,
-                        'dropout': dropout, 'num_heads': num_heads}
+                        'dropout': dropout, 'num_heads': num_heads, 'with_tf_idf': with_tf_idf}
         model = models_dict[model_idx](**setup_model_kwargs(model_idx, model_kwargs)).to(device)
 
         # init optimizer and loss function
@@ -91,10 +93,16 @@ def main(path_to_csv_file: str,
         # save average scores for k-fold cross validation
         bce_loss, sent_accu, hamm_loss = 0., 0., 0.
         kf = KFold(n_splits=_kappa, shuffle=True, random_state=42)
-        text, labels = zip(*dataset)
-        for iteration, (train_idces, test_idces) in enumerate(kf.split(text)):
-            train_set = [dataset[idx] for idx in range(len(dataset)) if idx in list(train_idces)]
-            test_set = [dataset[idx] for idx in range(len(dataset)) if idx in list(test_idces)]
+        text_embedds, labels = zip(*dataset)
+        # use if-idf features if desired
+        tf_idfs = [0] * len(dataset)
+        if with_tf_idf:
+            print('Extracting TF-IDF features - Latent Semantic Analysis...')
+            tf_idfs, _, _ = dataset.vectorize_tf_idf(dataset.text, lsa_components=with_tf_idf)
+            
+        for iteration, (train_idces, test_idces) in enumerate(kf.split(text_embedds)):
+            train_set = [(*dataset[idx], tf_idfs[idx]) for idx in range(len(dataset)) if idx in list(train_idces)]
+            test_set = [(*dataset[idx], tf_idfs[idx]) for idx in range(len(dataset)) if idx in list(test_idces)]
             train_dl, test_dl = build_dataloaders(train_set, test_set, bs=batch_size)
             print('='*80)
             print(f'Evaluating on fold {iteration+1} from {_kappa}:')
@@ -111,8 +119,19 @@ def main(path_to_csv_file: str,
     
 
     else:
-        # run once for a generated random split
-        train_set, test_set = dataset.random_train_test_split()
+        text_embedds, labels = zip(*dataset)
+        # use if-idf features if desired
+        tf_idfs = [0] * len(dataset)
+        if with_tf_idf:
+            print('Extracting TF-IDF features - Latent Semantic Analysis...')
+            tf_idfs, _, _ = dataset.vectorize_tf_idf(dataset.text, lsa_components=with_tf_idf)
+            data = [(text, label, tf_idf) for text, label, tf_idf in zip(text_embedds, labels, tf_idfs)]
+        
+        # run once for a generated random split    
+        X_train, X_test, y_train, y_test, train_idces, test_idces = train_test_split(text_embedds, labels, np.arange(len(dataset)),
+            test_size=0.20, random_state=42)
+        train_set = [(*dataset[idx], tf_idfs[idx]) for idx in range(len(dataset)) if idx in list(train_idces)]
+        test_set = [(*dataset[idx], tf_idfs[idx]) for idx in range(len(dataset)) if idx in list(test_idces)]
         train_dl, test_dl = build_dataloaders(train_set, test_set, bs=batch_size)
         print('='*80)
         print(f'Training on random train-test split:')
@@ -142,6 +161,7 @@ if __name__ == "__main__":
     parser.add_argument('-dev', '--dev_freq', help='every how many epochs to evaluate', type=int, default=5)
     parser.add_argument('--k_fold', action='store_true', help='whether to evaluate with k-fold cross validation', default=False)
     parser.add_argument('--checkpoint', action='store_true', help='whether to skip dataloading', default=False)
-    
+    parser.add_argument('-tf_idf' , '--with_tf_idf', help='dimensionality of if-idf LSA componennts (0 for no tf-idf)', type=int, default=100)
+
     kwargs = vars(parser.parse_args())
     main(**kwargs)

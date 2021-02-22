@@ -5,7 +5,7 @@ import string
 
 from sklearn.metrics.pairwise import rbf_kernel as _rbf_kernel
 
-from data_loading import get_embedder
+from data_loading import get_word_embedder
 
 from typing import List 
 
@@ -58,7 +58,7 @@ def main(path_to_csv_file: str,
     # skip the data vectorization if already run once
     if not checkpoint:
         print('Loading embeddings...')
-        embedder = get_embedder(embeddings)
+        embedder = get_word_embedder(embeddings)
         text_embedds = list(map(embedder, text))
         pickle.dump(text_embedds, open(prefix + '/vectors_' + embeddings + '_' + 'similarity.p', 'wb'))
     else:

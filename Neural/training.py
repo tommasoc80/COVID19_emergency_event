@@ -31,12 +31,13 @@ def train_epoch(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: tensor
     model.train()
 
     batch_loss, batch_accu, batch_hamm_loss = 0., 0., 0.
-    for batch_idx, (x,y) in enumerate(dl):
+    for batch_idx, (x,y,t) in enumerate(dl):
         x = x.to(device)
         y = y.to(device)
+        t = t.to(device)
         
         # forward 
-        predictions = model(x)
+        predictions = model(x, t)
         loss = loss_fn(predictions, y.float())
         acc_metrics = multi_label_metrics(predictions, y)
 
@@ -57,10 +58,11 @@ def eval_epoch(model: Module, dl: DataLoader, loss_fn: tensor_map, device: str) 
     model.eval()
 
     batch_loss, batch_accu, batch_hamm_loss = 0., 0., 0.
-    for batch_idx, (x,y) in enumerate(dl):
+    for batch_idx, (x,y,t) in enumerate(dl):
         x = x.to(device)
         y = y.to(device)
-        predictions = model(x)
+        t = t.to(device)
+        predictions = model(x, t)
         loss = loss_fn(predictions, y.float())
         acc_metrics = multi_label_metrics(predictions, y)
         batch_loss += loss.item()
