@@ -6,7 +6,7 @@ import torch.nn.functional as F
 
 from transformer import positional_encoding, TransformerEncoderLayer
 
-from typing import Dict
+from typing import Dict, Optional
 
 
 # average pooling -> N-to-8 logits for binary cross-entropy
@@ -17,15 +17,15 @@ class MultiLabelBagOfEmbeddings(Module):
         self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
         self.ff = Linear(in_features=inp_dim+with_tf_idf, out_features=num_classes)
 
-    def _forward(self, x: Tensor, t: Tensor) -> Tensor:
+    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
         x[x==self.pad_id] = 0 # zero out padded values 
         pooler = x.mean(dim=1)
         out = self.ff(pooler)
         return out 
 
-    def _forward_tfIdf(self, x: Tensor, t: Tensor) -> Tensor:
+    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
         x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = torch.cat((x.mean(dim=1), t), dim=-1)
+        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1)
         out = self.ff(pooler)
         return out 
 
@@ -39,7 +39,7 @@ class MultiLabelMLP(Module):
         self.hidden = Linear(in_features=inp_dim+with_tf_idf, out_features=hidden_dim)
         self.out = Linear(in_features=hidden_dim, out_features=num_classes)
 
-    def _forward(self, x: Tensor, t: Tensor) -> Tensor:
+    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
         x[x==self.pad_id] = 0 # zero out padded values 
         pooler = x.mean(dim=1)
         h = self.hidden(pooler)
@@ -48,9 +48,9 @@ class MultiLabelMLP(Module):
         out = self.out(h)
         return out 
 
-    def _forward_tfIdf(self, x: Tensor, t: Tensor) -> Tensor:
+    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
         x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = torch.cat((x.mean(dim=1), t), dim=-1)
+        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1)
         h = self.hidden(pooler)
         h = torch.tanh(h)
         h = self.dropout(h)
@@ -60,40 +60,53 @@ class MultiLabelMLP(Module):
 
 # under construction
 class MultiLabelCNN(Module):
-    def __init__(self, num_blocks: int, num_classes: int, dropout: float):
+    def __init__(self, hidden_dim: int, num_classes: int, dropout: float, with_tf_idf: int, pad_id: int=-1):
         super().__init__()
+        self.pad_id = pad_id
         self.dropout = Dropout(p=dropout)
-        self.pooling_dim = 1024 // 2**(3+num_blocks)
-        self.cnn1 = self.conv_block(in_channels=1, out_channels=16, conv_kernel=7, pool_kernel=3, conv_stride=4)
-        self.cnns = Sequential(self.cnn1, *[self.conv_block(2**(3+block), 2**(4+block), 7, 3, 4) for block in range(1,num_blocks)])
-        self.avg_pool = AdaptiveAvgPool1d(self.pooling_dim)
-        self.ff = Linear(in_features=1024, out_features=num_classes)
         self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
+        self.block1 = self.conv_block(1, 16, 3, 3)
+        self.block2 = self.conv_block(16, 32, 3, 3)
+        self.block3 = self.conv_block(32, 64, 3, 3)
+        self.hidden = Linear(in_features=832, out_features=hidden_dim)
+        self.out = Linear(in_features=hidden_dim, out_features=num_classes)
 
-    def conv_block(self, in_channels: int, out_channels:int, conv_kernel:int, pool_kernel:int, conv_stride:int):
+    def conv_block(self, in_channels: int, out_channels:int, conv_kernel:int, pool_kernel:int, conv_stride:int=1):
         return Sequential(*[
             Conv1d(in_channels=in_channels, out_channels=out_channels, kernel_size=conv_kernel, stride=conv_stride),
             GELU(),
             MaxPool1d(kernel_size=pool_kernel)
             ])
 
-    def _forward(self, x: Tensor) -> Tensor:
-        batch_size, seq_len, embedd_dim = x.shape 
-        x = x.view(batch_size, 1, seq_len * embedd_dim)
-        feats = self.cnns(x)
-        pooler = self.avg_pool(feats).flatten(-2)
-        pooler = self.dropout(pooler)
-        out = self.ff(pooler)
-        return out
+    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
+        x[x==self.pad_id] = 0 # zero out padded values 
+        pooler = x.mean(dim=1).unsqueeze(1)
+        feats = self.block1(pooler)
+        feats = self.dropout(feats)
+        feats = self.block2(feats)
+        feats = self.dropout(feats)
+        feats = self.block3(feats)
+        feats = self.dropout(feats).flatten(1)
+        feats = self.hidden(feats)
+        feats = F.gelu(feats)
+        feats = self.dropout(feats)
+        out = self.out(feats)
+        return out 
 
-    def _forward_tfIdf(self, x: Tensor) -> Tensor:
-        batch_size, seq_len, embedd_dim = x.shape 
-        x = x.view(batch_size, 1, seq_len * embedd_dim)
-        feats = self.cnns(x)
-        pooler = self.avg_pool(feats).flatten(-2)
-        pooler = self.dropout(pooler)
-        out = self.ff(pooler)
-        return out
+    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
+        x[x==self.pad_id] = 0 # zero out padded values 
+        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1).unsqueeze(1)
+        feats = self.block1(pooler)
+        feats = self.dropout(feats)
+        feats = self.block2(feats)
+        feats = self.dropout(feats)
+        feats = self.block3(feats)
+        feats = self.dropout(feats).flatten(1)
+        feats = self.hidden(feats)
+        feats = F.gelu(feats)
+        feats = self.dropout(feats)
+        out = self.out(feats)
+        return out 
 
 
 # Bi-LSTM layers -> context vector -> N-to-8 logits for binary cross-entropy
@@ -239,7 +252,7 @@ def setup_model_kwargs(model_idx: str, kwargs: Dict[str, float]) -> Dict[str, fl
                 'dropout': kwargs['dropout'], 'with_tf_idf': kwargs['with_tf_idf']}
 
     elif model_idx == 'CNN':
-        return {'num_blocks': kwargs['num_layers'], 'num_classes': kwargs['num_classes'],
+        return {'hidden_dim': kwargs['model_dim'], 'num_classes': kwargs['num_classes'],
                 'dropout': kwargs['dropout'], 'with_tf_idf': kwargs['with_tf_idf']}
 
     else: # TRM modules

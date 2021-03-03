@@ -36,6 +36,7 @@ def cosine_similarity(X: array) -> array:
 
 
 # applies an RBF kernel over the input paragraph vectors
+# RBF(x, y) = var * exp(-gamma * |x - y|^2)
 def rbf_kernel(X: array, gamma: float=0.5, var: float=1.) -> array:
     gramm =  var * _rbf_kernel(X, gamma=gamma)
     return np.triu(gramm) # keep only upper triangular as X symmetric
