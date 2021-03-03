@@ -6,6 +6,7 @@ from torch.nn.utils.rnn import pad_sequence
 from torch.optim import AdamW, Optimizer
 
 from transformers import BertTokenizer, BertModel
+from sklearn.model_selection import KFold, train_test_split
 
 from paragraph_similarity import denoise_text
 from data_loading import vectorize_label, array
@@ -68,7 +69,7 @@ def train_epoch(model: BertForMultiLabelSequenceClassification,
             loader: DataLoader, 
             optim: Optimizer, 
             loss_fn: Module,
-            word_pad_id: int) -> Tuple[float, float, float]
+            word_pad_id: int) -> Tuple[float, float, float]:
     model.train()
     bce_loss, accu, hamm_loss = 0., 0., 0.
     for x, y in loader:
@@ -97,7 +98,7 @@ def train_epoch(model: BertForMultiLabelSequenceClassification,
 def eval_epoch(model: BertForMultiLabelSequenceClassification, 
             loader: DataLoader, 
             loss_fn: Module,
-            word_pad_id: int) -> Tuple[float, float, float]
+            word_pad_id: int) -> Tuple[float, float, float]:
     model.eval()
     bce_loss, accu, hamm_loss = 0., 0., 0.
     for x, y in loader:
@@ -146,4 +147,18 @@ def main(csv_path: str,
         sprint(f'Epoch {epoch+1}/{num_epochs}: BCE loss={train_loss:.4f}, Accuracy={train_accu*100:2.3f}, Hamming loss={train_hl*100:2.3f}')
         sprint(f'Evaluation----> BCE loss={val_loss:.4f}, Accuracy={val_accu*100:2.3f}, Hamming loss={val_hl*100:2.3f}')
         sprint()
-        
+
+
+if __name__ == "__main__":
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', '--path_to_csv_file', help='path to CSV file containing the data', type=str)
+    parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=4)
+    parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=30)
+    parser.add_argument('-c', '--num_classes', help='num of target classes', type=int, default=8)
+    parser.add_argument('-lr', '--learning_rate', help='learning rate to use for Adam optimization', type=float, default=3e-05)
+    parser.add_argument('-dr', '--dropout', help='dropout rate used for regularization', type=float, default=.1)
+    parser.add_argument('-wd', '--weight_decay', help='weight decay rate used for regularization', type=float, default=.01)
+    
+    kwargs = vars(parser.parse_args())
+    main(**kwargs)
