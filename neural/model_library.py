@@ -4,7 +4,7 @@ from torch.nn import (Module, Linear, Conv1d, LSTM, Dropout, MaxPool1d,
                     Sequential, GELU, AdaptiveAvgPool1d)
 import torch.nn.functional as F 
 
-from transformer import positional_encoding, TransformerEncoderLayer
+from neural.transformer import positional_encoding, TransformerEncoderLayer
 
 from typing import Dict, Optional
 

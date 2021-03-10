@@ -1,3 +1,8 @@
+import pandas as pd 
+import numpy as np
+from transformers import BertTokenizer, BertModel
+from sklearn.model_selection import KFold, train_test_split
+
 import torch
 from torch import Tensor, LongTensor
 from torch.nn import Module, Linear, Dropout, BCEWithLogitsLoss
@@ -5,12 +10,9 @@ from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 from torch.optim import AdamW, Optimizer
 
-from transformers import BertTokenizer, BertModel
-from sklearn.model_selection import KFold, train_test_split
-
-from paragraph_similarity import denoise_text
-from data_loading import vectorize_label, array
-from training import multi_label_metrics
+from neural.paragraph_similarity import denoise_text
+from neural.data_loading import vectorize_label, array
+from neural.training import multi_label_metrics
 
 import sys
 from typing import Tuple, List, Callable
@@ -94,7 +96,7 @@ def train_epoch(model: BertForMultiLabelSequenceClassification,
     return bce_loss/len(loader), accu/len(loader), hamm_loss/len(loader)
 
 
-@torch.no_grad
+@torch.no_grad()
 def eval_epoch(model: BertForMultiLabelSequenceClassification, 
             loader: DataLoader, 
             loss_fn: Module,
@@ -122,6 +124,7 @@ def main(csv_path: str,
          batch_size: int,
          learning_rate: float,
          weight_decay: float,
+         num_classes: int,
          dropout: float,
          num_epochs: int,
          ):
@@ -136,7 +139,7 @@ def main(csv_path: str,
     test_dl = DataLoader(list(zip(X_test, y_test)), shuffle=False, batch_size=batch_size, collate_fn=collator(tokenizer.pad_token_id))
 
     # init model, optimizer and loss funciton
-    model = BertForMultiLabelSequenceClassification(num_classes=8, core_path='bert-base-uncased', dropout=dropout).to(device)
+    model = BertForMultiLabelSequenceClassification(num_classes=num_classes, core_path='bert-base-uncased', dropout=dropout).to(device)
     optim = AdamW(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
     loss_fn = BCEWithLogitsLoss().to(device)
 
@@ -144,15 +147,15 @@ def main(csv_path: str,
     for epoch in range(num_epochs):
         train_loss, train_accu, train_hl = train_epoch(model, train_dl, optim, loss_fn, tokenizer.pad_token_id)
         val_loss, val_accu, val_hl = eval_epoch(model, test_dl, loss_fn, tokenizer.pad_token_id)
-        sprint(f'Epoch {epoch+1}/{num_epochs}: BCE loss={train_loss:.4f}, Accuracy={train_accu*100:2.3f}, Hamming loss={train_hl*100:2.3f}')
-        sprint(f'Evaluation----> BCE loss={val_loss:.4f}, Accuracy={val_accu*100:2.3f}, Hamming loss={val_hl*100:2.3f}')
-        sprint()
+        sprint(f'Epoch {epoch+1}/{num_epochs}: BCE loss={train_loss:.4f}, Accuracy={train_accu*100:2.3f}%, Hamming loss={train_hl*100:2.3f}%')
+        sprint(f'Evaluation: BCE loss={val_loss:.4f}, Accuracy={val_accu*100:2.3f}%, Hamming loss={val_hl*100:2.3f}%')
+        sprint('')
 
 
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('-p', '--path_to_csv_file', help='path to CSV file containing the data', type=str)
+    parser.add_argument('-p', '--csv_path', help='path to CSV file containing the data', type=str)
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=4)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=30)
     parser.add_argument('-c', '--num_classes', help='num of target classes', type=int, default=8)

@@ -2,15 +2,15 @@ import torch
 from torch import Tensor, LongTensor
 from torch.utils.data import DataLoader
 from torch.nn import BCEWithLogitsLoss
-from torch.optim import Adam
+from torch.optim import AdamW
 
 import pickle
 import numpy as np
 from sklearn.model_selection import KFold, train_test_split
 
-from data_loading import vectorize_dataset, build_dataloaders, EventClassesMultilabel
-from training import train_epoch, eval_epoch
-from model_library import models_dict, setup_model_kwargs
+from neural.data_loading import vectorize_dataset, build_dataloaders, EventClassesMultilabel
+from neural.training import train_epoch, eval_epoch
+from neural.model_library import models_dict, setup_model_kwargs
 
 from typing import Tuple, Optional
 
@@ -21,6 +21,7 @@ _kappa = 5 # 5-fold cross-validation]
 
 
 def main(path_to_csv_file: str, 
+        labels_version: str,
         model_idx: str,
         batch_size: int, 
         num_epochs: int, 
@@ -48,7 +49,7 @@ def main(path_to_csv_file: str,
 
         # init optimizer and loss function
         loss_fn = BCEWithLogitsLoss(reduction='mean').to(device)
-        optim = Adam(model.parameters(), lr=learning_rate, betas=[.9, .999], weight_decay=weight_decay)
+        optim = AdamW(model.parameters(), lr=learning_rate, betas=[.9, .999], weight_decay=weight_decay)
 
         early_stop_pointer, patience = 0., early_stop_patience
         metrics = (None, None, None)
@@ -84,10 +85,10 @@ def main(path_to_csv_file: str,
 
     # skip the data vectorization if already run once
     if not checkpoint:
-        dataset = vectorize_dataset(path_to_csv_file, embeddings=embeddings)
-        pickle.dump(dataset, open(prefix + '/vectors_' + embeddings + '_' + csv_name + '.p', 'wb'))
+        dataset = vectorize_dataset(path_to_csv_file, embeddings=embeddings, version=labels_version)
+        pickle.dump(dataset, open(prefix + '/vectors_' + embeddings + '_' + labels_version + '.p', 'wb'))
     else:
-        dataset = pickle.load(open(prefix + '/vectors_' + embeddings + '_' + csv_name + '.p', 'rb'))
+        dataset = pickle.load(open(prefix + '/vectors_' + embeddings + '_' + labels_version + '.p', 'rb'))
 
     if k_fold:
         # save average scores for k-fold cross validation
@@ -153,7 +154,7 @@ if __name__ == "__main__":
     parser.add_argument('-l', '--num_layers', help='depth of model', type=int, default=1)
     parser.add_argument('-H', '--num_heads', help='number of multi-attention heads for transformers', type=int, default=None)
     parser.add_argument('-c', '--num_classes', help='num of target classes', type=int, default=8)
-    parser.add_argument('-lr', '--learning_rate', help='learning rate to use for Adam optimization', type=float, default=.005)
+    parser.add_argument('-lr', '--learning_rate', help='learning rate to use for AdamW optimization', type=float, default=.005)
     parser.add_argument('-dr', '--dropout', help='dropout rate used for regularization', type=float, default=.0)
     parser.add_argument('-wd', '--weight_decay', help='weight decay rate used for regularization', type=float, default=.0)
     parser.add_argument('-emb', '--embeddings', help='what type of embedder to use for data vectorization (see code)', type=str, default='glove_lg')
@@ -162,6 +163,7 @@ if __name__ == "__main__":
     parser.add_argument('--k_fold', action='store_true', help='whether to evaluate with k-fold cross validation', default=False)
     parser.add_argument('--checkpoint', action='store_true', help='whether to skip dataloading', default=False)
     parser.add_argument('-tf_idf' , '--with_tf_idf', help='dimensionality of if-idf LSA componennts (0 for no tf-idf)', type=int, default=100)
+    parser.add_argument('-lver' , '--labels_version', help='what type of event labels to use (one-hot, binary, main-events)', type=str, default='one-hot')
 
     kwargs = vars(parser.parse_args())
     main(**kwargs)

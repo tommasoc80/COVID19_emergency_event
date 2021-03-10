@@ -1,11 +1,10 @@
 import pandas as pd 
 import numpy as np
 import pickle
-import string 
-
 from sklearn.metrics.pairwise import rbf_kernel as _rbf_kernel
 
-from data_loading import get_word_embedder
+from neural.data_loading import get_word_embedder
+from preprocessing.utils import denoise_text
 
 from typing import List 
 
@@ -15,15 +14,6 @@ array = np.array
 # aggregates features from all word vectors in paragraph by average pooling
 def bag_of_embeddings(sents: List[array]) -> array:
     return array([sent.mean(axis=0) for sent in sents])
-
-
-# some paragraphs start with: (1), (1)-, 1- etc.
-# remove this part until the actual text begins 
-def denoise_text(text):
-    noise = [sent for sent in text if sent[0] not in string.ascii_letters]
-    rest = [sent for sent in text if sent not in noise]
-    noise = [' '.join(sent.split(' ')[1:]) for sent in noise]
-    return rest + noise
 
 
 # computes cosine similarity of each paragraph vector with all other

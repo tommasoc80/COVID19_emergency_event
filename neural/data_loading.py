@@ -15,7 +15,7 @@ from typing import Tuple, Callable, List
 array = np.array
 Sentence = List[str]
 WordEmbedder = Callable[[Sentence], array]
-Sample = Tuple[array, array, array]
+Sample = Tuple[array, array]
 Samples = List[Sample]
 
 
@@ -54,8 +54,6 @@ def get_word_embedder(embeddings: str) -> WordEmbedder:
     elif embeddings == 'bert':
         embedder = bert_pretrained_embeddings()
 
-    elif embeddings == 'roberta':
-        embedder = roberta_pretrained_embeddings()
 
     else:
         raise ValueError('See data_loading.py for valid embedding options')
@@ -63,10 +61,17 @@ def get_word_embedder(embeddings: str) -> WordEmbedder:
     return embedder
 
 
-def vectorize_label(label: str, lsa_components: int=100) -> array:
+def vectorize_label(label: str) -> array:
     # convert strings of ','-seperated bits to long tensor
     bits = list(map(int, label.split(',')))
     return array(bits, dtype=np.int32)
+
+
+def int_to_one_hot(label: int, bits: int) -> array:
+    # convert an integer to one-hot representation
+    bits = np.zeros(bits)
+    bits[label] = 1
+    return bits
 
 
 def vectorize_tf_idf(text: List[str], lsa_components: int=100, ngram_range_top: int=5
@@ -87,10 +92,23 @@ def vectorize_tf_idf(text: List[str], lsa_components: int=100, ngram_range_top: 
 
 
 class EventClassesMultilabel(object):
-    def __init__(self, csv_path: str, word_embedder: WordEmbedder) -> None:
+    def __init__(self, csv_path: str, word_embedder: WordEmbedder, version: str) -> None:
         # load data from csv
         self.data = pd.read_csv(csv_path, sep=',', header=0).values.tolist()
-        self.text, self.labels = zip(*self.data)
+        self.text = [s[0] for s in self.data]
+
+        # grab the desired version of the labels
+        if version == 'one-hot':
+            self.labels = [s[1] for s in self.data]
+            self.label_embedds = list(map(vectorize_label, self.labels))
+        elif version == 'binary':
+            self.labels = [s[2] for s in self.data]
+            self.label_embedds = [int_to_one_hot(l, 2) for l in self.labels]
+        elif version == 'main-events':
+            self.labels = [s[3] for s in self.data]
+            self.label_embedds = [int_to_one_hot(l, max(self.labels)+1) for l in self.labels]
+        else:
+            raise ValueError('Please select one of the following: (one-hot, binary, main-events)')
         
         # extract tf-idf vectors for input text
         # print('Extracting TF-IDF features - Latent Semantic Analysis...')
@@ -99,7 +117,6 @@ class EventClassesMultilabel(object):
         # convert input sentences to sequences of word-label vectors
         print('Extracting word embeddings...')
         self.text_embedds = list(map(word_embedder, self.text))
-        self.label_embedds = list(map(vectorize_label, self.labels))
         
     def __getitem__(self, n: int) -> Sample:
         return (self.text_embedds[n], self.label_embedds[n])
@@ -111,8 +128,8 @@ class EventClassesMultilabel(object):
         return vectorize_tf_idf(*args, **kwargs)
 
 
-def vectorize_dataset(csv_path: str, embeddings: str) -> EventClassesMultilabel:
-    return EventClassesMultilabel(csv_path, word_embedder=get_word_embedder(embeddings))
+def vectorize_dataset(csv_path: str, embeddings: str, version: str) -> EventClassesMultilabel:
+    return EventClassesMultilabel(csv_path, word_embedder=get_word_embedder(embeddings), version=version)
 
 
 def collate_fn(pad_id: int) -> Callable[[Samples], Tuple[Tensor, LongTensor]]:
