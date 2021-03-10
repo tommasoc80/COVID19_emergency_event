@@ -10,7 +10,7 @@ from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 from torch.optim import AdamW, Optimizer
 
-from neural.paragraph_similarity import denoise_text
+from neural.paragraph_similarity import denoise_text, int_to_one_hot
 from neural.data_loading import vectorize_label, array
 from neural.training import multi_label_metrics
 
@@ -42,17 +42,25 @@ class BertForMultiLabelSequenceClassification(Module):
         return out 
 
 
-def load_data(csv_path: str, tokenizer: BertTokenizer) -> Samples:
-    text, labels = zip(*pd.read_csv(csv_path).values.tolist())
+def load_data(csv_path: str, tokenizer: BertTokenizer, version: str) -> Samples:
+    data = pd.read_csv(csv_path, sep=',', header=0).values.tolist()
+    text = [s[0] for s in data]
+
+    if version == 'one-hot':
+        labels = [vectorize_label(s[1]) for s in data]
+    elif version == 'binary':
+        labels = [int_to_one_hot(s[2], 2) for s in data]
+    elif version == 'main-events':
+        labels = [s[3] for s in data]
+        labels = [int_to_one_hot(l, max(labels)+1) for l in labels]
+    else:
+        raise ValueError('Please select one of the following: (one-hot, binary, main-events)')
     
     # remove paragraph indexing in the start of sentences
-    text = denoise_text(text)
+    # text = denoise_text(text)
 
     # tokenize input sentences
     tokens = [tokenizer.encode(sent, add_special_tokens=True) for sent in text]
-    
-    # vectorize labels  
-    labels = [vectorize_label(l) for l in labels]
 
     # return dataset
     return list(zip(tokens, labels))
