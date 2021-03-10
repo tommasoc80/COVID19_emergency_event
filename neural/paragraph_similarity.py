@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import rbf_kernel as _rbf_kernel
 from neural.data_loading import get_word_embedder
 from preprocessing.utils import denoise_text
 
-from typing import List 
+from typing import List, Optional
 
 array = np.array
 
@@ -27,12 +27,12 @@ def cosine_similarity(X: array) -> array:
 
 # applies an RBF kernel over the input paragraph vectors
 # RBF(x, y) = var * exp(-gamma * |x - y|^2)
-def rbf_kernel(X: array, gamma: float=0.5, var: float=1.) -> array:
-    gramm =  var * _rbf_kernel(X, gamma=gamma)
+def rbf_kernel(X: array, Y: Optional[array]=None, gamma: float=0.5, var: float=1.) -> array:
+    gramm =  var * _rbf_kernel(X=X, Y=Y, gamma=gamma)
     return np.triu(gramm) # keep only upper triangular as X symmetric
 
 
-def main(path_to_csv_file: str,
+def pair_sentences_in_dataset(path_to_csv_file: str,
          embeddings: str,
          checkpoint: bool,
          similarity_fn: str,
@@ -90,4 +90,4 @@ if __name__ == "__main__":
     parser.add_argument('-sim_thr', '--similarity_thresh', help='low similarity bound for grouping paragraphs', type=float, default=0.75)
     
     kwargs = vars(parser.parse_args())
-    main(**kwargs)
+    pair_sentences_in_dataset(**kwargs)

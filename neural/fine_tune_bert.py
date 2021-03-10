@@ -4,18 +4,18 @@ from transformers import BertTokenizer, BertModel
 from sklearn.model_selection import KFold, train_test_split
 
 import torch
-from torch import Tensor, LongTensor
+from torch import Tensor, LongTensor, tensor
 from torch.nn import Module, Linear, Dropout, BCEWithLogitsLoss
 from torch.utils.data import DataLoader
 from torch.nn.utils.rnn import pad_sequence
 from torch.optim import AdamW, Optimizer
 
-from neural.paragraph_similarity import denoise_text, int_to_one_hot
-from neural.data_loading import vectorize_label, array
+from neural.paragraph_similarity import denoise_text
+from neural.data_loading import vectorize_label, array, int_to_one_hot
 from neural.training import multi_label_metrics
 
 import sys
-from typing import Tuple, List, Callable
+from typing import Tuple, List, Callable, Dict
 
 Sentence = List[int]
 Sample = Tuple[Sentence, array]
@@ -69,8 +69,8 @@ def load_data(csv_path: str, tokenizer: BertTokenizer, version: str) -> Samples:
 def collator(padding_value: int) -> Callable[[Samples], Tuple[LongTensor, LongTensor]]:
     def collate_fn(batch: Samples) -> Tuple[LongTensor, LongTensor]:
         xs, ys = zip(*batch)
-        xs = pad_sequence([LongTensor(x) for x in xs], batch_first=True, padding_value=padding_value)
-        ys = torch.stack([LongTensor(y) for y in ys], dim=0)
+        xs = pad_sequence([tensor(x, dtype=torch.long) for x in xs], batch_first=True, padding_value=padding_value)
+        ys = torch.stack([tensor(y, dtype=torch.long) for y in ys], dim=0)
         return xs, ys
     return collate_fn
 
@@ -88,7 +88,7 @@ def train_epoch(model: BertForMultiLabelSequenceClassification,
         y = y.to(device)
         mask = torch.where(x.eq(word_pad_id), 0, 1)
         preds = model.forward(x, mask)
-        loss = loss_fn(preds, y.float())
+        loss = loss_fn(preds.squeeze(), y.float())
         accs = multi_label_metrics(preds, y)
 
         # back-prop
@@ -117,7 +117,7 @@ def eval_epoch(model: BertForMultiLabelSequenceClassification,
         y = y.to(device)
         mask = torch.where(x.eq(word_pad_id), 0, 1)
         preds = model.forward(x, mask)
-        loss = loss_fn(preds, y.float())
+        loss = loss_fn(preds.squeeze(), y.float())
         accs = multi_label_metrics(preds, y)
 
         # update metrics
@@ -135,10 +135,11 @@ def main(csv_path: str,
          num_classes: int,
          dropout: float,
          num_epochs: int,
+         labels_version: str
          ):
     # make and split data from csv
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    ds = load_data(csv_path, tokenizer)
+    ds = load_data(csv_path, tokenizer, labels_version)
     X_train, X_test, y_train, y_test, train_idces, test_idces = train_test_split([s[0] for s in ds], [s[1] for s in ds], 
         np.arange(len(ds)), test_size=0.20, random_state=42)
 
@@ -170,6 +171,7 @@ if __name__ == "__main__":
     parser.add_argument('-lr', '--learning_rate', help='learning rate to use for Adam optimization', type=float, default=3e-05)
     parser.add_argument('-dr', '--dropout', help='dropout rate used for regularization', type=float, default=.1)
     parser.add_argument('-wd', '--weight_decay', help='weight decay rate used for regularization', type=float, default=.01)
+    parser.add_argument('-lver' , '--labels_version', help='what type of event labels to use (one-hot, binary, main-events)', type=str, default='one-hot')
     
     kwargs = vars(parser.parse_args())
     main(**kwargs)
