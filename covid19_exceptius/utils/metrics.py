@@ -9,9 +9,9 @@ def _round(x: float) -> float:
 def get_metrics(preds: List[List[int]], labels: List[List[int]]) -> Dict[str, Any]:
     per_column_preds = list(zip(*preds))
     per_column_labels = list(zip(*labels))
-    per_column_metrics = [(f1_score(pcp, pcl, labels=['yes', 'no'], average='weighted'),
-                           recall_score(pcp, pcl, labels=['yes', 'no'], average='weighted'),
-                           precision_score(pcp, pcl, labels=['yes', 'no'], average='weighted'))
+    per_column_metrics = [(f1_score(pcp, pcl, labels=[1, 0], average='weighted'),
+                           recall_score(pcp, pcl, labels=[1, 0], average='weighted'),
+                           precision_score(pcp, pcl, labels=[1, 0], average='weighted'))
                           for pcp, pcl in zip(per_column_preds, per_column_labels)]
     f1s, ps, rs = list(zip(*per_column_metrics))
     return {'accuracy': _round(accuracy_score(array(preds), array(labels))),
