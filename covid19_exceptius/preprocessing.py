@@ -98,24 +98,10 @@ def convert_to_tsv(in_file: str, out_file_trans: str, out_file_raw: str) -> None
 
 
 def read_labeled(file_path: str) -> List[AnnotatedSentence]:
-    def parse_labeled(line: str) -> AnnotatedSentence:
-        def parse_label(label: str) -> Label:
-            return 1 if label == "True" else 0
-
-        tabs = line.strip('\n').split('\t')
-        nr, text, labels = tabs[0], tabs[1], tabs[2:]
-        return AnnotatedSentence(int(nr.strip('"')), text.strip('"'), list(map(parse_label, labels)))
-    with open(file_path, 'r') as f:
-        _ = next(f)
-        return [parse_labeled(line) for line in f]
+    data = pd.read_table(file_path).values.tolist()
+    return [AnnotatedSentence(col[0], col[1], col[2:]) for col in data]
 
 
 def read_unlabeled(file_path: str) -> List[Sentence]:
-    def parse_unlabeled(line: str) -> Sentence:
-        tabs = line.split('\t')
-        nr, text = tabs[0], tabs[1]
-        return Sentence(int(nr.strip('"')), text.strip('"'))
-
-    with open(file_path, 'r') as f:
-        _ = next(f)
-        return [parse_unlabeled(line) for line in f]
+    data = pd.read_table(file_path).values.tolist()
+    return [Sentence(col[0], col[1]) for col in data]

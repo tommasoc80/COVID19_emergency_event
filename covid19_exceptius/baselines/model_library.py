@@ -1,228 +1,95 @@
+from covid19_exceptius.types import *
+from covid19_exceptius.utils.embeddings import WordEmbedder, make_word_embedder
+from covid19_exceptius.utils.tf_idf import extract_tf_idfs, TfIdfTransform
+
+from torch.nn import Module, Linear, GRU, Dropout, GELU, Sequential
 import torch
-from torch import Tensor, LongTensor
-from torch.nn import (Module, Linear, Conv1d, LSTM, Dropout, MaxPool1d,
-                    Sequential, GELU, AdaptiveAvgPool1d)
-import torch.nn.functional as F 
-
-from neural.transformer import positional_encoding, TransformerEncoderLayer
-
-from typing import Dict, Optional
 
 
-# average pooling -> N-to-8 logits for binary cross-entropy
-class MultiLabelBagOfEmbeddings(Module):
-    def __init__(self, inp_dim: int, num_classes: int, with_tf_idf: int=0, pad_id: int=-1):
+# baseline model aggregating word-embedds and classifying with an MLP head
+class BaselineModel(Module):
+    def __init__(self, aggregator: Module, classifier: Module):
         super().__init__()
-        self.pad_id = pad_id
-        self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
-        self.ff = Linear(in_features=inp_dim+with_tf_idf, out_features=num_classes)
+        self.aggregator = aggregator
+        self.cls = classifier
 
-    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = x.mean(dim=1)
-        out = self.ff(pooler)
-        return out 
+    # optionally concat tf_idf reps to the pooled sent vectors
+    def pool(self, x: Tensor, t: Maybe[Tensor]) -> Tensor:
+        pooler = self.aggregator(x)
+        if t is not None:
+            pooler = torch.cat((pooler, t), dim=-1)
+        return pooler
 
-    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1)
-        out = self.ff(pooler)
-        return out 
+    def forward(self, inputs: Tuple[Tensor, Maybe[Tensor]]) -> Tensor:
+        x, t = inputs
+        features = self.pool(x, t)
+        return self.cls(features)
+        
 
+# a wrapper for using a baseline model in test time
+class BaselineModelTest(BaselineModel, Model):
+    def __init__(self, aggregator: Module, classifier: Module, word_embedder: WordEmbedder, 
+            device: str, tf_idf_transform: Maybe[TfIdfTransform] = None):
+        super().__init__(aggregator, classifier)
+        self.we = word_embedder 
+        self.tf_idf = tf_idf_transform
+        self.device = device
 
-# average pooling -> hidden layer -> N-to-8 logits for binary cross-entropy
-class MultiLabelMLP(Module):
-    def __init__(self, inp_dim: int, inter_dim: int, num_classes: int, dropout: float, with_tf_idf: int=0, pad_id: int=-1):
+    def embedd(self, sents: List[Sentence]) -> Tuple[Tensor, Maybe[Tensor]]:
+        text = [sent.text for sent in sents]
+        word_embedds = torch.tensor(self.we(text), dtype=torch.float, device=self.device)
+        tf_idfs = None
+        if self.tf_idf is not None:
+            tf_idfs = torch.tensor(self.tf_idf.transform(text), dtype=torch.float, device=self.device)
+        return word_embedds, tf_idfs
+
+    def predict(self, sents: List[Sentence]) -> List[str]:
+        inputs = self.embedd(sents)
+        preds = self.forward(inputs).sigmoid().round().long().cpu().tolist()
+        return list(map(preds_to_str, preds))
+
+    def predict_scores(self, sents: List[Sentence]) -> array:
+        inputs = self.embedd(sents)
+        return self.forward(inputs).sigmoid().cpu().tolist()
+        
+
+# bag of embedds aggregation with average pooling
+class BagOfEmbeddings(Module):
+    def __init__(self):
         super().__init__()
-        self.pad_id = pad_id
-        self.dropout = Dropout(p=dropout)
-        self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
-        self.hidden = Linear(in_features=inp_dim+with_tf_idf, out_features=inter_dim)
-        self.out = Linear(in_features=inter_dim, out_features=num_classes)
 
-    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = x.mean(dim=1)
-        h = self.hidden(pooler)
-        h = F.gelu(h)
-        h = self.dropout(h)
-        out = self.out(h)
-        return out 
-
-    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1)
-        h = self.hidden(pooler)
-        h = torch.tanh(h)
-        h = self.dropout(h)
-        out = self.out(h)
-        return out 
+    def forward(self, x: Tensor) -> Tensor:
+        return x.mean(dim=1).squeeze() # B, S, D -> B, D
 
 
-# under construction
-class MultiLabelCNN(Module):
-    def __init__(self, hidden_dim: int, num_classes: int, dropout: float, with_tf_idf: int, pad_id: int=-1):
+# bi-GRU contextualization as aggregator
+class RNNContext(Module):
+    def __init__(self, inp_dim: int, hidden_dim: int):
         super().__init__()
-        self.pad_id = pad_id
-        self.dropout = Dropout(p=dropout)
-        self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
-        self.block1 = self.conv_block(1, 16, 3, 3)
-        self.block2 = self.conv_block(16, 32, 3, 3)
-        self.block3 = self.conv_block(32, 64, 3, 3)
-        self.hidden = Linear(in_features=832, out_features=hidden_dim)
+        self.rnn = GRU(input_size=inp_dim, hidden_size=hidden_dim, num_layers=1, batch_first=True, bidirectional=True)
+
+    def forward(self, x: Tensor) -> Tensor:
+        dh = self.rnn.hidden_size
+        h, _ = self.rnn(x)
+        context = torch.cat((h[:, -1, :dh], h[:, 0, dh:]), dim=-1)
+        return context 
+
+
+# 2-layer MLP head for classification
+class MLPHead(Module):
+    def __init__(self, inp_dim: int, hidden_dim: int, num_classes: int, dropout: float):
+        super().__init__()
+        self.dropout = Dropout(dropout)
+        self.hidden = Linear(in_features=inp_dim, out_features=hidden_dim)
         self.out = Linear(in_features=hidden_dim, out_features=num_classes)
-
-    def conv_block(self, in_channels: int, out_channels:int, conv_kernel:int, pool_kernel:int, conv_stride:int=1):
-        return Sequential(*[
-            Conv1d(in_channels=in_channels, out_channels=out_channels, kernel_size=conv_kernel, stride=conv_stride),
-            GELU(),
-            MaxPool1d(kernel_size=pool_kernel)
-            ])
-
-    def _forward(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = x.mean(dim=1).unsqueeze(1)
-        feats = self.block1(pooler)
-        feats = self.dropout(feats)
-        feats = self.block2(feats)
-        feats = self.dropout(feats)
-        feats = self.block3(feats)
-        feats = self.dropout(feats).flatten(1)
-        feats = self.hidden(feats)
-        feats = F.gelu(feats)
-        feats = self.dropout(feats)
-        out = self.out(feats)
-        return out 
-
-    def _forward_tfIdf(self, x: Tensor, t: Optional[Tensor]=None) -> Tensor:
-        x[x==self.pad_id] = 0 # zero out padded values 
-        pooler = torch.cat((x.mean(dim=1), torch.tanh(t)), dim=-1).unsqueeze(1)
-        feats = self.block1(pooler)
-        feats = self.dropout(feats)
-        feats = self.block2(feats)
-        feats = self.dropout(feats)
-        feats = self.block3(feats)
-        feats = self.dropout(feats).flatten(1)
-        feats = self.hidden(feats)
-        feats = F.gelu(feats)
-        feats = self.dropout(feats)
-        out = self.out(feats)
-        return out 
-
-
-# Bi-LSTM layers -> context vector -> N-to-8 logits for binary cross-entropy
-class MultiLabelLSTM(Module):
-    def __init__(self, inp_dim: int, 
-                    hidden_dim: int,
-                    inter_dim: int, 
-                    num_layers: int, 
-                    num_classes: int, 
-                    dropout: float, 
-                    with_tf_idf: int=0):
-        super().__init__()
-        self.num_layers = num_layers
-        self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
-        self.lstm = LSTM(input_size=inp_dim, hidden_size=hidden_dim, num_layers=num_layers, batch_first=True, bidirectional=True)
-        self.ff = Linear(in_features=2*hidden_dim + with_tf_idf, out_features=inter_dim)
-        self.cls = Linear(in_features=inter_dim, out_features=num_classes)
-        self.dropout = Dropout(p=dropout)
-
-    def _forward(self, x: Tensor, t: Tensor) -> Tensor:
-        hiddens, _ = self.lstm(x)
-        context = torch.cat((hiddens[:,-1,:self.lstm.hidden_size], hiddens[:,0,self.lstm.hidden_size:]), dim=-1)
-        context = self.dropout(context)
-        out = self.ff(context)
-        out = self.dropout(out)
-        out = self.cls(out) 
-        return out
-
-    def _forward_tfIdf(self, x: Tensor, t: Tensor) -> Tensor:
-        hiddens, _ = self.lstm(x)
-        context = torch.cat((hiddens[:,-1,:self.lstm.hidden_size], hiddens[:,0,self.lstm.hidden_size:]), dim=-1)
-        context = self.dropout(torch.cat((context, torch.tanh(t)), dim=-1))
-        out = self.ff(context) 
-        out = self.dropout(out)
-        out = self.cls(out) 
-        return out
-
-
-# Transformer Encoder -> average pooling -> N-to-8 logits for binary cross-entropy
-class MultiLabelTransformer(Module):
-    def __init__(self, inp_dim: int, model_dim: int, num_heads: int, num_layers: int, num_classes: int, pwff_dim: int, 
-        dropout: float, pad_id: int=-1, with_tf_idf: int=0):
-        super().__init__()
-        self.forward = self._forward if not with_tf_idf else self._forward_tfIdf
-        self.encoder = Sequential(*[TransformerEncoderLayer(model_dim, inp_dim, num_heads, pwff_dim, dropout) for _ in range(num_layers)])
-        self.ff = Linear(in_features=model_dim + with_tf_idf, out_features=num_classes)
-        self.dropout = Dropout(p=dropout)
-        self.pad_id = pad_id
-
-    def _forward(self, x: Tensor, t: Tensor) -> Tensor:
-        # we assume word ids are already embedded in vectors
-        batch_size, seq_len, embedd_dim = x.shape
-        padding_mask = (x!=self.pad_id).sum(dim=-1).bool().unsqueeze(1).repeat(1, seq_len, 1).long().to(x.device)
-        x = x + positional_encoding(batch_size, seq_len, embedd_dim, device=x.device)
-        pooler = self.encoder((x, padding_mask))[0].mean(dim=1)
-        pooler = self.dropout(pooler)
-        out = self.ff(pooler)
-        return out
-
-    def _forward_tfIdf(self, x: Tensor, t: Tensor) -> Tensor:
-        # we assume word ids are already embedded in vectors
-        batch_size, seq_len, embedd_dim = x.shape
-        padding_mask = (x!=self.pad_id).sum(dim=-1).bool().unsqueeze(1).repeat(1, seq_len, 1).long().to(x.device)
-        x = x + positional_encoding(batch_size, seq_len, embedd_dim, device=x.device)
-        pooler = self.encoder((x, padding_mask))[0].mean(dim=1)
-        pooler = self.dropout(torch.cat((pooler, v), dim=-1))
-        out = self.ff(pooler)
-        return out
-
-
-# Transformer Encoder + Bi-LSTM contextualization -> N-to-8 logits for binary cross-entropy
-class MultiLabelTransformerWithContextLast(Module):
-    def __init__(self, inp_dim: int, model_dim: int, num_heads: int, num_layers: int, num_classes: int, pwff_dim: int, 
-        dropout: float, pad_id: int=-1):
-        super().__init__()
-        self.pad_id = pad_id
-        self.encoder = Sequential(*[TransformerEncoderLayer(model_dim, inp_dim, num_heads, pwff_dim, dropout) for _ in range(num_layers)])
-        self.lstm = LSTM(input_size=model_dim, hidden_size=model_dim//2, num_layers=1, batch_first=True, bidirectional=True)
-        self.ff = Linear(in_features=model_dim, out_features=num_classes)
-        self.dropout = Dropout(p=dropout)
+        self.gelu = GELU()
 
     def forward(self, x: Tensor) -> Tensor:
-        batch_size, seq_len, embedd_dim = x.shape
-        padding_mask = (x!=self.pad_id).sum(dim=-1).bool().unsqueeze(1).repeat(1, seq_len, 1).long().to(x.device)
-        x = x + positional_encoding(batch_size, seq_len, embedd_dim, device=x.device)
-        x = self.encoder((x,padding_mask))[0]
+        x = self.hidden(x)
+        x = self.gelu(x)
         x = self.dropout(x)
-        x, _ = self.lstm(x)
-        context = torch.cat((x[:,-1,:self.lstm.hidden_size], x[:,0,self.lstm.hidden_size:]), dim=-1)
-        context = self.dropout(context)
-        out = self.ff(context)
-        return out
+        return self.out(x)
 
-
-# Bi-LSTM contextualization + Transformer Encoder -> N-to-8 logits for binary cross-entropy
-class MultiLabelTransformerWithContextFirst(Module):
-    def __init__(self, inp_dim: int, model_dim: int, num_heads: int, num_layers: int, num_classes: int, pwff_dim: int, 
-        dropout: float, pad_id: int=-1):
-        super().__init__()
-        self.pad_id = pad_id
-        self.encoder = Sequential(*[TransformerEncoderLayer(model_dim, inp_dim, num_heads, pwff_dim, dropout) for _ in range(num_layers)])
-        self.lstm = LSTM(input_size=inp_dim, hidden_size=inp_dim//2, num_layers=1, batch_first=True, bidirectional=True)
-        self.ff = Linear(in_features=inp_dim, out_features=num_classes)
-        self.dropout = Dropout(p=dropout)
-
-    def forward(self, x: Tensor) -> Tensor:
-        batch_size, seq_len, embedd_dim = x.shape
-        padding_mask = (x!=self.pad_id).sum(dim=-1).bool().unsqueeze(1).repeat(1, seq_len, 1).long().to(x.device)
-        x, _ = self.lstm(x)
-        x = x + positional_encoding(batch_size, seq_len, embedd_dim, device=x.device)
-        x = self.encoder((x,padding_mask))[0]
-        context = torch.cat((x[:,-1,:self.lstm.hidden_size], x[:,0,self.lstm.hidden_size:]), dim=-1)
-        context = self.dropout(context)
-        out = self.ff(context)
-        return out
 
 
 models_dict = {
