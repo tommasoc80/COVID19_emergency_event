@@ -43,10 +43,9 @@ class BaselineModelTest(BaselineModel, Model):
             tf_idfs = torch.tensor(self.tf_idf.transform(text), dtype=torch.float, device=self.device)
         return word_embedds, tf_idfs
 
-    def predict(self, sents: List[Sentence]) -> List[str]:
+    def predict(self, sents: List[Sentence]) -> List[int]:
         inputs = self.embedd(sents)
-        preds = self.forward(inputs).sigmoid().round().long().cpu().tolist()
-        return list(map(preds_to_str, preds))
+        return self.forward(inputs).sigmoid().round().long().cpu().tolist()
 
     def predict_scores(self, sents: List[Sentence]) -> array:
         inputs = self.embedd(sents)
