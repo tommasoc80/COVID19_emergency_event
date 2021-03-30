@@ -8,7 +8,7 @@ from torch.nn.utils.rnn import pad_sequence as _pad_sequence
 from transformers import AutoModel, AutoTokenizer
 
 
-class BERTLike(Module, Model):
+class Bertoid(Module, Model):
     def __init__(self, name: str, model_dim: int = 768, dropout_rate: float = 0.5, 
             max_length: Maybe[int] = None, token_name: Maybe[str] = None):
         super().__init__()
@@ -77,25 +77,25 @@ def make_unlabeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> Lis
     return [tokenize_unlabeled(tweet, tokenizer, **kwargs) for tweet in read_unlabeled(path)]
 
 
-def make_model(name: str) -> BERTLike:
+def make_model(name: str) -> Bertoid:
     # todo: find all applicable models
     if name == 'del-covid':
-        return BERTLike(name='digitalepidemiologylab/covid-twitter-bert-v2', model_dim=1024)
+        return Bertoid(name='digitalepidemiologylab/covid-twitter-bert-v2', model_dim=1024)
     elif name == 'vinai-covid':
-        return BERTLike(name='vinai/bertweet-covid19-base-cased', max_length=128)
+        return Bertoid(name='vinai/bertweet-covid19-base-cased', max_length=128)
     
     # multi-lingual models
     elif name == 'multi-bert':
-        return BERTLike(name='bert-base-multilingual-cased')
+        return Bertoid(name='bert-base-multilingual-cased')
     elif name == 'multi-xlm':
-        return BERTLike(name='xlm-roberta-base')
+        return Bertoid(name='xlm-roberta-base')
     elif name == 'multi-xnli':
-        return BERTLike(name='joeddav/xlm-roberta-large-xnli', model_dim=1024)
+        return Bertoid(name='joeddav/xlm-roberta-large-xnli', model_dim=1024)
     elif name == 'multi-microsoft':
-        return BERTLike(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base')
+        return Bertoid(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base')
     elif name == 'multi-sentiment':
-        return BERTLike(name='socialmediaie/TRAC2020_ALL_C_bert-base-multilingual-uncased')
+        return Bertoid(name='socialmediaie/TRAC2020_ALL_C_bert-base-multilingual-uncased')
     elif name == 'multi-toxic':
-        return BERTLike(name='unitary/multilingual-toxic-xlm-roberta')
+        return Bertoid(name='unitary/multilingual-toxic-xlm-roberta')
     else:
         raise ValueError(f'unknown name {name}')

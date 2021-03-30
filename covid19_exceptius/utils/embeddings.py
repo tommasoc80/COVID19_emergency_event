@@ -1,4 +1,4 @@
-from ...types import *
+from covid19_exceptius.types import *
 from ..bert import *
 import torch
 
