@@ -3,6 +3,7 @@ from covid19_exceptius.bertoids.bert import *
 from covid19_exceptius.utils.training import train_epoch, eval_epoch
 
 from torch import manual_seed, save
+from torch.nn import BCEWithLogitsLoss
 
 from warnings import filterwarnings
 from adabelief_pytorch import AdaBelief
@@ -47,9 +48,7 @@ def main(name: str,
         test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size,
                           collate_fn=lambda batch: collate_tuples(batch, model.tokenizer.pad_token_id), shuffle=False)
 
-    #class_weights = tensor([0.6223, 12.6667,  1.0594,  2.9561,  2.0473,  3.4653,  1.6374], device=device)
     criterion = BCEWithLogitsLoss()
-    #criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
     optimizer = AdaBelief(model.parameters(), lr=1e-05, weight_decay=weight_decay, print_change_log=False)
 
     train_log, dev_log, test_log = [], [], []
