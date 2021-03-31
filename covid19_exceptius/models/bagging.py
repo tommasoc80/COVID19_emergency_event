@@ -6,8 +6,8 @@ from torch.nn import Module, Linear, GRU, Dropout, GELU, Sequential
 import torch
 
 
-# baseline model aggregating word-embedds and classifying with an MLP head
-class BaselineModel(Module):
+# bagging model aggregating word-embedds and classifying with an MLP head
+class BaggingModel(Module):
     def __init__(self, aggregator: Module, classifier: Module):
         super().__init__()
         self.aggregator = aggregator
@@ -26,8 +26,8 @@ class BaselineModel(Module):
         return self.cls(features)
         
 
-# a wrapper for using a baseline model in test time
-class BaselineModelTest(BaselineModel, Model):
+# a wrapper for using a bagging model in test time
+class BaggingModelTest(BaggingModel, Model):
     def __init__(self, aggregator: Module, classifier: Module, word_embedder: WordEmbedder, 
             device: str, tf_idf_transform: Maybe[TfIdfTransform] = None):
         super().__init__(aggregator, classifier)
@@ -76,7 +76,7 @@ class RNNContext(Module):
 
 # 2-layer MLP head for classification
 class MLPHead(Module):
-    def __init__(self, inp_dim: int, hidden_dim: int, num_classes: int, dropout: float):
+    def __init__(self, inp_dim: int, hidden_dim: int, num_classes: int, dropout: float = 0.33):
         super().__init__()
         self.dropout = Dropout(dropout)
         self.hidden = Linear(in_features=inp_dim, out_features=hidden_dim)
@@ -90,6 +90,15 @@ class MLPHead(Module):
         return self.out(x)
 
 
+
+def make_model(name: str, kwargs: Dict) -> BaggingModel:
+    if name == 'BoE':
+        _agg = BagOfEmbeddings()
+        if kwargs['hidden_dim'] is not None:
+            _cls = MLPHead(kwargs['inp_dim'], kwargs['hidden_dim'], kwargs['num_classes'])
+        else:
+            _cls = Linear(kwargs['inp_dim'], kwargs['num_classes'])
+        return BaggingModel(aggregator=_agg, classifier=_cls)
 
 models_dict = {
     'BoE'  : MultiLabelBagOfEmbeddings,

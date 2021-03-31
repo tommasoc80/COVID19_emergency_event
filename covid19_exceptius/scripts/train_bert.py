@@ -1,12 +1,12 @@
 from covid19_exceptius.types import *
-from covid19_exceptius.bertoids.bert import *
+from covid19_exceptius.models.bert import *
 from covid19_exceptius.utils.training import train_epoch, eval_epoch
 
 from torch import manual_seed, save
+from torch.optim import AdamW
 from torch.nn import BCEWithLogitsLoss
 
 from warnings import filterwarnings
-from adabelief_pytorch import AdaBelief
 import sys
 import os
 
@@ -49,7 +49,7 @@ def main(name: str,
                           collate_fn=lambda batch: collate_tuples(batch, model.tokenizer.pad_token_id), shuffle=False)
 
     criterion = BCEWithLogitsLoss()
-    optimizer = AdaBelief(model.parameters(), lr=1e-05, weight_decay=weight_decay, print_change_log=False)
+    optimizer = AdamW(model.parameters(), lr=1e-05, weight_decay=weight_decay)
 
     train_log, dev_log, test_log = [], [], []
     best = 0.
