@@ -8,7 +8,7 @@ TfIdfTransform = Pipeline
 
 def extract_tf_idfs(text: List[str],
         word_ngram_range: Tuple[int, int] = (2, 5),
-        char_ngram_range: Tuple[int, int] = (3, 8),
+        char_ngram_range: Tuple[int, int] = (3, 7),
         lsa_components: int = 100):
     print(f'{lsa_components} LSA components.')
 
@@ -22,8 +22,8 @@ def extract_tf_idfs(text: List[str],
     lsa = TruncatedSVD(n_components=lsa_components, random_state=0)
 
     # fit transformation pipeline into text
-    tf = Pipeline([('feature_extraction': features),
-                   ('latent_semantic_analysis': lsa)]).fit(text)
+    tf = Pipeline([('feature_extraction', features),
+                   ('latent_semantic_analysis', lsa)]).fit(text)
 
     # return embeds but also the transform to use in test-time
     return tf.transform(text).astype('float32'), tf

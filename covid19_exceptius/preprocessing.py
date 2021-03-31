@@ -97,6 +97,21 @@ def convert_to_tsv(in_file: str, out_file_trans: str, out_file_raw: str) -> None
             g.write('\n')
 
 
+def write_to_tsv(out_file: str, data: List[AnnotatedSentence]):
+    header = '\t'.join(['id', 'text', *['event' + str(i) for i in range(1,9)]])
+    with open(out_file, 'w+') as f:
+        f.write(header)
+        f.write('\n')
+        for i, sample in enumerate(data):
+            text = sample.text.replace('"','')
+            labels = sample.labels  
+            assert len([l for l in labels if type(l) == bool]) == len(labels), (i, sample)
+            write = '\t'.join([_str(i), _str(text), *list(map(_str, labels))])
+            assert len(write.split('\t')) == 2 + len(labels)
+            f.write(write)
+            f.write('\n') 
+
+
 def read_labeled(file_path: str) -> List[AnnotatedSentence]:
     data = pd.read_table(file_path).values.tolist()
     return [AnnotatedSentence(col[0], col[1], col[2:]) for col in data]

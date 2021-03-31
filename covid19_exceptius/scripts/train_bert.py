@@ -66,7 +66,8 @@ def main(name: str,
         return (train_log, dev_log, test_log), best
 
 
-    save_path = '/'.join([save_path, name])
+    datatag = '_'.join(data_path.split('/')[-1].split('.')[0].split('_')[1:])
+    save_path = '/'.join([save_path, '_'.join([name, datatag])])
     if not os.path.isdir(save_path):
         os.mkdir(save_path)
 
@@ -108,7 +109,7 @@ if __name__ == "__main__":
     parser.add_argument('-p', '--data_path', help='path to the data tsv', type=str, default='./nlp4ifchallenge/data/english/covid19_disinfo_binary_english_train.tsv')
     parser.add_argument('-tst', '--test_path', help='path to the testing data tsv', type=str, default='')
     parser.add_argument('-d', '--device', help='cpu or cuda', type=str, default='cuda')
-    parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=32)
+    parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=7)
     parser.add_argument('-s', '--save_path', help='where to save best model', type=str, default=f'{SAVE_PREFIX}/nlp4ifchallenge/checkpoints')
     parser.add_argument('-wd', '--weight_decay', help='weight decay to use for regularization', type=float, default=1e-02)

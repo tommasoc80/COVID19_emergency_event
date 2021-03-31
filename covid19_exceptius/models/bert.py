@@ -1,7 +1,7 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_labeled, read_unlabeled
 
-from torch import tensor, long, stack
+from torch import tensor, stack
 from torch.nn import Module, Linear, Dropout
 from torch.nn.utils.rnn import pad_sequence as _pad_sequence
 
@@ -50,16 +50,12 @@ def pad_sequence(xs: List[Tensor], padding_value: int) -> Tensor:
     return _pad_sequence(xs, batch_first=True, padding_value=padding_value)
 
 
-def longt(x: Any) -> Tensor:
-    return tensor(x, dtype=long)
-
-
 def tokenize_text(text: str, tokenizer: AutoTokenizer, **kwargs) -> Tensor:
-    return longt(tokenizer.encode(text, truncation=True, **kwargs))
+    return tensor(tokenizer.encode(text, truncation=True, **kwargs), dtype=longt)
 
 
 def tokenize_labels(labels: List[Label]) -> Tensor:
-    return longt([0 if label is False or label is None else 1 for label in labels])
+    return tensor([0 if label is False or label is None else 1 for label in labels], dtype=longt)
 
 
 def tokenize_unlabeled(sent: Sentence, tokenizer: AutoTokenizer, **kwargs) -> Tensor:

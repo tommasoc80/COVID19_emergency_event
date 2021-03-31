@@ -1,5 +1,4 @@
 from covid19_exceptius.types import *
-from covid19_exceptius.bertoids.bert import Bertoid
 import torch
 
 WordEmbedder = Callable[[Sentence], array]
@@ -9,15 +8,18 @@ WordEmbedder = Callable[[Sentence], array]
 def glove_embeddings(version: str) -> WordEmbedder:
     import spacy
     _glove = spacy.load(f'en_core_web_{version}') 
-    def embedd(sents: Sentences) -> array:
-        sents_proc = [_glove(sent) for sent in sents]
-        return array([word.vector for word in sent] for sent in sents_proc)
-    return embedd
+    def embedd(sent: Sentence) -> array:
+        sent_proc = _glove(sent)
+        return array([word.vector for word in sent_proc])
+    def embedd_many(sents: List[Sentence]) -> List[array]:
+        return list(map(embedd, sents))
+    return embedd_many
 
 
 # last hidden layer representations of a pre-trained BERT encoder
 @torch.no_grad()
 def frozen_bert_embeddings(name: str, **kwargs) -> WordEmbedder:
+    from covid19_exceptius.models.bert import Bertoid
     model = Bertoid(name=name, **kwargs)
     def embedd(sents: Sentences) -> array:
         tokens = stack(model.tensorize_labeled(sents))

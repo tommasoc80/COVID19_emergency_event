@@ -6,9 +6,9 @@ from abc import ABC
 from torch import Tensor, LongTensor
 from torch.optim import Optimizer
 from torch.utils.data import DataLoader
-import numpy as np 
-
-array = np.array 
+from torch import long as longt 
+from torch import float as floatt
+from numpy import array
 
 Label = bool
 
