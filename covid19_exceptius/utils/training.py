@@ -2,6 +2,7 @@ from covid19_exceptius.types import *
 from covid19_exceptius.utils.metrics import get_metrics
 
 import torch
+from torch.nn import Module
 
 
 def train_epoch(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module, device: str) -> Dict[str, Any]:

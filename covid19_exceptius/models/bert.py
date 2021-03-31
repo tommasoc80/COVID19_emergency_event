@@ -10,7 +10,7 @@ from transformers import AutoModel, AutoTokenizer
 
 class Bertoid(Module, Model):
     def __init__(self, name: str, model_dim: int = 768, num_classes: int = 8,
-            dropout_rate: float = 0.5, max_length: Maybe[int] = None, 
+            dropout_rate: float = 0.33, max_length: Maybe[int] = None, 
             token_name: Maybe[str] = None):
         super().__init__()
         self.token_name = name if token_name is None else token_name
@@ -78,23 +78,25 @@ def make_unlabeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> Lis
     return [tokenize_unlabeled(sent, tokenizer, **kwargs) for sent in read_unlabeled(path)]
 
 
-def make_model(name: str) -> Bertoid:
+def make_model(name: str, **kwargs) -> Bertoid:
     # todo: find all applicable models
     if name == 'eng-bert':
-        return Bertoid(name='bert-base-uncased')
+        return Bertoid(name='bert-base-uncased', **kwargs)
+    elif name == 'eng-legal':
+        return Bertoid(name='nlpaueb/legal-bert-base-uncased', **kwargs)
 
     # multi-lingual models
     elif name == 'mbert':
-        return Bertoid(name='bert-base-multilingual-cased')
-    elif name == 'mbert-xlm':
-        return Bertoid(name='xlm-roberta-base')
+        return Bertoid(name='bert-base-multilingual-cased', **kwargs)
+    elif name == 'xlm':
+        return Bertoid(name='xlm-roberta-base', **kwargs)
     elif name == 'mbert-xnli':
-        return Bertoid(name='joeddav/xlm-roberta-large-xnli', model_dim=1024)
+        return Bertoid(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
     elif name == 'mbert-microsoft':
-        return Bertoid(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base')
+        return Bertoid(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
     elif name == 'mbert-sentiment':
-        return Bertoid(name='socialmediaie/TRAC2020_ALL_C_bert-base-multilingual-uncased')
+        return Bertoid(name='socialmediaie/TRAC2020_ALL_C_bert-base-multilingual-uncased', **kwargs)
     elif name == 'mbert-toxic':
-        return Bertoid(name='unitary/multilingual-toxic-xlm-roberta')
+        return Bertoid(name='unitary/multilingual-toxic-xlm-roberta', **kwargs)
     else:
         raise ValueError(f'unknown name {name}')
