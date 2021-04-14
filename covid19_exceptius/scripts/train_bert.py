@@ -13,6 +13,7 @@ import sys
 import os
 
 SAVE_PREFIX = '/data/s3913171'
+LANGS = ['uk', 'belgium', 'hungary', 'poland', 'france', 'netherlands']
 
 
 def sprint(s: str) -> None:
@@ -29,6 +30,17 @@ def main(name: str,
        weight_decay: float,
        save_path: str,
        kfold: int):
+
+    # concat all lang text for training
+    def merge_data(langs: List[str], mode: str) -> List[AnnotatedSentence]:
+        if mode == 'multi':
+            paths = ['./annotations' + lang + '/annotations_' + lang + '.tsv' for lang in langs]
+        elif mode == 'translations':
+            paths = ['./annotations' + lang + '/annotations_' + lang + '_eng.tsv' for lang in langs]
+        ds = []
+        for path in paths:
+            ds.append(read_labeled(path))
+        return ds
 
     # an independent function to train once over desired num of epochs
     def train(train_ds: List[AnnotatedSentence], dev_ds: List[AnnotatedSentence], test_ds: Maybe[List[AnnotatedSentence]]) -> Tuple[List[Dict[str, Any]], int]:
@@ -55,8 +67,8 @@ def main(name: str,
             if dev_log[-1]['accuracy'] > dev_log[best]['accuracy']:
                 best = epoch
                 faith = array([c['f1'] for c in dev_log[-1]['column_wise']])
-                save(
-                    {'faith': faith, 'model_state_dict': model.state_dict()}, f'{save_path}/model.p')
+                #save(
+                #    {'faith': faith, 'model_state_dict': model.state_dict()}, f'{save_path}/model.p')
                 # eval on test set for each new best model
                 if test_ds is not None:
                     test_log.append(eval_epoch(model, test_dl, criterion, device))
@@ -107,7 +119,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--name', help='name of the BERT model to load', type=str)
-    parser.add_argument('-p', '--data_path', help='path to the data tsv', type=str, default='./nlp4ifchallenge/data/english/covid19_disinfo_binary_english_train.tsv')
+    parser.add_argument('-p', '--data_path', help='path to the data tsv', type=str, default='')
     parser.add_argument('-tst', '--test_path', help='path to the testing data tsv', type=str, default='')
     parser.add_argument('-d', '--device', help='cpu or cuda', type=str, default='cuda')
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)
