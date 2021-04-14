@@ -1,0 +1,25 @@
+(k-fold)		TRANSLATIONS (BERT-LEGAL)	MULTILINGUAL (mBERT)
+
+UK				60.24				66.7						
+POL				68.4				78.9
+BEL				54.88				52.22
+FRA				 -				72.31
+HUN				61.28				66.14
+NLD				59.81				 ()
+(ITA)				74.21				 ()
+FULL				61.6				65.8
+
+
+THATS SENT-ACCURACY SCORES. EVENT-ACCURACIES ALWAYS >94%. AVERAGED F1_SCORES >94%, PRECISIONS >93%, RECALLS >94% (at hungarian we got 88.9%)
+
+
+
+(exclude-test 
+per lang)
+
+UK				49.49				37.3
+POL				58.23				45.45
+BEL				31.56				49.49
+FRA				-				39.12
+HUN				50.40				44.6
+NLD				54.13				59
