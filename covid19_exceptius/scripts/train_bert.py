@@ -82,7 +82,8 @@ def main(name: str,
         test_ds = read_labeled(test_path) if test_path != '' else None 
         logs, best = train(train_ds, dev_ds, test_ds)
         sprint('Results random split:')
-        sprint(logs[1][best])
+        sprint(f' best dev: {logs[1][best]}')
+        sprint(f' best test: {logs[2][best]}')
     
     else:
         # k-fold cross validation
