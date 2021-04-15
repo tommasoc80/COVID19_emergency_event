@@ -180,3 +180,10 @@ def read_labeled(file_path: str, num_labels: int = 8) -> List[AnnotatedSentence]
 def read_unlabeled(file_path: str) -> List[Sentence]:
     data = pd.read_table(file_path).values.tolist()
     return [Sentence(col[0], col[1]) for col in data]
+
+
+def extract_class_weights(ds: List[AnnotatedSentence]) -> List[float]:
+    labels_per_q = list(zip(*[s.labels for s in ds]))
+    qs_neg = [[label for label in q if label == False] for q in labels_per_q]
+    qs_pos = [[label for label in q if label == True] for q in labels_per_q]
+    return [len(n) / len(p) for n, p in zip(qs_neg, qs_pos)]
