@@ -61,7 +61,7 @@ class BagOfEmbeddings(Module):
         super().__init__()
 
     def forward(self, x: Tensor) -> Tensor:
-        return x.mean(dim=1).squeeze() # B, S, D -> B, D
+        return x.mean(dim=1) # B, S, D -> B, D
 
 
 # bi-GRU contextualization as aggregator

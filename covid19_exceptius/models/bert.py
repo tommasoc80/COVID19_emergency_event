@@ -37,9 +37,8 @@ class Bertoid(Module, Model):
 
     def predict(self, sents: List[Sentence]) -> List[str]:
         tensorized = pad_sequence(self.tensorize_unlabeled(sents), padding_value=self.tokenizer.pad_token_id)
-        preds = self.forward(tensorized).sigmoid().round().long().cpu().tolist()
-        return [preds_to_str(sample) for sample in preds]
-
+        return self.forward(tensorized).sigmoid().round().long().cpu().tolist()
+        
 
 def collate_tuples(pairs: List[Tuple[Tensor, Tensor]], padding_value: int) -> Tuple[Tensor, Tensor]:
     xs, ys = list(zip(*pairs))

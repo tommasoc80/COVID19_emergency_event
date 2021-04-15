@@ -13,7 +13,7 @@ import sys
 import os
 
 SAVE_PREFIX = '/data/s3913171'
-LANGS = ['uk', 'belgium', 'hungary', 'poland', 'france', 'netherlands']
+LANGS = ['belgium', 'uk',]
 
 
 def sprint(s: str) -> None:
@@ -33,13 +33,15 @@ def main(name: str,
 
     # concat all lang text for training
     def merge_data(langs: List[str], mode: str) -> List[AnnotatedSentence]:
-        if mode == 'multi':
-            paths = ['./annotations' + lang + '/annotations_' + lang + '.tsv' for lang in langs]
+        if mode == 'multilingual':
+            paths = ['./annotations/' + lang + '/annotations_' + lang + '.tsv' for lang in langs]
         elif mode == 'translations':
-            paths = ['./annotations' + lang + '/annotations_' + lang + '_eng.tsv' for lang in langs]
+            paths = ['./annotations/' + lang + '/annotations_' + lang + '_eng.tsv' for lang in langs]
+        else:
+            raise ValueError(f'unknown data version {mode}')
         ds = []
         for path in paths:
-            ds.append(read_labeled(path))
+            ds.extend(read_labeled(path))
         return ds
 
     # an independent function to train once over desired num of epochs
@@ -88,7 +90,12 @@ def main(name: str,
 
     if not kfold:
         # 80-20 random train-dev split
-        ds = read_labeled(data_path)
+        if data_path != '':
+            print('edo')
+            ds = read_labeled(data_path)
+        else:
+            mode = 'translations' if 'eng' in name else 'multilingual'
+            ds = merge_data(LANGS, mode=mode)
         dev_size = int(.2 * len(ds))
         train_ds, dev_ds = random_split(ds, [len(ds) - dev_size, dev_size])    
         test_ds = read_labeled(test_path) if test_path != '' else None 

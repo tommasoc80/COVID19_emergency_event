@@ -55,12 +55,11 @@ def main(embeddings: str,
             _, tf_idf_transform = extract_tf_idfs([s.text for s in train_ds], lsa_components=with_tf_idf)
 
         train_dl = DataLoader(tensorize_labeled(train_ds, we, tf_idf_transform), batch_size=batch_size,
-                              collate_fn=lambda batch: collate_tuples(batch, model.tokenizer.pad_token_id), shuffle=True)
+                              collate_fn=collate_tuples, shuffle=True)
         dev_dl = DataLoader(tensorize_labeled(dev_ds, we, tf_idf_transform), batch_size=batch_size,
-                              collate_fn=lambda batch: collate_tuples(batch, model.tokenizer.pad_token_id), shuffle=False)
+                              collate_fn=collate_tuples, shuffle=False)
         test_dl = DataLoader(tensorize_labeled(test_ds, we, tf_idf_transform), batch_size=batch_size,
-                              collate_fn=lambda batch: collate_tuples(batch, model.tokenizer.pad_token_id), 
-                              shuffle=False) if test_ds is not None else None
+                              collate_fn=collate_tuples, shuffle=False) if test_ds is not None else None
         
         train_log, dev_log, test_log = [], [], []
         best = 0

@@ -2,6 +2,7 @@ from covid19_exceptius.types import *
 
 import string
 import pandas as pd
+import numpy as np
 from collections import Counter 
 
 
@@ -13,7 +14,7 @@ def denoise_text(text: List[Sentence]) -> List[Sentence]:
     noise = [' '.join(sent.strip().split(' ')[1:]) for sent in noise]
     return rest + noise
 
-
+# 
 # take original labels e.g.'(1,0,1,0,0,0,0,0)' and generate
 # binary versions: 0->No Event, 1-> Some Event and
 # main_event_versions: 0 -> No_Event, 1,...,5->Main_event, 6->Mixed events
@@ -38,8 +39,8 @@ def refine_labels(csv_path: str, write_path: str, num_main_events: int=5) -> Non
             f.write('\n')
 
 
-# merge English translation annotations to a single csv
-def merge_english_csv(csv_paths: List[str], append_path: str) -> None:
+# merge annotations to a single tsv
+def merge_tsvs(tsv_paths: List[str], append_path: str) -> None:
     text, labels = [], []
     # list all english translations from all csv, as well as their
     # 8 type event annotations
@@ -60,41 +61,100 @@ def merge_english_csv(csv_paths: List[str], append_path: str) -> None:
 
 
 def _str(s: Any):
-    return '"' + str(s) + '"'
+    if type(s) == str:
+        return s 
+    else:
+        return 'nan'
+
+
+def nan_to_zero(seq: List[Any]) -> List[float]:
+    return [1. if type(x) == str else 0. if np.isnan(x) else x for x in seq]
+
+
+# parse subevent annotation to transfer to main type event
+def parse_subevents(header: str, data: List[List[Any]]) -> List[List[List[Any]]]:
+    sub_idces = [i for i, c in enumerate(header) if c.startswith('SUB')]
+    num_events = len([c for c in header if c.startswith('TYPE')])
+    pointers = {k: [] for k in range(1, 1 + num_events)}
+    for i in sub_idces:
+        pointer = int(header[i].split('SUBTYPEVENT')[1][0])
+        pointers[pointer].append(i)
+    sub_events = [[[d[x] for x in pointers[i]] for i in range(1, 1 + num_events)] for d in data]
+    sub_events = [list(map(nan_to_zero, se)) for se in sub_events]
+    sub_events = [[bool(sum(seq)) for seq in se] for se in sub_events]
+    return sub_events
+
+
+# parse data from original xlsx files (first saved as csv)
+def parse_from_xlsx(in_file: str) -> Tuple[List[Any], ...]:
+    with open(in_file, 'r+') as f:
+        header = f.readlines()[0].strip('\n').split(',')
+    data = pd.read_csv(in_file).values.tolist()
+
+    # sort cols according to header, also to the data table 
+    sorted_cols = sorted(range(len(header)), key=lambda k: header[k]) 
+    header = [header[c] for c in sorted_cols]
+    data = [[d[c] for c in sorted_cols] for d in data]
+    
+    sen_ids = [_str(d[header.index('SENID')]) for d in data]
+    text_or = ([d[header.index('LEGAL_TEXT_OR')] for d in data])
+    text_en = ([d[header.index('LEGAL TEXT_EN')] for d in data])
+    
+    col_events = [i for i, c in enumerate(header) if c.startswith('TYPEVENT')]
+    events = [[bool(d[c]) for c in col_events] for i, d in enumerate(data)]
+
+    # transfer subevents annotations to main events with logical or
+    sub_events = parse_subevents(header, data)
+    events = [[x or y for x, y in zip(e, se)] for e, se in zip(events, sub_events)]
+    
+    return sen_ids, text_or, text_en, events, header
+
+
+# remove non string row enties and strip newlines entangled with text
+def remove_junk(text: List[str]) -> Tuple[List[str], List[int]]:
+    removed_idces = []; res = []
+    for i, t in enumerate(text):
+        if type(t) != str:
+            removed_idces.append(i)
+            continue
+        else:
+            # strip junk characters
+            if '\t' in t:
+                t = t.replace('\t', '')
+            if '"' in t:
+                t = t.replace('"', '')
+            if '\n' in t:
+                t = t.replace('\n', '')
+            res.append(t)
+    return res, removed_idces
 
 
 # convert original csv files to desired tsv format
 def convert_to_tsv(in_file: str, out_file_trans: str, out_file_raw: str) -> None:
-    header = '\t'.join(['id', 'text', *['event' + str(i) for i in range(1,9)]])
-    data = pd.read_csv(in_file)
-
-    valid_ids_trans = [i for i, s in enumerate(list(data['LEGAL TEXT_EN'])) if type(s) == str]
-    valid_ids_raw = [i for i, s in enumerate(list(data['LEGAL_TEXT_OR'])) if type(s) == str]
-    valid_ids = set(valid_ids_trans).intersection(set(valid_ids_raw))
-
-    text_trans = [s for i, s in enumerate(list(data['LEGAL TEXT_EN'])) if i in valid_ids]
-    text_raw = [s for i, s in enumerate(list(data['LEGAL_TEXT_OR'])) if i in valid_ids]
-    labels = [[q for i, q in enumerate(list(data['TYPEVENT' + str(j)])) if i in valid_ids] for j in range(1,9)]
+    ids, text_or, text_en, events, header = parse_from_xlsx(in_file)
+    text_en, removed_idces_en = remove_junk(text_en)
+    text_or, removed_idces_or = remove_junk(text_or)
+    ids_or = [_id for i, _id in enumerate(ids) if i not in removed_idces_or]
+    ids_en = [_id for i, _id in enumerate(ids) if i not in removed_idces_en]
+    events_en = [e for i, e in enumerate(events) if i not in removed_idces_en]
+    events_or = [e for i, e in enumerate(events) if i not in removed_idces_or]
+    assert len(text_or) == len(events_or) == len(ids_or)
+    assert len(text_en) == len(events_en) == len(ids_en)
+    
+    strings_or = ['\t'.join([_id, t, *list(map(str, e))]) for _id, t, e in zip(ids_or, text_or, events_or)]
+    strings_en = ['\t'.join([_id, t, *list(map(str, e))]) for _id, t, e in zip(ids_en, text_en, events_en)]
 
     # create translations tsv
-    with open(out_file_trans, 'a+') as f:
-        f.write(header)
+    with open(out_file_trans, 'w+') as f:
+        f.write('\t'.join(['id', 'text', *['event' + str(i) for i in range(1, 1 + len(events[0]))]]))
         f.write('\n')
-        for _id, (txt, l1, l2, l3, l4, l5, l6, l7, l8) in enumerate(zip(text_trans, *labels)):
-            write = '\t'.join([_str(_id), _str(txt), _str(l1), _str(l2), _str(l3), _str(l4), \
-                _str(l5), _str(l6), _str(l7), _str(l8)])
-            f.write(write)
-            f.write('\n')
+        f.write('\n'.join(strings_en))
 
     # create original text tsv
-    with open(out_file_raw, 'a+') as g:
-        g.write(header)
+    with open(out_file_raw, 'w+') as g:
+        g.write('\t'.join(['id', 'text', *['event' + str(i) for i in range(1, 1 + len(events[0]))]]))
         g.write('\n')
-        for _id, (txt, l1, l2, l3, l4, l5, l6, l7, l8) in enumerate(zip(text_raw, *labels)):
-            write = '\t'.join([_str(_id), _str(txt), _str(l1), _str(l2), _str(l3), _str(l4), \
-                _str(l5), _str(l6), _str(l7), _str(l8)])
-            g.write(write)
-            g.write('\n')
+        g.write('\n'.join(strings_or))
 
 
 def write_to_tsv(out_file: str, data: List[AnnotatedSentence]):
