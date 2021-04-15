@@ -172,9 +172,9 @@ def write_to_tsv(out_file: str, data: List[AnnotatedSentence]):
             f.write('\n') 
 
 
-def read_labeled(file_path: str) -> List[AnnotatedSentence]:
+def read_labeled(file_path: str, num_labels: int = 8) -> List[AnnotatedSentence]:
     data = pd.read_table(file_path).values.tolist()
-    return [AnnotatedSentence(col[0], col[1], col[2:]) for col in data]
+    return [AnnotatedSentence(col[0], col[1], col[2 : num_labels + 2]) for col in data]
 
 
 def read_unlabeled(file_path: str) -> List[Sentence]:

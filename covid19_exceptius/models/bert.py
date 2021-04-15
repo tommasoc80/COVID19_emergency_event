@@ -10,7 +10,7 @@ from transformers import AutoModel, AutoTokenizer
 
 class Bertoid(Module, Model):
     def __init__(self, name: str, model_dim: int = 768, num_classes: int = 8,
-            dropout_rate: float = 0.33, max_length: Maybe[int] = None, 
+            dropout_rate: float = 0.5, max_length: Maybe[int] = None, 
             token_name: Maybe[str] = None):
         super().__init__()
         self.token_name = name if token_name is None else token_name
@@ -40,9 +40,9 @@ class Bertoid(Module, Model):
         return self.forward(tensorized).sigmoid().round().long().cpu().tolist()
         
 
-def collate_tuples(pairs: List[Tuple[Tensor, Tensor]], padding_value: int) -> Tuple[Tensor, Tensor]:
+def collate_tuples(pairs: List[Tuple[Tensor, Tensor]], padding_value: int, device: str) -> Tuple[Tensor, Tensor]:
     xs, ys = list(zip(*pairs))
-    return pad_sequence(xs, padding_value), stack(ys)
+    return pad_sequence(xs, padding_value).to(device), stack(ys).to(device)
 
 
 def pad_sequence(xs: List[Tensor], padding_value: int) -> Tensor:
