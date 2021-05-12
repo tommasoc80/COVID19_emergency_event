@@ -3,7 +3,11 @@ from covid19_exceptius.types import *
 import string
 import pandas as pd
 import numpy as np
+from random import sample, seed
+from math import ceil
 from collections import Counter 
+
+seed(42)
 
 
 # some paragraphs start with: (1), (1)-, 1- etc.
@@ -72,7 +76,7 @@ def nan_to_zero(seq: List[Any]) -> List[float]:
 
 
 # parse subevent annotation to transfer to main type event
-def parse_subevents(header: str, data: List[List[Any]]) -> List[List[List[Any]]]:
+def parse_subevents(header: str, data: List[List[Any]]) -> List[List[float]]:
     sub_idces = [i for i, c in enumerate(header) if c.startswith('SUB')]
     num_events = len([c for c in header if c.startswith('TYPE')])
     pointers = {k: [] for k in range(1, 1 + num_events)}
@@ -187,3 +191,16 @@ def extract_class_weights(ds: List[AnnotatedSentence]) -> List[float]:
     qs_neg = [[label for label in q if label == False] for q in labels_per_q]
     qs_pos = [[label for label in q if label == True] for q in labels_per_q]
     return [len(n) / len(p) for n, p in zip(qs_neg, qs_pos)]
+
+
+def split_train_dev_test(ds: List[AnnotatedSentence], 
+        sizes: Tuple[float, float, float] = (.8, .1, .1)) -> Tuple[List[AnnotatedSentence], ...]:
+    train_size, dev_size, test_size = sizes
+    dev_size = ceil(dev_size * len(ds))
+    test_size = ceil(test_size * len(ds))
+    train_size = len(ds) - dev_size - test_size
+    train = sample(ds, train_size)
+    rest = [s for s in ds if s not in train]
+    dev = sample(ds, dev_size)
+    test = [s for s in rest if s not in dev]
+    return train, dev, test

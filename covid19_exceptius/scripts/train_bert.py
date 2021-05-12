@@ -3,7 +3,7 @@ from covid19_exceptius.preprocessing import *
 from covid19_exceptius.models.bert import make_model, collate_tuples
 from covid19_exceptius.utils.training import Trainer
 
-from torch import manual_seed, save, tensor
+from torch import manual_seed, tensor
 from torch.optim import AdamW
 from torch.nn import Module, BCEWithLogitsLoss
 from torch.utils.data import random_split
@@ -22,7 +22,7 @@ manual_seed(42)
 filterwarnings('ignore')
 
 
-def sprint(s: str) -> None:
+def sprint(s: Any) -> None:
     print(s)
     sys.stdout.flush()
 
@@ -109,14 +109,14 @@ def main(name: str,
             optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
             class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
             criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
-            trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy', print_log=print_log)
+            trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
             
             best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path)
-            sprint(f'Results {kfold}-fold, iteration {iteration}:')
+            sprint(f'Results {kfold}-fold, iteration {iteration + 1}:')
             sprint(f' best dev: {best}')
             if test_dl is not None:
                 sprint(f' best test: {trainer.logs["test"][-1]}')
-                accu += trainer.logs["test"][-1]['event_accuracy']
+                accu += trainer.logs["test"][-1]['event_accuracy_label']
         sprint(f'Overall test accuracy {kfold}-fold: {accu/kfold}')
 
 
