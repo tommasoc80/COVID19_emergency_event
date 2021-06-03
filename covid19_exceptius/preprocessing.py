@@ -186,6 +186,12 @@ def read_unlabeled(file_path: str) -> List[Sentence]:
     return [Sentence(col[0], col[1]) for col in data]
 
 
+def read_raw(file_path: str) -> List[Sentence]:
+    with open(file_path, 'r') as f:
+        lines = [l.split('\t')[0] for l in f]
+    return [Sentence(no=i, text=l) for i, l in enumerate(lines)]
+
+
 def extract_class_weights(ds: List[AnnotatedSentence]) -> List[float]:
     labels_per_q = list(zip(*[s.labels for s in ds]))
     qs_neg = [[label for label in q if label == False] for q in labels_per_q]
@@ -201,6 +207,6 @@ def split_train_dev_test(ds: List[AnnotatedSentence],
     train_size = len(ds) - dev_size - test_size
     train = sample(ds, train_size)
     rest = [s for s in ds if s not in train]
-    dev = sample(ds, dev_size)
+    dev = sample(rest, dev_size)
     test = [s for s in rest if s not in dev]
     return train, dev, test

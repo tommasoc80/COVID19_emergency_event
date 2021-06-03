@@ -15,8 +15,7 @@ import os
 
 
 SAVE_PREFIX = '/data/s3913171'
-LANGS = ['belgium', 'uk', 'poland', 'france', 'italy', 'netherlands',
-         'norway', 'hungary']
+LANGS = 'belgium,poland,france,italy,netherlands,norway,hungary,uk'
 
 manual_seed(42)
 filterwarnings('ignore')
@@ -38,7 +37,9 @@ def main(name: str,
        kfold: int,
        max_length: int,
        print_log: bool,
-       with_class_weights: bool):
+       with_class_weights: bool,
+       adaptation: bool):
+    languages = languages.split(',')
 
     # concat all lang text for training
     def merge_data(langs: List[str], version: str) -> List[AnnotatedSentence]:
@@ -55,22 +56,47 @@ def main(name: str,
             os.mkdir(save_path)
     else:
         save_path = None
+    sprint(f'Full save path: {save_path}')
 
-    # get appropriate data  
-    sprint(f'Training on {languages}...')
-    sprint(f'Testing on {test_lang}...') if test_lang != '' else sprint('Not testing...')
-    test_ds = None
-    if test_lang != '':
-        languages.remove(test_lang)
-        test_ds = read_unlabeled()
-    ds = merge_data(languages, version)
+    # if we want to evaluate language adaptation
+    if adaptation:
+        # get appropriate data  
+        test_ds = None
+        if test_lang != '':
+            languages.remove(test_lang)
+            test_ds = read_labeled('./annotations/' + test_lang + '/full_' + version + '.tsv')
+            test_ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in test_ds]
+        sprint(f'Training on {languages}...')
+        sprint(f'Testing on {test_lang}...') if test_lang != '' else sprint('Not testing...')
+
+        ds = merge_data(languages, version)
+        ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in ds]
+
+    # using standard train-dev-test splits
+    else:
+        dss = {}
+        dss['train'] = read_labeled('annotations/all_train_or.tsv')
+        dss['dev'] = read_labeled('annotations/all_dev_or.tsv')
+        dss['test'] = None
+        if test_lang != '':
+            dss['test'] = read_labeled('./annotations/' + test_lang + '/test_' + version + '.tsv')
+        
+        dss = {k: [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in v] if v is not None else None for k, v in dss.items()}
+        sprint(f'Training on train splits of all languages...')
+        sprint(f'Testing on {test_lang}...') if test_lang != '' else sprint('Not testing...')
+
 
     if not kfold:
         model = make_model(name, max_length=max_length).to(device)
         
-        # random 80%-20% train-dev split
-        dev_size = int(.2 * len(ds))
-        train_ds, dev_ds = random_split(ds, [len(ds) - dev_size, dev_size])    
+        if adaptation:
+            # random 80%-20% train-dev split
+            dev_size = int(.2 * len(ds))
+            train_ds, dev_ds = random_split(ds, [len(ds) - dev_size, dev_size])  
+        
+        else:
+            train_ds, dev_ds, test_ds = dss['train'], dss['dev'], dss['test']
+
         train_dl = DataLoader(model.tensorize_labeled(train_ds), batch_size=batch_size, 
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device), shuffle=True)
         dev_dl = DataLoader(model.tensorize_labeled(dev_ds), batch_size=batch_size, 
@@ -79,11 +105,11 @@ def main(name: str,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
         optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
-        class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
+        #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
         criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
         trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
 
-        best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path)
+        best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path+'/model.p' if save_path is not None else None)
         sprint('Results random split:')
         sprint(f' best dev: {best}')
         if test_dl is not None:
@@ -107,11 +133,11 @@ def main(name: str,
                 collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
             optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
-            class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
+            #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
             criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
             trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
             
-            best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path)
+            best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path+'/model.p' if save_path is not None else None)
             sprint(f'Results {kfold}-fold, iteration {iteration + 1}:')
             sprint(f' best dev: {best}')
             if test_dl is not None:
@@ -124,7 +150,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--name', help='name of the BERT model to load', type=str)
-    parser.add_argument('-l', '--languages', help='what languages to train on (given as list)', type=List[str], default=LANGS)
+    parser.add_argument('-l', '--languages', help='what languages to train on (separated by ,)', type=str, default=LANGS)
     parser.add_argument('-tst', '--test_lang', help='what language to test on', type=str, default='')
     parser.add_argument('-d', '--device', help='cpu or cuda', type=str, default='cuda')
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)
@@ -135,6 +161,7 @@ if __name__ == "__main__":
     parser.add_argument('-kfold', '--kfold', help='k-fold cross validation', type=int, default=0)
     parser.add_argument('--print_log', action='store_true', help='print training logs', default=False)
     parser.add_argument('--with_class_weights', action='store_true', help='compute class weights for loss penalization', default=False)
+    parser.add_argument('--adaptation', action='store_true', help='do language adaptation experiment', default=False)
     
     kwargs = vars(parser.parse_args())
     main(**kwargs)
