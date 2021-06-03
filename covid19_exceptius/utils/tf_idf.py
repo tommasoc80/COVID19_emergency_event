@@ -7,9 +7,9 @@ TfIdfTransform = Pipeline
 
 
 def extract_tf_idfs(text: List[str],
-        word_ngram_range: Tuple[int, int] = (2, 5),
-        char_ngram_range: Tuple[int, int] = (3, 7),
-        lsa_components: int = 100):
+                    word_ngram_range: Tuple[int, int] = (2, 5),
+                    char_ngram_range: Tuple[int, int] = (3, 7),
+                    lsa_components: int = 100):
     print(f'{lsa_components} LSA components.')
 
     # extract tf-idf ngram features for each sentence in both word and char lvl    

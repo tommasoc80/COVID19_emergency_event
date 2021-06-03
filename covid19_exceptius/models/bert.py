@@ -1,27 +1,28 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_labeled, read_unlabeled
-from covid19_exceptius.utils.masker import get_masker, Masker
+from covid19_exceptius.utils.masker import get_masker
 
 from torch import tensor, stack, load
-from torch.nn import Module, Linear, Dropout
+from torch.nn import Module, Linear, Dropout, Sequential, LayerNorm
 from torch.nn.utils.rnn import pad_sequence as _pad_sequence
 
 from transformers import AutoModel, AutoTokenizer
 
 
 class BertoidLM(Module):
-    def __init__(self, name: str, max_length: Maybe[int] = None, token_name: Maybe[str] = None,
-                 dropout_rate: float = 0., model_dim: int = 768):
+    def __init__(self, name: str, max_length: Maybe[int] = None, token_name: Maybe[str] = None, model_dim: int = 768):
         super().__init__()
         self.token_name = name if token_name is None else token_name
         self.core = AutoModel.from_pretrained(name)
         self.tokenizer = AutoTokenizer.from_pretrained(self.token_name, use_fast=False)
         self.max_length = max_length
-        self.dropout = Dropout(dropout_rate)
-        self.head = Linear(model_dim, self.tokenizer.vocab_size)
+        self.head = Sequential(Linear(model_dim, model_dim),
+                               LayerNorm(model_dim, eps=1e-05),
+                               Linear(model_dim, self.tokenizer.vocab_size)
+                              )
         self.masker = get_masker(self.tokenizer)
 
-    def tensorize_and_mask(self, sents: List[Sentence]) -> List[Tuple[Tensor, ...]]:
+    def tokenize_and_mask(self, sents: List[Sentence]) -> List[Tuple[Tensor, ...]]:
         def to_longt(seq: List[int]) -> Tensor:
             return [tensor(s, dtype=longt) for s in seq]
         
@@ -32,7 +33,7 @@ class BertoidLM(Module):
     def forward(self, x: Tensor, mlm_mask: Tensor) -> Tensor:
         attention_mask = x.ne(self.tokenizer.pad_token_id)
         hidden, _ = self.core(x, attention_mask, output_hidden_states=False, return_dict=False)
-        return hidden[mlm_mask == 1]
+        return self.head(hidden[mlm_mask == 1])
         
 
 class BertoidSentClassification(Module, Model):

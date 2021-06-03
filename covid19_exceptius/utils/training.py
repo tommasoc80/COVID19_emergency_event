@@ -5,7 +5,32 @@ from torch.nn import Module
 import torch
 
 
-def train_epoch(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module) -> Dict[str, Any]:
+def train_epoch_mlm(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module) -> Dict[str, Any]:
+    model.train()
+    epoch_loss = 0.
+    for x, y, m in enumerate(dl):
+        predictions = model.forward(x, m)
+        loss = loss_fn(predictions, y[m])
+        loss.backward()
+        optim.step()
+        optim.zero_grad()
+        epoch_loss += loss.item()
+    return {'MLMloss': round(epoch_loss/len(dl), 5)}
+
+
+@torch.no_grad()
+def eval_epoch_mlm(model: Module, dl: DataLoader, loss_fn: Module) -> Dict[str, Any]:
+    model.eval()
+    epoch_loss = 0.
+    for x, y, m in enumerate(dl):
+        # forward
+        predictions = model.forward(x, m)
+        loss = loss_fn(predictions, y[m])
+        epoch_loss += loss.item()
+    return {'MLMLoss': round(epoch_loss/len(dl), 5)}
+
+
+def train_epoch_supervised(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module) -> Dict[str, Any]:
     model.train()
 
     epoch_loss = 0.
@@ -31,7 +56,7 @@ def train_epoch(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module
 
 
 @torch.no_grad()
-def eval_epoch(model: Module, dl: DataLoader, loss_fn: Module) -> Dict[str, Any]:
+def eval_epoch_supervised(model: Module, dl: DataLoader, loss_fn: Module) -> Dict[str, Any]:
     model.eval()
 
     epoch_loss = 0.
@@ -59,7 +84,8 @@ class Trainer(ABC):
             criterion: Module, 
             target_metric: str,
             print_log: bool = True,
-            early_stopping: int = 0):
+            early_stopping: int = 0,
+            pretrain: bool = True):
         self.model = model
         self.optimizer = optimizer
         self.criterion = criterion
@@ -69,6 +95,8 @@ class Trainer(ABC):
         self.trained_epochs = 0
         self.print_log = print_log
         self.early_stop_patience = early_stopping if early_stopping >0 else None
+        self.train_fn = train_epoch_mlm if pretrain else train_epoch_supervised
+        self.eval_fn = eval_epoch_mlm if pretrain else eval_epoch_supervised
 
     def iterate(self, num_epochs: int, with_test: Maybe[DataLoader] = None, with_save: Maybe[str] = None) -> Dict[str, Any]:
         best = {self.target_metric: 0.}
@@ -85,7 +113,7 @@ class Trainer(ABC):
                     torch.save(self.model.state_dict(), with_save)
 
                 if with_test is not None:
-                    self.logs['test'].append({'epoch': epoch+1, **eval_epoch(self.model, with_test, self.criterion)})
+                    self.logs['test'].append({'epoch': epoch+1, self.eval_fn(self.model, with_test, self.criterion)})
 
             else:
                 patience -= 1
@@ -99,8 +127,8 @@ class Trainer(ABC):
         current_epoch = len(self.logs['train']) + 1
 
         # train - eval this epoch
-        self.logs['train'].append({'epoch': current_epoch, **train_epoch(self.model, self.train_dl, self.optimizer, self.criterion)})
-        self.logs['dev'].append({'epoch': current_epoch, **eval_epoch(self.model, self.dev_dl, self.criterion)})
+        self.logs['train'].append({'epoch': current_epoch, **self.train_epoch()})
+        self.logs['dev'].append({'epoch': current_epoch, **self.eval_epoch()})
         
         # print if wanted
         if self.print_log:
@@ -112,3 +140,9 @@ class Trainer(ABC):
             for k,v in self.logs['dev'][-1].items():
                 print(f'{k} : {v}')
             print('==' * 72)
+
+    def train_epoch(self):
+        return self.train_fn(self.model, self.train_dl, self.optimizer, self.criterion)
+
+    def eval_epoch(self):
+        return self.eval_fn(self.model, self.dev_dl, self.criterion)
