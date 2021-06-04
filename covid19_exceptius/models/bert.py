@@ -1,6 +1,6 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_labeled, read_unlabeled
-from covid19_exceptius.utils.masker import get_masker
+from covid19_exceptius.utils.masker import get_masker, Masker
 
 from torch import tensor, stack, load
 from torch.nn import Module, Linear, Dropout, Sequential, LayerNorm
@@ -36,7 +36,7 @@ class BertoidLM(Module):
     def forward(self, x: Tensor, mlm_mask: Tensor) -> Tensor:
         attention_mask = x.ne(self.tokenizer.pad_token_id)
         hidden, _ = self.core(x, attention_mask, output_hidden_states=False, return_dict=False)
-        return self.head(hidden[mlm_mask == 1])
+        return self.head(hidden[mlm_mask == 1, :])
         
 
 class BertoidSentClassification(Module, Model):
@@ -71,8 +71,16 @@ class BertoidSentClassification(Module, Model):
         return self.forward(tensorized).sigmoid().round().long().cpu().tolist()
 
 
+def collate_with_mask(tokens: List[Sequence[int]], mask_fn: Masker, padding_value: int, device: str) -> Tuple[Tensor, ...]:
+    masked_tokens, tokens, mask_ids = zip(*list(map(mask_fn, tokens)))
+    return (pad_sequence(masked_tokens, padding_value).to(device), 
+            pad_sequence(tokens, padding_value).to(device), 
+            pad_sequence(mask_ids, -1).to(device))
+    
+
 def collate_tuples(pairs: List[Tuple[Tensor, ...]], padding_values: Tuple[int], device: str) -> Tuple[Tensor, ...]:
     zipped = zip(*pairs)
+    assert len(zipped) = len(padding_values)
     return tuple([pad_sequence(tens, pad).to(device) for tens, pad in zip(zipped, padding_values)])
 
 

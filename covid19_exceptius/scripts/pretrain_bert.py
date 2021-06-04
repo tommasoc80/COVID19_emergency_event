@@ -1,6 +1,6 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_tokenized
-from covid19_exceptius.models.bert import make_mlm_model, collate_tuples
+from covid19_exceptius.models.bert import make_mlm_model, collate_with_mask
 from covid19_exceptius.utils.training import Trainer
 
 from torch import manual_seed
@@ -35,9 +35,11 @@ def main(name: str,
          checkpoint: bool,
          save_path: Maybe[str]):
 
+    sprint('Loading model...')
     model = make_mlm_model(name, max_length=max_length).to(device)
 
     # get data from checkpoint if wanted
+    sprint('Preparing data...')
     if not checkpoint:
         from covid19_exceptius.models.bert import make_pretrain_dataset
 
@@ -53,22 +55,23 @@ def main(name: str,
         test_ds = read_tokenized(os.path.join(data_root, 'test', 'full.txt'))
 
     pad_id = model.tokenizer.pad_token_id
-    train_dl = DataLoader(model.mask(train_ds), shuffle=True, batch_size=batch_size, worker_init_fn=SEED,
-                          collate_fn = lambda b: collate_tuples(b, padding_values=[pad_id, pad_id, -1], device=device))
-    dev_dl = DataLoader(model.mask(dev_ds), shuffle=False, batch_size=batch_size, worker_init_fn=SEED,
-                          collate_fn = lambda b: collate_tuples(b, padding_values=[pad_id, pad_id, -1], device=device))
-    test_dl = DataLoader(model.mask(test_ds), shuffle=True, batch_size=batch_size, worker_init_fn=SEED,
-                          collate_fn = lambda b: collate_tuples(b, padding_values=[pad_id, pad_id, -1], device=device))
+    train_dl = DataLoader(train_ds, shuffle=True, batch_size=batch_size, worker_init_fn=SEED,
+                          collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
+    dev_dl = DataLoader(dev_ds, shuffle=False, batch_size=batch_size, worker_init_fn=SEED,
+                          collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
+    test_dl = DataLoader(test_ds, shuffle=True, batch_size=batch_size, worker_init_fn=SEED,
+                          collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
 
     optim = AdamW(model.parameters(), lr=learning_rate, weight_decay=weight_decay)
     criterion = CrossEntropyLoss(reduction='mean', ignore_index=pad_id).to(device)
 
+    sprint(f'Training for {num_epochs} epochs...')
     trainer = Trainer(model, [train_dl, dev_dl, test_dl], optim, criterion, target_metric='MLMLoss', print_log=print_log,
                       early_stopping=early_stopping, pretrain=True)
 
     best = trainer.iterate(num_epochs, with_save=save_path)
     sprint(f'Results best dev set: {best}')
-    sprint(f'Results test set: {trainer.logs['test'][-1]}')
+    sprint(f'Results test set: {trainer.logs["test"][-1]}')
 
 
 if __name__ == "__main__":
@@ -85,6 +88,7 @@ if __name__ == "__main__":
     parser.add_argument('-wd', '--weight_decay', help='weight decay to use for regularization', type=float, default=1e-02)
     parser.add_argument('-len', '--max_length', help='truncate to maximum sentence length', type=int, default=256)
     parser.add_argument('--print_log', action='store_true', help='print training logs', default=False)
+    parser.add_argument('--checkpoint', action='store_true', help='load already tokenized data from checkpoint', default=False)
     
     kwargs = vars(parser.parse_args())
     main(**kwargs)

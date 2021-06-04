@@ -8,7 +8,7 @@ import torch
 def train_epoch_mlm(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module) -> Dict[str, Any]:
     model.train()
     epoch_loss = 0.
-    for x, y, m in enumerate(dl):
+    for x, y, m in dl:
         predictions = model.forward(x, m)
         loss = loss_fn(predictions, y[m])
         loss.backward()
@@ -22,7 +22,7 @@ def train_epoch_mlm(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Mo
 def eval_epoch_mlm(model: Module, dl: DataLoader, loss_fn: Module) -> Dict[str, Any]:
     model.eval()
     epoch_loss = 0.
-    for x, y, m in enumerate(dl):
+    for x, y, m in dl:
         # forward
         predictions = model.forward(x, m)
         loss = loss_fn(predictions, y[m])
