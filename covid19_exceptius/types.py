@@ -34,3 +34,6 @@ class Model(ABC):
 
     def predict_scores(self, tweets: List[Sentence]) -> array:
         ...
+
+
+Tokenizer = Map[str, Sequence[int]]

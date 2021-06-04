@@ -1,5 +1,6 @@
 from covid19_exceptius.types import *
 
+import os
 import string
 import pandas as pd
 import numpy as np
@@ -210,3 +211,25 @@ def split_train_dev_test(ds: List[AnnotatedSentence],
     dev = sample(rest, dev_size)
     test = [s for s in rest if s not in dev]
     return train, dev, test
+
+
+def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: str):
+    # load all text
+    countries = [os.path.join(root, f) for f in os.listdir(root) if os.path.isdir(f)]
+    files = sum([[os.path.join(country, f) for f in  os.listdir(country) if f.endswith('txt')] for country in countries], [])
+    all_lines = []
+    for file in files:
+        with open(file, 'w') as f:
+            all_lines.extend([l.split('\t')[0] for l in (line.strip() for line in f) if l])
+
+
+    # tokenize lines and shuffle
+    all_lines = list(map(tokenizer, all_lines))
+    all_lines = sample(all_lines, len(all_lines))
+
+    # concat sentences in single line with max len 256
+
+    # write to file
+    to_strings = [' '.join(list(map(str, line))) for line in all_lines]
+    with open(save_path + '/full.txt', 'w') as f:
+        f.write('\n'.join(to_strings))
