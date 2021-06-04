@@ -1,6 +1,6 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import *
-from covid19_exceptius.models.bert import make_model, collate_tuples
+from covid19_exceptius.models.bert import make_classification_model, collate_tuples
 from covid19_exceptius.utils.training import Trainer
 
 from torch import manual_seed, tensor
@@ -87,7 +87,7 @@ def main(name: str,
 
 
     if not kfold:
-        model = make_model(name, max_length=max_length).to(device)
+        model = make_classification_model(name, max_length=max_length).to(device)
         
         if adaptation:
             # random 80%-20% train-dev split
@@ -107,9 +107,9 @@ def main(name: str,
         optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
         #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
         criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
-        trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
+        trainer = Trainer(model, (train_dl, dev_dl, test_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
 
-        best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path+'/model.p' if save_path is not None else None)
+        best = trainer.iterate(num_epochs, with_save=save_path+'/model.p' if save_path is not None else None)
         sprint('Results random split:')
         sprint(f' best dev: {best}')
         if test_dl is not None:
@@ -121,7 +121,7 @@ def main(name: str,
 
         accu = 0.
         for iteration, (train_idces, dev_idces) in enumerate(_kfold.split(ds)):
-            model = make_model(name, max_length=max_length).to(device)
+            model = make_classification_model(name, max_length=max_length).to(device)
 
             train_ds = [s for i, s in enumerate(ds) if i in train_idces]
             dev_ds = [s for i, s in enumerate(ds) if i in dev_idces]
@@ -135,9 +135,9 @@ def main(name: str,
             optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
             #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
             criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
-            trainer = Trainer(model, (train_dl, dev_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
+            trainer = Trainer(model, (train_dl, dev_dl, test_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
             
-            best = trainer.iterate(num_epochs, with_test=test_dl, with_save=save_path+'/model.p' if save_path is not None else None)
+            best = trainer.iterate(num_epochs, with_save=save_path+'/model.p' if save_path is not None else None)
             sprint(f'Results {kfold}-fold, iteration {iteration + 1}:')
             sprint(f' best dev: {best}')
             if test_dl is not None:

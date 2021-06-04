@@ -4,9 +4,12 @@ import os
 import string
 import pandas as pd
 import numpy as np
+import subprocess
 from random import sample, seed
+from tqdm import tqdm
 from math import ceil
-from collections import Counter 
+from collections import Counter
+from itertools import zip_longest 
 
 seed(42)
 
@@ -193,6 +196,12 @@ def read_raw(file_path: str) -> List[Sentence]:
     return [Sentence(no=i, text=l) for i, l in enumerate(lines)]
 
 
+def read_tokenized(file_path: str) -> List[Sequence[int]]:
+    with open(file_path, 'r') as f:
+        tokens = [list(map(int, l.split())) for l in f]
+    return tokens
+
+
 def extract_class_weights(ds: List[AnnotatedSentence]) -> List[float]:
     labels_per_q = list(zip(*[s.labels for s in ds]))
     qs_neg = [[label for label in q if label == False] for q in labels_per_q]
@@ -200,11 +209,13 @@ def extract_class_weights(ds: List[AnnotatedSentence]) -> List[float]:
     return [len(n) / len(p) for n, p in zip(qs_neg, qs_pos)]
 
 
-def split_train_dev_test(ds: List[AnnotatedSentence], 
-        sizes: Tuple[float, float, float] = (.8, .1, .1)) -> Tuple[List[AnnotatedSentence], ...]:
+def split_train_dev_test(ds: List[Any], sizes: Tuple[float, float, float] = (.8, .1, .1), dev_thresh: Maybe[int] = None, 
+                         test_thresh: Maybe[int] = None) -> Tuple[List[Any], ...]:
     train_size, dev_size, test_size = sizes
-    dev_size = ceil(dev_size * len(ds))
-    test_size = ceil(test_size * len(ds))
+    dev_thresh = len(ds) if dev_thresh is None else dev_thresh
+    test_thresh = len(ds) if test_thresh is None else test_thresh
+    dev_size = min(dev_thresh, ceil(dev_size * len(ds)))
+    test_size = min(test_thresh, ceil(test_size * len(ds)))
     train_size = len(ds) - dev_size - test_size
     train = sample(ds, train_size)
     rest = [s for s in ds if s not in train]
@@ -213,23 +224,75 @@ def split_train_dev_test(ds: List[AnnotatedSentence],
     return train, dev, test
 
 
-def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: str):
+def split_documents_to_folders(root: str, sizes: Sequence[int], dev_thresh: int, test_thresh: int):
+
+    def do_split(split: str, file: str, country: str):
+        _filename =  file.split('/')[-1]
+        _path = os.path.join(root, split, country)
+        if not os.path.isdir(_path):
+            os.mkdir(_path)
+        subprocess.call(['mv', file, os.path.join(_path, _filename)])
+
+    countries = [f for f in os.listdir(os.path.join(root, 'processed')) if os.path.isdir(os.path.join(root, 'processed', f))]
+    all_files = [[os.path.join(root, 'processed', country, f) for f in  os.listdir(os.path.join(root, 'processed', country)) if f.endswith('txt')] 
+                    for country in countries]
+
+    for country, files in zip(countries, tqdm(all_files)):
+        train, dev, test = split_train_dev_test(files, sizes, dev_thresh, test_thresh)
+        
+        for file in train:
+            do_split('train', file, country)
+        
+        for file in dev:
+            do_split('dev', file, country)
+        
+        for file in test:
+            do_split('test', file, country)
+
+
+def concat_to_len(tokens: List[Sequence[int]], state: Maybe[List[int]] = None, max_len: int = 256) -> List[Sequence[int]]:
+    tokens = list(set([tuple(line) for line in tokens])) # convert to hashable type
+    to_merge = [line for line in tokens if len(line) <= max_len // 2]
+    if not to_merge or to_merge == state:
+        # recursion base case
+        return tokens
+
+    else:
+        group1 = sorted(to_merge[:len(to_merge) // 2], key=lambda l: len(l), reverse=True)
+        group2 = sorted(to_merge[len(to_merge) // 2:], key=lambda l: len(l), reverse=False)
+        grouped = [line1 + line2 for line1, line2 in zip_longest(group1, group2, fillvalue=tuple([]))]
+        rest = set(tokens).difference(set(to_merge))
+        rest.update(grouped)
+        return concat_to_len(list(rest), state=to_merge)
+       
+
+def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: Maybe[str] = None) -> List[int]:
     # load all text
-    countries = [os.path.join(root, f) for f in os.listdir(root) if os.path.isdir(f)]
+    countries = [os.path.join(root, f) for f in os.listdir(root) if os.path.isdir(os.path.join(root, f))]
     files = sum([[os.path.join(country, f) for f in  os.listdir(country) if f.endswith('txt')] for country in countries], [])
     all_lines = []
-    for file in files:
-        with open(file, 'w') as f:
+    print('Loading all txt files...')
+    for file in tqdm(files):
+        with open(file, 'r') as f:
             all_lines.extend([l.split('\t')[0] for l in (line.strip() for line in f) if l])
 
+    # remove duplicates and very short lines
+    all_lines = list(set(all_lines))
+    all_lines = [l for l in all_lines if len(l.split()) >= 3]
 
     # tokenize lines and shuffle
+    print('Tokenizing text...')
     all_lines = list(map(tokenizer, all_lines))
     all_lines = sample(all_lines, len(all_lines))
 
     # concat sentences in single line with max len 256
+    all_lines = concat_to_len(all_lines)
 
-    # write to file
-    to_strings = [' '.join(list(map(str, line))) for line in all_lines]
-    with open(save_path + '/full.txt', 'w') as f:
-        f.write('\n'.join(to_strings))
+    # write to file if wanted
+    if save_path is not None:
+        print(f'Writing to {save_path + "/full.txt"}...')
+        to_strings = [' '.join(list(map(str, line))) for line in all_lines]
+        with open(save_path + '/full.txt', 'w') as f:
+            f.write('\n'.join(to_strings))
+
+    return all_lines

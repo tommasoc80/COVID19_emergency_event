@@ -23,12 +23,15 @@ class BertoidLM(Module):
         self.masker = get_masker(self.tokenizer)
 
     def tokenize_and_mask(self, sents: List[Sentence]) -> List[Tuple[Tensor, ...]]:
+        sents = [self.tokenizer.encode(s.text, truncation=True, max_length=self.max_length) for s in sents]
+        return self.mask(sents)
+        
+    def mask(self, tokens: List[int]) -> List[Tuple[Tensor, ...]]:
         def to_longt(seq: List[int]) -> Tensor:
             return [tensor(s, dtype=longt) for s in seq]
         
-        sents = [self.tokenizer.encode(s.text, truncation=True, max_length=self.max_length) for s in sents]
-        mask_ids, masked_sents = zip(*list(map(self.masker, sents)))
-        return to_longt(masked_sents), to_longt(sents), to_longt(mask_ids)
+        mask_ids, masked_tokens = zip(*list(map(self.masker, tokens)))
+        return to_longt(masked_tokens), to_longt(tokens), to_longt(mask_ids)
 
     def forward(self, x: Tensor, mlm_mask: Tensor) -> Tensor:
         attention_mask = x.ne(self.tokenizer.pad_token_id)
@@ -101,7 +104,14 @@ def make_unlabeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> Lis
     return [tokenize_unlabeled(sent, tokenizer, **kwargs) for sent in read_unlabeled(path)]
 
 
-def make_model(name: str, **kwargs) -> BertoidSentClassification:
+def make_pretrain_dataset(path: str, tokenizer: AutoTokenizer, with_save: Maybe[str] = None, **kwargs) -> List[Tensor]:
+    from covid19_exceptius.preprocessing import prepare_pretrain_corpus
+    from functools import partial
+    tokenizer_fn = partial(tokenizer.encode, **kwargs)
+    return prepare_pretrain_corpus(path, tokenizer_fn, save_path=with_save)
+
+
+def make_classification_model(name: str, **kwargs) -> BertoidSentClassification:
     # todo: find all applicable models
     if name == 'eng-bert':
         return BertoidSentClassification(name='bert-base-uncased', **kwargs)
@@ -117,12 +127,28 @@ def make_model(name: str, **kwargs) -> BertoidSentClassification:
         return BertoidSentClassification(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
     elif name == 'mbert-microsoft':
         return BertoidSentClassification(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
-    elif name == 'mbert-sentiment':
-        return BertoidSentClassification(name='socialmediaie/TRAC2020_ALL_C_bert-base-multilingual-uncased', **kwargs)
-    elif name == 'mbert-toxic':
-        return BertoidSentClassification(name='unitary/multilingual-toxic-xlm-roberta', **kwargs)
     else:
         raise ValueError(f'unknown name {name}')
+
+
+def make_mlm_model(name: str, **kwargs) -> BertoidLM:
+    if name == 'eng-bert':
+        return BertoidLM(name='bert-base-uncased', **kwargs)
+    elif name == 'eng-legal':
+        return BertoidLM(name='nlpaueb/legal-bert-base-uncased', **kwargs)
+
+    # multi-lingual models
+    elif name == 'mbert':
+        return BertoidLM(name='bert-base-multilingual-cased', **kwargs)
+    elif name == 'xlm':
+        return BertoidLM(name='xlm-roberta-base', **kwargs)
+    elif name == 'mbert-xnli':
+        return BertoidLM(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
+    elif name == 'mbert-microsoft':
+        return BertoidLM(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
+    else:
+        raise ValueError(f'unknown name {name}')
+
 
 
 def annotate_files(files: List[str], model: BertoidSentClassification, save_path: str, device: str = 'cuda'):
