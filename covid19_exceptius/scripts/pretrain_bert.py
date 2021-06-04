@@ -59,7 +59,7 @@ def main(name: str,
                           collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
     dev_dl = DataLoader(dev_ds, shuffle=False, batch_size=batch_size, worker_init_fn=SEED,
                           collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
-    test_dl = DataLoader(test_ds, shuffle=True, batch_size=batch_size, worker_init_fn=SEED,
+    test_dl = DataLoader(test_ds, shuffle=False, batch_size=batch_size, worker_init_fn=SEED,
                           collate_fn = lambda b: collate_with_mask(b, mask_fn=model.mask, padding_value=pad_id, device=device))
 
     optim = AdamW(model.parameters(), lr=learning_rate, weight_decay=weight_decay)

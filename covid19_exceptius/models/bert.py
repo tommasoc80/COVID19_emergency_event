@@ -26,8 +26,8 @@ class BertoidLM(Module):
         sents = [self.tokenizer.encode(s.text, truncation=True, max_length=self.max_length) for s in sents]
         return self.mask(sents)
         
-    def mask(self, tokens: List[int]) -> List[Tuple[Tensor, ...]]:
-        def to_longt(seq: List[int]) -> Tensor:
+    def mask(self, tokens: List[Sequence[int]]) -> List[Tuple[Tensor, ...]]:
+        def to_longt(seq: Sequence[int]) -> Tensor:
             return [tensor(s, dtype=longt) for s in seq]
         
         mask_ids, masked_tokens = zip(*list(map(self.masker, tokens)))
@@ -72,7 +72,7 @@ class BertoidSentClassification(Module, Model):
 
 
 def collate_with_mask(tokens: List[Sequence[int]], mask_fn: Masker, padding_value: int, device: str) -> Tuple[Tensor, ...]:
-    masked_tokens, tokens, mask_ids = zip(*list(map(mask_fn, tokens)))
+    masked_tokens, tokens, mask_ids = mask_fn(tokens)
     return (pad_sequence(masked_tokens, padding_value).to(device), 
             pad_sequence(tokens, padding_value).to(device), 
             pad_sequence(mask_ids, -1).to(device))
@@ -80,7 +80,7 @@ def collate_with_mask(tokens: List[Sequence[int]], mask_fn: Masker, padding_valu
 
 def collate_tuples(pairs: List[Tuple[Tensor, ...]], padding_values: Tuple[int], device: str) -> Tuple[Tensor, ...]:
     zipped = zip(*pairs)
-    assert len(zipped) = len(padding_values)
+    assert len(zipped) == len(padding_values)
     return tuple([pad_sequence(tens, pad).to(device) for tens, pad in zip(zipped, padding_values)])
 
 

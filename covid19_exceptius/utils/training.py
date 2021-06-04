@@ -10,7 +10,7 @@ def train_epoch_mlm(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Mo
     epoch_loss = 0.
     for x, y, m in dl:
         predictions = model.forward(x, m)
-        loss = loss_fn(predictions, y[m])
+        loss = loss_fn(predictions, y[m==1])
         loss.backward()
         optim.step()
         optim.zero_grad()
@@ -25,7 +25,7 @@ def eval_epoch_mlm(model: Module, dl: DataLoader, loss_fn: Module) -> Dict[str, 
     for x, y, m in dl:
         # forward
         predictions = model.forward(x, m)
-        loss = loss_fn(predictions, y[m])
+        loss = loss_fn(predictions, y[m==1])
         epoch_loss += loss.item()
     return {'MLMLoss': -round(epoch_loss/len(dl), 5)}
 
