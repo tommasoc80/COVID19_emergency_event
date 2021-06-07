@@ -1,5 +1,4 @@
 from covid19_exceptius.types import *
-from covid19_exceptius.preprocessing import read_labeled, read_unlabeled
 from covid19_exceptius.utils.masker import get_masker, Masker
 
 from torch import tensor, stack, load, no_grad
@@ -27,7 +26,7 @@ class BertoidLM(Module):
         return self.mask(sents)
         
     def mask(self, tokens: List[Sequence[int]]) -> List[Tuple[Tensor, ...]]:
-        def to_longt(seq: Sequence[int]) -> Sequence[Tensor]:
+        def to_longt(seq: Sequence[int]) -> List[Tensor]:
             return [tensor(s, dtype=longt) for s in seq]
         
         mask_ids, masked_tokens = zip(*list(map(self.masker, tokens)))
@@ -36,7 +35,7 @@ class BertoidLM(Module):
     def forward(self, x: Tensor, mlm_mask: Tensor) -> Tensor:
         attention_mask = x.ne(self.tokenizer.pad_token_id)
         hidden, _ = self.core(x, attention_mask, output_hidden_states=False, return_dict=False)
-        return self.head(hidden[mlm_mask == 1, :])
+        return self.head(hidden[mlm_mask == 1])
         
 
 class BertoidSentClassification(Module, Model):
@@ -109,10 +108,12 @@ def tokenize_labeled(sent: AnnotatedSentence, tokenizer: AutoTokenizer, **kwargs
 
 
 def make_labeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> List[Tuple[Tensor, Tensor]]:
+    from covid19_exceptius.preprocessing import read_labeled
     return [tokenize_labeled(sent, tokenizer, **kwargs) for sent in read_labeled(path)]
 
 
 def make_unlabeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> List[Tensor]:
+    from covid19_exceptius.preprocessing import read_unlabeled
     return [tokenize_unlabeled(sent, tokenizer, **kwargs) for sent in read_unlabeled(path)]
 
 
@@ -164,16 +165,16 @@ def make_mlm_model(name: str, **kwargs) -> BertoidLM:
 
 
 def annotate_files(files: List[str], model: BertoidSentClassification, save_path: str, device: str = 'cuda'):
-    import os
+    from covid19_exceptius.preprocessing import read_processed
     from tqdm import tqdm
     from math import ceil
+    import os
+
     model = model.eval().to(device)
 
     for file in tqdm(files):
         filename = file.split('/')[-1].split('.')[0]
-        with open(file, 'r') as f:
-            lines = f.readlines()
-        text = [Sentence(no='', text=l.split('\t')[0]) for l in lines]
+        text = read_processed(file)
         bs = 16; num_batches = ceil(len(text) / bs)
         predictions = []
         for batch_idx in range(num_batches):

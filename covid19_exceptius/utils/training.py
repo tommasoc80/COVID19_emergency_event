@@ -134,12 +134,12 @@ class Trainer(ABC):
         # print if wanted
         if self.print_log:
             print('TRAIN:')
-            for k,v in self.logs['train'][-1].items():
-                sprint(f'{k} : {v}')
+            for k, v in self.logs['train'][-1].items():
+                print(f'{k} : {v}')
             print()
             print('DEV:')
-            for k,v in self.logs['dev'][-1].items():
-                sprint(f'{k} : {v}')
+            for k, v in self.logs['dev'][-1].items():
+                print(f'{k} : {v}')
             print('==' * 72)
             sys.stdout.flush()
 

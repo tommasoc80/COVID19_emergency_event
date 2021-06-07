@@ -19,13 +19,14 @@ def glove_embeddings(version: str) -> WordEmbedder:
 # last hidden layer representations of a pre-trained BERT encoder
 @torch.no_grad()
 def frozen_bert_embeddings(name: str, **kwargs) -> WordEmbedder:
-    from covid19_exceptius.models.bert import Bertoid
-    model = Bertoid(name=name, **kwargs)
-    def embedd(sents: Sentences) -> array:
-        tokens = stack(model.tensorize_labeled(sents))
-        attention_mask = tokens.ne(tokenizer.pad_token_id)
-        hidden, _ = model(tokens, attention_mask, output_hidden_states=True, return_dict=False).squeeze()
-        return hidden.cpu().numpy()
+    from covid19_exceptius.models.bert import make_classification_model, pad_sequence
+    model = make_classification_model(name=name, **kwargs)
+    def embedd(sents: List[Sentence]) -> List[array]:
+        pad_id = model.tokenizer.pad_token_id
+        tokens = pad_sequence(model.tensorize_unlabeled(sents), padding_value=pad_id)
+        attention_mask = tokens.ne(pad_id)
+        hidden, _ = model.core.forward(tokens, attention_mask, output_hidden_states=False, return_dict=False)
+        return list(hidden.cpu().numpy())
     return embedd 
 
 

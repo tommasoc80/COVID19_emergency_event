@@ -190,7 +190,7 @@ def read_unlabeled(file_path: str) -> List[Sentence]:
     return [Sentence(col[0], col[1]) for col in data]
 
 
-def read_raw(file_path: str) -> List[Sentence]:
+def read_processed(file_path: str) -> List[Sentence]:
     with open(file_path, 'r') as f:
         lines = [l.split('\t')[0] for l in f]
     return [Sentence(no=i, text=l) for i, l in enumerate(lines)]
