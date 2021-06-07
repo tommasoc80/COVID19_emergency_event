@@ -43,7 +43,14 @@ def main(name: str,
         ds = read_labeled(file)
         dl = DataLoader(model.tensorize_labeled(ds), shuffle=False, batch_size=16, 
                         collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device))
-        results[countries[i]] = eval_epoch_supervised(model, dl, criterion)
+        try:
+            results[countries[i]] = eval_epoch_supervised(model, dl, criterion)
+        except:
+            print(countries[i])
+            print(file)
+            print()
+            print()
+            return
 
     print(f'Results per-language evaluation:')
     for country, metrics in results.items():
