@@ -171,10 +171,11 @@ def write_to_tsv(out_file: str, data: List[AnnotatedSentence]):
         f.write(header)
         f.write('\n')
         for i, sample in enumerate(data):
-            text = sample.text.replace('"','')
+            text = sample.text.replace('"','').replace('\n','').replace('\t','').replace('\r','')
+            #text = sample.text
             labels = sample.labels  
             assert len([l for l in labels if type(l) == bool]) == len(labels), (i, sample)
-            write = '\t'.join([_str(i), _str(text), *list(map(_str, labels))])
+            write = '\t'.join([str(i), str(text), *list(map(str, labels))])
             assert len(write.split('\t')) == 2 + len(labels)
             f.write(write)
             f.write('\n') 

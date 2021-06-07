@@ -81,10 +81,9 @@ def collate_with_mask(tokens: List[Sequence[int]], mask_fn: Masker, padding_valu
             pad_sequence(mask_ids, -1).to(device))
     
 
-def collate_tuples(pairs: List[Tuple[Tensor, ...]], padding_values: Tuple[int], device: str) -> Tuple[Tensor, ...]:
+def collate_tuples(pairs: List[Tuple[Tensor, ...]], padding_value: int, device: str) -> Tuple[Tensor, ...]:
     zipped = zip(*pairs)
-    assert len(zipped) == len(padding_values)
-    return tuple([pad_sequence(tens, pad).to(device) for tens, pad in zip(zipped, padding_values)])
+    return tuple([pad_sequence(x, padding_value).to(device) for x in zipped])
 
 
 def pad_sequence(xs: List[Tensor], padding_value: int) -> Tensor:

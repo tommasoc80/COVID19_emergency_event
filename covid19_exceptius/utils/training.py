@@ -53,7 +53,7 @@ def train_epoch_supervised(model: Module, dl: DataLoader, optim: Optimizer, loss
 
         epoch_loss += loss.item()
 
-    return {'BCEloss': -round(epoch_loss/len(dl), 5), **get_metrics(all_preds, all_labels)}
+    return {'BCELoss': -round(epoch_loss/len(dl), 5), **get_metrics(all_preds, all_labels)}
 
 
 @torch.no_grad()
@@ -74,7 +74,7 @@ def eval_epoch_supervised(model: Module, dl: DataLoader, loss_fn: Module) -> Dic
 
         epoch_loss += loss.item()
 
-    return {'BCEloss': -round(epoch_loss/len(dl), 5), **get_metrics(all_preds, all_labels)}
+    return {'BCELoss': -round(epoch_loss/len(dl), 5), **get_metrics(all_preds, all_labels)}
 
 
 class Trainer(ABC):
@@ -93,14 +93,14 @@ class Trainer(ABC):
         self.train_dl, self.dev_dl, self.test_dl = dls
         self.logs = {'train': [], 'dev': [], 'test': []}
         self.target_metric = target_metric
-        self.trained_epochs = 0
+        self.steps = 0
         self.print_log = print_log
         self.early_stop_patience = early_stopping if early_stopping >0 else None
         self.train_fn = train_epoch_mlm if pretrain else train_epoch_supervised
         self.eval_fn = eval_epoch_mlm if pretrain else eval_epoch_supervised
 
     def iterate(self, num_epochs: int, with_save: Maybe[str] = None) -> Dict[str, Any]:
-        best = {self.target_metric: 0.}
+        best = {self.target_metric: -1e05}
         patience = self.early_stop_patience if self.early_stop_patience is not None else num_epochs
         for epoch in range(num_epochs):
             self.step()
@@ -111,7 +111,7 @@ class Trainer(ABC):
                 patience = self.early_stop_patience if self.early_stop_patience is not None else num_epochs
 
                 if with_save is not None:
-                    torch.save(self.model.state_dict(), with_save)
+                    torch.save(self.model.state_dict(), with_save + '/model.p')
 
                 if self.test_dl is not None:
                     self.logs['test'].append({'epoch': epoch+1, **self.eval_fn(self.model, self.test_dl, self.criterion)})
@@ -119,9 +119,9 @@ class Trainer(ABC):
             else:
                 patience -= 1
                 if not patience:
-                    self.trained_epochs += epoch + 1
-                    break
-        self.trained_epochs += num_epochs
+                    self.steps += epoch + 1
+                    return best
+        self.steps += num_epochs
         return best
 
     def step(self):

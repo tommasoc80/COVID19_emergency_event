@@ -157,7 +157,7 @@ if __name__ == "__main__":
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=7)
     parser.add_argument('-s', '--save_path', help='where to save best model', type=str, default=f'{SAVE_PREFIX}/COVID-19-event/checkpoints')
     parser.add_argument('-wd', '--weight_decay', help='weight decay to use for regularization', type=float, default=1e-02)
-    parser.add_argument('-len', '--max_length', help='truncate to maximum sentence length', type=int, default=512)
+    parser.add_argument('-len', '--max_length', help='truncate to maximum sentence length', type=int, default=256)
     parser.add_argument('-kfold', '--kfold', help='k-fold cross validation', type=int, default=0)
     parser.add_argument('--print_log', action='store_true', help='print training logs', default=False)
     parser.add_argument('--with_class_weights', action='store_true', help='compute class weights for loss penalization', default=False)
