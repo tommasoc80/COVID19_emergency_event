@@ -2,7 +2,7 @@ from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_labeled, read_unlabeled
 from covid19_exceptius.utils.masker import get_masker, Masker
 
-from torch import tensor, stack, load
+from torch import tensor, stack, load, no_grad
 from torch.nn import Module, Linear, Dropout, Sequential, LayerNorm
 from torch.nn.utils.rnn import pad_sequence as _pad_sequence
 
@@ -27,7 +27,7 @@ class BertoidLM(Module):
         return self.mask(sents)
         
     def mask(self, tokens: List[Sequence[int]]) -> List[Tuple[Tensor, ...]]:
-        def to_longt(seq: Sequence[int]) -> Tensor:
+        def to_longt(seq: Sequence[int]) -> Sequence[Tensor]:
             return [tensor(s, dtype=longt) for s in seq]
         
         mask_ids, masked_tokens = zip(*list(map(self.masker, tokens)))
@@ -62,11 +62,15 @@ class BertoidSentClassification(Module, Model):
         _, cls = self.core(x, attention_mask, output_hidden_states=False, return_dict=False)
         return self.classifier(self.dropout(cls))
 
+    @no_grad()
     def predict_scores(self, sents: List[Sentence], device: str) -> List[List[float]]:
+        self.eval()
         tensorized = pad_sequence(self.tensorize_unlabeled(sents), padding_value=self.tokenizer.pad_token_id).to(device)
         return self.forward(tensorized).sigmoid().cpu().tolist()
 
+    @no_grad()
     def predict(self, sents: List[Sentence], device: str) -> List[List[int]]:
+        self.eval()
         tensorized = pad_sequence(self.tensorize_unlabeled(sents), padding_value=self.tokenizer.pad_token_id).to(device)
         return self.forward(tensorized).sigmoid().round().long().cpu().tolist()
 
@@ -163,7 +167,7 @@ def annotate_files(files: List[str], model: BertoidSentClassification, save_path
     import os
     from tqdm import tqdm
     from math import ceil
-    model.eval().to(device)
+    model = model.eval().to(device)
 
     for file in tqdm(files):
         filename = file.split('/')[-1].split('.')[0]

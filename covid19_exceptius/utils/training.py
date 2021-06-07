@@ -3,6 +3,7 @@ from covid19_exceptius.utils.metrics import get_metrics
 
 from torch.nn import Module
 import torch
+import sys
 
 
 def train_epoch_mlm(model: Module, dl: DataLoader, optim: Optimizer, loss_fn: Module) -> Dict[str, Any]:
@@ -134,12 +135,13 @@ class Trainer(ABC):
         if self.print_log:
             print('TRAIN:')
             for k,v in self.logs['train'][-1].items():
-                print(f'{k} : {v}')
+                sprint(f'{k} : {v}')
             print()
             print('DEV:')
             for k,v in self.logs['dev'][-1].items():
-                print(f'{k} : {v}')
+                sprint(f'{k} : {v}')
             print('==' * 72)
+            sys.stdout.flush()
 
     def train_epoch(self):
         return self.train_fn(self.model, self.train_dl, self.optimizer, self.criterion)
