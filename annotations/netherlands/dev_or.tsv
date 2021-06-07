@@ -1,19 +1,19 @@
 id	text	event1	event2	event3	event4	event5	event6	event7	event8
-nan	2 Het verbod, bedoeld in het eerste lid, geldt voor het luchtverkeer afkomstig uit de volgende landen die een hoog-risico vormen bij de verspreiding van het virus dat COVID-19 veroorzaakt:e. Spanje;	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Eet- en drinkgelegenheden	nan	nan	nan	nan	nan	nan	nan	nan
-nan	2. Verbod voor alle overige samenkomsten, waarbij uitzonderingen gelden voor de volgende samenkomsten, mits betrokkenen te allen tijde 1,5 meter afstand houden tot de dichtstbijzijnde persoon:	nan	nan	nan	nan	nan	nan	nan	nan
-nan	2 Het verbod, bedoeld in het eerste lid, geldt voor het luchtverkeer afkomstig uit de volgende landen die een hoog-risico vormen bij de verspreiding van het virus dat COVID-19 veroorzaakt:c. Iran;	nan	nan	nan	nan	nan	nan	nan	nan
-nan	In deze opdracht heb ik de eerdere aanwijzingen die ik aan alle voorzitters van de veiligheidsregio heb verstrekt, verwerkt en aangepast.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	De voorzitter van de veiligheidsregio draagt er zorg voor dat gemeenten een gebiedsaanpak opstellen voor horeca concentratiegebieden ter voorkoming van grote drukte en toestroom in deze gebieden.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Hierbij moeten door de genoemde onderwijsinstellingen zorgvuldige maatregelen genomen worden om het risico van besmetting te beperken, waaronder 1,5 meter afstand houden tussen alle aanwezige personen in deze instellingen (voor het voortgezet speciaal onderwijs in bijzondere omstandigheden zo veel als mogelijk.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Het verbod op het uitoefenen van het contactberoep geldt nog wel voor sekswer kers, zij mogen hun beroep nog niet uitoefenen.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Het verbod op het bieden van onderwijsactiviteiten in onderwijsinstellingen in het middelbaar beroepsonderwijs en het hoger onderwijs wordt per 15 juni opgeheven voor het houden van examens, tentamens, toetsen, praktijk(gericht)onderwijs en begeleiding van kwetsbare studenten op de onderwijsinstelling, voor zover dit online niet afdoende kan.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	In afwijking van deel II, onderdeel 1 van de aanwijzing van 24 april 2020 mogen  eet- en drinkgelegenheden, met inbegrip van terrassen per 1 juni vanaf 12.00 uur onder voorwaarden weer open voor gasten.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	De exploitant of beheerder is primair verantwoordelijk voor de naleving van de 1,5 meter en de overige voorschriften als ook de controle daarop.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Handhaving vindt in de praktijk plaats door de vervoerders als toezichthouders aangewezen personen en andere op grond van de Wet Personenvervoer 2000 aangewezen toezichthouders.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Alle aanwezigen dienen onderling 1.5 meter afstand te houden, met uitzondering van personen die een gezamenlijk huishouden vormen.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	De onder 2 tot en met 7 bedoelde maatregelen zullen uiterlijk 6 april 2020 worden heroverwogen.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Voortgezet onderwijs	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Voor zwemgelegenheden geldt dat ge meenschappelijke was- en douchegelegenheden niet gebruikt kunnen worden.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	4. Verbod op het uitoefenen van alle vormen van contactberoepen, waaronder masseurs, kappers, nagelstylisten, escortservices en rij-instructeurs, voor zover deze beroepen niet naar behoren met inachtneming van 1,5 meter afstand tot de klant kunnen worden uitgeoefend. Uitgezonderd is de uitoefening van (para)medische beroepen, mits voor deze uitoefening een individuele medische indicatie be staat en daarbij door de beoefenaar alle in verband met COVID-19 benodigde hy giënevereisten in acht worden genomen.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Bezoekers dienen vooraf per tijdvak te reserveren.	nan	nan	nan	nan	nan	nan	nan	nan
+0	a) die een gezamenlijk huishouden vormen,	False	False	False	False	False	False	False	False
+1	Alle gasten moeten gebruik maken van een zitplaats aan een tafel of bar.	False	False	False	False	False	False	False	False
+2	De instellingen dienen de toegangs- en verblijfstijden en de inrichting van de instelling zodanig te organiseren dat bezoekers steeds 1,5 meter afstand kunnen houden, met uitzondering van personen die een gezamenlijk huishouden vormen.	False	False	False	False	False	False	False	False
+3	Eet- en drinkgelegenheden die onderdeel zijn van inrichtingen die nog zijn gesloten, blijven gesloten, tenzij uit deze aanwijzing anders voortvloeit.	False	False	False	True	False	False	False	False
+4	Verder geef ik u de opdracht het verbod op de organisatie van alle evenementen en bijeenkomsten met meer dan 100 personen in uw regio te verlengen tot en met 6 april 2020.	False	False	False	True	False	False	False	False
+5	b. repatriëring van EU- of Schengeningezetenen en ingezetenen uit het Verenigd Koninkrijk, waarbij:	False	False	False	False	False	False	False	False
+6	Van groepsvorming is geen sprake indien het personen betreft die een gezamenlijk huishouden vormen.	False	False	False	False	False	False	False	False
+7	Verder geef ik u opdracht om de mogelijkheid om winkels en markten uit te zon deren van het verbod op samenkomsten, uit te breiden met bibliotheken, pretpar ken en dierentuinen, mits bezoekers en werknemers te allen tijde 1,5 meter af stand houden tot de dichtstbijzijnde persoon.	False	False	False	True	False	False	False	False
+8	BESLUIT:	False	False	False	False	False	False	False	False
+9	a. wettelijk verplichte samenkomsten, zoals vergaderingen van gemeenteraden, mits daarbij niet meer dan 100 personen aanwezig zijn, alsook vergaderingen van de Staten-Generaal;	False	False	False	False	False	False	False	False
+10	Buitenterrassen mogen open op voorwaarde dat de gasten een zitplaats aan een tafel hebben en anderhalve meter afstand houden, met uitzondering van personen die een gezamenlijk huishouden vormen.	False	False	False	True	False	False	False	False
+11	Eet- en drinkgelegenheden	False	False	False	False	False	False	False	False
+12	Dansgelegenheden blijven gesloten.	False	False	False	True	False	False	False	False
+13	De exploitant of beheerder dient het terras zo in te richten dat gasten en personeel altijd anderhalve meter afstand kunnen houden tot elkaar.	False	False	False	False	False	False	False	False
+14	Ik geef u opdracht om, aanvullend op de eerdere opdracht, vanaf 15 maart 2020, 18:00u ook te zorgen voor sluiting van alle eet- en drinkgelegenheden, sport- en fitnessclubs, sauna's, seksinrichtingen en coffeeshops.	False	False	False	True	False	False	False	False
+15	In de binnenruimte van eet- en drinkgelegenheden mogen maximaal 30 gasten per gebouw aanwezig zijn.	False	False	False	False	False	False	False	False
+16	IV Bepalingen voor verpleeghuizen en andere kleinschalige woonvormen in de ouderenzorg	False	False	True	False	False	False	False	False
+17	4. Verbod op het uitoefenen van alle vormen van contactberoepen, waaronder masseurs, kappers, nagelstylisten, escortservices en rij-instructeurs, voor zover deze beroepen niet naar behoren met inachtneming van 1,5 meter afstand tot de klant kunnen worden uitgeoefend. Uitgezonderd is de uitoefening van (para)medische beroepen, mits voor deze uitoefening een individuele medische indicatie be staat en daarbij door de beoefenaar alle in verband met COVID-19 benodigde hy giënevereisten in acht worden genomen.	False	False	False	True	False	False	False	False

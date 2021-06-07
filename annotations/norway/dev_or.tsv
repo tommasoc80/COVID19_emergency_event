@@ -1,29 +1,29 @@
 id	text	event1	event2	event3	event4	event5	event6	event7	event8
-nan	 Mange er heldigvis allerede hjemme, men situasjonen er fortsatt uforutsigbar og vi opprettholder ordningen for å kunne fortsette å legge tilrette for hjemreise i ukene som kommer, ved behov.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Man skal fortsatt i karantene hvis man har vært i kontakt med smittede personer med mindre enn to meters avstand i mer enn 15 minutter.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Mange aktører, på tvers av offentlig og privat sektor, har tatt et kollektivt ansvar for å bistå nordmenn på reise hjem, sier samferdselsminister Knut Arild Hareide.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Fraråder reiser som ikke er strengt nødvendige til alle land	nan	nan	nan	nan	nan	nan	nan	nan
-nan	En ukontrollert pandemi vil gi en samlet stor sykdomsbyrde med et høyt antall syke og et høyt antall sykehusinnleggelser.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Unngå rush: Forsøk å legge reisen til et tidspunkt utenfor rushtiden for å redusere trengsel på offentlig kommunikasjon, på holdeplasser, i havner osv.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	I forskrift 15. mars 2020 nr. 293 om bortvisning mv. av utlendinger av hensyn til folkehelsen gjøres følgende endringer:§ 1 tredje ledd bokstav f og g skal lyde:f) EØS-borgere med slik familietilknytning som nevnt i bokstav b, som er familiemedlem til norsk borger. Ved besøk gjøres det unntak fra vilkåret i utlendingsloven §110 tredje ledd bokstav c om at slektning i nedstigende linje må være under 21 år.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	En veileder for smittevern på buss, tog, trikk, passasjerbåt, ferjer og andre offentlige transportmidler er nå klar.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	I løpet av neste uke skal alle grunnskoler og videregående skoler åpne for alle trinn.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Jeg skjønner at mange er utålmodige, og at det isolert sett finnes gode argumenter for at akkurat «min» aktivitet eller virksomhet skal få åpne nå. Om vi skulle oppfylt alle ønsker ville vi risikert å åpne for raskt og at det blir ny smittespredning.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	 Vi står i en alvorlig og stadig mer uforutsigbar situasjon. Vår prioritet er å ivareta liv og helse. Det krever ekstraordinære grep.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Innreiserestriksjoner må ses i sammenheng med innreisekarantene.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	 Det gis unntak fra karanteneplikten i seks måneder for personer som har gjennomgått infeksjon med SARS-CoV-2.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Det er også viktig at befolkningen får forsyninger av mat og medisiner. Flere kommuner har nå justert reglene sine og innført unntak som gjør dette mulig.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Normalt skal alle statsansatte ha en kjernetid fra klokken 09.00 til klokken 14.30. I dag har partene blant annet blitt enige om at denne kjernetiden settes ut av kraft for en periode.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Frem til nå har det vært en generell innreisekarantene for personer som kommer fra fastlandet. Et arbeidsutvalg på Svalbard har utarbeidet en bransjestandard for hvordan reiselivet skal kunne drive smittevernforsvarlig.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Statsministeren understreker at vi ikke kan åpne opp alt på en gang.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Regjeringen jobber kontinuerlig med å finne den riktige balansen mellom hensynet til smittevern og andre viktige samfunnshensyn.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	nformasjon om flygninger vil være tilgjengelig på flyselskapenes og reiseoperatørenes nettsider. De reisende vil måtte betale for reisene på vanlig måte.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Barn, elever og ansatte i gjenåpnet barnehage, skole og skolefritidsordning er derfor lagt til på listen over grupper som prioriteres for testing.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Det er også en krevende situasjon for arbeidslivet.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Rådene fra helsemyndighetene inneholder også råd for reiser hos dem som er i risikogrupper, og hvordan og når man kan reise sammen på tvers av generasjoner i en familie.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Han understreker at vi må fortsette med de enkle tiltakene som vi vet virker og som har få negative konsekvenser: være nøye med håndvask og hostehygiene, holde minst én meter avstand og være hjemme når vi er syke.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Hver enkelt bør tenke nøye gjennom om det er nødvendig å reise, sier Eriksen Søreide.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Lokale regler for å hindre koronasmitte må ikke stoppe viktige funksjoner. Fylkesmennene får nå i oppdrag å bistå kommunene i utarbeidelsen av slike regler.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Det er mange unger som står og tripper for å møte venner og lærere igjen. I neste uke skal de endelig få komme tilbake på skolen.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Når vi nå løser opp på tiltakene forutsetter det at vi beholder kontrollen på smitten, med økt testing, isolering, smittesporing og karantene, sier Høie.	nan	nan	nan	nan	nan	nan	nan	nan
-nan	Disse reglene kan forhindre varetransport og stoppe politi og forsvar som forflytter seg over kommunegrensene.	nan	nan	nan	nan	nan	nan	nan	nan
+0	Regjeringen åpner nå for at turister fra fastlandet kan reise til Svalbard fra 1. juni.	False	False	False	True	False	False	False	False
+1	Når barnehagene og enkelte klassetrinn nå gradvis skal åpne opp igjen, er det viktig å sikre at dette gjøres på en forsvarlig måte.	False	False	False	True	False	False	False	False
+2	Det blir mer uteskole og mindre klemming. Men så langt det lar seg gjøre, skal elevene få en mest mulig normal skolehverdag tilbake, sier kunnskaps- og integreringsminister Guri Melby.	False	False	False	True	False	False	False	False
+3	Utenriksdepartementet følger situasjonen nøye og anbefaler alle nordmenn i utlandet å følge med på nyheter lokalt og nasjonalt, særlig om utbredelse av smitte, og informasjon og veiledning fra lokale myndigheter.	False	False	False	False	False	False	False	False
+4	I land og regioner der Utenriksdepartementet allerede fraråder reiser gjelder det eksisterende reiserådet.	False	False	False	True	False	False	False	False
+5	Mer informasjon om hvilke land dette gjelder og hva kriteriene er finnes på Folkehelseinstituttets nettsider. Denne oversikten oppdateres jevnlig.	False	False	False	False	False	False	False	True
+6	Regjeringen gjør endringer i innreiserestriksjonene knyttet til covid-19 som innebærer at det åpnes for innreise for utlendinger med arbeidstillatelse og utenlandske studenter som skal studere i Norge.	False	False	False	False	True	False	False	False
+7	Jeg er glad for velvillighet og den konstruktive innstillingen partene har i denne situasjonen	False	False	False	False	False	False	False	False
+8	Det er også små og store bedrifter, restauranter, treningssentre og konsertscener.	False	False	False	True	False	False	False	False
+9	Situasjonen endrer seg raskt i mange land og derfor fraråder vi reiser som ikke er strengt nødvendige til alle land, sier statsminister Erna Solberg.	False	False	False	True	False	False	False	False
+10	Norge har nå kontroll på smitten, samtidig som covid-19 fremdeles vil være en trussel mot folkehelsen frem til det er tilstrekkelig immunitet i befolkningen eller det foreligger en vaksine.	False	False	False	False	False	False	False	False
+11	Helsedirektoratet vil også vurdere om fylkesmennene skal følge med på lokale restriksjoner som retter seg mot kritisk infrastruktur, blant annet forsyning av matvarer og drift av flyplasser.	True	False	False	False	False	False	False	False
+12	Disse reglene kan forhindre varetransport og stoppe politi og forsvar som forflytter seg over kommunegrensene.	False	False	False	False	False	False	False	False
+13	Fylkesmennene vil veilede kommunene i hvordan de skal ivareta viktige samfunnsbehov ved utformingen av lokale regler, og ved behov vurdere lovligheten av de kommunale vedtakene.	True	False	False	False	False	False	False	False
+14	Hvordan behovet for å videreføre innreiserestriksjoner vil utvikle seg fremover, er usikkert. Utviklingen går nå i retning av at mange stater velger å oppheve eller lempe på innreiserestriksjoner i raskt tempo.	False	False	False	False	False	False	False	False
+15	Vi skal holde smitten nede, få folk i jobb og ta hverdagen tilbake. Dette skal vi klare sammen, sier Solberg.	False	False	False	False	False	False	False	False
+16	Det vil heller ikke lenger være et krav om at EØS-arbeidstakere hadde påbegynt arbeidet i Norge før innreiserestriksjonene ble innført 16. mars 2020.	False	False	False	False	True	False	False	False
+17	Vis hensyn til andre reisende: Sørg for å vise hensyn til medpassasjerer og andre reisende, spesielt eldre personer.	False	False	False	False	False	False	False	False
+18	God håndhygiene: Sørg for å ivareta god håndhygiene både før, under og etter reisen. Vær ekstra oppmerksom på dette når du har vært i direkte kontakt med felles berøringspunkter, slik som håndtak, signalknapper, armlener mv. Unngå å berøre flater når det ikke er nødvendig.	False	False	True	False	False	False	False	False
+19	Many employees in the state are at home with children all or part of the day, and some go to work earlier or later than usual.	False	False	False	False	False	False	False	False
+20	Jeg vet at dette er en belastning for dem som må vente med å få hjelp, men det er nødvendig for å sikre øyeblikkelig hjelp og intensivbehandling. Et av tiltakene er å øke kompetansen hos sykepleierne fra andre avdelinger slik at de kan jobbe med intensivpasienter og respiratorbehandling, sier helse- og omsorgsministeren.	False	False	False	False	False	False	False	False
+21	Utenriksdepartementet gjør unntak fra reiserådet som fraråder reiser som ikke er strengt nødvendige til alle land i verden. Unntak gjelder for land i EØS/Schengen fra og med 15. juli.	False	False	False	True	False	False	False	False
+22	 Men det er viktig at de nye reglene ikke er til hinder for forsyninger og andre kritiske samfunnsfunksjoner	False	False	False	False	False	False	False	False
+23	Barn, elever og ansatte i gjenåpnet barnehage, skole og skolefritidsordning er derfor lagt til på listen over grupper som prioriteres for testing.	False	False	True	False	False	False	False	False
+24	Utenriksdepartementet fraråder fortsatt reiser som ikke er strengt nødvendige til alle land utenfor EØS/Schengen-området. Dette reiserådet gjelder til og med 20. august.	False	False	False	True	False	False	False	False
+25	Befolkningen må være forberedt på at reisekarantene kan vare over sommeren.	False	False	False	False	False	False	False	False
+26	FHI anbefaler at alle som tilbyr aktiviteter til turister lager en plan for hvordan dette kan gjøres på en smittevernfaglig forsvarlig måte.	False	False	False	False	False	False	False	False
+27	Situasjonen rundt koronaviruset setter Norge på en stor prøve som samfunn, heter det i avtalen mellom staten, LO stat, Akademikerne, Unio og YS.	False	False	False	False	False	False	False	False
