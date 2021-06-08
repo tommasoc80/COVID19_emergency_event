@@ -13,12 +13,17 @@ from warnings import filterwarnings
 import sys
 import os
 
-
 SAVE_PREFIX = '/data/s3913171'
 LANGS = 'belgium,poland,france,italy,netherlands,norway,hungary,uk'
 
-manual_seed(42)
 filterwarnings('ignore')
+
+# reproducability
+SEED = torch.manual_seed(42)
+if torch.cuda.is_available():
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+    torch.cuda.manual_seed_all(42)
 
 
 def sprint(s: Any) -> None:
@@ -66,12 +71,12 @@ def main(name: str,
         if test_lang != '':
             languages.remove(test_lang)
             test_ds = read_labeled('./annotations/' + test_lang + '/full_' + version + '.tsv')
-            test_ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in test_ds]
+            #test_ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in test_ds]
         sprint(f'Training on {languages}...')
         sprint(f'Testing on {test_lang}...') if test_lang != '' else sprint('Not testing...')
 
         ds = merge_data(languages, version)
-        ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in ds]
+        #ds = [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in ds]
 
     # using standard train-dev-test splits
     else:
@@ -100,11 +105,11 @@ def main(name: str,
         else:
             train_ds, dev_ds, test_ds = dss['train'], dss['dev'], dss['test']
 
-        train_dl = DataLoader(model.tensorize_labeled(train_ds), batch_size=batch_size, 
+        train_dl = DataLoader(model.tensorize_labeled(train_ds), batch_size=batch_size, worker_init_fn=SEED,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device), shuffle=True)
-        dev_dl = DataLoader(model.tensorize_labeled(dev_ds), batch_size=batch_size, 
+        dev_dl = DataLoader(model.tensorize_labeled(dev_ds), batch_size=batch_size, worker_init_fn=SEED,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device), shuffle=False)
-        test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size, shuffle=False,
+        test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size, shuffle=False, worker_init_fn=SEED,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
         optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
@@ -130,11 +135,11 @@ def main(name: str,
 
             train_ds = [s for i, s in enumerate(ds) if i in train_idces]
             dev_ds = [s for i, s in enumerate(ds) if i in dev_idces]
-            train_dl = DataLoader(model.tensorize_labeled(train_ds), batch_size=batch_size, 
+            train_dl = DataLoader(model.tensorize_labeled(train_ds), batch_size=batch_size, worker_init_fn=SEED,
                 collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device), shuffle=True)
-            dev_dl = DataLoader(model.tensorize_labeled(dev_ds), batch_size=batch_size, 
+            dev_dl = DataLoader(model.tensorize_labeled(dev_ds), batch_size=batch_size, worker_init_fn=SEED,
                 collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device), shuffle=False)
-            test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size, shuffle=False,
+            test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size, shuffle=False, worker_init_fn=SEED,
                 collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
             optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
