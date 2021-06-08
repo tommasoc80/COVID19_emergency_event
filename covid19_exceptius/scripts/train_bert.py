@@ -38,7 +38,8 @@ def main(name: str,
        max_length: int,
        print_log: bool,
        with_class_weights: bool,
-       adaptation: bool):
+       adaptation: bool,
+       load_path: Maybe[str]):
     languages = languages.split(',')
 
     # concat all lang text for training
@@ -88,6 +89,8 @@ def main(name: str,
 
     if not kfold:
         model = make_classification_model(name, max_length=max_length).to(device)
+        if load_path is not None:
+            model.load_core(load_path)
         
         if adaptation:
             # random 80%-20% train-dev split
@@ -122,6 +125,8 @@ def main(name: str,
         accu = 0.
         for iteration, (train_idces, dev_idces) in enumerate(_kfold.split(ds)):
             model = make_classification_model(name, max_length=max_length).to(device)
+            if load_path is not None:
+                model.load_core(load_path)
 
             train_ds = [s for i, s in enumerate(ds) if i in train_idces]
             dev_ds = [s for i, s in enumerate(ds) if i in dev_idces]
@@ -156,6 +161,7 @@ if __name__ == "__main__":
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=7)
     parser.add_argument('-s', '--save_path', help='where to save best model', type=str, default=f'{SAVE_PREFIX}/COVID-19-event/checkpoints')
+    parser.add_argument('-l', '--load_path', help='where to load pretrained core from (default no)', type=str, default=None)
     parser.add_argument('-wd', '--weight_decay', help='weight decay to use for regularization', type=float, default=1e-02)
     parser.add_argument('-len', '--max_length', help='truncate to maximum sentence length', type=int, default=256)
     parser.add_argument('-kfold', '--kfold', help='k-fold cross validation', type=int, default=0)

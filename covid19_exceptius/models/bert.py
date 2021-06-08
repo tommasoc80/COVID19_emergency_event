@@ -36,6 +36,9 @@ class BertoidLM(Module):
         attention_mask = x.ne(self.tokenizer.pad_token_id)
         hidden, _ = self.core(x, attention_mask, output_hidden_states=False, return_dict=False)
         return self.head(hidden[mlm_mask == 1])
+
+    def load_core(self, load_path: str):
+        self.core.load_state_dict(load(load_path))
         
 
 class BertoidSentClassification(Module, Model):
@@ -72,6 +75,9 @@ class BertoidSentClassification(Module, Model):
         self.eval()
         tensorized = pad_sequence(self.tensorize_unlabeled(sents), padding_value=self.tokenizer.pad_token_id).to(device)
         return self.forward(tensorized).sigmoid().round().long().cpu().tolist()
+    
+    def load_core(self, load_path: str):
+        self.core.load_state_dict(load(load_path))
 
 
 def collate_with_mask(tokens: List[Sequence[int]], mask_fn: Masker, padding_value: int, device: str) -> Tuple[Tensor, ...]:
