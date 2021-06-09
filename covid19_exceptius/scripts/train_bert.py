@@ -1,9 +1,9 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import *
-from covid19_exceptius.models.bert import make_classification_model, collate_tuples
+from covid19_exceptius.models.bert import make_model, collate_tuples
 from covid19_exceptius.utils.training import Trainer
 
-from torch import manual_seed, tensor
+import torch
 from torch.optim import AdamW
 from torch.nn import Module, BCEWithLogitsLoss
 from torch.utils.data import random_split
@@ -58,6 +58,8 @@ def main(name: str,
     sprint(f'Model {name}, version {version}')
     if save_path != '':
         save_path = '/'.join([save_path, '_'.join([name, version])]) 
+        if load_path is not None:
+            save_path = save_path + '_pretrain'
         if not os.path.isdir(save_path):
             os.mkdir(save_path)
     else:
@@ -87,13 +89,13 @@ def main(name: str,
         if test_lang != '':
             dss['test'] = read_labeled('./annotations/' + test_lang + '/test_' + version + '.tsv')
         
-        dss = {k: [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in v] if v is not None else None for k, v in dss.items()}
+        #dss = {k: [AnnotatedSentence(no=s.no, text=s.text[-170:], labels=s.labels) for s in v] if v is not None else None for k, v in dss.items()}
         sprint(f'Training on train splits of all languages...')
         sprint(f'Testing on {test_lang}...') if test_lang != '' else sprint('Not testing...')
 
 
     if not kfold:
-        model = make_classification_model(name, max_length=max_length).to(device)
+        model = make_model(name, version='classifier', max_length=max_length).to(device)
         if load_path is not None:
             model.load_core(load_path)
         
@@ -113,11 +115,11 @@ def main(name: str,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
         optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
-        #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
+        #class_weights = torch.tensor(extract_class_weights(train_ds), dtype=longt, device=device)
         criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
         trainer = Trainer(model, (train_dl, dev_dl, test_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
 
-        best = trainer.iterate(num_epochs, with_save=save_path+'/model.p' if save_path is not None else None)
+        best = trainer.iterate(num_epochs, with_save=save_path)
         sprint('Results random split:')
         sprint(f' best dev: {best}')
         if test_dl is not None:
@@ -129,7 +131,7 @@ def main(name: str,
 
         accu = 0.
         for iteration, (train_idces, dev_idces) in enumerate(_kfold.split(ds)):
-            model = make_classification_model(name, max_length=max_length).to(device)
+            model = make_model(name, version='classifier', max_length=max_length).to(device)
             if load_path is not None:
                 model.load_core(load_path)
 
@@ -143,11 +145,11 @@ def main(name: str,
                 collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
             optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
-            #class_weights = tensor(extract_class_weights(train_ds), dtype=longt, device=device)
+            #class_weights = torch.tensor(extract_class_weights(train_ds), dtype=longt, device=device)
             criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
             trainer = Trainer(model, (train_dl, dev_dl, test_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
             
-            best = trainer.iterate(num_epochs, with_save=save_path+'/model.p' if save_path is not None else None)
+            best = trainer.iterate(num_epochs, with_save=save_path)
             sprint(f'Results {kfold}-fold, iteration {iteration + 1}:')
             sprint(f' best dev: {best}')
             if test_dl is not None:
@@ -160,7 +162,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('-n', '--name', help='name of the BERT model to load', type=str)
-    parser.add_argument('-l', '--languages', help='what languages to train on (separated by ,)', type=str, default=LANGS)
+    parser.add_argument('-lang', '--languages', help='what languages to train on (separated by ,)', type=str, default=LANGS)
     parser.add_argument('-tst', '--test_lang', help='what language to test on', type=str, default='')
     parser.add_argument('-d', '--device', help='cpu or cuda', type=str, default='cuda')
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)

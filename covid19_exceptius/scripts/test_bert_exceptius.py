@@ -1,5 +1,5 @@
 from covid19_exceptius.types import *
-from covid19_exceptius.models.bert import make_classification_model, collate_tuples
+from covid19_exceptius.models.bert import make_model, collate_tuples
 from covid19_exceptius.utils.training import eval_epoch_supervised
 from covid19_exceptius.preprocessing import read_labeled
 
@@ -23,7 +23,7 @@ def main(name: str,
 
     # load pretrained model
     print('Loading model...')
-    model = make_classification_model(name, max_length=max_length).eval().to(device)
+    model = make_model(name, version='classifier', max_length=max_length).eval().to(device)
     model.load_state_dict(torch.load(load_path))
     criterion = BCEWithLogitsLoss().to(device)
 

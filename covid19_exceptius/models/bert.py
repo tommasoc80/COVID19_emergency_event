@@ -11,9 +11,8 @@ from transformers import AutoModel, AutoTokenizer
 class BertoidLM(Module):
     def __init__(self, name: str, max_length: Maybe[int] = None, token_name: Maybe[str] = None, model_dim: int = 768):
         super().__init__()
-        self.token_name = name if token_name is None else token_name
         self.core = AutoModel.from_pretrained(name)
-        self.tokenizer = AutoTokenizer.from_pretrained(self.token_name, use_fast=False)
+        self.tokenizer = AutoTokenizer.from_pretrained(name if token_name is None else token_name, use_fast=False)
         self.max_length = max_length
         self.head = Sequential(Linear(model_dim, model_dim),
                                LayerNorm(model_dim, eps=1e-05),
@@ -43,12 +42,11 @@ class BertoidLM(Module):
 
 class BertoidSentClassification(Module, Model):
     def __init__(self, name: str, model_dim: int = 768, num_classes: int = 8,
-            dropout_rate: float = 0.5, max_length: Maybe[int] = None, 
-            token_name: Maybe[str] = None):
+                 dropout_rate: float = 0.5, max_length: Maybe[int] = None, 
+                 token_name: Maybe[str] = None):
         super().__init__()
-        self.token_name = name if token_name is None else token_name
         self.core = AutoModel.from_pretrained(name)
-        self.tokenizer = AutoTokenizer.from_pretrained(self.token_name, use_fast=False)
+        self.tokenizer = AutoTokenizer.from_pretrained(name if token_name is None else token_name, use_fast=False)
         self.max_length = max_length
         self.dropout = Dropout(dropout_rate)
         self.classifier = Linear(model_dim, num_classes)
@@ -129,44 +127,30 @@ def make_pretrain_dataset(path: str, tokenizer: AutoTokenizer, with_save: Maybe[
     return prepare_pretrain_corpus(path, tokenizer_fn, save_path=with_save)
 
 
-def make_classification_model(name: str, **kwargs) -> BertoidSentClassification:
-    # todo: find all applicable models
+def make_model(name: str, version: str, **kwargs):
+    if version == 'mlm':
+        model = BertoidLM
+    elif version == 'classifier':
+        model = BertoidSentClassification
+    else:
+        raise ValueError(f'unknown model verison {version}')
+
     if name == 'eng-bert':
-        return BertoidSentClassification(name='bert-base-uncased', **kwargs)
+        return model(name='bert-base-uncased', **kwargs)
     elif name == 'eng-legal':
-        return BertoidSentClassification(name='nlpaueb/legal-bert-base-uncased', **kwargs)
+        return model(name='nlpaueb/legal-bert-base-uncased', **kwargs)
 
     # multi-lingual models
     elif name == 'mbert':
-        return BertoidSentClassification(name='bert-base-multilingual-cased', **kwargs)
+        return model(name='bert-base-multilingual-cased', **kwargs)
     elif name == 'xlm':
-        return BertoidSentClassification(name='xlm-roberta-base', **kwargs)
+        return model(name='xlm-roberta-base', **kwargs)
     elif name == 'mbert-xnli':
-        return BertoidSentClassification(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
+        return model(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
     elif name == 'mbert-microsoft':
-        return BertoidSentClassification(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
+        return model(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
     else:
-        raise ValueError(f'unknown name {name}')
-
-
-def make_mlm_model(name: str, **kwargs) -> BertoidLM:
-    if name == 'eng-bert':
-        return BertoidLM(name='bert-base-uncased', **kwargs)
-    elif name == 'eng-legal':
-        return BertoidLM(name='nlpaueb/legal-bert-base-uncased', **kwargs)
-
-    # multi-lingual models
-    elif name == 'mbert':
-        return BertoidLM(name='bert-base-multilingual-cased', **kwargs)
-    elif name == 'xlm':
-        return BertoidLM(name='xlm-roberta-base', **kwargs)
-    elif name == 'mbert-xnli':
-        return BertoidLM(name='joeddav/xlm-roberta-large-xnli', model_dim=1024, **kwargs)
-    elif name == 'mbert-microsoft':
-        return BertoidLM(name='microsoft/Multilingual-MiniLM-L12-H384', model_dim=384, token_name='xlm-roberta-base', **kwargs)
-    else:
-        raise ValueError(f'unknown name {name}')
-
+        raise ValueError(f'unknown name {name}')    
 
 
 def annotate_files(files: List[str], model: BertoidSentClassification, save_path: str, device: str = 'cuda'):

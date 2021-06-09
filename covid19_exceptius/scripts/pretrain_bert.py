@@ -1,9 +1,9 @@
 from covid19_exceptius.types import *
 from covid19_exceptius.preprocessing import read_tokenized
-from covid19_exceptius.models.bert import make_mlm_model, collate_with_mask
+from covid19_exceptius.models.bert import make_model, collate_with_mask
 from covid19_exceptius.utils.training import Trainer
 
-from torch import manual_seed
+from torch import manual_seed, load
 from torch.optim import AdamW
 from torch.nn import CrossEntropyLoss
 
@@ -33,10 +33,13 @@ def main(name: str,
          print_log: bool,
          early_stopping: int,
          checkpoint: bool,
+         load_path: Maybe[str],
          save_path: Maybe[str]):
 
     sprint('Loading model...')
-    model = make_mlm_model(name, max_length=max_length).to(device)
+    model = make_model(name, version='mlm', max_length=max_length).to(device)
+    if load_path is not None:
+        model.load_state_dict(load(load_path))
 
     # get data from checkpoint if wanted
     sprint('Preparing data...')
@@ -89,6 +92,7 @@ if __name__ == "__main__":
     parser.add_argument('-len', '--max_length', help='truncate to maximum sentence length', type=int, default=256)
     parser.add_argument('--print_log', action='store_true', help='print training logs', default=False)
     parser.add_argument('--checkpoint', action='store_true', help='load already tokenized data from checkpoint', default=False)
+    parser.add_argument('-l', '--load_path', help='where to load pretrained model core from (default no)', type=str, default=None)
     
     kwargs = vars(parser.parse_args())
     main(**kwargs)

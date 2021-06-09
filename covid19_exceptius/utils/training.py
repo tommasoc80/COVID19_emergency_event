@@ -140,7 +140,7 @@ class Trainer(ABC):
             print('DEV:')
             for k, v in self.logs['dev'][-1].items():
                 print(f'{k} : {v}')
-            print('==' * 72)
+            print('==' * 90)
             sys.stdout.flush()
 
     def train_epoch(self):
