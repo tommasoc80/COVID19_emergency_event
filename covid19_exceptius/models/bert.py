@@ -122,9 +122,7 @@ def make_unlabeled_dataset(path: str, tokenizer: AutoTokenizer, **kwargs) -> Lis
 
 def make_pretrain_dataset(path: str, tokenizer: AutoTokenizer, with_save: Maybe[str] = None, **kwargs) -> List[Tensor]:
     from covid19_exceptius.preprocessing import prepare_pretrain_corpus
-    from functools import partial
-    tokenizer_fn = partial(tokenizer.encode, **kwargs)
-    return prepare_pretrain_corpus(path, tokenizer_fn, save_path=with_save)
+    return prepare_pretrain_corpus(path, tokenizer, save_path=with_save)
 
 
 def make_model(name: str, version: str, **kwargs):

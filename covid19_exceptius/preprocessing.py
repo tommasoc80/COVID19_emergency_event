@@ -251,49 +251,111 @@ def split_documents_to_folders(root: str, sizes: Sequence[int], dev_thresh: int,
             do_split('test', file, country)
 
 
-def concat_to_len(tokens: List[Sequence[int]], state: Maybe[List[int]] = None, max_len: int = 256) -> List[Sequence[int]]:
-    tokens = list(set([tuple(line) for line in tokens])) # convert to hashable type
-    to_merge = [line for line in tokens if len(line) <= max_len // 2]
-    if not to_merge or to_merge == state:
-        # recursion base case
-        return tokens
+# def concat_to_len(tokens: List[Sequence[int]], state: Maybe[List[int]] = None, max_len: int = 256) -> List[Sequence[int]]:
+#     tokens = list(set([tuple(line) for line in tokens])) # convert to hashable type
+#     to_merge = [line for line in tokens if len(line) <= max_len // 2]
+#     if not to_merge or to_merge == state:
+#         # recursion base case
+#         return tokens
 
-    else:
-        group1 = sorted(to_merge[:len(to_merge) // 2], key=lambda l: len(l), reverse=True)
-        group2 = sorted(to_merge[len(to_merge) // 2:], key=lambda l: len(l), reverse=False)
-        grouped = [line1 + line2 for line1, line2 in zip_longest(group1, group2, fillvalue=tuple([]))]
-        rest = set(tokens).difference(set(to_merge))
-        rest.update(grouped)
-        return concat_to_len(list(rest), state=to_merge)
+#     else:
+#         group1 = sorted(to_merge[:len(to_merge) // 2], key=lambda l: len(l), reverse=True)
+#         group2 = sorted(to_merge[len(to_merge) // 2:], key=lambda l: len(l), reverse=False)
+#         grouped = [line1 + line2 for line1, line2 in zip_longest(group1, group2, fillvalue=tuple([]))]
+#         rest = set(tokens).difference(set(to_merge))
+#         rest.update(grouped)
+#         return concat_to_len(list(rest), state=to_merge)
        
+
+# def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: Maybe[str] = None) -> List[int]:
+#     # load all text
+#     countries = [os.path.join(root, f) for f in os.listdir(root) if os.path.isdir(os.path.join(root, f))]
+#     files = sum([[os.path.join(country, f) for f in  os.listdir(country) if f.endswith('txt')] for country in countries], [])
+#     all_lines = []
+#     print('Loading all txt files...')
+#     for file in tqdm(files):
+#         with open(file, 'r') as f:
+#             all_lines.extend([l.split('\t')[0] for l in (line.strip() for line in f) if l])
+
+#     # remove duplicates and very short lines
+#     all_lines = list(set(all_lines))
+#     all_lines = [l for l in all_lines if len(l.split()) >= 3]
+
+#     # tokenize lines and shuffle
+#     print('Tokenizing text...')
+#     all_lines = list(map(tokenizer, all_lines))
+#     all_lines = sample(all_lines, len(all_lines))
+
+#     # concat sentences in single line with max len 256
+#     all_lines = concat_to_len(all_lines)
+
+#     # write to file if wanted
+#     if save_path is not None:
+#         print(f'Writing to {save_path + "/full.txt"}...')
+#         to_strings = [' '.join(list(map(str, line))) for line in all_lines]
+#         with open(save_path + '/full.txt', 'w') as f:
+#             f.write('\n'.join(to_strings))
+
+#     return all_lines
+
+
+def concat_to_len(tokens: List[int], stop_token: int, 
+                   start_token: int = 0, end_token: int = 2, max_len: int = 256) -> List[str]:
+    # remove sos and eos tokens as they will be add manually
+    tokens = tokens[1:-1]
+
+    # find positions of all stop sequence tokens
+    stop_pos = [i for i, t in enumerate(tokens) if t == stop_token]
+
+    start, end, offset = -1, 1, -1
+    grouped = []
+    while 1:
+        to_search = np.array(stop_pos[offset+1:]) - end + 1
+
+        if len(to_search) == 0:
+            break
+
+        elif to_search[0] > max_len - 2:
+            offset += 1 
+            end = start + max_len - 2
+            
+        else:
+            offset += 1 + np.where(to_search <= max_len - 2)[0][-1]
+            end = stop_pos[offset]
+
+        grouped.append([start_token] + tokens[start+1: end+1] + [end_token])
+        start = end
+
+    return grouped
+
 
 def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: Maybe[str] = None) -> List[int]:
     # load all text
     countries = [os.path.join(root, f) for f in os.listdir(root) if os.path.isdir(os.path.join(root, f))]
-    files = sum([[os.path.join(country, f) for f in  os.listdir(country) if f.endswith('txt')] for country in countries], [])
+    files = [[os.path.join(country, f) for f in  os.listdir(country) if f.endswith('txt')] for country in countries]
     all_lines = []
-    print('Loading all txt files...')
-    for file in tqdm(files):
-        with open(file, 'r') as f:
-            all_lines.extend([l.split('\t')[0] for l in (line.strip() for line in f) if l])
+    for fs, country in zip(files, countries):
+        print(f'Loading {country} files...')
+        lines_now = []
+        for file in tqdm(fs):
+            with open(file, 'r') as f:
+                lines_now.extend([l.split('\t')[0] for l in (line.strip() for line in f) if l])
+        all_lines.append(lines_now)
 
-    # remove duplicates and very short lines
-    all_lines = list(set(all_lines))
-    all_lines = [l for l in all_lines if len(l.split()) >= 3]
-
-    # tokenize lines and shuffle
-    print('Tokenizing text...')
-    all_lines = list(map(tokenizer, all_lines))
-    all_lines = sample(all_lines, len(all_lines))
-
-    # concat sentences in single line with max len 256
-    all_lines = concat_to_len(all_lines)
+    # tokenize and concat to default max len 256
+    all_tokens = []
+    stop = tokenizer.get_vocab()['.']
+    print('Tokenizing...')
+    for i, lines in enumerate(tqdm(all_lines)):
+        _text = ' '.join(lines)
+        _tokens = tokenizer.encode(_text)
+        all_tokens.append(concat_to_len(_tokens, stop_token=stop))
 
     # write to file if wanted
     if save_path is not None:
         print(f'Writing to {save_path + "/full.txt"}...')
-        to_strings = [' '.join(list(map(str, line))) for line in all_lines]
+        to_strings = [' '.join(list(map(str, line))) for line in all_tokens]
         with open(save_path + '/full.txt', 'w') as f:
             f.write('\n'.join(to_strings))
 
-    return all_lines
+    return all_tokens
