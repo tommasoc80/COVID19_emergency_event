@@ -2,7 +2,7 @@ from covid19_exceptius.types import *
 from covid19_exceptius.models.bagging import *
 from covid19_exceptius.preprocessing import read_labeled
 from covid19_exceptius.utils.embeddings import WordEmbedder, make_word_embedder
-from covid19_exceptius.utils.training import train_epoch, eval_epoch
+from covid19_exceptius.utils.training import train_epoch_supervised, eval_epoch_supervised
 from covid19_exceptius.utils.tf_idf import TfIdfTransform, extract_tf_idfs
 
 from torch import manual_seed, save, tensor
@@ -16,7 +16,8 @@ import sys
 import os
 
 SAVE_PREFIX = '.'
-
+train_epoch = train_epoch_supervised
+eval_epoch = eval_epoch_supervised
 
 def sprint(s: str) -> None:
     print(s)
@@ -64,22 +65,20 @@ def main(embeddings: str,
         train_log, dev_log, test_log = [], [], []
         best = 0
         for epoch in range(num_epochs):
-            train_log.append(train_epoch(model, train_dl, optimizer, criterion, device))
+            train_log.append(train_epoch(model, train_dl, optimizer, criterion))
             sprint(train_log[-1])
-            dev_log.append(eval_epoch(model, dev_dl, criterion, device))
+            dev_log.append(eval_epoch(model, dev_dl, criterion))
             sprint(dev_log[-1])
             sprint('=' * 64)
-            if dev_log[-1]['accuracy'] > dev_log[best]['accuracy']:
+            if dev_log[-1]['mean_f1'] > dev_log[best]['mean_f1']:
                 best = epoch
-                faith = array([c['f1'] for c in dev_log[-1]['column_wise']])
-                save(
-                    {'faith': faith, 'model_state_dict': model.state_dict()}, f'{save_path}/model.p')
-                # eval on test set for each new best model
                 if test_ds is not None:
-                    test_log.append(eval_epoch(model, test_dl, criterion, device))
+                    test_log.append(eval_epoch(model, test_dl, criterion))
                     sprint('\nTEST\n')
                     sprint(test_log[-1])
                     sprint('=' * 64)
+                else:
+                    test_log.append('empty')
         return (train_log, dev_log, test_log), best
 
 
@@ -93,13 +92,12 @@ def main(embeddings: str,
 
     if not kfold:
         # 80-20 random train-dev split
-        ds = read_labeled(data_path)
-        dev_size = int(.2 * len(ds))
-        train_ds, dev_ds = random_split(ds, [len(ds) - dev_size, dev_size])    
+        train_ds, dev_ds = read_labeled(data_path + '/all_train_or.tsv'), read_labeled(data_path + '/all_dev_or.tsv')
         test_ds = read_labeled(test_path) if test_path != '' else None 
         logs, best = train(train_ds, dev_ds, test_ds)
         sprint('Results random split:')
-        sprint(logs[1][best])
+        sprint(f' best dev: {logs[1][best]}')
+        sprint(f' best test: {logs[2][best]}')
     
     else:
         # k-fold cross validation

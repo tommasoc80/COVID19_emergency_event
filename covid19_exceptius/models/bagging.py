@@ -108,7 +108,6 @@ def tensorize_labeled(sents: List[AnnotatedSentence], *args, **kwargs) -> List[T
     labels = tokenize_labels([sent.labels for sent in sents])
     return [(inp[0], inp[1], label) for inp, label in zip(unlabeled, labels)]
 
-
 def tokenize_labels(labels: List[List[Label]], device: str = 'cpu') -> List[Tensor]:
     def _tokenize_labels(labels: List[Label]) -> Tensor:
         return tensor([0 if label is False else 1 for label in labels], dtype=longt, device=device)
