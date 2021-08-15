@@ -11,8 +11,8 @@ def get_metrics(preds: List[List[int]], labels: List[List[int]]) -> Dict[str, An
     labels_with_events = [l for i, l in enumerate(labels) if i in event_idces]
     preds_with_events = [p for i, p in enumerate(preds) if i in event_idces]
 
-    per_column_preds = list(zip(*preds_with_events))
-    per_column_labels = list(zip(*labels_with_events))
+    per_column_preds = list(zip(*preds))
+    per_column_labels = list(zip(*labels))
     per_column_metrics = [(f1_score(pcl, pcp, labels=[1, 0], average='weighted'),
                            recall_score(pcl, pcp, labels=[1, 0], average='weighted'),
                            precision_score(pcl, pcp, labels=[1, 0], average='weighted'))
