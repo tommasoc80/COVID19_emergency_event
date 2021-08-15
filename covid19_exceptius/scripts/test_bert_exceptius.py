@@ -27,6 +27,7 @@ def main(name: str,
     model.load_state_dict(torch.load(load_path))
     criterion = BCEWithLogitsLoss().to(device)
 
+
     # load data for all countries
     countries = [f for f in os.listdir(data_root) if os.path.isdir(os.path.join(data_root, f))]
     test_files = [[os.path.join(data_root, country, f) for f in os.listdir(os.path.join(data_root, country)) if f.startswith('test_or')][0]

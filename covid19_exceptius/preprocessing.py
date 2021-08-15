@@ -352,6 +352,7 @@ def prepare_pretrain_corpus(root: str, tokenizer: Tokenizer, save_path: Maybe[st
         all_tokens.append(concat_to_len(_tokens, stop_token=stop))
 
     # write to file if wanted
+    all_tokens = sum(all_tokens, [])
     if save_path is not None:
         print(f'Writing to {save_path + "/full.txt"}...')
         to_strings = [' '.join(list(map(str, line))) for line in all_tokens]

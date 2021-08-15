@@ -39,6 +39,8 @@ def main(name: str,
        num_epochs: int,
        weight_decay: float,
        save_path: str,
+       lr: float,
+       dropout: float,
        kfold: int,
        max_length: int,
        print_log: bool,
@@ -95,7 +97,7 @@ def main(name: str,
 
 
     if not kfold:
-        model = make_model(name, version='classifier', max_length=max_length).to(device)
+        model = make_model(name, version='classifier', max_length=max_length, dropout_rate=dropout).to(device)
         if load_path is not None:
             model.load_core(load_path)
         
@@ -114,7 +116,7 @@ def main(name: str,
         test_dl = DataLoader(model.tensorize_labeled(test_ds), batch_size=batch_size, shuffle=False, worker_init_fn=SEED,
             collate_fn=lambda b: collate_tuples(b, model.tokenizer.pad_token_id, device)) if test_ds is not None else None
 
-        optim = AdamW(model.parameters(), lr=3e-05, weight_decay=weight_decay)
+        optim = AdamW(model.parameters(), lr=lr, weight_decay=weight_decay)
         #class_weights = torch.tensor(extract_class_weights(train_ds), dtype=longt, device=device)
         criterion = BCEWithLogitsLoss() if not with_class_weights else BCEWithLogitsLoss(pos_weight=class_weights)
         trainer = Trainer(model, (train_dl, dev_dl, test_dl), optim, criterion, target_metric='event_accuracy_label', print_log=print_log)
@@ -166,6 +168,8 @@ if __name__ == "__main__":
     parser.add_argument('-tst', '--test_lang', help='what language to test on', type=str, default='')
     parser.add_argument('-d', '--device', help='cpu or cuda', type=str, default='cuda')
     parser.add_argument('-bs', '--batch_size', help='batch size to use for training', type=int, default=16)
+    parser.add_argument('-lr', '--lr', help='learning rate to use for optimization', type=float, default=3e-05)
+    parser.add_argument('-dr', '--dropout', help='dropout rate in classifier layer', type=float, default=0.5)
     parser.add_argument('-e', '--num_epochs', help='how many epochs of training', type=int, default=7)
     parser.add_argument('-s', '--save_path', help='where to save best model', type=str, default=f'{SAVE_PREFIX}/COVID-19-event/checkpoints')
     parser.add_argument('-l', '--load_path', help='where to load pretrained core from (default no)', type=str, default=None)
