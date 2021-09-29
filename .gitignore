@@ -1,0 +1,9 @@
+
+# macOS file
+.DS_Store
+
+# repo folder
+COVID19_emergency_event/
+Models/
+UK_1000_stats/
+Annotated_data/
