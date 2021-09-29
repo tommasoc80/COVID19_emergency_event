@@ -1,0 +1,29 @@
+id	text	event1	event2	event3	event4	event5	event6	event7	event8
+0	Normalt skal alle statsansatte ha en kjernetid fra klokken 09.00 til klokken 14.30. I dag har partene blant annet blitt enige om at denne kjernetiden settes ut av kraft for en periode.	False	False	False	True	False	False	False	False
+1	Både lov og avtaleverk legger til rette for at arbeidsgiver og tillitsvalgte kan finne gode løsninger lokalt. Dette oppfordrer vi spesielt til nå, skriver partene.	False	False	False	True	False	False	False	False
+2	Koronaloven	True	False	False	False	False	False	False	False
+3	Virksomhetene og aktivitetene må drive smittevernfaglig forsvarlig når de åpner igjen.	False	False	False	True	False	False	False	False
+4	Dette innebærer også at treninger og annen organisert idrettsaktivitet kan gjennomføres for inntil 20 personer som holder minst én meter avstand.	False	False	True	False	False	False	False	False
+5	Forbudet mot utenlandsreiser for helsepersonell oppheves.	False	False	False	True	False	False	False	False
+6	 Det gis unntak fra karanteneplikten i seks måneder for personer som har gjennomgått infeksjon med SARS-CoV-2.	False	False	True	False	False	False	False	False
+7	 Tydelige og praktiske råd om hvordan transportselskapene kan drive godt smittevern er viktig framover. Mange har hjemmekontor, og det letter trykket på kollektivtransporten.	False	False	False	False	False	False	False	False
+8	Det er Helsedirektoratet og Folkehelseinstituttet som har utarbeidet smittevernveilederen, med innspill fra transportbransjen.	False	False	False	True	False	False	False	False
+9	 Det skal oppleves som trygt å reise kollektivt og med drosje, både for passasjerer og ansatte. Veilederen som nå er på plass hjelper både transportselskapene og passasjerene til godt smittevern, sier helse- og omsorgsminister Bent Høie.	False	False	False	False	False	False	False	False
+10	Det anbefales at passasjerene sitter spredt, for eksempel på annethvert sete (gjelder ikke for husstandsmedlemmer).	False	False	False	False	False	False	False	False
+11	Situasjoner der det for eksempel kan være behov for ekstra tilrettelegging er ved av-/påstigning, i venteområder, ved billettautomater/-skranker osv.	False	False	False	False	False	False	False	False
+12	Er reisen nødvendig? Vurder nødvendigheten av å gjennomføre reisen.	False	False	False	True	False	False	False	False
+13	Hold avstand: Forsøk å holde god avstand til andre passasjerer.	False	False	True	False	False	False	False	False
+14	En ukontrollert pandemi vil gi en samlet stor sykdomsbyrde med et høyt antall syke og et høyt antall sykehusinnleggelser.	False	False	False	False	False	False	False	False
+15	Innreiserestriksjoner er et mer inngripende tiltak, men er enklere å håndheve.	False	False	False	False	False	False	True	False
+16	Regjeringen har også signalisert at det fra norsk side vil skje gradvise lempinger, men mener samtidig at det kan være behov for å videreføre bruk av innreiserestriksjoner i noe tid fremover.	False	False	False	False	False	False	True	False
+17	Jeg har derfor gjennom Helsedirektoratet bedt om at fylkesmennene bistår kommunene i dette arbeidet, sier helse- og omsorgsminister Bent Høie .	True	False	False	False	False	False	False	False
+18	Flere kommuner har vedtatt karantenepåbud for reisende fra andre deler av landet.	False	False	True	True	False	False	False	False
+19	Smittevernloven gir kommunene rett til å fatte vedtak for å beskytte befolkningen, men loven krever at tiltakene må stå i forhold til det som er målet med dem.	True	False	False	False	False	False	False	False
+20	Reglene må ikke forhindre at de som ivaretar kritiske samfunnsfunksjoner forflytter seg over kommunegrensene.	False	False	False	False	False	False	False	False
+21	Regjeringen har besluttet å endre bortvisningsforskriften, slik at blant annet flere EØS-borgere som skal arbeide her, kan reise inn i Norge.	False	True	False	False	True	False	True	False
+22	Det betyr at du ikke skal reise når du er syk eller i hjemmekarantene, at du skal ivareta god hygiene og holde minst én meters avstand til andre enn dine nærmeste.	False	False	True	False	False	False	False	False
+23	Med virkning fra 1. juli, endrer justis- og beredskapsminister Monica Mæland bortvisningsforskriften for å utvide adgangen til innreise.	False	False	False	False	True	False	False	False
+24	Jeg har gjennom hele denne perioden ønsket en mest mulig normal situasjon til høstens studiestart. En del av det er å kunne ønske internasjonale studenter velkommen til Norge og til norske universiteter og høyskoler.	False	False	False	False	False	False	False	False
+25	Nordiske borgere skal få transitt gjennom nordiske land slik at de kan reise hjem til sine respektive land.	False	False	False	False	True	False	False	False
+26	Mellom 18. mars og 26. april er det i regi av ordningen med støtte for hjemflygning gjennomført 29 flygninger, de aller fleste til Oslo lufthavn	False	False	False	False	True	False	False	False
+27	Ute i det offentlige rom, bør folk ha minst en meters avstand til andre mennesker.	False	False	True	False	False	False	False	False
