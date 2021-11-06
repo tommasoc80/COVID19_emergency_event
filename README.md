@@ -14,14 +14,24 @@ All data (raw documents, pre-processed with UDPipe, and automatically annotated 
 
 
 # Citation
-If you find any of the data or models useful, please cite the following paper (publication link coming soon): 
+If you find any of the data or models useful, please cite the following paper (available [here](https://aclanthology.org/2021.nllp-1.5)): 
 
 ```
-@InProceedings{tziafas_et_al_2021,
-  author    = {Tziafas, Georgios and de Saint-Phalle, Eugenie and de Vries, Wietse and Egger, Clara and Caselli, Tommaso},
-  title     = {{A Multilingual Approach to Identify and Classify Exceptional Measures Against COVID-19}},
-  booktitle = {Proceedings of the 3rd Natural Legal Language Processing (NLLP 2021)},
-  year      = {2021}
+@inproceedings{tziafas-etal-2021-multilingual,
+    title = "A Multilingual Approach to Identify and Classify Exceptional Measures against {COVID}-19",
+    author = "Tziafas, Georgios  and
+      de Saint-Phalle, Eugenie  and
+      de Vries, Wietse  and
+      Egger, Clara  and
+      Caselli, Tommaso",
+    booktitle = "Proceedings of the Natural Legal Language Processing Workshop 2021",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.nllp-1.5",
+    pages = "46--62",
+    abstract = "The COVID-19 pandemic has witnessed the implementations of exceptional measures by governments across the world to counteract its impact. This work presents the initial results of an on-going project, EXCEPTIUS, aiming to automatically identify, classify and com- pare exceptional measures against COVID-19 across 32 countries in Europe. To this goal, we created a corpus of legal documents with sentence-level annotations of eight different classes of exceptional measures that are im- plemented across these countries. We evalu- ated multiple multi-label classifiers on a manu- ally annotated corpus at sentence level. The XLM-RoBERTa model achieves highest per- formance on this multilingual multi-label clas- sification task, with a macro-average F1 score of 59.8{\%}.",
 }
 ``` 
 
