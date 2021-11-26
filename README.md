@@ -8,6 +8,9 @@ The folder /annotations/ contains the manually annotated data per country, alrea
 
 The folder /model/ contains the scripts used to train/test the different models (SVM, MLP, bi-GRU, XLM-RoBERTa)
 
+The folder /Exceptius-national_further_training_data/ contains the documents (divided into train and test portions) used to further train XLM-RoBERTa (in the paper the further trained model is called XLM pre@36 - check Table 4).
+
+
 The best fine-tuned XLM-RoBERTa model (further trained with MLM) is available here https://drive.google.com/drive/folders/1u2XGrwhImoLML9t8SCta6B3jEOwJ6Fxx?usp=sharing
 
 All data (raw documents, pre-processed with UDPipe, and automatically annotated with XLM-RoBERTa for exceptional measures) are available in the DataverseNL platform (link coming soon).
