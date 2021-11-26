@@ -1,0 +1,520 @@
+﻿818.101.24
+Ordonnance 3
+sur les mesures destinées à lutter contre le coronavirus
+(COVID-19)
+(Ordonnance 3 COVID-19)
+du 19 juin 2020 (Etat le 22 juin 2020)
+Le Conseil fédéral suisse,
+vu l'art. 185, al. 3, de la Constitution1,
+arrête:
+Chapitre 1 Dispositions générales
+Art. 1 Objet et but
+1	La présente ordonnance règle les mesures visant la population, les organisations,
+les institutions et les cantons dans le but de lutter contre le coronavirus (COVID-19).
+2	Les mesures visent à assurer la capacité de la Suisse à endiguer l'épidémie, en
+particulier à maintenir un approvisionnement suffisant de la population en soins et
+en produits thérapeutiques importants.
+Art. 2	Compétences des cantons
+Sauf disposition contraire de la présente ordonnance, les cantons demeurent compé-
+tents.
+Chapitre 2 Maintien des capacités sanitaires
+Section 1	Principe
+Art. 3
+1	Afin de conserver la capacité de la Suisse à faire face à l'épidémie de COVID-19,
+en particulier à assurer un approvisionnement suffisant de la population en soins et
+en produits thérapeutiques, les mesures suivantes doivent être prises, notamment:
+a.	des mesures visant à restreindre l'entrée en Suisse de personnes en prove-
+nance de pays ou de régions à risque ainsi que l'importation et l'exportation
+de marchandises;
+b.	des mesures visant à garantir l'approvisionnement en biens médicaux impor-
+tants.
+RO 2020 2195
+1 RS 101
+1
+818.101.24
+Lutte contre le maladies
+2	Par pays ou région à risque, on entend notamment tout pays ou toute région dont
+les autorités ont décrété des mesures exceptionnelles visant à prévenir et à combattre
+l'épidémie de COVID-19. La liste des pays ou régions à risque est publiée dans
+l'annexe 1. Le Département fédéral de justice et police (DFJP) établit la liste et
+l'actualise en permanence après consultation du Département fédéral de l'intérieur
+(DFI) et du Département fédéral des affaires étrangères (DFAE).
+Section 2	Restrictions du franchissement de la frontière
+et de l'admission d'étrangers
+Art. 4	Franchissement de la frontière et contrôles
+1	Toute personne en provenance d'un pays à risque ou d'une région à risque souhai-
+tant entrer en Suisse doit remplir au moins l'une des conditions suivantes:
+a.	être de nationalité suisse;
+b.	être titulaire d'un document de voyage et:
+1.	d'un titre de séjour, notamment un permis de séjour suisse, un visa dé-
+livré par la Suisse avec comme motif «discussion d'affaires» en tant
+que spécialiste dans le domaine de la santé ou «visite officielle» d'une
+grande importance, ou
+2.	d'une autorisation d'entrée, accompagnée d'un visa délivré par la
+Suisse, ou d'une assurance d'autorisation de séjour;
+c.	bénéficier de la libre circulation des personnes;
+d.	effectuer un transport de marchandises à titre commercial et posséder un bul-
+letin de livraison;
+e.	être en transit en Suisse avec l'intention et la possibilité de se rendre direc-
+tement dans un autre pays;
+f.	être dans une situation d'absolue nécessité;
+g.	être d'une grande importance en tant que spécialiste dans le domaine de la
+santé.
+2	Les étrangers qui ne peuvent se prévaloir de l'accord du 21 juin 1999 entre la
+Confédération suisse, d'une part, et la Communauté européenne et ses États
+membres, d'autre part, sur la libre circulation des personnes (ALCP)2 ou de la Con-
+vention du 4 janvier 1960 instituant l'Association européenne de libre-échange
+(convention AELE)3 doivent au surplus remplir les conditions d'entrée visées à
+l'art. 5 de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
+(LEI)4.
+3	Les autorités compétentes effectuent des contrôles fondés sur des critères de
+risque.
+2 RS 0.142.112.681
+3 RS 0.632.31
+4 RS 142.20
+2
+Ordonnance 3 COVID-19
+818.101.24
+4	Les personnes concernées doivent pouvoir montrer de manière crédible qu'elles
+remplissent une des conditions précitées. Le Secrétariat d'État aux migrations
+(SEM) publie les directives nécessaires.
+5	Les décisions des autorités compétentes sont immédiatement exécutoires. L'art. 65
+LEI s'applique par analogie. Un recours contre la décision du SEM sur l'opposition
+peut être formé dans les 30 jours à compter de la notification de la décision. Le
+recours n'a pas d'effet suspensif.
+6	Les dispositions pénales de l'art. 115 LEI s'appliquent par analogie. En cas de
+violation des dispositions concernant l'entrée, une interdiction d'entrée peut être
+prononcée.
+7	L'entrée de voyageurs étrangers dans les aérodromes par les frontières extérieures
+de l'espace Schengen peut également être refusée si aucune des conditions visées à
+l'al. 1 n'est remplie. Le DFJP détermine pour quels pays ou région à risque cette
+mesure est nécessaire après consultation du DFI et du DFAE. Dans ce cas, les al. 5
+et 7 s'appliquent par analogie.
+Art. 5	Admission d'étrangers ne bénéficiant pas de la libre circulation
+des personnes
+Les étrangers qui ne peuvent se prévaloir de l'ALCP5 ou de la convention AELE6 ne
+sont pas sujets à des mesures de protection de la santé publique en cas d'admission
+en vue d'un séjour avec exercice d'une activité lucrative s'ils remplissent les condi-
+tions d'admission prévues par la LEI7 et:
+a.	s'ils remplissent les conditions visées à l'art. 4, al. 1, let. f ou g;
+b.	si la demande d'admission a été approuvée avant le 19 mars 2020, mais que
+l'autorisation d'entrée, le visa ou l'assurance d'autorisation de séjour n'a pas
+pu être délivré en raison de mesures prévues par la présente ordonnance;
+c.	si la demande de l'employeur a été déposée avant le 19 mars 2020, ou
+d.	si l'admission a pour objet l'exercice d'une activité lucrative:
+1. qui répond à des intérêts publics prépondérants, notamment pour assu-
+rer l'approvisionnement économique du pays,
+2. qui répond à une nécessité économique urgente, ou
+3.	qui se déroule dans un établissement de formation ou de formation con-
+tinue.
+Art. 6 Regroupement familial
+L'admission n'est pas sujette à des mesures de protection de la santé publique dans
+les cas suivants:
+a.	regroupement familial en vertu des art. 42 à 45 et 85, al. 7, LEI8;
+5 RS 0.142.112.681
+6 RS 0.632.31
+7 RS 142.20
+8 RS 142.20
+3
+818.101.24
+Lutte contre le maladies
+b.	procédure de préparation d'un mariage ou procédure préliminaire du parte-
+nariat enregistré;
+c.	partenaire d'un citoyen suisse ou d'un étranger titulaire d'une autorisation de
+séjour ou d'établissement.
+Art. 7	Admission en vue d'une formation ou d'une formation continue
+Les étrangers qui suivent une formation ou une formation continue fondée sur
+l'art. 27 LEI9 ne sont pas sujets à des mesures de protection de la santé publique en
+cas d'admission en vue d'un séjour lorsque la durée de ladite formation ou formation
+continue est supérieure à 90 jours.
+Art. 8	Mesures sanitaires à la frontière
+1	Le DFI peut, en accord avec le DFJP et le Département fédéral des finances (DFF),
+ordonner des mesures sanitaires à la frontière au sens des art. 35 et 41, al. 2 et 4, de
+la loi du 28 septembre 2012 sur les épidémies (LEp)10 à l'encontre de personnes en
+provenance d'un pays ou d'une région à risque qui souhaitent entrer en Suisse.
+2	Les mesures sont mentionnées à l'annexe 2.
+Art. 9	Dispositions concernant le trafic transfrontalier des personnes
+et des marchandises
+1	Le DFJP décide, après consultation du DFI, du Département fédéral de
+l'environnement, des transports, de l'énergie et de la communication (DETEC), du
+DFF et du DFAE, de limitations du trafic des personnes par voie aérienne avec des
+pays ou régions à risque.
+2	Il peut en particulier limiter le trafic des personnes pour certains vols, fermer
+certains aérodromes frontières au trafic des personnes en provenance de pays ou
+régions à risque ou interdire complètement le trafic des personnes vers la Suisse en
+provenance de pays ou régions à risque.
+3	Les limitations du trafic transfrontalier des personnes sont spécifiées dans
+l'annexe 3.
+Art. 10	Octroi de visas
+L'octroi de visas Schengen, ainsi que de visas nationaux et d'autorisations d'entrée à
+des personnes en provenance de pays ou de régions à risque selon l'annexe 1 est
+suspendu. Font exception les demandes présentées par des personnes qui sont ad-
+mises en vertu de l'art. 5, al. 1, let. b à d, ou 6, ou remplissent les conditions prévues
+à l'art. 4, al. 1, let. f ou g.
+9 RS 142.20
+10 RS 818.101
+4
+Ordonnance 3 COVID-19
+818.101.24
+Section 3	Approvisionnement en biens médicaux importants
+Art. 11	Définition
+1	Sont considérés comme des médicaments, des dispositifs médicaux et des équipe-
+ments de protection importants et nécessaires de toute urgence pour prévenir et
+combattre le coronavirus les biens énumérés dans la liste de l'annexe 4 (biens médi-
+caux importants).
+2	L'Office fédéral de la santé publique (OFSP) assume la responsabilité de la liste et
+l'actualise régulièrement après consultation du groupe de travail interdépartemental
+concernant les biens médicaux visé à l'art. 12 et du Laboratoire de Spiez.
+3	Il définit le besoin et l'utilisation des biens à acquérir. Sur la base de ces prescrip-
+tions, l'OFSP détermine les quantités nécessaires sont déterminées en accord:
+a.	le groupe de travail interdépartemental concernant les biens médicaux: pour
+les substances actives et les médicaments, les dispositifs médicaux, les équi-
+pements de protection individuelle et autres équipements;
+b.	le Laboratoire de Spiez: pour les tests COVID-19 et les réactifs associés.
+Art. 12	Groupe de travail interdépartemental concernant les biens médicaux
+1	Le groupe de travail interdépartemental concernant les biens médicaux comprend
+au moins des représentants des services fédéraux suivants:
+a.	OFSP;
+b.	Domaine Produits thérapeutiques de l'organisation de l'approvisionnement
+économique du pays;
+c.	Institut suisse des produits thérapeutiques (Swissmedic);
+d.	Centrale nationale d'alarme (CENAL);
+e.	Organe sanitaire de coordination (OSANC) représentant la gestion fédérale
+des ressources (ResMaB);
+f.	Pharmacie de l'armée;
+g.	Service sanitaire coordonnée (SSC).
+2	Le délégué du Conseil fédéral pour le SSC dirige le groupe de travail.
+Art. 13 Obligation de communiquer
+1	Les cantons sont tenus, à la demande du SSC, de lui communiquer régulièrement
+les stocks actuels de biens médicaux importants dans leurs établissements de santé.
+2	Les laboratoires ainsi que les fabricants et les distributeurs de diagnostics in vitro
+(«tests COVID-19») sont tenus d'annoncer régulièrement au Laboratoire de Spiez
+leurs stocks actuels de tests.
+3	Le SSC peut exiger des entreprises qui entreposent des biens médicaux importants
+des informations sur leurs stocks aux.
+5
+818.101.24
+Lutte contre le maladies
+Art. 14	Acquisition de biens médicaux importants
+1	Pour soutenir l'approvisionnement des cantons et de leurs établissements de santé,
+d'organisations d'utilité publique (p. ex. Croix-Rouge suisse) et de tiers (p. ex.
+laboratoires, pharmacies), des biens médicaux importants peuvent être acquis si les
+canaux d'acquisition habituels ne permettent pas de couvrir les besoins.
+2	Le manque de biens médicaux importants est déterminé sur la base des données
+communiquées en vertu de l'art. 13.
+3	La Pharmacie de l'armée est compétente, sur mandat de l'OFSP, pour l'acquisition
+des biens médicaux importants visés à l'al. 1.
+4	Les autorités compétentes peuvent charger des tiers d'acquérir des biens médicaux
+importants.
+5	Lors de l'acquisition de biens médicaux importants, la Pharmacie de l'armée peut
+prendre des risques calculés et s'écarter des directives en vigueur et de la loi du
+7 octobre 2005 sur les finances11 en ce qui concerne les risques, par exemple en
+versant des acomptes sans garanties ou sans couverture du risque de change.
+6	Sur mandat du groupe de travail interdépartemental concernant les biens médicaux,
+la Pharmacie de l'armée gère les biens médicaux importants acquis.
+Art. 15 Attribution des biens médicaux importants
+1	Si nécessaire, les cantons déposent des demandes d'attribution auprès du SSC.
+2	L'attribution se base continuellement sur l'état d'approvisionnement et le nombre
+de cas actuels dans chaque canton.
+3	Après avoir entendu le groupe de travail interdépartemental concernant les biens
+médicaux, le SSC peut attribuer les biens médicaux importants aux cantons, à des
+organisations d'utilité publique et à des tiers.
+4	L'attribution des diagnostics in vitro («tests COVID-19») incombe au Laboratoire
+de Spiez, en accord avec l'OFSP. L'attribution concerne tous les tests disponibles en
+Suisse si nécessaire.
+Art. 16 Livraison et distribution des biens médicaux importants
+1	La Confédération ou les tiers qu'elle a mandatés veillent à la livraison des biens
+médicaux importants acquis conformément à l'art. 14 aux services centraux de
+livraison cantonaux. Dans des cas exceptionnels, la Confédération peut, en accord
+avec les cantons, livrer directement des établissements et des organisations ayant
+droit à des biens médicaux importants.
+2	Pour les biens qui ne peuvent pas être livrés directement aux destinataires, les
+cantons désignent des services de livraison cantonaux et les annoncent aux autorités
+fédérales compétentes.
+11 RS 611.0
+6
+Ordonnance 3 COVID-19
+818.101.24
+3	Si nécessaire, ils veillent à la redistribution en temps utile, sur leur territoire, des
+biens médicaux importants qui ont été livrés.
+Art. 17	Vente directe par la Confédération
+La Confédération peut distribuer contre paiement sur le marché, par elle-même ou
+par des tiers, les biens médicaux importants.
+Art. 18 Coûts
+1	La Confédération préfinance l'acquisition des biens médicaux importants lorsque
+c'est elle qui les acquiert.
+2	Les cantons, les organisations d'utilité publique et les tiers remboursent à la Con-
+fédération dans les plus brefs délais les coûts pour l'achat des biens médicaux im-
+portants qui leur ont été livrés et dont la Confédération a pris en charge l'acquisition
+conformément à l'art. 14, al. 1.
+3	La Confédération prend en charge les coûts de livraison aux cantons des biens
+médicaux importants acquis.
+4	Les cantons prennent en charge les coûts de distribution de ces biens médicaux
+importants sur leur territoire.
+Art. 19 Confiscation
+1	Si l'approvisionnement en biens médicaux importants ne peut pas être garanti, le
+DFI peut, sur mandat du groupe de travail interdépartemental concernant les biens
+médicaux, obliger certains cantons ou établissements de santé publics qui disposent
+de suffisamment de stocks de médicaments au sens du ch. 1 de l'annexe 4 à livrer
+des parties de leurs stocks à d'autres cantons ou établissements de santé. Les cantons
+ou les établissements de santé facturent directement au destinataire la livraison et les
+biens à prix coûtant.
+2	Le DFI peut, sur mandat du groupe de travail interdépartemental concernant les
+biens médicaux, faire confisquer dans des entreprises des biens médicaux importants
+à la condition prévue à l'al. 1. La Confédération octroie une indemnité au prix
+coûtant.
+Art. 20 Fabrication
+1	Si l'approvisionnement en biens médicaux importants ne peut pas être garanti
+autrement, le Conseil fédéral peut, sur mandat du groupe de travail interdépartemen-
+tal concernant les biens médicaux, obliger des fabricants à produire des biens médi-
+caux importants, à donner la priorité à la production de tels biens ou à augmenter les
+quantités produites.
+2	La Confédération peut verser des contributions aux productions visées à l'al. 1, si
+les fabricants subissent des préjudices financiers suite au changement de production
+ou à l'annulation de mandats privés.
+7
+818.101.24
+Lutte contre le maladies
+Art. 21	Exceptions à l'autorisation de mise sur le marché de médicaments
+1 En attendant la décision de Swissmedic, les médicaments fabriqués avec les subs-
+tances actives énumérées à l'annexe 5 et destinés à tratier les patients atteints du
+COVID-19 peuvent être mis sur le marché sans autorisation si une demande
+d'autorisation correspondante a été déposée. Dans le cadre de l'examen des de-
+mandes d'autorisation, Swissmedic peut autoriser des divergences par rapport aux
+prescriptions de la législation sur les produits thérapeutiques, si une analyse béné-
+fice-risque a été effectuée pour ces médicaments.
+2 Des modifications de l'autorisation d'un médicament autorisé en Suisse contenant
+une substance active énumérée à l'annexe 4, ch. 1, et destinée à être utilisée en
+Suisse pour prévenir ou combattre le coronavirus peuvent être mises en œuvre
+immédiatement après le dépôt d'une demande correspondante. Swissmedic peut
+autoriser des divergences par rapport aux prescriptions de la législation sur les
+produits thérapeutiques, si une analyse bénéfice-risque a été effectuée pour ces
+modifications.
+3	L'OFPS actualise continuellement la liste figurant à l'annexe 5, après avoir consul-
+té Swissmedic.
+4	Si une analyse bénéfice-risque a été effectuée, Swissmedic peut, pour les médica-
+ments destinés à prévenir ou à combattre le coronavirus en Suisse, autoriser des
+divergences par rapport au processus de fabrication approuvé dans le cadre de
+l'autorisation. Il fixe les critères qui permettent au responsable technique de libérer
+précocement sur le marché les médicaments destinés à prévenir et à combattre le
+coronavirus en Suisse.
+Art. 22	Exceptions aux dispositions concernant l'importation
+de médicaments
+1 Les pharmaciens assumant la responsabilité pharmaceutique dans une pharmacie
+d'hôpital peuvent importer des médicaments non autorisés contenant les substances
+actives énumérées à l'annexe 5 pour traiter des patients atteints du COVID-19. Une
+entreprise disposant d'une autorisation de commerce de gros ou d'importation peut
+être chargée d'importer ces médicaments.
+2 L'importation doit être annoncée à Swissmedic dans les dix jours suivant la récep-
+tion de la marchandise.
+3	Pour prévenir et combattre le coronavirus en Suisse, Swissmedic peut autoriser la
+mise sur le marché provisoire d'un médicament pour pallier l'absence temporaire
+d'un médicament identique autorisé en Suisse, s'il n'existe pas de médicament très
+proche autorisé et disponible en Suisse.
+Art. 23	Exceptions pour les dispositifs médicaux
+1 Swissmedic peut, sur demande, autoriser la mise sur le marché et la mise en ser-
+vice de dispositifs médicaux pour lesquels aucune procédure d'évaluation de la
+conformité au sens de l'art. 10 de l'ordonnance du 17 octobre 2001 sur les disposi-
+8
+Ordonnance 3 COVID-19
+818.101.24
+tifs médicaux (ODim)12 n'a été réalisée, si leur utilisation en vue de prévenir et de
+combattre le coronavirus en Suisse relève de l'intérêt de la santé publique ou de la
+sécurité ou de la santé des patients et si, compte tenu de leur destination, il est dé-
+montré de façon suffisante qu'ils remplissent les exigences fondamentales et qu'ils
+sont efficaces et performants.
+2 Dans le cadre de l'évaluation des risques visée à l'al. 1, Swissmedic tient compte
+en particulier du besoin d'acquisition démontré par l'OFSP en vue de prévenir et de
+combattre le coronavirus en Suisse.
+3	L'autorisation est octroyée au responsable de la mise sur le marché suisse ou à
+l'institution ou à l'établissement de santé requérant. Elle peut être octroyée tempo-
+rairement et être assortie de charges ou de conditions.
+4	Les masques faciaux pour lesquels aucune procédure d'évaluation de la conformité
+au sens de l'art. 10 ODim n'a été menée peuvent être mis sur le marché sans autori-
+sation visée à l'al. 1:
+a. s'ils sont mis sur le marché uniquement pour une utilisation non médicale, et
+b. s'ils portent une mention indiquant expressément qu'ils ne sont pas destinés
+à une utilisation médicale.
+5	Les masques faciaux mis sur le marché en vertu de l'al. 4 ne peuvent pas être
+utilisés dans les hôpitaux et les cabinets médicaux pour le contact direct avec les
+patients.
+6	Les obligations concernant l'observation des produits au sens de l'ODim, en parti-
+culier l'obligation de collecter et de déclarer les incidents graves, continuent de
+s'appliquer.
+Art. 24 Exceptions concernant les équipements de protection individuelle
+1 Pour les équipements de protection individuelle visés à l'annexe 4, ch. 3, fabriqués
+et mis sur le marché en Suisse, ou importés et mis sur le marché en Suisse, il est
+possible de déroger aux principes et aux procédures indiqués à l'art. 3, al. 2, de
+l'ordonnance du 25 octobre 2017 sur les EPI (OEPI)13, si leur utilisation est destinée
+à prévenir et à combattre le coronavirus en Suisse dans l'intérêt de la santé publique
+ou de la sécurité ou de la santé des patients.
+2 Des dérogations au sens de l'al. 1 sont autorisées si le niveau de sécurité est adé-
+quat en regard des exigences applicables conformément à l'OEPI et que la fabrica-
+tion se fait selon:
+a. une norme européenne harmonisée avec une procédure d'évaluation de la
+conformité en suspens;
+b. une norme citée dans les directives de l'OMS, ou
+c.	une autre norme non européenne ou une autre solution technique.
+12 RS 812.213
+13 RS 930.115
+9
+818.101.24
+Lutte contre le maladies
+3	Les organes de contrôle qui sont visés à l'art. 3 de l'ordonnance du DEFR du
+18 juin 2010 sur l'exécution de la surveillance du marché conformément à la section
+5 de l'ordonnance sur la sécurité des produits (OComp-OSPro)14 et qui sont compé-
+tents pour les EPI visés à l'annexe 4, ch. 3, vérifient et autorisent les solutions tech-
+niques spécifiques visées à l'al. 2.
+Chapitre 3 Capacités sanitaires
+Art. 25	Hôpitaux et cliniques
+1 Les cantons s'assurent que le domaine stationnaire des hôpitaux et des cliniques
+dispose de capacités suffisantes (notamment en lits et en personnel) pour les patients
+atteints du COVID-19 ainsi que pour d'autres examens et traitements urgents, en
+particulier dans les unités de soins intensifs et de médecine interne générale.
+2 À cette fin, ils peuvent obliger les hôpitaux et cliniques:
+a. à mettre à disposition leurs capacités dans le domaine stationnaire ou à les
+libérer sur demande, et
+b. à limiter ou suspendre les examens et traitements non urgents.
+3	Les hôpitaux et cliniques doivent veiller à ce que l'approvisionnement en médica-
+ments pour les patients atteints du COVID-19 ainsi que pour les examens et traite-
+ments urgents soit garanti dans les domaines stationnaire et ambulatoire.
+Art. 26	Prise en charge des analyses diagnostiques de biologie moléculaire
+et sérologiques
+1 Si les coûts d'analyses diagnostiques de biologie moléculaire au Sars-CoV-2
+effectuées sur personnes symptomatiques qui remplissent les critères de suspicion,
+de prélèvement d'échantillons et de déclaration de l'OFSP du 22 avril 202015 ne sont
+pas remboursés en vertu de la loi fédérale du 18 mars 1994 sur l'assurance-maladie16
+ou de la loi fédérale du 20 mars 1981 sur l'assurance-accidents17, les analyses sont
+considérées comme des examens médicaux ordonnés conformément aux art. 31, al.
+1, et 36 LEp18.
+2 Dans ces cas, les coûts sont assumés conformément à l'art. 71, let. a, LEp par le
+canton de domicile de la personne concernée.
+111 * * 45 RS 930.111.5
+15 Consultables sous www.ofsp.admin.ch > Maladies > Lutter contre les maladies infec-
+tieuses > Systèmes de déclaration pour maladies infectieuses > Système de déclaration
+pour maladies infectieuses à déclaration obligatoire > Formulaires de déclaration
+16 RS 832.10
+17 RS 832.20
+18 RS 818.101
+10
+Ordonnance 3 COVID-19
+818.101.24
+Chapitre 4 Assemblées de sociétés
+Art. 27
+1 L'organisateur d'une assemblée de société peut, quel que soit le nombre prévu de
+participants et sans respecter le délai de convocation, imposer aux participants
+d'exercer leurs droits exclusivement:
+a.	par écrit ou sous forme électronique, ou
+b.	par l'intermédiaire d'un représentant indépendant désigné par l'organisateur.
+2 Il est habilité à prendre cette décision durant toute la période visée à l'art. 29, al. 3.
+Il doit la notifier par écrit ou la publier sous forme électronique au plus tard 4 jours
+avant l'assemblée.
+Chapitre 5 Dispositions finales
+Art. 28	Abrogation d'un autre acte
+L'ordonnance 2 COVID-19 du 13 mars 202019 est abrogée.
+Art. 29	Entrée en vigueur et durée de validité
+1	La présente ordonnance entre en vigueur le 22 juin 2020 à 0 h 00.
+2	Elle a effet jusqu'au 13 septembre 2020, sous réserve de l'al. 3.
+3	L'art. 27 a effet jusqu'au 31 août 2020.
+[RO 2020 773 783 841 863 867 1059 1065 1101 1131 1137 1155 1199 1245 1249 1333
+1401 1501 1505 1585 1751 1815 1823 1835 2097 2099 2213]
+19
+11
+818.101.24
+Lutte contre le maladies
+Annexe 1
+(art. 3, al. 2, et 10)
+Liste des pays et régions à risque
+Tous les États en dehors de l'espace Schengen (trafic aérien)
+12
+Ordonnance 3 COVID-19
+818.101.24
+Annexe 2
+(art. 8, al. 2)
+Mesures sanitaires à la frontière
+13
+818.101.24
+Lutte contre le maladies
+Annexe 3
+(art. 9, al. 3)
+Limitation du trafic transfrontalier des personnes
+14
+Ordonnance 3 COVID-19
+818.101.24
+Annexe 4
+(art. 11, al. 1, 19, al. 1, 21, al. 2, et 24, al. 1 et 3)
+Liste des médicaments, dispositifs médicaux et équipements
+de protection importants (biens médicaux importants)
+1.	Substances actives et médicaments contenant les substances actives
+mentionnées
+1.	Lopinavir/Ritonavir
+2.	Hydroxychloroquine
+3.	Tocilizumab
+4.	Remdésivir
+5.	Propofol
+6.	Midazolam
+7.	Kétamine
+8.	Dexmédétomidine
+9.	Étomidat
+10.	Sufentanil
+11.	Rémifentanil
+12.	Rocuronium bromure
+13.	Atracurium bésilate
+14.	Suxaméthonium
+15.	Cisatracurium
+16.	Noradrénaline
+17.	Adrénaline
+18.	Insuline
+19.	Fentanyl
+20.	Héparine
+21.	Morphine
+22.	Lorazépam
+23.	Azithromycine
+24.	Co-Amoxicilline
+25.	Pipéracilline/Tazobactam
+26.	Méropénem
+27.	Imipénem/Cilastatine
+28.	Céfuroxime
+15
+818.101.24
+Lutte contre le maladies
+29.	Ceftriaxone
+30.	Amikacine
+31.	Posaconazole
+32.	Vaccins contre le COVID-19
+33.	Vaccin contre l'influenza
+34.	Vaccin contre la pneumonie bactérienne (Prevenar 13 et Pneumovax 23)
+35.	Gaz médicaux
+2.	Dispositifs médicaux
+1.	Appareils de respiration
+2.	Systèmes de mesure des états et des fonctions de l'organisme
+3.	Diagnostic in vitro («tests COVID-19»)
+4.	Masques chirurgicaux/ masques OP
+5.	Gants chirurgicaux / gants d'examen
+6.	Oxygène médical
+7.	Solutions de perfusion
+3.	Équipements de protection individuelle et autres équipements
+1.	Masques d'hygiène
+2.	Masques de protection
+3.	Gants à usage unique
+4.	Surblouses
+5.	Vêtements de protection
+6.	Lunettes de protection
+7.	Désinfectant pour les mains
+8.	Désinfectant de surfaces
+9.	Articles d'hygiène en médecine intensive (p. ex. tapis médicaux absorbants,
+couches, entérocollecteurs rectaux, articles pour l'hygiène buccale et de la gorge)
+16
+Ordonnance 3 COVID-19
+818.101.24
+Annexe 5
+(art. 21, al. 1 et 3, et 22, al. 1)
+Liste des substances actives pour le traitement du COVID-19
+1.	Hydroxychloroquine
+2.	Lopinavir/Ritonavir
+3.	Remdésivir
+4.	Tocilizumab i.v. en mg
+17
+818.101.24
+Lutte contre le maladies
+18

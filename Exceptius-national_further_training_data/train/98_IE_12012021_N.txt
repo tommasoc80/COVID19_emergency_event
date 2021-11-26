@@ -1,0 +1,176 @@
+I, STEPHEN DONNELLY, Minister for Health, in exercise of the powers conferred on me by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Transport, the Minister for Foreign Affairs and the Minister for Justice,
+
+hereby make the following regulations:
+
+Citation, commencement and operation
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) Regulations 2021.
+
+(2) These Regulations shall come into operation on the 9th day of January 2021 and shall have effect for the period beginning on that day and ending on the 31st day of January 2021.
+
+Definitions
+
+2. In these Regulations -
+
+“Act of 1947” means the Health Act 1947 (No. 28 of 1947);
+
+“exempted traveller” means -
+
+(a) a person -
+
+(i) who -
+
+(I) holds a valid annex 3 certificate in accordance with the Communication from the Commission on the implementation of the Green Lanes under the Guidelines for border management measures to protect health and ensure the availability of goods and essential services1 , or
+
+(II) is a driver of a heavy goods vehicle, and
+
+(ii) who arrives in the State in the course of performing his or her duties,
+
+(b) an aircraft pilot, other aircrew, maritime master or maritime crew who arrives in the State in the course of performing his or her duties,
+
+(c) a person who -
+
+(i) travels to the State from a relevant state, or as part of a continuous journey that began in a relevant state, in circumstances where it is impossible for the person to secure a relevant test result before so travelling, and
+
+(ii) is in possession of written confirmation from the Minister for Foreign Affairs that the person has an urgent humanitarian reason for so travelling,
+
+(d) a person who arrives at a port or airport in the State for the purposes of travelling to another state, and who does not leave the port or airport before so travelling,
+
+(e) a person who travels to the State pursuant to an arrest warrant, extradition proceedings or other mandatory legal obligation, or
+
+(f) a person who -
+
+(i) travels to the State in the course of performing his or her duties, and
+
+(ii) is a member of the Garda Síochána or an officer of the Minister for Justice;
+
+“Great Britain”, for the purposes of these Regulations -
+
+(a) includes the Channel Islands and the Isle of Man, and
+
+(b) does not include Northern Ireland;
+
+“relevant person” has the meaning assigned to it by Regulation 3;
+
+“relevant state” means a state, country, territory, region or other place specified in the Schedule;
+
+“relevant test result”, in relation to a person, means any record or evidence, in written or other electronic form, confirming that -
+
+(a) the person has been subject to a reverse transcription polymerase chain reaction (RT-PCR) test, the purpose of which is to detect the presence of Covid-19, or the virus SARS-CoV-2, in the person,
+
+(b) such test was administered to the person no more than 72 hours before the person arrives in the State, and
+
+(c) Covid-19, or the virus SARS-CoV-2, was not detected in the person at the time of taking the test;
+
+“relevant traveller” has the meaning assigned to it by Regulation 4.
+
+Relevant Persons
+
+3. Officers of the Minister for Justice, being immigration officers appointed by that Minister under section 3 of the Immigration Act 2004 (No. 1 of 2004) (each of whom, in these Regulations, is referred to as a “relevant person”) are specified as relevant persons for the purposes of these Regulations.
+
+Relevant traveller
+
+4. (1) In these Regulations, “relevant traveller” means a person who -
+
+(a) is not an exempted traveller, and
+
+(b) subject to paragraph (2), arrives in the State -
+
+(i) from a relevant state, or
+
+(ii) from a state other than a relevant state as part of a continuous journey that began in a relevant state.
+
+(2) A person who arrives in the State from a relevant state, or as part of a continuous journey that began in a relevant state, shall not be deemed to be a relevant traveller where the person -
+
+(a) did not enter any part of the relevant state concerned other than a port or airport in that state, or
+
+(b) was present in the relevant state concerned for less than 12 hours.
+
+Obligations on relevant travellers
+
+5. (1) A relevant traveller shall not travel to the State from a relevant state without having a relevant test result.
+
+(2) Paragraph (1) is a penal provision for the purposes of section 31A of the Act of 1947.
+
+Provision of certain information or documentation to relevant person
+
+6. (1) A relevant traveller shall, on arrival in the State -
+
+(a) present himself or herself to a relevant person, and
+
+(b) give, or otherwise make available, a relevant test result to the relevant person.
+
+(2) Where a relevant person considers it necessary to do so, he or she may request a person, on the person’s arrival in the State or as soon as practicable thereafter, to provide or make available to the relevant person such information or documentation as the relevant person may reasonably require in order to ascertain whether or not the person -
+
+(a) has a relevant test result,
+
+(b) is a relevant traveller, or
+
+(c) is an exempted traveller.
+
+(3) A person shall comply with a request under paragraph (2).
+
+(4) Paragraphs (1) and (3) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+Requirement to inform relevant travellers of obligations
+
+7. A person shall not organise, effect or facilitate the travel of a relevant traveller to the State without taking reasonable steps to inform the relevant traveller of his or her obligations under these Regulations.
+
+Data protection
+
+8. (1) Subject to paragraphs (3) and (4), personal data, including data concerning health, provided to a relevant person in accordance with these Regulations may be processed by the Minister for Justice and one or more relevant persons, for the purposes of -
+
+(a) recording and verifying information provided regarding a relevant test result, including whether or not a person is in possession of a relevant test result, and
+
+(b) recording and verifying information provided regarding whether or not a person is -
+
+(i) an exempted traveller, or
+
+(ii) a relevant traveller.
+
+(2) For the purposes of these Regulations, the Minister for Justice -
+
+(a) is designated as data controller in relation to personal data processed for the purposes of these Regulations, and
+
+(b) shall put in place appropriate data processing contracts, where necessary, with relevant persons processing personal data under these Regulations.
+
+(3) Subject to paragraph (4) -
+
+(a) where a relevant person is satisfied with a relevant test result presented to him or her under Regulation 6, no personal data or data concerning health shall be processed in relation to the relevant test result, and
+
+(b) personal data collected for the purpose of these Regulations shall not be retained for any period beyond which they are required for the purposes of these Regulations, and shall be permanently deleted after they are no longer so required.
+
+(4) Notwithstanding paragraph (3), where personal data collected in accordance with these Regulations are required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data -
+
+(a) may be processed for as long as they are required for such prevention, investigation, detection or prosecution, and
+
+(b) shall be permanently deleted after they are no longer required for such prevention, investigation, detection or prosecution.
+
+(5) In this Regulation -
+
+“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)2 ;
+
+“data concerning health” has the meaning it has in the General Data Protection Regulation;
+
+“personal data” has the meaning it has in the General Data Protection Regulation;
+
+“processing”, in relation to personal data, has the meaning it has in the General Data Protection Regulation.
+
+SCHEDULE
+
+1. Great Britain
+
+2. Republic of South Africa
+
+GIVEN under my Official Seal,
+
+7 January, 2021.
+
+STEPHEN DONNELLY,
+
+Minister for Health.
+

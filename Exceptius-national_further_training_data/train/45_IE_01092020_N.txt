@@ -1,0 +1,345 @@
+ARRANGEMENT OF SCHEME
+
+TABLE OF CONTENTS
+
+PART 1
+
+PRELIMINARY AND GENERAL
+
+1. Citation
+
+2. Interpretation and Definitions
+
+PART 2
+
+OVERVIEW OF THE CREDIT GUARANTEE SCHEME
+
+3. Objective and Application of the Credit Guarantee Scheme
+
+4. Powers of Minister
+
+5. Guarantee and Facility Term
+
+6. Financial Product Values
+
+7. Eligible Credit
+
+8. Premium Charge
+
+9. Pricing Discount
+
+10. Temporary Framework
+
+11. Data Protection
+
+PART 3
+
+APPROVAL OF FINANCE PROVIDERS TO THIS SCHEME
+
+12. Participating Finance Provider’s Legal Agreement
+
+13. Review Process
+
+14. Recommendation by Operator
+
+I, Leo Varadkar, Minister for Business, Enterprise and Innovation, in exercise of the powers conferred on me by section 5 of the Credit Guarantee Act 2012 (No. 26 of 2012) (as amended by the Credit Guarantee (Amendment) Acts 2016 and 2020 (No. 1 of 2016 and No. 5 of 2020)) (as adapted by the Jobs, Enterprise and Innovation (Alteration of Name of Department and Title of Minister) Order 2017 (S.I. No. 364 of 2017)) with the consent of the Minister for Finance and of the Minister for Public Expenditure and Reform, hereby make the following Scheme:
+
+PART 1 – Preliminary and General
+
+1. Citation
+
+This Scheme may be cited as the Covid-19 Credit Guarantee Scheme 2020.
+
+2. Interpretation and Definitions
+
+In this Scheme:
+
+“2012 Act” means the Credit Guarantee Act 2012 ;
+
+“all sums due security” means, with respect to a participating enterprise and a participating finance provider, a security interest that secures payment of any and all amounts due from time to time by that participating enterprise to that participating finance provider;
+
+“Co-Operation Agreement” means the agreement to be entered into between (1) the Minister for Business, Enterprise and Innovation and (2) the Strategic Banking Corporation of Ireland, to be made pursuant to section 7 of the 2012 Act, in relation to the operation of this Scheme and, as applicable, any subsequent agreement into which the Minister enters for this purpose;
+
+“Commission Decision” means the decision of the European Commission in respect of state aid measures notified by the State to the European Commission under the Temporary Framework in respect of this Scheme;
+
+“data protection law” means the GDPR, the Data Protection Acts 1988 to 2018, the ePrivacy Directive (as amended), the European Communities (Electronic Communications Networks and Services) (Privacy and Electronic Communications) Regulations 2011 ( S.I. No. 336 of 2011 ), and any other applicable laws relating to data privacy and any relevant transposition of, or successor or replacement to, those laws (including, when it comes into force, the successor to the ePrivacy Directive);
+
+“ePrivacy Directive” means Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications);
+
+“finance agreement” has the meaning ascribed to it in the 2012 Act;
+
+“finance provider” has the meaning ascribed to it in the 2012 Act;
+
+“financial product” has the meaning ascribed to it in the 2012 Act;
+
+“GDPR” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC;
+
+“invoice finance facility agreement” has the meaning ascribed to it in the 2012 Act;
+
+“negative recommendation” has the meaning ascribed to it in section 14(1)(b);
+
+“Operator” means the Strategic Banking Corporation of Ireland, a private company limited by shares established pursuant to the Strategic Banking Corporation of Ireland Act 2014 and incorporated with registered number 549539, being the entity appointed for the time being by the Minister pursuant to the Co-Operation Agreement to, inter alia, perform the functions of the Operator under this Scheme, or such other entity as may be appointed by the Minister for such purpose pursuant to section 7 of the 2012 Act from time to time;
+
+“operating model” means the written manual, which the Operator shall put in place, setting out the operating model by which this Scheme shall operate as between the Operator and the participating finance providers and which shall be provided to each participating finance provider;
+
+“participating enterprise” means a qualifying enterprise that has entered into a qualifying finance agreement with a participating finance provider;
+
+“participating finance provider” shall be construed in accordance with section 2 of the 2012 Act, provided that, for this purpose, references to “a credit guarantee scheme” in sections 2(3)(a) and 2(4) of the 2012 Act shall instead be deemed to be references to this Scheme;
+
+“participating finance provider’s legal agreement” has the meaning ascribed to it in section 4(2);
+
+“personal data” has the meaning given to that term in data protection law;
+
+“positive recommendation” has the meaning ascribed to it in section 14(1)(a);
+
+“premium” has the meaning ascribed to it in section 8(1);
+
+“qualifying enterprise” shall be construed in accordance with section 3(1A) of the 2012 Act;
+
+“qualifying finance agreement” has the meaning ascribed to it in the 2012 Act, provided that, in the definition of this term in section 1 of the 2012 Act, references to “a credit guarantee scheme” shall instead be deemed to be references to this Scheme;
+
+“quantum recommendation” has the meaning ascribed to it in section 14(2); and
+
+“Temporary Framework” means Communication C(2020)18631 of the European Commission entitled “Temporary Framework for state aid measures to support the economy in the current COVID-19 outbreak”, as adopted by the European Commission on 19 March 2020 and as amended on 3 April 2020 (C(2020) 2215)2 , 8 May 2020 (C(2020) 3156)3 and 29 June 2020 (C(2020) 4509)4 and as may be further amended from time to time.
+
+PART 2 - Overview of the Credit Guarantee Scheme
+
+3. Objective and Application of the Credit Guarantee Scheme
+
+(1) The principal objective of this Scheme is to facilitate the provision of financial products to participating enterprises in response to the economic difficulties caused by Covid-19 in a manner that complies with the Commission Decision.
+
+(2) Subject as herein provided, this Scheme applies to all classes of qualifying finance enterprise, finance provider, financial product and finance agreement permissible under the Credit Guarantee Acts 2012 to 2020.
+
+4. Powers of Minister
+
+(1) Under this Scheme, the Minister may, subject to the conditions specified in section 4(3) and any additional conditions imposed by the Credit Guarantee Acts 2012 to 2020, guarantee the obligations of one or more participating enterprises under one or more qualifying finance agreements in favour of the corresponding participating finance providers.
+
+(2) Any guarantee given under section 4(1) shall be documented in a written agreement to be made between the Minister and the corresponding participating finance provider (in this Scheme referred to as a “participating finance provider’s legal agreement”).
+
+(3) In addition to the limitation imposed by section 4(2) of the 2012 Act on any guarantee given under section 4(1), the Minister shall not be liable under a guarantee given under section 4(1) in respect of any amount advanced to or paid to or for the benefit of a participating enterprise pursuant to a qualifying finance agreement entered into between a participating finance provider and the corresponding participating enterprise after 31 December 2020, or such later date as the Minister may appoint by order made under section 4A(1)(a)(ii) of the 2012 Act.
+
+5. Guarantee and Facility Term
+
+(1) As required by section 4A(1)(a) the 2012 Act, any guarantee given under section 4(1) shall be entered into by the Minister on or before 31 December 2020 or such later date as the Minister may appoint by order made under section 4A(1)(a)(ii) of the 2012 Act.
+
+(2) As required by section 4A(1)(b) the 2012 Act, no guarantee given under section 4(1) may exceed a maximum duration of six years from the date that the corresponding participating finance provider’s legal agreement is entered into.
+
+(3) A qualifying finance agreement may be entered into by a participating finance provider for whatever term is deemed appropriate by that participating finance provider provided that a qualifying finance agreement shall not be for a term that is less than three months nor more than six years.
+
+6. Financial Product Values
+
+(1) The credit amount in respect of each qualifying finance agreement which benefits from a guarantee given under section 4(1) shall be within the applicable limit specified in the Commission Decision and shall be:
+
+(a) at least €10,000 (ten thousand euro), and
+
+(b) not greater than €1,000,000 (one million euro).
+
+(2) Qualifying enterprises may apply for more than one qualifying finance agreement during the duration of this Scheme provided that the aggregate credit amounts pursuant to the qualifying finance agreement or qualifying finance agreements which that qualifying enterprise and/or any related company of that qualifying enterprise (within the meaning of the Companies Act 2014 ) has or have entered into and which benefit from a guarantee given under section 4(1), do not exceed, in aggregate, the maximum credit amount that may be advanced under a qualifying finance agreement pursuant to section 6(1).
+
+7. Eligible Credit
+
+(1) Subject to subsection (2), any guarantee given under section 4(1) may only be granted in respect of:
+
+(a) in the case of a qualifying finance agreement providing for a credit amount not greater than €250,000 (two hundred and fifty thousand euro), an unsecured qualifying finance agreement or a qualifying finance agreement that is secured only by an all sums due security granted by the relevant participating enterprise to the relevant participating finance provider as a condition to the advance of funds under a finance agreement other than the qualifying finance agreement in question; and
+
+(b) in the case of a qualifying finance agreement providing for a credit amount in excess of €250,000 (two hundred and fifty thousand euro), a secured (whether or not by an all sums due security), unsecured or partially secured qualifying finance agreement.
+
+(2) Notwithstanding subsection (1), a guarantee may be given under section 4(1) in respect of a secured qualifying finance agreement that is an asset credit facility agreement or an invoice finance facility agreement.
+
+8. Premium Charge
+
+(1) In accordance with section 8(1) of the 2012 Act, a participating enterprise shall pay to the Minister, an amount (in this Scheme referred to as the “premium”) in respect of each qualifying finance agreement entered into by that participating enterprise which benefits from a guarantee given under section 4(1) and in respect of which a credit amount remains outstanding on behalf of the relevant participating enterprise.
+
+(2) The premium shall be determined by the Minister having regard to:
+
+(a) the expenses incurred, or likely to be incurred, or both, in relation to this Scheme;
+
+(b) achieving the objectives of this Scheme, as described in section 3.
+
+(3) In addition, the expenses incurred, or likely to be incurred, or both, in relation to this Scheme, as referred to in section 8(2)(a), shall be determined by the Minister in consultation with the Operator, having regard to:
+
+(a) the size of the participating enterprises to which this Scheme applies;
+
+(b) the quality of the participating enterprises to which this Scheme applies by reference to their credit risk;
+
+(c) the risks associated with those participating enterprises;
+
+(d) the typical risks associated with the business sector or sectors to which those participating enterprises belong;
+
+(e) the stipulated duration of the qualifying finance agreements;
+
+(f) the stipulated duration of the guarantees given under this Scheme;
+
+(g) the overall liability of the Minister under section 4(2) of the 2012 Act in relation to those qualifying finance agreements to which this Scheme applies; and
+
+(h) the nature of those qualifying finance agreements to which this Scheme applies.
+
+(4) Each Participating Finance Provider shall be required to calculate and collect the premium due with respect to each qualifying finance agreement entered into by that participating finance provider which is subject to a guarantee given under section 4(1) and shall be required to remit the premia so collected to the Operator on trust for the Minister. The Operating Model and each participating finance provider’s legal agreement shall set out further detail on the manner in which this section 8(4) shall be complied with.
+
+(5) In respect of each qualifying finance agreement entered into by a participating finance provider, the participating finance provider shall provide the corresponding participating enterprise with details in respect of the premium payable by that participating enterprise including:
+
+(a) explanations of the instalments due;
+
+(b) the frequency of payments to be made; and
+
+(c) any other details which are specified by the operating model, or by the Minister, from time to time.
+
+(6) Each participating finance provider’s legal agreement shall set out further detail on the premium payable by participating enterprises entering into qualifying finance agreements with that participating finance provider.
+
+(7) The premium shall be used by the Operator, at the direction of the Minister, only to defray the costs of the Scheme.
+
+9. Pricing Discount
+
+(1) Each participating finance provider’s legal agreement shall contain such provisions as the Minister may request for the purpose of satisfying the Minister that the relevant participating finance provider will be required to pass on to each participating enterprise a financial benefit arising from the application of a guarantee given under section 4(1) to each qualifying finance agreement entered into between that participating finance provider and that participating enterprise. Such financial benefit shall take the form of a discount to the pricing that would otherwise be applied by such participating finance provider to a finance agreement having the same characteristics, credit amount and term as such qualifying finance agreement entered into by such participating finance provider with such participating enterprise.
+
+(2) In respect of each qualifying finance agreement entered into by a participating finance provider, the participating finance provider shall provide the corresponding participating enterprise with details of the applicable pricing discount, as determined in accordance with the participating finance provider’s legal agreement, including:
+
+(a) explanations of the how the pricing discount was determined; and
+
+(b) any other details which are specified by the operating model, or by the Minister, from time to time.
+
+10. Temporary Framework
+
+The assistance provided through this Scheme is regarded as state aid and is:
+
+(a) granted in reliance on the Temporary Framework, and
+
+(b) governed by, and subject to, the applicable conditions set out therein.
+
+11. Data Protection
+
+Each of the Minister, the Operator and each participating finance provider shall take all necessary steps to ensure that personal data processed by it or on its behalf in connection with this Scheme are, at all times, processed in accordance with its obligations under data protection law.
+
+PART 3 - Approval of Finance Providers to this Scheme
+
+12. Participating Finance Provider’s Legal Agreement
+
+(1) The terms of each participating finance provider’s legal agreement shall:
+
+(a) conform to the requirements of:
+
+(i) the Credit Guarantee Acts 2012 to 2020; and
+
+(ii) this Scheme;
+
+(b) be formulated having regard to:
+
+(i) the Commission’s decision; and
+
+(ii) the operating model, and
+
+(c) specify certain conditions that shall be complied with in relation to the entering into of a qualifying finance agreement by a participating finance provider with a participating enterprise.
+
+(2) A participating finance provider shall:
+
+(a) provide to the Operator all information that the Operator states is necessary so as to enable the Operator to administer the Scheme; and
+
+(b) be subject to the reporting requirements set out in the participating finance provider’s legal agreement.
+
+(3) Finance providers who provide, or seek to provide, a financial product to a participating enterprise pursuant to a qualifying finance agreement shall, subject to section 13(2), be subject to the review process detailed in section 13(1).
+
+13. Review Process
+
+(1) Subject to section 13(2), before being approved by the Minister as meeting the requirement set out in section 2(3)(b) of the 2012 Act, a finance provider must provide all information requested by the Operator so as to enable the Operator to formulate an opinion as to whether that finance provider complies with those standards which would reasonably be expected of a prudent and experienced provider of financial products to qualifying enterprises in the following areas:
+
+(a) the finance provider’s strategic positioning in the relevant market, its related ancillary business support services and how it will use this Scheme to support the availability of credit over and above that currently being achieved by it;
+
+(b) the finance provider’s policies and practices as regards:
+
+(i) the provision of financial products generally;
+
+(ii) the provision of financial products to qualifying enterprises;
+
+(iii) the assessment of the credit risk or financial stability of qualifying enterprises;
+
+(iv) the recovery of sums owing to the finance provider by a qualifying enterprise or property provided to a qualifying enterprise by the finance provider under a qualifying finance agreement; and
+
+(v) the provision by qualifying enterprises of security for financial products provided to qualifying enterprises under qualifying finance agreements;
+
+(c) the sources from which the finance provider obtains its finance or funding;
+
+(d) the credit history of the finance provider;
+
+(e) where relevant, confirmation of adherence to, as applicable in the particular circumstances, either or each of:
+
+(i) the Central Bank of Ireland’s Code of Conduct for Business Lending to Small and Medium Enterprises (as revised from time to time),
+
+(ii) the Central Bank (Supervision and Enforcement) Act 2013 (Section 48) (Lending to Small and Medium-Sized Enterprises) Regulations 2015 ( S.I. No. 585 of 2015 );
+
+(f) the financial statements and financial performance of the finance provider;
+
+(g) the legal structure, ownership, regulation and governance procedures of the finance provider;
+
+(h) the administration and management of the finance provider;
+
+(i) the financial product or financial products to which this Scheme applies including:
+
+(i) the information and documentation to be provided by the finance provider to the Minister in relation to the provision of such financial products;
+
+(ii) the information and documentation to be provided by the finance provider to qualifying enterprises in relation to the provision of such financial products; and
+
+(iii) the interest, charges and other costs (if any) that may be applied in relation to the provision of such financial products to qualifying enterprises;
+
+(j) the procedures in relation to the supervision of finance agreements entered into on the finance provider’s behalf by members of staff of the finance provider; and
+
+(k) where applicable, the capital reserves of the finance provider.
+
+(2) Notwithstanding section 13(1), if the Minister is satisfied that he or she has sufficient information to determine whether a finance provider complies with those standards which would reasonably be expected of a prudent and experienced provider of financial products to qualifying enterprises in the areas listed in paragraphs (a) to (j) of section 13(1), he or she may determine that such finance provider meets the requirement set out in section 2(3)(b) of the 2012 Act without the completion of a review process in respect of that finance provider by the Operator, as detailed in section 13(1).
+
+14. Recommendation by Operator
+
+(1) Following completion of a review process by the Operator, as detailed in section 13(1), the Operator shall advise the Minister in writing whether the Operator:
+
+(a) considers that the finance provider has met the requirement set out in section 2(3)(b) of the 2012 Act (in this section referred to as a “positive recommendation”); or
+
+(b) considers that the finance provider has not met the requirement set out in section 2(3)(b) of the 2012 Act (in this section referred to as a “negative recommendation”).
+
+(2) In circumstances where the Operator makes a positive recommendation to the Minister, the Operator shall, subject to the limitations imposed by section 4A(3) and section 4A(4) of the 2012 Act, advise the Minister as to the maximum aggregate credit amounts which it proposes should be allocated under this Scheme to the corresponding finance provider to provide to participating enterprises pursuant to qualifying finance agreements which benefit from a guarantee given or to be given to that finance provider under section 4(1) (in this section referred to as a “quantum recommendation”).
+
+(3) Notwithstanding any positive recommendation or any negative recommendation issued by the Operator pursuant to section 14(1), and notwithstanding the maximum aggregate credit amounts proposed to be allocated to a finance provider pursuant to any quantum recommendation issued by the Operator pursuant to section 14(2), the Minister shall, in his or her sole discretion:
+
+(a) decide whether or not the Minister is satisfied that a finance provider has met the requirement set out in section 2(3)(b) of the 2012 Act; and
+
+(b) where the Minister is satisfied that a finance provider has met the requirement set out in section 2(3)(b) of the 2012 Act, subject to the limitations imposed by section 4A(3) and section 4A(4) of the 2012 Act, specify the maximum aggregate credit amounts that may be provided by that finance provider pursuant to qualifying finance agreements which benefit from a guarantee given or to be given to that finance provider under section 4(1), as required by section 4(5) of the 2012 Act.
+
+(4) The Minister shall inform:
+
+(a) the relevant finance provider; and
+
+(b) the Operator,
+
+of any decision made by the Minister pursuant to section 14(3)(a) and, if applicable, section 14(3)(b).
+
+/images/ls
+
+GIVEN under the Official Seal of the Minister for Business, Enterprise and Innovation
+
+28 August, 2020.
+
+LEO VARADKAR,
+
+Minister for Business, Enterprise and Innovation.
+
+The Minister for Finance consents to the making of the foregoing Scheme.
+
+/images/ls
+
+GIVEN under the Official Seal of the Minister for Finance,
+
+28 August, 2020.
+
+PASCHAL DONOHOE,
+
+Minister for Finance.
+
+The Minister for Public Expenditure and Reform consents to the making of the foregoing Scheme.
+
+/images/ls
+
+GIVEN under the Official Seal of the Minister for Public Expenditure and Reform,
+
+28 August, 2020.
+
+MICHAEL MCGRATH,
+
+Minister for Public Expenditure and Reform.

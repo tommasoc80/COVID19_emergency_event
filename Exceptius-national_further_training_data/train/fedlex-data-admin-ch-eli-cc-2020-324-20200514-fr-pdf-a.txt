@@ -1,0 +1,224 @@
+﻿Ordonnance
+sur l'essai pilote du système suisse de traçage de proximité
+visant à informer les personnes potentiellement exposées
+au nouveau coronavirus (COVID-19)
+(Ordonnance COVID-19 essai pilote traçage de proximité)
+du 13 mai 2020 (Etat le 14 mai 2020)
+Le Conseil fédéral suisse,
+vu l'art. 17a, al. 1 et 3, de la loi fédérale du 19 juin 1992 sur la protection
+des données (LPD)* 1,
+vu l'art. 78, al. 1, de la loi du 28 septembre 2012 sur les épidémies (LEp)2,
+vu l'art. 25, al. 1, de la loi du 9 octobre 1992 sur la statistique fédérale3,
+arrête:
+Art. 1 Objet
+La présente ordonnance règle l'essai pilote du système suisse de traçage de proximi-
+té (Swiss Proximity-Tracing-System, SPTS) visant à informer les personnes (art. 31,
+al. 2, et 33 LEp) qui ont potentiellement été exposées au coronavirus (COVID-19)
+pendant la durée de l'essai pilote. Elle règle l'organisation, l'exploitation, les don-
+nées traitées et l'utilisation du SPTS.
+Art. 2 But de l'essai pilote
+1	L'essai pilote sert à tester et à évaluer le SPTS en vue de sa mise en exploitation
+définitive.
+2	Les aspects suivants doivent en particulier être testés et évalués:
+a.	les dernières solutions développées concernant la décentralisation du traite-
+ment des données et des méthodes de cryptographie;
+b.	la stabilité de l'exploitation;
+c.	la sécurité face aux manipulations involontaires ou non autorisées;
+d.	la convivialité;
+e.	la clarté des informations pour les participants et les professionnels au béné-
+fice d'un droit d'accès.
+RO 2020 1589
+1 RS 235.1
+2 RS 818.101
+3 RS 431.01
+1
+818.101.25
+Lutte contre les maladies
+Art. 3 But du SPTS et des données traitées
+1	Le SPTS et les données qu'il permet de traiter servent les buts suivants:
+a.	informer les participants potentiellement exposés au coronavirus, tout en
+respectant la protection des données;
+b.	établir des statistiques en lien avec le coronavirus.
+2	Ils ne peuvent pas être utilisés à d'autres fins, en particulier ils ne peuvent servir
+aux autorités cantonales pour ordonner ou évaluer des mesures au sens des art. 33 à
+38 LEp.
+Art. 4	Rapport avec l'ordonnance sur les épidémies
+L'art. 60 LEp et les dispositions de l'ordonnance du 29 avril 2015 sur les épidémies4
+relatives au système d'information qu'ils visent ne sont pas applicables au SPTS.
+Art. 5 Structure du SPTS
+1	Le SPTS est composé des éléments suivants:
+a.	un système de gestion des données relatives aux situations de rapprochement
+(GR), composé d'un logiciel que les participants installent sur leur téléphone
+portable (application) et d'un back-end (back-end GR);
+b.	un système de gestion des codes, composé d'un front-end en ligne et d'un
+back-end.
+2	Le back-end GR et le système de gestion des codes sont exploités comme serveurs
+centraux par l'Office fédéral de la santé publique (OFSP).
+Art. 6	Participants à l'essai pilote
+1	Le cercle des participants potentiels à l'essai pilote se limite aux groupes de per-
+sonnes suivants:
+a.	les membres de l'armée suisse en service d'instruction, en service d'appui
+ou en service actif;
+b.	les collaborateurs de hautes écoles;
+c.	le personnel des hôpitaux et des cliniques;
+d.	les employés des administrations cantonales et de l'administration fédérale;
+e.	les membres d'associations voulant contribuer à l'amélioration du système.
+2	L'OFSP met à la disposition des participants, via ces institutions et associations,
+les informations nécessaires et l'accès technique par lequel les personnes visées à
+l'al. 1 peuvent télécharger l'application.
+4 RS 818.101.1
+2
+O COVID-19 essai pilote traçage de proximité
+818.101.25
+Art. 7 Caractère volontaire
+1	Les participants installent l'application et utilisent le SPTS sur une base volontaire.
+2	Les participants sont informés qu'ils ont potentiellement été exposés au coronavi-
+rus uniquement si la personne infectée y a expressément consenti.
+Art. 8	Principes du traitement des données
+1 Lors du traitement des données, toutes les mesures techniques et organisationnelles
+appropriées doivent être prises pour éviter que les participants puissent être identi-
+fiés.
+2 Les données enregistrées sur le téléphone portable d'un participant et concernant
+d'autres participants sont traitées et enregistrées exclusivement sur ce téléphone.
+3	Aucune donnée de géolocalisation n'est créée ou traitée dans le SPTS, de quelque
+façon que ce soit.
+4	Le code source et les spécifications techniques de tous les composants du SPTS
+sont accessibles au public.
+5	La législation fédérale en matière de protection des données s'applique.
+Art. 9	Organe fédéral responsable
+L'OFSP est l'organe fédéral responsable du respect de la législation sur la protection
+des données pour tous les composants du SPTS.
+Art. 10 Fonctionnement de base
+1 Dans le fonctionnement de base, le back-end GR donne aux applications un accès
+en ligne à son contenu . Le contenu consiste en une liste des données suivantes:
+a.	les clés privées des participants infectés qui étaient actuelles au moment où
+d'autres personnes ont probablement été contaminées (période pertinente);
+b.	la date de chaque clé.
+2 L'application remplit les fonctions suivantes:
+a.	elle génère chaque jour une nouvelle clé privée qui ne permet pas de remon-
+ter jà l'application ou au participant;
+b.	elle envoie en permanence via Bluetooth un code d'identification qui change
+toutes les quinze minutes, généré à partir de la clé privée actuelle mais qui
+ne permet ni d'identifier la clé, ni de remonter à l'application ou au partici-
+pant;
+c.	elle vérifie en permanence si elle reçoit des signaux compatibles émis par
+d'autres téléphones portables; si un autre téléphone portable se trouve à deux
+mètres ou moins, l'application enregistre son code d'identification actuel, la
+force du signal et la date et la durée approximative du rapprochement; le
+rapprochement est estimé à l'aide de la force des signaux reçus;
+3
+818.101.25
+Lutte contre les maladies
+d.	depuis le back-end GR, elle extrait à intervalles réguliers la liste des clés
+privées des participants infectés et détermine sur cette base les codes
+d'identification y relatifs visés à la let. b; elle compare les codes
+d'identification à ceux qu'elle a enregistrés localement;
+e.	si la comparaison révèle qu'un téléphone portable s'est rapproché à moins de
+deux mètres d'au moins un participant infecté et que la durée totale de cette
+proximité atteint ou dépasse les quinze minutes au cours de la même jour-
+née, l'application envoie une information.
+Art. 11 Fonctionnement après une infection
+1 En cas d'infection, les professionnels disposant des droits d'accès au système de
+gestion des codes génèrent un code d'autorisation unique et temporaire. En outre, ils
+saisissent dans le système de gestion des codes le moment où les premiers symp-
+tômes sont apparus ou, si la personne infectée ne présente aucun symptôme, la date
+du test.
+2 Les professionnels disposant des droits d'accès communiquent le code
+d'autorisation au participant infecté. Celui-ci peut saisir le code d'autorisation dans
+l'application.
+3	Le back-end de gestion des codes confirme à l'application la validité du code saisi.
+Il retranche au maximum trois jours de la date que le professionnel disposant des
+droits d'accès visé à l'al. 1 a saisie. La date qui en résulte est considérée comme le
+début de la période pertinente. Le back-end de gestion des codes communique cette
+date à l'application de la personne infectée.
+4	L'application de la personne infectée transmet au back-end GR les clés privées qui
+étaient actuelles durant la période pertinenteavec les dates correspondantes.
+5	Le back-end GR place les clés privées reçues et les dates correspondantes sur sa
+liste.
+6	Après la déclaration d'une infection, l'application génère une nouvelle clé privée.
+Celle-ci ne permet pas de remonter à d'anciennes clés privées.
+Art. 12	Contenu de l'information
+1 L'information comprend:
+a. une information selon laquelle le participant a potentiellement été exposé au
+coronavirus;
+b. une indication du jour où cela s'est produit la dernière fois;
+c.	les règles de conduite recommandées par l'OFSP.
+2 Le SPTS ne transmet aucune prescription. Il n'informe ni sur les mesures des
+autorités cantonales compétentes au sens des art. 33 à 38 LEp, ni sur les possibilités
+d'accéder à des tests de dépistage du virus.
+4
+O COVID-19 essai pilote traçage de proximité
+818.101.25
+Art. 13	Participation de tiers à la mise à disposition des clés privées
+1 L'OFSP peut charger des tiers de donner aux applications un accès en ligne à la
+liste contenant les données visées à l'art. 10, al. 1.
+2 Les tiers doivent s'engager à respecter les prescriptions de la présente ordonnance.
+3	L'OFSP contrôle le respect des prescriptions.
+Art. 14	Contenu du système de gestion des codes
+Le système de gestion des codes contient les données suivantes:
+a. les codes d'autorisation;
+b. la date à laquelle les premiers symptômes sont apparus ou, si la personne in-
+fectée ne présente aucun symptôme, la date du test;
+c.	la date de la destruction des données visées aux let. a et b.
+Art. 15	Droits d'accès au système de gestion des codes
+1 Les personnes suivantes peuvent émettre un code d'autorisation:
+a. les médecins cantonaux;
+b. le médecin en chef de l'armée;
+c.	les autres collaborateurs des services du médecin cantonal ou du service mé-
+dico-militaire de l'armée;
+d.	les tiers mandatés par les services des médecins cantonaux ou par le service
+médico-militaire de l'armée;
+e.	le médecin traitant et son personnel assistant.
+2 L'inscription dans le système de gestion des codes passe par le système central de
+gestion des accès et des autorisations de l'administration fédérale pour les applica-
+tions Web. Les dispositions de l'ordonnance du 19 octobre 2016 sur les systèmes de
+gestion des données d'identification et les services d'annuaire de la Confédération5
+s'appliquent.
+3	L'OFSP attribue et gère les droits d'accès au système de gestion des codes. Il
+autorise les médecins cantonaux et le médecin en chef de l'armée à attribuer des
+droits d'accès à leur personnel assistant.
+Art. 16 Journaux accès
+1 Les art. 57i à 57q de la loi du 21 mars 1997 sur l'organisation du gouvernement et
+de l'administration6 et l'ordonnance du 22 février 2012 sur le traitement des données
+personnelles liées à l'utilisation de l'infrastructure électronique de la Confédération7
+5 RS 172.010.59
+6 RS 172.010
+7 RS 172.010.442
+5
+818.101.25
+Lutte contre les maladies
+sont applicables à l'enregistrement et à l'analyse des journaux des accès au back-end
+GR et au système de gestion des codes.
+2 Hormis les journaux des accès et l'enregistrement des rapprochements, le SPTS
+n'enregistre aucun journal des activités des front-ends et des applications.
+Art. 17	Communication à des fins de statistiques
+L'OFSP met régulièrement à la disposition de l'Office fédéral de la statistique
+(OFS) les données actuelles disponibles dans les deux back-ends, sous forme entiè-
+rement anonymisée, à des fins statistiques.
+Art. 18	Destruction des données
+1 Les données du système GR sont détruites à la fois sur les téléphones portables et
+dans le back-end GR 21 jours après leur saisie.
+2 Les données du système de gestion des codes sont détruites 24 heures après leur
+saisie.
+3	Les données journalisées des tiers mandatés au sens de l'art. 13 sont détruites
+7 jours après leur saisie.
+4	Pour le reste, les données journalisées sont détruites conformément à l'art. 4, al. 1,
+let. b, de l'ordonnance du 22 février 2012 sur le traitement des données personnelles
+liées à l'utilisation de l'infrastructure électronique de la Confédération8.
+5	Les données mises à la disposition de l'OFS sont également détruites conformé-
+ment à cet article.
+Art. 19	Désinstallation de l'application, installation de la version définitive
+À la fin de l'essai pilote, les institutions et associations visées à l'art. 6, al. 1, invitent
+les participants concernés à désinstaller eux-mêmes l'application de leur téléphone
+portable ou à installer la version définitive de l'application, pour autant que le SPTS
+reste en exploitation et qu'ils souhaitent continuer à participer.
+Art. 20 Évaluation de l'essai pilote
+1 Le Département fédéral de l'intérieur informe en permanence le Conseil fédéral et
+l'Assemblée fédérale de l'essai pilote.
+2 Il fait rapport au Conseil fédéral sur l'essai au plus tard un mois après la fin de
+l'essai pilote.
+Art. 21 Entrée en vigueur et durée de validité
+La présente ordonnance entre en vigueur le 14 mai 2020 à 0 h 00 et a effet jusqu'au
+30 juin 2020.
+8 RS 172.010.442
+6

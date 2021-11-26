@@ -1,0 +1,491 @@
+﻿0
+Schweizerische Eidgenossenschaft
+Confédération suisse
+Confederazione Svizzera
+Confederaziun svizra
+FF 2020
+www.droitfederal.admin.ch
+La version électronique
+signée fait foi
+Projet
+Loi fédérale
+sur les crédits garantis par un cautionnement
+solidaire à la suite du coronavirus
+(Loi sur les cautionnements solidaires liés au COVID-19,
+LCaS-COVID-19)
+du ...
+L'Assemblée fédérale de la Confédération suisse,
+vu l'art. 103 de la Constitution (Cst.)1,
+vu le message du Conseil fédéral du 18 septembre 20202,
+arrête:
+Section 1 Objet
+Art. 1
+La présente loi définit:
+a.	le but des cautionnements solidaires octroyés en vertu de l'ordonnance du
+25 mars 2020 sur les cautionnements solidaires liés au COVID-19 (OCaS-
+COVID-19)3 et les utilisations illicites des fonds pendant la durée de ces
+cautionnements;
+b.	l'amortissement des crédits cautionnés en vertu de l'OCaS-COVID-19 et les
+taux d'intérêt;
+c.	les tâches des quatre organisations de cautionnement reconnues en vertu de
+la loi fédérale du 6 octobre 2006 sur les aides financières aux organisations
+de cautionnement en faveur des PME4 (organisations de cautionnement) en
+matière de gestion, de surveillance et de règlement des cautionnements soli-
+daires visés à la let. a ainsi que leurs tâches dans le cadre de la prévention,
+de la lutte et de la poursuite en matière d'abus;
+d.	la prévention, la lutte et la poursuite en matière d'abus en lien avec l'octroi
+de cautionnements solidaires et de crédits;
+1	RS 101
+2	FF 2020 8165
+3	RS 951.261
+4	RS 951.25
+2020-2330
+8225
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+e.	la couverture des pertes et la prise en charge des frais administratifs par la
+Confédération;
+f.	le transfert simplifié des créances de crédit à la Banque nationale suisse
+(BNS) en vue du refinancement des donneurs de crédit.
+Section 2
+But du cautionnement solidaire, utilisations illicites des fonds,
+amortissement et taux d'intérêt
+Art. 2 But du cautionnement solidaire et utilisations illicites des fonds
+1	Le cautionnement solidaire au sens de l'OCaS-COVID-195 sert à la garantie d'un
+crédit pour les besoins en liquidités du preneur de crédit à la suite de l'épidémie de
+COVID-19.
+2	Sont exclus pendant la durée du cautionnement solidaire:
+a.	la distribution de dividendes et de tantièmes ainsi que le remboursement
+d'apports de capital;
+b.	l'octroi de prêts ou le remboursement de prêts d'associés ou de personnes
+proches; sont toutefois licites:
+1. le refinancement des découverts de compte accumulés depuis le
+23 mars 2020 auprès de la banque qui octroie le crédit cautionné en ver-
+tu de l'OCaS-COVID-19;
+2. l'exécution des engagements envers une société du groupe ayant son
+siège en Suisse et liée directement ou indirectement au preneur de cré-
+dit qui existaient avant la naissance du cautionnement solidaire, no-
+tamment les obligations ordinaires préexistantes de payer des intérêts et
+des amortissements;
+c.	le remboursement de prêts intragroupes au moyen des fonds reçus en vertu
+de l'OCaS-COVID-19; il est toutefois notamment licite de remplir les obli-
+gations ordinaires préexistantes de payer des intérêts et des amortissements
+au sein d'une structure de groupe, et
+d.	le transfert de fonds issus de crédits cautionnés en vertu de l'OCaS-COVID-
+19 à une société du groupe n'ayant pas son siège en Suisse qui est liée direc-
+tement ou indirectement au preneur de crédit; il est toutefois notamment li-
+cite de remplir les obligations ordinaires préexistantes de payer des intérêts
+et des amortissements au sein d'une structure de groupe.
+3	Le donneur de crédit exclut contractuellement les utilisations des fonds visées à
+l'al. 2 avec le preneur de crédit.
+4	Le preneur de crédit n'est pas autorisé à transférer les droits et obligations qui
+découlent de la relation de crédit. Est en revanche autorisé, avec le consentement du
+donneur de crédit, le transfert dans le cadre d'une restructuration au sens de la loi du
+5 RS 951.261
+8226
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+3	octobre 2003 sur la fusion6, pour autant qu'il soit lié au transfert de tous les actifs
+et passifs ou au moins de la partie essentielle de l'entreprise du preneur de crédit, ou
+à une transformation du preneur de crédit. L'organisation de cautionnement est
+informée de la restructuration par écrit ou par voie électronique.
+Art. 3 Durée du cautionnement solidaire et amortissement des crédits
+1	Un cautionnement solidaire dure au maximum cinq ans:
+a.	à compter de la signature de la convention de crédit pour un crédit au sens de
+l'art. 3 OCaS-COVID-197;
+b.	à compter de la signature du contrat de cautionnement pour un crédit au sens
+de l'art. 4 OCaS-COVID-19.
+2	Les crédits octroyés en vertu de l'OCaS-COVID-19 doivent être entièrement
+amortis dans un délai de cinq ans.
+3	Si l'amortissement du crédit dans le délai imparti a des conséquences très dures
+pour le preneur de crédit, le donneur de crédit peut, avec l'accord de l'organisation
+de cautionnement, prolonger le délai de façon appropriée, mais au maximum à dix
+ans, sur la base d'un plan d'amortissement s'il est probable que les risques financiers
+de la Confédération pourront ainsi être réduits. Le cautionnement solidaire reste
+valable pendant la durée de la prolongation.
+Art. 4 Taux d'intérêt
+1	Le taux d'intérêt s'élève à:
+a.	pour les crédits garantis par un cautionnement solidaire au sens de l'art. 3
+OCaS-COVID-198: 0,0 % par an;
+b.	pour les crédits garantis par un cautionnement solidaire au sens de l'art. 4
+OCaS-COVID-19: en cas de limite en compte courant, 0,5 % par an et, en
+cas d'avance à échéance fixe, 0,5 % par an;
+c.	pour les parts de crédits qui ne sont pas garanties par un cautionnement soli-
+daire au sens de l'OCaS-COVID-19: selon le contrat de crédit.
+2	Sur proposition du Département fédéral des finances (DFF), le Conseil fédéral
+adapte chaque année au 31 mars les taux d'intérêt définis à l'al. 1, let. a et b, à l'évo-
+lution du marché, la première fois le 31 mars 2021. Le taux d'intérêt défini à l'al. 1,
+let. a, s'élève au moins à 0,0 % et celui défini à l'al. 1, let. b, au moins à 0,5 %. Le
+DFF entend au préalable les banques créancières.
+6
+7
+8
+RS 221.301
+RS 951.261
+RS 951.261
+8227
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+Section 3
+Tâches des organisations de cautionnement et convention avec la
+Confédération
+Art. 5 Tâches des organisations de cautionnement
+1	En ce qui concerne les cautionnements solidaires octroyés en vertu de l'OCaS-
+COVID-199, les organisations de cautionnement assument les tâches suivantes:
+a.	la gestion, la surveillance et le règlement des cautionnements;
+b.	les tâches qui leur sont attribuées dans le cadre de la prévention, de la lutte et
+de la poursuite en matière d'abus;
+c.	les tâches prévues par la convention conclue avec la Confédération.
+2	Afin d'accomplir leurs tâches, elles peuvent:
+a.	prendre des mesures visant à élucider les soupçons d'abus, notamment dans
+le cadre d'échanges avec les donneurs de crédits, les preneurs de crédits et
+les services de la Confédération et des cantons;
+b.	introduire et mener des procédures civiles et pénales de manière autonome;
+c.	se constituer parties plaignantes dans des procédures pénales; elles ont tous
+les droits et obligations qui en découlent.
+3	Elles exercent leur activité avec toute la diligence requise et sauvegardent égale-
+ment les intérêts de la Confédération.
+Art. 6 Convention entre la Confédération et l'organisation
+de cautionnement
+1	Le Département fédéral de l'économie, de la formation et de la recherche (DEFR)
+conclut avec chaque organisation de cautionnement une convention de droit public
+sur l'octroi de cautionnements visant à lutter contre les conséquences économiques
+de l'épidémie de COVID-19.
+2	La convention fixe en particulier:
+a.	le type et l'ampleur des prestations fournies par l'organisation de caution-
+nement en matière de gestion, de surveillance et de règlement des caution-
+nements ainsi que les modalité du recours à des tiers;
+b.	l'indemnisation pour les prestations mentionnées à la let. a ainsi que pour le
+recours à des ressources administratives supplémentaires et à des tiers;
+c.	les prescriptions relatives aux rapports périodiques, aux contrôles de qualité,
+à la budgétisation et à la comptabilité;
+d.	la documentation nécessaire pour le décompte des pertes;
+e.	la garantie de la communication des données personnelles et des informa-
+tions;
+9 RS 951.261
+8228
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+f.	les conditions auxquelles il faut déposer plainte ou y renoncer;
+g.	les modalités concernant l'approbation d'une postposition de créance et d'un
+versement anticipé du cautionnement au sens de l'art. 7;
+h.	les modalités de la gestion des créances au sens de l'art. 8;
+i.	la participation de l'organisation de cautionnement à la prévention, à la lutte
+et à la poursuite en matière d'abus au sens de l'art. 10;
+j.	les modalités relatives aux prescriptions imposées au donneur de crédit en ce
+qui concerne le devoir d'information au sens de l'art. 11, al. 3;
+k.	la procédure en cas de litige;
+l.	la durée minimale de la convention et la possibilité subséquente de la dénon-
+cer.
+Section 4
+Gestion, surveillance et règlement du cautionnement solidaire ainsi que
+prévention, lutte et poursuite en matière d'abus
+Art. 7 Postposition de créance et versement anticipé du cautionnement
+solidaire
+1	Une déclaration de postposition partielle ou totale de créance du donneur de crédit
+pour un crédit cautionné en vertu de l'OCaS-COVID-1910 n'est valable que si
+l'organisation de cautionnement a préalablement consenti à la postposition de
+créance.
+2	L'organisation de cautionnement peut consentir à une postposition de créance dans
+le cadre de procédures concordataires, d'assainissements financiers extrajudiciaires
+visant au maintien de la partie essentielle de l'entreprise ainsi que de liquidations
+inscrites au registre du commerce si les conditions suivantes sont remplies:
+a.	un plan d'assainissement ou de liquidation est disponible;
+b.	la postposition de créance réduira probablement les risques financiers de la
+Confédération;
+c.	un redressement financier du preneur de crédit se dessine du fait:
+1. que d'autres créanciers déclarent un abandon de créance substantiel, ou
+2. que d'importants nouveaux fonds de financement lui parviennent.
+3	L'organisation de cautionnement peut aussi convenir du versement anticipé du
+cautionnement avec le donneur de crédit si les conditions mentionnées à l'al. 2 sont
+remplies.
+4	Le Conseil fédéral peut édicter des prescriptions concernant la postposition de
+créance et le versement anticipé des cautionnements afin d'uniformiser la pratique
+des organisations de cautionnement ou de préserver les intérêts de la Confédération.
+10 RS 951.261
+8229
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+Art. 8 Gestion des créances transférées aux organisations de cautionnement
+1	Après la sollicitation du cautionnement par le donneur de crédit ou le versement
+anticipé du cautionnement, l'organisation de cautionnement prend, lors de la gestion
+de la créance qui lui a été transférée, toutes les mesures nécessaires pour recouvrer le
+montant versé au donneur de crédit; en particulier:
+a.	elle recouvre les prétentions pécuniaires;
+b.	elle repousse les prétentions pécuniaires infondées, et
+c.	elle gère les actes de défaut de biens et les certificats d'insuffisance de gage.
+2	L'organisation de cautionnement dispose, aux conditions mentionnées à l'art. 7,
+al. 2, de la possibilité de la postposition partielle ou totale de créance même après la
+sollicitation du cautionnement par le donneur de crédit ou le versement anticipé du
+cautionnement.
+3	Si l'organisation de cautionnement considère cette postposition comme inappro-
+priée dans un cas particulier pour un assainissement durable du preneur de crédit,
+elle peut abandonner partiellement sa créance aux mêmes conditions.
+4	Dans une procédure concordataire, l'organisation de cautionnement peut, sur
+demande du preneur de crédit, participer aux frais pour les honoraires du commis-
+saire (art. 293b et 295 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes
+et la faillite11) jusqu'à concurrence de 100 000 francs sauf s'il est probable que les
+risques financiers de la Confédération s'en trouveront augmentés de façon détermi-
+nante.
+5	Si le recouvrement de créances semble voué à l'échec ou si les charges et les coûts
+assumés par l'organisation de cautionnement sont disproportionnés par rapport au
+montant litigieux, l'organisation de cautionnement peut:
+a.	renoncer, à l'égard du preneur de crédit, à la revendication de la créance qui
+lui a été transférée;
+b.	accepter un concordat avec le preneur de crédit;
+c.	remettre au preneur de crédit des actes de défaut de biens et des certificats
+d'insuffisance de gage au-dessous de leur valeur nominale.
+6	Le Conseil fédéral peut édicter des prescriptions concernant la gestion des créances
+transférées aux organisations de cautionnement afin d'uniformiser la pratique des
+organisations de cautionnement ou de préserver les intérêts de la Confédération.
+Art. 9 Recours à des tiers par l'organisation de cautionnement
+1	L'organisation de cautionnement peut recourir à des tiers afin d'accomplir ses
+tâches. Ce recours doit être réglé par contrat et remplir les conditions usuelles du
+marché. L'organisation de cautionnement doit sélectionner, instruire et surveiller
+soigneusement les tiers qu'elle mandate.
+8230
+11 RS 281.1
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+2	L'organisation de cautionnement peut mettre à la disposition des tiers qu'elle
+mandate toutes les données personnelles et informations visées à l'art. 11 dont ils
+ont besoin pour accomplir leurs tâches. Elle leur impose la même obligation de
+garder le secret que celle à laquelle elle est soumise.
+Art. 10 Prévention, lutte et poursuite en matière d'abus
+Le DEFR collabore avec le DFF, le Contrôle fédéral des finances (CDF), d'autres
+services concernés de la Confédération et des cantons et les organisations de cau-
+tionnement afin de prévenir, de combattre et de poursuivre les abus.
+Art. 11 Traitement, appariement et communication de données personnelles
+et d'informations
+1	Les organisations de cautionnement, les donneurs de crédit, les services compé-
+tents de la Confédération et des cantons, le CDF et la BNS peuvent traiter, apparier
+et se communiquer mutuellement les données personnelles et informations néces-
+saires à la gestion, à la surveillance et au règlement des crédits et des cautionne-
+ments fondés sur l'OCaS-COVID-1912 et la présente loi ainsi qu'à la prévention, à la
+lutte et à la poursuite en matière d'abus.
+2	L'organisation de cautionnement peut se procurer les données personnelles et
+informations nécessaires à la gestion, à la surveillance et au règlement des crédits et
+des cautionnements fondés sur l'OCaS-COVID-19 et la présente loi ainsi qu'à la
+prévention, à la lutte et à la poursuite en matière d'abus. Les preneurs de crédit, leurs
+services de révision ainsi que les personnes qu'ils mandatent pour leurs activités
+comptables et fiduciaires ainsi que les donneurs de crédit sont soumis à l'obligation
+de renseigner.
+3	Au moins une fois par semestre, les donneurs de crédit informent les organisations
+de cautionnement, conformément aux prescriptions de ces dernières et par l'intermé-
+diaire du système de traitement des données exploité par les organisations de cau-
+tionnement, de l'état des crédits cautionnés en vertu de l'OCaS-COVID-19, ainsi
+que des arriérés d'amortissement et d'intérêts. Les organisations de cautionnement
+font régulièrement vérifier le système de traitement des données afin de s'assurer
+qu'il respecte les exigences reconnues en matière de sécurité des données. À cet
+égard, il n'incombe aux donneurs de crédit ni obligation de vérification ni responsa-
+bilité en lien avec la vérification.
+4	Le Secrétariat d'État à l'économie (SECO) et le CDF peuvent en tout temps récla-
+mer aux organisations de cautionnement les données personnelles et informations
+dont ils ont besoin pour accomplir leurs tâches de contrôle, de comptabilité et de
+surveillance.
+5	Le secret bancaire, le secret fiscal, le secret statistique, le secret de la révision et le
+secret de fonction ne peuvent être invoqués contre le traitement, l'appariement et la
+communication des données personnelles et informations visées dans le présent
+article.
+12 RS 951.261
+8231
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+Art. 12 Statistiques; restrictions de l'accès aux données personnelles
+et aux informations
+1	Le SECO publie régulièrement des statistiques concernant en particulier:
+a. le nombre et le volume des crédits cautionnés en vertu de l'OCaS-
+COVID-1913;
+b. le nombre et le volume des cautionnements sollicités et des cautionnements
+versés de façon anticipée.
+2	Sauf dans les cas visés à l'art. 11, les données personnelles et informations qui
+présentent les contenus suivants ne sont pas rendues publiques:
+a. l'identité et les coordonnées bancaires des entreprises et des personnes qui
+recherchent et prennent un crédit;
+b. les montants qui sont alloués ou refusés aux différentes entreprises et per-
+sonnes.
+Section 5
+Prise en charge des pertes sur cautionnements et des frais
+administratifs par la Confédération
+Art. 13 Prise en charge des pertes sur cautionnements par la Confédération
+1	La Confédération prend en charge les pertes sur cautionnements que les crédits
+cautionnés en vertu de l'OCaS-COVID-1914 occasionnent aux organisations de
+cautionnement.
+2	Sont déterminants pour le calcul des pertes devant être prises en charge le crédit
+cautionné au sens de l'art. 3, al. 1, ou de l'art. 4, al. 5, OCaS-COVID-19, déduction
+faite des amortissements versés, et l'intérêt annuel cautionné conformément à ces
+articles.
+Art. 14 Prise en charge des frais administratifs par la Confédération
+1 La Confédération prend en charge les frais administratifs que les organisations de
+cautionnement supportent dans le cadre de la gestion, de la surveillance et du règle-
+ment des cautionnements octroyés en vertu de l'OCaS-COVID-1915 ainsi que de la
+gestion des créances, actes de défaut de biens et certificats d'insuffisance de gage
+qui leur sont transférés en relation avec les crédits octroyés en vertu de ladite ordon-
+nance.
+2 Les frais administratifs comprennent également les frais suivants:
+a. frais pour le commissaire visés à l'art. 8, al. 4;
+b. frais de recours à des tiers au sens de l'art. 9;
+13 RS 951.261
+14 RS 951.261
+15 RS 951.261
+8232
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+c.	frais de prévention, de lutte et de poursuite en matière d'abus au sens de
+l'art. 10.
+3	Si une organisation de cautionnement distribue un éventuel bénéfice net aux pro-
+priétaires, la Confédération réduit l'année suivante sa contribution aux frais adminis-
+tratifs de l'organisation concernée du montant du bénéfice net distribué.
+Art. 15 Paiements anticipés
+Chaque année, la Confédération effectue des paiements anticipés d'au maximum
+80 % du montant des pertes et des frais administratifs escomptés. Elle peut compen-
+ser les prétentions d'une organisation de cautionnement en matière de prise en
+charge des pertes et des frais administratifs avec ses propres prétentions pécuniaires
+envers cette organisation.
+Art. 16 Versement des montants de créance recouvrés
+1	L'organisation de cautionnement verse semestriellement à la Confédération les
+montants de cautionnement recouvrés.
+2	Elle peut déduire des montants de créance recouvrés les frais usuels du marché
+résultant du recouvrement, à l'exception des frais administratifs visés à l'art. 14.
+Art. 17 Fixation des contributions à la prise en charge des pertes sur
+cautionnements et des frais administratifs
+1 Le SECO fixe le montant des contributions à la prise en charge des pertes sur
+cautionnements et des frais administratifs des organisations de cautionnement.
+2 À cet effet, les organisations de cautionnement transmettent régulièrement au
+SECO leurs décomptes et les autres pièces dont il a besoin pour fixer ce montant.
+Art. 18 Rapport au Conseil fédéral
+Le DEFR informe régulièrement le Conseil fédéral des engagements de la Confédé-
+ration et fournit des analyses sur l'état des cautionnements solidaires au sens de la
+présente loi.
+Section 6
+Transfert simplifié des créances de crédit en vue du refinancement par
+la BNS
+Art. 19 Prescriptions de forme
+1 La cession de crédits cautionnés en vertu de l'OCaS-COVID-1916 et d'autres
+créances de crédit d'un donneur de crédit à la BNS ainsi que leur rétrocession au
+16 RS 951.261
+8233
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+donneur de crédit ne requièrent aucune forme particulière pour être valables. La
+BNS définit les données à transmettre et les modalités du transfert.
+2 La créance est considérée comme valablement transférée à la BNS au moment où
+cette dernière enregistre la créance dans ses systèmes.
+3	Pour la rétrocession de la créance au donneur de crédit, le moment déterminant est
+celui où la BNS enregistre la rétrocession de la créance ou efface la créance dans ses
+systèmes.
+4	La BNS confirme au donneur de crédit l'état des créances de crédit transférées.
+Ces confirmations n'ont qu'une valeur déclaratoire.
+Art. 20 Droits de préférence et autres droits accessoires
+Tous les droits de préférence et autres droits accessoires liés à la créance transférée
+vont à la BNS lors de sa cession et au donneur de crédit lors de sa rétrocession,
+indépendamment de dispositions contractuelles ou légales contraires. Ce principe
+vaut en particulier pour les cautionnements solidaires octroyés en vertu de l'OCaS-
+COVID-1917.
+Art. 21 Devoir d'information et droit à l'information
+1 Nonobstant une éventuelle obligation contractuelle ou légale de garder le secret, le
+donneur de crédit est tenu de transmettre à la BNS les informations sur les créances
+de crédit cédées et de mettre à sa disposition, sur demande, tous les documents
+pertinents, y compris les contrats de crédit.
+2 La BNS peut en outre requérir des preneurs de crédit, des organisations de cau-
+tionnement et des services compétents de la Confédération et des cantons tous les
+renseignements et documents nécessaires à l'exécution de ses créances.
+Section 7
+Responsabilité, tâches de l'organe de révision, surendettement et
+disposition pénale
+Art. 22 Responsabilité
+Les membres de l'organe supérieur de direction ou d'administration du preneur de
+crédit ainsi que toutes les personnes qui s'occupent de sa gestion ou de sa liquidation
+répondent personnellement et solidairement à l'égard des créanciers de l'entreprise,
+du donneur de crédit, de l'organisation de cautionnement et de la Confédération du
+dommage qu'ils leur causent en violant les prescriptions de l'art. 2, al. 2.
+8234
+17 RS 951.261
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+Art. 23 Tâches de l'organe de révision
+Si l'organe de révision du preneur de crédit constate, dans le cadre d'un contrôle
+restreint ou ordinaire des comptes annuels ou des comptes de groupe, une violation
+d'une prescription de l'art. 2, al. 2, il lui impartit un délai approprié pour régulariser
+la situation. Si celle-ci n'est pas régularisée dans le délai imparti, l'organe de révi-
+sion doit informer l'organisation de cautionnement compétente.
+Art. 24	Perte de capital et surendettement
+1 Pour le calcul de la couverture du capital et des réserves au sens de l'art. 725, al. 1,
+du code des obligations (CO)18 et pour le calcul d'un surendettement au sens de
+l'art. 725, al. 2, CO, les crédits cautionnés au sens de l'art. 3 OCaS-COVID-1919 ne
+sont pas pris en compte en tant que capitaux étrangers.
+2 L'al. 1 s'applique par analogie à toutes les formes juridiques pour lesquelles la loi
+prévoit un avis obligatoire en cas de perte de capital et de surendettement au sens de
+l'art. 725 CO.
+Art. 25 Disposition pénale
+1 Quiconque, de manière intentionnelle, obtient un crédit en vertu de l'OCaS-
+COVID-1920 en fournissant de fausses indications ou viole une ou plusieurs pres-
+criptions de l'art. 2, al. 2, est puni d'une amende de 100 000 francs au plus. L'exis-
+tence d'une infraction pénale plus grave au sens du code pénal21 est réservée.
+2 L'action pénale se prescrit par sept ans pour les contraventions au sens de la pré-
+sente loi. Ce délai de prescription s'applique également aux infractions à l'OCaS-
+COVID-19, pour autant que la prescription de l'action pénale ne soit pas encore
+échue à l'entrée en vigueur de la présente loi.
+3	Les employés du SECO et de l'organisation de cautionnement sont habilités à
+dénoncer aux autorités de poursuite pénale ou au CDF les contraventions au sens de
+la présente loi et de l'OCaS-COVID-19 dont ils ont eu connaissance ou qui leur ont
+été signalées dans l'exercice de leur fonction.
+Section 8 Dispositions finales
+Art. 26 Maintien des cautionnements et des conditions-cadres
+1 L'abrogation de l'OCaS-COVID-1922 et l'entrée en vigueur de la présente loi n'af-
+fectent ni la validité des cautionnements octroyés en vertu de l'OCaS-COVID-19 ni
+les conditions-cadres pour crédits COVID-19 jusqu'à 500 000 francs figurant à
+l'annexe 1 de l'OCaS-COVID-19.
+18	RS 220
+19	RS 951.261
+20	RS 951.261
+21	RS 311.0
+22	RS 951.261
+8235
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+2 Si, après l'entrée en vigueur de la présente loi, les fonds sont utilisés pour de
+nouveaux investissements, ce qui était illicite au sens de l'OCaS-COVID-19, mais
+est licite au sens de la présente loi, cette utilisation ne constitue pas une violation de
+contrat de la part du preneur de crédit.
+Art. 27 Modification d'autres actes
+Les lois mentionnées ci-après sont modifiées comme suit:
+1.	Loi fédérale du 18 juin 2010 sur le numéro d'identification
+des entreprises23
+Art. 11, al. 3, 2e phrase
+3	... Jusqu'à l'abrogation de la loi du [...] sur les cautionnements solidaires liés au
+COVID-1924, l'OFS publie ces données sur Internet sans l'accord de l'entité IDE.
+2.	Loi du 17 décembre 2010 sur l'organisation de la Poste25
+Art. 3, al. 3, deuxième phrase
+3	... Elle est habilitée à prolonger les crédits octroyés conformément à l'art. 19 de
+l'ordonnance du 25 mars 2020 sur les cautionnements solidaires liés au COVID-1926
+au plus tard jusqu'à leur amortissement complet au sens de l'art. 3 de la loi du [...]
+sur les cautionnements solidaires liés au COVID-1927.
+3.	Loi du 3 octobre 2003 sur la Banque nationale28
+Titre précédant l'art. 49
+Section 6
+Obligation de garder le secret, traitement de données personnelles,
+échange d'informations et responsabilité
+Art. 49a Traitement de données personnelles
+Pour accomplir ses tâches légales, la Banque nationale peut traiter des données
+personnelles, y compris des données sensibles.
+23	RS 431.03
+24	RS ...
+25	RS 783.1
+26	RS 951.261
+27	RS ...
+28	RS 951.11
+8236
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+Art. 28 Référendum, entrée en vigueur et durée de validité
+1 La présente loi est déclarée urgente (art. 165, al. 1, Cst.). Elle est sujette au réfé-
+rendum (art. 141, al. 1, let. b, Cst.).
+2 Sous réserve de l'al. 3, elle entre en vigueur le [jour suivant son adop-
+tion/1er janvier 2021] et a effet jusqu'au 31 décembre 2032; toutes les modifications
+qu'elle contient sont caduques après cette date.
+3	L'art. 12, al. 2, entre en vigueur rétroactivement au 25 mars 2020.
+8237
+L sur les cautionnements solidaires liés au COVID-19
+FF 2020
+8238

@@ -1,0 +1,32 @@
+8 MAI 2020. - Décret portant organisation d'une recherche de contacts dans le cadre du COVID-19 (1)
+
+
+Le PARLEMENT FLAMAND a adopté et et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+DECRET portant organisation d'une recherche de contacts dans le cadre du COVID-19
+Article 1er. Le présent décret règle une matière communautaire.
+Art. 2. Dans le présent décret, on entend par :
+1° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+2° décret du 21 novembre 2003 : le décret du 21 novembre 2003 relatif à la politique de santé préventive ;
+3° arrêté royal n° 18 du 4 mai 2020 : l'arrêté royal n° 18 du 4 mai 2020 portant création d'une banque de données auprès de Sciensano dans le cadre de la lutte contre la propagation du coronavirus COVID-19.
+Art. 3. Afin de pouvoir mettre en oeuvre la compétence de lutte contre la propagation des infections, visée à l'article 44, § 2 du décret du 21 novembre 2003, dans le cadre de la pandémie du COVID-19, le Gouvernement flamand, sans préjudice de l'application de l'article 44, § 3 du décret précité, peut charger une structure de coopération de partenaires extérieurs de missions de recherche et d'accompagnement de personnes avec un diagnostic COVID-19 avéré ou suspecté ou de personnes susceptibles d'avoir eu un contact à risque avec une personne infectée ou suspectée d'être infectée par le COVID-19, à condition que les données à caractère personnel soient traitées uniquement aux fins suivantes :
+1° contacter la personne infectée ou suspectée d'être infectée par le COVID-19 pour savoir avec quelles personnes cette personne a été en contact au cours de la période allant d'au moins 48 heures avant l'apparition des symptômes à au maximum quatorze jours avant la consultation ou la réalisation d'un test COVID-19 ;
+2° contacter le médecin référent ou le responsable administratif des collectivités ayant une population fragile avec laquelle la personne infectée ou suspectée d'être infectée par le COVID-19 a eu des contacts au cours de la période visée au point 1° ;
+3° contacter individuellement les personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact au cours de la période visée au point 1°, afin de leur fournir des recommandations appropriées sur la base des informations qu'elles fournissent et de contrôler le respect de ces recommandations ;
+4° transmettre les coordonnées des personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact à la banque de données de Sciensano, créée par l'arrêté royal n° 18 du 4 mai 2020.
+Le Gouvernement flamand désigne une agence qui agit en tant que responsable du traitement et qui conclut une convention de traitement avec la structure de coopération de partenaires extérieurs visée au premier alinéa, conformément à l'article 28, paragraphe 3, du règlement général sur la protection des données.
+Les personnes qui, à la demande de la structure de coopération de partenaires extérieurs visée au premier alinéa, accomplissent les missions visées au premier alinéa, sont tenues au secret professionnel visé à l'article 458 du Code pénal.
+La structure de coopération de partenaires extérieurs, visée au premier alinéa, est entre autres supervisée et dirigée par les fonctionnaires-médecins et les fonctionnaires de l'agence, visés à l'article 44, § 3, 2° et 3° du décret du 21 novembre 2003.
+Art. 4. Le Gouvernement flamand fixe les modalités d'organisation de la structure de coopération de partenaires extérieurs, visée à l'article 3, premier alinéa, du présent décret, ainsi que les modalités de la notification visée à l'article 44, § 3, 1° du décret du 21 novembre 2003, du COVID-19.
+Le Gouvernement flamand arrête :
+1° par catégorie de personnes dont les données à caractère personnel sont traitées : quelles sont les données d'identification et de contact traitées, en précisant si la personne concernée est infectée ou non par le COVID-19 ou si elle présente un risque d'infection par le COVID-19 ;
+2° la période maximale de conservation des données à caractère personnel.
+Art. 5. Les données à caractère personnel visées dans le présent décret sont stockées dans la banque de données de Sciensano aux fins mentionnées à l'article 3 de l'arrêté royal n° 18 du 4 mai 2020.
+Le Gouvernement flamand peut déterminer les autres banques de données auxquelles ces données à caractère personnel sont transmises et les fins d'une telle transmission.
+Le Gouvernement flamand peut déterminer les conditions dans lesquelles les personnes qui, à la demande de la structure de coopération de partenaires extérieurs visée à l'article 3, premier alinéa, du présent décret, accomplissent les missions, participent, pour tout ou partie de ces activités, en ce qui concerne le partage de données, à la banque de données de Sciensano, dans les conditions visées à l'article 3, §§ 2, 4 et 5 de l'arrêté royal du 4 mai 2020.
+Art. 6. Le présent décret entre en vigueur le 11 mai 2020 et cessera d'être en vigueur le 4 juin 2020.
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+Bruxelles, le 8 mai 2020.
+Le Ministre-Président du Gouvernement flamand,
+J. JAMBON
+Le Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté,
+W. BEKE

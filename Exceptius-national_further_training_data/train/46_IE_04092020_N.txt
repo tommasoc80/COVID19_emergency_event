@@ -1,0 +1,381 @@
+I, STEPHEN DONNELLY, Minister for Health, in exercise of the powers conferred on me by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Finance, the Minister for Justice and Equality, the Minister for Culture, Heritage and the Gaeltacht, the Minister for Transport, Tourism and Sport and the Minister for Business, Enterprise and Innovation,
+
+hereby make the following regulations:
+
+Citation and commencement
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A – Temporary Restrictions) (Covid-19) (No. 4) Regulations 2020.
+
+(2) Subject to paragraph (3), these Regulations shall come into operation on the 31st day of August 2020.
+
+(3) Regulations 11(3), 12, 13 and 14 shall come into operation on the 3rd day of September 2020.
+
+Operation of Regulations
+
+2. These Regulations shall remain in operation until the 14th day of September 2020.
+
+Revocation
+
+3. The Health Act 1947 (Section 31A – Temporary Restrictions) (Covid-19) (No. 3) Regulations 2020 (S.I. No. 234 of 2020) are revoked.
+
+Definitions
+
+4. In these Regulations -
+
+“Act of 1947” means the Health Act 1947 (No. 28 of 1947);
+
+“applicable person” means a person whose place of residence is located within a relevant geographical location;
+
+“club” means a club registered under the Registration of Clubs Acts 1904 to 2008;
+
+“licence”, in relation to premises, means a licence for the sale by retail of intoxicating liquor for consumption on or off the premises whether granted on production or without production of a certificate of the Circuit Court or District Court;
+
+“place of residence”, in relation to an applicable person, means -
+
+(a) in relation to a person who is ordinarily resident in the State -
+
+(i) the home in which the person ordinarily resides, or
+
+(ii) if the person does not have a home, such other premises, if any, at which he or she is currently residing, whether on a permanent or temporary basis, or
+
+(b) in relation to a person who is not ordinarily resident in the State, the premises in the State, if any, at which he or she is currently residing, whether on a permanent or temporary basis;
+
+“premises” includes part of any premises;
+
+“premises controller” means -
+
+(a) in relation to premises the subject of a licence, the holder of the licence, and
+
+(b) in relation to the premises of a club, every person entered in the register of clubs as an official or member of its committee of management or governing body at the material time;
+
+“relevant geographical location” means a geographical location to which an affected areas order applies;
+
+“relevant venue” means -
+
+(a) an auditorium with a stage and fixed seating rows,
+
+(b) notwithstanding the generality of paragraph (a), the National Concert Hall,
+
+(c) a cinema,
+
+(d) an art gallery, or
+
+(e) a museum,
+
+that is situated in a relevant geographical location;
+
+“specified person”, in relation to any premises, means -
+
+(a) the premises controller of the premises,
+
+(b) the occupier of the premises,
+
+(c) the manager of the premises, or
+
+(d) any other person for the time being in charge of the premises;
+
+“sporting event” has the meaning given to it in Regulation 9;
+
+“training event” has the meaning given to it in Regulation 10.
+
+Restriction on events in private dwellings
+
+5. (1) A person shall not organise, or cause to be organised, an event to be held in a private dwelling other than in accordance with paragraph (2).
+
+(2) A person may organise, or cause to be organised, an event to be held in a private dwelling for social or recreational reasons where the person takes all reasonable steps to ensure that the persons attending, or proposed to attend, the event (for whatever reason) -
+
+(a) subject to paragraph (3), do not exceed 6 in number, and
+
+(b) reside in no more than 3 different households, not including the private dwelling.
+
+(3) For the purposes of paragraph (2), in reckoning the number of persons at an event, gathering or assembly in a private dwelling, or in reckoning the number of households in which persons at such an event, gathering or assembly reside -
+
+(a) subject to subparagraph (b), an applicable person whose place of residence is the private dwelling shall be excluded, and
+
+(b) a person who is not ordinarily resident in the State, regardless of his or her place of residence, shall be included.
+
+Restriction on certain events
+
+6. (1) A person shall not organise, or cause to be organised, a relevant event other than in accordance with paragraph (2).
+
+(2) A person may organise a relevant event where the person takes all reasonable steps to ensure that -
+
+(a) other persons attending at, or otherwise participating in, the relevant event are organised into groups of -
+
+(i) in the case of a relevant event to be held indoors, no more than 6 persons, or
+
+(ii) in the case of a relevant event to be held outdoors, no more than 15 persons, and
+
+(b) a group referred to in subparagraph (a), and any person forming part of such a group, is not permitted to commingle, associate with, or otherwise come into physical contact with, another such group or any other person forming part of such other group.
+
+(3) Paragraph (1) is a penal provision for the purposes of section 31A of the Act of 1947.
+
+(4) In this Regulation, “relevant event” means an event held, or to be held, in a relevant geographical location for social, recreational, exercise, cultural, entertainment or community reasons, but does not include -
+
+(a) an event to be held in a relevant venue,
+
+(b) an event to be held in a private dwelling,
+
+(c) a wedding reception,
+
+(d) a training event, or
+
+(e) a sporting event.
+
+Restriction on events in certain venues
+
+7. (1) A person shall not organise, or cause to be organised, an event in a relevant venue other than in accordance with paragraph (2).
+
+(2) A person may organise, or cause to be organised, an event in a relevant venue for entertainment or cultural reasons where the person has taken all reasonable steps to ensure that the maximum number of persons attending, or proposed to attend, the event (for whatever reason) does not exceed 50.
+
+(3) A person shall take all reasonable steps to ensure that he or she does not attend an event in a relevant venue where the number of persons attending the relevant venue (for whatever reason) exceeds 50 persons.
+
+Wedding receptions
+
+8. (1) A person shall not organise, or cause to be organised, a wedding reception in a relevant geographical area other than in accordance with paragraph (2).
+
+(2) A person may organise, or cause to be organised, a wedding reception in a premises other than a private dwelling where the person takes all reasonable steps to ensure that the maximum number of persons attending, or proposed to attend, the wedding reception (for whatever reason) does not exceed 50 persons.
+
+(3) A person shall take all reasonable steps to ensure that he or she does not attend a wedding reception where the number of persons attending the wedding reception (for whatever reason) exceeds 50 persons.
+
+Restriction on sporting events
+
+9. (1) A person shall not organise, or cause to be organised, a sporting event unless the person takes all reasonable steps to ensure that the event is attended only by necessary persons.
+
+(2) In this Regulation -
+
+“necessary person” means, in relation to a sporting event, any person whose presence at the event is necessary for the event to take place, and includes -
+
+(a) an athlete or competitor participating in the event,
+
+(b) an athlete or competitor not immediately participating in the event but who intends to, or is likely to, participate in the event before its conclusion,
+
+(c) a member of staff of Sport Ireland or a member of staff of the relevant sporting body of an athlete or competitor participating in the event,
+
+(d) a coach or a trainer connected to the event,
+
+(e) medical personnel, including such personnel conducting doping testing, whose presence is required at the event,
+
+(f) a person who attends the event in order to ensure that it is conducted in accordance with the rules of the sport,
+
+(g) a person whose attendance at the event is necessary for it to be reported, recorded or broadcast,
+
+(h) a person who is a parent or guardian of a person who -
+
+(i) is participating in the event, and
+
+(ii) has not yet attained the age of 18 years,
+
+(i) a person accompanying a vulnerable person who is participating in the event, or
+
+(j) a person providing necessary technical, administrative, logistical or other professional services to a person described in any of subparagraphs (a) to (i);
+
+“sporting event” means an event to be held in a relevant geographical location, other than in a private dwelling, that is -
+
+(a) so to be held wholly or partly for competitive sport reasons, regardless of the nature of the sport or the competitive standard in question,
+
+(b) organised under the structure of, licenced by, or otherwise authorised by -
+
+(i) a national governing body of the sport in question, or
+
+(ii) a school, university or higher education institution, and
+
+(c) not -
+
+(i) a relevant event within the meaning of Regulation 6, or
+
+(ii) a training event;
+
+“vulnerable person” means a person who normally requires assistance in carrying out his or her daily activities.
+
+Restriction on training events
+
+10. (1) Subject to paragraph (4), a person shall not organise, or cause to be organised, a training event other than in accordance with paragraph (2).
+
+(2) A person may organise a training event where the person takes all reasonable steps to ensure that -
+
+(a) other persons attending at, or otherwise participating in, the training event are organised into groups of -
+
+(i) in the case of a training event to be held indoors, no more than 6 persons, or
+
+(ii) in the case of a training event to be held outdoors, no more than 15 persons, and
+
+(b) a group referred to in subparagraph (a), and any person forming part of such a group, is not permitted to commingle, associate with, or otherwise come into physical contact with, another such group or any other person forming part of such other group.
+
+(3) Paragraph (1) shall not apply to a training event in which every person participating in the event -
+
+(a) is in receipt of financial support provided by Sport Ireland under the scheme commonly known and referred to as the Sport Ireland International Carding Scheme,
+
+(b) competes at a senior level and is a participant in a high performance training programme of the national governing body of the sport, which body receives, from Sport Ireland, financial support commonly known and referred to as the Sport Ireland High Performance Programme Funding,
+
+(c) is a member of an inter-county team, at senior or minor level, in a competition organised by the organisations commonly known and referred to as the Gaelic Athletic Association, the Ladies Gaelic Football Association or the Camogie Association,
+
+(d) is a professional sportsperson who receives payment for training and playing sport under a contract of employment with a soccer club or the rugby football organisation commonly known and referred to as the Irish Rugby Football Union,
+
+(e) is involved in the training and preparation of racehorses for events held under the authority of Horse Racing Ireland, or
+
+(f) is a coach or trainer in respect of a person referred to in any of subparagraphs (a) to (e).
+
+(4) In this Regulation, “training event” means an event to be held in a relevant geographical location -
+
+(a) in preparation for a sporting event, and
+
+(b) that is supervised by a member of staff of Sport Ireland, a coach or a trainer.
+
+Carrying on or provision of certain businesses or services
+
+11. (1) A specified person shall ensure that members of the public are not permitted, or otherwise granted, access to a premises in a relevant geographical location where a business or service of a type specified in paragraph (2)(a) is carried on or otherwise provided.
+
+(2) (a) The following types of business and services are specified for the purposes of paragraph (1):
+
+(i) a nightclub or discotheque, including those licensed under the Public Dance Halls Act 1935 (No. 2 of 1935);
+
+(ii) a casino or Private Members’ Club at which gambling activities are carried out and which is operated on a commercial basis;
+
+(iii) any other business or service that is selling or supplying intoxicating liquor for consumption on the premises and that, but for this Regulation, is otherwise permitted by law to do so, other than where (and without prejudice to the generality of paragraph (3)(b)) such intoxicating liquor is -
+
+(I) ordered by or on behalf of the member of the public being permitted, or otherwise granted, access to the premises, at the same time as a substantial meal is so ordered, during the meal or after the meal has ended, and
+
+(II) consumed by that member during the meal or after the meal has ended.
+
+(b) In subparagraph (a), “substantial meal” means a meal -
+
+(i) such as might be expected to be served as a main midday or main evening meal or as a main course at either such meal, and
+
+(ii) that is of a kind, having regard to all the circumstances, for which it would be reasonable to charge a sum that is not less than €9.
+
+(3) (a) Subparagraph (b) applies notwithstanding anything contained in the Licensing Acts 1833 to 2018 or the Registration of Clubs Acts 1904 to 2008.
+
+(b) A specified person shall ensure that members of the public are not, during the relevant period -
+
+(i) permitted, or otherwise granted, access to premises where a business or service of a type specified in paragraph (2)(a)(iii) is lawfully carried on or otherwise provided, or
+
+(ii) permitted to remain on such premises,
+
+except for the purpose of ordering, or collecting, or both, food or non-alcoholic beverages for consumption off such premises.
+
+(c) For the avoidance of doubt, it is hereby declared that the period of 30 minutes referred to in section 7(1) and (2) of the Intoxicating Liquor Act 1962 (No. 21 of 1962), commonly referred to as drinking-up time, does not apply in relation to the relevant period.
+
+(d) In this paragraph, “relevant period”, in relation to premises, being premises where a business or service of a type specified in paragraph (2)(a)(iii) is lawfully carried on or otherwise provided to which, but for this paragraph, access by members of the public may be lawfully permitted, or otherwise granted, on and after 11.30 p.m. on a particular day, means the period -
+
+(i) commencing at 11.30 p.m. on that day, and
+
+(ii) ending at the later time on that day, or the later time on the next succeeding day, as the case may be, on and after which access by members of the public would no longer be lawful even if this Regulation had never been made.
+
+(4) Paragraphs (1) and (3) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+Carrying on or provision of certain businesses or services that do not sell or supply intoxicating liquor for consumption on relevant premises
+
+12. (1) A specified person shall ensure that members of the public are not, during the relevant period -
+
+(a) permitted, or otherwise granted, access to relevant premises, or
+
+(b) permitted to remain on relevant premises,
+
+except for the purpose of ordering, or collecting, or both, food or non-alcoholic beverages for consumption off the relevant premises.
+
+(2) Paragraph (1) is a penal provision for the purposes of section 31A of the Act of 1947.
+
+(3) In this Regulation -
+
+“relevant period”, in relation to relevant premises to which, but for this Regulation, access by members of the public may be lawfully permitted, or otherwise granted, on and after 11.30 p.m. on a particular day, means the period -
+
+(a) commencing at 11.30 p.m. on that day, and
+
+(b) ending at -
+
+(i) subject to subparagraph (ii), the later time on that day, or the later time on the next succeeding day, as the case may be, on and after which access by members of the public would no longer be lawful even if this Regulation had never been made, or
+
+(ii) 6.00 a.m. on the next succeeding day in any case where such first-mentioned access would extend beyond that time but for this Regulation;
+
+“relevant premises” means a premises in a relevant geographical location where -
+
+(a) food or non-alcoholic beverages may be lawfully sold or supplied for consumption on such premises, or
+
+(b) food or beverages may be lawfully sold or supplied for consumption on such premises but any beverage which is an intoxicating liquor may not be so consumed.
+
+Other requirements in relation to certain premises referred to in Regulation 11
+
+13. (1) A specified person shall, in relation to a premises referred to in Regulation 11(3)(b)(i) -
+
+(a) in the case of a party of persons being permitted, or otherwise granted, access to the premises, make a record of the time and date that the first member (in this Regulation referred to as a “lead person”) of the party of persons is permitted, or otherwise granted, access to the premises and the lead person’s name and telephone number,
+
+(b) in the case of a member of the public (in this Regulation referred to as a “sole person”) who is not a member of a party of persons being permitted, or otherwise granted, access to the premises, make a record of the time and date that the sole person is permitted, or otherwise granted, access to the premises and the sole person’s name and telephone number,
+
+(c) make a record of the substantial meal or meals ordered, pursuant to Regulation 11(2)(a)(iii)(I), by each member of a party of persons and each sole person permitted, or otherwise granted, access to the premises, and
+
+(d) not permit food or beverages to be served, or to continue to be served, to a member of a party of persons or a sole person permitted, or otherwise granted, access to the premises unless the food or beverages are consumed -
+
+(i) in accordance with Regulation 11, and
+
+(ii) whilst such member of a party of persons or sole person, as the case may be, is seated at a table.
+
+(2) A specified person shall retain and make available records -
+
+(a) in the case of records made under paragraph (1)(a), (b) and (c), for the purposes of inspection by a member of the Garda Síochána acting in the course of his or her duties under these Regulations, for a period of 28 days after the records have been made, and
+
+(b) in the case of records made under paragraph (1)(a) and (b), for the purposes of inspection by a person appointed by the Health Service Executive for the purposes of the programme commonly known as the Covid-19 Contact Management Programme, for a period of 28 days after the records have been made.
+
+(3) (a) For the purposes of paragraph (1)(a), a specified person may request a lead person to provide the specified person with the lead person’s name and telephone number and, where that specified person does so, the lead person shall comply with that request.
+
+(b) For the purposes of paragraph (1)(b), a specified person may request a sole person to provide the specified person with the sole person’s name and telephone number and, where that specified person does so, the sole person shall comply with that request.
+
+(4) Paragraphs (1) and (2) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+(5) In this Regulation -
+
+“party of persons” means, in relation to a premises referred to in Regulation 11(3)(b)(i), a group of 2 or more members of the public who intend to consume food or beverages together in the premises and who wish to be permitted, or otherwise granted, access to the premises for that purpose, whether or not each member arrives at the premises at the same time;
+
+“substantial meal” has the same meaning as it has in Regulation 11(2)(b).
+
+Data protection
+
+14. (1) Personal data collected for the purposes of Regulation 13 may be processed by -
+
+(a) a specified person for the purposes of -
+
+(i) complying with the requirements of these Regulations, or
+
+(ii) providing information to the Health Service Executive for the purposes referred to in paragraph (b),
+
+(b) the Health Service Executive for the purposes of the identification, tracing and contacting of persons who have been in contact with persons who have been diagnosed, or suspected of having been infected, with Covid-19, and
+
+(c) a member of the Garda Síochána for the purposes of -
+
+(i) monitoring compliance by a specified person with, or
+
+(ii) enforcement of,
+
+these Regulations.
+
+(2) For the purposes of these Regulations, a specified person, the Health Service Executive and the Garda Síochána are designated as data controllers in relation to personal data respectively processed by them pursuant to paragraph (1).
+
+(3) Subject to paragraph (4), personal data collected for the purposes of Regulation 13 shall be permanently deleted no later than 28 days after the records referred to in Regulation 13 have been collected under paragraph (1) of that Regulation.
+
+(4) Where personal data collected in accordance with these Regulations are required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data -
+
+(a) may be processed for as long as they are required for such prevention, investigation, detection or prosecution, and
+
+(b) shall be permanently deleted after they are no longer required for such prevention, investigation, detection or prosecution.
+
+(5) In this Regulation -
+
+“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation);1
+
+“personal data” has the meaning it has in the General Data Protection Regulation;
+
+“processing”, in relation to personal data, has the meaning it has in the General Data Protection Regulation.
+
+/images/ls
+
+GIVEN under my Official Seal,
+
+31 August, 2020.
+
+STEPHEN DONNELLY,
+
+Minister for Health.

@@ -1,0 +1,61 @@
+12 JUIN 2020. - Arrêté du Gouvernement flamand portant exécution du décret du 29 mai 2020 portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19
+
+
+Fondement juridique
+Le présent arrêté est fondé sur :
+- le décret du 29 mai 2020 portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19, l'article 3, alinéas 1er, 2 et 5, l'article 4, l'article 5, § 5, l'article 6, alinéa 2.
+Formalités
+Les formalités suivantes sont remplies :
+- L'avis du Conseil d'Etat n'a pas été demandé, en application de l'article 3, § 1er, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973. L'urgence est motivée par la constatation que le décret auquel le présent arrêté donne exécution, a été approuvé par le Parlement flamand le 20 mai 2020 via une procédure d'urgence, et elle est également motivée par la nécessité de pouvoir rapidement dépister les personnes susceptibles d'avoir eu un contact à risque avec une personne infectée ou suspectée d'être infectée par le COVID-19 afin de prévenir la propagation du COVID-19 et un nouveau pic éventuel de patients atteints du COVID-19;
+- La Commission de contrôle flamande du traitement des données à caractère personnel a donné son avis n° 2020/17 le 8 juin 2020.
+Initiateur
+Le présent arrêté est proposé par le Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté.
+Après délibération,
+LE GOUVERNEMENT FLAMAND ARRETE :
+Article 1er. Dans le présent arrêté, on entend par :
+1° agence : l'agence autonomisée interne « Zorg en Gezondheid » (Agence flamande Soins et Santé), établie par l'arrêté du Gouvernement flamand du 7 mai 2004 portant création de l'agence autonomisée interne « Zorg en Gezondheid »;
+2° centre de contact : le centre de contact visé à l'article 3, alinéa 1er, du décret du 29 mai 2020;
+3° banque de données : la banque de données, visée à l'article 1er de l'arrêté royal n° 18 du 4 mai 2020 portant création d'une banque de données auprès de Sciensano dans le cadre de la lutte contre la propagation du coronavirus;
+4° décret du 29 mai 2020 : le décret du 29 mai 2020 portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19;
+5° structure de coopération : la structure de coopération de partenaires extérieurs, visée à l'article 3, alinéa 1er, du décret du 29 mai 2020.
+Art. 2. Le centre de contact est chargé de missions de traçage et d'accompagnement de personnes telles que visées à l'article 3, alinéa 1er, 1° à 4°, du décret du 29 mai 2020.
+La structure de coopération est désignée en application de la loi du 17 juin 2016 relative aux marchés publics et en application des arrêtés d'exécution de cette loi.
+Le centre de contact se compose :
+1° de collaborateurs de centre d'appel;
+2° de superviseurs de centre d'appel;
+3° d'agents de terrain;
+4° de superviseurs des agents de terrain.
+L'agence définit les descriptions de fonction des catégories de membres du personnel du centre de contact, visées aux points 1° à 4°.
+Art. 3. L'agence est le responsable du traitement des données à caractère personnel au sens de l'article 4, 7), du règlement général sur la protection des données. L'agence conclut une convention de traitement avec la structure de coopération conformément à l'article 28, paragraphe 3, du règlement général sur la protection des données.
+Art. 4. § 1er. Le rapport substantiel, visé à l'article 3, alinéa 5, du décret du 29 mai 2020, contient un résumé de trente pages au maximum et contient, outre les données, visées à l'alinéa 2, les données nécessaires pour permettre à l'agence d'évaluer les activités de la structure de coopération et du centre de contact.
+Le rapport substantiel comprend :
+1° un aperçu des agents d'appel et des agents de terrain qui sont engagés par le centre de contact chaque jour, exprimé en ETP;
+2° un aperçu du nombre de personnes contactées par les agents d'appel par jour, subdivisé en le nombre de personnes nouvellement contactées et le nombre de personnes à contacter à nouveau;
+3° un aperçu du nombre de visites effectuées par les agents de terrain par jour, subdivisé en personnes nouvellement visitées et en personnes à visiter à nouveau;
+4° un aperçu du nombre de personnes effectivement contactées par les agents d'appel par jour par rapport au nombre de personnes à contacter;
+5° un aperçu du nombre de personnes effectivement visitées par les agents de terrain par jour par rapport au nombre de personnes à visiter;
+6° un aperçu du nombre de personnes contactées par les agents d'appel qui ont qui ont eu plus d'un contact, subdivisé en nombre de contacts;
+7° un aperçu du nombre de personnes qui ont été visitées par les agents de terrain qui ont eu plus d'un contact, subdivisé en nombre de contacts;
+8° un aperçu des problèmes auxquels le centre de contact a été confronté lors de l'exécution de la mission et des actions possibles entreprises pour résoudre ces problèmes, ainsi qu'un aperçu des bonnes pratiques lors de l'exécution de la mission.
+§ 2. Le rapport financier comprend :
+1° l'état des recettes et des dépenses sur une base mensuelle, regroupé par type de frais et de revenus et réparti par organisation et activité;
+2° par organisation, une liste du nombre de collaborateurs du centre de contact, subdivisé en fonction, temps de travail moyen et salaire annuel brut;
+3° une liste numérotée des frais et revenus, avec mention du bénéficiaire, du montant, de la description, et classée par type de frais ou de revenus.
+§ 3. Le rapport substantiel visé au paragraphe 1er et le rapport financier visé au paragraphe 2 sont transmis trimestriellement à l'agence par la structure de coopération.
+Par dérogation à l'alinéa 1er, à l'expiration de la mission, le rapport de fond, visé au paragraphe 1er, et le rapport financier, visé au paragraphe 2, sont transmis à l'agence au plus tard trois mois après l'expiration de la mission de la structure de coopération.
+L'agence transmet le rapport substantiel visé au paragraphe 1er et le rapport financier visé au paragraphe 2, au Gouvernement flamand.
+Art. 5. La structure de coopération prend les mesures de sécurité organisationnelles et techniques suivantes pour le traitement des données à caractère personnel par le centre de contact qu'il crée :
+1° les collaborateurs du centre de contact ont signé une déclaration de confidentialité leur rappelant qu'ils sont tenus au secret professionnel. Cette déclaration de confidentialité mentionne les obligations auxquelles les collaborateurs doivent satisfaire, ainsi que les sanctions éventuelles qu'ils peuvent encourir en cas de non-respect du secret professionnel;
+2° en cas d'échange de données, de la fixation des mesures techniques et organisationnelles de protection des données à caractère personnel à prendre, lors de la définition et de l'exécution de nouveaux traitements de données à caractère personnel ou lors d'adaptations aux traitements existants, la structure de coopération consulte une équipe de sécurité composée au moins des fonctionnaires en charge de la protection des données de tous les partenaires externes de la structure de coopération et du fonctionnaire en charge de la protection des données de l'agence;
+3° les mesures techniques et organisationnelles prises pour la protection des données à caractère personnel feront l'objet d'un audit par une équipe d'audit interne ou externe;
+4° le centre de contact donne à toute personne qu'ils contactent ou visitent, pour autant qu'elle ne dispose pas encore des informations, les informations prévues dans le règlement général sur la protection des données concernant le traitement de leurs données à caractère personnel et les informe de l'endroit où elles peuvent retrouver ces informations.
+Art. 6. La notification telle que visée à l'article 44, § 3, du décret du 21 novembre 2003, du COVID-19 doit se faire dans les vingt-quatre heures qui suivent la première suspicion clinique, épidémiologique ou de technicité de laboratoire réaliste. La notification à la base de données se fait par voie électronique sécurisée, dans le respect des exigences relatives à l'échange de données de santé.
+La méthode électronique sécurisée signifie que la communication se fait par un message crypté ou par le biais d'une application web sécurisée, mise à disposition par l'autorité compétente aux personnes soumises à l'obligation de déclaration.
+Les données à caractère personnel visées à l'article 5, § 2, § 3, alinéa 1er, et § 4, alinéa 1er, du décret du 29 mai 2020, peuvent également être traitées à des fins statistiques ou d'aide à la décision politique, dans la mesure où ces données à caractère personnel sont anonymisées.
+Art. 7. Le présent arrêté produit ses effets le 11 mai 2020.
+Art. 8. Le Ministre flamand ayant les soins de santé et les soins résidentiels dans ses attributions, est chargé de l'exécution du présent arrêté.
+Bruxelles, le 12 juin 2020.
+Le Ministre-Président du Gouvernement flamand,
+J. JAMBON
+Le Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté,
+W. BEKE

@@ -1,0 +1,32 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. BIRŽELIO 16 D. ĮSAKYMO NR. V-1480 „DĖL ASMENŲ, KURIEMS DIAGNOZUOTA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IZOLIUOTŲ NAMUOSE, KITOJE GYVENAMOJOJE VIETOJE, SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE AR SVEIKATOS PRIEŽIŪROS ĮSTAIGOS, TEIKIANČIOS STACIONARINES MEDICININĖS REABILITACIJOS PASLAUGAS, PATALPOSE, AMBULATORINIO GYDYMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2021 m.  balandžio 1 d.  Nr. V-682
+Vilnius
+
+P a k e i č i u  Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. birželio 16 d. įsakymu Nr. V-1480 „Dėl Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašo patvirtinimo“:  
+1.	Pakeičiu 1 punktą ir jį išdėstau taip:
+„1. Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašas (toliau – Aprašas) nustato pirminės ambulatorinės asmens sveikatos priežiūros šeimos gydytojo komandos paslaugas teikiančių asmens sveikatos priežiūros įstaigų (toliau – PAASPĮ) atliekamo pacientų, kuriems diagnozuota lengvos ar vidutinio sunkumo formos COVID-19 liga (koronaviruso infekcija), kuri reikšmingai nepablogina paciento būklės dėl gretutinės patologijos, nėra didelės komplikacijų rizikos ir pacientui suteikta informacija, kaip sekti sveikatos būklę ir kur kreiptis, jei sveikatos būklė pablogės, ir asmenų, kuriems diagnozuota besimptomės formos COVID-19 liga (koronaviruso infekcija) (toliau – pacientas), izoliuotų namuose, kitoje gyvenamojoje vietoje (taip pat ir socialinės globos įstaigose) (toliau – kita gyvenamoji vieta), savivaldybės administracijos numatytose patalpose ar asmens sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas (toliau – SPĮ), patalpose, stebėjimo, gydymo ir išrašymo iš stacionarines asmens sveikatos priežiūros paslaugas teikiančių asmens sveikatos priežiūros įstaigų (toliau – SASPĮ) ir karščiavimo klinikų gydytis ambulatoriškai reikalavimus.“ 
+2.	Pakeičiu 3.2 papunkčio pirmąją pastraipą ir ją išdėstau taip:
+„3.2. kai asmeniui atliekamas tyrimas dėl COVID-19 ligos (koronaviruso infekcijos) sveikatos apsaugos ministro nustatyta tvarka. Tokiu atveju karščiavimo klinikos ar SASPĮ skubiosios medicinos pagalbos skyriaus sveikatos priežiūros specialistas į ESPBI IS pateikia elektroniniu parašu pasirašytą formą E025 „Ambulatorinio apsilankymo aprašymas“ (toliau – forma E025), kurioje pažymi, kad:“.
+3.	Pakeičiu 4.4 papunkčio pirmąją pastraipą ir ją išdėstau taip:
+„4.4. PAASPĮ vadovo paskirtas asmuo (šeimos gydytojas arba slaugytojas) nuotoliniu būdu susisiekia su pacientu ir:“.
+4. Papildau 4.4.7 papunkčiu:
+„4.4.7. tą pačią dieną ESPBI IS formoje E025 įrašo Aprašo 4.2 papunktyje nurodytą diagnozę;“.
+5. Papildau 4.5.41 papunkčiu:
+„4.5.41. atliktus COVID-19 diagnostikos ir gydymo apraše nurodytus tyrimus – šeimos gydytojo sprendimu, vertinant būklės sunkumą ir kitų ligų įtaką bendrai būklei;“.
+6. Pakeičiu 4.6 papunktį ir jį išdėstau taip:
+„4.6. šeimos gydytojas, įvertinęs Aprašo 4.5 papunktyje nurodytą informaciją ir nustatęs, kad pacientui nereikalinga hospitalizacija pagal COVID-19 diagnostikos ir gydymo aprašą, jį toliau gydo ambulatoriškai PAASPĮ pagal COVID-19 diagnostikos ir gydymo apraše nurodytus gydymo metodus, prireikus koreguodamas gydymą. Jei pacientas ambulatoriniam gydymui izoliuotas SPĮ patalpose, esant poreikiui, šeimos gydytojas ar slaugytojas informuoja SPĮ paskirtą budintį slaugytoją apie pacientui pakeistą gydymą;“.
+7. Pakeičiu 4.8 papunktį ir jį išdėstau taip:
+„4.8. pacientas laikomas pasveikusiu šeimos gydytojo sprendimu, bet ne anksčiau nei jam gali būti nutraukiama izoliacija. Pacientui pasveikus nuo COVID-19 ligos (koronaviruso infekcijos), šeimos gydytojas į ESPBI IS formoje E025 įrašo diagnozę, nurodydamas TKL-10-AM kodą U07.3 „Buvusi asmeniui COVID-19 liga“.
+8. Papildau 4.9.4 papunkčiu:
+„4.9.4. po 20 dienų (pacientas laikomas pasveikusiu nuo COVID-19 ligos (koronaviruso infekcijos)) nuo nosiaryklės ir ryklės tepinėlio, kurį ištyrus PGR metodu ar atlikus SARS-CoV-2 antigeno testą buvo aptiktas SARS-CoV-2 virusas, paėmimo dienos, jei ESPBI IS laboratorijos pateiktoje formoje E200-a nurodyta, kad SARS-CoV-2 viruso tyrimas teigiamas, tačiau pacientas per šį laikotarpį nesikreipė į SASPĮ ar PAASPĮ dėl COVID-19 ligos (koronaviruso infekcijos) gydymo ir PAASPĮ vadovo paskirtam asmeniui nepavyko susisiekti PAASPĮ turimais kontaktais su pacientu, todėl pacientas nebuvo stebėtas ir gydytas SASPĮ ar ambulatoriškai dėl COVID-19 ligos (koronaviruso infekcijos) pagal TLK-10 AM kodą U07.1.“
+
+
+
+Sveikatos apsaugos ministras				Arūnas Dulkys
+

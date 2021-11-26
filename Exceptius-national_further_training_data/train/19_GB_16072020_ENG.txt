@@ -1,0 +1,752 @@
+2020 No. 750
+PUBLIC HEALTH, ENGLAND
+
+The Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020
+Made16th July 2020
+Laid before Parliament17th July 2020
+Coming into forceat 12.01 a.m. on 18th July 2020
+The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45C(1), (3)(c), (4)(d), 45F(2) and 45P of the Public Health (Control of Disease) Act 1984 F1.
+
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in England.
+
+In accordance with section 45R of that Act the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
+
+F1
+1984 c. 22. Part 2A was inserted by section 129 of the Health and Social Care Act 2008 (c. 14).
+
+Modifications etc. (not altering text)
+
+C1
+Regulations modified (22.9.2020 at 12.01 a.m.) by The Health Protection (Coronavirus, Restrictions) (Protected Areas and Linked Childcare Households) (Amendment) Regulations 2020 (S.I. 2020/1019), regs. 1(2), 4
+
+Citation, commencement, application and interpretation
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020.
+
+(2) These Regulations come into force at 12.01 a.m. on 18th July 2020.
+
+(3) These Regulations apply in relation to England only.
+
+(4) In these Regulations—
+
+[F2“the 1980 Act” means the Magistrates’ Court Act 1980;]“child” means a person under the age of 18;“constable” [F3, except in regulation 12,] includes a police community support officer;“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);“Crown land” means land in which there is a Crown interest or a Duchy interest;“Crown interest” means an interest belonging to Her Majesty in right of the Crown, or belonging to a Government department, or held in trust for Her Majesty for the purposes of a Government department;“designate” means designate by name or description;“Duchy interest” means an interest belonging to Her Majesty in right of the Duchy of Lancaster, or belonging to the Duchy of Cornwall;“local authority” means—
+(a)a county council in England,
+(b)a district council in England for an area for which there is no county council,
+(c)a London borough council,
+(d)the Common Council of the City of London in its capacity as a local authority, and
+(e)the Council of the Isles of Scilly;
+“parent”, in relation to a child, includes any person who has parental responsibility for, or who has care of, the child;“parental responsibility” has the meaning given in section 3 of the Children Act 1989 F4;“person carrying on a business” includes the owner, proprietor and manager of that business;“public outdoor place” means any outdoor place to which the public have or are permitted access, whether on payment or otherwise, and includes—
+(a)land laid out as a public garden or used for the purpose of recreation by members of the public;
+(b)land which is “open country” as defined in section 59(2) of the National Parks and Access to the Countryside Act 1949 F5, as read with section 16 of the Countryside Act 1968 F6;
+(c)land which is “access land” for the purposes of Part 1 of the Countryside and Rights of Way Act 2000 F7 (see section 1(1) of that Act F8);
+(d)any highway to which the public has access;
+(e)Crown land outdoors to which the public has access;
+“specified” means specified in a direction given under these Regulations;“vulnerable person” includes—
+(a)any person aged 70 or older,
+(b)any person under 70 who has a medical condition which increases vulnerability to Covid-19, and
+(c)any person who is pregnant.
+F2
+Words in reg. 1(4) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 6
+
+F3
+Words in reg. 1(4) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(2)
+
+F4
+1989 c. 41.
+
+F5
+1949 c. 97.
+
+F6
+1968 c. 41. Section 16 has been amended by section 111 of the Transport Act 1968 (c. 73), Schedule 27 to the Water Act 1989 (c. 15) and S.I. 2012/1659. There are other amendments to section 16 which are not relevant to this instrument.
+
+F7
+2000 c. 37.
+
+F8
+The definition of “access land” has been amended by sections 303(2) and 321 of and Part 7 of Schedule 22 to, the Marine and Coastal Access Act 2009 (c. 23).
+
+Commencement Information
+
+I1
+Reg. 1 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Directions by local authorities: general
+2.—(1) A local authority may give a direction under regulation 4(1), 5(1) or 6(1) only if the authority considers that the following conditions are met—
+
+(a)that giving such a direction responds to a serious and imminent threat to public health,
+(b)that the direction is necessary for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection by coronavirus in the local authority's area, and
+(c)that the prohibitions, requirements or restrictions imposed by the direction are a proportionate means of achieving that purpose.
+(2) Where a local authority gives a direction under regulation 4(1), 5(1) or 6(1) the local authority must—
+
+(a)notify the Secretary of State as soon as reasonably practicable after the direction is given, and
+(b)at least once every 7 days review whether the conditions in paragraph (1) continue to be met.
+(3) If on a review of a direction under paragraph (2)(b) a local authority considers that one or more of the conditions in paragraph (1) is no longer met in relation to the direction, the local authority must by notice—
+
+(a)revoke the direction without replacement, or
+(b)revoke the direction and replace it with a further direction under regulation 4(1), 5(1) or 6(1) in relation to which the local authority considers that the conditions in paragraph (1) are met.
+(4) In determining whether to give a direction under regulation 4(1), 5(1) or 6(1) or to revoke such a direction, a local authority must have regard to any advice given to it by [F9—
+
+(a)its director of public health or its interim or acting director of public health (as the case may be), or
+(b)a registered public health consultant approved for the purposes of this regulation by a person mentioned in sub-paragraph (a).]
+(5) Section 16 of the Interpretation Act 1978 F10 applies in relation to the revocation of a direction under regulation 4(1), 5(1) or 6(1) as it applies in relation to the repeal of an enactment.
+
+F9
+Reg. 2(4)(a)(b) substituted for words (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 7
+
+F10
+1978 c. 30.
+
+Commencement Information
+
+I2
+Reg. 2 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Powers of Secretary of State
+3.—(1) The Secretary of State may give a direction to a local authority requiring the authority to give a direction under regulation 4(1), 5(1) or 6(1), if the Secretary of State considers that the conditions in regulation 2(1) would be met in relation to the local authority direction.
+
+(2) If the Secretary of State considers that one or more of the conditions in regulation 2(1) is no longer met in relation to a direction under regulation 4(1), 5(1) or 6(1) given by a local authority, the Secretary of State must direct the local authority to—
+
+(a)revoke the direction without replacement, or
+(b)revoke the direction and replace it with a further direction under regulation 4(1), 5(1) or 6(1) in relation to which the Secretary of State considers that the conditions in regulation 2(1) would be met.
+(3) Where the Secretary of State gives a direction to a local authority under this regulation, regulation 2(1) and (4) do not apply in relation to the giving of a direction by the local authority pursuant to the Secretary of State's direction.
+
+(4) A direction under this regulation may be revoked by the Secretary of State.
+
+(5) Before giving or revoking a direction under this regulation, the Secretary of State must consult the Chief Medical Officer or one of the Deputy Chief Medical Officers of the Department of Health and Social Care.
+
+(6) The powers conferred by this regulation are without prejudice to the power of the Secretary of State under section 71 of the Public Health (Control of Disease) Act 1984.
+
+(7) A county council for an area for which there is also a district council is to be regarded, with respect to its functions under these Regulations, as a relevant health protection authority for the purposes of the Public Health (Control of Disease) Act 1984.
+
+Commencement Information
+
+I3
+Reg. 3 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Directions relating to individual premises
+4.—(1) Subject to regulation 2, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the entry into, departure from, or location of persons in, specified premises in the local authority's area.
+
+(2) A direction under paragraph (1) may be given only for the purposes of—
+
+(a)closing the premises,
+(b)restricting entry to the premises, or
+(c)securing restrictions in relation to the location of persons in the premises.
+(3) A local authority may not give a direction under paragraph (1) in relation to—
+
+(a)any premises which forms part of essential infrastructure,
+(b)any premises consisting of vehicles, trains, vessels or aircraft used for public transport or the carriage or haulage of goods, or
+(c)a vessel not falling within paragraph (b), where the direction would be likely to have the effect of preventing a change-over of crew.
+(4) Before giving a direction under paragraph (1), a local authority must have regard to the need to ensure that members of the public have access to essential public services and goods.
+
+(5) A direction under paragraph (1) may only have the effect of imposing a prohibition, requirement or restriction on—
+
+(a)the owner or any occupier of premises to which the direction relates, and
+(b)any other person involved in managing entry into, or departure from, such premises or the location of persons in them.
+(6) A direction under paragraph (1) may impose a prohibition, requirement or restriction by reference to, among other things—
+
+(a)the number of persons in the premises,
+(b)the purpose for which a person is in the premises, and
+(c)the facilities in the premises.
+(7) A direction under paragraph (1) must—
+
+(a)state the date and time on which the prohibition, requirement or restriction comes into effect, and the date and time on which it will end, and
+(b)give details of the right of appeal to a magistrates' court, and the time within which such an appeal may be brought.
+(8) Where a local authority gives a direction under paragraph (1) it must take reasonable steps to give advance notice of the direction to —
+
+(a)a person carrying on a business from the premises to which the direction relates, and
+(b)if different, any person who owns or occupies the premises.
+(9) A person on whom a direction under paragraph (1) imposes a prohibition, requirement or restriction may—
+
+[F11(a)appeal to a magistrates’ court in accordance with the 1980 Act against—
+(i)the direction, or
+(ii)a determination, made following a review of a direction under regulation 2(2)(b), not to revoke the direction (a “review determination”), and]
+(b)make representations to the Secretary of State about the direction [F12or a review determination].
+[F13(9A) The 1980 Act applies to the proceedings on an appeal under paragraph (9)(a).
+
+(9B) An appeal under paragraph (9)(a), or representations under paragraph (9)(b) (as the case may be), must be made within the period of 28 days beginning—
+
+(a)in the case of an appeal against, or representations about, a direction, with the day on which the direction was issued;
+(b)in the case of an appeal against, or representations about, a review determination, with the day on which the determination was made.]
+(10) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Secretary of State under regulation 3, a summons is to be issued to both the Secretary of State and the local authority.
+
+F11
+Reg. 4(9)(a) substituted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 8(a)(i) (with Sch. para. 13(1)(2))
+
+F12
+Words in reg. 4(9)(b) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 8(a)(ii) (with Sch. para. 13(1)(2))
+
+F13
+Reg. 4(9A)(9B) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 8(b) (with Sch. para. 13(1)(2))
+
+Commencement Information
+
+I4
+Reg. 4 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Directions relating to events
+5.—(1) Subject to regulation 2, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to the holding of an event in its area.
+
+(2) A direction under paragraph (1) may be given in relation to—
+
+(a)a specified event, or
+(b)events of a specified description.
+(3) A direction under paragraph (1) may only have the effect of imposing prohibitions, requirements or restrictions on—
+
+(a)the owner or any occupier of premises for an event to which the direction relates,
+(b)the organiser of such an event, and
+(c)any other person involved in holding such an event.
+(4) A direction under paragraph (1) may, among other things, impose requirements about informing persons who may be planning to attend an event of any prohibitions, requirements or restrictions imposed in relation to the holding of it.
+
+(5) For the purposes of paragraph (2), events may be described—
+
+(a)by reference to a number of people attending the event,
+(b)by reference to a requirement for medical or emergency services to attend the event, or
+(c)in any other way.
+(6) The reference in paragraph (3)(c) to a person involved in the holding of an event does not include a person whose only involvement in the event is, or would be, by attendance at the event.
+
+(7) A direction under paragraph (1) imposing a prohibition, requirement or restriction must—
+
+(a)state the date and time on which the prohibition, requirement or restriction comes into effect, and the date and time on which it will end, and
+(b)give details of the right of appeal to a magistrates' court, and the time within which such an appeal may be brought.
+(8) Where a local authority gives a direction under paragraph (1) it must take reasonable steps to give advance notice of the direction to —
+
+(a)the organiser of the event, and
+(b)if different, any person who owns or occupies the premises for the event.
+(9) A person on whom a direction under paragraph (1) imposes a prohibition, requirement or restriction may—
+
+[F14(a)appeal to a magistrates’ court in accordance with the 1980 Act against—
+(i)the direction, or
+(ii)a determination, made following a review of a direction under regulation 2(2)(b), not to revoke the direction (a “review determination”), and]
+(b)make representations to the Secretary of State about the direction [F15or review determination].
+[F16(9A) The 1980 Act applies to the proceedings on an appeal under paragraph (9)(a).
+
+(9B) An appeal under paragraph (9)(a), or representations under paragraph (9)(b) (as the case may be), must be made within the period of 28 days beginning—
+
+(a)in the case of an appeal against, or representations about, a direction, with the day on which the direction was issued;
+(b)in the case of an appeal against, or representations about, a review determination, with the day on which the determination was made.]
+(10) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Secretary of State under regulation 3, a summons is to be issued to both the Secretary of State and the local authority.
+
+F14
+Reg. 5(9)(a) substituted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 9(a)(i) (with Sch. para. 13(1)(2))
+
+F15
+Words in reg. 5(9)(b) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 9(a)(ii) (with Sch. para. 13(1)(2))
+
+F16
+Reg. 5(9A)(9B) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 9(b) (with Sch. para. 13(1)(2))
+
+Commencement Information
+
+I5
+Reg. 5 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Directions relating to public outdoor places
+6.—(1) Subject to regulation 2, a local authority may give a direction imposing prohibitions, requirements or restrictions in relation to access to—
+
+(a)a specified public outdoor place in its area, or
+(b)public outdoor places in its area of a specified description.
+(2) A direction under paragraph (1) may in particular prohibit access at specified times.
+
+(3) A direction under paragraph (1) must—
+
+(a)specify or describe the public outdoor place or places to which it relates in sufficient detail to enable the boundaries of the place or places to be determined,
+(b)state the date and time on which any prohibition, requirement or restriction imposed by the direction comes into effect, and the date and time on which it will end, and
+(c)give details of the right of appeal to a magistrates' court, and the time within which such an appeal may be brought.
+(4) Where a local authority gives a direction under paragraph (1) it must take reasonable steps—
+
+(a)to give advance notice of the direction to a person carrying on a business from premises within a public outdoor place to which the direction relates, and
+(b)to ensure that the direction is brought to the attention of any person who owns, occupies or is responsible for any land or premises in a public outdoor place to which the direction relates.
+(5) Any person who owns, occupies or is responsible for land or premises in a public outdoor place to which a direction under paragraph (1) relates may—
+
+[F17(a)appeal to a magistrates’ court in accordance with the 1980 Act against—
+(i)the direction, or
+(ii)a determination, made following a review of a direction under regulation 2(2)(b), not to revoke the direction (a “review determination”), and]
+(b)make representations to the Secretary of State about the direction [F18or a review determination].
+[F19(5A) The 1980 Act applies to the proceedings on an appeal under paragraph (5)(a).
+
+(5B) An appeal under paragraph (5)(a), or representations under paragraph (5)(b) (as the case may be), must be made within the period of 28 days beginning—
+
+(a)in the case of an appeal against, or representations about, a direction, with the day on which the direction was issued;
+(b)in the case of an appeal against, or representations about, a review determination, with the day on which the determination was made.]
+(6) On an appeal against a direction under paragraph (1) in a case where the direction was made pursuant to a direction of the Secretary of State under regulation 3, a summons is to be issued to both the Secretary of State and the local authority.
+
+F17
+Reg. 6(5)(a) substituted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 10(a)(i) (with Sch. para. 13(1)(2))
+
+F18
+Words in reg. 6(5)(b) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 10(a)(ii) (with Sch. para. 13(1)(2))
+
+F19
+Reg. 6(5A)(5B) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 10(b) (with Sch. para. 13(1)(2))
+
+Commencement Information
+
+I6
+Reg. 6 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+7.—(1) A local authority which has given a direction under regulation 6(1) must take reasonable steps to prevent or restrict public access to the public outdoor place or places to which the direction relates in accordance with the direction.
+
+(2) Any person, other than a local authority mentioned in paragraph (1), who owns, occupies or is responsible for land in a public outdoor place to which a direction under regulation 6(1) relates must take reasonable steps to prevent or restrict public access to that land in accordance with the direction.
+
+(3) No person may without reasonable excuse enter or remain in a public outdoor place to which a direction under regulation 6(1) relates in contravention of a prohibition, requirement or restriction imposed by the direction.
+
+(4) For the purposes of paragraph (3), a reasonable excuse includes where—
+
+(a)the person owns, occupies or is responsible for any land or premises in a public outdoor place to which the direction relates,
+(b)the person needs to enter a public outdoor place to which the direction relates to obtain access to, or to leave, the place where they are living,
+(c)the person is visiting a person who falls within a description of person in sub-paragraph (a) or (b),
+(d)the person needs to enter or remain in a public outdoor place to which the direction relates—
+(i)to avoid injury or illness or to escape a risk of harm,
+(ii)to continue existing arrangements for access to, and contact between, parents and children where the children do not live in the same household as their parents, or one of their parents,
+(iii)to fulfil a legal obligation or to participate in legal proceedings, or
+(e)it is reasonably necessary for a person to enter or remain in a public outdoor place to which the direction relates—
+(i)for work purposes, or for the provision of voluntary or charitable services,
+(ii)to facilitate a house move,
+(iii)to provide care or assistance to a vulnerable person, including relevant personal care within the meaning of paragraph 7(3B) of Schedule 4 to the Safeguarding Vulnerable Groups Act 2006 F20, or
+(iv)to provide emergency assistance.
+F20
+2006 c.47. Paragraph 7(3B) of Schedule 4 was inserted by section 66 of the Protection of Freedoms Act 2012 (c.9).
+
+Commencement Information
+
+I7
+Reg. 7 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+8.—(1) A local authority may not, without the agreement of the appropriate authority, give a direction under regulation 6(1) in relation to a public outdoor place which forms part of Crown land and includes property to which section 73 of the Public Health (Control of Disease) Act 1984 (Crown property) applies.
+
+(2) For the purposes of this regulation “the appropriate authority”, in relation to any land which is Crown land—
+
+(a)in the case of land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners, and, in relation to any other land belonging to Her Majesty in right of the Crown, means the Government department having the management of that land,
+(b)in relation to land belonging to Her Majesty in right of the Duchy of Lancaster, means the Chancellor of the Duchy,
+(c)in relation to land belonging to the Duchy of Cornwall, means such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints, and
+(d)in the case of land belonging to a Government department or held in trust for Her Majesty for the purposes of a Government department, means that department, and
+if any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
+
+Commencement Information
+
+I8
+Reg. 8 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Representations to the Secretary of State
+9.—(1) Where a person makes representations to the Secretary of State under regulation 4(9)(b), 5(9)(b) or 6(5)(b), the Secretary of State must—
+
+(a)consider the representations as soon as is reasonably practicable, and
+(b)decide whether it would be appropriate to exercise the power in regulation 3(2).
+(2) The Secretary of State must provide written reasons for the decision in paragraph (1)(b) to—
+
+(a)the person who made the representations, and
+(b)the local authority which gave the direction to which the representations relate.
+Commencement Information
+
+I9
+Reg. 9 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Public notice of directions etc
+10.—(1) Where a local authority gives a direction under regulation 4(1), 5(1) or 6(1) which imposes a prohibition, requirement or restriction on a person specified by name, or revokes such a direction, the direction or notice of revocation—
+
+(a)must be given in writing to that person, and
+(b)may be published in such manner as the local authority considers appropriate to bring it to the attention of other persons who may be affected by it.
+(2) In any other case, a direction given by a local authority under regulation 4(1), 5(1) or 6(1) or notice of revocation of such a direction—
+
+(a)must be published on the website of the local authority, and
+(b)may be published in such other manner as the local authority considers appropriate to bring it to the attention of persons who may be affected by the direction or the revocation.
+(3) A direction given by a local authority under regulation 4(1), 5(1) or 6(1) must specify the power in these Regulations under which the direction is given.
+
+Commencement Information
+
+I10
+Reg. 10 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Notification of directions to other local authorities
+11.—(1) Where a local authority (the “initiating authority”) gives a direction under regulation 4(1), 5(1) or 6(1), or revokes such a direction, the initiating authority must notify—
+
+(a)any local authority whose area is adjacent to the initiating authority's area,
+(b)where the initiating authority is a London borough council, every other London borough council,
+(c)where the initiating authority is the county council for an area for which there is also a district council, the district council, and
+(d)where the initiating authority's area is adjacent to the area of a council in Scotland constituted under section 2 of the Local Government etc (Scotland) Act 1994 F21 or a county or county borough council in Wales, that council.
+(2) Where a local authority is notified under paragraph (1)(a) or (b), the authority must—
+
+(a)consider, as soon as may be reasonably practicable, whether to exercise its own powers under these Regulations,
+(b)notify the initiating authority of what it has decided to do, and
+(c)if it is a county council for an area for which there is also a district council, notify the district council of the matter notified to it by the initiating authority and of its own decision.
+(3) Paragraph (1) does not apply in relation to the giving or revocation of a direction by a local authority which, having been notified by another local authority under paragraph (1), is acting pursuant to paragraph (2).
+
+F21
+1994 c. 39.
+
+Commencement Information
+
+I11
+Reg. 11 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Enforcement of requirements
+12.—(1) A local authority designated officer [F22, a police community support officer (“PCSO”)] or a constable may take such action as is necessary to enforce a direction under regulation 4(1), 5(1) or 6(1).
+
+(2) A local authority designated officer may give a prohibition notice to a person if the officer reasonably believes that—
+
+(a)the person is contravening a direction under regulation 4(1) or 5(1), and
+(b)it is necessary and proportionate to give the prohibition notice for the purpose of preventing that person from continuing to do so.
+(3) Where a constable [F23or PCSO] considers that an event is being held in contravention of a direction under regulation 5(1) [F24—
+
+(a)the constable or the PCSO may—
+(i)direct the event to stop, and
+(ii)direct a person to leave the event, and
+(b)the constable may remove a person from the event.]
+(4) Where a constable [F25or PCSO] considers that a person is, without reasonable excuse, in a public outdoor place in contravention of regulation 7(3) [F26—
+
+(a)the constable or the PCSO may direct that person to leave the place, and
+(b)the constable may remove that person from the place.]
+(5) A constable exercising the power in paragraph [F27(3)(b)] or (4)(b) to remove a person from an event or place may use reasonable force, if necessary, in exercise of the power.
+
+(6) Where a child is at an event held in contravention of a direction under regulation 5(1), or is in a public outdoor place in contravention of regulation 7(3), and is accompanied by an individual who has responsibility for the child—
+
+(a)a constable [F28or PCSO] may direct that individual to remove the child from the event or place, and
+(b)that individual must, so far as reasonably practicable, ensure that the child complies with any direction or instruction given by the constable [F28or PCSO] to the child.
+(7) A constable [F29or PCSO] may exercise the power in paragraph (3), (4) or (6) only if the constable [F29or PCSO] considers that it is a necessary and proportionate means of ensuring compliance with a direction under regulation 5(1) or with regulation 7(3) as the case may be.
+
+(8) A constable [F30or PCSO] exercising a power under paragraph (3), (4), or (6) may give the person concerned any reasonable instructions the constable [F30or PCSO] considers to be necessary.
+
+(9) For the purposes of this regulation—
+
+(a)an individual has responsibility for a child if the individual—
+(i)has custody or charge of the child for the time being, or
+(ii)has parental responsibility for the child;
+(b)“local authority designated officer” means a person designated by a local authority for the purposes of this regulation.
+F22
+Words in reg. 12(1) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(a)
+
+F23
+Words in reg. 12(3) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(b)(i)
+
+F24
+Reg. 12(3)(a)(b) substituted for words (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(b)(ii)
+
+F25
+Words in reg. 12(4) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(c)(i)
+
+F26
+Reg. 12(4)(a)(b) substituted for words (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(c)(ii)
+
+F27
+Word in reg. 12(5) substituted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(d)
+
+F28
+Words in reg. 12(6) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(e)
+
+F29
+Words in reg. 12(7) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(e)
+
+F30
+Words in reg. 12(8) inserted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(3)(e)
+
+Commencement Information
+
+I12
+Reg. 12 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Offences and penalties
+13.—(1) A person commits an offence if, without reasonable excuse, the person—
+
+(a)contravenes a direction under regulation 4(1),
+(b)contravenes a direction under regulation 5(1),
+(c)contravenes regulation 7(2),
+(d)obstructs a person carrying out a function under these Regulations, including any local authority designated officer under regulation 12 or constable, or
+(e)contravenes a direction given under regulation 12, or fails to comply with a reasonable instruction or a prohibition notice given under that regulation.
+(2) A person commits an offence if the person contravenes regulation 7(3).
+
+(3) An offence under this regulation is punishable on summary conviction by a fine.
+
+(4) If an offence under this regulation committed by a body corporate is proved—
+
+(a)to have been committed with the consent or connivance of an officer of the body, or
+(b)to be attributable to any neglect on the part of such an officer,
+the officer (as well as the body corporate) is guilty of the offence and liable to be prosecuted and proceeded against and punished accordingly.
+
+(5) In paragraph (4), “officer”, in relation to a body corporate, means a director, manager, secretary or other similar officer of the body corporate.
+
+(6) Section 24 of the Police and Criminal Evidence Act 1984 F31 applies in relation to an offence under this regulation as if the reasons in subsection (5) of that section included—
+
+(a)to maintain public health, and
+(b)to maintain public order.
+F31
+1984 c. 60. Section 24 was substituted b s. 110(1) of the Serious Organised Crime and Police Act 2005 (c. 15).
+
+Commencement Information
+
+I13
+Reg. 13 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Fixed penalty notices
+14.—[F32(1) An authorised person may issue a fixed penalty notice to any person that the authorised person reasonably believes—
+
+(a)has committed an offence under these Regulations, and
+(b)is (in the case of an individual) aged 18 or over.]
+(2) A fixed penalty notice is a notice offering the person to whom it is issued the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty to an authority specified in the notice.
+
+(3) The authority specified in the notice must be—
+
+(a)the local authority (or as the case may be, any of the local authorities) in whose area the offence is alleged to have been committed (“the relevant local authority”), or
+(b)an officer designated by the Secretary of State, or by the relevant local authority, for the purposes of this regulation.
+(4) Where a person is issued with a notice under this regulation in respect of an offence—
+
+(a)no proceedings may be taken for the offence before the end of the period of 28 days beginning with the day after the date of the notice;
+(b)the person may not be convicted of the offence if the person pays the fixed penalty before the end of that period.
+(5) A fixed penalty notice must—
+
+(a)give reasonably detailed particulars of the circumstances alleged to constitute the offence,
+(b)state the period during which (because of paragraph (4)(a)) proceedings will not be taken for the offence,
+(c)specify the amount of the fixed penalty (as to which, see paragraphs (6) [F33to (7D)]),
+(d)state the name and address of the person to whom the fixed penalty may be paid, and
+(e)specify permissible methods of payment.
+(6) If the fixed penalty notice is the first issued to the person under a relevant enactment, the amount of the fixed penalty is [F34(subject to paragraphs (7A) and (7B))]—
+
+(a)[F35£100], if that amount is paid before the end of the period of 14 days following the date of the notice, and
+(b)otherwise, [F36£200].
+(7) If the fixed penalty notice is not the first fixed penalty notice issued to the person under a relevant enactment, the amount of the fixed penalty is [F37(subject to paragraphs (7A) and (7B))] as follows—
+
+(a)if it is the second fixed penalty notice so issued, [F38£400],
+(b)if it is the third fixed penalty notice so issued, [F39£800],
+(c)if it is the fourth fixed penalty notice so issued, [F40£1,600],
+(d)if it is the fifth fixed penalty notice so issued, [F41£3,200],
+(e)if it is the sixth fixed penalty notice so issued and for any subsequent fixed penalty notice so issued, [F42£6,400].
+[F43(7A) Paragraphs (6) and (7) do not apply in the case of a fixed penalty notice issued to the person in respect of a business restriction offence.
+
+(7B) In the case of a fixed penalty notice issued to the person in respect of a business restriction offence, the amount of the fixed penalty is as follows—
+
+(a)if it is the first fixed penalty notice so issued, £1,000,
+(b)if it is the second fixed penalty notice so issued, £2,000,
+(c)if it is the third fixed penalty notice so issued, £4,000,
+(d)if it is the fourth fixed penalty notice so issued and for any subsequent fixed penalty so issued, £10,000.
+(7C) For the purposes of determining how many fixed penalty notices a person has received for the purposes of paragraph (7B), a fixed penalty notice issued to the person under the following Regulations is to be treated as if it were issued in respect of a business restriction offence—
+
+(a)the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020, if the notice was issued in respect of an offence of contravening regulation 4A or 4B of those Regulations;
+(b)the Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020;
+(c)the Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020;
+(d)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020, if the notice was issued in respect of a business restriction offence as defined by regulation 6(12) of those Regulations;
+(e)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020, if the notice was issued in respect of a business restriction offence as defined by regulation 6(12) of those Regulations;
+(f)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Very High) (England) Regulations 2020, if the notice was issued in respect of a business restriction offence as defined by regulation 6(12) of those Regulations;
+[F44(g)the Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020;]
+[F45(h)the Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020, if the notice was issued in respect of a business restriction offence as defined by regulation 12(7) of those Regulations.]
+[F46(i)the Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021, if the notice was issued in respect of a business restriction offence as defined by regulation 16(3) of those Regulations.]
+(7D) In this regulation, unless otherwise specified “business restriction offence” means—
+
+(a)an offence under regulation 13(1)(a), (b) or (c), or
+(b)an offence under regulation 13(1)(e) of failing to comply with a prohibition notice given under regulation 12(2) or of contravening a direction given under regulation 12(3)(a).]
+[F47(8) In this regulation “relevant enactment” means—
+
+(a)the Health Protection (Coronavirus, Restrictions) (England) Regulations 2020;
+(b)the Health Protection (Coronavirus, Restrictions) (Leicester) Regulations 2020;
+(c)these Regulations, other than notices issued in respect of a business restriction offence committed on or after 14th October 2020;
+(d)the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Luton) Regulations 2020;
+(e)the Health Protection (Coronavirus, Restrictions) (Blackburn with Darwen and Bradford) Regulations 2020;
+(f)the Health Protection (Coronavirus, Restrictions) (Leicester) (No. 2) Regulations 2020;
+(g)the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020;
+(h)the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020;
+(i)the Health Protection (Coronavirus, Restrictions) (Birmingham, Sandwell and Solihull) Regulations 2020;
+(j)the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020;
+(k)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020;
+(l)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020;
+(m)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Very High) (England) Regulations 2020;
+[F48(n)the Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020;]
+[F49(o)the Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020.]
+[F50(p)the Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021.]]
+[F51(8A) For the purposes of determining how many fixed penalty notices have been issued to a person under the relevant enactments, no account is to be taken of any fixed penalty notice issued to that person under—
+
+(a)these Regulations, if the notice was issued to the person in respect of a business restriction offence committed on or after 14th October 2020;
+(b)the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020, if the notice was issued to the person in respect of an offence of contravening a restriction or requirement imposed by regulation 5A or 5B of those Regulations;
+(c)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020, if the notice was issued to the person in respect of a business restriction offence as defined by regulation 6(12) of those Regulations or an offence of contravening a restriction or requirement imposed by paragraph 2 of Schedule 1 to those Regulations;
+(d)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020, if the notice was issued to the person in respect of a business restriction offence as defined by regulation 6(12) of those Regulations or an offence of contravening a restriction or requirement imposed by paragraph 3 of Schedule 1 to those Regulations;
+(e)the Health Protection (Coronavirus, Local COVID-19 Alert Level) (Very High) (England) Regulations 2020, if the notice was issued to the person in respect of a business restriction offence as defined by regulation 6(12) of those Regulations or an offence of contravening a restriction or requirement imposed by paragraph 3 of Schedule 1 to those Regulations;
+[F52(f)the Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020, if the notice was issued to the person in respect of a business restriction offence as defined by regulation 21(12) of those Regulations or an offence of contravening a restriction or requirement imposed by Part 4 of those Regulations;]
+[F53(g)the Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020, if the notice was issued to the person in respect of—
+(i)a large gathering offence, as defined by regulation 12(3B) of those Regulations,
+(ii)a business restriction offence, as defined by regulation 12(7) of those Regulations, or
+(iii)an offence of contravening a restriction or requirement imposed by paragraph 2 of Schedule 1, paragraph 3 of Schedule 2, paragraph 3 of Schedule 3 or paragraph 5 of Schedule 3A to those Regulations.]
+[F54(h)the Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021, if the notice was issued to the person in respect of—
+(i)a travel offence as defined by regulation 13(2) of those Regulations;
+(ii)a large gathering offence as defined by regulation 14(3) of those Regulations, or
+(iii)a business restriction offence as defined by regulation 16(3) of those Regulations,
+(iv)an offence of contravening a restriction or requirement imposed by paragraph 3 of Schedule 1, paragraph 3 of Schedule 2 or paragraph 2 of Schedule 3 to those Regulations.]]
+(9) Whatever other method may be specified under paragraph (5)(e), payment of a fixed penalty may be made by pre-paying and posting to the person whose name is stated under paragraph (5)(d), at the stated address, a letter containing the amount of the penalty (in cash or otherwise).
+
+(10) Where a letter is sent as mentioned in paragraph (9), payment is regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+
+(11) In any proceedings, a certificate that—
+
+(a)purports to be signed by or on behalf of—
+(i)the chief finance officer of the relevant local authority, where the authority to which payment is made is a local authority, or
+(ii)the officer referred to in paragraph (3)(b), where that officer is the authority to which payment is made, and
+(b)states that the payment of a fixed penalty was, or was not, received by the date specified in the certificate,
+is evidence of the facts stated.
+
+(12) In this regulation “authorised person” means—
+
+(a)a person designated by the local authority, in the case of—
+(i)an offence under regulation 13(1)(a), (b) or (c), F55...
+(ii)an offence under regulation 13(1)(d) in a case where the person obstructed is a local authority designated officer, [F56or]
+[F57(iii)an offence under regulation 13(1)(e) of failing to comply with a prohibition notice, and]
+(b)a constable, in the case of any offence under regulation 13(1)(d), (e) or (2).
+F32
+Reg. 14(1) substituted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 11(a) (with Sch. para. 13(3))
+
+F33
+Words in reg. 14(5)(c) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(2) (with reg. 9)
+
+F34
+Words in reg. 14(6) inserted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(3)(a) (with reg. 9)
+
+F35
+Sum in reg. 14(6)(a) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(3)(b) (with reg. 9)
+
+F36
+Sum in reg. 14(6)(b) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(3)(c) (with reg. 9)
+
+F37
+Words in reg. 14(7) inserted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(a) (with reg. 9)
+
+F38
+Sum in reg. 14(7)(a) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(b) (with reg. 9)
+
+F39
+Sum in reg. 14(7)(b) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(c) (with reg. 9)
+
+F40
+Sum in reg. 14(7)(c) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(d) (with reg. 9)
+
+F41
+Sum in reg. 14(7)(d) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(e) (with reg. 9)
+
+F42
+Sum in reg. 14(7)(e) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(4)(f) (with reg. 9)
+
+F43
+Reg. 14(7A)-(7D) inserted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(5) (with reg. 9)
+
+F44
+Reg. 14(7C)(g) inserted (5.11.2020) by The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200), regs. 1(2), 24(3)(a) (with reg. 23)
+
+F45
+Reg. 14(7C)(h) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020 (S.I. 2020/1374), reg. 1(2), Sch. 5 para. 2(2) (with reg. 15)
+
+F46
+Reg. 14(7C)(i) inserted (29.3.2021) by The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364), reg. 1(2), Sch. 7 para. 1(2) (with reg. 21)
+
+F47
+Reg. 14(8) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(6) (with reg. 9)
+
+F48
+Reg. 14(8)(n) inserted (5.11.2020) by The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200), regs. 1(2), 24(3)(b) (with reg. 23)
+
+F49
+Reg. 14(8)(o) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (All Tiers) (England) Regulations 2020 (S.I. 2020/1374), reg. 1(2), Sch. 5 para. 2(3) (with reg. 15)
+
+F50
+Reg. 14(8)(p) inserted (29.3.2021) by The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364), reg. 1(2), Sch. 7 para. 1(3) (with reg. 21)
+
+F51
+Reg. 14(8A) substituted (14.10.2020) by The Health Protection (Coronavirus, Local COVID-19 Alert Level) (Medium) (England) Regulations 2020 (S.I. 2020/1103), reg. 1(2), Sch. 3 para. 2(7) (with reg. 9)
+
+F52
+Reg. 14(8A)(f) inserted (5.11.2020) by The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200), regs. 1(2), 24(3)(c) (with reg. 23)
+
+F53
+Reg. 14(8A)(g) substituted (29.1.2021 at 5.00 p.m.) by The Health Protection (Coronavirus, Restrictions) (All Tiers and Self-Isolation) (England) (Amendment) Regulations 2021 (S.I. 2021/97), regs. 1(2), 3
+
+F54
+Reg. 14(8A)(h) inserted (29.3.2021) by The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364), reg. 1(2), Sch. 7 para. 1(4) (with reg. 21)
+
+F55
+Word in reg. 14(12)(a)(i) omitted (2.12.2020) by virtue of The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 11(b)(i) (with Sch. para. 13(3))
+
+F56
+Word in reg. 14(12)(a)(ii) substituted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 11(b)(ii) (with Sch. para. 13(3))
+
+F57
+Reg. 14(12)(a)(iii) inserted (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 11(b)(iii) (with Sch. para. 13(3))
+
+Commencement Information
+
+I14
+Reg. 14 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Prosecutions
+15.  Proceedings for an offence under these Regulations may be brought by a local authority, the Crown Prosecution Service and any person designated by the Secretary of State (but this does not affect any other power to bring proceedings for such an offence).
+
+Commencement Information
+
+I15
+Reg. 15 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Continuity of designations
+16.—(1) A person who on the coming into force of these Regulations is designated by the Secretary of State or a local authority for the purposes of regulation 9(3)(b) of the Health Protection (Coronavirus, Restrictions) (No.2) (England) Regulations 2020 is to be treated as if they were designated by the Secretary of State or local authority respectively under regulation 14(3)(b) of these Regulations.
+
+(2) A person who on the coming into force of these Regulations is designated by the Secretary of State for the purposes of regulation 10 of the Health Protection (Coronavirus, Restrictions) (No.2) (England) Regulations 2020 is to be treated as if they were designated by the Secretary of State under regulation 15 of these Regulations.
+
+Commencement Information
+
+I16
+Reg. 16 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Directions by county councils
+17.—(1) A county council for an area for which there is also a district council may direct the district council to exercise any of the district council's functions in a specified way.
+
+(2) But a county council may only give a direction under this regulation if it considers that it is necessary and proportionate to do so in order to prevent, protect against, delay or otherwise control the incidence or spread of infection by coronavirus in the district council's area.
+
+(3) A direction under this regulation may be varied or revoked by the county council.
+
+(4) In determining whether to give a direction under this regulation, or to vary or revoke such a direction, a county council must have regard to any advice given to it by [F58—
+
+(a)its director of public health or its interim or acting director of public health (as the case may be), or
+(b)a registered public health consultant approved for the purposes of this regulation by a person mentioned in sub-paragraph (a).]
+F58
+Reg. 17(4)(a)(b) substituted for words (2.12.2020) by The Health Protection (Coronavirus, Restrictions) (Local Authority Enforcement Powers and Amendment) (England) Regulations 2020 (S.I. 2020/1375), reg. 1(1), Sch. para. 12
+
+Commencement Information
+
+I17
+Reg. 17 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Amendment of other Regulations
+18.—(1) In regulation 10(9) of the Health Protection (Coronavirus, Restrictions) (Leicester) Regulations 2020 F59—
+
+(a)after “under” insert “ these Regulations, ”, and
+(b)before “are to be taken into account” insert “ and the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 ”.
+(2) In regulation 9(9) of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020 F60—
+
+(a)after the first mention of “under” insert “ these Regulations, ”, and
+(b)before “are to be taken into account” insert “ and under the Health Protection (Coronavirus, Restrictions) (England) (No. 3) Regulations 2020 ”.
+F59
+S.I. 2020/685.
+
+F60
+S.I. 2020/684, amended by S.I 2020/719.
+
+Commencement Information
+
+I18
+Reg. 18 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Expiry
+19.—(1) These Regulations expire at the end of [F6117th July 2021].
+
+(2) This regulation does not affect the validity of anything done pursuant to these Regulations before they expire.
+
+F61
+Words in reg. 19(1) substituted (6.1.2021) by The Health Protection (Coronavirus, Restrictions) (No. 3) and (All Tiers) (England) (Amendment) Regulations 2021 (S.I. 2021/8), regs. 1(2), 2(4)
+
+Commencement Information
+
+I19
+Reg. 19 in force at 18.7.2020 at 12.01 a.m., see reg. 1(2)
+
+Matt HancockSecretary of State,
+Department of Health and Social Care
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations make provision for a local authority to give directions relating to premises, events and public outdoor places in its area. A direction may only be given if the local authority considers that the public health, necessity and proportionality conditions set out in regulation 2 are met.
+
+The local authority must review a direction given under these Regulations at least once every 7 days. The Regulations also give the Secretary of State power to direct the local authority to give a direction under these Regulations, or to revoke (with or without replacement) a direction given by the local authority under these Regulations.
+
+No impact assessment has been prepared for these Regulations.

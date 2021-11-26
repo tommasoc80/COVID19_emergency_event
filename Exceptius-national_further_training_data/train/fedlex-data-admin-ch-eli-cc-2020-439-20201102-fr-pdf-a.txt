@@ -1,0 +1,542 @@
+﻿Ordonnance
+sur les mesures destinées à lutter contre l'épidémie de
+COVID-19 en situation particulière
+(Ordonnance COVID-19 situation particulière)
+du 19 juin 2020 (Etat le 2 novembre 2020)
+Le Conseil fédéral suisse,
+vu l'art. 6, al. 2, let. a et b, de la loi du 28 septembre 2012 sur les épidémies (LEp)1,
+arrête:
+Section 1	Dispositions générales
+Art. 1 Objet et but
+1	La présente ordonnance ordonne des mesures visant la population, les organisa-
+tions, les institutions et les cantons dans le but de lutter contre l'épidémie de
+COVID-19.
+2	Les mesures visent à prévenir la propagation du coronavirus (COVID-19) et à
+interrompre les chaînes de transmission.
+Art. 2	Compétences des cantons
+Sauf disposition contraire de la présente ordonnance, les cantons demeurent compé-
+tents.
+Section 2	Mesures visant des personnes
+Art. 3	Principe2
+Chaque personne respecte les recommandations de l'Office fédéral de la santé
+publique (OFSP) en matière d'hygiène et de conduite face à l'épidémie de COVID-
+193.
+RO 2020 2213
+21	RS 818.101
+2	Introduit par le ch. I de l'O du 2 juil. 2020, en vigueur depuis le 6 juil. 2020
+3	(RO 2020 2735).
+3	En ligne à l'adresse: www.bag.admin.ch > Maladies > Maladies infectieuses: flambées,
+épidémies, pandémies > Flambées et épidémies actuelles > Nouveau coronavirus > Voici
+comment nous protéger
+1
+818.101.26
+Lutte contre les maladies
+Art. 3a4	Voyageurs dans les transports publics
+1	Les voyageurs dans les véhicules de transports publics comme les trains, les trams,
+les bus, les bateaux, les aéronefs et les remontées mécaniques doivent porter un
+masque facial. Sont exemptés:
+a.	les enfants de moins de 12 ans;
+b.	les personnes pouvant attester qu'elles ne peuvent pas porter de masque fa-
+cial pour des raisons particulières, notamment médicales.
+2	Sont réputés véhicules de transports publics au sens de l'al. 1:
+a.	les véhicules des entreprises titulaires d'une concession au sens de l'art. 6 ou
+d'une autorisation au sens de l'art. 8 de la loi du 20 mars 2009 sur le trans-
+port de voyageurs5; font exception les téléskis et les télésièges; pour ceux-ci,
+les mesures définies par l'exploitant dans le plan de protection s'appliquent;
+b.	les aéronefs d'entreprises titulaires d'une autorisation d'exploitation con-
+formément à l'art. 27 ou 29 de la loi fédérale du 21 décembre 1948 sur
+l'aviation6, utilisés pour le trafic de lignes ou charter.
+Art. 3b7	Personnes dans les espaces accessibles au public des installations et
+des établissements et dans les zones d'accès aux transports publics
+1	Toute personne se trouvant dans les espaces clos et extérieurs accessibles au public
+des installations et des établissements, y compris les marchés, ainsi que dans les
+zones d'attente des gares, des arrêts de bus et de tram, dans les gares, les aéroports
+ou d'autres zones d'accès aux transports publics doit porter un masque facial.
+2	Les personnes suivantes sont exemptées de cette obligation:
+a.	les enfants de moins de 12 ans;
+b.	les personnes pouvant attester qu'elles ne peuvent pas porter de masque
+facial pour des raisons particulières, notamment médicales;
+c.	les personnes dans les structures d'accueil extrafamilial, dans la mesure où
+le port d'un masque facial complique considérablement la prise en charge;
+d.	les clients dans les établissements de restauration, les bars et les boîtes de
+nuit s'ils sont assis à table;
+e.	les personnes faisant l'objet d'une prestation médicale ou cosmétique au vi-
+sage;
+4
+5
+6
+7
+Introduit par le ch. I de l'O du 2 juil. 2020 (RO 2020 2735). Nouvelle teneur selon le ch. I
+de l'O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifesta-
+tions), en vigueur depuis le 15 août 2020 (RO 2020 3547).
+SR 745.1
+RS 748.0
+Introduit par le ch. I de l'O du 18 oct. 2020 (Obligation de porter un masque; recomman-
+dation du travail à domicile) (RO 2020 4159). Nouvelle teneur selon le ch. I de l'O du
+28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements
+accessibles au public et les manifestations ainsi que la protection des employés), en vi-
+gueur depuis le 29 oct. 2020 (RO 2020 4503).
+2
+O COVID-19 situation particulière
+818.101.26
+f.	les personnes qui se produisent devant un public, notamment les orateurs,
+ainsi que les sportifs et les artistes conformément aux art. 6e et 6f.
+Art. 3c8	Mesures dans l'espace public9
+1	Les rassemblements de plus de 15 personnes dans l'espace public, en particulier
+sur les places publiques, sur les promenades et dans les parcs sont interdits.
+2	Toute personne est tenue de porter un masque dans les domaines suivants de
+l'espace public:
+a.	les zones animées des centres urbains ou des villages dans lesquelles des
+piétons circulent;
+b.	les autres domaines de l'espace public, dès que la concentration de per-
+sonnes présentes ne permet pas de respecter la distance requise.10
+3	Les exceptions prévues à l'art. 3b , al. 2, let. a et b, s'appliquent à l'obligation visée
+à l'al. 2.11
+Section 3
+Mesures visant les installations, les établissements et les manifestations
+accessibles au public
+Art. 4 Plan de protection
+1	Les exploitants d'installations ou d'établissements accessibles au public, y compris
+les établissements de formation, et les organisateurs de manifestations élaborent et
+mettent en œuvre un plan de protection.
+2	Le plan de protection est soumis aux règles suivantes:
+a.	il doit prévoir, pour l'installation, l'établissement ou la manifestation, des
+mesures en matière d'hygiène et de distance;
+b.	il doit prévoir des mesures garantissant le respect de l'obligation de porter
+un masque facial conformément à l'art. 3b;
+c.	il doit prévoir des mesures limitant l'accès à l'installation, à l'établissement
+ou à la manifestation de manière à ce que la distance requise soit respectée;
+cela ne s'applique pas à l'accès aux véhicules des transports publics;
+8
+9
+10
+11
+Introduit par le ch. I de l'O du 18 oct. 2020 (Obligation de porter un masque; recomman-
+dation du travail à domicile), en vigueur depuis le 19 oct. 2020 (RO 2020 4159).
+Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+3
+818.101.26
+Lutte contre les maladies
+d.	en présence de personnes exemptées de l'obligation de porter un masque fa-
+cial en vertu de l'art. 3b, al. 2, 6e ou 6f, il est impératif de respecter la dis-
+tance requise ou de prendre d'autres mesures de protection efficaces, comme
+l'installation de séparations adéquates; si cela n'est pas possible en raison du
+type d'activité ou des particularités des lieux, la collecte des coordonnées
+des personnes présentes au sens de l'art. 5 doit être prévue.12
+3	Les prescriptions visées à l'al. 2 sont détaillées en annexe. En accord avec le
+Département fédéral de l'économie, de la formation et de la recherche (DEFR), le
+Département fédéral de l'intérieur (DFI) met à jour l'annexe en fonction de l'état
+actuel des connaissances scientifiques.
+4	Le plan de protection désigne une personne responsable de la mise en œuvre du
+plan et des contacts avec les autorités compétentes.
+Art. 5 Collecte des coordonnées
+1	Si les coordonnées des participants ou des visiteurs sont collectées au sens de
+l'annexe, ch. 4, les personnes concernées doivent être informées de cette collecte et
+du but de l'utilisation des données. Si les coordonnées visées sont déjà connues,
+notamment dans un établissement de formation ou une manifestation privée,
+l'information porte uniquement sur le but de l'utilisation des données.
+2	Les coordonnées doivent être immédiatement transmises par voie élecronique au
+service cantonal compétent qui en fait la demande, aux fins d'identification et
+d'information des personnes présumées infectées au sens de l'art. 33 LEp.13
+3	Les coordonnées collectées ne peuvent pas être utilisées à d'autres fins; elles sont
+conservées durant les 14 jours suivant la manifestation ou la visite de l'installation
+ou de l'établissement puis sont immédiatement détruites.
+Art. 5a14	Dispositions particulières pour les établissements de restauration,
+les bars, les boîtes de nuit, les discothèques et les salles de danse
+1	Pour les établissements de restauration, les bars et les boîtes de nuit, les règles
+suivantes s'appliquent en sus du plan de protection visé à l'art. 4:
+a.	les clients sont tenus de s'asseoir; les aliments et les boissons, en particulier,
+ne peuvent être consommés qu'aux places assises;
+b.	les établissements doivent demeurer fermés entre 23 h 00 et 6 h 00;
+12	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+13	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+14	Introduit par le ch. I de l'O du 18 oct. 2020 (Obligation de porter un masque; recomman-
+dation du travail à domicile) (RO 2020 4159). Nouvelle teneur selon le ch. I de l'O du
+28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements
+accessibles au public et les manifestations ainsi que la protection des employés), en vi-
+gueur depuis le 29 oct. 2020 (RO 2020 4503).
+4
+O COVID-19 situation particulière
+818.101.26
+c.	la taille des groupes ne peut excéder 4 clients par table; cette règle ne
+s'applique pas aux parents avec leurs enfants ni aux cantines et aux struc-
+tures de jour des écoles obligatoires;
+d.	les restaurants d'entreprises peuvent servir exclusivement le personnel tra-
+vaillant dans l'entreprise concernée; les cantines et les structures de jour des
+écoles obligatoires, exclusivement les élèves, les membres du corps ensei-
+gnant et les employés de l'école.
+2	L'exploitation de discothèques et de salles de danse ainsi que l'organisation de
+spectacles de danse sont interdites.
+Art. 615	Dispositions particulières pour les manifestations
+1	Il est interdit d'organiser des manifestations de plus de 50 personnes. Ne sont pas
+incluses dans ce nombre ni les personnes qui participent à la manifestation dans le
+cadre de leur activité professionnelle ni celles qui contribuent à son organisation.
+2	Les manifestations organisées dans le cercle familial et entre amis (manifestations
+privées) qui n'ont pas lieu dans des installations et des établissements accessibles au
+public sont limitées à 10 personnes. L'obligation d'élaborer et de mettre en œuvre
+un plan de protection ne s'applique pas.
+3	L'organisation de foires et de marchés dans des espaces clos est interdite.
+Art. 6a et 6b16
+Art. 6c17	Dispositions particulières pour les assemblées de corporations
+politiques, les manifestations politiques ou de la société civile et
+les récoltes de signatures
+1 Le nombre de personnes n'est pas limité pour les manifestations suivantes:
+a.	les assemblées législatives aux niveaux fédéral, cantonal et communal;
+b.	les assemblées de corporation de droit public ne pouvant être reportées;
+c.	les assemblées nécessaires à l'accomplissement des fonctions officielles des
+bénéficiaires institutionnels visés à l'art. 2, al. 1, de la loi du 22 juin 2007 sur
+l'État hôte18.
+15	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+16	Introduits par le ch. I de l'O du 2 sept. 2020 (Grandes manifestations) (RO 2020 3679).
+Abrogés par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), avec effet au 29 oct. 2020 (RO 2020 4503).
+17	Introduit par le ch. I de l'O du 2 sept. 2020 (Grandes manifestations) (RO 2020 3679).
+Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, con-
+cernant les installations et établissements accessibles au public et les manifestations ainsi
+que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+18 RS 192.12
+5
+818.101.26
+Lutte contre les maladies
+2 Les art. 4 à 6 ne s'appliquent ni aux manifestations politiques ou de la société
+civile ni aux récoltes de signatures. Les participants sont tenus de porter un masque
+facial; les exceptions prévues à l'art. 3b, al. 2, let. a et b, s'appliquent toutefois.
+Art. 6d19	Dispositions particulières pour les établissements de formation
+1 Les activités présentielles sont interdites dans les établissements de formation. Sont
+exemptés de cette règle:
+a.	les écoles obligatoires et les établissements du degré secondaire II;
+b.	les activités didactiques indispensables pour la filière de formation et pour
+lesquelles la présence sur place est nécessaire;
+c.	les leçons particulières.
+2 Les enfants et les adolescents du degré secondaire II ainsi que le corps enseignant
+et les autres membres du personnel de ces écoles sont tenus de porter un masque
+facial lors d'activités présentielles. Font exception les situations où le port du
+masque compliquerait considérablement l'enseignement.
+3	Pour les activités culturelles et sportives des adolescents du degré secondaire II, les
+règles applicables à la partie non professionnelle des art. 6e et 6f s'appliquent, à
+l'exception de la limitation de la taille du groupe.
+Art. 6e20	Dispositions particulières pour le domaine du sport
+1	Dans le domaine du sport, les activités sportives suivantes, notamment les activités
+d'entraînement et les compétitions, sont autorisées dans les installations et les éta-
+blissements accessibles au public ainsi qu'en plein air:
+a. les activités sportives d'enfants et d'adolescents de moins de 16 ans, à
+l'exception des compétitions;
+b. les activités sportives qui n'impliquent pas de contact physique exercées à
+titre individuel et en groupes d'au maximum 15 personnes ayant plus de 16
+ans:
+1.	dans les lieux clos: si les personnes concernées portent un masque fa-
+cial et respectent la distance requise; elles peuvent renoncer au masque
+dans de grands locaux, pour autant que des règles supplémentaires en
+matière de distance et la limitation des capacités soient appliquées,
+2.	en plein air: si les personnes concernées portent un masque facial ou
+respectent la distance requise;
+c.	les activités d'entraînement et les compétitions de sportifs de haut niveau
+appartenant à l'un des cadres nationaux d'une fédération sportive nationale
+19	Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 2 nov. 2020 (RO 2020 4503).
+20	Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+6
+O COVID-19 situation particulière
+818.101.26
+et s'entraînant à titre individuel, en groupes d'au maximum 15 personnes ou
+dans des équipes de compétition fixes;
+d.	les activités d'entraînement et matches d'équipes appartenant à une ligue
+majoritairement professionnelle.
+2	Pour les activités sportives en groupes d'au maximum 5 personnes au sens de
+l'al. 1, let. a et b, l'élaboration d'un plan de protection au sens de l'art. 4 n'est pas
+obligatoire.
+Art. 6f21	Dispositions particulières pour le domaine de la culture
+1 L'exploitation des musées et des galeries, des bibliothèques, des archives et
+d'institutions culturelles comparables ne requiert que le plan de protection prévu à
+l'art. 4.
+2 Dans le domaine de la culture, les activités suivantes, y compris l'utilisation des
+installations et établissements nécessaires à cette fin, sont autorisées:
+a. dans le domaine non professionnel:
+1. les activités d'enfants et d'adolescents de moins de 16 ans,
+2. les répétitions effectuées à titre individuel après 16 ans,
+3.	les spectacles individuels ainsi que les répétitions et les spectacles en
+groupes d'au maximum 15 personnes de plus de 16 ans si les personnes
+concernées portent un masque facial et respectent la distance requise;
+elles peuvent renoncer au masque dans de grands locaux, pour autant
+que des règles supplémentaires en matière de distance et la limitation
+des capacités soient appliquées;
+b. dans le domaine professionnel: les répétitions et spectacles d'artistes ou
+d'ensembles.
+3	Les activités exercées par des chœurs ou impliquant des chanteurs sont soumises
+aux règles suivantes:
+a. dans le domaine non professionnel, l'organisation de répétitions et de repré-
+sentations est interdite;
+b. dans le domaine professionnel:
+1. l'organisation de représentations impliquant des chœurs est interdite,
+2. l'organisation de répétitions et de représentations impliquant des chan-
+teurs n'est admise que si le plan de protection prévoit des mesures de
+protection spécifiques.
+4	Pour les manifestations en groupes d'au maximum 5 personnes au sens de l'al. 2,
+let. a, l'élaboration d'un plan de protection au sens de l'art. 4 n'est pas obligatoire.
+21	Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+7
+818.101.26
+Lutte contre les maladies
+Art. 7	Allégements accordés par les cantons
+L'autorité cantonale compétente peut autoriser des allègements par rapport aux
+règles visées à l'art. 4, al. 2 à 4, et aux art. 5 à 6f si:22
+a. des intérêts publics prépondérants l'exigent, et
+b. l'organisateur ou l'exploitant présente un plan de protection au sens de
+l'art. 4 qui prévoit des mesures spécifiques pour empêcher la propagation du
+coronavirus (COVID-19) et interrompre les chaînes de transmission.
+Art. 8	Mesures supplémentaires des cantons
+1	Si le nombre de personnes devant être identifiées et informées au sens de l'art. 33
+LEp augmente de telle manière que cette mesure n'est pas réalisable, le canton peut
+prévoir de limiter temporairement et de manière plus stricte que prescrit dans la
+présente ordonnance le nombre de clients, de visiteurs ou de participants dans les
+installations, dans les établissements et dans les manifestations.
+2	Si le nombre d'infections est élevé localement ou menace de le devenir, le canton
+peut prendre des mesures temporaires applicables régionalement selon l'art. 40 LEp.
+Il consulte préalablement l'OFSP et l'informe des mesures prises.
+Art. 9 Contrôles et obligations de collaborer
+1 Les exploitants et les organisateurs doivent:
+a. présenter leur plan de protection aux autorités cantonales compétentes qui en
+font la demande;
+b. garantir aux autorités cantonales compétentes l'accès aux installations, éta-
+blissements et manifestations.
+2 Si les autorités cantonales compétentes constatent qu'il n'existe pas de plan de
+protection suffisant ou que ce plan n'est pas mis en œuvre, elles prennent des me-
+sures appropriées. Elles peuvent fermer des installations et des établissements et
+interdire ou disperser des manifestations.
+Section 4	Mesures de protection des employés
+Art. 10 Mesures de prévention
+1 L'employeur garantit que les employés puissent respecter les recommandations de
+l'OFSP en matière d'hygiène et de distance. À cette fin, les mesures correspondantes
+doivent être prévues et mises en œuvre.
+1bis Dans les espaces clos, tous les employés sont tenus de porter un masque facial;
+cette obligation ne s'applique pas:
+22	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+8
+O COVID-19 situation particulière
+818.101.26
+a. dans les espaces de travail où la distance entre les postes de travail peut être
+respectée, notamment dans des espaces cloisonnés;
+b. aux activités pour lesquelles le port d'un masque est impossible pour des rai-
+sons de sécurité ou à cause du type d'activité concerné;
+c.	aux personnes pouvant attester qu'elles ne peuvent pas porter de masque fa-
+cial pour des raisons particulières, notamment médicales.23
+2 L'employeur prend d'autres mesures en vertu du principe STOP (substitution,
+technique, organisation, personnel), notamment la mise en place de séparations
+physiques, la séparation des équipes ou le port d'un masque facial dans les espaces
+extérieurs et les véhicules.24
+3	L'employeur respecte les recommandations de l'OFSP concernant la possibilité
+pour les employés de remplir leurs obligations professionnelles à domicile25.26
+Art. 11	Exécution, contrôles et obligations de collaborer
+1 En application des dispositions relatives à la protection de la santé fixées à l'art. 6
+de la loi du 13 mars 1964 sur le travail27, l'exécution de l'art. 10 incombe aux auto-
+rités d'exécution de la loi sur le travail et de la loi fédérale du 20 mars 1981 sur
+l'assurance-accidents28.
+2 Les autorités d'exécution peuvent en tout temps effectuer des contrôles sans préa-
+vis dans les établissements et dans des lieux.
+3	L'employeur doit garantir aux autorités cantonales compétentes l'accès aux locaux
+et aux lieux.
+4	Lors des contrôles effectués sur place, les instructions des autorités d'exécution
+compétentes doivent être appliquées sans délai.
+23	Introduit par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+24	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+25	Consultables sous www.ofsp.admin.ch > Maladies > Maladies infectieuses: flambées,
+épidémies, pandémies > Flambées et épidémies actuelles > Nouveau coronavirus >
+Voici comment nous protéger.
+26	Introduit par le ch. I de l'O du 18 oct. 2020 (Obligation de porter un masque; recomman-
+dation du travail à domicile), en vigueur depuis le 19 oct. 2020 (RO 2020 4159).
+27 RS 822.11
+28 RS 832.20
+9
+818.101.26
+Lutte contre les maladies
+Section 5
+Obligation des cantons d'informer à propos des capacités sanitaires
+Art. 12
+Les cantons ont l'obligation de communiquer régulièrement au Service sanitaire
+coordonné les informations suivantes:
+a. le nombre total et le taux d'occupation des lits d'hôpitaux;
+b. le nombre total et le taux d'occupation des lits d'hôpitaux réservés au trai-
+tement de maladies dues au COVID-19 et le nombre de patients atteints du
+COVID-19 actuellement traités;
+c.	le nombre total et le taux d'occupation des lits d'hôpitaux aux soins intensifs
+et le nombre de patients atteints du COVID-19 actuellement traités aux soins
+intensifs sous respiration artificielle;
+d.	le nombre total et le taux d'occupation des unités d'oxygénation extracorpo-
+relle par oxygénateur à membrane (ECMO);
+e.	les données concernant la disponibilité du personnel médical et du personnel
+soignant dans les hôpitaux;
+f.	la capacité maximale, en particulier le nombre total de patients et le nombre
+total de patients infectés par le COVID-19 pouvant être traités dans leurs
+hôpitaux en prenant en compte les lits et le personnel disponibles.
+Section 6 Dispositions pénales
+Art. 1329
+Est puni de l'amende quiconque:
+a. en tant qu'exploitant ou organisateur enfreint intentionnellement les obliga-
+tions qui lui incombent en vertu des art. 4, al. 1 et 2, 5a et 6d à 6f;
+b. organise une manifestation interdite en vertu de l'art. 6, al. 1.
+Section 7 Dispositions finales
+Art. 14 Modification d'autres actes
+Les ordonnances suivantes sont modifiées comme suit:
+...30
+29	Nouvelle teneur selon le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+30	Les mod. peuvent être consultées au RO 2020 2213.
+10
+O COVID-19 situation particulière
+818.101.26
+Art. 15	Entrée en vigueur et durée de validité
+1 La présente ordonnance entre en vigueur le 22 juin 2020 à 0 h 00, sous réserve de
+l'al. 2.
+2 Les art. 6, al. 4, et 14, ch. 2, entrent en vigueur le 20 juin 2020 à 0 h 00.
+3	...31
+4	...32
+5	.. . 33
+31	Abrogé par le ch. I de l'O du 12 août 2020 (Port du masque obligatoire dans les aéronefs;
+grandes manifestations), avec effet au 15 août 2020 (RO 2020 3547).
+32	Introduit par le ch. I de l'O du 12 août 2020 (Port du masque obligatoire dans les aéro-
+nefs; grandes manifestations) (RO 2020 3547). Abrogé par le ch. I de l'O du 28 oct. 2020
+(Mesures visant les personnes, concernant les installations et établissements accessibles
+au public et les manifestations ainsi que la protection des employés), avec effet au
+29 oct. 2020 (RO 2020 4503).
+33	Introduit par le ch. I de l'O du 2 sept. 2020 (Grandes manifestations) (RO 2020 3679).
+Abrogé par le ch. I de l'O du 28 oct. 2020 (Mesures visant les personnes, concernant les
+installations et établissements accessibles au public et les manifestations ainsi que la pro-
+tection des employés), avec effet au 29 oct. 2020 (RO 2020 4503).
+11
+818.101.26
+Lutte contre les maladies
+Annexe34
+(art. 4, al. 3, et 5, al. 1)
+Prescriptions pour les plans de protection
+1	Généralités
+1.1	Il y a un risque accru d'infection lorsque la distance de 1,5 mètre ne peut pas
+être respectée pendant plus de 15 minutes.
+1.2	Protection contre la contamination par le COVID-19
+1 Lorsqu'il opte pour des mesures en application de l'art. 4, al. 2, l'exploitant
+ou l'organisateur veille à assurer aux clients, aux visiteurs et aux participants
+une protection efficace contre la contamination par le COVID-19.
+2 Dans les installations et les établissements accessibles au public et lors des
+manifestations où travaillent des employés, les mesures prévues dans le plan
+de protection pour les clients, les visiteurs et les participants doivent être ac-
+cordées avec les mesures de protection des employés selon l'art. 10.
+3	Pour assurer une protection efficace en application des al. 1 et 2,
+l'exploitant ou l'organisateur peut, s'il y a lieu, prendre des mesures diffé-
+rentes selon les secteurs de l'installation, de l'établissement ou de la mani-
+festation, par exemple pour le secteur des places assises ou l'espace de re-
+pos, ou pour certaines catégories de personnes, par exemple en formant des
+équipes fixes.
+1.3	Motifs de la collecte des coordonnées
+Si le plan de protection doit prévoir la collecte des coordonnées conformé-
+ment à l'art. 4, al. 2, let. d, il doit en indiquer les motifs.
+1.4	Information des personnes présentes
+L'exploitant ou l'organisateur informe les personne présentes (clients, parti-
+cipants, visiteurs) des mesures en vigueur dans l'institution ou
+l'établissement ou pour la manifestation, comme l'obligation de porter un
+masque facial, la collecte des coordonnées ou l'interdiction de se déplacer
+d'un secteur à un autre de la manifestation.
+34	Mise à jour selon le ch. II des O du 2 sept. 2020 (Grandes manifestations)
+(RO 2020 3679), du 18 oct. 2020 (Obligation de porter un masque; recommandation du
+travail à domicile) (RO 2020 4159) et du 28 oct. 2020 (Mesures visant les personnes,
+concernant les installations et établissements accessibles au public et les manifestations
+ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 (RO 2020 4503).
+12
+O COVID-19 situation particulière
+818.101.26
+2	Hygiène
+2.1. Toutes les personnes doivent avoir la possibilité de se laver régulièrement
+les mains. À cet effet, du désinfectant et, dans les lavabos accessibles au pu-
+blic, du savon doivent être mis à disposition.
+2.2. Toutes les surfaces de contact doivent être nettoyées régulièrement.
+2.3	Il doit y avoir suffisamment de poubelles à disposition, notamment pour
+jeter les mouchoirs et les masques faciaux usagés.
+3	Distance
+3.1	La distance à respecter entre deux personnes est de 1,5 m au minimum
+(distance requise).
+3.1bis L'accès aux espaces clos et extérieurs accessibles au public des installations
+et établissements ainsi qu'aux manifestations doit être limité comme suit:
+a. dans les espaces dans lesquels les personnes peuvent se déplacer libre-
+ment, notamment dans les magasins et les zones d'accès, si plusieurs
+personnes sont présentes, chacune d'elles doit disposer d'une surface
+d'au moins 4 mètres carrés;
+b. dans les rangées de sièges ou pour les places organisées d'une manière
+similaire, en particulier dans les théâtres, salles de concert et cinémas,
+seul un siège sur deux ou seules les places éloignées d'une distance
+équivalente peuvent être occupés.
+3.1ter Les activités sportives et culturelles au sens des art. 6e, al. 1, let. b, ch. 1, et
+6f, al. 2, let. a, ch. 3, sont soumises aux règles suivantes:
+a. l'espace doit être aménagé de telle sorte que chaque personne dispose
+d'une surface d'au moins 15 mètres carrés pour son usage exclusif ou
+que des séparations efficaces soient installées entre les différentes per-
+sonnes; s'il s'agit d'un sport qui n'implique pas un effort physique im-
+portant et si les personnes présentes ne quittent pas la place qui leur est
+attribuée, chaque personne doit disposer d'une surface d'au moins 4
+mètres carrés pour un usage exclusif;
+b. le local doit disposer d'une aération efficace.
+3.2	En dérogation au ch. 3.1, dans les espaces assis, les sièges doivent être
+occupés ou disposés de façon à maintenir au moins une place vide ou une
+distance équivalente entre les sièges.
+3.3	Dans les établissements de restauration, les bars et les boîtes de nuit, les
+groupes doivent être placés aux tables de façon à ce que la distance requise
+entre chacun d'entre eux soit respectée.
+3.4	Les flux de personnes doivent être gérés de manière à pouvoir maintenir la
+distance requise entre toutes les personnes.
+13
+818.101.26
+Lutte contre les maladies
+3.5	Les règles de distance ne s'appliquent pas aux groupes de personnes pour
+lesquels elles ne sont pas appropriées, notamment les enfants en âge scolaire,
+les familles ou les personnes faisant ménage commun.
+4	Collecte des coordonnées
+4.1 Les coordonnées des personnes présentes doivent être collectées si la dis-
+tance requise cesse d'être maintenue durant plus de 15 minutes sans mesures
+de protection.
+4.2	L'exploitant ou l'organisateur est tenu d'informer les personnes présentes
+des points suivants:
+a. la probabilité que la distance requise puisse ne pas être maintenue et le
+risque d'infection accru qui en découle;
+b. la possibilité que le service cantonal compétent prenne contact avec
+elles et sa compétence pour ordonner une quarantaine en cas de con-
+tacts avec des personnes atteintes du COVID-19.
+4.3	Les coordonnées peuvent être collectées à l'aide de systèmes de gestion des
+réservations ou des membres, ou encore au moyen de formulaires de contact.
+4.4	Les données suivantes doivent être collectées:
+a. nom, prénom, domicile et numéro de téléphone;
+b. dans les établissements, notamment les établissements de restauration et
+les cinémas, et lors des manifestations proposant des places assises, le
+numéro du siège ou de la table.
+4.4bis L'exploitant ou l'organisateur peut prendre des dispositions appropriées
+pour s'assurer que les coordonnées collectées sont correctes.
+4.5	Pour les familles et les autres groupes de personnes qui se connaissent, de
+même que pour les établissements de restauration, les bars et les boîtes de
+nuit, les coordonnées d'un seul membre de la famille ou du groupe suffisent.
+4.6	L'exploitant ou l'organisateur doit garantir la confidentialité des coordon-
+nées qu'il collecte et la sécurité des données, notamment durant leur conser-
+vation.
+14

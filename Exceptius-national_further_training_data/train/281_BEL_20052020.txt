@@ -1,0 +1,180 @@
+Protocole d'accord conclu entre le gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la constitution concernant la mise en place, l'organisation et le financement de centres de tri et de prélèvement dans la cadre de la gestion de la crise sanitaire COVID-19
+Vu les compétences respectives dont disposent l'Etat fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution - ci-après dénommées `Communautés et Régions' ou `entités fédérées' - sur le plan de la politique de santé publique;
+Compte tenu des compétences respectives de l'Etat fédéral et des entités fédérées en matière de financement et d'organisation des soins de santé de première ligne et des soins hospitaliers;
+Vu la nécessité d'adapter en urgence l'offre de soins dans le cadre de la gestion de la crise sanitaire COVID-19 afin
+-de limiter la propagation de l'épidémie,
+- de s'assurer que l'offre de soins disponible soit suffisante pour dispenser les soins nécessaires aux personnes atteintes par la maladie
+- et de protéger au mieux les professionnels de la santé par rapport au risque de contracter la maladie;
+Les ministres en charge de la santé au niveau fédéral et au sein des Communautés et Régions, rassemblés en Conférence interministérielle de la Santé publique, conviennent ce qui suit.
+Introduction
+Au moment de l'apparition de la première vague d'épidémie COVID-19, mi-mars 2020, les autorités fédérale et des entités fédérées se sont concertées avec les représentants des médecins généralistes et des hôpitaux afin de mettre en place en urgence des `centres de tri' destinés à :
+- limiter un afflux massif et désorganisé de patients suspectés d'être atteints par la maladie vers les services d'urgence des hôpitaux, les centres de tri ayant pour mission d'évaluer la nécessité ou non d'hospitaliser ces patients (= `fonction de tri');
+- permettre aux médecins généralistes de limiter les contacts avec leurs patients suspectées d'être porteurs du virus à des contacts téléphoniques et de les référer vers ces `centres de tri' pour qu'ils y bénéficient d'un examen médical en présentiel;
+- pouvoir concentrer les moyens disponibles en matériel de protection individuelle vers des lieux identifiés comme susceptibles d'accueillir des patients atteints par le virus.
+A l'issue de la phase aiguë de cette première vague d'épidémie, et au moment où les moyens nécessaires pour réaliser une politique de dépistage à grande échelle sont apparus suffisants, les centres de tri se sont vus confier une mission complémentaire, à savoir le prélèvement d'échantillons sur les personnes devant faire l'objet d'un dépistage (= `fonction de prélèvement').
+Le présent protocole vise à donner une meilleure visibilité aux dispositions convenues entre l'Etat fédéral et les entités fédérées concernant les modalités et conditions de fonctionnement et de financement des « centres de tri et de prélèvement » et à initier des accords futurs sur la manière dont ces centres peuvent être intégrés dans un cadre réglementaire.
+1. Deux fonctions confiées aux centres de tri et de prélèvement
+A. La fonction de tri
+La fonction de tri a pour objectif d'éviter que les patients dont l'état ne justifie pas une hospitalisation, se présentent aux services d'urgence des hôpitaux.
+Elle est destinée aux patients référés par un médecin généraliste qui n'a pas réalisé d'examen clinique en présentiel et suspecte des symptômes assez sévères pour éventuellement justifier une hospitalisation.
+Un examen clinique est réalisé par un médecin généraliste, éventuellement secondé par du personnel infirmier.
+La présence d'un médecin est indispensable à tout moment où la fonction de tri est accessible.
+Si, à l'issue de son examen clinique, le médecin estime qu'une hospitalisation ne se justifie pas, il pourra prendre la décision de prescrire un test au patient et le réaliser au sein du centre de tri et de prélèvement.
+B. La fonction de prélèvement
+La fonction de prélèvement a pour objectif de mieux rencontrer les besoins en termes de screening de la population et de permettre d'absorber la demande de test pour toute personne qui entre dans les critères définis (1) pour faire l'objet d'un test et qui n'est pas prise en charge dans une structure résidentielle.
+La décision de soumettre un patient à un test relève cependant toujours du médecin (généraliste) traitant qui doit prescrire le test au patient avant de le référer vers le centre de tri. Pour les citoyens qui n'ont pas de médecin généraliste, chaque cercle de médecins généralistes doit proposer une solution.
+La fonction de prélèvement des centres de tri et de prélèvement pourra également être sollicitée pour réaliser certains tests à la demande des call centers mis en place dans le cadre de la stratégie de dépistage et de suivi des personnes ayant été en contacts étroits avec des personnes testés positives. Ces demandes devront être conformes aux recommandations approuvées en Risk Management Group. Elles pourront dans certains cas concerner des personnes asymptomatiques, notamment des personnes ayant été mises en quarantaine, qui n'ont pas développé de symptômes, et qui vont reprendre une activité professionnelle qui les met en contact étroit avec des personnes à risque.
+Concernant la possibilité, pour les hôpitaux (ou structures résidentielles), de référer vers les centres de tri et de prélèvement les patients qu'ils prévoient d'hospitaliser (ou d'accueillir), des conditions seront déterminées après concertation avec les associations de médecins généralistes et les fédérations hospitalières (ou autres organisations faîtières).
+Le prélèvement peut être réalisé :
+- soit par du personnel infirmier
+- soit par un médecin
+- soit par d'autres professionnels de soins de santé disposant de cette compétence.
+La présence physique d'un médecin n'est pas indispensable, mais le médecin qui assure la coordination sera toujours appelable (par exemple si un patient présente de symptômes plus sévères nécessitant un examen clinique pour évaluer si une hospitalisation est nécessaire).
+2. Accessibilité des fonctions de tri et de prélèvement
+A. La fonction de tri
+Chaque centre de tri et de prélèvement établit sa fonction de tri en un lieu unique.
+Afin de garantir une accessibilité suffisante des fonctions de tri, les entités fédérées veilleront à maintenir un nombre de centres correspondant au minimum à 1 centre par tranche entamée de 100.000 habitants (2). Dans les régions où le nombre de centres est supérieur à 1 centre par 100.000 habitants, les entités fédérées prendront les initiatives qu'elles jugent utiles afin de fusionner les centres qui couvrent le moins de population, avec un centre voisin.
+Les fonctions de tri sont organisées en collaboration étroite avec les services d'urgence des hôpitaux. Ils concluent les accords nécessaires à cette fin, qui peuvent être demandés par les autorités.
+Si le besoin en termes de triage des patients pour lesquels un examen clinique en présentiel est nécessaire pour apprécier le besoin éventuel d'une admission à l'hôpital se réduit fortement et que le service d'urgence des hôpitaux peut lui-même assurer cette fonction, la fonction de tri du centre concerné pourra temporairement être mise en vielleuse moyennant :
+- un accord écrit explicite d'un ou plusieurs service(s) d'urgence hospitalier qui peuvent prendre en charge la fonction de tri
+- une définition précise des conditions dans lesquelles il devra être demandé au centre de tri et de prélèvement de réactiver leur fonction de tri.
+Le centre de tri et de prélèvement dont la fonction de tri a été mise en veilleuse doit à tout moment être en mesure de la réactiver dans les 48 heures.
+Tant que la fonction de tri reste active, elle doit au minimum être accessible 4 heures par jour et tous les jours de la semaine (jours ouvrables).
+Les heures de disponibilité de la fonction de tri seront clairement établies et communiquées aux médecins généralistes de la zone couverte par le ou les cercle(s) de médecins généralistes qui coordonnent la fonction.
+Un renvoi sera organisé (vers un hôpital, un poste de garde de médecine générale ou un autre centre de tri) lorsque la fonction est indisponible.
+B. La fonction de prélèvement
+La fonction de prélèvement eut être organisée en plusieurs endroits sur le territoire couvert par le ou les cercle(s) de médecins généraliste organisant la coordination médicale du centre de tri, afin d'accroître l'accessibilité de la fonction de prélèvement.
+Différentes formes d'organisation sont possibles (y compris équipe mobile, drive in, ...).
+Les horaires de disponibilité de la fonction aux différents endroits où elle est organisée seront clairement établis et portés à la connaissance des médecins généralistes de la zone et du call center chargé du suivi des contacts.
+A chaque endroit où la fonction est organisée, elle sera accessible tous les jours de la semaine, avec une possibilité de référer les patients vers un autre lieu (poste de garde, autre fonction de prélèvement) pendant le week-end.
+Les horaires d'accessibilité peuvent être adaptés en fonction des besoins de la population et de la charge de travail liée à l'évolution de l'épidémie, mais seront toujours connus au moins une semaine à l'avance.
+3. Les centres de tri et de prélèvement sont placés sous la coordination médicale des cercles de médecins généralistes
+La coordination médicale des centres de tri et de prélèvement est confiée aux cercles de médecins généralistes agréés en vertu soit :
+- de l'arrêté royal du 8 juillet 2002 fixant les missions confiées aux cercles de médecins généralistes
+- de l'arrêté du Gouvernement flamand du 26 juin 2015 relatif aux cercles de médecins généralistes.
+La coordination médicale de chaque centre de tri et de prélèvement peut être assurée par un cercle de médecins généralistes ou un groupement de cercles.
+Il appartient à ce cercle (ou de groupement de cercles) :
+- de coordonner, en collaboration avec les services d'urgence des hôpitaux, les initiatives prises pour organiser la fonction de triage sur le territoire qu'il couvre;
+- de coordonner les initiatives visant à organiser la fonction de prélèvement en plusieurs endroits sur le territoire qu'il couvre;
+- de décider des heures d'ouverture des différents lieux où les prélèvements peuvent être réalisés;
+- d'assurer la distribution du matériel de protection et de prélèvement mis à disposition par les autorités fédérales, vers les différents lieux offrant la possibilité de réaliser des prélèvements;
+- de coordonner la répartition du personnel (médecins, infirmiers, techniciens de laboratoires, aides administratives,...) affecté aux différents lieux de prélèvement;
+- de veiller à garantir que les centres de tri et de prélèvement respectent toutes les obligations d'information aux autorités publiques de manière qualitative et en temps voulu.
+Ces missions peuvent faire l'objet d'une collaboration avec un hôpital. Dans ce cas, un accord écrit entre le ou les cercle(s) de médecins généralistes et l'hôpital précisera au minimum à qui est confiée la responsabilité médicale et la responsabilité administrative du centre de tri et de prélèvement.
+4. La collaboration entre les centres de tri et de prélèvement et les laboratoires de biologie clinique
+Pour faire face aux besoins exceptionnellement élevés de matériel de prélèvement et d'analyse d'échantillons, une plateforme fédérale a été mise temporairement en place à côté des circuits traditionnels d'analyses de biologie clinique.
+Les deux circuits sont complémentaires mais totalement indépendants l'un de l'autre. Chaque centre de tri et de prélèvement est donc invité à choisir l'un ou l'autre circuit. Une combinaison des deux n'est pas autorisée afin d'éviter les risques de double financement.
+En cas de choix pour la plateforme fédérale, celle-ci se charge d'approvisionner le centre de tri et de prélèvement en matériel destiné aux tests, de récolter les prélèvements, de les acheminer avec ses laboratoires et de transmettre les résultats d'analyse. Le matériel de prélèvement mis à disposition par la plateforme fédérale ne peut donc pas non plus être distribué à des médecins individuels qui enverraient ensuite leurs prélèvements vers un laboratoire privé ou hospitalier.
+Si le centre de tri et de prélèvement choisit de travailler avec un laboratoire hospitalier ou privé, ce dernier prendra en charge l'organisation de la fourniture de matériel de prélèvement, la collecte des échantillons et la transmission des résultats d'analyse. Toutefois, s'il apparaît à un moment donné que le laboratoire ne peut plus répondre à la demande d'analyse dans les délais requis, en raison d'une demande d'analyses trop importante notamment, le centre de tri et de prélèvement pourra demander de basculer vers la plateforme fédérale.
+Le fait d'opter, dès le début ou un peu plus tard, pour la plateforme fédérale implique que le centre de tri et de prélèvement continuera à travailler exclusivement avec la plateforme fédérale aussi longtemps que la demande globale de matériel de prélèvement et d'analyses de laboratoire sera excédentaire par rapport aux capacités que peuvent offrir les laboratoires traditionnels (privés ou hospitaliers). Le Centre national de Référence assure un suivi des paramètres nécessaires pour mesurer le caractère excédentaire ou non de cette demande.
+5. Approvisionnement et financement des centres de tri et de prélèvement (règles générales)
+A. Equipements de protection individuelle
+L'approvisionnement des centres de tri et de prélèvement en équipements de protection individuelle est organisé et financé par l'autorité fédérale. La répartition des équipements de protection tient compte du nombre d'habitants pouvant être desservis par le centre de tri et de prélèvement. Une intervention de l'INAMI sera prévue pour les frais occasionnés aux centres de tri et de prélèvement en raison de l'indisponibilité de certains équipement de protection entre le 16 mars et le 4 mai 2020.
+L'organisation précise au sein du centre de tri et de prélèvement (par exemple la création d'une éventuelle `antenne' pour la fonction de prélèvement) n'a pas d'impact en ce qui concerne la livraison de matériel de protection. Le centre de tri et de prélèvement est considéré par les autorités comme une seule entité et est le seul point de contact pour les livraisons de matériel. Le centre est responsable de la distribution vers ses lieux d'activité en fonction des besoins.
+B. Matériel de prélèvement
+La fourniture de matériel de prélèvement aux centres de tri et de prélèvement dépend du "circuit de laboratoire" choisi par le centre : soit via la plate-forme fédérale, soit via un laboratoire privé ou hospitalier.
+L'autorité fédérale finance ce matériel et les analyses des tests dans le cadre des accords avec la plate-forme fédérale ou via les règles classiques de remboursement de l'assurance maladie et invalidité.
+C. Financement des frais de démarrage
+Afin de rémunérer l'activité et le temps consacré par les médecins qui ont participé à la création du centre de tri et de prélèvement pendant la période précédant son ouverture, et tenant compte de la perte d'honoraires associés à leur activité régulière, chaque centre recevra un montant maximum de 7 230,60 euros qui sera pris en charge par l'INAMI (comme prévu par l'AR n° 20).
+Le montant à verser sera déterminé par arrêté royal et tiendra compte du nombre d'habitants et du nombre de médecins généralistes participants.
+D. Financement des frais médicaux
+L'autorité fédérale intervient, par le biais de l'INAMI, dans le financement de la coordination médicale du centre de tri et de prélèvement, des prestations des médecins et des infirmiers, ainsi que dans le coûts du personnel administratif de soutien.
+Le financement de la fonction de tri des centres de tri et de prélèvement est réglementé par l'AR n° 20 : financement des médecins (coordination et examens cliniques), des infirmières et du soutien administratif pour cette activité.
+Pour la période à partir du 4 mai 2020 (date à laquelle la fonction de prélèvement a été ajoutée aux tâches des centres de tri et de prélèvement), un arrêté royal sera proposé en application de l'article 51 de l'arrêté royal n° 20, qui prévoira un financement forfaitaire de la fonction de prélèvement sur la base d'un quota de maximum 36 heures/jour pour l'organisation de l'activité médicale par les médecins et les infirmiers.
+En fonction des besoins du centre (coordination, examens et achats), le responsable médical et le responsable administratif évaluent la nécessité de déployer des médecins et des infirmières.
+Pour le nombre d'heures prestées par un médecin ou un infirmier, une indemnité forfaitaire est remboursée au taux respectivement de 80,34 euros, ou de 47,25 euros par heure. En outre, une indemnité forfaitaire pour le soutien administratif de 34,96 euros par heure (max. 12 heures par jour) est prévue.
+Les prestations qui seraient effectuées par du personnel hospitalier mis à disposition du centre de tri et de prélèvement ne seront pas rémunérées en raison du double financement qui en résulterait.
+L'organisation précise au sein du centre de tri et de prélèvement (par exemple la création d'une éventuelle `antenne' pour la fonction de prélèvement) n'a pas d'impact en ce qui concerne le financement par l'assurance maladie. Le centre est considéré comme une seule entité et est le seul point de contact pour l'INAMI.
+Ce centre devra indiquer clairement quel organisme de soins agréé est responsable du fonctionnement du centre, ainsi que le(s) cercle(s) de médecins généralistes coordonnant le centre et le nombre d'habitants dans la région couverte par le centre.
+E. Intervention dans les frais de fonctionnement
+En ce qui concerne le remboursement des frais de fonctionnement, chaque entité fédérée fixe les conditions dans lesquelles elle prend en charge les frais de fonctionnement de ces centres
+A cet effet, les principes généraux suivants sont retenus :
+- les coûts déjà remboursés par une autorité ne peuvent pas être pris en compte; cela s'applique, par exemple, à un certain nombre de frais de fonctionnement des postes de garde et des hôpitaux s'ils mettent des infrastructures ou des équipements à la disposition des centres de tri et de prélèvement;
+- les coûts des équipements de protection ne peuvent pas être pris en charge car ils sont mis à disposition par l'autorité fédérale;
+- aucun coût de licences informatiques ne pourra être imposé aux centres de tri et de prélèvement dans le cadre de leurs obligations en matière d'enregistrement de données et de communication avec les laboratoires de biologie clinique; pour leur permettre de répondre à ces obligations, des solutions informatiques gratuites seront dès lors mises à disposition;
+- les coûts d'utilisation et d'entretien des bâtiments appartenant aux autorités publiques locales seront à charge de ces autorités sur la base de consultations ad hoc;
+Sur la base de ces principes, chaque entité fédérée définira les règles selon lesquelles elle intervient dans les frais de fonctionnement des centres de tri et de prélèvement. Le cas échéant, une distinction sera faite entre la période du 16 mars au 3 mai 2020 et la période débutant le 4 mai, date de démarrage des fonctions de prélèvement au sein des centres.
+Les principes et orientations retenus par les différentes entités fédérées sont décrits ci-après.
+6. Approvisionnement et financement des centres de tri et de prélèvement (règles spécifiques par entité fédérée)
+A. En Flandre
+Le gouvernement flamand veut s'engager à financer, par le biais d'un paiement forfaitaire, les coûts d'infrastructure, d'énergie, de services d'utilité publique et d'exploitation non médicale.
+Ce forfait ne couvrira cependant pas :
+- Les frais de personnel couverts par l'INAMI
+- Le matériel de protection individuelle à charge de l'autorité fédérale
+- Les montants engagés par les autorités locales avant la date du 4 mai 2020
+- D'éventuels frais liés à des licences informatiques destinées à traiter les données relatives aux prélèvements et analyses de laboratoires.
+L'intervention forfaitaire de l'autorité flamande sera accompagnée de mesures visant à rencontrer les principes suivants :
+- une réduction du nombre de fonctions de triage, par fermeture ou fusion, à 1/100 000 (environ une par zone de première ligne)
+- l'installation des centres dans des lieux durables en créant des synergies entre les hôpitaux, les postes de garde, les autorités locales et les provinces
+- l'organisation des centres a été approuvée par le cercle des médecins généralistes organisateurs
+- l'autorité flamande devra approuver les décisions d'ouverture et de fermeture des sites et sera tenue informée en ce qui concerne les antennes
+- pas de double financement prévu (si un financement fédéral est déjà prévu pour l'infrastructure, par exemple via un financement d'hôpital ou de poste de garde, il n'y aura pas de financement à partir de la Flandre).
+B. En Wallonie
+Le gouvernement wallon s'engage à soutenir l'organisation des centres en intervenant dans les coûts non pris en charge par d'autres instances ou d'autres biais en termes d'infrastructure, d'énergie, de services d'utilité publique et d'exploitation non médicale.
+Ce forfait ne couvrira cependant pas :
+- les frais de personnel couverts par l'INAMI
+- le matériel de protection individuelle à charge de l'autorité fédérale
+- les montants engagés par les autorités locales avant la date du 4 mai 2020
+- d'éventuels frais liés à des licences informatiques destinées à traiter les données relatives aux prélèvements et analyses de laboratoires.
+L'intervention de la Wallonie sera accompagnée de mesures visant à rencontrer les principes suivants :
+- l'installation des centres dans des lieux durables en créant des synergies entre les hôpitaux, les postes de garde, les autorités locales et les provinces
+- l'approbation par le(s) cercle(s) de médecins généralistes de l'organisation des centres
+- l'approbation préalable par l'autorité wallonne de la décision d'ouverture et de fermeture des sites et l'information de ce qui sera mis en place en ce qui concerne les antennes
+- pas de double financement prévu (si un financement fédéral est déjà prévu pour l'infrastructure, par exemple via un financement d'hôpital ou de poste de garde, il n'y aura pas de financement de la Wallonie).
+C. A Bruxelles
+Concernant la Commission communautaire commune, les moyens éventuellement nécessaires pour couvrir les frais de fonctionnement des centres de tri et de prélèvement seront définis sur la base du plan global « stratégie de testing et de triage » arrêté par la COCOM en concertation avec la FAMGB/FBHAV et les Fédérations hospitalières.
+Il sera tenu compte d'une répartition permettant une accessibilité suffisante et d'une solution adaptée au moyen terme.
+Dans l'entretemps, les centres de tri et de prélèvement existants sont les seuls à pouvoir exercer la fonction de prélèvement.
+D. En Communauté germanophone
+La Communauté germanophone soutient centres de tri et de prélèvement et les hôpitaux par le biais du subventionnement des projets d'infrastructure et des travaux de remise en état ainsi que par le soutien pour l`acquisition d'appareils médicaux et non médicaux.
+Les centres de tri et de prélèvement sont en contacts hebdomadaires avec les représentants de la Communauté germanophone. Ainsi, leur questions et besoins peuvent rapidement être traités.
+La Communauté germanophone répond également aux éventuelles demandes urgentes en matériel des centres de tri et de prélèvement (en complément au soutien de l'Etat fédéral).
+Pour les prélèvements effectués au centre de tri et de prélèvement ou à domicile, la Communauté germanophone fournit un soutien logistique aux centres. Le personnel de différents institutions dans la Communauté germanophone soutient temporairement le personnel des centres.
+7. Monitoring des centres de tri et de prélèvement
+Le rôle des centres de tri et de prélèvement s'inscrit dans une chaîne d'actions qui englobent tant le volet curatif (soins aux patients infectés) que le volet préventif (détection des personnes qui ont eu des contacts étroits avec les patients infectés etc.).
+Pour que l'ensemble du système fonctionne, mais également pour faciliter le travail administratif au niveau des centres de tri et de prélèvement, toutes les informations nécessaires pour le financement des centres de tri, pour la fourniture du matériel de protection ou de prélèvement ou encore les informations relatives à l'accessibilité des centres qui doivent être disponibles pour les médecins généralistes référents et pour le call center chargé du suivi des contacts seront centralisées dans une base de données unique mise à disposition par l'autorité fédérale.
+Les centres de tri et de prélèvement seront chargés de renseigner dans cette base de données, en temps utile et de manière qualitative, les informations relatives :
+- au(x) cercle(s) de médecins généralistes assurant la coordination médicale du centre
+- aux personnes responsables du centre sur le plan médical et administratif, ainsi que pour les livraisons de matériel
+- aux choix réalisés en termes de localisation de leurs fonctions de tri et de prélèvement, ainsi que leurs heures d'accessibilité
+- à leur choix en matière de collaboration avec un laboratoire de biologie clinique
+- aux prestations médicales, infirmières et administratives réalisées quotidiennement
+- aux activités de tri et de prélèvement réalisées quotidiennement, à l'exclusion des données relatives à la fonction de prélèvement qui seraient déjà disponibles par ailleurs (dans la base de données de Sciensano notamment).
+L'absence d'informations suffisantes dans la base de données centrale entraînera une interruption dans les livraisons de matériel (de protection, voire de prélèvement) aux centres concernés ainsi que l'interruption de leur financement par l'INAMI.
+Les décisions des centres en matière d'ouverture ou de fermeture d'un lieu affecté à la fonction de prélèvement (étant entendu que la fonction de prélèvement doit toujours rester opérationnelle sur un site au moins), tout comme la décision de mettre en veilleuse ou de réactiver leur fonction de tri feront l'objet d'une concertation préalable avec l'entité fédérée dont dépend le centre.
+Ces concertations doivent permettre aux entités fédérées de respecter leurs engagements en termes de soutien en matière de financement des frais de fonctionnement des centres de tri et de prélèvement, mais également pour exercer leur rôle en termes de garantie d'accessibilité aux fonctions de tri et de prélèvement sur l'ensemble de leur territoire.
+Toutes les informations collectées dans la base de données centrale seront accessibles tant pour l'autorité fédérale que pour les entités fédérées.
+L'ensemble des données collectées - en ce compris celles relatives au circuit de `testing' et qui sont enregistrées auprès de Sciensano - devront permettre aux autorités tant fédérale que des entités fédérées de réaliser un monitoring des flux de patients dans le cadre des deux fonctions confiées aux centres de tri et de prélèvement en regard de l'activité au sein des hôpitaux et de l'activité des autres prestataires de première ligne.
+8. Futur cadre réglementaire pour l'organisation des structures de soutien et des centres de tri et de prélèvement
+L'autorité fédérale et les entités fédérées s'engagent à travailler ensemble d'ici le 30 juin 2020 pour développer les éléments d'un cadre réglementaire approprié pour une approche standardisée des structures de soutien dans le contexte d'une pandémie ou d'une situation ayant un impact similaire en termes de dispensation de soins de santé et de gestion de crise.
+Dans ce cadre, il sera déterminé - bien entendu, en s'appuyant sur les modalités définies dans le présent protocole et en s'y conformant - comment ces structures temporaires seront activées et reconnues, qui sera responsable sur le terrain du déploiement de ces structures temporaires (médecins généralistes), quelle zone géographique desservira la structure, quelles fonctions seront offertes, comment les flux de données auront lieu, quelles interventions financières peuvent être prévues, quelles exigences de qualité les structures concernées devront satisfaire.
+Des dispositions doivent également être prises pour que la mise en oeuvre des fonctions au sein de ces structures puisse être rendue obligatoire, également en ce qui concerne la disponibilité du personnel.
+Dans ce contexte, le rôle du gouvernement fédéral et des entités fédérées seront clairement identifiés, en tenant compte de la répartition actuelle des compétences.
+Entrée en vigueur
+Cet accord entre en vigueur le 20 mai 2020, date de l'approbation du protocole d'accord par la Conférence interministérielle santé publique.
+Pour l'Etat fédéral :
+M. DE BLOCK,
+Ministre des Affaires Sociales et de la Santé Publique, et de l'asile et la Migration
+Voor de Vlaamse Gemeenschap en het Vlaams Gewest :
+W. BEKE,
+Vlaams minister van Welzijn, Volksgezondheid, Gezin en Armoedebestrijding.
+Pour la Région Wallonne :
+C. MORREALE,
+Vice-Présidente et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale, de l'Egalité des chances et des Droits des femmes
+Pour la communauté française :
+B. LINARD,
+Vice-Présidente et Ministre de l'Enfance, de la Santé, de la Culture, des Médias et des Droits des Femmes
+V. GLATIGNY,
+Ministre de l'Enseignement supérieur, de l'Enseignement de la Promotion sociale, des Hôpitaux universitaires, de l'Aide à la jeunesse, des Maisons de Justice, de la Jeunesse, des Sports et de la Promotion de Bruxelles
+Pour la Commission Communautaire Commune de Bruxelles-Capitale :
+A. MARON,
+Membre du Collège réuni de la Commission communautaire commune, chargé de la Santé et Action sociale
+E. VAN DEN BRANDT,
+Lid van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie, belast met Gezondheid en Welzijn
+Pour le collège de la Commission Communautaire Française de Bruxelles-Capitale :
+A. MARON,
+Membre du Collège de la Commission communautaire française chargé de la Santé et de l'Action sociale
+Für die Deutschsprachige Gemeinschaft :
+Pour la Communauté germanophone :
+A. ANTONIADIS,
+Vize-Ministerpräsident und Minister für Gesundheit und Soziales, Raumordnung und Wohnungswesen

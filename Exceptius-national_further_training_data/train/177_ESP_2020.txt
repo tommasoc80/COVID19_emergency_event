@@ -1,0 +1,96 @@
+Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Servicio de elaboración de información agregada y anonimizada para el análisis de la movilidad durante la vuelta a la normalidad tras el Estado de Alarma por Covid-19 (Estudio de movilidad EM-3) a partir de la base de datos Luca Transit. Expediente: 2020N0060003.
+2020
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Instituto Nacional de Estadística INE.
+          1.2) Número de identificación fiscal: 
+          Q2826039F.
+          1.3) Dirección: 
+          Paseo de la Castellana 183.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28046.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.11) Correo electrónico: 
+          mesacon@ine.es
+          1.12) Dirección principal: 
+          http://www.ine.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=nGgJs0%2B1wXw%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Economía y Hacienda.
+        
+      4. Códigos CPV:
+      64212000 (Servicios de telefonía móvil).
+      5. Lugar principal de prestación de los servicios:
+      ES300.
+      6. Descripción de la licitación:
+      Servicio de elaboración de información agregada y anonimizada para el análisis de la movilidad durante la vuelta a la normalidad tras el Estado de Alarma por Covid-19 (Estudio de movilidad EM-3) a partir de la base de datos Luca Transit.
+      7. Tipo de procedimiento de adjudicación: 
+      Negociado sin publicidad.
+      9. Criterios de adjudicación: 
+      Proposición económica (Ponderación: 100%).
+      10. Fecha de adjudicación: 
+      27 de septiembre de 2020.
+      11. Ofertas recibidas: 
+      
+        11.1) Número de ofertas recibidas: 
+          1.
+          11.2) Número de ofertas recibidas de PYMEs: 
+          1.
+        
+      12. Adjudicatarios: 
+      
+        12.1) Nombre: 
+          TELEFÓNICA SOLUCIONES DE INFORMATICA Y COMUNICACIONES DE ESPAÑA, S.A.U.
+          12.2) Número de identificación fiscal: 
+          A78053147.
+          12.3) Dirección: 
+          Ronda de la Comunicación (Ed Norte I), SN.
+          12.4) Localidad: 
+          Madrid.
+          12.6) Código postal: 
+          28050.
+          12.7) País: 
+          España.
+          12.13) 
+          El adjudicatario es una PYME.
+        
+      13. Valor de las ofertas: 
+      
+        13.1) Valor de la oferta seleccionada: 
+          123.000,00 euros.
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              Registro del INE.
+              16.1.2) Dirección: 
+              Estebanez Calderon 2.
+              16.1.3) Localidad: 
+              Madrid.
+              16.1.5) Código postal: 
+              28046.
+              16.1.6) País: 
+              España.
+            
+        
+      18. Fecha de envío del anuncio: 
+      4 de noviembre de 2020.
+    Madrid, 4 de noviembre de 2020.- El Presidente del INE, Juan Manuel Rodríguez Poo.

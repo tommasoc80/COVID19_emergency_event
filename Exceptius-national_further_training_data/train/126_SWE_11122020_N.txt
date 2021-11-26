@@ -1,0 +1,43 @@
+Lag
+om ändring i lagen (2012:453) om register över nationella 
+vaccinationsprogram
+Utfärdad den 10 december 2020
+Enligt riksdagens beslut1
+föreskrivs att rubriken till lagen (2012:453) om 
+register över nationella vaccinationsprogram samt 1 och 6–8 §§ ska ha följande lydelse.
+Lag om register över nationella vaccinationsprogram 
+m.m.
+1 §
+2
+ Denna lag tillämpas vid behandling av personuppgifter i Folkhälsomyndighetens verksamhet när det gäller nationella vaccinationsprogram och 
+vaccinationer mot sjukdomen covid-19 (vaccinationsregistret).
+Lagen gäller endast om behandlingen är helt eller delvis automatiserad 
+eller om personuppgifterna ingår i eller är avsedda att ingå i en strukturerad 
+samling av personuppgifter som är tillgängliga för sökning eller sammanställning enligt särskilda kriterier.
+6 §
+3
+ Personuppgifter får behandlas för
+1. framställning av statistik,
+2. uppföljning, utvärdering och kvalitetssäkring av nationella vaccinationsprogram och vaccinationer mot sjukdomen covid-19, samt
+3. forskning och epidemiologiska undersökningar.
+Personuppgifter som behandlas för de ändamål som anges i första stycket
+får också behandlas för att fullgöra uppgiftsutlämnande som sker i överensstämmelse med lag eller förordning. Personuppgifterna får även behandlas 
+för andra ändamål, under förutsättning att uppgifterna inte behandlas på ett 
+sätt som är oförenligt med det ändamål för vilket uppgifterna samlades in.
+7 § För de ändamål som anges i 6 § får endast följande uppgifter behandlas:
+1. datum för vaccinationen,
+2. den vaccinerades personnummer eller samordningsnummer,
+3. vilket vaccin som har använts,
+4. satsnummer,
+5. den vårdgivare som har ansvarat för vaccinationen, och
+6. den vaccinerades folkbokföringsort.
+När det gäller vaccinationer mot sjukdomen covid-19 får för de ändamål SFS 2020:1194
+som anges i 6 § dessutom uppgift om vaccinationens dosnummer behandlas.
+8 § Den vårdgivare som har ansvarat för vaccinationen ska lämna de uppgifter som avses i 7 § första stycket 1–5 till vaccinationsregistret. 
+Den vårdgivare som har ansvarat för en vaccination mot sjukdomen 
+covid-19 ska dessutom lämna uppgift om vaccinationens dosnummer.
+Denna lag träder i kraft den 1 januari 2021.
+På regeringens vägnar
+LENA HALLENGREN
+Lars Hedengran
+(Socialdepartementet)

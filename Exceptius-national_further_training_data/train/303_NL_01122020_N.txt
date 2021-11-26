@@ -1,0 +1,615 @@
+Autorisatiebesluit voor de Minister van Volksgezondheid, Welzijn en Sport ten behoeve van het Rijksinstituut voor Volksgezondheid en Milieu in verband met de uitbreiding van het Rijksvaccinatieprogramma met een vaccinatie tegen een infectie veroorzaakt door SARS-CoV-2, Rijksdienst voor Identiteitsgegevens
+Datum 19 november 2020
+
+Kenmerk 2020-0000660990
+
+In het verzoek van 16 november 2020, met kenmerk 2020-0000669537, heeft de Minister van Volksgezondheid, Welzijn en Sport ten behoeve van het Rijksinstituut voor Volksgezondheid en Milieu verzocht om autorisatie voor de systematische verstrekking van gegevens uit de basisregistratie personen in verband met de uitbreiding van het Rijksvaccinatieprogramma met een vaccinatie tegen een infectie veroorzaakt door SARS-CoV-2.
+
+Gelet op de artikelen 3.1 en 3.2 van de Wet basisregistratie personen wordt op dit verzoek als volgt besloten.
+
+Paragraaf 1. Begripsbepalingen
+Artikel 1
+In dit besluit wordt verstaan onder:
+
+a. de Minister van VWS:
+de Minister van Volksgezondheid, Welzijn en Sport ten behoeve van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM);
+
+b. de Wet BRP:
+de Wet basisregistratie personen;
+
+c. het Besluit BRP:
+het Besluit basisregistratie personen;
+
+d. de basisregistratie personen:
+de basisregistratie personen, bedoeld in artikel 1.2 van de Wet BRP;
+
+e. de systematische verstrekking:
+de systematische verstrekking, bedoeld in artikel 1.1, onder g, van de Wet BRP;
+
+f. de systeembeschrijving:
+de systeembeschrijving, bedoeld in artikel 1 van het Besluit BRP;
+
+g. de persoonslijst:
+de persoonslijst, bedoeld in artikel 1.1, onder c, van de Wet BRP;
+
+h. de ingeschrevene:
+de ingeschrevene, bedoeld in artikel 1.1, onder e, van de Wet BRP;
+
+i. de ingezetene:
+de ingezetene, bedoeld in artikel 1.1, onder f, van de Wet BRP;
+
+j. de niet-ingezetene:
+de persoon die geen ingezetene is, maar wel een geregistreerd BRP-woonadres in Nederland heeft (hoofdzakelijk geprivilegieerden en NAVO-militairen);
+
+k. autorisatietabelregel:
+de tabel ten behoeve van de systematische verstrekking van gegevens, bedoeld in artikel 1.1, onder g, van de Wet BRP;
+
+l. de afnemersindicatie:
+de codering die de Minister van VWS aanduidt in verband met de uitvoering van dit besluit en die is vermeld in de autorisatietabelregel;
+
+m. de spontane verstrekking van gegevens:
+de verstrekking van gegevens, bedoeld in artikel 37, eerste lid, onder a, van het Besluit BRP;
+
+n. de verstrekking van gegevens op verzoek:
+de verstrekking van gegevens, bedoeld in artikel 37, eerste lid, onder c, van het Besluit BRP, waarbij het aantal personen waarover informatie wordt verstrekt per verzoek ten hoogste tien bedraagt;
+
+o. een actueel gegeven:
+een gegeven dat overeenkomstig de systeem-beschrijving als actueel gegeven in de basisregistratie personen is vermeld;
+
+p. een infrastructurele wijziging:
+een wijziging van de Categorie Verblijfplaats die overeenkomstig de systeembeschrijving wordt beschouwd als een infrastructurele wijziging;
+
+q. de Rijksdienst voor Identiteitsgegevens:
+de Rijksdienst voor Identiteitsgegevens van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties;
+
+r. het Rijksvaccinatieprogramma:
+het door de Minister van VWS vastgestelde vaccinatieprogramma ter voorkoming van ernstige infectieziekten in Nederland;
+
+s. het Rijksvaccinatieprogramma tegen een infectie veroorzaakt door SARS-CoV-2:
+het vaccinatieprogramma als bedoeld in artikel 11 lid 1 onder c van het concept Besluit publieke gezondheid.
+
+Paragraaf 2. De spontane verstrekking van gegevens aan de Minister van VWS
+Artikel 2
+1.Zodra de afnemersindicatie bij de persoonslijst van een ingeschrevene is opgenomen worden aan de Minister van VWS eenmaal de gegevens verstrekt die zijn opgenomen in bijlage I bij dit besluit voor zover deze gegevens zijn opgenomen op de persoonslijst van de ingeschrevene.
+
+2.Indien een gegeven dat is opgenomen in bijlage I op de persoonslijst van een ingeschrevene wordt gewijzigd, verwijderd of opgenomen en de afnemersindicatie als actuele aanduiding bij deze persoonslijst is vermeld, krijgt de Minister van VWS deze wijziging, verwijdering of opname van het gegeven verstrekt.
+
+3.De verstrekking bevat bij de wijziging van een gegeven het gegeven zoals dit luidde voor de wijziging en het gegeven zoals dit luidt na de wijziging. Bij een verwijdering van een gegeven bevat de verstrekking het verwijderde gegeven. Bij een eerste opneming van een gegeven op de persoonslijst bevat de verstrekking het opgenomen gegeven. De verstrekking bevat tevens het administratienummer van de ingeschrevene, dat als actueel gegeven op de persoonslijst is vermeld.
+
+4.De verstrekking aan de Minister van VWS naar aanleiding van de wijziging van het administratienummer van de ingeschrevene bevat een set identificerende gegevens en de ingangsdatum geldigheid met betrekking tot de elementen van de categorie Persoon. De verstrekking vindt plaats overeenkomstig hetgeen is bepaald in de systeembeschrijving.
+
+Artikel 3
+1.Zodra het gegeven “geboortedatum persoon”, het gegeven “omschrijving reden opschorting bijhouding”, het gegeven “gemeente van inschrijving” of het gegeven “land adres buitenland” op de persoonslijst van een ingeschrevene is opgenomen of gewijzigd, wordt de afnemersindicatie bij de persoonslijst van deze ingeschrevene geplaatst, indien:
+
+a.de persoonslijst van de ingeschrevene niet is opgeschort, of
+
+b.op de persoonslijst in de rubriek 18.13.10 “land adres buitenland” de landcode Nederland is opgenomen en de rubriek 06.08.10 “datum overlijden” niet voorkomt.
+
+2.De afnemersindicatie wordt tevens op verzoek van de Minister van VWS bij de persoonslijst van een ingeschrevene opgenomen. De Minister van VWS verzoekt slechts om de opneming indien de spontane verstrekking van gegevens over de ingeschrevene noodzakelijk is voor de uitvoering van het Rijksvaccinatie-programma tegen een infectie veroorzaakt door SARS-CoV-2.
+
+3.De afnemersindicatie wordt niet bij de persoonslijst van een ingeschrevene opgenomen, indien de afnemersindicatie reeds als actuele aanduiding bij de persoonslijst van de ingeschrevene is vermeld.
+
+Artikel 4
+De afnemersindicatie wordt op verzoek van de Minister van VWS verwijderd als actuele aanduiding bij de persoonslijst van een ingeschrevene. De Minister van VWS verzoekt in ieder geval om de verwijdering, indien de spontane verstrekking van gegevens over de ingeschrevene niet of niet meer noodzakelijk is voor de uitvoering van het Rijksvaccinatieprogramma tegen een infectie veroorzaakt door SARS-CoV-2.
+
+Paragraaf 3. De verstrekking van gegevens op verzoek aan de Minister van VWS
+Artikel 5
+1.Aan de Minister van VWS wordt op zijn verzoek een gegeven verstrekt dat is vermeld op de persoonslijst van een ingeschrevene, indien het een gegeven betreft dat is opgenomen in bijlage II bij dit besluit.
+
+2.De Minister van VWS verzoekt slechts om een gegeven dat is opgenomen in bijlage II, indien de verstrekking van gegevens noodzakelijk is voor de uitvoering van het Rijksvaccinatieprogramma tegen een infectie veroorzaakt door SARS-CoV-2.
+
+3.Aan de Minister van VWS worden geen gegevens verstrekt, indien een of meer van de gegevens waarvan de Minister van VWS bij zijn verzoek gebruik heeft gemaakt, niet is opgenomen in bijlage II bij dit besluit.
+
+Paragraaf 4. Overige verstrekkingen aan de Minister van VWS
+Artikel 6
+1.Indien de gegevensverstrekking die op grond van dit besluit aan de Minister van VWS dient plaats te vinden niet of op onjuiste wijze is geschied, wordt dit overeenkomstig hetgeen hierover is geregeld in de systeembeschrijving hersteld. Indien de afnemersindicatie ten onrechte niet bij een persoonslijst is geplaatst, ten onrechte is verwijderd of ten onrechte niet is verwijderd wordt dit hersteld overeenkomstig hetgeen hierover is bepaald in de systeembeschrijving.
+
+2.Indien een verstrekking aan de Minister van VWS op grond van dit besluit een gegeven betreft dat op juistheid wordt of is onderzocht, bevat de verstrekking naast dit gegeven tevens de gegevens over dat onderzoek. Indien de afnemersindicatie als actuele aanduiding bij de persoonslijst is vermeld worden tevens gegevens over het begin, de wijziging of de beëindiging van het onderzoek zelf verstrekt.
+
+3.Indien de spontane verstrekking van gegevens aan de Minister van VWS een gegeven bevat waarbij “indicatie onjuist dan wel strijdigheid met de openbare orde” is vermeld, bevat de verstrekking tevens deze indicatie. De overige verstrekkingen aan de Minister van VWS die plaatsvinden op grond van dit besluit bevatten geen gegevens waarbij “indicatie onjuist dan wel strijdigheid met de openbare orde” is vermeld.
+
+4.Indien aan de Minister van VWS gegevens worden verstrekt van een persoonslijst waarvan de bijhouding is opgeschort, bevat de verstrekking tevens de gegevens omtrent de reden en de datum van de opschorting, alsmede, voor zover deze gegevens zijn opgenomen op de persoonslijst, gegevens over de verificatie en de aanlevering van de verstrekte gegevens.
+
+5.Bij de afvoering van een persoonslijst uit de basisregistratie personen worden aan de Minister van VWS, indien de code “fout” als omschrijving reden opschorting bijhouding op de persoonslijst is vermeld en de afnemersindicatie als actuele aanduiding bij de persoonslijst is vermeld, de volgende gegevens verstrekt:
+
+a.A-nummer persoon;
+
+b.omschrijving reden opschorting bijhouding;
+
+c.datum opschorting bijhouding.
+
+Paragraaf 5. De verzending en de ontvangst van berichten
+Artikel 7
+Indien als gevolg van infrastructurele wijzigingen aan de Minister van VWS op grond van dit besluit gegevens moeten worden verstrekt, kan de Minister van VWS met de Rijksdienst voor Identiteitsgegevens overeenkomen dat de gegevens niet worden verstrekt. De overeenstemming tussen de Rijksdienst voor Identiteitsgegevens en de Minister van VWS wordt schriftelijk vastgelegd.
+
+Artikel 8
+Nadat schriftelijke overeenstemming is bereikt met de Rijksdienst voor Identiteitsgegevens kan de Minister van VWS gebruik maken van een alternatief medium als bedoeld in de systeembeschrijving bij verstrekking van gegevens als bedoeld in paragraaf 2 in geval van verstrekking van gegevens als gevolg van infrastructurele wijzigingen.
+
+Paragraaf 6. Slotbepalingen
+Artikel 9
+1.De Minister van VWS verstrekt aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties onverwijld alle nieuw gebleken informatie die betrekking heeft op hetgeen geregeld is in dit besluit.
+
+2.Deze informatie betreft in ieder geval wijzigingen in:
+
+a.de taak of de wijze van uitvoering van de taak van de Minister van VWS;
+
+b.de regelgeving ten aanzien van de taak of de wijze van uitvoering van de taak van de Minister van VWS;
+
+c.de gegevens uit de basisregistratie personen die noodzakelijk zijn voor de uitvoering van de taak van de Minister van VWS.
+
+Artikel 10
+Dit besluit treedt in werking met ingang van 19 november 2020.
+
+Het besluit en de bijl agen bij het besluit worden gepubliceerd in de Staatscourant.
+
+‘s-Gravenhage, 19 november 2020
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,
+namens deze,
+F.G.A.M. Jacob
+Directeur Uitvoering Rijksdienst voor Identiteitsgegevens
+
+Bezwaar
+
+Belanghebbenden kunnen binnen zes weken na bekendmaking van dit besluit daartegen per brief bezwaar maken bij de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, Postbus 10451, 2501 HL Den Haag. Het bezwaarschrift moet zijn ondertekend, voorzien zijn van een datum alsmede de naam en het adres van de indiener en dient vergezeld te gaan van de gronden waarop het bezwaar berust en, zo mogelijk, een afschrift van het besluit waartegen het bezwaar is gericht.
+
+BIJLAGE I
+Bijlage bij artikel 2 van dit besluit.
+
+RUBRIEK
+
+OMSCHRIJVING
+
+ 	 
+01
+
+PERSOON
+
+ 	 
+01.01.10
+
+A-nummer persoon
+
+01.01.20
+
+Burgerservicenummer persoon
+
+01.02.10
+
+Voornamen persoon
+
+01.02.20
+
+Adellijke titel/predicaat persoon
+
+01.02.30
+
+Voorvoegsel geslachtsnaam persoon
+
+01.02.40
+
+Geslachtsnaam persoon
+
+01.03.10
+
+Geboortedatum persoon
+
+01.03.30
+
+Geboorteland persoon
+
+01.04.10
+
+Geslachtsaanduiding
+
+ 	 
+06
+
+OVERLIJDEN
+
+ 	 
+06.08.10
+
+Datum overlijden
+
+ 	 
+07
+
+INSCHRIJVING
+
+ 	 
+07.70.10
+
+Indicatie geheim
+
+ 	 
+08
+
+VERBLIJFPLAATS
+
+ 	 
+08.09.10
+
+Gemeente van inschrijving
+
+08.10.10
+
+Functie adres
+
+08.11.10
+
+Straatnaam
+
+08.11.20
+
+Huisnummer
+
+08.11.30
+
+Huisletter
+
+08.11.40
+
+Huisnummertoevoeging
+
+08.11.50
+
+Aanduiding bij huisnummer
+
+08.11.60
+
+Postcode
+
+08.11.70
+
+Woonplaatsnaam
+
+08.12.10
+
+Locatiebeschrijving
+
+08.13.10
+
+Land adres buitenland
+
+08.13.20
+
+Datum aanvang adres buitenland
+
+08.13.30
+
+Regel 1 adres buitenland
+
+08.13.40
+
+Regel 2 adres buitenland
+
+08.13.50
+
+Regel 3 adres buitenland
+
+08.14.10
+
+Land vanwaar ingeschreven
+
+08.14.20
+
+Datum vestiging in Nederland
+
+08.85.10
+
+Ingangsdatum geldigheid met betrekking tot de elementen van de categorie Verblijfplaats
+
+BIJLAGE II
+Bijlage bij artikel 5 van dit besluit.
+
+RUBRIEK
+
+OMSCHRIJVING
+
+ 	 
+01
+
+PERSOON
+
+ 	 
+01.01.10
+
+A-nummer persoon
+
+01.01.20
+
+Burgerservicenummer persoon
+
+01.02.10
+
+Voornamen persoon
+
+01.02.20
+
+Adellijke titel/predicaat persoon
+
+01.02.30
+
+Voorvoegsel geslachtsnaam persoon
+
+01.02.40
+
+Geslachtsnaam persoon
+
+01.03.10
+
+Geboortedatum persoon
+
+01.03.30
+
+Geboorteland persoon
+
+01.04.10
+
+Geslachtsaanduiding
+
+01.10.10
+
+Vorig A-nummer
+
+ 	 
+06
+
+OVERLIJDEN
+
+ 	 
+06.08.10
+
+Datum overlijden
+
+ 	 
+07
+
+INSCHRIJVING
+
+ 	 
+07.70.10
+
+Indicatie geheim
+
+ 	 
+08
+
+VERBLIJFPLAATS
+
+ 	 
+08.09.10
+
+Gemeente van inschrijving
+
+08.10.10
+
+Functie adres
+
+08.11.10
+
+Straatnaam
+
+08.11.20
+
+Huisnummer
+
+08.11.30
+
+Huisletter
+
+08.11.40
+
+Huisnummertoevoeging
+
+08.11.50
+
+Aanduiding bij huisnummer
+
+08.11.60
+
+Postcode
+
+08.11.70
+
+Woonplaatsnaam
+
+08.12.10
+
+Locatiebeschrijving
+
+08.13.10
+
+Land adres buitenland
+
+08.13.20
+
+Datum aanvang adres buitenland
+
+08.13.30
+
+Regel 1 adres buitenland
+
+08.13.40
+
+Regel 2 adres buitenland
+
+08.13.50
+
+Regel 3 adres buitenland
+
+08.14.10
+
+Land vanwaar ingeschreven
+
+08.14.20
+
+Datum vestiging in Nederland
+
+08.85.10
+
+Ingangsdatum geldigheid met betrekking tot de elementen van de
+
+categorie Verblijfplaats
+
+ 	 
+TOELICHTING1. Algemeen
+Inleiding
+
+De Wet basisregistratie personen (Wet BRP) vormt de juridische basis voor de basisregistratie personen. In de basisregistratie personen zijn persoonsgegevens opgeslagen in de vorm van persoonslijsten.
+
+De basisregistratie personen bevat gegevens over personen die zijn ingeschreven bij een van de gemeenten in Nederland. De gemeenten houden deze gegevens bij.
+
+Verder zijn in de basisregistratie personen gegevens opgenomen van personen die buiten Nederland woonachtig zijn, zogenoemde niet-ingezetenen. Gegevens van niet-ingezetenen worden bijgehouden door de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Deze registratie van niet-ingezetenen in de basisregistratie personen wordt aangeduid als de Registratie Niet-Ingezetenen (RNI). Over niet-ingezetenen wordt een beperkter aantal gegevens bijgehouden dan over ingezetenen. De gegevens in de RNI zijn niet aangemerkt als authentieke gegevens. Gegevens over niet-ingezetenen kunnen namelijk minder gemakkelijk actueel gehouden worden dan gegevens over ingezetenen.
+
+De Wet BRP biedt de grondslag voor systematische gegevensverstrekking over ingezetenen en niet-ingezetenen aan overheidsorganen en daartoe aangewezen andere organisaties. Bij de systematische verstrekking worden vanuit een centraal bestand op geautomatiseerde wijze persoonsgegevens uit de basisregistratie personen verstrekt.
+
+Organisaties die in aanmerking komen voor systematische gegevensverstrekking
+
+Allereerst komen overheidsorganen in aanmerking voor systematische gegevensverstrekking uit de basisregistratie personen. Daarnaast kunnen ook organisaties die werkzaamheden verrichten met een gewichtig maatschappelijk belang daarvoor in aanmerking komen, indien deze werkzaamheden en deze organisaties op grond van artikel 3.3 van de Wet BRP zijn aangewezen. Voorts voorziet artikel 3.13 Wet BRP in systematische gegevensverstrekking aan onderzoeksinstellingen. Waar in het vervolg van deze toelichting zal worden gesproken over "de afnemer" worden daarmee zowel overheidsorganen als derden als onderzoeksinstellingen bedoeld.
+
+Het autorisatiebesluit
+
+Afnemers die systematisch gegevens verstrekt willen krijgen uit de basisregistratie personen dienen hiertoe een verzoek in bij de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Het verzoek wordt gedaan in de vorm van een autorisatieaanvraagformulier. In dit formulier is aangegeven welke gegevens, over welke personen en voor welke taken de aanvrager op systematische wijze verstrekt wenst te krijgen. Het verzoek wordt getoetst, waarbij wordt uitgegaan van de beoordelingscriteria zoals deze zijn neergelegd in de Wet BRP en het Besluit basisregistratie personen (Besluit BRP). Onder meer bepalend is of en in hoeverre de verstrekking van de gegevens noodzakelijk is voor de goede vervulling van de taak van de aanvrager. Hierbij wordt steeds de bescherming van de persoonlijke levenssfeer van de personen, van wie de aanvrager gegevens verstrekt wenst te krijgen, gewaarborgd.
+
+Na toetsing van het autorisatieverzoek wordt door de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties een autorisatiebesluit ten behoeve van de aanvrager genomen. In dit autorisatiebesluit wordt bepaald welke gegevens over welke categorieën van personen en in welke gevallen aan de afnemer worden verstrekt. Aan het autorisatiebesluit kunnen voorschriften en beperkingen worden verbonden in het belang van een zorgvuldige en doelmatige gegevensverstrekking.
+
+Het autorisatiebesluit wordt voor zover mogelijk technisch vertaald in een zogenoemde autorisatietabelregel. Aan de hand van de autorisatietabelregel wordt de geautoriseerde afnemer herkend en kan de gegevensverstrekking vanuit de basisregistratie personen geautomatiseerd afgewikkeld worden.
+
+2. Toelichting op de wijzen van verstrekken
+De systematische gegevensverstrekking uit de basisregistratie personen kan op verschillende wijzen plaatsvinden. Op grond van dit besluit vindt de verstrekking op de volgende manieren plaats:
+
+De spontane verstrekking van gegevens
+
+Met behulp van de spontane verstrekking van gegevens kan een afnemer zijn eigen bestand actueel houden. De afnemer wordt met behulp van deze gegevensverstrekking op de hoogte gehouden van mutaties in de gegevens van de personen die tot de doelgroep van de afnemer behoren. Om de spontane verstrekking mogelijk te maken moeten de persoonslijsten van deze personen worden gemarkeerd. De markering vindt plaats door het opnemen van de afnemersindicatie van de afnemer bij de betreffende persoonslijst.
+
+De spontane verstrekking betreft een vastgestelde (sub)set van gegevens van een persoonslijst. Zodra de afnemersindicatie van een afnemer bij een persoonslijst is geplaatst krijgt deze afnemer eenmalig de gehele set gegevens verstrekt. Hierna krijgt de afnemer, indien een van de in de set opgenomen gegevens wijzigt, het oude en het nieuwe gegeven verstrekt. Bij opname van een gegeven bevat de verstrekking het nieuwe gegeven, bij verwijdering van een gegeven bevat de verstrekking het verwijderde gegeven.
+
+Afnemersindicaties kunnen op drie verschillende wijzen bij een persoonslijst worden geplaatst. In de eerste plaats op verzoek van een afnemer. Ten tweede door middel van een selectie: eenmalig of periodiek worden afnemersindicaties geplaatst bij persoonslijsten die aan een bepaalde voorwaarde voldoen. Ten derde door middel van sleutelrubrieken, waarbij een afnemersindicatie bij de persoonslijst wordt opgenomen indien een bepaald gegeven op de persoonslijst van een persoon wordt opgenomen of gewijzigd en de desbetreffende persoonslijst na die wijziging of opneming aan één of meer gestelde voorwaarden voldoet.
+
+De afnemersindicatie wordt niet bij een persoonslijst geplaatst als dezelfde afnemersindicatie reeds als actuele aanduiding bij de persoonslijst is opgenomen.
+
+In het geval dat een ingeschrevene over wie gegevens verstrekt worden niet (meer) behoort tot de doelgroep dient bij de persoonslijst van die ingeschrevene geen afnemersindicatie (meer) voor te komen. Dit betekent dat de afnemer de verplichting heeft de eerder geplaatste afnemersindicatie te laten verwijderen. De afnemersindicatie blijft als historische aanduiding bij de persoonslijst van de ingeschrevene staan.
+
+De verstrekking op verzoek
+
+Een afnemer kan op verzoek een set gegevens van een persoonslijst verstrekt krijgen. In het autorisatiebesluit is opgenomen welke gegevens van welke categorieën personen mogen worden opgevraagd.
+
+Overige verstrekkingen
+
+Door technische problemen kan het voorkomen dat het berichtenverkeer in een bepaalde periode niet of niet juist heeft plaatsgevonden. Ook kan voorkomen dat afnemersindicaties ten onrechte zijn verwijderd of niet zijn opgenomen. Om dit te herstellen wordt een zogenaamd “herstelbericht” verstuurd. Tevens worden de ontbrekende afnemersindicaties (opnieuw) geplaatst of verwijderd.
+
+Indien een onderzoek is ingesteld of afgerond naar een gegeven of een verzameling van gegevens, wordt hiervan melding gedaan.
+
+Op een persoonslijst kan bij historische gegevens de indicatie “onjuist dan wel strijdigheid met de openbare orde” geplaatst worden. Deze gegevens zijn foutief en worden daarom in principe niet verstrekt. Uitzondering hierop is de spontane verstrekking die het gevolg is van de correctie van het foutieve gegeven. Deze spontane verstrekking vindt wel plaats, waarbij met het oude gegeven dat wordt verstrekt tevens de indicatie “onjuist dan wel strijdigheid met de openbare orde” wordt meeverstrekt.
+
+Indien gegevens worden opgevraagd van een persoonslijst die is opgeschort, hetgeen ondermeer gebeurt indien een ingeschrevene is overleden of geëmigreerd, worden de reden en datum opschorting bijhouding van de persoonslijst meeverstrekt. Bij verstrekking van gegevens van een persoonslijst van een niet-ingezetene, is het van belang om aan te geven wanneer de gegevens op de persoonslijst geverifieerd zijn en welke organisatie de in een categorie opgenomen gegevens heeft aangeleverd. Om dit te bereiken, worden de verificatiegegevens of de gegevens over de aanleverende organisatie, voor zover die gegevens zijn opgenomen op de persoonslijst, meeverstrekt als er gegevens worden verstrekt uit een categorie waarin die gegevensgroepen voorkomen.
+
+Een persoonslijst die ten onrechte in de basisregistratie personen is opgenomen, wordt afgevoerd. Bij afvoering worden de reden en datum opschorting bijhouding van de persoonslijst en het administratienummer van de ingeschrevene verstrekt.
+
+3. De verzending en ontvangst van berichten
+Onder infrastructurele wijziging wordt verstaan een gemeentenaamswijziging, een samenvoeging van gemeenten, een opdeling van een gemeente in een aantal nieuwe gemeenten of een gemeentedeelwijziging. Door een infrastructurele wijziging kan een groot aantal persoonslijsten gewijzigd worden met als gevolg dat aan de afnemer gegevens worden verstrekt. Het is mogelijk dat de afnemer geen behoefte heeft aan de ontvangst van deze gegevens of deze gegevens op andere wijze verstrekt wenst te krijgen. Om de verstrekking van overbodige gegevens te voorkomen, maakt het besluit het mogelijk dat overeengekomen wordt dat deze gegevens niet of op andere wijze worden verstrekt.
+
+Over de verstrekking van gegevens via alternatieve media, al dan niet naar aanleiding van infrastructurele wijzigingen, over de leverings- en selectiedata en over andere relevante onderwerpen dient overeenstemming te zijn met de Rijksdienst voor Identiteitsgegevens.
+
+4. De Minister van Volksgezondheid, Welzijn en Milieu ten behoeve van het Rijksinstituut voor Volksgezondheid en Milieu (RIVM)
+Dit besluit is een autorisatiebesluit dat is genomen ten behoeve van de Minister van Volksgezondheid, Welzijn en Sport ten behoeve van het Rijksinstituut voor Volksgezondheid en Milieu (in deze toelichting genoemd: de Minister van VWS).
+
+De Minister van Volksgezondheid, Welzijn en Sport is een overheidsorgaan als bedoeld in artikel 1.1, onder t, van de Wet BRP. Het RIVM valt onder de verantwoordelijkheid van de Minister van VWS.
+
+Het RIVM houdt zich bezig met het effectief bestrijden van infectieziekten, mensen gezond houden, goede zorg bieden, de veiligheid van consumenten bewaken en een gezonde leefomgeving bevorderen.
+
+4.1. Taak van de Minister van VWS
+Rijksvaccinatieprogramma
+
+De wettelijke basis voor het Rijksvaccinatieprogramma zijn de artikelen 6b en 6c van de Wet publieke gezondheid. De vaccinering van asielzoekers is geregeld in de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005.
+
+Het Rijksvaccinatieprogramma (RVP) wordt uitgebreid met de vaccinatie tegen een infectie veroorzaakt door SARS-CoV-2. De Minister van Volksgezondheid, Welzijn en Sport bepaalt de inhoud van dit RVP mede op basis van adviezen van de Gezondheidsraad. Op grond van artikel 7 Wet publieke gezondheid (Wpg) geeft de Minister van VWS leiding aan de vaccinatiecampagne tegen een infectie veroorzaakt door SARS-CoV-2. SARS-CoV-2 is het virus dat COVID-19 veroorzaakt. Daarnaast draagt, op basis van artikel 6b van de Wet publieke gezondheid, de Minister van Volksgezondheid, Welzijn en Sport via het RIVM zorg voor de regie op en de coördinatie van de uitvoering, alsmede de registratie, bewaking en evaluatie van het rijksvaccinatieprogramma.
+
+Vooruitlopend op de wijziging van het Besluit publieke gezondheid heeft RvIG een verzoek ontvangen van de directeur Publieke Gezondheid van het Directoraat Generaal Volksgezondheid van het Ministerie van Volksgezondheid, Welzijn en Sport om de gegevensdeling met het RIVM alvast in gang te zetten zodat het RIVM de noodzakelijke voorbereidingen kan treffen om vaccinatieprogramma voor COVID-19 op te starten.
+
+COVID-19
+
+Het RIVM voert, in opdracht van de Minister van VWS de regie op de uitvoering van de vaccinatie tegen een infectie veroorzaakt door SARS-CoV-2. Voor adequate monitoring en veiligheidsbewaking is het van belang dat het RIVM kan beschikken over actuele en complete gegevens van de mensen die in aanmerking komen voor de vaccinatie. Om deze taak goed uit te kunnen voeren, heeft het RIVM namens de Minister van VWS, ter voorbereiding op het verstrekken van COVID-19 vaccins, gegevens nodig uit het Basisregistratie Personen (BRP). Het gaat hierbij om BRP-gegevens over alle ingezetenen in Nederland, inclusief uit de registratie niet-ingezetenen de personen met een woonadres in Nederland (geprivilegieerde en NAVO-militairen) en de aangroei van nieuwgeborenen en nieuwe-ingezetenen. Deze gegevensverstrekking aan het RIVM staat los van het te nemen besluit over (de prioritering van) de uiteindelijk te vaccineren personen. Hierover zal op een later moment een besluit worden genomen.
+
+Naast de leiding die de Minister neemt in de bestrijding van het virus conform artikel 7 Wpg, waaraan het instellen van een vaccinatieregister dienstbaar is, zal het Ministerie van Volksgezondheid, Welzijn en Sport het Besluit publieke gezondheid wijzigen ten behoeve van de opname van het COVID-19 vaccin in het Rijksvaccinatieprogramma. Daarmee zal – indien een COVID-19 vaccin beschikbaar komt – de wettelijke taak van het RIVM ten aanzien van de uitvoering van het COVID-19 vaccin zijn vastgelegd.
+
+4.2. Wijzen van verstrekken aan de Minister van VWS
+De Minister van VWS krijgt de gegevens die noodzakelijk zijn voor de vervulling van de hierboven beschreven taken op systematische wijze verstrekt uit de basisregistratie personen. De systematische verstrekking aan de Minister van VWS vindt plaats door middel van spontane verstrekking en gegevensverstrekking op verzoek.
+
+Tot de doelgroep van de Minister van VWS voor uitvoering van het Rijksvaccinatieprogramma ten behoeve van een vaccin tegen een infectie veroorzaakt door SARS-CoV-2, behoren zowel ingezetenen als niet-ingezetenen.
+
+Bij de niet-ingezetenen gaat het om niet-ingezetenen met een BRP-woonadres in Nederland. Dit zijn hoofdzakelijk geprivilegieerden (bijvoorbeeld buitenlandse diplomaten) en NAVO-militairen. Bij deze niet-ingezetenen is sprake van een bijzondere situatie: hun adres in Nederland is opgenomen bij de gegevens over het buitenlandse adres.
+
+De spontane verstrekking van gegevens aan de Minister van VWS
+
+De Minister van VWS krijgt spontane verstrekking van gegevens die zijn opgenomen in bijlage I voor de uitvoering van het Rijksvaccinatieprogramma ten behoeve van een vaccin tegen een infectie veroorzaakt door SARS-CoV-2. De afnemersindicaties kunnen worden geplaatst met behulp van sleutelrubrieken en op verzoek.
+
+De afnemersindicatie van de Minister van VWS wordt bij een persoonslijst geplaatst zodra op de persoonslijst van een ingeschrevene het gegeven “geboortedatum persoon”, het gegeven “omschrijving reden opschorting bijhouding”, het gegeven “gemeente van inschrijving” of het gegeven “land adres buitenland” is opgenomen of gewijzigd en indien:
+
+a.de persoonslijst van de ingeschrevene niet is opgeschort, of
+
+b.op de persoonslijst in de rubriek 18.13.10 “land adres buitenland” de landcode Nederland is opgenomen en de rubriek 06.08.10 “datum overlijden” niet voorkomt.
+
+De Minister van VWS kan daarnaast op verzoek afnemersindicaties plaatsen bij persoonslijsten van ingeschrevenen indien dit noodzakelijk is voor de uitvoering van het Rijksvaccinatieprogramma ten behoeve van een vaccin tegen een infectie veroorzaakt door SARS-CoV-2.
+
+In het geval dat een ingeschrevene over wie gegevens verstrekt worden niet (meer) behoort tot de doelgroep dient bij de persoonslijst van die ingeschrevene geen afnemersindicatie (meer) voor te komen van de Minister van VWS. De afnemersindicatie wordt in ieder geval op verzoek van de Minister van VWS verwijderd bij de persoonslijst indien het verkrijgen van gegevens niet meer noodzakelijk is voor de uitvoering van het Rijksvaccinatieprogramma ten behoeve van een vaccin tegen een infectie veroorzaakt door SARS-CoV-2.
+
+De verstrekking van gegevens op verzoek aan de Minister van VWS
+
+De Minister van VWS mag tevens op verzoek gegevens opvragen uit de basisregistratie personen.
+
+De gegevens uit bijlage II mogen worden opgevraagd van ingeschrevenen, als dat nodig is voor uitvoering van het Rijksvaccinatieprogramma ten behoeve van een vaccin tegen een infectie veroorzaakt door SARS-CoV-2.
+
+4.3. Toelichting te verstrekken gegevens
+Categorie 01 Persoon
+
+De Minister van VWS gebruikt het gegeven ‘Burgerservicenummer persoon’ om te kunnen communiceren met zorgverleners indien er bepaald gaat worden of en welke doelgroepen zullen worden aangemaakt in het kader van de vaccinatie. Zorgverleners zijn op grond van de Wet gebruik burgerservicenummer in de zorg (Wbsn-z) verplicht het Burgerservicenummer te gebruiken als ze gegevens over patiënten uitwisselen.
+
+Het gegeven ‘Geboortedatum persoon’ is van belang om te bepalen of een deelnemer binnen een eventuele leeftijdsdoelgroep valt.
+
+Het gegeven ‘Geboorteland persoon’ is nodig voor de vaccinatiegraadrapportage. Als blijkt dat veel mensen die afkomstig zijn uit een bepaald land niet op de RVP-oproep reageren, worden deze oproepen mogelijk nogmaals verstuurd met daarbij een folder met meer uitleg in een andere taal.
+
+Het gegeven ‘Vorig A-nummer’ is nodig om de juiste dossiers aan de juiste persoon te kunnen koppelen.
+
+De overige gegevens in deze categorie worden gebruikt om over te gaan tot identificatie en een juiste aanschrijving van de persoon.
+
+Categorie 06 Overlijden
+
+Het gegeven ‘Datum overlijden’ wordt verstrekt om te voorkomen dat een reeds overleden persoon wordt uitgenodigd voor het RVP voor SARS-CoV-2.
+
+Categorie 07 Inschrijving
+
+Het gegeven ‘Indicatie geheim’ wordt verstrekt omdat met dit gegeven wordt aangeduid of een ingeschrevene de gemeente heeft verzocht om zijn of haar gegevens niet te verstrekken aan bepaalde derden. Indien dit het geval is, kunnen er aanvullende maatregelen worden getroffen om de privacy van de ingeschrevene te waarborgen.
+
+Categorie 08 Verblijfplaats
+
+Het gegeven ‘gemeente van inschrijving’ is noodzakelijk om te bepalen of de ingeschrevene zich in Nederland bevindt en zo in aanmerking komt voor het RVP voor SARS-CoV-2.
+
+Het gegeven ‘Functie adres’ is noodzakelijk om te kunnen bepalen of er sprake is van een briefadres of een woonadres. Indien bij ontbrekende vaccinatie blijkt dat de ingeschrevene een briefadres heeft en dat briefadres is van een instantie dan kan er met die instantie telefonisch contact worden opgenomen om na te vragen of zij weten of de oproepkaart wel bij de cliënt terecht is gekomen, om er zo alsnog voor te zorgen dat de cliënt een vaccinatie kan krijgen.
+
+Het gegeven ‘Datum vestiging in Nederland’ wordt gebruikt om de mensen die nog geen uitnodigingsbrief hebben ontvangen omdat ze pas na de eerste ronde van verzending van uitnodigingsbrieven in Nederland zijn komen wonen op een eenvoudige manier te kunnen traceren. Deze groep kan dan alsnog op een later tijdstip een uitnodigingsbrief worden toegezonden.
+
+Het gegeven ‘Land vanwaar ingeschreven’ is noodzakelijk om technische redenen in het systeem van het RIVM. Daarnaast is het gegeven nodig om te achterhalen of een persoon uit een land afkomstig is waar reeds SARS-CoV-2 vaccinaties worden verstrekt of waar men juist nog helemaal niet begonnen is met vaccineren. Dit kan invloed hebben op het bepalen tot welke doelgroep een persoon behoort.
+
+Het gegeven ‘Datum aanvang adres buitenland’ is noodzakelijk voor de vaccinatiegraadrapportages. Indien het RIVM dit gegeven niet zou ontvangen, zou de persoon verdwijnen in het overzicht van het RIVM en daardoor niet meegenomen kunnen worden in de rapportages.
+
+Het gegeven ‘Ingangsdatum geldigheid met betrekking tot de elementen van de categorie Verblijfplaats’ is noodzakelijk voor het RIVM om via de ontvangen mutaties de historie in het eigen bestand op te bouwen.
+
+Het gegeven ‘Land adres buitenland’ is nodig om te bepalen of dit gegeven is gevuld met ‘Nederland’ voor de niet-ingezetenen die tot de doelgroep behoren.
+
+De overige actuele adresgegevens uit deze categorie zijn noodzakelijk om de uitnodigingsbrief voor deelname aan het RVP voor SARS-CoV-2 te kunnen versturen.
+
+De gegevensset die de Minister van VWS op verzoek kan vragen is ruimer dan de spontane set. De reden hiervoor is dat de Minister van VWS op verzoek gericht afzonderlijke gegevens kan opvragen die voor een specifieke situatie noodzakelijk zijn.
+
+4.4. Bijzonderheden aangaande de Minister van VWS
+Voor de uitvoering van het Rijksvaccinatieprogramma voor personen tot 18 jaar als bedoeld in artikel 11 van het Besluit Publieke Gezondheid is een separate autorisatie opgesteld met een aparte autorisatietabelregel.
+
+Voor de uitvoering van onderzoeken als bedoeld in artikel 3 van de Wet op het RIVM is een separate autorisatie opgesteld met een aparte autorisatietabelregel.
+
+5. Inlichtingenplicht
+Teneinde de autorisatie actueel te houden dient de Minister van VWS tijdig inlichtingen te verschaffen over wijzigingen die zich voordoen in zijn taak, in de regelingen waarop die taak is gebaseerd of wijzigingen in de gegevens uit de basisregistratie personen die noodzakelijk zijn voor de uitvoering van die taak. Het is de uitdrukkelijke verantwoordelijkheid van de Minister van VWS om deze informatie onverwijld kenbaar te maken aan de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Eventuele gevolgen van onjuistheden in de autorisatie als gevolg van het niet of niet tijdig doorgeven van dergelijke wijzigingen komen voor de verantwoordelijkheid van de Minister van VWS.
+
+6. Publicatie
+Dit besluit wordt gepubliceerd in de Staatscourant. Het besluit wordt tevens geplaatst op de internetpagina van de Rijksdienst voor Identiteitsgegevens, publicaties.rvig.nl.
+

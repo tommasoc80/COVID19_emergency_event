@@ -1,0 +1,163 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 16 D. ĮSAKYMO NR. V-383 „DĖL SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2020 m. balandžio 9 d. Nr. V-787
+Vilnius
+
+P a k e i č i u Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymą Nr.  V-383 „Dėl Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašo patvirtinimo“:
+1. Pakeičiu pavadinimą ir jį išdėstau taip:
+„DĖL VAIKŲ IR SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠO PATVIRTINIMO“.
+2. Pakeičiu 1 punktą ir jį išdėstau taip:
+„1. T v i r t i n u Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašą (pridedama)“.
+3. Pakeičiu nurodytu įsakymu patvirtintą Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašą:
+3.1. Pakeičiu pavadinimą ir jį išdėstau taip:
+„VAIKŲ IR SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠAS“.
+3.2. Pakeičiu 1 punktą ir jį išdėstau taip:
+„1. Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašas (toliau – Aprašas) nustato reikalavimus sveikatos priežiūros įstaigoms (toliau – SPĮ), sveikatos priežiūros specialistams, kurie įtaria, diagnozuoja ir gydo COVID-19 ligą (koronaviruso infekciją) (toliau – COVID-19 liga), COVID-19 ligos diagnostikos ir gydymo reikalavimus ir kriterijus, kada pacientas laikomas pasveikusiu.“
+3.3. Pakeičiu 6.8 papunktį ir jį išdėstau taip:
+„6.8. CPAP – nuolatinis teigiamas oro slėgis;“.
+3.4. Pakeičiu 6.14 papunktį ir jį išdėstau taip:
+„6.14. Patvirtintas COVID-19 ligos atvejis – asmeniui laboratoriniais tyrimais patvirtinta COVID-19 infekcija;“.
+3.5. Papildau nauju 6.20 papunkčiu:
+„6.20. NIV – neinvazinė ventiliacija;“.
+3.6. Buvusius 6.20 ir 6.21 papunkčius laikau atitinkamai 6.21 ir 6.22 papunkčiais.
+3.7. Pakeičiu II skyriaus pavadinimą ir jį išdėstau taip:
+„II SKYRIUS
+PASLAUGŲ TEIKIMAS PACIENTUI, KURIAM ĮTARIAMA COVID-19 LIGA“.
+3.8. Pakeičiu 15 punktą ir jį išdėstau taip:
+„15. Dažniausiai pasireiškiantys COVID-19 ligos simptomai yra karščiavimas (83–98 proc. atvejų), kosulys (46–82 proc. atvejų) ir dusulys (iki 31 proc. atvejų). Kiti COVID-19 ligai būdingi simptomai / sindromai yra raumenų skausmas, bendras silpnumas, sloga, gerklės skausmas, kai kuriems pacientams pasitaiko viduriavimas, gali būti uoslės ar skonio praradimas, ligai progresuojant gali išsivystyti pneumonija, širdies ritmo sutrikimai, ūminis inkstų pažeidimas, ŪRDS, sepsis, septinis šokas.“
+3.9. Pakeičiu 17 punkto 1 lentelę „COVID-19 ligos klinikiniai sindromai ir juos apibūdinantys požymiai“ ir ją išdėstau taip:
+„1 lentelė. COVID-19 ligos klinikiniai sindromai ir jų požymiai
+Eil. Nr.
+Klinikinis sindromas
+COVID-19 ligos simptomai ir klinikinių sindromų požymiai
+1. 
+Lengva COVID-19 ligos forma
+Nespecifiniai simptomai – karščiavimas, kosulys, gerklės skausmas, nosies užburkimas, silpnumas, raumenų skausmas. Retais atvejais galimas pykinimas, vėmimas, viduriavimas. Vyresniems ir imunosupresiškiems pacientams gali būti atipinių simptomų.
+2. 
+Pneumonija
+Suaugusiesiems – nėra sunkios pneumonijos požymių ir nėra  poreikio gydyti deguonimi.
+Vaikams – yra karščiavimas, kosulys ir (ar) pasunkėjęs kvėpavimas bei tachipnėja (iki 2 mėn. amžiaus kvėpavimo dažnis ≥ 60 k./min, 2–11 mėn. – 50–59 k./min, 1–5 metų amžiaus – 40–49 k./min, vyresniems kaip 5 m. amžiaus > 30 k/min) ir nėra sunkios pneumonijos simptomų.
+3. 
+Sunki pneumonija
+Suaugusiesiems ir paaugliams (nuo 10 iki 18 metų amžiaus) – karščiavimas ir (ar) įtariama kvėpavimo takų infekcija ir yra bent vienas iš šių požymių: kvėpavimo dažnis >30 k./min, pasunkėjęs kvėpavimas arba nustatoma SpO2<93 proc. kvėpuojant oru.
+Vaikams (nuo gimimo iki 10 m. amžiaus) – kosulys ar pasunkėjęs kvėpavimas ir yra bent vienas iš šių simptomų: centrinė cianozė arba SpO2<90 proc.; sunkus kvėpavimo sutrikimas (pvz., intensyvus pagalbinių kvėpavimo raumenų darbas, tachipnėja) ir bendri sunkios būklės požymiai: negalėjimas žįsti krūties ar gerti, mieguistumas ar sąmonės sutrikimas arba traukuliai.
+Nors diagnozė nustatoma pagal klinikinius požymius, krūtinės ląstos radiologiniai tyrimai (rentgenograma, KT tyrimo vaizdas, plaučių ultragarsinis tyrimo vaizdas) gali padėti nustatyti arba atmesti kai kurias plaučių ligų komplikacijas. 
+4. 
+ŪRDS
+Nauji simptomai ar būklės blogėjimas, atsirandantys per 1 sav. nuo ligos pradžios.
+Krūtinės ląstos radiologiniuose tyrimuose (rentgenogramoje, KT tyrimo vaizde, plaučių ultragarsinio tyrimo vaizde) matyti abipusiai pritemimai, nepaaiškinama hipervolemija, plaučio skilčių ar viso plaučio atelektazės, židininiai infiltraciniai pokyčiai.
+Pakitimų plaučiuose sukeltas kvėpavimo nepakankamumas, nepaaiškinamas širdies nepakankamumu ar hipervolemija. Rekomenduojamas echokardiografijos tyrimas, siekiant paneigti hidrostatinę edemos priežastį, jeigu nėra aiškaus jos rizikos veiksnio.
+Suaugusiųjų ŪRDS klasifikacija pagal oksigenaciją:
+lengvas: 200 mmHg < PaO2 / FiO2  ≤ 300 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O arba netaikant ventiliacijos);
+vidutinis: 100 mmHg < PaO2  / FiO2  ≤ 200 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O arba netaikant ventiliacijos);
+sunkus: PaO2 / FiO2 ≤ 100 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O, arba netaikant ventiliacijos);
+kai nėra PaO2 duomenų, SpO2 / FiO2 ≤ 315 rodo, kad gali būti ŪRDS (ir netaikant ventiliacijos).
+Vaikų ŪRDS klasifikacija pagal oksigenaciją:
+oksigenacijos indekso (OI*) blogėjimas, taikant DPV:
+lengvas ŪRDS: 4≤OI<8 ar 5≤OSI***<7.5;
+vidutinio sunkumo ŪRDS: 8≤OI<16 ar 7.5≤ OSI<12.3;
+sunkus ŪRDS: OI ≥ 16 ar OSI ≥ 12.3.
+*OI = MAP** x FiO2 x 100/PaO2.                                                               **MAP – vidutinis slėgis kvėpavimo takuose taikant DPV.                        ***OSI (OI naudojant SpO2) =  MAP x FiO2 x 100/SpO2.
+(NIV/CPAP) ≥ 5cm H2O naudojant veido kaukę: PaO2/FiO2 ≤ 300 arba SpO2/FiO2 ≤ 264.
+5. 
+Sepsis
+Suaugusiesiems – gyvybei pavojinga organų disfunkcija, kurią sukelia neadekvati organizmo reakcija į infekciją.
+Sunki infekcijos eiga  nustatoma remiantis qSOFA kriterijais (bent dviem iš trijų): arterinė hipotenzija (sistolinis kraujospūdis ≤ 100 mmHg, sąmonės sutrikimas (pagal Glazgo komos skalę < 15 balų), tachipnėja (kvėpavimo dažnis ≥ 22 k./min).
+Organų  (kraujotakos, kvėpavimo, inkstų, kepenų, kraujodaros, centrinės nervų sistemos) disfunkcija nustatoma remiantis SOFA (nuolatinio organų nepakankamumo vertinimo) skalės kriterijais. 
+Organų disfunkcijos požymiai: pakitusi sąmonės būklė, pasunkėjęs kvėpavimas, tachipnėja, žema deguonies saturacija, sumažėjęs šlapimo išsiskyrimas, tachikardija, silpnas pulsas, šaltos galūnės ar žemas kraujospūdis, marmurinė oda ar laboratorinių rodiklių pakyčiai: koagulopatija, trombocitopenija, acidozė, hiperlaktatemija arba hiperbilirubinemija.
+Vaikams – įtariama arba patvirtinta infekcija ir ≥ 2 pagal amžių sisteminio uždegiminio atsako sindromo kriterijai, iš kurių vienas turi būti padidėjusi temperatūra arba leukocitų skaičius.
+6.
+Septinis šokas
+Suaugusiesiems – išliekanti hipotenzija, nepaisant infuzoterapija koreguotos hipovolemijos, vazopresorių poreikis, siekiant išlaikyti vidutinį kraujospūdį ≥65 mmHg ir  laktato koncentracija kraujyje > 2 mmol/l.
+Vaikams – hipotenzija (sistolinis kraujo spaudimas <5-os procentilės ar >2 SD (standartinis nuokrypis) žemiau amžiaus normos) arba 2 ar 3 iš šių simptomų: sąmonės sutrikimas, tachikardija ar bradikardija (ŠSD<90 k./min. ar >160 k./min kūdikiams; ŠSD <70 k./min ar >150 k./min vaikams); pailgėjęs kapiliarų prisipildymo laikas (>2 sek.) ar vazodiliatacijos epizodai; tachipnėja; marmurinė oda ar petechinis bėrimas; padidėjęs laktato kiekis kraujyje; oligurija; hipertermija ar hipotermija.“
+
+3.10. Pakeičiu 18 punktą ir jį išdėstau taip:
+„18. COVID-19 ligos diagnostiniai tyrimai pateikiami 2 lentelėje.
+2 lentelė. COVID-19 ligos diagnostiniai tyrimai
+Eil. Nr.
+Deguonies terapija 
+Tyrimų atlikimo sąlygos
+1.
+BKT
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos. Vertinama leukopenija / leukocitozė, limfopenija.
+2.
+CRB
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+3.
+Molekulinis SARS-CoV-2 viruso tyrimas
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+Tiriamoji medžiaga – nosiaryklės sekretas arba skrepliai, arba trachėjos aspiratas, arba bronchoalveolinis lavažas.
+4.
+Elektrolitai, kreatininas, ALT, AST
+Atliekama gydytojo nuožiūra, vertinant būklės sunkumą ir kitų ligų įtaką bendrai būklei.
+5.
+Radiologiniai krūtinės ląstos tyrimai
+Krūtinės ląstos rentgenografinis tyrimas, krūtinės ląstos KT tyrimas ir (ar) plaučių ultragarsinis tyrimas.
+Vaikams atliekami įtariant pneumoniją ar esant sunkiai paciento būklei.
+6.
+Du kraujo pasėliai
+Įtariant bakterinę infekciją ar sepsį.
+7.
+Prokalcitoninas, laktatas, bilirubinas, koaguliograma
+Įtariant sepsį.
+8.
+Tyrimai diferencinei diagnostikai, kitoms infekcijoms nustatyti
+Pagal klinikines ir (ar) epidemiologines indikacijas:
+greitasis molekulinis gripo testas;
+kitų respiracinių virusų (gripo, respiracinio sincitinio viruso, paragripo, adenoviruso, metapneumoviruso ir kt.) daugybinis PGR testas;
+mikoplazmų ir (ar) chlamidijų serologiniai tyrimai;
+skreplių, trachėjos aspirato, BAL pasėliai;
+Legionella pneumophilla šlapimo antigeno testas.“
+
+3.11. Pakeičiu 21.1 papunktį ir jį išdėstau taip:
+„21.1. suaugusiųjų – infekcinių ligų gydytojo, vaikų – vaikų infekcinių ligų gydytojo arba vaikų ligų gydytojo;“.
+3.12. Pakeičiu 22 punktą ir jį išdėstau taip:
+„22. Reanimacijos ir intensyviosios terapijos paslaugų suaugusiesiems teikimą organizuoja ir paslaugas teikia gydytojas anesteziologas reanimatologas, vaikams – vaikų intensyviosios terapijos gydytojas arba gydytojas anesteziologas reanimatologas.“
+3.13. Pakeičiu 28 punkto 3 lentelę „COVID-19 ligos gydymo metodai“:
+3.13.1. pakeičiu 1.2 papunktį ir jį išdėstau taip:
+„1.2.
+Deguonies terapija 
+Nedelsiant skiriama pacientams, kuriems pasireiškia sunki kvėpavimo takų infekcija kartu su ŪRDS, hipoksemija ar šoku.
+Deguonies terapijos tikslas suaugusiesiems – SpO2 94–96 proc., vaikams – SpO2 ≥ 94 proc.“
+
+3.13.2. pakeičiu 1.3 papunktį ir jį išdėstau taip:
+„1.3. 
+Skysčių skyrimas
+Užtikrinamas skysčių, elektrolitų balansas.
+Intraveninė infuzoterapija skiriama atsargiai, siekiant išvengti skysčių pertekliaus organizme, kuris gali pabloginti kvėpavimo funkciją, oksigenaciją ir sukelti plaučių edemą. 
+Vaikams ribojamas fiziologinis skysčių poreikis iki 75 proc.“
+
+3.13.3. pakeičiu 2.2 papunktį ir jį išdėstau taip:
+„2.2.
+Lopinaviras / ritonaviras
+Azitromicinas
+Hidroksichlorokvinas
+Chlorokvinas 
+Remdesiviras
+Alfa interferono inhaliacijos
+Inozino acedobeno domepranolis ir kt.
+Gali būti skiriami SPĮ gydytojų konsiliumo, į kurio sudėtį įeina gydytojas  anesteziologas-reanimatologas, infekcinių ligų gydytojas, gydytojas pulmonologas ir prireikus kitų profesinių kvalifikacijų gydytojai, sprendimu, esant paciento ar jo atstovo raštiškam sutikimui.
+Į gydytojų konsiliumą, sprendžiantį vaikų gydymo klausimus, įeina vaikų intensyviosios terapijos gydytojas ir (ar) gydytojas  anesteziologas-reanimatologas, vaikų infekcinių ligų gydytojas, gydytojas vaikų pulmonologas ir (ar) kitų profesinių kvalifikacijų gydytojai.“
+
+3.13.4. pakeičiu 3.2 papunktį ir jį išdėstau taip:
+„3.2.
+Sunki pneumonija ir (ar) antrinės bakterinės pneumonijos (visuomenėje įgytos, hospitalinės) požymiai
+Antibiotikoterapija parenkama pagal numanomą sukėlėją ir jo jautrumą antibiotikams pagal SPĮ vadovo  patvirtintą antibakterinės terapijos protokolą ir (ar) pneumonijos diagnostikos ir gydymo gaires.“
+
+3.14. Pakeičiu 30 punkto pirmąją pastraipą ir ją išdėstau taip:
+„30. Suaugusieji gydomi SPĮ Reanimacijos ir intensyviosios terapijos padalinyje, kai:“.
+3.15. Papildau 301 punktu:
+„301. Vaikai gydomi vaikų intensyviosios terapijos skyriuje, kai:
+301.1. deguonies terapijos poreikis >9 l/min (arba > 60 proc. FiO2), kai SpO2 ar SaO2 < 90–92 proc. (yra didelės tėkmės deguonies, CPAP ar kito neinvazinės ventiliacijos metodo poreikis arba mechaninės ventiliacijos poreikis);
+301.2. progresuojantys klinikiniai kvėpavimo nepakankamumo požymiai ir SpO2 < 92 proc., skiriant > 10 l/min. deguonies;
+301.3. šokas, sepsis, kitų organų nepakankamumas.“
+
+
+
+
+Sveikatos apsaugos ministras							        Aurelijus Veryga

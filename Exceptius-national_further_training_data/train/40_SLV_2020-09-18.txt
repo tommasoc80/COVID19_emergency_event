@@ -1,0 +1,1638 @@
+Uredba o spremembah in dopolnitvah Uredbe o ukrepih za odpravo motenj na trgu v vinskem sektorju zaradi pandemije COVID-19
+2020-09-18
+Povezava na Uradni list:
+                       
+                       
+                         Uradni list RS, št. 124/20
+                       
+                       
+                         Neuradno precišceno besedilo, ki vsebuje to spremembo:
+                       
+                       
+
+                         
+                         
+
+                         Opozorilo: Neuradno precišceno besedilo predpisa predstavlja zgolj
+informativni delovni pripomocek, glede katerega organ ne jamci odškodninsko ali
+kako drugace
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:NimbusSanDEECon;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+h4
+	{mso-style-name:"Naslov 4\,Grafika";
+	mso-style-link:"Naslov 4 Znak\,Grafika Znak";
+	margin-right:0cm;
+	margin-left:0cm;
+	text-align:center;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:normal;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Komentar - besedilo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Glava Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Noga Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.MsoHyperlink
+	{color:blue;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.05pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:7.0pt;
+	font-family:"Times New Roman","serif";
+	color:#333333;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Besedilo oblacka Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:35.4pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alinejazarkovnotoko, li.Alinejazarkovnotoko, div.Alinejazarkovnotoko
+	{mso-style-name:"Alineja za crkovno tocko";
+	mso-style-link:"Alineja za crkovno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NogaZnak
+	{mso-style-name:"Noga Znak";
+	mso-style-link:Noga;
+	font-family:"Times New Roman","serif";}
+span.GlavaZnak
+	{mso-style-name:"Glava Znak";
+	mso-style-link:Glava;
+	font-family:"Arial","sans-serif";}
+p.Vrstapredpisa, li.Vrstapredpisa, div.Vrstapredpisa
+	{mso-style-name:"Vrsta predpisa";
+	mso-style-link:"Vrsta predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Naslovpredpisa, li.Naslovpredpisa, div.Naslovpredpisa
+	{mso-style-name:Naslov_predpisa;
+	mso-style-link:"Naslov_predpisa Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.VrstapredpisaZnak
+	{mso-style-name:"Vrsta predpisa Znak";
+	mso-style-link:"Vrsta predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Poglavje, li.Poglavje, div.Poglavje
+	{mso-style-name:Poglavje;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NaslovpredpisaZnak
+	{mso-style-name:"Naslov_predpisa Znak";
+	mso-style-link:Naslov_predpisa;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.len, li.len, div.len
+	{mso-style-name:Clen;
+	mso-style-link:"Clen Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+p.tevilnatoka111, li.tevilnatoka111, div.tevilnatoka111
+	{mso-style-name:"Številcna tocka 1\.1\.1";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:22.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-22.7pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lenZnak
+	{mso-style-name:"Clen Znak";
+	mso-style-link:Clen;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Odstavek, li.Odstavek, div.Odstavek
+	{mso-style-name:Odstavek;
+	mso-style-link:"Odstavek Znak";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Pravnapodlaga, li.Pravnapodlaga, div.Pravnapodlaga
+	{mso-style-name:"Pravna podlaga";
+	mso-style-link:"Pravna podlaga Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OdstavekZnak
+	{mso-style-name:"Odstavek Znak";
+	mso-style-link:Odstavek;
+	font-family:"Arial","sans-serif";}
+span.AlinejazarkovnotokoZnak
+	{mso-style-name:"Alineja za crkovno tocko Znak";
+	mso-style-link:"Alineja za crkovno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoa, li.rkovnatokazatevilnotokoa, div.rkovnatokazatevilnotokoa
+	{mso-style-name:"Crkovna tocka za številcno tocko \(a\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Prehodneinkoncnedolocbe, li.Prehodneinkoncnedolocbe, div.Prehodneinkoncnedolocbe
+	{mso-style-name:"Prehodne in koncne dolocbe";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:30.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.BesedilooblakaZnak
+	{mso-style-name:"Besedilo oblacka Znak";
+	mso-style-link:"Besedilo oblacka";
+	font-family:"Tahoma","sans-serif";}
+p.Oddelek, li.Oddelek, div.Oddelek
+	{mso-style-name:Oddelek;
+	mso-style-link:"Oddelek Znak1";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Odsek, li.Odsek, div.Odsek
+	{mso-style-name:Odsek;
+	mso-style-link:"Odsek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:12.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Del, li.Del, div.Del
+	{mso-style-name:Del;
+	mso-style-link:"Del Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OddelekZnak1
+	{mso-style-name:"Oddelek Znak1";
+	mso-style-link:Oddelek;
+	font-family:"Arial","sans-serif";}
+span.OdsekZnak
+	{mso-style-name:"Odsek Znak";
+	mso-style-link:Odsek;
+	font-family:"Arial","sans-serif";}
+p.Naslovnadlenom, li.Naslovnadlenom, div.Naslovnadlenom
+	{mso-style-name:"Naslov nad clenom";
+	mso-style-link:"Naslov nad clenom Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.DelZnak
+	{mso-style-name:"Del Znak";
+	mso-style-link:Del;
+	font-family:"Arial","sans-serif";}
+span.NaslovnadlenomZnak
+	{mso-style-name:"Naslov nad clenom Znak";
+	mso-style-link:"Naslov nad clenom";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Nazivpodpisnika, li.Nazivpodpisnika, div.Nazivpodpisnika
+	{mso-style-name:"Naziv podpisnika";
+	mso-style-link:"Naziv podpisnika Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NazivpodpisnikaZnak
+	{mso-style-name:"Naziv podpisnika Znak";
+	mso-style-link:"Naziv podpisnika";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkom, li.rkovnatokazaodstavkom, div.rkovnatokazaodstavkom
+	{mso-style-name:"Crkovna tocka_za odstavkom";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpFirst, li.rkovnatokazaodstavkomCxSpFirst, div.rkovnatokazaodstavkomCxSpFirst
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpFirst";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpMiddle, li.rkovnatokazaodstavkomCxSpMiddle, div.rkovnatokazaodstavkomCxSpMiddle
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpMiddle";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpLast, li.rkovnatokazaodstavkomCxSpLast, div.rkovnatokazaodstavkomCxSpLast
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpLast";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alineazatevilnotoko, li.Alineazatevilnotoko, div.Alineazatevilnotoko
+	{mso-style-name:"Alinea za številcno tocko";
+	mso-style-link:"Alinea za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomZnak
+	{mso-style-name:"Crkovna tocka_za odstavkom Znak";
+	mso-style-link:"Crkovna tocka_za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.tevilnatoka, li.tevilnatoka, div.tevilnatoka
+	{mso-style-name:"Številcna tocka";
+	mso-style-link:"Številcna tocka Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazatevilnotokoZnak
+	{mso-style-name:"Alinea za številcno tocko Znak";
+	mso-style-link:"Alinea za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotoko, li.rkovnatokazatevilnotoko, div.rkovnatokazatevilnotoko
+	{mso-style-name:"Crkovna tocka za številcno tocko";
+	mso-style-link:"Crkovna tocka za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.8pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.tevilnatokaZnak
+	{mso-style-name:"Številcna tocka Znak";
+	mso-style-link:"Številcna tocka";
+	font-family:"Arial","sans-serif";}
+p.Alineazaodstavkom, li.Alineazaodstavkom, div.Alineazaodstavkom
+	{mso-style-name:"Alinea za odstavkom";
+	mso-style-link:"Alinea za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.tevilkanakoncupredpisa, li.tevilkanakoncupredpisa, div.tevilkanakoncupredpisa
+	{mso-style-name:"Številka na koncu predpisa";
+	mso-style-link:"Številka na koncu predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.AlineazaodstavkomZnak
+	{mso-style-name:"Alinea za odstavkom Znak";
+	mso-style-link:"Alinea za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.Datumsprejetja, li.Datumsprejetja, div.Datumsprejetja
+	{mso-style-name:"Datum sprejetja";
+	mso-style-link:"Datum sprejetja Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.tevilkanakoncupredpisaZnak
+	{mso-style-name:"Številka na koncu predpisa Znak";
+	mso-style-link:"Številka na koncu predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+p.Podpisnik, li.Podpisnik, div.Podpisnik
+	{mso-style-name:Podpisnik;
+	mso-style-link:"Podpisnik Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.DatumsprejetjaZnak
+	{mso-style-name:"Datum sprejetja Znak";
+	mso-style-link:"Datum sprejetja";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.PodpisnikZnak
+	{mso-style-name:"Podpisnik Znak";
+	mso-style-link:Podpisnik;
+	font-family:"Arial","sans-serif";}
+p.lennaslov, li.lennaslov, div.lennaslov
+	{mso-style-name:Clen_naslov;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.PravnapodlagaZnak
+	{mso-style-name:"Pravna podlaga Znak";
+	mso-style-link:"Pravna podlaga";
+	font-family:"Arial","sans-serif";}
+p.Pododdelek, li.Pododdelek, div.Pododdelek
+	{mso-style-name:Pododdelek;
+	mso-style-link:"Pododdelek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.PododdelekZnak
+	{mso-style-name:"Pododdelek Znak";
+	mso-style-link:Pododdelek;
+	font-family:"Arial","sans-serif";}
+p.EVA, li.EVA, div.EVA
+	{mso-style-name:EVA;
+	mso-style-link:"EVA Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.EVAZnak
+	{mso-style-name:"EVA Znak";
+	mso-style-link:EVA;
+	font-family:"Arial","sans-serif";}
+span.Komentar-besediloZnak
+	{mso-style-name:"Komentar - besedilo Znak";
+	mso-style-link:"Komentar - besedilo";
+	font-family:"Arial","sans-serif";}
+p.Imeorgana, li.Imeorgana, div.Imeorgana
+	{mso-style-name:"Ime organa";
+	mso-style-link:"Ime organa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Naslov4Znak
+	{mso-style-name:"Naslov 4 Znak\,Grafika Znak";
+	mso-style-link:"Naslov 4\,Grafika";
+	font-family:"Arial","sans-serif";
+	color:black;}
+p.Pa6, li.Pa6, div.Pa6
+	{mso-style-name:Pa6;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Pa9, li.Pa9, div.Pa9
+	{mso-style-name:Pa9;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Opozorilo, li.Opozorilo, div.Opozorilo
+	{mso-style-name:Opozorilo;
+	mso-style-link:"Opozorilo Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+span.OpozoriloZnak
+	{mso-style-name:"Opozorilo Znak";
+	mso-style-link:Opozorilo;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+p.lennovele, li.lennovele, div.lennovele
+	{mso-style-name:Clen_novele;
+	mso-style-link:"Clen_novele Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Priloga, li.Priloga, div.Priloga
+	{mso-style-name:Priloga;
+	mso-style-link:"Priloga Znak";
+	margin-top:19.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:10.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lennoveleZnak
+	{mso-style-name:"Clen_novele Znak";
+	mso-style-link:Clen_novele;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.PrilogaZnak
+	{mso-style-name:"Priloga Znak";
+	mso-style-link:Priloga;
+	font-family:"Arial","sans-serif";}
+p.rta, li.rta, div.rta
+	{mso-style-name:Crta;
+	mso-style-link:"Crta Znak";
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.NPB, li.NPB, div.NPB
+	{mso-style-name:NPB;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+span.rtaZnak
+	{mso-style-name:"Crta Znak";
+	mso-style-link:Crta;
+	font-family:"Arial","sans-serif";}
+p.Zamaknjenadolobaprvinivo, li.Zamaknjenadolobaprvinivo, div.Zamaknjenadolobaprvinivo
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamaknjenadolobadruginivo, li.Zamaknjenadolobadruginivo, div.Zamaknjenadolobadruginivo
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.ZamaknjenadolobaprvinivoZnak
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo";
+	font-family:"Arial","sans-serif";}
+span.ZamaknjenadolobadruginivoZnak
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo";
+	font-family:"Arial","sans-serif";}
+p.Alineazapodtoko, li.Alineazapodtoko, div.Alineazapodtoko
+	{mso-style-name:"Alinea za podtocko";
+	mso-style-link:"Alinea za podtocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-11.35pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamakanjenadolobatretjinivo, li.Zamakanjenadolobatretjinivo, div.Zamakanjenadolobatretjinivo
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:49.65pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazapodtokoZnak
+	{mso-style-name:"Alinea za podtocko Znak";
+	mso-style-link:"Alinea za podtocko";
+	font-family:"Arial","sans-serif";}
+span.ZamakanjenadolobatretjinivoZnak
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo Znak";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo";
+	font-family:"Arial","sans-serif";}
+span.ImeorganaZnak
+	{mso-style-name:"Ime organa Znak";
+	mso-style-link:"Ime organa";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkoma, li.rkovnatokazaodstavkoma, div.rkovnatokazaodstavkoma
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA0, li.rkovnatokazaodstavkomA0, div.rkovnatokazaodstavkomA0
+	{mso-style-name:"Crkovna tocka za odstavkom A\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomaZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\)";
+	font-family:"Arial","sans-serif";}
+p.lennaslovnovele, li.lennaslovnovele, div.lennaslovnovele
+	{mso-style-name:"Clen naslov novele";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkoma1, li.rkovnatokazaodstavkoma1, div.rkovnatokazaodstavkoma1
+	{mso-style-name:"Crkovna tocka za odstavkom a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazatevilnotokoa0, li.rkovnatokazatevilnotokoa0, div.rkovnatokazatevilnotokoa0
+	{mso-style-name:"Crkovna tocka za številcno tocko a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Rimskatevilnatoka, li.Rimskatevilnatoka, div.Rimskatevilnatoka
+	{mso-style-name:"Rimska številcna tocka";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomi, li.rkovnatokazaodstavkomi, div.rkovnatokazaodstavkomi
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.tevilnatoka11Nova, li.tevilnatoka11Nova, div.tevilnatoka11Nova
+	{mso-style-name:"Številcna tocka 1\.1 Nova";
+	mso-style-link:"Številcna tocka 1\.1 Nova Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Neuvrsceno
+	{mso-style-name:Neuvrsceno;
+	border:none;
+	background:yellow;}
+span.tevilnatoka11NovaZnak
+	{mso-style-name:"Številcna tocka 1\.1 Nova Znak";
+	mso-style-link:"Številcna tocka 1\.1 Nova";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoi, li.rkovnatokazatevilnotokoi, div.rkovnatokazatevilnotokoi
+	{mso-style-name:"Crkovna tocka za številcno tocko \(i\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomiZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkomA2, li.rkovnatokazaodstavkomA2, div.rkovnatokazaodstavkomA2
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA3, li.rkovnatokazaodstavkomA3, div.rkovnatokazaodstavkomA3
+	{mso-style-name:"Crkovna tocka za odstavkom A\)";
+	mso-style-link:"Crkovna tocka za odstavkom A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak0
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA1, li.rkovnatokazatevilnotokoA1, div.rkovnatokazatevilnotokoA1
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak1
+	{mso-style-name:"Crkovna tocka za odstavkom A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA2, li.rkovnatokazatevilnotokoA2, div.rkovnatokazatevilnotokoA2
+	{mso-style-name:"Crkovna tocka za številcno tocko A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\)";
+	font-family:"Arial","sans-serif";}
+p.Slikanasredino, li.Slikanasredino, div.Slikanasredino
+	{mso-style-name:"Slika_na sredino";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:20.0pt;
+	margin-left:0cm;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak0
+	{mso-style-name:"Crkovna tocka za številcno tocko A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko A\)";
+	font-family:"Arial","sans-serif";}
+p.Pa8, li.Pa8, div.Pa8
+	{mso-style-name:Pa8;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Pa3, li.Pa3, div.Pa3
+	{mso-style-name:Pa3;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:21.0cm 842.0pt;
+	margin:-70.9pt 70.9pt 70.9pt 70.9pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+Opozorilo: Neuradno precišceno
+besedilo predpisa predstavlja zgolj informativni delovni pripomocek, glede
+katerega organ ne jamci odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Uredbe o ukrepih za odpravo
+motenj na trgu v vinskem sektorju zaradi pandemije COVID-19 obsega:
+
+-       
+Uredbo o ukrepih za odpravo motenj na trgu v vinskem sektorju zaradi
+pandemije COVID-19 (Uradni list RS, št. 103/20 z dne 23. 7. 2020),
+
+-       
+Uredbo o spremembah in dopolnitvah Uredbe o ukrepih za odpravo motenj na
+trgu v vinskem sektorju zaradi pandemije COVID-19 (Uradni list RS, št. 124/20 z
+dne 18. 9. 2020).
+
+UREDBA
+
+o ukrepih za odpravo motenj na trgu v vinskem sektorju
+zaradi pandemije COVID-19
+
+(neuradno precišceno besedilo št. 1)
+
+I. SPLOŠNE DOLOCBE
+
+1. clen
+
+(vsebina)
+
+Ta uredba ureja pravila za financiranje ukrepov za odpravo
+motenj na trgu v vinskem sektorju zaradi pandemije COVID-19 za izvajanje:
+
+-       
+Uredbe (EU) št. 1308/2013 Evropskega parlamenta in Sveta z dne 17.
+decembra 2013 o vzpostavitvi skupne ureditve trgov kmetijskih proizvodov in
+razveljavitvi uredb Sveta (EGS) št. 922/72, (EGS) št. 234/79, (ES) št.
+1037/2001 in (ES) št. 1234/2007 (UL L št. 347 z dne 20. 12. 2013, str. 671),
+zadnjic spremenjene z Delegirano uredbo Komisije (EU) 2020/760 z dne 17.
+decembra 2019 o dopolnitvi Uredbe (EU) št. 1308/2013 Evropskega parlamenta in
+Sveta glede pravil za upravljanje uvoznih in izvoznih tarifnih kvot, za katere
+so potrebna dovoljenja, ter dopolnitvi Uredbe (EU) št. 1306/2013 Evropskega
+parlamenta in Sveta glede položitve varšcin pri upravljanju tarifnih kvot (UL L
+št. 185 z dne 12. 6. 2020, str. 1), (v nadaljnjem besedilu: Uredba
+1308/2013/EU);
+
+-       
+Izvedbene uredbe Komisije (EU) 2020/532 z dne 16. aprila 2020 o
+odstopanju glede leta 2020 od izvedbenih uredb (EU) št. 809/2014, (EU) št.
+180/2014, (EU) št. 181/2014, (EU) 2017/892, (EU) 2016/1150, (EU) 2018/274, (EU)
+2017/39, (EU) 2015/1368 in (EU) 2016/1240 v zvezi z nekaterimi upravnimi
+pregledi in pregledi na kraju samem, ki se uporabljajo na podrocju skupne
+kmetijske politike (UL L št. 119 z dne 17. 4. 2020, str. 3);
+
+-       
+Delegirane uredbe Komisije (EU) 2020/592 z dne 30. aprila 2020 o
+zacasnih izjemnih ukrepih, ki odstopajo od nekaterih dolocb Uredbe (EU) št. 1308/2013
+Evropskega parlamenta in Sveta, za odpravo motenj na trgu v sektorju sadja in
+zelenjave ter vinskem sektorju zaradi pandemije COVID-19 in ukrepov v zvezi z
+njo (UL L št. 140 z dne 4. 5. 2020, str. 6), zadnjic spremenjene
+z Delegirano uredbo Komisije (EU) 2020/1275 z dne 6. julija 2020 o
+spremembi Delegirane uredbe Komisije (EU) 2020/592 o zacasnih izjemnih ukrepih,
+ki odstopajo od nekaterih dolocb Uredbe (EU) št. 1308/2013 Evropskega
+parlamenta in Sveta, za odpravo motenj na trgu v sektorju sadja in zelenjave
+ter vinskem sektorju zaradi pandemije COVID-19 in ukrepov v zvezi z njo
+(UL L št. 300 z dne 14. 9. 2020, str. 26), (v nadaljnjem
+besedilu: Delegirana uredba 2020/592/EU);
+
+-       
+Izvedbene uredbe Komisije (EU) 2020/600 z dne 30. aprila 2020 o
+odstopanju od Izvedbene uredbe (EU) 2017/892, Izvedbene uredbe (EU) 2016/1150,
+Izvedbene uredbe (EU) št. 615/2014, Izvedbene uredbe (EU) 2015/1368 in
+Izvedbene uredbe (EU) 2017/39 glede nekaterih ukrepov proti krizi zaradi
+pandemije COVID-19 (UL L št. 140 z dne 4. 5. 2020, str. 40; v nadaljnjem
+besedilu: Izvedbena uredba 2020/600/EU) in
+
+-       
+Izvedbene uredbe Komisije (EU) 2020/601 z dne 30. aprila 2020 o nujnih
+ukrepih, ki odstopajo od clenov 62 in 66 Uredbe (EU) št. 1308/2013 Evropskega
+parlamenta in Sveta glede veljavnosti dovoljenj za zasaditev vinske trte in
+izkrcitve pri predvideni ponovni zasaditvi (UL L št. 140 z dne 4. 5. 2020, str.
+46; v nadaljnjem besedilu: Izvedbena uredba 2020/601/EU).
+
+2. clen
+
+(pomen izrazov)
+
+Izraz višja sila pomeni višjo silo ali izjemne okolišcine,
+kot jih doloca 2. clen Uredbe (EU) št. 1306/2013 Evropskega parlamenta in Sveta
+z dne 17. decembra 2013 o financiranju, upravljanju in spremljanju skupne
+kmetijske politike in razveljavitvi uredb Sveta (EGS) št. 352/78, (ES) št.
+165/94, (ES) št. 2799/98, (EC) No 814/2000, (ES) št. 1290/2005 in (ES) št.
+485/2008 ((UL L št. 347 z dne 20. 12. 2013, str. 549), zadnjic spremenjene z
+Izvedbeno uredbo Komisije (EU) 2020/531 z dne 16. aprila 2020 o odstopanju
+glede leta 2020 od tretjega pododstavka clena 75(1) Uredbe (EU) št. 1306/2013
+Evropskega parlamenta in Sveta v zvezi s stopnjo predplacil za neposredna
+placila in ukrepi za razvoj podeželja, povezanimi s površinami in živalmi, ter
+od prvega pododstavka clena 75(2) navedene uredbe v zvezi z neposrednimi placili
+(UL L št. 119 z dne 17. 4. 2020, str. 1).
+
+3. clen
+
+(splošne dolocbe)
+
+(1) Za izvajanje te uredbe se uporabljajo podatki, ki se
+vodijo v registru pridelovalcev grozdja in vina v skladu z zakonom, ki ureja
+vino (v nadaljnjem besedilu: register), in registru kmetijskih gospodarstev v
+skladu z zakonom, ki ureja kmetijstvo.
+
+(2) Ne glede na predpis, ki ureja izvedbo ukrepov kmetijske
+politike, ni treba vložiti zbirne vloge za pridobitev sredstev po tej uredbi.
+
+4. clen
+
+(financiranje ukrepov)
+
+(1) Ukrepi iz te uredbe se financirajo iz sredstev Evropskega
+kmetijskega jamstvenega sklada, dodeljenih Republiki Sloveniji v skladu s
+prilogo VI Uredbe 1308/2013/EU, in sredstev splošne proracunske rezervacije.
+Sredstva za ukrepe po tej uredbi se dodelijo na podlagi te uredbe in se
+izplacajo do 15. oktobra 2020.
+
+(2) Višina sredstev, ki je na voljo za posamezni ukrep iz te
+uredbe, je dolocena v podpornem programu, ki ga ministrstvo, pristojno za
+kmetijstvo, predloži Evropski komisiji v skladu z 2. clenom Izvedbene uredbe 2020/600/EU.
+
+II. KRIZNA DESTILACIJA VINA
+
+5. clen
+
+(upravicenci)
+
+(1) Podporo za krizno destilacijo vina v skladu s 3. clenom
+Delegirane uredbe 2020/592/EU lahko uveljavlja pridelovalec vina, vpisan v
+register, ki je imel 13. marca 2020 v registru prijavljenih vsaj 30 000 litrov
+vina letnika 2019.
+
+(2) Upravicenec iz prejšnjega odstavka, ki je v letu 2019
+pridelal vino iz grozdja, odkupljenega od pridelovalcev grozdja, je upravicen
+do podpore za krizno destilacijo, ce v letu 2020 odkupa grozdja bistveno ne
+zmanjša, razen zaradi višje sile.
+
+(3) Za namen prejšnjega odstavka se šteje, da odkup ni
+bistveno zmanjšan, ce upravicenec v letu 2020 odkupi grozdje v kolicini, ki ni
+manjša od 70 % odkupljene kolicine v letu 2019.
+
+(4) Izpolnjevanje pogoja iz drugega odstavka tega clena
+ugotavlja Agencija Republike Slovenije za kmetijske trge in razvoj podeželja (v
+nadaljnjem besedilu: agencija) po roku za prijavo pridelka grozdja, pri cemer
+podatek o odkupu grozdja preverja iz registra ali na kraju samem.
+
+6. clen
+
+(pogoji za pridobitev podpore)
+
+(1) Upravicenec iz prejšnjega clena lahko pridobi podporo,
+ce:
+
+-       
+destilira ali odda v destilacijo najmanj 25 000 litrov vina in
+
+-       
+je vino za destilacijo pridelano iz grozdja, pridelanega v Republiki
+Sloveniji v letu 2018 ali 2019.
+
+(2) Upravicenec lahko pridobi podporo za kolicino vina, ki ne
+presega 30 % kolicine prijavljenih zalog vina s slovenskim poreklom za leto
+2019.
+
+(3) Ne glede na dolocbo prve alineje prvega odstavka tega
+clena lahko upravicenec, ki je imel 13. marca 2020 v register prijavljenih manj
+kot 100 000 litrov vina letnika 2019, destilira ali odda v destilacijo najmanj
+5 000 litrov vina.
+
+7. clen
+
+(višina podpore)
+
+(1) Podpora za krizno destilacijo vina znaša 0,80 eura na
+liter vina za destilacijo.
+
+(2) Ce vsota odkupne cene vina s strani destilarne in podpore
+iz prejšnjega odstavka presega stroške pridelave vina za vinsko leto 2020/2021,
+pripravljene v okviru strokovnih nalog v rastlinski proizvodnji, se podpora
+sorazmerno zniža.
+
+8. clen
+
+(postopek za pridobitev sredstev)
+
+(1) Upravicenec do 5. avgusta 2020 pošlje zahtevek za
+dodelitev podpore za krizno destilacijo vina po pošti priporoceno na naslov:
+Agencija Republike Slovenije za kmetijske trge in razvoj podeželja, Dunajska
+cesta 160, 1000 Ljubljana, s pripisom »krizna destilacija vina«, ga odda v
+sprejemni pisarni agencije ali pošlje elektronsko na elektronski poštni naslov aktrp@gov.si s skeniranim podpisom.
+
+(2) Zahtevek iz prejšnjega odstavka mora vsebovati naslednje
+podatke:
+
+-       
+podatke o pridelovalcu vina (osebno ime ali firma, naslov ali sedež in
+KMG-MID);
+
+-       
+podatke o vinu, destiliranem ali oddanem v destilacijo (šifra pridelka
+vina iz registra in kolicina vina).
+
+(3) Sestavni del zahtevka iz prejšnjega odstavka so tudi
+naslednje priloge:
+
+-       
+dokazilo o oddaji vina destilarni (racun) ali dokazilo o destilaciji
+vina;
+
+-       
+izjava destilarne, da bo alkohol, proizveden z destilacijo tega vina,
+uporabljen izkljucno v industrijske namene, vkljucno z razkužili in
+farmacevtsko uporabo, ali za pridobivanje energije;
+
+-       
+izjava destilarne, da za to vino ni in ne bo uveljavljala pomoci za
+destilacijo vina iz sredstev Evropske unije ali katere koli države clanice;
+
+-       
+soglasje upravicenca, da agencija od Financne uprave Republike Slovenije
+pridobi podatke, ki jih potrebuje za vodenje upravnega postopka;
+
+-       
+za upravicence iz drugega odstavka 5. clena te uredbe tudi izjava
+upravicenca, da v letu 2020 ne bo bistveno zmanjšal odkupa grozdja.
+
+(4) Ce upravicenec ob oddaji zahtevka za dodelitev podpore še
+nima na voljo prilog iz prve in druge alineje prejšnjega odstavka, jih predloži
+agenciji najpozneje do 14. septembra 2020.
+
+(5) Za kolicino vina, ki do roka iz prejšnjega odstavka še ne
+bo destilirana, upravicenec vloži loceni zahtevek za dodelitev podpore v obliki
+predplacila v skladu z odstavkom 7a 3. clena Delegirane uredbe 2020/592/EU.
+
+(6) Upravicenec iz prejšnjega odstavka najpozneje do 14.
+septembra 2020 položi varšcino v višini 110% pricakovane podpore z veljavnostjo
+najmanj tri mesece po nameravani destilaciji, ki je pogoj za dodelitev podpore
+v obliki predplacila. Varšcina se vrne upravicencu po destilaciji in
+predložitvi prilog iz prve in druge alineje tretjega odstavka tega clena. Del
+varšcine, ki se nanaša na neizvedeni ukrep, agencija zaseže.
+
+(7) O izpolnjevanju pogojev se odloci najpozneje do 5.
+oktobra 2020.
+
+(8) Ce agencija ob preveritvi iz cetrtega odstavka 5. clena
+te uredbe ugotovi, da upravicenec ne izpolnjuje pogoja iz drugega odstavka 5.
+clena te uredbe, odloci o vracilu sredstev v skladu z zakonom, ki ureja
+kmetijstvo.
+
+9. clen
+
+(financne dolocbe)
+
+(1) Za zahtevke upravicencev, ki so imeli 13. marca 2020 v
+register prijavljenih vsaj 100 000 litrov vina letnika 2019, se nameni 93 %
+razpoložljivih sredstev za ukrep krizna destilacija vina, za upravicence z
+manjšo kolicino prijavljenega vina pa preostalih 7 % razpoložljivih sredstev.
+
+(2) Ce sredstva, namenjena eni skupini upravicencev iz
+prejšnjega odstavka, niso porabljena, se lahko namenijo za izplacilo zahtevkov
+druge skupine upravicencev, ce vsota zahtevkov za drugo skupino upravicencev
+presega razpoložljiva sredstva iz prejšnjega odstavka.
+
+(3) Ce vsota upravicenih
+zahtevkov iz prejšnjega clena presega razpoložljiva sredstva za ukrep krizna
+destilacija vina, se zahtevki odobrijo do porabe razpoložljivih sredstev v
+skladu z naslednjimi prednostnimi merili:
+
+
+
+
+  Prednostno merilo
+  
+  
+  Vrednost
+  
+ 
+  I. Pridelava vina letnika 2019 iz grozdja, ki ga je
+  upravicenec odkupil od pridelovalcev grozdja:
+  
+  
+ 
+  -       
+  odkupljena kolicina grozdja predstavlja vec kot 70 % v register
+  prijavljene kolicine grozdja letnika 2019,
+  
+  
+  10
+  
+ 
+  -       
+  odkupljena kolicina grozdja predstavlja 50 do 70 % v register
+  prijavljene kolicine grozdja letnika 2019,
+  
+  
+  8
+  
+ 
+  -       
+  odkupljena kolicina grozdja predstavlja 30 do 49 % v register
+  prijavljene kolicine grozdja letnika 2019,
+  
+  
+  5
+  
+ 
+  -       
+  grozdja ni odkupil ali pa odkupljena kolicina grozdja predstavlja manj
+  kot 30 % v register prijavljene kolicine grozdja letnika 2019;
+  
+  
+  0
+  
+ 
+  II. Prijava pridelka vina letnika 2019 v registru:
+  
+  
+ 
+  -       
+  upravicenec ima prijavljenih vec kot 1 milijon litrov vina,
+  
+  
+  10
+  
+ 
+  -       
+  upravicenec ima prijavljenih 500 000 do 1 milijon litrov
+  vina,
+  
+  
+  8
+  
+ 
+  -       
+  upravicenec ima prijavljenih 200 000 do 499 000 litrov vina,
+  
+  
+  6
+  
+ 
+  -       
+  upravicenec ima prijavljenih 100 000 do 199 000 litrov vina,
+  
+  
+  4
+  
+ 
+  -       
+  upravicenec ima prijavljenih manj kot 100 000 litrov vina.
+  
+  
+  2
+  
+ 
+
+(4) Ne glede na dolocbo drugega odstavka 6. clena te uredbe
+se upravicencu lahko dodeli podpora tudi za kolicino vina, ki presega 30 %
+kolicine prijave zalog vina s slovenskim poreklom za leto 2019, ce je vsota
+upravicenih zahtevkov iz prejšnjega clena manjša od razpoložljivih sredstev za
+ukrep krizna destilacija vina. V tem primeru se višina podpore doloci tako, da
+se višina preostalih razpoložljivih sredstev deli s kolicino vina iz zahtevkov,
+ki presega pogoj iz drugega odstavka 5. clena. Tako dolocena višina podpore ne
+sme presegati 0,80 eura na liter vina.
+
+III. KRIZNO SKLADIŠCENJE VINA
+
+10. clen
+
+(upravicenci)
+
+Podporo za krizno skladišcenje vina v skladu s 4. clenom
+Uredbe 592/2020/EU lahko uveljavlja pridelovalec vina, vpisan v register, ki je
+imel 13. marca 2020:
+
+-       
+v register prijavljenih vsaj 30 000 litrov vina letnika 2019 in
+
+-       
+za leto 2019 v register prijavljene zaloge vina v kolicini vsaj 50 %
+povprecnega v register prijavljenega pridelka vina pridelovalca zadnjih treh
+let.
+
+11. clen
+
+(pogoji za pridobitev podpore)
+
+(1) Upravicenec iz prejšnjega clena lahko pridobi podporo za
+krizno skladišcenje vina letnika 2018 oziroma 2019, pridelanega iz grozdja,
+pridelanega v Republiki Sloveniji, za cas od šestih mesecev do enega leta za
+kolicino vina, ki ne presega 20 % kolicine prijavljenega pridelka vina za leto
+2019.
+
+(2) Vino, ki je predmet podpore za krizno skladišcenje, se
+mora skladišciti najmanj v casu od 1. oktobra 2020 do 31. marca 2021.
+
+12. clen
+
+(višina podpore)
+
+(1) Podpora za krizno skladišcenje vina za eno leto znaša 10
+eurov na hektoliter vina. Za krajši cas skladišcenja se višina podpore
+sorazmerno zniža.
+
+(2) Podpora se dodeli v obliki predplacila pod pogoji iz odstavka
+6a 4. clena Delegirane uredbe 2020/592/EU.
+
+13. clen
+
+(postopek za pridobitev sredstev)
+
+(1) Upravicenec do 5. avgusta 2020 pošlje zahtevek za
+dodelitev podpore za krizno skladišcenje vina po pošti priporoceno na naslov:
+Agencija Republike Slovenije za kmetijske trge in razvoj podeželja, Dunajska
+cesta 160, 1000 Ljubljana, s pripisom »krizno skladišcenje vina«, ga odda v
+sprejemni pisarni agencije ali pošlje elektronsko na elektronski poštni naslov aktrp@gov.si s skeniranim podpisom.
+
+(2) Zahtevek iz prejšnjega odstavka mora vsebovati naslednje
+podatke:
+
+-       
+podatke o pridelovalcu vina (osebno ime ali podjetje, naslov ali sedež
+in KMG-MID);
+
+-       
+podatke o vinu, ki bo krizno skladišceno (šifra pridelka vina iz
+registra in kolicina vina, ki se bo skladišcila);
+
+-       
+podatke o casu kriznega skladišcenja vina;
+
+-       
+izjavo upravicenca, da za kolicino vina iz zahtevka ni uveljavljal
+podpore za krizno destilacijo vina;
+
+-       
+soglasje upravicenca, da agencija od Financne uprave Republike Slovenije
+pridobi podatke, ki jih potrebuje za vodenje upravnega postopka.
+
+(3) Agencija pred odlocitvijo o zahtevkih pozove k pologu
+varšcine upravicence, ki izpolnjujejo pogoje za dodelitev podpore. V pozivu
+doloci znesek in rok za placilo varšcine, ki je pogoj za dodelitev podpore v
+obliki predplacila. Agencija dodeli podporo v skladu z odstavkom 6a 4. clena
+Delegirane uredbe 2020/592/EU, upravicenec pa položi varšcino v višini 110% podpore,
+z veljavnostjo najmanj tri mesece po izteku casa skladišcenja vina.
+
+(4) O izpolnjevanju pogojev se odloci najpozneje do 30.
+septembra 2020.
+
+(5) Varšcina iz tretjega odstavka tega clena se vrne
+upravicencu po koncanem skladišcenju vina in preveritvi podatkov o vinu v
+registru ali na kraju samem. Del varšcine, ki se nanaša na neizvedeni ukrep,
+agencija zaseže.
+
+14. clen
+
+(financne dolocbe)
+
+Ce vsota upravicenih zahtevkov iz prejšnjega clena presega
+razpoložljiva sredstva za ukrep krizno skladišcenje vina, se višina podpore iz
+12. clena te uredbe sorazmerno zniža.
+
+IV. SKUPNE DOLOCBE
+
+15. clen
+
+(upravicenci)
+
+Sredstva po tej uredbi lahko uveljavlja upravicenec, ki
+izpolnjuje naslednje pogoje:
+
+-       
+ni izkljucen iz prejemanja podpore po zakonu, ki ureja kmetijstvo;
+
+-       
+na dan oddaje zahtevka za dodelitev podpore ne sme biti v osebnem
+stecaju, stecaju ali likvidaciji;
+
+-       
+na dan oddaje zahtevka ima lahko neporavnane zapadle obvezne dajatve v
+skladu z zakonom, ki ureja financno upravo, v višini, ki ne presega 50 eurov;
+
+-       
+za nakazilo dodeljenih sredstev ima odprt transakcijski racun v skladu z
+zakonom, ki ureja kmetijstvo.
+
+16. clen
+
+(nadzor in dokumentacija)
+
+(1) Nadzor nad izvajanjem ukrepov iz te uredbe opravlja
+agencija v skladu z 29. do 35. clenom Uredbe 1150/2016/EU. Nadzor lahko
+agencija opravi tudi na kraju samem.
+
+(2) Upravicenci, ki pridobijo sredstva po tej uredbi, morajo
+dokumentacijo, ki je bila podlaga za izplacilo sredstev, hraniti še najmanj pet
+let od datuma izplacila podpore.
+
+17. clen
+
+(predloge za vlaganje zahtevkov)
+
+Agencija na osrednjem spletnem mestu državne uprave objavi
+predloge obrazcev, ki jih upravicenci lahko uporabijo za vlaganje zahtevkov za
+uveljavljanje podpor po tej uredbi.
+
+18. clen
+
+(pridobitev sredstev)
+
+(1) Upravicenec, pri katerem se ugotovi, da je podporo iz te
+uredbe pridobil nezakonito oziroma jo je uporabil nenamensko, da ni upošteval
+dolocb iz te uredbe oziroma je dal lažno izjavo oziroma lažna dokazila ali je
+ravnal v nasprotju z dano izjavo, mora v proracun Republike Slovenije vrniti
+vsa nezakonito oziroma nenamensko pridobljena sredstva skupaj z zakonitimi
+zamudnimi obrestmi, ki tecejo od dneva izplacila pomoci.
+
+(2) O vracilu sredstev iz prejšnjega odstavka odloci
+agencija.
+
+V. DOVOLJENJA ZA ZASADITEV VINSKE TRTE
+
+19. clen
+
+(podaljšanje roka za izkrcitev)
+
+Za izvajanje 2. clena Izvedbene uredbe 2020/601/EU nosilec
+kmetijskega gospodarstva vloži vlogo za podaljšanje roka za izkrcitev vinograda
+pri upravni enoti, ki je izdala dovoljenje za ponovno zasaditev vinske trte,
+najmanj 15 dni pred rokom za izkrcitev vinograda.
+
+
+
+
+
+Uredba o ukrepih za odpravo motenj na trgu v
+vinskem sektorju zaradi pandemije COVID-19 (Uradni list RS, št. 103/20) vsebuje naslednjo koncno dolocbo:
+
+»VI. KONCNA DOLOCBA
+
+20. clen
+
+(koncna dolocba)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Uredba o spremembah in dopolnitvah Uredbe o
+ukrepih za odpravo motenj na trgu v vinskem sektorju zaradi pandemije COVID-19
+(Uradni list RS, št. 124/20) vsebuje naslednjo prehodno in
+koncno dolocbo:
+
+»PREHODNA IN KONCNA DOLOCBA
+
+6. clen
+
+(zahtevki za podporo)
+
+Zahtevki za podporo za krizno destilacijo vina in za krizno
+skladišcenje vina, vloženi v skladu z Uredbo o ukrepih za odpravo motenj na
+trgu v vinskem sektorju zaradi pandemije COVID-19 (Uradni list RS, št. 103/20),
+se obravnavajo v skladu s to uredbo.
+
+7. clen
+
+(zacetek veljavnosti)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

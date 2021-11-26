@@ -1,0 +1,192 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL GYVENTOJŲ SKIEPIJIMO VALSTYBĖS BIUDŽETO LĖŠOMIS ĮSIGYJAMA COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) VAKCINA ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO
+
+2020 m.  gruodžio 23 d. Nr. V-2997
+Vilnius
+
+Vadovaudamasis Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 11 straipsniu 4 dalimi, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu:
+1. T v i r t i n u  Gyventojų skiepijimo valstybės biudžeto lėšomis įsigyjama COVID-19 ligos (koronaviruso infekcijos) vakcina organizavimo tvarkos aprašą (pridedama).
+2. P a v e d u:
+2.1. Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centro direktoriui:
+2.1.1. organizuoti COVID-19 ligos (koronaviruso infekcijos) vakcinų įsigijimą, tinkamą jų laikymą (saugojimą) ir tiekimą asmens sveikatos priežiūros įstaigoms šiuo įsakymu patvirtinto Gyventojų skiepijimo valstybės biudžeto lėšomis įsigyjama COVID-19 ligos (koronaviruso infekcijos) vakcina organizavimo tvarkos aprašo nustatyta tvarka;
+2.1.2. užtikrinti  COVID-19 ligos (koronaviruso infekcijos) vakcinų pakuočių unikalių identifikatorių (jeigu yra) deaktyvinimą prieš patiekiant vakciną asmens sveikatos priežiūros įstaigoms; 
+2.2. paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) teikimą organizuojančioms asmens sveikatos priežiūros įstaigoms, nurodytoms Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 4 d. nutarimo Nr. 1226 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ priede, koordinuoti ir organizuoti jų veikimo teritorijoje esančių stacionarinių asmens sveikatos priežiūros įstaigų darbuotojų skiepijimą COVID-19 ligos (koronaviruso infekcijos) vakcina;
+2.3. Valstybinei vaistų kontrolės tarnybai prie Lietuvos Respublikos sveikatos apsaugos ministerijos savo interneto svetainėje www.vvkt.lt paskelbti COVID-19 ligos (koronaviruso infekcijos) vakcinos charakteristikų santrauką ir pakuotės lapelį lietuvių ir anglų kalbomis ir nuorodą į Bendrijos vaistinių preparatų registrą bei pagal kompetenciją teikti informaciją apie COVID-19 ligos (koronaviruso infekcijos) vakcinas sveikatos priežiūros specialistams paprašius.
+
+
+
+Sveikatos apsaugos ministras				Arūnas Dulkys
+
+
+PATVIRTINTA
+Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 23 d. įsakymu Nr. V-2997
+
+GYVENTOJŲ SKIEPIJIMO VALSTYBĖS BIUDŽETO LĖŠOMIS ĮSIGYJAMA COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) VAKCINA ORGANIZAVIMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1.	Gyventojų skiepijimo valstybės biudžeto lėšomis įsigyta COVID-19 ligos (koronaviruso infekcijos) vakcina organizavimo tvarkos aprašas (toliau – Aprašas) nustato skiepijimo COVID-19 ligos (koronaviruso infekcijos) (toliau – COVID-19 liga) vakcina (toliau – COVID-19 vakcina) paslaugų organizavimo ir teikimo tvarką, COVID-19 vakcinų laikymo ir transportavimo sąlygas, informacijos apie COVID-19 vakcinas pateikimo reikalavimus, skiepijimo COVID-19 vakcina paslaugos apmokėjimo tvarką. 
+2.	Paciento asmens duomenys, surinkti Aprašo nustatyta tvarka, tvarkomi COVID-19 ligos imunoprofilaktikos ir kitais epidemiologiniais tikslais. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų.
+3. Apraše vartojamos sąvokos:
+3.1.	Prioritetinė grupė – tikslinei grupei priklausantys asmenys, kurie, nesant kontraindikacijų, turi būti skiepijami COVID-19 vakcina pirmiausiai.
+3.2.	Rizikos grupė – asmenys, kuriems atsižvelgiant į jų amžių, sveikatos būklę, darbo ir (arba) socialinės veiklos pobūdį gresia didžiausia rizika užsikrėsti COVID-19 liga ir (ar) susirgti sunkia šios ligos forma.
+3.3.	Tikslinė grupė  – asmenys, turintys teisę į asmens sveikatos priežiūros paslaugas, apmokamas Privalomojo sveikatos draudimo fondo biudžeto ar valstybės biudžeto lėšomis.
+3.4.	COVID-19 vakcinaciją organizuojanti asmens sveikatos priežiūros įstaiga (toliau – skiepijimą organizuojanti ASPĮ) – savivaldybės (ar kelių savivaldybių) teritorijoje skiepijimą COVID-19 vakcina koordinuojanti ASPĮ, galinti paskiepyti ne mažiau nei 975 gyventojus per 5 kalendorines dienas. 
+3.5.	Skiepijanti ASPĮ – skiepijimą COVID-19 vakcina atliekanti ASPĮ, turinti įstaigos asmens sveikatos priežiūros licenciją, suteikiančią teisę teikti atitinkamas asmens sveikatos priežiūros paslaugas, kurių metu gali būti atliekama imunoprofilaktika.
+3.6.	Kitos Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose asmens sveikatos priežiūros paslaugų teikimą reglamentuojančiuose teisės aktuose.
+4.	Aprašas keičiamas atsiradus naujų įrodymais pagrįstos medicinos žinių, tarptautinių organizacijų rekomendacijų, COVID-19 vakcinų gamintojų informacijos apie COVID-19 vakciną ir COVID-19 ligos (koronaviruso infekcijos) eigą.
+5.	Prioritetines grupes tvirtina Lietuvos Respublikos sveikatos apsaugos ministras, atsižvelgdamas į Nepriklausomų ekspertų patariamosios tarybos, sudarytos Lietuvos Respublikos ministro pirmininko 2020 m. gruodžio 18 d. potvarkiu Nr. 183 „Dėl darbo grupės sudarymo“, siūlymus.
+6.	Pirmumo tvarka skiepijami tos pačios prioritetinės grupės, bet kelis rizikos faktorius, nurodytus Aprašo 3.2 papunktyje, turintys asmenys.
+7.	Skiepijimas vykdomas vadovaujantis šiais principais:
+7.1.	savanoriškumo (skiepijami tik rašytinį sutikimą davę asmenys ar asmenys, dėl kurių rašytinį sutikimą davė jų įstatyminiai atstovai);
+7.2.	 etapiškumo (skiepijamos pirmiausia didesnės rizikos grupės);
+7.3.	 teisėtumo (skiepijimas planuojamas ir atliekamas, vadovaujantis teisės aktų reikalavimais);
+7.4.	 ekonomiškumo (skiepijimą organizuojanti ASPĮ ir skiepijanti ASPĮ turi planuoti skiepijamų pacientų srautus ir dėti maksimalias pastangas, kad būtų panaudotos visos užsakytos COVID-19 vakcinos dozės);
+7.5.	eiliškumo (COVID-19 vakcinos skiepijančioms ASPĮ išduodamos eilės tvarka pagal paraiškos gauti COVID-19 vakciną (Aprašo priedas) (toliau – paraiška) pateikimo datą);
+7.6.	racionalumo (siekiama vienu metu paskiepyti didžiausią įmanomą viename kolektyve dirbančių darbuotojų, gyvenančių asmenų ar gydomų pacientų skaičių);
+7.7.	atsakomybės (asmens sveikatos priežiūros specialistas, skirdamas COVID-19 vakciną ir atlikdamas vakcinavimą atsižvelgia į COVID-19 vakcinos indikacijas, kontraindikacijas, įspėjimus ir pan., Aprašo nustatyta tvarka skiepijamam asmeniui suteikia visą reikalingą informaciją apie COVID-19 vakciną, įteikia pakuotės lapelį);
+7.8.	atskaitomybės (skiepijanti ASPĮ atsiskaito už valstybės lėšomis įsigytų COVID-19 vakcinų, skiepijimui reikalingų medicinos pagalbos priemonių bei asmens apsaugos priemonių panaudojimą).
+8.	ASPĮ, išskyrus palaikomojo gydymo ir slaugos paslaugas teikiančias ASPĮ,  socialinių pasaugų įstaigų, visuomenės sveikatos priežiūros įstaigų ir vaistinių darbuotojai pagal tikimybę užsikrėsti COVID-19 liga skirstomi į šias rizikos grupes:
+8.1.	 labai didelės rizikos – atliekamos funkcijos ir užduotys, susijusios galimai patiriamu kontaktu su SARS-CoV-2 virusu infekuotais aerozoliais (aerozolius generuojančios procedūros COVID-19 liga sergantiems pacientams, tokios kaip trachėjinė intubacija, neinvazinė plaučių ventiliacija, tracheotomija, bronchoskopija, spirometrija, autopsija), darbas su COVID-19 liga sergančiais pacientais mažose, blogai vėdinamose patalpose ir pan.;
+8.2.	 didelės rizikos – atliekamos funkcijos ir užduotys, susijusios su didele sąlyčio tikimybe su asmenimis, kuriems nustatyta COVID-19 liga arba kurie įtariami, kad serga COVID-19 liga (pvz., išvardytų asmenų pervežimas, jų priežiūra, šiems asmenims teikiamos odontologijos paslaugos);
+8.3.	 vidutinės rizikos – atliekamos funkcijos ir užduotys, kai sunku laikytis saugaus atstumo, dažni ir (ar) artimi kontaktai su kitu personalu ir kitais asmenimis, tačiau nebūtinas sąlytis su asmenimis, kuriems nustatyta COVID-19 liga arba kurie įtariami, kad serga COVID-19 liga (pvz., stacionarinės ir ambulatorinės tiesioginio kontakto paslaugos, teikiamos užkrečiamųjų ligų požymių neturintiems pacientams, medicininė reabilitacija);
+8.4.	 mažos rizikos – priskirtoms funkcijoms ir užduotims atlikti reikalingas  minimalus kontaktas su kitu personalu ir kitais asmenimis, dirbama atokiai nuo kito personalo, teikiamos tik nuotolinės sveikatos priežiūros paslaugos.
+9.	Skiepijimo COVID-19 vakcina etapai pagal COVID-19 vakcinos prieinamumą:
+9.1.	 labai riboto COVID-19 vakcinos prieinamumo etapas (kai gauta iki 10 proc. tikslinei grupei paskiepyti reikalingo vakcinos kiekio). Paskiepijami labai didelės ir didelės rizikos Aprašo 8 punkte nurodytų ASPĮ (įskaitant mobiliųjų komandų, karščiavimo klinikų, mobiliųjų punktų darbuotojus, savanorius, dalyvaujančius COVID-19 ligos (koronaviruso infekcijos) pandemijos valdymo veiksmuose), socialinių paslaugų įstaigų ir visuomenės sveikatos priežiūros įstaigų darbuotojai,  palaikomojo gydymo ir slaugos įstaigų darbuotojai. Pradedami skiepyti 65 m. amžiaus ir vyresni aktyviojo stacionarinio gydymo, dienos stacionaro ir (ar) dializės paslaugas gaunantys pacientai, palaikomojo gydymo ir slaugos įstaigų pacientai, socialinių paslaugų įstaigų gyventojai;
+9.2.	 riboto COVID-19 vakcinos prieinamumo etapas (kai gauta nuo 11  iki 20 proc. tikslinei grupei paskiepyti reikalingo vakcinos kiekio). Tęsiamas visų palaikomojo gydymo ir slaugos įstaigų pacientų, socialinių paslaugų įstaigų gyventojų, visų 65 m. amžiaus ir vyresnių asmenų skiepijimas. Pradedami skiepyti gretutinėmis ligomis sergantys asmenys ir vidutinės rizikos Aprašo 8 punkte nurodytų ASPĮ ir vaistinių darbuotojai. Pagal galimybes pradedami skiepyti artimo ir (ar) ilgalaikio socialinio kontakto negalintys išvengti ar visuomenei svarbias funkcijas vykdantys darbuotojai, nurodyti Aprašo 5.5 papunktyje;
+9.3.	 vidutinio COVID-19 vakcinos prieinamumo etapas (kai gauta nuo 21 iki 50 proc. tikslinei grupei paskiepyti reikalingo vakcinos kiekio). Tęsiamas vidutinės rizikos Aprašo 8 punkte nurodytų ASPĮ darbuotojų ir vaistinių darbuotojų, artimo ir (ar) ilgalaikio socialinio kontakto negalinčių išvengti ar visuomenei svarbias funkcijas vykdančių darbuotojų, nurodytų Aprašo 5.5 papunktyje, skiepijimas. Pradedami skiepyti mažos rizikos Aprašo 8 punkte nurodytų ASPĮ darbuotojai, nėščiosios ir maitinančios motinos;
+9.4.	 gero COVID-19 vakcinos prieinamumo etapas (kai gauta 51 proc. ir daugiau tikslinei grupei paskiepyti reikalingo vakcinos kiekio) – skiepijami visi kiti to pageidaujantys tikslinės grupės asmenys.
+
+II SKYRIUS
+SKIEPIJIMO COVID-19 VAKCINA ORGANIZAVIMO TVARKA
+
+10.	Skiepijimo COVID-19 vakcina paslaugos teikiamos vadovaujantis:
+10.1.	 Imunoprofilaktikos organizavimo ir atlikimo tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. rugsėjo 23 d. įsakymu Nr. 468 „Dėl Imunoprofilaktikos organizavimo ir atlikimo tvarkos aprašo patvirtinimo“ (toliau – Imunoprofilaktikos aprašas),  7, 11, 13 punktais ir 1–3 priedais;
+10.2.	 COVID-19 vakcinos registracijos metu patvirtinta COVID-19 vakcinos charakteristikų santrauka;
+10.3.	įrodymais pagrįstos medicinos žiniomis apie imunoprofilaktikos taikymą COVID-19 ligai valdyti.
+11.	Atsižvelgiant į COVID-19 vakcinos laikymo ir transportavimo reikalavimų ypatumus, COVID-19 vakcinos skirstomos į:
+11.1.	įprastos šalčio grandinės (2 oC – 8 oC temperatūra) sąlygomis saugomas COVID-19 vakcinas (toliau – įprastos vakcinos);
+11.2.	ypač žemos temperatūros (-70 oC ir žemesnės) sąlygomis saugomas COVID-19 vakcinas (toliau – „ledo“ vakcina).
+12.	COVID-19 vakcinos visoje tiekimo grandinėje, įskaitant ASPĮ, turi būti laikomos ir transportuojamos gamintojo nustatytomis sąlygomis, užtikrinant drėgmės ir temperatūros atitiktį šiems reikalavimams, kad nebūtų pažeista COVID-19 vakcinų kokybė. Skiepijanti ASPĮ, prieš ardydama išorinę (jei jos nėra, vidinę) pakuotę, turi patikrinti pakuotės apsauginį prietaisą, siekdama įsitikinti, kad pakuotė yra vientisa ir nebuvo bandoma ją neteisėtai išardyti. Jeigu nustatoma, kad pakuotę buvo bandoma neteisėtai išardyti, vaistinio preparato, esančio šioje pakuotėje, negalima vartoti, pakuotė turi būti padedama ir laikoma gamintojo nustatytomis sąlygomis atskirai nuo kitų vaistinių preparatų ir išsiunčiamas pranešimas apie nustatytą neteisėtą pakuotės pažeidimo atvejį  Valstybinei vaistų kontrolės tarnybai,  vaistinio preparato registruotojui ir tiekėjui, vadovaujantis Vaistinių preparatų laikymo ir įtraukimo į apskaitą asmens sveikatos priežiūros įstaigose tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2006 m. gruodžio 13 d. įsakymu Nr. V-1051 įsakymu „Dėl Vaistinių preparatų laikymo ir įtraukimo į apskaitą asmens sveikatos priežiūros įstaigose tvarkos aprašo patvirtinimo“, 95 punkto nuostatomis. 
+13.	Skiepijimą organizuojančios ASPĮ, užsakydamos COVID-19 vakciną, Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centrui (toliau – ESSC) ar pagal sutartį su ESSC sandėliavimo ir transportavimo paslaugas teikiančiam juridiniam asmeniui, Lietuvos Respublikos farmacijos įstatymo nustatyta tvarka įgijusiam didmeninio platinimo licenciją (toliau – sutarties vykdytojas), pateikia vadovo ar jo įgalioto asmens pasirašytą paraišką. Paraiškoje nurodomas paskiepyti numatytų asmenų skaičius. ESSC, teikdama paraiškoje nurodytam asmenų skaičiui pirmajai vakcinacijai reikalingą COVID-19 vakcinos dozių kiekį, rezervuoja tai skiepijimą organizuojančiai ASPĮ to paties registruotojo (gamintojo) paraiškoje nurodytam asmenų skaičiui antrajai vakcinacijai reikalingą COVID-19 vakcinos dozių kiekį.
+14.	Savivaldybės administracijos paskirtas savivaldybės vakcinacijos COVID-19 vakcina skiepijimo koordinatorius:
+14.1.	koordinuoja COVID-19 vakcinų pristatymo į savivaldybę procesą su ESSC ar sutarties vykdytoju;
+14.2.	koordinuoja skiepijimą organizuojančių ASPĮ darbą, kad būtų savanoriškai paskiepyti visi toje savivaldybėje gyvenantys prioritetinių grupių asmenys pagal Aprašo 9 punkte numatytą etapiškumą;
+14.3.	užtikrina tinkamą ir efektyvų COVID-19 vakcinų panaudojimą pagal COVID-19 vakcinos charakteristikų santraukoje nurodytus reikalavimus;
+14.4.	užtikrina, kad savivaldybėje būtų parengti ir sklandžiai įgyvendinti savivaldybės gyventojų skiepijimo COVID-19 vakcina planai, apimantys visus savivaldybės prioritetinių grupių gyventojus.
+15.	Skiepijimą organizuojanti ASPĮ:
+15.1.	suderinusi su skiepijimo koordinatoriumi, sudaro skiepijimo paslaugas teikiančių specialistų sąrašus, įvertina papildomų specialistų poreikį ir pagal poreikį organizuoja jų mokymus;
+15.2.	planuoja skiepijamų pacientų srautus, atsižvelgdama į:
+15.2.1.	kiekvienos pirminės asmens sveikatos priežiūros paslaugas teikiančios ASPĮ sudarytus prirašytų gyventojų sąrašus pagal jų priskyrimą prioritetinėms grupėms;
+15.2.2.	darbdavių sudarytus darbuotojų, priskiriamų rizikos grupėms pagal darbo pobūdį, sąrašus;
+15.3.	planuoja reikalingo COVID-19 vakcinų kiekio užsakymą ir pristatymą į skiepijančias ASPĮ.
+16.	Siekiant racionaliai naudoti sudėtingesnių laikymo ir transportavimų sąlygų reikalaujančias „ledo“ COVID-19 vakcinas, jomis skiepijama pagal centralizuotą modelį:
+16.1.	„ledo“ vakcinomis skiepija tik skiepijimą organizuojančios ASPĮ ir paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) teikimą organizuojančios asmens sveikatos priežiūros įstaigos, nurodytos Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 4 d. nutarimo Nr. 1226 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ priede (toliau – paslaugas organizuojanti ASPĮ);
+16.2.	Skiepijimą organizuojanti ASPĮ ir paslaugas organizuojanti ASPĮ, užsakydamos „ledo“ vakcinas, kiekvieną pirmadienį pateikia paraišką ESSC ar sutarties vykdytojui, nurodydamos kitos savaitės COVID-19 vakcinos poreikį. Vienu kartu užsakomas COVID-19 vakcinos kiekis negali būti didesnis, nei skiepijimą organizuojanti ASPĮ ir paslaugas organizuojanti ASPĮ gali paskiepyti pacientų per registracijos metu patvirtintoje COVID-19 vakcinos charakteristikų santraukoje nustatytą terminą, kad būtų užtikrintas maksimalus gautos COVID-19 vakcinos panaudojimas per vakcinos gamintojo nurodytą laiką; 
+16.3.	ESSC ar sutarties vykdytojas skiepijimą organizuojančiai ASPĮ ir paslaugas organizuojančiai ASPĮ ne vėliau kaip per 7 dienas po užsakymo gavimo pateikia jų užsakytą „ledo“ vakcinų kiekį. Kartu su kiekviena „ledo“ vakcinos siunta pateikia registracijos metu patvirtintus pakuotės lapelius lietuvių kalba bei informaciją, kur galima rasti Europos Komisijos patvirtinto pakuotės lapelio informaciją ir COVID-19 vakcinos charakteristikų santrauką, nurodydami interneto svetainės adresą. Pateikiamų pakuotės lapelių skaičius turi būti ne mažesnis negu tiekiamų COVID-19 vakcinų dozių skaičius, išskyrus atvejus, kai skiepijimą organizuojanti ASPĮ ar paslaugas organizuojanti ASPĮ paprašo kitokio pakuočių lapelių skaičiaus;
+16.4.	Skiepijimą organizuojanti ASPĮ ir paslaugas organizuojanti ASPĮ „ledo“ vakcinas saugo gamintojo nustatytomis laikymo sąlygomis.
+17.	Įprastomis vakcinomis skiepijama pagal decentralizuotą modelį:
+17.1.	įprastomis vakcinomis skiepija skiepijimą organizuojanti ASPĮ ir skiepijančios ASPĮ;
+17.2.	skiepijanti ASPĮ, užsakydama COVID-19 vakcinas, iki einamosios savaitės penktadienio pateikia paraišką skiepijimą organizuojančiai ASPĮ, nurodydama COVID-19 vakcinos kiekį, kurį gali laikyti ir pagal paskirtį sunaudoti per registracijos metu patvirtintoje COVID-19 vakcinos charakteristikų santraukoje nustatytą terminą tokiam asmenų skaičiui, kad būtų užtikrintas maksimalus gautos COVID-19 vakcinos panaudojimas per vakcinos gamintojo nurodytą laiką;
+17.3.	organizuojanti ASPĮ kiekvieną penktadienį ESSC ar sutarties vykdytojui pateikia paraišką, nurodydama bendrą savo ir skiepijančių ASPĮ COVID-19 vakcinos poreikį;
+17.4.	ESSC ar sutarties vykdytojas ne vėliau kaip per 7 dienas po užsakymo gavimo skiepijimą organizuojančiai ASPĮ pateikia jos užsakytą COVID-19 vakcinų kiekį. Kartu su kiekviena įprastos vakcinos siunta pateikia registracijos metu patvirtintus pakuotės lapelius lietuvių kalba bei informaciją, kur galima rasti Europos Komisijos patvirtinto pakuotės lapelio informaciją ir COVID-19 vakcinos charakteristikų santrauką, nurodydami interneto svetainės adresą. Pateikiamų pakuotės lapelių skaičius turi būti ne mažesnis negu tiekiamų COVID-19 vakcinų dozių skaičius, išskyrus atvejus, kai imunoprofilaktiką atliekanti ASPĮ paprašo kitokio pakuočių lapelių skaičiaus;
+17.5.	skiepijimą organizuojanti ASPĮ, gavusi užsakytą kiekį įprastų vakcinų, pasilieka jai reikalingą įprastų vakcinų kiekį, o kitas paskirsto jos veiklos zonoje esančioms skiepijančioms ASPĮ, atsižvelgdama į jų pateiktose paraiškose nurodytus COVID-19  vakcinos kiekius;
+17.6.	skiepijimą organizuojanti ASPĮ užtikrina įprastų vakcinų transportavimą jos veiklos zonoje esančioms skiepijančioms ASPĮ tokiomis sąlygomis, kad nebūtų pažeista COVID-19 vakcinų kokybė. Prie siuntų turi būti pridedami pakuotės lapeliai lietuvių kalba ir informacija, nurodyta Aprašo 10.2 papunktyje;
+17.7.	skiepijanti ASPĮ atlieka skiepijimus per registracijos metu patvirtintoje COVID-19 vakcinos charakteristikų santraukoje nustatytą terminą tokiam asmenų skaičiui, kad būtų užtikrintas maksimalus gautos COVID-19 vakcinos panaudojimas.
+18.	Skirtingose veikimo teritorijose ir (ar) savivaldybėse esančios skiepijimą organizuojančios ASPĮ gali susitarti dėl skiepijamų pacientų srautų perskirstymo, įvertinusios galimybes racionaliai ir ekonomiškai panaudoti COVID-19 vakciną ir pagal tarpusavio sutartį pacientų srautus skiepijimui nukreipti į vieną iš sutartyje dalyvaujančių ASPĮ.
+19.	Skiepijimas, suderinus su skiepijimą organizuojančia ASPĮ, gali būti atliekamas ir kitose vietose (pvz., darbovietėse, socialinių paslaugų įstaigose, pacientų namuose ar laikinai įrengtose skiepijimo vietose), kai skiepijimus atlieka skiepijančios ASPĮ specialistas, užtikrindamas medicinos dokumentų pildymo, imunoprofilaktikos atlikimo ir infekcijų kontrolės reikalavimus.
+20.	Skiepijimą organizuojančios ir skiepijančios ASPĮ privalo užtikrinti, kad:
+20.1.	kiekvienas pacientas būtų paskiepytas to paties registruotojo COVID-19 vakcina pagal schemą, nurodytą registracijos metu patvirtintoje COVID-19 vakcinos charakteristikų santraukoje;
+20.2.	skiepijimui naudojama COVID-19 vakcina būtų saugoma ir naudojama laikantis Imunoprofilaktikos aprašo ir registracijos metu patvirtintos COVID-19 vakcinos charakteristikų santraukos reikalavimų;
+20.3.	sveikatos priežiūros specialistai duomenis apie atliktą skiepijimą COVID-19 vakcina pateiktų į Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą, užpildydami formą E063 „Vakcinacijos įrašas“;
+20.4.	duomenys apie panaudotas COVID-19 vakcinas būtų įrašomi į registracijos žurnalą arba ASPĮ naudojamą vidinę informacinę sistemą skiepijimą organizuojančios ar skiepijančios ASPĮ nustatyta tvarka;
+20.5.	sveikatos priežiūros specialistas, pirmą kartą paskiepijęs pacientą COVID-19 vakcina, įteiktų jam COVID-19 vakcinos pakuotės lapelio kopiją su užrašytu revakcinacijos laiku ir primintų, kad atlikti revakcinacijos pacientas turi ateiti nurodytu laiku;
+20.6.	tarptautinio skiepijimo ar profilaktikos priemonių pažymėjimas (Tarptautinio skiepijimo ar profilaktikos priemonių pažymėjimo pildymo ir išdavimo tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2011 m. gruodžio 2 d. įsakymu Nr. V-1032 „Dėl Tarptautinio skiepijimo ar profilaktikos priemonių pažymėjimo pildymo ir išdavimo tvarkos aprašo patvirtinimo“, priedas) būtų išduodamas COVID-19 vakcina paskiepytam pacientui to pageidaujant, bet ne anksčiau nei jam bus atlikta vakcinacija paskutine COVID-19 vakcinos doze (kai pilnai vakcinacijai atlikti reikia daugiau nei vienos COVID-19 vakcinos dozės).
+21.	Sveikatos priežiūros specialistai, skiepijantys COVID-19 vakcina, privalo naudoti II saugumo lygio asmenines apsaugos priemones (toliau – AAP), nurodytas Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. balandžio 7 d. sprendimo Nr. V-754 „Dėl asmeninės apsaugos priemonių naudojimo asmens sveikatos priežiūros įstaigose pagal saugumo lygius“ priede.
+22.	Panaudotos AAP ir skiepijant naudotos medicinos priemonės (prietaisai) tvarkomos vadovaujantis Lietuvos higienos norma HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“, patvirtinta Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. liepos 18 d. įsakymu Nr. V-706 „Dėl Lietuvos higienos normos HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“ patvirtinimo“.
+
+III SKYRIUS
+COVID-19 VAKCINŲ PANAUDOJIMO PRIEŽIŪRA, ATSEKAMUMO IR ĮTARIAMŲ NEPAGEIDAUJAMŲ REAKCIJŲ STEBĖSENOS TVARKA
+
+23.	COVID-19 vakcina turi būti apskaitoma taip, kad būtų užtikrintas jos atsekamumas nuo gamintojo iki suvartojimo ASPĮ.
+24.	Pasireiškus nepageidaujamai reakcijai, asmens sveikatos priežiūros specialistas, prižiūrintis pacientą ar jį skiepijęs COVID-19 vakcina, kaip galima greičiau, bet ne vėliau kaip per 15 dienų nuo įtariamos nepageidaujamos reakcijos atsiradimo, Valstybinei vaistų kontrolės tarnybai prie Lietuvos Respublikos sveikatos apsaugos ministerijos (toliau – VVKT) turi pateikti Sveikatos priežiūros ar farmacijos specialisto pranešimą apie įtariamą nepageidaujamą reakciją (ĮNR), kurio forma patvirtinta Lietuvos Respublikos sveikatos apsaugos ministro 2013 m. vasario 20 d. įsakymu Nr. V-185 „Dėl Sveikatos priežiūros ar farmacijos specialisto pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) pateikimo tvarkos aprašo, Sveikatos priežiūros ar farmacijos specialisto pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) formos ir Paciento pranešimo apie įtariamą nepageidaujamą reakciją (ĮNR) formos patvirtinimo“ (toliau – įsakymas Nr. V-185), skelbiamą VVKT interneto svetainėje https://vapris.vvkt.lt/vvkt-web/public/nrvSpecialist, užpildydamas jį tiesiogiai arba užpildytą formą pateikdamas elektroniniu paštu (adresu NepageidaujamaR@vvkt.lt).
+25.	Pasireiškus įtariamai nepageidaujamai reakcijai į COVID-19 vakciną, pacientui rekomenduojama pateikti Paciento pranešimą apie įtariamą nepageidaujamą reakciją (ĮNR), kurio forma patvirtinta įsakymu Nr. V-185, skelbiamą VVKT internetinėje svetainėje https://vapris.vvkt.lt/vvkt-web/public/nrv, užpildant jį tiesiogiai arba užpildytą formą pateikiant elektroniniu paštu (adresu NepageidaujamaR@vvkt.lt). Pranešti apie įtariamą nepageidaujamą reakciją į COVID-19 vakciną galima ir nemokamu telefonu 8 800 73 568.
+26.	Pradėjus Lietuvoje skiepijimą COVID-19 vakcina, VVKT pirmus šešis mėnesius kartą per mėnesį, o vėliau – kartą per ketvirtį įvertina ir apibendrina pateiktus įtariamų nepageidaujamų reakcijų į COVID-19 vakcinas pranešimus ir duomenis teikia Lietuvos Respublikos sveikatos apsaugos ministerijai.
+
+IV  SKYRIUS
+APMOKĖJIMO TVARKA
+
+27.	Skiepijimo COVID-19 vakcina išlaidos apmokamos valstybės biudžeto lėšomis. Skiepijanti ASPĮ iki kiekvieno mėnesio 5 dienos sudaro ankstesnio mėnesio atliktų skiepijimo paslaugų išlaidų sąmatą, kurioje nurodo atliktų paslaugų skaičių ir raštu pateikia ją Sveikatos apsaugos ministerijai.
+_________________________________
+
+
+Gyventojų skiepijimo valstybės biudžeto lėšomis įsigyta COVID-19 ligos (koronaviruso infekcijos) vakcina  organizavimo tvarkos aprašo
+priedas
+
+(Paraiškos COVID-19 vakcinai gauti forma)
+
+
+
+______________________________________________________________________
+(Asmens sveikatos priežiūros įstaigos pavadinimas, adresas)
+
+
+____________________________
+(Įgaliotos institucijos pavadinimas)
+
+
+
+
+paraiška COVID-19 vakcinai gauti
+
+20   m.                  d. Nr. 
+_____________________________ 
+(sudarymo vieta)
+
+
+Eil. Nr.
+Imuninio vaistinio preparato pavadinimas
+COVID-19 vakcinos likutis paraiškos pateikimo dieną (dozėmis)
+1 mėnesio vidutinis COVID-19 vakcinos poreikis (dozėmis)  
+Laikotarpis, kuriam prašoma skirti COVID-19 vakcinos
+Prašomas COVID-19 vakcinos kiekis (dozėmis)
+Pastabos
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+COVID-19 vakcina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________     _________________  _________________________________
+(Atsakingo asmens pareigos)              	(Parašas)                                     (Vardas ir pavardė)	
+
+
+
+
+
+Dokumento rengėjo nuoroda (vardas, pavardė, tel. Nr., el. p.)
+
+

@@ -1,0 +1,31 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. BIRŽELIO 16 D. ĮSAKYMO NR. V-1480 „DĖL ASMENŲ, KURIEMS DIAGNOZUOTA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IZOLIUOTŲ NAMUOSE, KITOJE GYVENAMOJOJE VIETOJE, SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE AR SVEIKATOS PRIEŽIŪROS ĮSTAIGOS, TEIKIANČIOS STACIONARINES MEDICININĖS REABILITACIJOS PASLAUGAS, PATALPOSE, AMBULATORINIO GYDYMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2020 m. gruodžio 7 d. Nr. V-2831
+Vilnius
+
+P a k e i č i u  Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. birželio 16 d. įsakymu Nr. V-1480 „Dėl Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašo patvirtinimo“:
+1. Pakeičiu 1 punktą ir jį išdėstau taip: 
+„1. Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašas (toliau – Aprašas) nustato pirminės ambulatorinės asmens sveikatos priežiūros šeimos gydytojo komandos paslaugas teikiančių asmens sveikatos priežiūros įstaigų (toliau – PAASPĮ) atliekamo pacientų, kuriems diagnozuota lengvos formos COVID-19 liga (koronaviruso infekcija), ir asmenų, kuriems diagnozuota besimptomės formos COVID-19 liga (koronaviruso infekcija) (toliau – pacientas), izoliuotų namuose, kitoje gyvenamojoje vietoje (taip pat ir socialinės globos įstaigose) (toliau – kita gyvenamoji vieta), savivaldybės administracijos numatytose patalpose ar asmens sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas (toliau – SPĮ), patalpose, stebėjimo, gydymo ir išrašymo iš stacionarines asmens sveikatos priežiūros paslaugas teikiančių asmens sveikatos priežiūros įstaigų (toliau – SASPĮ) ir karščiavimo klinikų gydytis ambulatoriškai reikalavimus.“
+2. Pakeičiu 3.2 papunkčio pirmąją pastraipą ir ją išdėstau taip:
+„3.2. kai asmeniui atliekamas tyrimas dėl COVID-19 ligos (koronaviruso infekcijos) sveikatos apsaugos ministro nustatyta tvarka, karščiavimo klinikos ar SASPĮ skubiosios medicinos pagalbos skyriaus sveikatos priežiūros specialistas į ESPBI IS pateikia elektroniniu parašu pasirašytą formą E025 „Ambulatorinio apsilankymo aprašymas“ (toliau – forma E025), kurioje pažymi, kad:“.
+3. Papildau 3.3 papunkčiu:
+„3.3. kai šeimos gydytojas diagnozuoja pacientui COVID-19 ligą (koronaviruso infekciją), jei jam neatliktas SARS-CoV-2 viruso tyrimas, esant aiškiai COVID-19 ligos (koronaviruso infekcijos) klinikai ir epidemiologinei anamnezei (t. y. pacientui pasireiškia COVID-19 ligai (koronaviruso infekcijai) būdingi simptomai per 14 dienų nuo paskutinės sąlyčio dienos su kartu gyvenančiu šeimos nariu ar kitu asmeniu, sergančiu COVID-19 liga (koronaviruso infekcija), kuriam diagnozė patvirtinta, atliktus laboratorinį SARS-CoV-2 viruso tyrimą PGR metodu).“ 
+4. Pakeičiu 4.1 papunktį ir jį išdėstau taip: 
+„4.1. PAASPĮ ar šeimos gydytojas gauna pranešimą apie prirašytiems pacientams atliktus SARS-CoV-2 viruso (tiriant PGR metodu) tyrimus į ESPBI IS arba šeimos gydytoją ar slaugytoją informuoja pacientas apie jam laboratoriniu tyrimu nustatytą COVID-19 ligą (koronaviruso infekciją), arba Aprašo 3.3 papunktyje nustatytu atveju šeimos gydytojas diagnozuoja COVID-19 ligą (koronaviruso infekciją);“.
+5. Pakeičiu 4.2 papunktį ir jį išdėstau taip: 
+„4.2. šeimos gydytojas ar slaugytojas Aprašo 4.1 papunktyje nurodytos informacijos gavimo dieną (jei ši informacija gauta po šeimos gydytojo ar slaugytojo darbo valandų – kitą darbo dieną) patikrina ESPBI IS laboratorijos pateiktą formą E200-a „Laboratorinio tyrimo rezultatų (duomenų) protokolas“ (toliau – forma E200-a). Jei formoje E200-a nurodyta, kad tyrimas teigiamas (tepinėlyje randamas SARS-CoV-2 virusas (tiriant PGR metodu) (toliau – teigiamas tyrimas), šeimos gydytojas ESPBI IS formoje E025 įrašo diagnozę pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM), nurodydamas ligos kodą U07.1 „Koronaviruso COVID-19 sukelta ūminė kvėpavimo takų (respiracinė) liga“. 
+Kai šeimos gydytojas diagnozuoja COVID-19 ligą (koronaviruso infekciją) Aprašo 3.3 papunktyje nustatytu atveju, jis tą pačią dieną ESPBI IS formoje E025 įrašo diagnozę pagal TLK-10-AM, nurodydamas ligos kodą U07.2 „COVID-19 liga, virusas nenustatytas“;“.
+6. Pakeičiu 4.4 papunkčio pirmąją pastraipą ir ją išdėstau taip: 
+„4.4. PAASPĮ vadovo paskirtas asmuo (šeimos gydytojas arba slaugytojas) tą pačią dieną, kai ESPBI IS formoje E025 įrašo Aprašo 4.2 papunktyje nurodytą diagnozę, nuotoliniu būdu susisiekia su pacientu ir:“.
+7. Pakeičiu 4.4.5 papunktį ir jį išdėstau taip: 
+„4.4.5. jeigu pacientas buvo tirtas mobiliajame punkte ar SASPĮ skubiosios medicinos pagalbos skyriuje, ar PAASPĮ, ar kai šeimos gydytojas diagnozuoja COVID-19 ligą (koronaviruso infekciją) Aprašo 3.3 papunktyje nustatytu atveju, šeimos gydytojas įvertina paciento sveikatos būklę ir kartu su slaugytoju ir pacientu sudaro paciento gydymo ir stebėsenos planą;“.
+
+
+
+Laikinai einantis sveikatos apsaugos ministro pareigas		   Aurelijus Veryga
+

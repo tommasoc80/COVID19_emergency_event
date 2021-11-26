@@ -1,0 +1,1386 @@
+Zakon o spremembi in dopolnitvah Zakona o zacasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19) (ZZUSUDJZ-A)
+2020-04-30
+Povezava na Uradni list:
+                       
+                       
+                         Uradni list RS, št. 61/20
+                       
+                       
+                         Neuradno precišceno besedilo, ki vsebuje to spremembo:
+                       
+                       
+
+                         
+                         
+
+                         Opozorilo: Neuradno precišceno besedilo predpisa predstavlja zgolj
+informativni delovni pripomocek, glede katerega organ ne jamci odškodninsko ali
+kako drugace
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+h4
+	{mso-style-name:"Naslov 4\,Grafika";
+	mso-style-link:"Naslov 4 Znak\,Grafika Znak";
+	margin-right:0cm;
+	margin-left:0cm;
+	text-align:center;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:normal;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Komentar - besedilo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Glava Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Noga Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+span.MsoHyperlink
+	{color:blue;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.05pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:7.0pt;
+	font-family:"Times New Roman","serif";
+	color:#333333;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Besedilo oblacka Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:35.4pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alinejazarkovnotoko, li.Alinejazarkovnotoko, div.Alinejazarkovnotoko
+	{mso-style-name:"Alineja za crkovno tocko";
+	mso-style-link:"Alineja za crkovno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NogaZnak
+	{mso-style-name:"Noga Znak";
+	mso-style-link:Noga;
+	font-family:"Times New Roman","serif";}
+span.GlavaZnak
+	{mso-style-name:"Glava Znak";
+	mso-style-link:Glava;
+	font-family:"Arial","sans-serif";}
+p.Vrstapredpisa, li.Vrstapredpisa, div.Vrstapredpisa
+	{mso-style-name:"Vrsta predpisa";
+	mso-style-link:"Vrsta predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Naslovpredpisa, li.Naslovpredpisa, div.Naslovpredpisa
+	{mso-style-name:Naslov_predpisa;
+	mso-style-link:"Naslov_predpisa Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.VrstapredpisaZnak
+	{mso-style-name:"Vrsta predpisa Znak";
+	mso-style-link:"Vrsta predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Poglavje, li.Poglavje, div.Poglavje
+	{mso-style-name:Poglavje;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NaslovpredpisaZnak
+	{mso-style-name:"Naslov_predpisa Znak";
+	mso-style-link:Naslov_predpisa;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.len, li.len, div.len
+	{mso-style-name:Clen;
+	mso-style-link:"Clen Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+p.tevilnatoka111, li.tevilnatoka111, div.tevilnatoka111
+	{mso-style-name:"Številcna tocka 1\.1\.1";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:22.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-22.7pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lenZnak
+	{mso-style-name:"Clen Znak";
+	mso-style-link:Clen;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Odstavek, li.Odstavek, div.Odstavek
+	{mso-style-name:Odstavek;
+	mso-style-link:"Odstavek Znak";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Pravnapodlaga, li.Pravnapodlaga, div.Pravnapodlaga
+	{mso-style-name:"Pravna podlaga";
+	mso-style-link:"Pravna podlaga Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OdstavekZnak
+	{mso-style-name:"Odstavek Znak";
+	mso-style-link:Odstavek;
+	font-family:"Arial","sans-serif";}
+span.AlinejazarkovnotokoZnak
+	{mso-style-name:"Alineja za crkovno tocko Znak";
+	mso-style-link:"Alineja za crkovno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoa, li.rkovnatokazatevilnotokoa, div.rkovnatokazatevilnotokoa
+	{mso-style-name:"Crkovna tocka za številcno tocko \(a\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Prehodneinkoncnedolocbe, li.Prehodneinkoncnedolocbe, div.Prehodneinkoncnedolocbe
+	{mso-style-name:"Prehodne in koncne dolocbe";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:30.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.BesedilooblakaZnak
+	{mso-style-name:"Besedilo oblacka Znak";
+	mso-style-link:"Besedilo oblacka";
+	font-family:"Tahoma","sans-serif";}
+p.Oddelek, li.Oddelek, div.Oddelek
+	{mso-style-name:Oddelek;
+	mso-style-link:"Oddelek Znak1";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Odsek, li.Odsek, div.Odsek
+	{mso-style-name:Odsek;
+	mso-style-link:"Odsek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:12.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Del, li.Del, div.Del
+	{mso-style-name:Del;
+	mso-style-link:"Del Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OddelekZnak1
+	{mso-style-name:"Oddelek Znak1";
+	mso-style-link:Oddelek;
+	font-family:"Arial","sans-serif";}
+span.OdsekZnak
+	{mso-style-name:"Odsek Znak";
+	mso-style-link:Odsek;
+	font-family:"Arial","sans-serif";}
+p.Naslovnadlenom, li.Naslovnadlenom, div.Naslovnadlenom
+	{mso-style-name:"Naslov nad clenom";
+	mso-style-link:"Naslov nad clenom Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.DelZnak
+	{mso-style-name:"Del Znak";
+	mso-style-link:Del;
+	font-family:"Arial","sans-serif";}
+span.NaslovnadlenomZnak
+	{mso-style-name:"Naslov nad clenom Znak";
+	mso-style-link:"Naslov nad clenom";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Nazivpodpisnika, li.Nazivpodpisnika, div.Nazivpodpisnika
+	{mso-style-name:"Naziv podpisnika";
+	mso-style-link:"Naziv podpisnika Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NazivpodpisnikaZnak
+	{mso-style-name:"Naziv podpisnika Znak";
+	mso-style-link:"Naziv podpisnika";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkom, li.rkovnatokazaodstavkom, div.rkovnatokazaodstavkom
+	{mso-style-name:"Crkovna tocka_za odstavkom";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpFirst, li.rkovnatokazaodstavkomCxSpFirst, div.rkovnatokazaodstavkomCxSpFirst
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpFirst";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpMiddle, li.rkovnatokazaodstavkomCxSpMiddle, div.rkovnatokazaodstavkomCxSpMiddle
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpMiddle";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpLast, li.rkovnatokazaodstavkomCxSpLast, div.rkovnatokazaodstavkomCxSpLast
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpLast";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alineazatevilnotoko, li.Alineazatevilnotoko, div.Alineazatevilnotoko
+	{mso-style-name:"Alinea za številcno tocko";
+	mso-style-link:"Alinea za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomZnak
+	{mso-style-name:"Crkovna tocka_za odstavkom Znak";
+	mso-style-link:"Crkovna tocka_za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.tevilnatoka, li.tevilnatoka, div.tevilnatoka
+	{mso-style-name:"Številcna tocka";
+	mso-style-link:"Številcna tocka Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazatevilnotokoZnak
+	{mso-style-name:"Alinea za številcno tocko Znak";
+	mso-style-link:"Alinea za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotoko, li.rkovnatokazatevilnotoko, div.rkovnatokazatevilnotoko
+	{mso-style-name:"Crkovna tocka za številcno tocko";
+	mso-style-link:"Crkovna tocka za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.8pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.tevilnatokaZnak
+	{mso-style-name:"Številcna tocka Znak";
+	mso-style-link:"Številcna tocka";
+	font-family:"Arial","sans-serif";}
+p.Alineazaodstavkom, li.Alineazaodstavkom, div.Alineazaodstavkom
+	{mso-style-name:"Alinea za odstavkom";
+	mso-style-link:"Alinea za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.tevilkanakoncupredpisa, li.tevilkanakoncupredpisa, div.tevilkanakoncupredpisa
+	{mso-style-name:"Številka na koncu predpisa";
+	mso-style-link:"Številka na koncu predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.AlineazaodstavkomZnak
+	{mso-style-name:"Alinea za odstavkom Znak";
+	mso-style-link:"Alinea za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.Datumsprejetja, li.Datumsprejetja, div.Datumsprejetja
+	{mso-style-name:"Datum sprejetja";
+	mso-style-link:"Datum sprejetja Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.tevilkanakoncupredpisaZnak
+	{mso-style-name:"Številka na koncu predpisa Znak";
+	mso-style-link:"Številka na koncu predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+p.Podpisnik, li.Podpisnik, div.Podpisnik
+	{mso-style-name:Podpisnik;
+	mso-style-link:"Podpisnik Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.DatumsprejetjaZnak
+	{mso-style-name:"Datum sprejetja Znak";
+	mso-style-link:"Datum sprejetja";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.PodpisnikZnak
+	{mso-style-name:"Podpisnik Znak";
+	mso-style-link:Podpisnik;
+	font-family:"Arial","sans-serif";}
+p.lennaslov, li.lennaslov, div.lennaslov
+	{mso-style-name:Clen_naslov;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.PravnapodlagaZnak
+	{mso-style-name:"Pravna podlaga Znak";
+	mso-style-link:"Pravna podlaga";
+	font-family:"Arial","sans-serif";}
+p.Pododdelek, li.Pododdelek, div.Pododdelek
+	{mso-style-name:Pododdelek;
+	mso-style-link:"Pododdelek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.PododdelekZnak
+	{mso-style-name:"Pododdelek Znak";
+	mso-style-link:Pododdelek;
+	font-family:"Arial","sans-serif";}
+p.EVA, li.EVA, div.EVA
+	{mso-style-name:EVA;
+	mso-style-link:"EVA Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.EVAZnak
+	{mso-style-name:"EVA Znak";
+	mso-style-link:EVA;
+	font-family:"Arial","sans-serif";}
+span.Komentar-besediloZnak
+	{mso-style-name:"Komentar - besedilo Znak";
+	mso-style-link:"Komentar - besedilo";
+	font-family:"Arial","sans-serif";}
+p.Imeorgana, li.Imeorgana, div.Imeorgana
+	{mso-style-name:"Ime organa";
+	mso-style-link:"Ime organa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Naslov4Znak
+	{mso-style-name:"Naslov 4 Znak\,Grafika Znak";
+	mso-style-link:"Naslov 4\,Grafika";
+	font-family:"Arial","sans-serif";
+	color:black;}
+p.Opozorilo, li.Opozorilo, div.Opozorilo
+	{mso-style-name:Opozorilo;
+	mso-style-link:"Opozorilo Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+span.OpozoriloZnak
+	{mso-style-name:"Opozorilo Znak";
+	mso-style-link:Opozorilo;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+p.lennovele, li.lennovele, div.lennovele
+	{mso-style-name:Clen_novele;
+	mso-style-link:"Clen_novele Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Priloga, li.Priloga, div.Priloga
+	{mso-style-name:Priloga;
+	mso-style-link:"Priloga Znak";
+	margin-top:19.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:10.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lennoveleZnak
+	{mso-style-name:"Clen_novele Znak";
+	mso-style-link:Clen_novele;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.PrilogaZnak
+	{mso-style-name:"Priloga Znak";
+	mso-style-link:Priloga;
+	font-family:"Arial","sans-serif";}
+p.rta, li.rta, div.rta
+	{mso-style-name:Crta;
+	mso-style-link:"Crta Znak";
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.NPB, li.NPB, div.NPB
+	{mso-style-name:NPB;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+span.rtaZnak
+	{mso-style-name:"Crta Znak";
+	mso-style-link:Crta;
+	font-family:"Arial","sans-serif";}
+p.Zamaknjenadolobaprvinivo, li.Zamaknjenadolobaprvinivo, div.Zamaknjenadolobaprvinivo
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamaknjenadolobadruginivo, li.Zamaknjenadolobadruginivo, div.Zamaknjenadolobadruginivo
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.ZamaknjenadolobaprvinivoZnak
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo";
+	font-family:"Arial","sans-serif";}
+span.ZamaknjenadolobadruginivoZnak
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo";
+	font-family:"Arial","sans-serif";}
+p.Alineazapodtoko, li.Alineazapodtoko, div.Alineazapodtoko
+	{mso-style-name:"Alinea za podtocko";
+	mso-style-link:"Alinea za podtocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-11.35pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamakanjenadolobatretjinivo, li.Zamakanjenadolobatretjinivo, div.Zamakanjenadolobatretjinivo
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:49.65pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazapodtokoZnak
+	{mso-style-name:"Alinea za podtocko Znak";
+	mso-style-link:"Alinea za podtocko";
+	font-family:"Arial","sans-serif";}
+span.ZamakanjenadolobatretjinivoZnak
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo Znak";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo";
+	font-family:"Arial","sans-serif";}
+span.ImeorganaZnak
+	{mso-style-name:"Ime organa Znak";
+	mso-style-link:"Ime organa";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkoma, li.rkovnatokazaodstavkoma, div.rkovnatokazaodstavkoma
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA0, li.rkovnatokazaodstavkomA0, div.rkovnatokazaodstavkomA0
+	{mso-style-name:"Crkovna tocka za odstavkom A\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomaZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\)";
+	font-family:"Arial","sans-serif";}
+p.lennaslovnovele, li.lennaslovnovele, div.lennaslovnovele
+	{mso-style-name:"Clen naslov novele";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkoma1, li.rkovnatokazaodstavkoma1, div.rkovnatokazaodstavkoma1
+	{mso-style-name:"Crkovna tocka za odstavkom a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazatevilnotokoa0, li.rkovnatokazatevilnotokoa0, div.rkovnatokazatevilnotokoa0
+	{mso-style-name:"Crkovna tocka za številcno tocko a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Rimskatevilnatoka, li.Rimskatevilnatoka, div.Rimskatevilnatoka
+	{mso-style-name:"Rimska številcna tocka";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomi, li.rkovnatokazaodstavkomi, div.rkovnatokazaodstavkomi
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.tevilnatoka11Nova, li.tevilnatoka11Nova, div.tevilnatoka11Nova
+	{mso-style-name:"Številcna tocka 1\.1 Nova";
+	mso-style-link:"Številcna tocka 1\.1 Nova Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Neuvrsceno
+	{mso-style-name:Neuvrsceno;
+	border:none;
+	background:yellow;}
+span.tevilnatoka11NovaZnak
+	{mso-style-name:"Številcna tocka 1\.1 Nova Znak";
+	mso-style-link:"Številcna tocka 1\.1 Nova";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoi, li.rkovnatokazatevilnotokoi, div.rkovnatokazatevilnotokoi
+	{mso-style-name:"Crkovna tocka za številcno tocko \(i\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomiZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkomA2, li.rkovnatokazaodstavkomA2, div.rkovnatokazaodstavkomA2
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA3, li.rkovnatokazaodstavkomA3, div.rkovnatokazaodstavkomA3
+	{mso-style-name:"Crkovna tocka za odstavkom A\)";
+	mso-style-link:"Crkovna tocka za odstavkom A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak0
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA1, li.rkovnatokazatevilnotokoA1, div.rkovnatokazatevilnotokoA1
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak1
+	{mso-style-name:"Crkovna tocka za odstavkom A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA2, li.rkovnatokazatevilnotokoA2, div.rkovnatokazatevilnotokoA2
+	{mso-style-name:"Crkovna tocka za številcno tocko A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\)";
+	font-family:"Arial","sans-serif";}
+p.Slikanasredino, li.Slikanasredino, div.Slikanasredino
+	{mso-style-name:"Slika_na sredino";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:20.0pt;
+	margin-left:0cm;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak0
+	{mso-style-name:"Crkovna tocka za številcno tocko A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko A\)";
+	font-family:"Arial","sans-serif";}
+ /* Page Definitions */
+ @page WordSection1
+	{size:21.0cm 842.0pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+Opozorilo: Neuradno precišceno besedilo
+predpisa predstavlja zgolj informativni delovni pripomocek, glede katerega
+organ ne jamci odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Zakona o zacasnih
+ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za
+obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19) obsega:
+
+-       
+Zakon o zacasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi
+javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2
+(COVID-19) – ZZUSUDJZ (Uradni list RS, št. 36/20 z dne 28. 3. 2020),
+
+-       
+Zakon o spremembi in dopolnitvah Zakona o zacasnih ukrepih v zvezi s
+sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja
+nalezljive bolezni SARS-CoV-2 (COVID-19) – ZZUSUDJZ-A (Uradni list RS, št.
+61/20 z dne 30. 4. 2020).
+
+ZAKON
+
+O ZACASNIH UKREPIH V ZVEZI S SODNIMI,
+UPRAVNIMI IN DRUGIMI JAVNOPRAVNIMI ZADEVAMI ZA OBVLADOVANJE ŠIRJENJA NALEZLJIVE
+BOLEZNI SARS-CoV-2 (COVID-19)
+
+(ZZUSUDJZ)
+
+(neuradno precišceno besedilo št. 1)
+
+I. SPLOŠNI DOLOCBI
+
+1. clen
+
+(vsebina)
+
+Ta zakon zaradi epidemije virusne okužbe
+SARS-CoV-2 (COVID-19) z namenom preprecitve širjenja virusne okužbe, varovanja
+zdravja in življenja ljudi in zagotovitve delovanja posameznih državnih
+organov, organov samoupravnih lokalnih skupnosti in nosilcev javnih pooblastil
+ter zagotavljanja izvajanja pravic in obveznosti doloca zacasne ukrepe v zvezi
+s sodnimi, upravnimi, drugimi javnopravnimi zadevami in zadevami na podrocju
+izvrševanja kazenskih sankcij.
+
+2. clen
+
+(trajanje ukrepov)
+
+Ukrepi iz tega zakona ter iz aktov,
+sprejetih na njegovi podlagi, veljajo do prenehanja razlogov zanje, kar ugotovi
+Vlada Republike Slovenije s sklepom, ki ga objavi v Uradnem listu Republike
+Slovenije, vendar najdlje do 1. julija 2020.
+
+II. UKREPI V SODNIH ZADEVAH
+
+3. clen
+
+(tek rokov)
+
+(1) Roki za uveljavljanje pravic strank v
+sodnih postopkih, doloceni z zakonom, ne tecejo.
+
+(2) Roki v sodnih zadevah ne tecejo, razen
+v sodnih zadevah, ki se obravnavajo kot nujne.
+
+(3) Rok za vložitev ustavne pritožbe ne
+tece.
+
+3.a clen
+
+(obravnava prepozne vloge)
+
+Ne glede na tretji odstavek 121. clena
+Zakona o financnem poslovanju, postopkih zaradi insolventnosti in prisilnem
+prenehanju (Uradni list RS, št. 13/14 – uradno precišceno besedilo, 10/15
+– popr., 27/16, 31/16 – odl. US, 38/16 – odl. US, 63/16 – ZD-C, 54/18 – odl. US
+in 69/19 – odl. US) sodišce obravnava in odloca o vlogi, predlogu, izjavi,
+ugovoru, drugem procesnem dejanju ali predloženi listini, tudi ce je stranka
+zamudila rok ali izostala z naroka v casu trajanja ukrepov iz razloga,
+neposredno povezanega z epidemijo virusne okužbe SARS-CoV-2 (COVID-19), in
+sodišce odlocitve še ni sprejelo. Stranka mora ob vložitvi vloge, predloga,
+izjave, ugovora, opravi drugega procesnega dejanja ali predložitvi listine
+izkazati tudi razlog za zamudo roka ali za izostanek z naroka.
+
+4. clen
+
+(nujne sodne zadeve)
+
+(1) Ne glede na prvi odstavek 83.a clena
+Zakona o sodišcih (Uradni list RS, št. 94/07 – uradno precišceno besedilo,
+45/08, 96/09, 86/10 – ZJNepS, 33/11, 75/12 – ZSPDSLS-A, 63/13, 17/15, 23/17 –
+ZSSve, 22/18 – ZSICT in 16/19 – ZNP-1; v nadaljnjem besedilu: Zakon o sodišcih)
+lahko predsednik Vrhovnega sodišca Republike Slovenije na nacin iz tretjega
+odstavka 83.a clena Zakona o sodišcih odloci, da se tudi zadeve iz 2. in 5. do
+9. tocke drugega odstavka 83. clena Zakona o sodišcih ne štejejo kot nujne
+zadeve.
+
+(2) Ne glede na drugi odstavek 83.a clena
+Zakona o sodišcih lahko ukrepi iz prvega odstavka 83.a clena Zakona o sodišcih
+in ukrepi iz prejšnjega odstavka, ki jih iz razlogov iz 1. clena tega zakona
+doloci predsednik Vrhovnega sodišca na nacin iz tretjega odstavka 83.a clena
+Zakona o sodišcih, trajajo, dokler trajajo ukrepi po tem zakonu.
+
+(3) Ce sodišce zaradi tehtnih razlogov, ki
+so nastali na strani sodišca, ne more odlocati o nujnih zadevah iz prvega
+odstavka tega clena, predsednik neposredno višjega sodišca doloci drugo stvarno
+pristojno sodišce.
+
+4.a clen
+
+(nenujne sodne zadeve)
+
+Ne glede na prvi odstavek 83.a clena Zakona
+o sodišcih sodišca opravljajo naroke, odlocajo in vrocajo sodna pisanja v
+zadevah, ki niso nujne v skladu s 83. clenom Zakona o sodišcih, in ki se
+ne štejejo kot nujne v skladu z odredbami predsednika Vrhovnega sodišca,
+izdanimi na podlagi prvega odstavka prejšnjega clena, ce sodišca lahko
+zagotavljajo opravo teh dejanj v skladu s pogoji, ki jih doloci predsednik
+Vrhovnega sodišca na nacin iz tretjega odstavka 83.a clena Zakona o sodišcih,
+in tako da se ne širi virusna okužba in je zagotovljeno zdravje in življenje
+ljudi. Na sodnem pisanju, ovojnici ali drugi listini, ki se priloži sodnemu
+pisanju, ki se vroci v skladu s tem clenom, sodišce stranko opozori na zacetek
+teka roka v skladu z 2. clenom tega zakona.
+
+5. clen
+
+(izkljucitev javnosti)
+
+Sodnik ali predsednik senata lahko iz
+razloga iz 1. clena tega zakona zacasno izkljuci javnost celotne glavne
+obravnave ali njenega dela.
+
+III. UKREPI V UPRAVNIH IN DRUGIH JAVNOPRAVNIH ZADEVAH
+
+6. clen
+
+(tek rokov)
+
+(1) Roki v upravnih in drugih javnopravnih
+zadevah, ki nimajo znacaja upravne zadeve po 2. clenu Zakona o splošnem
+upravnem postopku (Uradni list RS, št. 24/06 – uradno precišceno besedilo,
+105/06 – ZUS-1, 126/07, 65/08, 8/10 in 82/13; v nadaljnjem besedilu: Zakon o
+splošnem upravnem postopku) (v nadaljnjem besedilu: upravne zadeve), za
+opravljanje procesnih dejanj strank in za izpolnitev njihovih materialnih
+obveznosti ter roki za opravljanje procesnih dejanj upravnih in drugih državnih
+organov, organov samoupravnih lokalnih skupnosti in nosilcev javnih pooblastil
+in za izdajanje upravnih aktov ne tecejo.
+
+(2) Roki za uveljavitev materialnih pravic
+v upravnih zadevah, ki se iztecejo v casu izvajanja ukrepov po tem zakonu, se s
+tem zakonom podaljšajo tako, da se iztecejo osmi dan od dneva prenehanja
+ukrepov v skladu z 2. clenom tega zakona. Ce z iztekom roka za uveljavitev
+pravice preneha istovrstna pravica, se šteje, da je prenehala z iztekom roka iz
+prejšnjega stavka.
+
+(3) Ne glede na prvi odstavek tega clena se
+tek rokov ne prekine v posamicnih upravnih zadevah, ce obstaja nevarnost za
+življenje in zdravje ljudi, za javni red in mir, za javno varnost, za
+premoženje vecje vrednosti, ce je od odlocitve v zadevi odvisno preživljanje
+stranke, ce je od odlocitve odvisno uveljavljanje drugih pravic ali ce je to
+nujno za ucinkovito izvajanje oblasti za doseg namena iz 1. clena tega zakona (v
+nadaljnjem besedilu: nujne zadeve).
+
+(4) V odlocbi, sklepu ali drugem dokumentu,
+s katerim se doloci rok, se stranko opozori o teku roka v skladu s tem clenom.
+
+(5) Organi o tem, da se rok, ki je bil
+dolocen v odlocbi, sklepu ali drugem dokumentu, izdanem pred uveljavitvijo tega
+zakona, ne prekine v skladu s tretjim odstavkom tega clena, nemudoma obvestijo
+stranke.
+
+(6) V prekrškovnih zadevah roki ne tecejo.
+Ne glede na prejšnji stavek roki pred prekrškovnim organom, ki v zadevah iz
+tretjega odstavka tega clena lahko zacne ali nadaljuje postopek o prekršku,
+tecejo, o cemer mora storilca prekrška obvestiti.
+
+7. clen
+
+(ukrepi v zvezi s poslovanjem)
+
+(1) V upravnih zadevah se ne omogoca
+vlaganje pisnih in ustnih vlog ter dajanje ustnih izjav pri organu, razen vlog
+za uveljavitev pravic, ki se obravnavajo v skrajšanem ugotovitvenem postopku.
+
+(2) V upravnih zadevah se pisne vloge lahko
+vlagajo po elektronski poti brez varnega elektronskega podpisa, ce je
+identiteto vložnika mogoce ugotoviti na drug zanesljiv nacin.
+
+(3) V upravnih zadevah se ustne obravnave
+in druga procesna dejanja, kjer so uradna oseba, stranka ali drug udeleženec
+lahko v neposrednem stiku, ne izvajajo, razen v nujnih zadevah. Ne glede na prejšnji stavek se ustne
+obravnave in druga procesna dejanja, kjer so uradna oseba, stranka ali drug
+udeleženec v neposrednem stiku, izvedejo tudi v zadevah, ki niso nujne, ce se
+zaradi tega ne širi virusna okužba in je zagotovljeno zdravje ter življenje
+uradne osebe, stranke ali drugega udeleženca.
+
+(4) V upravnih zadevah se izkljuci javnost
+pri vseh procesnih dejanjih.
+
+8. clen
+
+(vrocanje v nujnih zadevah)
+
+(1) Osebno vrocanje dokumentov v upravnih
+zadevah na podlagi 87. clena Zakona o splošnem upravnem postopku se ne
+opravlja, razen v nujnih zadevah. Ce je osebna vrocitev opravljena po
+uveljavitvi tega zakona, pa ne gre za nujne zadeve, roki zacnejo teci naslednji
+dan po objavi sklepa iz 2. clena tega zakona oziroma najkasneje 2. julija 2020.
+
+(2) Vrocanje v prostorih organa se ne
+opravlja, razen v nujnih primerih, ce je takšna vrocitev predpisana z zakonom.
+
+(3) Vrocanje z javnim naznanilom se
+opravlja tako, da se sporocilo o vrocanju z javnim naznanilom objavi na
+državnem portalu eUprava.
+
+8.a clen
+
+(vrocanje v nenujnih zadevah)
+
+(1) Vrocanje odlocb, sklepov ali drugih
+dokumentov, ki jih je na podlagi 87. clena Zakona o splošnem upravnem
+postopku treba vrociti osebno, se v upravnih zadevah, ki niso nujne, opravi z
+vložitvijo v hišni predalcnik, poštni predal ali v elektronski predal
+naslovnika.
+
+(2) Vrocitev velja za opravljeno šesti
+delovni dan od dneva odpreme, ce se vroca v tujino v fizicni obliki pa dvajseti
+delovni dan od dneva odpreme, razen ce naslovnik odlocbe, sklepa ali drugega
+dokumenta ni prejel ali ga je prejel kasneje. V primeru dvoma o tem, ali je
+naslovnik odlocbo, sklep ali drug dokument prejel, prejem in dan prejema
+dokazuje organ. Organ lahko po telefonu, po elektronski poti ali na drug nacin
+preveri, ali je naslovnik odlocbo, sklep ali drug dokument prejel in kdaj ga je
+prejel.
+
+(3) V primeru dvoma o tem, ali je naslovnik
+odlocbo, sklep ali drug dokument prejel, ker ni dokazov o vrocitvi, se opravi
+ponovna vrocitev.
+
+(4) Na ovojnici ali na odlocbi, sklepu ali
+drugem dokumentu se oznaci dan odpreme, dan vrocitve in zacetek teka roka v
+skladu z 2. clenom tega zakona. V primeru vrocanja v elektronski predal se
+od naslovnika zahteva potrditev prejema odlocbe, sklepa ali drugega dokumenta.
+
+(5) Za elektronski predal iz prvega
+odstavka tega clena se šteje elektronski naslov, ki ga je oseba sama navedla v
+vlogi, ali elektronski naslov, s katerega je poslala vlogo, ne glede na to, ali
+ustreza varnostnim in tehnicnim zahtevam, ki jih mora izpolnjevati varni
+elektronski predal po 86. clenu Zakona o splošnem upravnem postopku.
+Vrocitev v elektronski predal se opravi, ce je bila oseba seznanjena s takšnim
+nacinom vrocanja in je s tem soglašala.
+
+(6) V prekrškovnih zadevah, ki niso nujne,
+se dolocbe tega clena ne uporabljajo.
+
+9. clen
+
+(dolocitev dodatnih ukrepov)
+
+Vlada Republike Slovenije lahko v skladu s
+tem zakonom doloci tudi organizacijske in druge podobne ukrepe, ki so nujni za
+preprecitev širjenja epidemije virusne okužbe SARS-CoV-2, varovanje pravic in
+pravnih koristi oseb in nemoteno poslovanje upravnih in drugih državnih
+organov, organov samoupravnih lokalnih skupnosti in nosilcev javnih pooblastil,
+ko opravljajo upravne naloge.
+
+IV. UKREPI PRI IZVRŠEVANJU KAZENSKIH SANKCIJ
+
+10. clen
+
+(poziv obsojencu)
+
+Že zaceti postopki v zvezi s pozivom
+obsojenca na prestajanje kazni zapora se prekinejo, novi postopki pa se ne
+zacnejo.
+
+11. clen
+
+(premestitev obsojenca)
+
+Direktor zavoda za prestajanje kazni zapora
+lahko po uradni dolžnosti, ce je to potrebno zaradi preprecitve širjenja
+epidemije virusne okužbe SARS-CoV-2, premesti obsojenca iz enega v drug zavod
+ali v oddelek drugega zavoda.
+
+12. clen
+
+(prekinitev prestajanja kazni zapora)
+
+Direktor zavoda za prestajanje kazni zapora
+lahko po uradni dolžnosti, ce je to potrebno zaradi preprecitve širjenja
+epidemije virusne okužbe SARS-CoV-2, za cas enega meseca prekine prestajanje
+kazni zapora obsojencu, kadar ne obstajajo varnostni zadržki. Zoper odlocbo
+direktorja je dovoljena pritožba, ki ne zadrži njene izvršitve. Trajanje
+prekinitve kazni zapora se lahko zaporniku podaljšuje, dokler obstaja razlog za
+prekinitev.
+
+13. clen
+
+(predcasni odpust)
+
+Direktor zavoda za prestajanje kazni zapora
+lahko iz razloga preprecitve širjenja epidemije virusne okužbe SARS-CoV-2 ob
+upoštevanju pogojev iz 108. clena Zakona o izvrševanju kazenskih sankcij
+(Uradni list RS, št. 110/06 – uradno precišceno besedilo, 76/08, 40/09, 9/11 –
+ZP-1G, 96/12 – ZPIZ-2, 109/12, 54/15 in 11/18) predcasno odpusti obsojenca
+najvec šest mesecev pred iztekom kazni.
+
+V. UKREPI GLEDE NOTARSKIH PISARN
+
+14. clen
+
+(poslovanje notarskih pisarn)
+
+(1) Ne glede na tretji odstavek 20. clena
+Zakona o notariatu (Uradni list RS, št. št. 2/07 – uradno precišceno besedilo,
+33/07 – ZSReg-B, 45/08 in 91/13) lahko predsednik Notarske zbornice Slovenije
+sprejme zacasne ukrepe v zvezi s poslovanjem notarskih pisarn, ki se nanašajo
+zlasti na nacin ali omejitev izvajanja uradnih ur za sprejemanje strank.
+
+(2) Ne glede na prejšnji odstavek sprejme
+ukrep popolnega zaprtja notarske pisarne minister, pristojen za pravosodje, na
+predlog Notarske zbornice Slovenije.
+
+(3) Notarska zbornica Slovenije seznani
+javnost s sprejetjem zacasnih ukrepov iz tega clena z objavo na svoji spletni
+strani.
+
+
+
+
+
+Zakon o zacasnih ukrepih v zvezi s sodnimi, upravnimi
+in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni
+SARS-CoV-2 (COVID-19) – ZZUSUDJZ (Uradni list RS, št. 36/20) vsebuje naslednjo koncno dolocbo:
+
+»VI. KONCNA DOLOCBA
+
+15. clen
+
+(zacetek
+veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o spremembi in dopolnitvah Zakona o
+zacasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami
+za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19) – ZZUSUDJZ-A
+(Uradni list RS, št. 61/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+5. clen
+
+(zacetek
+veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.

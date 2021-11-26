@@ -1,0 +1,116 @@
+7/2020. (IV. 16.) KKM rendelet
+a koronavírus-járvány következtében szükségessé vált versenyképesség-növelo támogatásrólHatályos: 2020. 04. 17. – 2020. 07. 04.
+                                
+                                
+                            
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet I. pont 17. alpontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatáskörérol szóló 94/2018. (V. 22.) Korm. rendelet 64. § (1) bekezdés 2. pontjában feladatkörében eljáró pénzügyminiszterrel egyetértésben – a következoket rendelem el:
+I. Fejezet
+ÁLTALÁNOS RENDELKEZÉSEK
+ 1. A rendelet hatálya
+
+1. § E rendelet hatálya a koronavírus-járvány következtében szükségessé vált versenyképesség-növelo támogatás fejezeti kezelésu eloirányzat (a továbbiakban: eloirányzat) kezelésére és felhasználására terjed ki, amely felhasználásra vonatkozó alapveto szabályokat az 1. melléklet tartalmazza.
+
+2. § (1) A jelen rendelet szerinti támogatás (a továbbiakban: versenyképesség-növelo támogatás) az Európai Unió muködésérol szóló Szerzodés 107. cikk (1) bekezdése szerinti állami támogatásnak minosül, és az Európai Bizottságnak a COVID-19 vírusjárvány idején a gazdaság segítése érdekében bevezetheto állami átmeneti támogatási intézkedésekre vonatkozó átmeneti keretszabályra vonatkozó közlemény (a továbbiakban: Közlemény) 3.1. szakaszának szabályaival összhangban nyújtható.
+ (2) A versenyképesség-növelo támogatás vissza nem térítendo, költségvetési támogatás formájában nyújtható.
+ (3) A versenyképesség-növelo támogatás azonos elszámolható költségek vonatkozásában csak abban az esetben halmozható az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképrol szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti egyéb állami támogatással, ha az nem vezet a Szerzodés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belso piaccal összeegyeztethetové nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendeletben (HL L 187., 2014. 06. 26., 1. o.) (a továbbiakban: általános csoportmentességi rendelet), más állami támogatási tárgyú európai uniós jogszabályban vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás vagy támogatási összeg túllépéséhez.
+ 2. Értelmezo rendelkezések
+
+3. § E rendelet alkalmazásában 1. a támogatás odaítélésének idopontja: a támogatói okirat kiállításának az idopontja; 2. acélipar: az általános csoportmentességi rendelet 2. cikk 43. pontja szerinti acélipar; 3. állami támogatás: az Atr. 2. § 1. pontja szerinti támogatás; 4. átlagbér: a pályázónak a számvitelrol szóló 2000. évi C. törvény 79. §-ában meghatározott ráfordításának egy fore vetített mértéke; 5. elsodleges mezogazdasági termelés: az általános csoportmentességi rendelet 2. cikk 9. pontja szerinti termelés; 6. kereskedelmi tevékenység: bármely termék értékesítési célú birtoklása, megvételre való felkínálása, leszállítása vagy egyéb módon történo forgalmazása, ha az üzletszeruen és a kifejezetten erre a célra szolgáló, elkülönített helyiségben vagy kifejezetten erre a célra szolgáló elektronikus rendszeren keresztül történik; 7. mezogazdasági termék: az EUMSz I. mellékletében felsorolt termékek, a halászati és akvakultúra-termékek piacának közös szervezésérol, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezésérol szóló, 2013. december 11-i 1379/2013/EU parlamenti és tanácsi rendelet (a továbbiakban: 1379/2013/EU rendelet) I. mellékletében felsorolt halászati és akvakultúra-termékek kivételével; 8. nehéz helyzetben lévo vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti nehéz helyzetben levo vállalkozás; 9. szállítási ágazat: az általános csoportmentességi rendelet 2. cikk 45. pontja szerinti szolgáltatás; 10. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elosegíto állami átmeneti támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (HL L 336., 2010. 12. 21., 24. o.) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minoségu, közepes minoségu és gyenge minoségu, A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység; 11. szintetikusszál-ipar: az általános csoportmentességi rendelet 2. cikk 44. pontja szerinti szintetikusszál-ipar; 12. támogató: az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet 17. pontjában megjelölt személy; 13. turisztikai tevékenység: az általános csoportmentességi rendelet 2. cikk 47. pontja szerinti turisztikai tevékenység, beleértve az egészségturizmust; 14. bázislétszám: a pályázó átlagos állományi létszáma a pályázat benyújtását megelozo 12 hónapban; 15. beruházás: tárgyi eszközök vagy immateriális javak beszerzése; 16. a beruházás megkezdése: a) építési munka esetén az építésre vonatkozó elso visszavonhatatlan kötelezettségvállalás idopontja, b) tárgyi eszköz és immateriális javak beszerzése esetén a vállalkozás általi elso jogilag kötelezo érvényunek tekintett megrendelés napja, c) olyan egyéb kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi, d) létesítmény felvásárlása esetén a felvásárlás idopontja vagy e) az a)–d) pontok közül több pont együttes megvalósulása esetén a legkorábbi idopont, azzal, hogy nem tekintendo a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az elokészíto munka költségének felmerülése; 17. középvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott feltételeket teljesíto vállalkozás; 18. nagyvállalkozás: az általános csoportmentességi rendelet I. mellékletében meghatározott feltételeket nem teljesíto vállalkozás.
+II. Fejezet
+A VERSENYKÉPESSÉG-NÖVELO TÁMOGATÁSI RENDSZER SZEREPLOI ÉS FELADATAIK
+ 3. A támogató
+
+4. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (1) bekezdés b) pontja szerinti támogatói okirat kibocsátása során a támogató kötelezettségvállalóként felelos az eljárás során felmerülo szakmai és szakmastratégiai kérdés megvizsgálásáért, az ehhez kapcsolódó és ebbol adódó eljárási, igazgatási feladatok ellátásáért és elokészítéséért, valamint valamennyi egyéb, az eljárások során felmerülo, az eloirányzatot érinto pénzügyi kérdésekért, a támogatói okirat, annak módosításai és a kapcsolódó dokumentumok pénzügyi és jogi szempontú vizsgálata és ellenjegyzése kivételével.
+ 4. A lebonyolító szerv
+
+5. § (1) Az eloirányzat lebonyolító szerve a HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártköruen Muködo Részvénytársaság.
+ (2) A lebonyolító szerv a) ellátja aa) a pályázatértékelési, a döntés-elokészítoi, a támogatói okiratok kibocsátásával és módosításával összefüggo elokészíto feladatokat, ab) a nyilvántartási és elorejelzési feladatokat, ac) a támogatott tevékenység végrehajtásának szakmai ellenorzési feladatait, ideértve a helyszíni ellenorzéseket is, ad) a folyamatlezárási tevékenységet, ae) a szerzodésekkel összefüggo adatkezelési, adatfeldolgozási és a támogató megkeresése alapján a részére történo adatszolgáltatási feladatokat, af) az eloirányzattal kapcsolatos pénzügyi, számviteli feladatokat, részt vesz a beszámoló összeállításában, ag) az eloirányzathoz kapcsolódó analitikus nyilvántartások vezetésével kapcsolatos feladatokat, a kötelezettségvállalások tekintetében az érvényesítési, utalványozási feladatokat, valamint a saját nyilvántartásai alapján az adatszolgáltatási és az adatkezelési feladatokat, ah) a versenyképesség-növelo támogatásból megvalósuló támogatott tevékenység kapcsán felmerülo költségek elszámolhatóságát igazoló ellenorzési feladatokat, beleértve a teljesítésre, és a kifizetés jogosságának vizsgálatára vonatkozó feladatokat is, ai) a támogatói okiratok, módosításaik, illetve a kapcsolódó dokumentumok teljes köru jogi és pénzügyi szempontú vizsgálatát és szakmai, jogi illetve – az Ávr. 55. § (2) bekezdés j) pontja szerinti személy általi – pénzügyi ellenjegyzését, b) ellátja a versenyképesség-növelo támogatás felhasználásával kapcsolatos ellenorzési feladatokat, c) kivizsgálja a kedvezményezett által benyújtott kifogást, és javaslatot tesz a támogató részére a kifogás elbírálásához, d) gondoskodik a támogatói okiratok lezárásáról, végzi az eloirányzathoz kapcsolódó követeléskezelési feladatokat.
+III. Fejezet
+AZ ELOIRÁNYZAT FELHASZNÁLÁSÁNAK SZABÁLYAI
+ 5. A versenyképesség-növelo támogatásban részesíthetok köre
+
+6. § Versenyképesség-növelo támogatás a Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkezo gazdasági társaság részére az 1. mellékletben foglaltak szerint nyújtható.
+ 6. A támogatható tevékenységek köre
+
+7. § Versenyképesség-növelo támogatás a 8. §-ban meghatározottak kivételével bármely iparágban és gazdasági területen nyújtható.
+
+8. § (1) Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható versenyképesség-növelo támogatás a) acélipari tevékenységhez, b) a hajógyártásban folytatott tevékenységhez, c) a széniparban folytatott tevékenységhez, d) a szintetikusszál-ipari tevékenységhez, e) az ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti és belvízi úton történo személy- vagy áruszállítási szolgáltatás nyújtásához, f) elsodleges mezogazdasági termeléshez, g) az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történo projekthez, h) energiatermelést, energiaszolgáltatást szolgáló projekthez, i) kereskedelmi tevékenységhez, j) koncesszióköteles körbe tartozó tevékenységet megvalósító projekthez, k) turisztikai tevékenységre irányuló projekthez, l) exporttal kapcsolatos tevékenységekhez, nevezetesen az értékesítési hálózat kialakításával és muködtetésével vagy az exporttevékenységgel összefüggésben felmerülo egyéb folyó kiadásokkal kapcsolatban.
+ (2) E rendelet alapján nem nyújtható továbbá versenyképesség-növelo támogatás a) azon pályázó részére, amely nem szerepel a köztartozásmentes adózói adatbázisban pályázat benyújtásakor, vagy aki nem nyújt be teljes bizonyító ereju nyilatkozatot arról, hogy nem áll fenn köztartozása, és arról, hogy vállalja, hogy kéri a felvételét a köztartozásmentes adózói adatbázisba, b) azon pályázó részére, amely nem felel meg a rendezett munkaügyi kapcsolatok követelményének a pályázat benyújtásakor, c) olyan pályázónak vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján jogellenes és a közös piaccal összeegyeztethetetlen támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.
+ (3) A mezogazdasági termékek feldolgozásában és forgalmazásában tevékeny vállalkozások számára akkor nyújtható versenyképesség-növelo támogatás, ha a támogatás mértéke nem függ a támogatás mezogazdasági termék elsodleges termeloje részére történo teljes vagy részleges átadásától, és a támogatás mértékét nem az elsodleges termeloktol beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.
+ 7. A versenyképesség-növelo támogatás nyújtásának feltételei
+
+9. § A versenyképesség-növelo támogatást az a közép- vagy nagyvállalkozás veheti igénybe, amely a) igazolja, hogy 2019. december 31-én nem minosült nehéz helyzetben levo vállalkozásnak, de a koronavírus- járvány következtében azzá vált, vagy egyéb pénzügyi vagy gazdasági nehézségei támadtak, b) igazolja, hogy a koronavírus-járvány miatt, azzal ok-okozati összefüggésben az értékesítés nettó árbevétele vagy a megrendelési állományának értéke legalább 25%-kal visszaesett, c) nyilatkozik arról, hogy nem felelos a gazdasági visszaesésért és a tole elvárható gondossággal járt el, d) nyilatkozik arról, hogy a felmerült veszteségekre nincs biztosítása, vagy a biztosítás alapján nincs lehetoség a felmerült károk teljes megtérítésére, e) vállalja, hogy a bázislétszámát a beruházás befejezéséig, de legalább 2020. december 31-ig fenntartja, f) vállalja, hogy 2021. június 30-ig legalább 150 000 euró értéku beruházást valósít meg Magyarországon, g) nyilatkozik, hogy a pályázata benyújtását megelozoen nem kezdte meg a beruházást.
+ 8. A versenyképesség-növelo támogatás mértéke
+
+10. § (1) A versenyképesség-növelo támogatás támogatástartalma a Közlemény 3.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – az adott tagállamban lévo vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 800 000 eurónak megfelelo forintösszeget, azzal, hogy a beruházás értékéhez igazodik.
+ (2) Ha a beruházás értéke a) 150 000 euró és 300 000 euró között van, a versenyképesség-növelo támogatás összege a beruházás értékének 30%-a, b) 300 001 euró és 500 000 euró között van, a versenyképesség-növelo támogatás összege a beruházás értékének 40%-a, c) 500 000 euró felett van, a versenyképesség-növelo támogatás összege a beruházás értékének 50%-a.
+ (3) Az e fejezetben meghatározott összegek a pályázat benyújtását megelozo hónap utolsó munkanapján érvényes, a Magyar Nemzeti Bank által közzétett devizaárfolyam alapján számítandók át forintra.
+ 9. A versenyképesség-növelo támogatás nyújtása
+
+11. § (1) A versenyképesség-növelo támogatás nyújtása pályázati úton történik. A pályázati kiírást a támogató közzéteszi a saját és a lebonyolító szerv internetes honlapján.
+ (2) A versenyképesség-növelo támogatás igénylése a lebonyolító szerv részére megküldött, aláírt pályázat benyújtásával történik.
+ (3) A versenyképesség-növelo támogatás 100%-os támogatási elolegként, egy összegben, forintban kerül kifizetésre.
+ (4) A kedvezményezett a versenyképesség-növelo támogatás felhasználásáról szóló beszámolót az Ávr. 93. § (1a) bekezdése szerint a kötelezettségvállalási idoszak lejártát követoen nyújtja be.
+ (5) A támogatás biztosítéka az Ávr. 84. § (2) bekezdés a) pontja szerint kerül megállapításra.
+
+12. § (1) A versenyképesség-növelo támogatásról támogatói okirat 2020. december 31-ig bocsátható ki.
+ (2) A versenyképesség-növelo támogatás tekintetében érvényesíteni kell az Ávr. 101. §-ában foglalt iratmegorzési kötelezettséget.
+IV. Fejezet
+ZÁRÓ RENDELKEZÉSEK
+
+13. § Az egyedi versenyképesség-növelo támogatásoknak az Atr. 6. melléklete szerinti adatait a Közlemény 34. pontja alapján közzé kell tenni az Európai Bizottság közzétételi adatbázisában. Erre figyelemmel a támogatást nyújtó 2021. február 1-jéig továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelos szervezet részére az e kormányrendelet alapján nyújtott versenyképesség-növelo támogatásoknak az Atr. 6. melléklete szerinti adatait.
+
+14. § Ez a rendelet a kihirdetését követo napon lép hatályba.
+1. melléklet a 7/2020. (IV. 16.) KKM rendelethez 
+   A
+   B
+   C
+   D
+   E
+   F
+   G
+   H
+   I
+   J
+   K
+   L
+   M
+   N
+   O
+  1
+   Áht. azono-sító
+   Címnév
+   Al-cím név
+   Jog-cím csop. név
+   Jogcímnév
+   Eloirányzat célja
+   Kifizetésben részesülok köre
+   Támogatás biztosításának módja
+   Támogatási eloleg
+   Rendelkezésre bocsátás módja
+   Vissza-fizetés határ-ideje
+   Biztosíték
+   Kezelo szerv
+   Lebonyolító szerv
+   Európai uniós forrásból finanszírozott költségvetési támogatás közremuködo szervezete
+  2
+    
+   Fejezeti kezelésu eloirányzatok
+  3
+    
+    
+   Céleloirányzatok
+   
+    
+    
+    
+   A koronavírus-járvány következtében szükségessé vált versenyképesség-növelo támogatás
+   Az eloirányzat fedezetet biztosít a koronavírus (COVID-19) következtében, a gazdaság számára szükséges beruházások ösztönzése, a vállalatoknak nyújtott egyszeri, vissza nem terítendo költségvetési támogatás nyújtása által.
+   A Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkezo, az államháztartásról szóló 2011. évi CXCV. törvényeloírásainak megfelelo gazdasági társaságok, kivéve az alábbi ágazatok: acélipar, hajógyártás, szénipar, szintetikusszál-ipar, személy- vagy áruszállítási szolgáltatás, elsodleges mezogazdasági termelés, akvakultúra, energiatermelés, kereskedelem, turizmus. Továbbá a HIPA NZrt. mint lebonyolító szerv.
+   pályázat útján, támogatói okirattal
+   eloleg biztosítható
+   költségvetési támogatás esetén közvetlen kifizetéssel egy összegben,egyéb kifizetés esetén közvetlen kifizetéssel egy összegben és/vagy részletekben, teljesítésarányosan; eloirányzat- átcsoportosítással
+    
+   Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat
+    
+   HIPA Nemzeti Befektetési Ügynökség Nonprofit Zártköruen Muködo Részvény-társaság

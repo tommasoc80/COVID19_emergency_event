@@ -1,0 +1,69 @@
+I, HEATHER HUMPHREYS, Minister for Social Protection, having regard to the continuing risks to public health arising from COVID-19 and the consequent impact on employers and employees, and having regard to the matters specified in subsection (2) and (4) of section 68O (inserted by section 11 of the Social Welfare (Covid-19) (Amendment) Act 2020 (No. 12 of 2020 )) and in exercise of the powers conferred on me by sections 4 (as adapted by the Social Protection (Alteration of Name of Department and Title of Minister) Order 2020 ( S.I. No. 447 of 2020 )) and 68O(2), 68O(3) and 68P of the Social Welfare Consolidation Act 2005 (No. 26 of 2005), with the consent of the Minister for Public Expenditure and Reform, hereby make the following Regulations:
+
+Citation and construction
+
+1. (1) These Regulations may be cited as the Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 15) (Covid-19 Pandemic Unemployment Payment – new band of payment and reference period) Regulations 2020.
+
+(2) These Regulations and the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 to 2020 shall be construed together as one and may be cited together as the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 to 2020.
+
+Commencement date
+
+2. Article 4 of these Regulations come into operation on 2 October 2020.
+
+Definition
+
+3. In these Regulations-
+
+“Principal Regulations” means the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 ( S.I. No. 142 of 2007 );
+
+“Regulations of 2020” means Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 14) (Covid-19 Pandemic Unemployment Payment) Regulations 2020 ( S.I. No. 370 of 2020 );
+
+“temporary wage subsidy” has the same meaning as it has in section 28 of the Emergency Measures in the Public Interest (Covid-19) Act 2020 .
+
+Calculation of reckonable weekly income.
+
+4. Article 52I(2) (inserted by article 3 of the Regulations of 2020) of the Principal Regulations is amended by the substitution of the following paragraphs for paragraph (a) to (c):
+
+“(a) in the case of an employed contributor, that person’s reckonable earnings for the period 1 January 2019 to 31 December 2019 inclusive, divided by the number of weeks in that period in which the person had reckonable earnings, or that person’s reckonable earnings for the period 1 January 2020 to 29 February 2020 inclusive, divided by the number of weeks in that period in which the person had reckonable earnings, or that person’s reckonable earnings for the period 1 January 2020 to 30 September 2020 inclusive, divided by the number of weeks in that period in which the person had reckonable earnings, whichever is the greater.
+
+(b) in the case of a self-employed contributor, that person’s reckonable income or reckonable emoluments for the 2018 income tax year, divided by the number of contribution weeks in that period, or that person’s reckonable income or reckonable emoluments for the 2019 income tax year, divided by the number of contribution weeks in that period, whichever is the greater and
+
+(c) in the case of a person whose reckonable weekly income during the 2019 income tax year derived from reckonable earnings as an employed contributor and reckonable income or reckonable emoluments as a self-employed contributor, the aggregate of that income divided by the number of contribution weeks in the said income tax year.
+
+(d) The number of weeks in which the person had reckonable earnings in sub-article (a) shall not include weeks in which the person’s employer was in receipt of the temporary wage subsidy in respect of the person.”.
+
+Covid-19 Pandemic Unemployment Payment
+
+5. The Principal Regulations are amended by the substitution of the following article for article 52J (inserted by article 3 of the Regulations of 2020):
+
+“Rates of payment.
+
+52J. From 16 October 2020, the weekly rates of Covid-19 pandemic unemployment payment shall be as follows:
+
+(i) Band A: €203.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I is less than €200.00,
+
+(ii) Band B: €250.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I is equal to or greater than €200.00 but less than €300.00,
+
+(iii) Band C: €300.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I is equal to or greater than €300.00 but less than €400.00, and
+
+(iv) Band D: €350.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I is equal to or greater than €400.00.”.
+
+The Minister for Public Expenditure and Reform consents to the foregoing Regulations.
+
+/images/ls
+
+GIVEN under my Official Seal,
+
+19 November, 2020.
+
+MICHAEL MCGRATH,
+
+Minister for Public Expenditure and Reform.
+
+GIVEN under my Official Seal,
+
+30 November, 2020.
+
+HEATHER HUMPHREYS,
+
+Minister for Social Protection.

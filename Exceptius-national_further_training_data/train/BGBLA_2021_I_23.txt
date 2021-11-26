@@ -1,0 +1,79 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2021	Ausgegeben am 20. Jänner 2021	Teil I
+23. Bundesgesetz:	Änderung des Epidemiegesetzes 1950 und des Covid-19-Maßnahmengesetzes
+	(NR: GP XXVII IA 1197/A AB 629 S. 77. BR: 10530 AB 10533 S. 919.)
+23. Bundesgesetz, mit dem das Epidemiegesetz 1950 und das COVID-19-Maßnahmengesetz geändert werden
+Der Nationalrat hat beschlossen:
+Artikel 1
+Änderung des Epidemiegesetzes 1950
+Das Epidemiegesetz 1950 (EpiG), BGBl. Nr. 186/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 136/2020, wird wie folgt geändert:
+1a. Nach § 3a wird folgender § 3b samt Überschrift eingefügt:
+„SARS-CoV-2-Antigentests zur Eigenanwendung
+§ 3b. Liegt nach Durchführung eines SARS-CoV-2-Antigentests zur Eigenanwendung ein positives Testergebnis vor, hat die betroffene Person unverzüglich die Gesundheitsbehörde beispielsweise über die Hotline 1450 zu informieren oder selbständig eine Nachtestung bei einer dafür befugten Stelle zu veranlassen. Eine Nachtestung soll innerhalb von 48 Stunden erfolgen. Bis zum Vorliegen des Testergebnisses der Nachtestung ist unverzüglich eine selbstüberwachte Heimquarantäne anzutreten; dabei gilt für die Entgeltfortzahlung und den Ersatz § 32 sinngemäß.“
+1b. In § 4 Abs. 4 Z 1 entfällt nach dem Wort „E-Mail-Adresse“ ein Beistrich.
+2. In § 5a Abs. 1 Z 4 wird die Wortfolge „COVID-19_Infektion“ durch die Wortfolge „COVID-19-Infektion“ ersetzt.
+3. In § 5a Abs. 2 entfällt in Z 4 das Wort „und“, in Z 5 wird der Punkt durch einen Beistrich ersetzt und es werden folgende Z 6 bis 9 angefügt:
+	„6.	Zeitpunkt der Probenabnahme,
+	7.	Zeitpunkt des Testergebnisses,
+	8.	Art des Tests,
+	9.	Barcode oder QR-Code.“
+4. § 5a Abs. 3 zweiter Satz lautet:
+„Die Teilnahme ist freiwillig und unentgeltlich.“
+5. Dem § 5a werden folgende Abs. 7 und 8 angefügt:
+„(7) Screeningprogramme gemäß Abs. 1 können auch zum Zweck der Erlangung eines Testergebnisses durchgeführt werden, um die auf Grund dieses Bundesgesetzes (§ 15 Abs. 2 Z 5) oder des COVID-19-Maßnahmengesetzes – COVID-19-MG, BGBl. I Nr. 12/2020, (§ 1 Abs. 5 Z 5) verordneten Voraussetzungen oder Auflagen zu erfüllen.
+(8) Der Durchführende des Screeningprogramms hat der betroffenen Person einen Nachweis über das Ergebnis der Testung auszustellen. Das Testergebnis ist der betroffenen Person entweder in ausgedruckter Form oder datenschutzkonform in elektronischer Form unverzüglich zur Verfügung zu stellen. Der für das Gesundheitswesen zuständige Bundesminister kann nähere Bestimmungen über die Form dieses Nachweises durch Verordnung festlegen. Die Verordnung kann die Verarbeitung folgender Daten für die Erstellung des Nachweises vorsehen:
+	1.	Name,
+	2.	Geburtsdatum,
+	3.	Zeitpunkt der Probenabnahme,
+	4.	Zeitpunkt des Testergebnisses,
+	5.	Testergebnis,
+	6.	Art des Tests,
+	7.	Barcode oder QR-Code.
+In der Verordnung ist vorzusehen, dass die Daten vom Durchführenden des Screeningprogramms nach der Erstellung des Nachweises unverzüglich zu löschen sind. Gesetzlich vorgesehene Aufbewahrungs- bzw. Dokumentationspflichten bleiben davon unberührt. Eine Verarbeitung der Daten zu anderen Zwecken als zur Nachweiserstellung oder zu sonst gesetzlich verpflichtend vorgesehenen Zwecken ist unzulässig.“
+6. In § 5b Abs. 3 erhalten die Z 3 und 4 die Ziffernbezeichnungen „4.“ und „5.“; in Z 5 neu wird der Punkt durch einen Beistrich ersetzt und es werden folgende Z 6 bis 9 angefügt:
+	„6.	Zeitpunkt der Probenabnahme,
+	7.	Zeitpunkt des Testergebnisses,
+	8.	Art des Tests,
+	9.	Barcode oder QR-Code.“
+7. In § 5c Abs. 2 wird die Zeichenfolge „Nr.98/1953 idfG,“ durch die Zeichenfolge „Nr. 98/1953, Zusammenkünfte von Organen politischer Parteien“ ersetzt.
+8. In § 15 Abs. 2 erhält die Z 5 die Ziffernbezeichnung „6.“; nach der Z 4 wird folgende Z 5 eingefügt:
+	„5.	Zur Verhinderung der Weiterverbreitung von COVID-19: Nachweis über eine lediglich geringe epidemiologische Gefahr des Teilnehmers. Ein Nachweis ist bei einem negativen Testergebnis auf SARS-CoV-2, bei einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion oder bei einem positiven Antikörpertest auszustellen. Ein negatives Testergebnis auf SARS-CoV-2 kann auch im Rahmen einer vom Veranstalter veranlassten Testung erlangt werden; § 5a Abs. 8 Satz 5 bis 7 gilt sinngemäß.“
+9. Dem § 15 wird folgender Abs. 9 angefügt:
+„(9) Durch Verordnung können vom für das Gesundheitswesen zuständigen Bundesminister nach dem Stand der Wissenschaft Anforderungen an die Qualität, die Modalität der Durchführung und die Aktualität des Tests sowie Form und Inhalt (Name, Geburtsdatum, Barcode bzw. QR-Code) des Nachweises über eine epidemiologisch geringe Gefahr gemäß Abs. 2 Z 5 geregelt werden. Dabei ist vorzusehen, dass der Nachweis gemäß § 15 Abs. 2 Z 5 einheitlich gestaltet wird, insbesondere dass ausschließlich Name, Geburtsdatum, Gültigkeitsdauer des Nachweises und Barcode bzw. QR-Code am Nachweis ersichtlich sind. Zudem kann bestimmt werden, dass dem Veranstalter zum Beginn der Veranstaltung der Nachweis vorzuweisen und für die gesamte Dauer der Veranstaltung für eine allfällige weitere Überprüfung durch den Veranstalter oder für eine Überprüfung durch die Behörde bereitzuhalten ist. Zu diesem Zweck ist der Veranstalter im Rahmen der Eingangskontrolle zur Ermittlung von personenbezogenen Daten berechtigt. In diesem Zusammenhang ist der Veranstalter auch berechtigt, die Identität des Teilnehmers festzustellen. Eine Aufbewahrung des Nachweises und des Identitätsnachweises ist unzulässig.“
+10. Dem § 27 Abs. 1 wird folgender Satz angefügt:
+„Die Epidemieärzte können vom Landeshauptmann bestellt werden, wenn sich die Tätigkeit auf das gesamte Landesgebiet erstrecken können soll.“
+11. Dem § 28c Abs. 4 wird folgender Satz angefügt:
+„Weiters sind die in diesen Einrichtungen tätigen Personen unbeschadet sonstiger Verschwiegenheitspflichten zur Verschwiegenheit über die im Rahmen ihrer Tätigkeit anvertrauten oder bekannt gewordenen Geheimnisse verpflichtet.“
+12. In § 50 Abs. 11 entfällt die Wortfolge „dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 43/2020“.
+13. Dem § 50 wird folgender Abs. 18 angefügt:
+„(18) § 3b samt Überschrift, § 4 Abs. 4, § 5a Abs. 1, 2, 3, 7 und 8, § 5b Abs. 3, § 5c Abs. 2, § 15 Abs. 2 und 9, § 27 Abs. 1, § 28c Abs. 4, § 50 Abs. 11 und § 50c in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2021 treten mit dem der Kundmachung folgenden Tag in Kraft. § 15 Abs. 2 Z 5 und § 15 Abs. 9 treten mit Ablauf des 31. Dezember 2021 außer Kraft.“
+14. Nach § 50b wird folgender § 50c eingefügt:
+„§ 50c. Verordnungen, die erst einer neuen Fassung dieses Bundesgesetzes entsprechen, dürfen von der Kundmachung des die Änderung bewirkenden Bundesgesetzes an erlassen werden, dürfen jedoch nicht vor dem Inkrafttreten der neuen bundesgesetzlichen Bestimmungen in Kraft treten.“
+Artikel 2
+Änderung des COVID-19-Maßnahmengesetzes
+Das COVID-19-Maßnahmengesetz (COVID-19-MG), BGBl. I Nr. 12/2020, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 138/2020, wird wie folgt geändert:
+1. In § 1 Abs. 5 wird das Wort „und“ am Ende der Z 3 durch einen Beistrich ersetzt und der Punkt am Ende der Z 4 durch das Wort „und“ ersetzt; folgende Z 5 wird angefügt:
+	„5.	In Bezug auf Regelungen gemäß Abs. 5b und 5c: Nachweis über eine lediglich geringe epidemiologische Gefahr. Ein Nachweis ist bei einem negativen Testergebnis auf SARS-CoV-2, bei einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion oder bei einem positiven Antikörpertest auszustellen. Ein negatives Testergebnis auf SARS-CoV-2 kann auch im Rahmen einer vom Inhaber bzw. Betreiber veranlassten Testung erlangt werden; § 5a Abs. 8 Satz 5 bis 7 des Epidemiegesetzes 1950 gilt sinngemäß.“
+2. Nach § 1 Abs. 5 werden folgende Abs. 5a bis 5c eingefügt:
+„(5a) Durch Verordnung können vom für das Gesundheitswesen zuständigen Bundesminister nach dem Stand der Wissenschaft Anforderungen an die Qualität, die Modalität der Durchführung und die Aktualität des Tests sowie Form und Inhalt (Name, Geburtsdatum, Barcode bzw. QR-Code) des Nachweises über eine epidemiologisch geringe Gefahr gemäß Abs. 5 Z 5 geregelt werden. Dabei ist vorzusehen, dass der Nachweis gemäß § 1 Abs. 5 Z 5 einheitlich gestaltet wird, insbesondere dass ausschließlich Name, Geburtsdatum, Gültigkeitsdauer des Nachweises und Barcode bzw. QR-Code am Nachweis ersichtlich sind.
+(5b) Durch Verordnung gemäß § 3 Abs. 1 Z 1 oder § 4 Abs. 1 Z 1 kann bestimmt werden, dass Betriebsstätten oder bestimmte Orte, bei denen es zu einer länger andauernden Interaktion mit anderen Personen kommt, von Kunden bzw. Besuchern nur betreten werden dürfen, wenn dem Inhaber einer Betriebsstätte oder dem gemäß § 4 hinsichtlich bestimmter Orte Verpflichteten ein Nachweis gemäß § 1 Abs. 5 Z 5 vorgewiesen und für die gesamte Dauer des Aufenthalts für eine allfällige weitere Überprüfung durch den Inhaber bzw. Verpflichteten oder für eine Überprüfung durch die Behörde bereitgehalten wird. Der Inhaber bzw. der Verpflichtete ist zu diesem Zweck zur Ermittlung von personenbezogenen Daten und zur Identitätsfeststellung berechtigt. Eine Aufbewahrung des Nachweises und des Identitätsnachweises ist unzulässig.
+(5c) Durch Verordnung gemäß § 3 Abs. 1 Z 2 kann bestimmt werden, dass
+	1.	Arbeitsorte, bei denen es zu Kundenkontakt kommt,
+	2.	Arbeitsorte, bei denen ein bestimmter Abstand (Abs. 5 Z 1) regelmäßig nicht eingehalten werden kann oder
+	3.	Alten-, Pflege- und Behindertenheime sowie Krankenanstalten und Kuranstalten
+von Mitarbeitern bzw. Arbeitnehmern nur betreten werden dürfen, wenn dem Inhaber oder Betreiber dieser Arbeitsorte, Alten-, Pflege- und Behindertenheime oder Krankenanstalten und Kuranstalten ein Nachweis gemäß § 1 Abs. 5 Z 5 vorgewiesen und für die gesamte Dauer des Aufenthalts für eine allfällige weitere Überprüfung durch den Inhaber oder Betreiber oder für eine Überprüfung durch die Behörde bereitgehalten wird. Der Inhaber oder Betreiber ist zu diesem Zweck zur Ermittlung von personenbezogenen Daten und zur Identitätsfeststellung berechtigt. Eine Aufbewahrung des Nachweises und des Identitätsnachweises ist unzulässig. In der Verordnung ist vorzusehen, dass eine Atemschutzmaske der Schutzklasse FFP2 (FFP2-Maske) ohne Ausatemventil oder eine äquivalente bzw. einem höheren Standard entsprechende Maske zu tragen ist, wenn ein Nachweis oder eine Bestätigung gemäß § 1 Abs. 5 Z 5 nicht vorgewiesen werden kann; dies gilt nicht für Arbeitsorte, in denen Kontakt mit vulnerablen Personengruppen (Bewohner von Alten-, Pflege- und Behindertenheimen, Patienten) besteht. Tests im Rahmen von betrieblichen Testungen sind unentgeltlich.“
+3. In § 8 Abs. 6 wird die Wortfolge „oder den von ihnen herangezogenen Sachverständigen“ durch die Wortfolge „, den von ihnen herangezogenen Sachverständigen oder den Organen des öffentlichen Sicherheitsdienstes“ ersetzt.
+4. Nach § 12 Abs. 3 wird folgender Abs. 3a eingefügt:
+„(3a) Das ArbeitnehmerInnenschutzgesetz – ASchG, BGBl. Nr. 450/1994, in der Fassung des Bundesgesetzes BGBl. I Nr. 100/2018, zuletzt geändert durch BGBl. I Nr. 100/2018, bleibt unberührt. Die Durchführung von SARS-CoV-2-Tests gilt als arbeitsmedizinische Untersuchung gemäß § 82 Z 5 ASchG. Abweichend von § 82 Z 6 ASchG kann die Durchführung von COVID-19-Schutzimpfungen zur Pandemiebekämpfung durch Arbeitsmediziner auch ohne Zusammenhang mit der Tätigkeit der Arbeitnehmer in die Präventionszeit (§ 82a ASchG) eingerechnet werden. Der für das Gesundheitswesen zuständige Bundesminister kann in Bezug auf betriebliche Testungen eine Verordnung über einen pauschalierten Kostenersatz des Bundes erlassen.“
+5. Nach § 12 Abs. 4 wird folgender Abs. 4a eingefügt:
+„(4a) Verordnungen, die erst einer neuen Fassung dieses Bundesgesetzes entsprechen, dürfen von der Kundmachung des die Änderung bewirkenden Bundesgesetzes an erlassen werden, dürfen jedoch nicht vor dem Inkrafttreten der neuen bundesgesetzlichen Bestimmungen in Kraft treten.“
+6. Dem § 12 wird folgender Abs. 8 angefügt:
+„(8) § 1 Abs. 5, 5a bis 5c, § 8 Abs. 6 und § 12 Abs. 3a und 4a sowie § 13 in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2021 treten mit dem der Kundmachung folgenden Tag in Kraft.“
+7. § 13 lautet:
+„§ 13. Mit der Vollziehung dieses Bundesgesetzes ist
+	1.	hinsichtlich § 12 Abs. 3a erster und zweiter Satz der Bundesminister für Arbeit im Einvernehmen mit dem für das Gesundheitswesen zuständigen Bundesminister,
+	2.	im Übrigen der für das Gesundheitswesen zuständige Bundesminister
+betraut.“
+Van der Bellen
+Kurz

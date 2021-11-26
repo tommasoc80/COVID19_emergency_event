@@ -1,0 +1,461 @@
+I, STEPHEN DONNELLY, Minister for Health, in exercise of the powers conferred on me by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Transport, the Minister for Foreign Affairs, the Minister for Housing, Local Government and Heritage, the Minister for Justice, the Minister for Enterprise, Trade and Employment, and the Minister for Tourism, Culture, Arts, Gaeltacht, Sport and Media,
+
+hereby make the following regulations:
+
+Part 1
+
+Preliminary and general
+
+Citation, revocation, commencement and operation
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) (No. 3) Regulations 2021.
+
+(2) The Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) (No. 2) Regulations 2021 (No. 11 of 2021) are revoked.
+
+(3) These Regulations shall come into operation on the 4th day of February 2021 and shall have effect for the period beginning on that day and ending on the 5th day of March 2021.
+
+Definitions
+
+2. In these Regulations -
+
+“Act of 1947” means the Health Act 1947 (No. 28 of 1947);
+
+“category 1 state” means a relevant state that is not a category 2 state;
+
+“category 2 state” means a relevant state specified in the Schedule;
+
+“Covid-19 Passenger Locator Form” has the same meaning as it has in the Health Act 1947 (Section 31A - Temporary Requirements) (Covid-19 Passenger Locator Form) Regulations 2020 ( S.I. No. 181 of 2020 );
+
+“exempted traveller” means -
+
+(a) a person -
+
+(i) who -
+
+(I) holds a valid annex 3 certificate in accordance with the Communication from the Commission on the implementation of the Green Lanes under the Guidelines for border management measures to protect health and ensure the availability of goods and essential services1 , or
+
+(II) is a driver of a heavy goods vehicle, and
+
+(ii) who arrives in the State in the course of performing his or her duties,
+
+(b) an aircraft pilot, other aircrew, maritime master or maritime crew who arrives in the State in the course of performing his or her duties,
+
+(c) a person who -
+
+(i) travels to the State from a relevant state in circumstances where it is impossible for the person to secure a relevant test result before so travelling, and
+
+(ii) is in possession of written confirmation from the Minister for Foreign Affairs that the person has an urgent humanitarian reason for so travelling,
+
+(d) a person who arrives at a port or airport in the State for the purposes of travelling to another state, and who does not leave the port or airport before so travelling,
+
+(e) a person who travels to the State pursuant to an arrest warrant, extradition proceedings or other mandatory legal obligation,
+
+(f) a person who -
+
+(i) travels to the State in the course of performing his or her duties, and
+
+(ii) is a member of the Garda Síochána, the Defence Forces or an officer of the Minister for Justice,
+
+(g) a person who travels to the State for unavoidable, imperative and time-sensitive medical reasons, or
+
+(h) a person who, having been outside the State to provide services to, or perform the functions of -
+
+(i) an office holder appointed under any enactment or under the Constitution, or
+
+(ii) a member of either House of the Oireachtas, the European Parliament or a local authority,
+
+is required to travel to the State in order to continue providing such services, or performing such functions as the case may be;
+
+“international organisation” means -
+
+(a) an organisation, and subordinate bodies of an organisation, governed by public international law, or
+
+(b) any other body that is established by, or on the basis of, an agreement between 2 or more states;
+
+“place of residence” means -
+
+(a) in relation to a person who is ordinarily resident in the State -
+
+(i) the home in which the person ordinarily resides, or
+
+(ii) if the person does not have a home, such other premises, if any, at which he or she is currently residing, whether on a permanent or temporary basis, or
+
+(b) in relation to a person who is not ordinarily resident in the State, the premises in the State, if any, at which he or she is currently residing or intends to reside after arriving in the State, whether on a permanent or temporary basis;
+
+“relevant geographical location” means a geographical location to which an affected areas order applies;
+
+“relevant person” has the meaning assigned to it by Regulation 3;
+
+“relevant state” means any state, country, territory, region or other place outside the State, other than Northern Ireland;
+
+“relevant test result”, in relation to a person, means any record or evidence, in written or other electronic form, confirming that -
+
+(a) the person has been subject to a RT-PCR test,
+
+(b) such test was administered to the person no more than 72 hours before the person arrives in the State, and
+
+(c) Covid-19, or the virus SARS-CoV-2, was not detected in the person at the time of taking the test;
+
+“relevant traveller” has the meaning assigned to it by Regulation 4;
+
+“responsible adult” has the meaning assigned to it by Regulation 7;
+
+“RT-PCR test” means a reverse transcription polymerase chain reaction test, the purpose of which is to detect the presence of Covid-19, or the virus SARS-CoV-2, in the person to whom it is administered;
+
+“travel organiser” has the meaning assigned to it by Regulation 8.
+
+Relevant Persons
+
+3. Officers of the Minister for Justice, being immigration officers appointed by that Minister under section 3 of the Immigration Act 2004 (No. 1 of 2004) (each of whom, in these Regulations, is referred to as a “relevant person”) are specified as relevant persons for the purposes of these Regulations.
+
+Relevant traveller
+
+4. In these Regulations, “relevant traveller” means a person who -
+
+(a) is not an exempted traveller, and
+
+(b) arrives in the State after having been in a relevant state in the period of 14 days prior to the date on which he or
+
+Provision of certain information or documentation relating to travel
+
+5. (1) A relevant traveller shall -
+
+(a) on arrival in the State, where the relevant traveller arrives in the State at a port or airport -
+
+(i) present himself or herself to a relevant person, and
+
+(ii) give or otherwise make available a relevant test result to the relevant person, or
+
+(b) where the relevant traveller arrives in the State other than at a port or airport, or at a port or airport in which there is no relevant person -
+
+(i) retain a relevant test result relating to himself or herself for a period of 14 days after so arriving, and
+
+(ii) give or otherwise make available the relevant test result to a relevant person or a member of the Garda Síochána when requested to do so by such person or member.
+
+(2) Where a relevant person or member of the Garda Síochána considers it necessary to do so, he or she may request a person, on the person’s arrival in the State or as soon as practicable thereafter, to provide or make available to the relevant person such information or documentation as the relevant person or member of the Garda Síochána may reasonably require in order to ascertain whether or not the person -
+
+(a) has a relevant test result,
+
+(b) is a relevant traveller,
+
+(c) is an exempted traveller, or
+
+(d) has been in a category 1 state or a category 2 state in the period of 14 days prior to the date on which he or she arrives in the State.
+
+(3) A person shall comply with a request under paragraph (2).
+
+(4) Paragraphs (1) and (3) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+Specification of category 2 state
+
+6. (1) The Minister may -
+
+(a) having been advised by the Chief Medical Officer of the Department of Health that a variant of concern in a relevant state means that significant public health risks are posed by the arrival of persons in the State from that relevant state, and
+
+(b) after consulting the Minister for Foreign Affairs,
+
+specify in writing that a relevant state is a category 2 state.
+
+(2) A specification under paragraph (1) shall, as soon as may be after it is made, be published on a website maintained by the Minister or by the Government.
+
+(3) In this Regulation, “variant of concern” means a variant of Covid-19 that, in the view of the Chief Medical Officer of the Department of Health, were it to enter the State or having entered the State become more widespread in the State, would present -
+
+(a) serious risks to preventing, limiting, minimising or slowing the spread of Covid-19 in the State, or
+
+(b) other serious public health risks.
+
+Part 2
+
+Obligations relating to pre-travel Covid-19 tests
+
+Obligations on relevant travellers
+
+7. (1) A relevant traveller who is 18 years of age or older shall not travel to the State without having a relevant test result.
+
+(2) A relevant traveller who -
+
+(a) is more than 7 years of age and less than 18 years of age, and
+
+(b) is not accompanied by a responsible adult,
+
+shall not travel to the State without having a relevant test result.
+
+(3) A person shall ensure that a relevant traveller in respect of whom he or she is a responsible adult does not travel to the State without having a relevant test result.
+
+(4) Where -
+
+(a) there are 2 or more responsible adults in relation to a relevant traveller, and
+
+(b) the requirement in paragraph (3) is satisfied by any one of the responsible adults,
+
+the requirement shall be deemed to be complied with by all such responsible adults.
+
+(5) A relevant traveller who is 18 years of age or older and who arrives in the State without having a relevant test result shall, as soon as practicable after so arriving and in any event not later than 36 hours after so arriving -
+
+(a) undertake a RT-PCR test, and
+
+(b) present himself or herself to a relevant person or a member of the Garda Síochána.
+
+(6) Paragraphs (1), (3) and (5) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+(7) In this Regulation, “responsible adult” means, in relation to a relevant traveller who is more than 7 years of age and less than 18 years of age, a person who -
+
+(a) is 18 years of age or older,
+
+(b) travels to the State with the relevant traveller, and
+
+(c) is responsible, alone or jointly with another person, for that relevant traveller for all or part of the journey by which the relevant traveller arrives in the State.
+
+Obligations on travel organisers
+
+8. (1) A travel organiser, in relation to a person whose arrival in the State it organises, effects or facilitates shall -
+
+(a) take reasonable steps to inform the person of his or her obligations under these Regulations,
+
+(b) take reasonable steps to check whether or not the person has a relevant test result, and
+
+(c) refuse to organise, effect or facilitate the travel of the person to the State where the person has not, to the satisfaction of the travel organiser, demonstrated that he or she has a relevant test result.
+
+(2) Paragraph (1)(c) shall not apply in relation to a person whose arrival in the State is organised, effected or facilitated by a travel organiser where the person declares to the travel organiser, or an officer, employee or agent of the travel organiser, that he or she is an exempted traveller.
+
+(3) In this Regulation, “travel organiser” means a person who -
+
+(a) by providing a person with access to or use of a vehicle, organises, effects or facilitates the arrival of the person in the State from a relevant state, and
+
+(b) is -
+
+(i) a body corporate, or
+
+(ii) in relation to a person who organises, effects or facilitates the arrival of the person in the State by providing access to or use of a vehicle on a private and exclusive basis, the owner of such vehicle.
+
+Part 3
+
+Travel connected to category 1 states
+
+Application of Part 3
+
+9. (1) Subject to paragraph (2), this Part applies to a relevant traveller who has -
+
+(a) been in a category 1 state in the period of 14 days prior to the date on which he or she arrives in the State, and
+
+(b) has not been in a category 2 state within such period.
+
+(2) This Part shall not apply to a relevant traveller who is -
+
+(a) a person to whom the privileges and immunities conferred by -
+
+(i) the Vienna Convention on Diplomatic Relations done at Vienna on the 18th day of April 1961, or
+
+(ii) the Vienna Convention on Consular Relations done at Vienna on the 24th day of April 1963,
+
+apply in the State, or
+
+(b) a person to whom the privileges and immunities conferred by an international agreement or arrangement apply in the State, pursuant to the Diplomatic Relations and Immunities Acts 1967 to 2006 or any other enactment.
+
+Obligation on certain persons to self-quarantine
+
+10. (1) Subject to paragraphs (2) to (5), a relevant traveller to whom this Part applies shall, during the period of 14 days beginning on the date on which he or she arrives in the State, remain in -
+
+(a) where a Covid-19 Passenger Locator Form was completed in respect of the relevant traveller, the place of residence specified on the Covid-19 Passenger Locator Form, or
+
+(b) where no Covid-19 Passenger Locator Form was completed in respect of the relevant traveller, the relevant traveller’s place of residence.
+
+(2) Where, for the purposes of paragraph (1), a relevant traveller specifies more than one place of residence on the Covid-19 Passenger Locator Form, or has more than one place of residence, the relevant passenger shall be deemed not to have complied with the requirement to remain in the place of residence under paragraph (1) where he or she so remains in more than one such place of residence.
+
+(3) Paragraph (1) shall not apply to a person who is the subject of an order under section 38A of the Act of 1947.
+
+(4) A relevant traveller to whom paragraph (1) applies may only leave his or her place of residence during the 14 day period to which that paragraph applies for such period as is strictly necessary -
+
+(a) for unavoidable reasons of an emergency nature to protect a person’s health or welfare,
+
+(b) to avail of a test for the purposes of paragraph (5) or Regulation 7(5),
+
+(c) to travel from his or her point of entry into the State to the place of residence in which he or she will remain in accordance with paragraph (1),
+
+(d) to leave the State,
+
+(e) to carry out essential repair, maintenance, construction or safety assurance of -
+
+(i) critical transport infrastructure,
+
+(ii) critical utility infrastructure,
+
+(iii) manufacturing services,
+
+(iv) information services, or
+
+(v) communications services,
+
+(f) where the relevant traveller is a member of staff of an international organisation, or a person invited to the State by an international organisation, to carry out functions required for the proper functioning of such organisations and which cannot be carried out remotely,
+
+(g) where the relevant traveller is a journalist, to carry out his or her professional functions, or
+
+(h) where the relevant traveller has been provided by Sport Ireland with a written certification in accordance with paragraph (8), to attend the sporting event to which such certification relates, or to engage in training in relation to that event.
+
+(5) Paragraph (1) shall no longer apply to a relevant traveller where he or she obtains written confirmation that -
+
+(a) the relevant traveller has been subject to a RT-PCR test,
+
+(b) such test was administered 5 days or more after the date on which the relevant traveller arrived in the State, and
+
+(c) Covid-19, or the virus SARS-CoV-2, was not detected in the relevant traveller at the time of taking the test.
+
+(6) A person shall retain the written confirmation obtained under paragraph (5) for 14 days after receiving such confirmation.
+
+(7) Paragraphs (1) and (6) are penal provisions for the purposes of section 31A of the Health Act 1947 .
+
+(8) Sport Ireland may, in relation to a relevant traveller to whom this Part applies -
+
+(a) after consulting with the Health Service Executive, and
+
+(b) where it is satisfied that -
+
+(i) the relevant traveller is a necessary person in relation to a sporting event,
+
+(ii) the sporting event concerned is at an internationally important competitive level, and
+
+(iii) that satisfactory public health protocols and procedures are in place in relation to the sporting event for the purpose of preventing, limiting, minimising or slowing the spread of Covid-19,
+
+provide the relevant traveller with a written certification stating that the relevant traveller may, notwithstanding paragraph (1), leave his or her place of residence during the 14 day period to which that paragraph applies for such period as is strictly necessary in order to attend the sporting event to which such certification relates, or to engage in training in relation to that event.
+
+(9) In this Regulation -
+
+“necessary person” means, in relation to a sporting event, any of the following persons whose presence at the sporting event is necessary for it to take place:
+
+(a) an athlete who is competing or playing in the sporting event, or who is eligible to so play or compete,
+
+(b) a coach or a trainer connected to an athlete,
+
+(c) medical personnel, including such personnel carrying out public health supervisory functions,
+
+(d) a person who attends the event in order to ensure that it is conducted in accordance with the rules of the sport concerned, or
+
+(e) a person whose attendance at the event is necessary for it to be reported, recorded or broadcast;
+
+“sporting event” means an event held wholly or partly for competitive sport reasons that is organised under the structure of, licenced by or otherwise authorised -
+
+(a) in relation to an event held, or to be held, in a relevant geographical location, by the national governing body of the sport in question, or
+
+(b) in relation to an event held, or to be held, in a place other than a relevant geographical location, by an organisation recognised by the national governing body of the sport in question as being responsible for organising international sporting competitions in that place.
+
+Part 4
+
+Travel connected to category 2 states
+
+Application of Part 4
+
+11. This Part applies to a relevant traveller who arrives in the State after having been in a category 2 state in the period of 14 days prior the date on which he or she so arrives.
+
+Obligation on certain persons to self-quarantine
+
+12. (1) Subject to paragraphs (2) to (4), a relevant traveller to whom this Part applies shall, during the period of 14 days beginning on the date on which he or she arrives in the State, remain in -
+
+(a) where a Covid-19 Passenger Locator Form was completed in respect of the relevant traveller, the place of residence specified on the Covid-19 Passenger Locator Form, or
+
+(b) where no Covid-19 Passenger Locator Form was completed in respect of the relevant traveller, the relevant traveller’s place of residence.
+
+(2) Where, for the purposes of paragraph (1), a relevant traveller specifies more than one place of residence on the Covid-19 Passenger Locator Form, or has more than one place of residence, the relevant passenger shall be deemed not to have complied with the requirement to remain in the place of residence under paragraph (1) where he or she so remains in more than one such place of residence.
+
+(3) Paragraph (1) shall not apply to a person who is the subject of an order under section 38A of the Act of 1947.
+
+(4) A relevant traveller to whom paragraph (1) applies may only leave his or her place of residence during the 14 day period to which that paragraph applies for such period as is strictly necessary -
+
+(a) for unavoidable reasons of an emergency nature to protect a person’s health or welfare,
+
+(b) to travel from his or her point of entry into the State to the place of residence in which he or she will remain in accordance with paragraph (1),
+
+(c) to avail of a RT–PCR test when requested in writing to do so by the Health Service Executive, or
+
+(d) to leave the State.
+
+(5) Paragraph (1) is a penal provision for the purposes of 31A of the Health Act 1947 .
+
+Referral of certain persons to medical officer of health
+
+13. (1) A relevant person, or member of the Garda Síochána as the case may be, may -
+
+(a) as soon as practicable after a relevant traveller to whom this Part applies arrives in the State, and
+
+(b) where he or she considers it appropriate to do so due to the relevant traveller not having a place of residence, or for other good reason,
+
+notify a medical officer of health that the person has arrived in the State including, if required, by providing to that officer personal data relating to the person processed in accordance with Regulation 14.
+
+(2) A relevant person, or member of the Garda Síochána as the case may be, may, where he or she considers it necessary to do so, direct a relevant traveller to whom this Part applies to remain in a particular place for as long as is reasonably required in order to allow a medical officer of health to consider the relevant traveller.
+
+(3) A relevant traveller to whom this Part applies shall comply with a direction under paragraph (2).
+
+(4) Paragraph (3) is a penal provision for the purposes of the Act of 1947.
+
+Part 5
+
+Data protection
+
+Data protection
+
+14. (1) Subject to paragraphs (3) and (4), personal data, including data concerning health, provided to a relevant person or member of the Garda Síochána in accordance with these Regulations may be processed by the Minister for Justice and one or more relevant persons, for the purposes of -
+
+(a) recording and verifying information provided regarding a relevant test result, including whether or not a person is in possession of a relevant test result, and
+
+(b) recording and verifying information provided regarding whether or not a person -
+
+(i) is an exempted traveller,
+
+(ii) is a relevant traveller,
+
+(iii) has been in a category 1 state or a category 2 state in the period of 14 days prior to the date on which he or she arrives in the State, or
+
+(iv) is a responsible adult.
+
+(2) For the purposes of these Regulations, the Minister for Justice -
+
+(a) is designated as data controller in relation to personal data processed for the purposes of these Regulations, and
+
+(b) shall put in place appropriate data processing contracts, where necessary, with relevant persons processing personal data under these Regulations.
+
+(3) Subject to paragraph (4) -
+
+(a) where a relevant person or member of the Garda Síochána is satisfied with a relevant test result presented to him or her under Regulation 7, no personal data or data concerning health shall be processed in relation to the relevant test result, and
+
+(b) personal data collected for the purpose of these Regulations shall not be retained for any period beyond which they are required for the purposes of these Regulations, and shall be permanently deleted after they are no longer so required.
+
+(4) Notwithstanding paragraph (3), where personal data collected in accordance with these Regulations are required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data -
+
+(a) may be processed for as long as they are required for such prevention, investigation, detection or prosecution, and
+
+(b) shall be permanently deleted after they are no longer required for such prevention, investigation, detection or prosecution.
+
+(5) Where, immediately before the coming into operation of these Regulations, personal data was being processed in accordance with Regulation 8(4) of the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) Regulations 2021 (No. 3 of 2021) or Regulation 8(4) of the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) (No. 2) Regulations 2021 (No. 11 of 2021), such data shall continue to be processed as if they were being processed under paragraph (4).
+
+(6) In this Regulation -
+
+“data concerning health” has the meaning it has in the General Data Protection Regulation;
+
+“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)2 ;
+
+“personal data” has the meaning it has in the General Data Protection Regulation;
+
+“processing”, in relation to personal data, has the meaning it has in the General Data Protection Regulation.
+
+SCHEDULE
+
+Category 2 states
+
+Regulation 2
+
+1. Brazil
+
+2. Republic of South Africa
+
+3. A relevant state specified by the Minister as a category 2 state in accordance with Regulation 6
+
+GIVEN under my Official Seal,
+
+3 February, 2021.
+
+STEPHEN DONNELLY,
+
+Minister for Health.

@@ -1,0 +1,66 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2021	Ausgegeben am 26. Februar 2021	Teil I
+33. Bundesgesetz:	Änderung des Epidemiegesetzes 1950 und des COVID-19-Maßnahmengesetzes
+	(NR: GP XXVII IA 1214/A AB 671 S. 85. BR: 10541 AB 10542 S. 922.)
+33. Bundesgesetz, mit dem das Epidemiegesetz 1950 und das COVID‑19-Maßnahmengesetz geändert werden
+Der Nationalrat hat beschlossen:
+Artikel 1
+Änderung des Epidemiegesetzes 1950
+Das Epidemiegesetz 1950 (EpiG), BGBl. Nr. 186/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 23/2021, wird wie folgt geändert:
+1. In der Überschrift des § 1 entfällt der Punkt.
+2. In § 4 Abs. 1 wird nach dem Zitat „BGBl. Nr. 127/1968,“ die Wortfolge „sowie zu Impfdaten aus dem zentralen Impfregister“ eingefügt.
+3. In § 4 Abs. 2 wird die Zeichen- und Wortfolge „§ 43 Abs. 6 und 7“ durch die Zeichen- und Wortfolge „§ 43 Abs. 5 und 6“ ersetzt.
+4. Nach § 4 Abs. 3 wird folgender Abs. 3a eingefügt:
+„(3a) Die ELGA GmbH ist berechtigt, die im zentralen Impfregister gespeicherten Angaben zu COVID-19 pseudonymisiert an den für das Gesundheitswesen zuständigen Bundesminister täglich zu übermitteln. Für die Übermittlung dieser Daten ist § 6 des Gesundheitstelematikgesetzes 2012 (GTelG 2012) sinngemäß anzuwenden. Der für das Gesundheitswesen zuständige Bundesminister ist berechtigt, die ihm von der ELGA GmbH übermittelten Daten mit dem Register anzeigepflichtiger Krankheiten zu verknüpfen und dürfen diese Daten zum Zweck des Ausbruchs- und Krisenmanagements, wie etwa der Ausstellung von Impfnachweisen, verarbeitet werden. Die übermittelten Daten sind in das Statistik-Register (§ 4a) zu überführen.“
+5. In § 4 Abs. 4 Z 3 wird nach der Klammer die Wortfolge „sowie die in § 24c Abs. 2 Z 2 GTelG 2012 genannten Angaben“ und nach dem Wort „Labordaten“ folgende Wortfolge eingefügt: „sofern für die Zwecke des Abs. 2 erforderlich auch negative Testergebnisse auf SARS-CoV-2,“.
+6. In § 4 Abs. 6 wird das Wort „oder“ durch einen Beistrich ersetzt und vor dem Wort „erfolgen“ die Wortfolge „zur Ausstellung eines Impfnachweises über eine Impfung gegen COVID-19 sowie zur Ausstellung einer Bestätigung über eine erfolgte und aktuell abgelaufene Infektion an SARS-CoV-2“ eingefügt.
+7. Dem § 4 Abs. 15 wird folgender Satz angefügt:
+„Sofern diese Informationen aus fachlicher Sicht zur Bekämpfung der COVID-19-Pandemie erforderlich sind, kann dabei festgelegt werden, dass auch negative Testergebnisse auf SARS-CoV-2 zu melden sind.“
+8. Dem § 4 werden folgende Abs. 18 bis 21 angefügt:
+„(18) Der Nachweis über eine erfolgte und aktuell abgelaufene Infektion an SARS-CoV-2 hat den Namen des Genesenen, das Geburtsdatum, den Umstand einer erfolgten und aktuell abgelaufenen Infektion an SARS-CoV-2, den Zeitpunkt der Genesung, die Gültigkeitsdauer, einen Barcode bzw. QR-Code und eine Amtssignatur (§ 19 des E‑Government-Gesetzes – E-GovG, BGBl. I Nr. 10/2004) zu enthalten.
+(19) Der Impfnachweis über eine Impfung gegen COVID-19 kann folgende Datenkategorien enthalten: den Namen des Geimpften, das Geburtsdatum, Angaben zum Impfstoff, zur verabreichten Impfung, zum impfenden Gesundheitsdiensteanbieter, einen Barcode bzw. QR-Code und eine Amtssignatur (§ 19 E‑GovG). Der für das Gesundheitswesen zuständige Bundesminister kann durch Verordnung nähere Vorgaben über Form und Inhalt des Impfnachweises erlassen.
+(20) Personen sowie deren gesetzliche oder bevollmächtigte Vertreter haben das Recht, elektronisch im Wege des Gesundheitsportals (§ 23 GTelG 2012) einen Impfnachweis und eine Bestätigung über eine erfolgte und aktuell abgelaufene Infektion mit SARS-CoV-2 in digitaler Form anzufordern oder auszudrucken oder sich von der örtlich zuständigen Bezirksverwaltungsbehörde ausdrucken zu lassen. Die Bezirksverwaltungsbehörden dürfen zu diesem Zweck personenbezogen auf das Register zugreifen.
+(21) Der für das Gesundheitswesen zuständige Bundesminister ist berechtigt, auf das Register der anzeigepflichtigen Krankheiten personenbezogen in dem Umfang zuzugreifen, als es erforderlich ist, um die Nachweise über eine erfolgte und aktuell abgelaufene Infektion an SARS-CoV-2 an die genesenen Personen zu übermitteln. Abs. 8 zweiter Satz gilt.“
+9. In § 5a Abs. 7 entfällt der Klammerausdruck „(§ 15 Abs. 2 Z 5)“.
+10. § 15 Abs. 2 Z 5 dritter Satz lautet:
+„Eine geringe epidemiologische Gefahr kann bei einem negativen Testergebnis auf SARS-CoV-2, bei einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion oder bei einem positiven Antikörpertest vorliegen.“
+11. Nach § 15 Abs. 2 Z 5 dritter Satz wird folgender Satz angefügt:
+„Einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion sind ein Nachweis nach § 4 Abs. 18 und ein Absonderungsbescheid gleichzuhalten, wenn dieser für eine nachweislich an COVID-19 erkrankte Person ausgestellt wurde.“
+12. In § 15 Abs. 9 entfällt der Klammerausdruck „(Name, Geburtsdatum, Barcode bzw. QR-Code)“ und wird nach dem Wort „Geburtsdatum,“ die Wortfolge „Zeitpunkt der Probenabnahme,“ und nach dem Wort „QR-Code“ die Wortfolge „und gegebenenfalls die Amtssignatur“ eingefügt.
+13. In der Überschrift zu § 24 wird die Wortfolge „Bewohner bestimmter Ortschaften.“ durch die Wortfolge „Personen, die sich in Epidemiegebieten aufhalten“ ersetzt.
+14. Im § 24 wird die Wortfolge „hat die Bezirksverwaltungsbehörde für die Bewohner von Epidemiegebieten“ durch die Wortfolge „sind für die in Epidemiegebieten aufhältigen Personen“ ersetzt.
+15. Nach § 28c Abs. 4 erster Satz wird folgender Satz eingefügt:
+„Sie gelten als Einrichtungen des Gesundheitswesens gemäß § 2 Abs. 23 des Medizinproduktegesetzes (MPG), BGBl. Nr. 657/1996, und sind verpflichtet, regelmäßig an Ringversuchen der nationalen Referenzzentrale oder an Ringversuchen von unionsweit anerkannten Referenzzentren teilzunehmen.“
+16. § 28d lautet:
+„§ 28d. (1) Im Rahmen von Screenings zur Bekämpfung der Ausbreitung des Erregers SARS-CoV-2 (COVID-19) sind
+	1.	Angehörige des gehobenen Dienstes der Gesundheits- und Krankenpflege und der Pflegefachassistenz gemäß Gesundheits- und Krankenpflegegesetz (GuKG), BGBl. I Nr. 108/1997,
+	2.	Angehörige der gehobenen medizinisch-technischen Dienste gemäß MTD-Gesetz, BGBl. Nr. 460/1992,
+	3.	Hebammen gemäß Hebammengesetz, BGBl. Nr. 310/1994,
+	4.	Angehörige des zahnärztlichen Berufes gemäß Zahnärztegesetz (ZÄG), BGBl. I Nr. 126/2005,
+	5.	Personen, die ein naturwissenschaftliches oder ein veterinärmedizinisches Studium erfolgreich abgeschlossen haben gemäß § 4 Abs. 5 MTD-Gesetz, und
+	6.	Angehörige des kardiotechnischen Dienstes gemäß Kardiotechnikergesetz (KTG), BGBl. I Nr. 96/1998,
+auch ohne ärztliche Anordnung berechtigt, Abstriche aus Nase und Rachen einschließlich Point-of-Care-Covid-19-Antigen-Tests zu diagnostischen Zwecken durchzuführen. Für Berufsangehörige gilt die Meldepflicht gemäß den §§ 2 und 3, soweit nicht eine Meldung durch die gemäß den §§ 3 oder 28c verpflichtete Person oder Einrichtung erfolgt.
+(2) Im Rahmen von Screenings zur Bekämpfung der Ausbreitung des Erregers SARS-CoV-2 (COVID-19) sind
+	1.	Angehörige der Pflegeassistenz gemäß GuKG,
+	2.	Angehörige der medizinischen Assistenzberufe und Trainingstherapeuten gemäß Medizinische Assistenzberufe-Gesetz (MABG), BGBl. I Nr. 89/2012,
+	3.	Medizinische Masseure und Heilmasseure gemäß Medizinischer Masseur- und Heilmasseurgesetz (MMHmG), BGBl. I Nr. 169/2002,
+	4.	Angehörige der Zahnärztlichen Assistenz gemäß ZÄG, und
+	5.	Angehörige eines Sozialbetreuungsberufs nach der Vereinbarung gemäß Art. 15a B-VG über Sozialbetreuungsberufe, BGBl. I Nr. 55/2005,
+soweit sie nicht ohnedies auf Grund ihres gesetzlich festgelegten Tätigkeitsbereichs hiezu befugt sind, berechtigt, Abstriche aus Nase und Rachen einschließlich Point-of-Care-Covid-19-Antigen-Tests zu diagnostischen Zwecken auf Anordnung und unter Aufsicht durchzuführen. Vor der erstmaligen Durchführung einer Abstrichnahme hat eine entsprechende Einschulung zu erfolgen. Die Anordnung, Aufsicht und Einschulung hat durch einen Arzt, einen Zahnarzt, einen Biomedizinischen Analytiker oder einen diplomierten Gesundheits- und Krankenpfleger zu erfolgen.
+(3) Im Rahmen von Screenings zur Bekämpfung der Ausbreitung des Erregers SARS-CoV-2 (COVID-19) sind Sanitäter gemäß Sanitätergesetz (SanG), BGBl. I Nr. 30/2002, berechtigt, Abstriche aus Nase und Rachen einschließlich Point-of-Care-Covid-19-Antigen-Tests zu diagnostischen Zwecken in Zusammenarbeit mit einem Arzt, einem Zahnarzt, einem Biomedizinischen Analytiker, einem diplomierten Gesundheits- und Krankenpfleger oder einer Einrichtung gemäß § 28c durchzuführen. Für die Durchführung dieser Tätigkeit gilt § 26 SanG nicht.“
+17. § 50 wird folgender Abs. 19 angefügt:
+„(19) Die Überschrift zu § 1, die §§ 4 Abs. 1, 2, 3a, 4, 6, 15, 18 bis 20, § 5a Abs. 7, § 15 Abs. 2 Z 5 und Abs. 9, die Überschrift zu § 24 und § 24, § 28c Abs. 4 und § 28d in der Fassung des Bundesgesetzes BGBl. I Nr. 33/2021 treten mit dem der Kundmachung folgenden Tag in Kraft. § 4 Abs. 3a tritt mit Ablauf des 31. Dezember 2021 außer Kraft.“
+Artikel 2
+Änderung des COVID‑19-Maßnahmengesetzes
+Das COVID‑19-Maßnahmengesetz (COVID‑19-MG), BGBl. I Nr. 12/2020, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 23/2021, wird wie folgt geändert:
+1. § 1 Abs. 5 Z 5 dritter Satz lautet:
+„Eine geringe epidemiologische Gefahr kann bei einem negativen Testergebnis auf SARS-CoV-2, bei einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion oder bei einem positiven Antikörpertest vorliegen.“
+2. Nach § 1 Abs. 5 Z 5 dritter Satz wird folgender angefügt:
+„Einer ärztlichen Bestätigung über eine erfolgte und aktuell abgelaufene Infektion ist ein Nachweis nach § 4 Abs. 18 des Epidemiegesetzes und ein Absonderungsbescheid gleichzuhalten, wenn dieser für eine nachweislich an COVID-19 erkrankte Person ausgestellt wurde.“
+3. In § 1 Abs. 5a entfällt der Klammerausdruck „(Name, Geburtsdatum, Barcode bzw. QR-Code)“ und wird nach dem Wort „Geburtsdatum,“ die Wortfolge „Zeitpunkt der Probenabnahme,“ und nach dem Wort „QR-Code“ die Wortfolge „und gegebenenfalls die Amtssignatur“ eingefügt.
+4. In § 3 Abs. 1 Z 2 wird nach dem Wort „ArbeitnehmerInnenschutzgesetzes“ der Klammerausdruck „(ASchG)“ eingefügt.
+5. Dem § 12 wird folgender Abs. 9 angefügt:
+„(9) § 1 Abs. 5 Z 5, Abs. 5a sowie § 3 Abs. 1 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 33/2021 treten mit dem der Kundmachung folgenden Tag in Kraft.“
+Van der Bellen
+Kurz

@@ -1,0 +1,468 @@
+2020 No. 209
+PUBLIC HEALTH
+
+The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 3) Regulations 2020
+Approved by the Scottish Parliament
+
+Made9th July 2020
+Coming into force10th July 2020
+Laid before the Scottish Parliament10th July 2020
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 94(1)(b)(i) and 122(2)(b) of the Public Health etc. (Scotland) Act 2008(1), and all other powers enabling them to do so.
+
+In accordance with section 122(6) of that Act, the Scottish Ministers consider that these regulations need to be made urgently, without a draft having been laid before, and approved by resolution of, the Scottish Parliament.
+
+PART 1
+General
+Citation and commencement
+1.  These Regulations may be cited as the Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 3) Regulations 2020 and come into force on 10 July 2020.
+
+Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020
+2.—(1) The Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020(2) are amended in accordance with paragraphs (2) to (9).
+
+(2) In regulation 2(1) (interpretation)—
+
+(a)after the definition of “coronavirus” insert—““coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by coronavirus),“exempt country or territory” means a country or territory specified in schedule A1 and “non-exempt country or territory” means any other country or territory outside the common travel area,”,
+(b)in the definition of “passenger information” omit “and”,
+(c)after the definition of “Passenger Locator Form” insert—““specified competition” means a competition listed in schedule 3,”, and
+(d)at the end insert—
+“(3) For the purposes of these Regulations a person (“P”) is not treated as departing from or transiting through a country or territory if, at all times whilst in that country or territory—
+
+(a)P remains on a conveyance on which no other person is permitted to be taken on board, or
+(b)P is kept separated from passengers who did not arrive on the same conveyance as P, and no such passengers are permitted to be taken on board the conveyance on which P leaves that country or territory.”.
+(3) In regulation 3 (persons not required to provide passenger information),
+
+(a)in paragraph (4)(b) omit “or”
+(b)after paragraph (4)(c) insert—
+“(d)a person described in any of paragraphs 4A to 4F of schedule 2 who meets the condition in paragraph 4G of that schedule, or
+(e)a person described in paragraph 13 of schedule 2.”.
+(4) In regulation 6 (requirement for travellers to stay in specified premises)—
+
+(a)in paragraph (1)—
+(i)in sub-paragraph (a), for “outside the common travel area” substitute “a non-exempt country or territory”, and
+(ii)in sub-paragraph (b)—
+(aa)after “within the common travel area” insert “or from an exempt country or territory”, and
+(bb)for “been outside the common travel area” substitute “departed from or transited through a non-exempt country or territory”, and
+(b)in paragraph (2)(a) for “arrived in the common travel area” substitute “last departed from or transited through a non-exempt country or territory”.
+(5) In regulation 7 (persons not required to comply with regulation 6)—
+
+(a)in paragraph (b) omit “at a port”,
+(b)after paragraph (ca)—
+(i)omit “or”,
+(ii)insert—
+“(cb)any international elite sportsperson described in paragraph 38 of schedule 2 but only to the extent specified in paragraph 38(4)(a) or any international ancillary sportsperson described in paragraph 38 of that schedule but only to the extent specified in paragraph 38(4)(b),
+(cc)any person described in paragraph 39 of schedule 2 but only to the extent specified in that paragraph, or”, and
+(iii)in paragraph (d) after “schedule 2” insert “(including any person who is a domestic elite sportsperson, or a domestic ancillary sportsperson within the meaning of paragraph 38 of that schedule).
+(6) Before schedule 1 insert the schedule 1A (countries and territories) in schedule 1 of these Regulations.
+
+(7) In schedule 1 (passenger information)—
+
+(a)in paragraph 2(a) at the end insert “(where required to comply with regulation 6)”,
+(b)in paragraph 2(h) and (j)(ii) after “country” insert “or territory”, and
+(c)after paragraph 2(h), insert—
+“(ha)any other country or territory they have departed from or transited through in the period beginning with the 14th day before the date of their arrival in Scotland and in any such case, the dates of departing from or transiting through any such country or territory,”.
+(8) In schedule 2 (persons not required to comply with regulation 3 or regulation 6)—
+
+(a)in paragraph 3(1)—
+(i)omit “or” after sub-paragraph (a),
+(ii)after sub-paragraph (a) insert—
+“(aa)has travelled from a point of origin within the common travel area or from an exempt country or territory on a vessel or aircraft operated by, or in support of, Her Majesty’s armed forces or by, or in support of, a visiting force and that vessel or aircraft has not taken on any persons, docked in any port or landed in any non-exempt country or territory, or”, and
+(iii)in sub-paragraph (b), after “Her Majesty’s Naval Service” insert “or by or in support of a visiting force”.
+(b)after paragraph 4 insert—
+“4A.—(1) A road passenger transport worker.
+
+(2) For the purposes of this paragraph—
+
+(a)“road passenger transport worker” means—
+(i)the driver of a public service vehicle, or
+(ii)a person who is employed by the holder of a Community licence issued under Article 4 of Regulation (EC) No 1073/2009(3) of the European Parliament and of the Council, and who is acting in the course of their employment,
+(b)“driver” includes a person who is travelling in a vehicle as a relief driver, and
+(c)“public service vehicle” has the meaning given in section 1 of the Public Passenger Vehicles Act 1981(4).
+4B.—(1) Seamen and masters, as defined in section 313(1) of the Merchant Shipping Act 1995(5), where they have travelled to the United Kingdom in the course of their work or have been repatriated to the United Kingdom in accordance with the Maritime Labour Convention, 2006 or the Work in Fishing Convention, 2007.
+
+(2) For the purposes of sub-paragraph (1) and paragraph 4C—
+
+(a)“the Maritime Labour Convention, 2006” means the Convention adopted on 23 February 2006 by the General Conference of the International Labour Organisation(6), and
+(b)“the Work in Fishing Convention, 2007” means the Convention adopted at Geneva on 14 June 2007 by the International Labour Organisation(7).
+4C.  A pilot, as defined in paragraph 22(1) of schedule 3A of the Merchant Shipping Act 1995(8), where they have travelled to the United Kingdom in the course of their work or have been repatriated to the United Kingdom in accordance with the Maritime Labour Convention, 2006 or the Work in Fishing Convention, 2007.
+
+4D.  An inspector, or a surveyor of ships, appointed under section 256 of the Merchant Shipping Act 1995, where they have travelled to the United Kingdom in the course of their work.
+
+4E.  Crew, as defined in paragraph 1 of schedule 1 of the Air Navigation Order 2016(9), where they have travelled to the United Kingdom in the course of their work.
+
+4F.—(1) Any of the following who have travelled to the United Kingdom in the course of their work—
+
+(a)drivers and crews on shuttle services and on services for the carriage of passengers or goods by way of the tunnel system, and
+(b)other workers carrying out essential roles for the safe or efficient operation of the tunnel system, shuttle services or services for the carriage of passengers or goods by way of the tunnel system, or relating to the security of the tunnel system or any such services.
+(2) For the purposes of sub-paragraph (1)—
+
+(a)“shuttle service” has the meaning given in section 1(9) of the Channel Tunnel Act 1987(10), and
+(b)“tunnel system” has the meaning given in section 1(7) of that Act.
+4G.—(1) The condition mentioned in regulation 3(4)(d) is that the person has in the course of their work on the journey to Scotland travelled only—
+
+(a)on a conveyance which does not carry passengers,
+(b)in an area of a conveyance which is not accessible to passengers, or
+(c)in an area of a conveyance which is accessible to passengers in vehicles, where passengers remain within their vehicles while the person is present in that area of the conveyance.
+(2) For the purposes of this paragraph—
+
+“not accessible to passengers” means separated by a continuous physical barrier which passengers are not permitted to cross, and“passenger” does not include a person of the description in paragraph 4F(1)(b).”,
+(c)in paragraph 7—
+(i)in sub-paragraph (1) omit “or a road passenger transport worker”,
+(ii)in sub-paragraph (2) omit the definitions of “public service vehicle” and “road passenger transport worker”,
+(d)omit paragraphs 8, 9, 10 and 11,
+(e)for paragraph 13 substitute—
+“13.—(1) Operational, rail maintenance, safety and security workers working on the tunnel system who have travelled to the United Kingdom in the course of their work.
+
+(2) For the purposes of sub-paragraph (1) “tunnel system” has the meaning given in section 1(7) of the Channel Tunnel Act 1987.”
+
+(f)after paragraph 14 insert—
+“14A.—(1) A government contractor who is contracted to undertake essential or emergency work outside of the United Kingdom, which is certified by the relevant Department as necessary to facilitate essential government work or the conduct of bi-lateral or multi-lateral discussions with another state or international organisation.
+
+(2) For the purposes of sub-paragraph (1), “essential government work” and “government contractor” have the same meaning as in paragraph 14.”,
+
+(g)in paragraph 18—
+(i)in sub-paragraph 1(b) for “a person who provides a private water supply” substitute “a local authority or a relevant person”, and
+(ii)in sub-paragraph 2 in the definition of “essential or emergency works”, in paragraph (b)—
+(aa)after “2017” insert “, the Private Water Supplies (Scotland) Regulations 2006(11)”, and
+(bb)omit “and” where it last appears, and
+(iii)also in sub-paragraph 2 after the definition of “essential or emergency works” insert—““relevant person” has the meaning given in—
+(a)regulation 3(1) of the Water Intended for Human Consumption (Private Supplies) (Scotland) Regulations 2017(12), or
+(b)regulation 4 of the Private Water Supplies (Scotland) Regulations 2006, and”,
+(h)after paragraph 18 insert—
+“18A.—(1) Workers engaged in essential or emergency works on behalf of a local authority relating to flood risk management, within the meaning of the Flood Risk Management (Scotland) Act 2009(13) or the Coast Protection Act 1949(14).”,
+
+(i)in paragraph 25—
+(i)in the opening words of sub-paragraph (1)—
+(aa)omit “undertaking, or”, and
+(bb)for “to commence” substitute “to undertake or commence within 14 days of their arrival”,
+(ii)in sub-paragraph (1)(a) for “offshore installations” substitute “an offshore installation”,
+(iii)in sub-paragraph (1)(c) for “offshore installations and wells that are being decommissioned or which are being” substitute “an offshore installation or well being decommissioned or”,
+(iv)in the full out of sub-paragraph (1) omit “where they have travelled to the United Kingdom in the course of their work”,
+(v)in sub-paragraph (2)—
+(aa)in the definition of “off-shore installations” for “off-shore installations” substitute “offshore installation”,
+(bb)in the definition of “wells” for “wells” substitute “well”,
+(j)in paragraph 28, for “commissioning,” substitute “construction, commissioning, installation,”,
+(k)in paragraph 30 for sub-paragraph (1) substitute—
+“(1) A person who has travelled to the United Kingdom for the purpose of transporting material which consists of, or includes, human cells or blood and which is to be used for the provision of healthcare by a healthcare provider.”,
+
+(l)in paragraph 35(1)(b) for “information technology and telecommunications professional” substitute “information technology or telecommunications professional”,
+(m)after paragraph 37 insert—
+“38.—(1) A domestic elite sportsperson, an international elite sportsperson, a domestic ancillary sportsperson or an international ancillary sportsperson.
+
+(2) For the purposes of this paragraph—
+
+“domestic ancillary sportsperson” means an individual essential to—
+(a)the running of an elite sports event including—
+(i)operational staff essential to the running of that elite sports event, and
+(ii)event officials and referees, or
+(b)the support of a domestic elite sportsperson including—
+(i)sports team medical, logistical, technical and administration staff,
+(ii)individual sportsperson medical and technical support staff,
+(iii)horse grooms and trainers,
+(iv)motorsport mechanics and technical staff, and
+(v)the parent or carer of an elite sportsperson under the age of 18,
+“domestic elite sportsperson” means an individual who—
+(a)derives a living from competing in a sport,
+(b)is a senior representative nominated by a relevant sporting body,
+(c)is a member of the senior training squad for a relevant sporting body,
+(d)is aged 16 or above and on an elite development pathway,
+(e)is in Scotland, after departing from or transiting through a non-exempt country or territory, and
+(f)either—
+(i)has departed from or transited through the non-exempt country or territory in order to participate in an elite sporting event and has returned to Scotland with the intention of continuing activities as a sportsperson, or
+(ii)is a United Kingdom sportsperson who is not habitually resident in the United Kingdom and has travelled to Scotland in order to participate in training for, or to compete in, an elite sports event,
+“elite sports event” means a specified competition or other sporting event in which the participants compete—
+(a)to derive a living, or
+(b)to qualify for the right to represent—
+(i)Great Britain and Northern Ireland at the Tokyo or Beijing Olympic or Paralympic Games, or
+(ii)England, Wales, Scotland, Northern Ireland, Gibraltar, Guernsey, Jersey or the Isle of Man at the Commonwealth Games to be held in Birmingham in those sports which are not part of the Tokyo Olympic and Paralympic Games programme,
+“international ancillary sportsperson” means an individual essential to—
+(a)the running of a specified competition including—
+(i)operational staff essential to the running of that specified competition,
+(ii)competition officials and referees, and
+(iii)broadcast staff and journalists covering that specified competition, or
+(b)the support of an international elite sportsperson, including—
+(i)sports team medical, logistical, technical and administration staff,
+(ii)individual sportsperson medical and technical support staff,
+(iii)horse grooms and trainers,
+(iv)motorsport mechanics and technical staff, and
+(v)the parent or carer of an international elite sportsperson under the age of 18,
+“international elite sportsperson” means an individual who travels to Scotland in order to participate in a specified competition after departing from or transiting through a non-exempt country or territory at any time in the period beginning with the 14th day before their arrival in Scotland and who—
+(a)derives a living from competing in a sport,
+(b)is a senior representative nominated by a relevant sporting body,
+(c)is a member of the senior training squad for a relevant sporting body, or
+(d)is aged 16 or above and on an elite development pathway, and
+“specified competition” means a competition listed in schedule 3.
+(3) For the purposes of the definitions of “domestic elite sportsperson” and “international elite sportsperson”, in paragraph (2)—
+
+(a)“elite development pathway” means a development pathway established by the national governing body of a sport to prepare sportspersons—
+(i)so that they may derive a living from competing in that sport, or
+(ii)to compete at that sport at the Tokyo or Beijing Olympic or Paralympic Games, or, if that sport is not part of the Tokyo Olympic and Paralympic Games programme, in the Commonwealth Games to be held in Birmingham,
+(b)“relevant sporting body” in relation to a sportsperson means the national governing body of a sport which may nominate sportspersons to represent—
+(i)that sportsperson’s nation at the Tokyo or Beijing Olympic or Paralympic Games, or
+(ii)that sportsperson’s nation at the Commonwealth Games to be held in Birmingham in those sports which are not part of the Tokyo Olympic and Paralympic Games programme, and
+(c)“senior representative” in relation to a sportsperson means an individual who is considered by a relevant sporting body to be a candidate to qualify to compete on behalf of—
+(i)that sportsperson’s nation at the Tokyo or Beijing Olympic or Paralympic Games, or
+(ii)that sportsperson’s nation at the Commonwealth Games to be held in Birmingham in those sports which are not part of the Tokyo Olympic and Paralympic Games programme.
+(4) Where P is—
+
+(a)an international elite sportsperson, P is exempt from the requirement in regulation 6(2) if outside of the place where they are staying in accordance with regulation 6(2) to travel directly to or from, or attend the location of the specified competition or training for the specified competition, or travelling between different locations where the specified competition or training for the specified competition is taking place,
+(b)an international ancillary sportsperson, P is exempt from the requirement in regulation 6(2) if outside of the place where they are staying in accordance with regulation 6(2) to directly travel to or from, or attend the location of the specified competition or training for the specified competition, or travelling between different locations where the specified competition or training for the specified competition is taking place.
+(5) Any person (P) who is an international elite sportsperson or an international ancillary sportsperson must on request provide to an immigration officer written evidence from a United Kingdom or Scottish sport national governing body of P’s status as an international elite sportsperson or international ancillary sportsperson attending a specified competition, as the case may be.
+
+39.—(1) A person engaged in film production or high-end TV production.
+
+(2) For the purposes of sub-paragraph (1)—
+
+(a)a person is engaged in film production if engaged in the making of a film which is a British film for the purposes of schedule 1 of the Films Act 1985(15), and
+(b)a person is engaged in high-end TV production if working on the making of a television programme which is a British programme for the purposes of Part 15A of the Corporation Tax Act 2009(16).
+(3) A person described in paragraph (1) must on request provide to an immigration officer—
+
+(a)a letter from the studio or production company responsible for the production confirming that person’s name, date of birth, UK address, passport number, production dates and location, contact details for the studio, and the production certificate number from the Department for Digital, Culture, Media and Sport, and,
+(b)where applicable, a current Tier 2 or Tier 5 Certificate of Sponsorship issued by the Home Office in respect of the relevant film production or high-end TV production.
+(4) A person described in sub-paragraph (1) is exempt from the requirement in regulation 6(2) when outside of the place where they are staying in accordance with regulation 6(2) in order to directly travel to or from the place where the production is taking place and when they are in attendance at that location.”.
+
+(9) After schedule 2 (persons not required to comply with regulation 3 or regulation 6) insert the schedule 3 (Specified Competitions) in schedule 2 of these Regulations.
+
+Saving
+3.  The amendments made by these Regulations do not apply in relation to any person who arrived in Scotland during the period beginning at 12:01 am on 8 June 2020 and ending with 9 July 2020, and the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020 continue to apply to such persons as if the amendments made by these Regulations had not been made.
+
+HUMZA YOUSAFA member of the Scottish Government
+St Andrew’s House,
+
+Edinburgh
+
+9th July 2020
+
+SCHEDULE 1
+Regulation 2(6)
+“SCHEDULE A1
+PART 1
+Countries and territories
+Andorra
+
+Antigua and Barbuda
+
+Aruba
+
+Australia
+
+Austria
+
+The Bahamas
+
+Barbados
+
+Belgium
+
+Bonaire, Sint Eustatius and Saba
+
+Croatia
+
+Curaçao
+
+Cyprus
+
+Czech Republic
+
+Denmark
+
+Dominica
+
+Faroe Islands
+
+Fiji
+
+Finland
+
+France
+
+French Polynesia
+
+Germany
+
+Greece
+
+Greenland
+
+Grenada
+
+Guadeloupe
+
+Hong Kong
+
+Hungary
+
+Iceland
+
+Italy
+
+Jamaica
+
+Japan
+
+Liechtenstein
+
+Lithuania
+
+Luxembourg
+
+Macau
+
+Malta
+
+Mauritius
+
+Monaco
+
+The Netherlands
+
+New Caledonia
+
+New Zealand
+
+Norway
+
+Poland
+
+Réunion
+
+Saint Barthélemy
+
+Saint Kitts and Nevis
+
+Saint Lucia
+
+Saint Pierre and Miquelon
+
+San Marino
+
+Seychelles
+
+South Korea
+
+Switzerland
+
+Taiwan
+
+Trinidad and Tobago
+
+Turkey
+
+Vatican City State
+
+Vietnam
+
+PART 2
+United Kingdom Overseas Territories
+The Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus
+
+Anguilla
+
+Bermuda
+
+British Antarctic Territory
+
+British Indian Ocean Territory
+
+British Virgin Islands
+
+Cayman Islands
+
+Falkland Islands
+
+Gibraltar
+
+Montserrat
+
+Pitcairn, Henderson, Ducie and Oeno Islands
+
+Saint Helena, Ascension and Tristan da Cunha
+
+South Georgia and the South Sandwich Islands
+
+Turks and Caicos Islands”
+
+SCHEDULE 2
+Regulation 2(9)
+“SCHEDULE 3
+Specified competitions
+1.  The World Snooker Championship
+
+2.  The Professional Darts Corporation Summer Series
+
+3.  The Betfred World Matchplay Darts
+
+4.  UEFA Champions League and Europa League fixtures
+
+5.  International Football fixtures
+
+6.  Formula One Pirelli British Grand Prix
+
+7.  Emirate Formula One 70th Anniversary Grand Prix
+
+8.  Test Cricket matches
+
+9.  Professional Golfers’ Association Betfred British Masters Championship
+
+10.  European Tour Golf – English Open
+
+11.  European Tour Golf – English Championship
+
+12.  European Tour Golf – United Kingdom Championship
+
+13.  BMW Professional Golfers’ Association Championship
+
+14.  Moet & Chandon July Festival horse-racing
+
+15.  QIPCO King George Diamond Weekend horse-racing
+
+16.  Qatar Goodwood Festival horse-racing
+
+17.  Yorkshire Ebor Festival horse-racing
+
+18.  Betfred Super League Rugby Football League fixtures
+
+19.  Rugby Football Union international fixtures
+
+20.  Scottish Rugby Union international fixtures
+
+21.  Guinness PRO14 and Challenge Cup Rugby Union fixtures
+
+22.  Olympic, Paralympic and Commonwealth Games Qualification Events
+
+23.  European Tour Golf – Celtic Classic
+
+24.  European Tour Golf – Wales Open
+
+25.  European Tour Golf – Aberdeen Standard Investments Ladies Scottish Open
+
+26.  European Tour Golf – Women’s British Open
+
+27.  European Tour Golf – Alfred Dunhill Links Championship
+
+28.  European Tour Golf – Aberdeen Standard Investments Scottish Open”
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations amend the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020 (“the International Travel Regulations”).
+
+They exempt persons arriving in Scotland on or after 10 July 2020 from the movement restriction in regulation 6 of the International Travel Regulations if, during the 14 days preceding their arrival, they have only departed from or transited through “exempt countries or territories”. They also add to the categories of information to be provided on arrival and the categories of persons who are otherwise exempt from the requirements in regulations 3 and 6 of those Regulations.
+
+An impact assessment is being produced for this instrument and will be published as soon as possible.
+
+(1)2008 asp 5.
+(2)S.S.I. 2020/169 amended by S.S.I. 2020/171 and S.S.I. 2020/184.
+(3)OJ No. L 300, 14.11.2009, p.88.
+(4)1981 c.14. Section 1 was amended by section 139(3) of the Transport Act 1985 (c.67).
+(5)1995 c.21. There are amendments to section 313(1) but none is relevant.
+(6)Cm. 7049. ISBN 978 010 1889 766.
+(7)Cm. 7375.
+(8)1995 c.21. Schedule 3A was inserted by schedule 1 of the Marine Safety Act 2003 (c.16).
+(9)S.I. 2016/765. There are amendments to Schedule 1 but none is relevant.
+(10)1987 c.53.
+(11)S.S.I. 2006/209, as amended by S.S.I. 2010/95, S.S.I. 2014/364, S.S.I. 2015/346 and S.S.I. 2017/282.
+(12)S,S.I. 2017/282.
+(13)2009 asp 6.
+(14)1949 c.74.
+(15)1985 c.21. Schedule 1 was substituted by the Finance Act 2006 (c.25) and has been subject to a large number of amendments by the Corporation Tax Act 2009 (c.4) and S.I. 1999/2386, S.I. 2006/643, S.I. 2006/3430, S.I. 2012/1809, S.I. 2015/86 and S.I. 2018/1105.
+(16)2009 c.4. Part 15A was inserted by paragraph 1 of schedule 16 of the Finance Act 2013 (c.29).

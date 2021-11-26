@@ -1,0 +1,87 @@
+Tiesibu akts: 
+	    		speka esošs
+	    	
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    Finanšu un kapitala tirgus komisijas normativie noteikumi Nr. 102Riga 2020. gada 21. julija(Finanšu un kapitala tirgus komisijas padomessedes protokols Nr. 30 3. p.)
+Parskatu un informacijas atklašanas par riska darijumiem, kuriem piemeroti atbalsta pasakumi COVID-19 krizes ietekme, normativie noteikumi
+Izdoti saskana ar Kreditiestažu likuma6. panta piekto dalu un 50. panta otro dalu
+I. Visparigie jautajumi
+1. "Parskatu un informacijas atklašanas par riska darijumiem, kuriem piemeroti atbalsta pasakumi COVID-19 krizes ietekme, normativie noteikumi" (turpmak – noteikumi) nosaka parskatu sagatavošanas prasibas un iesniegšanas kartibu, ka ari informacijas atklašanas prasibas attieciba uz riska darijumiem, kuriem piemeroti atbalsta pasakumi COVID-19 krizes ietekme.2
+            
+              
+              
+            
+          
+2. Noteikumi ir saistoši Latvijas Republika registretam kreditiestadem, iznemot kreditiestades, kuru uzraudzibu veic Eiropas Centrala banka, (turpmak – iestade) un citas dalibvalstis registreto kreditiestažu un arvalstu kreditiestažu filialem (turpmak – filiale).3
+            
+              
+              
+            
+          
+II. Parskatu sagatavošana
+3. Iestade sagatavo parskatus individuali un prudencialas konsolidacijas grupas limeni, piemerojot Regulas Nr.  575/2013 pirmas dalas II sadalas 2. nodala noteiktas konsolidacijas prasibas. Ja iestadei nav meitas sabiedribu, kas sniedz kreditešanas pakalpojumus, iestade sagatavo parskatus tikai prudencialas konsolidacijas grupas limeni. Ja iestadei nav prudencialas konsolidacijas grupas, iestade sagatavo parskatus individuali. Filiale sagatavo parskatus, ja ta sniedz kreditešanas pakalpojumus.4
+            
+              
+              
+            
+          
+4. Iestade un filiale parskatus sagatavo atbilstoši Eiropas Banku iestades 2020. gada 2. junija dokumenta EBA/GL/2020/07 "Pamatnostadnes par parskatiem un informacijas atklašanu par riska darijumiem, kuriem piemeroti atbalsta pasakumi COVID-19 krizes ietekme" (turpmak ari – Pamatnostadnes) 1. pielikuma noteiktajam veidlapam, ieverojot 2. pielikuma noteiktas instrukcijas. Iestade un filiale aizpilda veidnes F90.01, F90.02, F90.03, F91.01, F91.02, F91.03, F91.04, F91.05, F92.01, F93.01 un F93.02.5
+            
+              
+              
+            
+          
+5. Iestade un filiale parskatus sagatavo par stavokli katra ceturkšna pedeja datuma un iesniedz Finanšu un kapitala tirgus komisijai (turpmak – Komisija) lidz 11. februarim, 12. maijam, 11. augustam un 11. novembrim. Pec Komisijas pieprasijuma iestade un filiale parskatus par stavokli meneša beigas iesniedz Komisijai piecu darba dienu laika no pieprasijuma datuma, bet ne agrak ka meneša 25. datuma par iepriekšejo menesi.6
+            
+              
+              
+            
+          
+6. Iestade un filiale parskatus iesniedz Datu zinošanas sistema atbilstoši Komisijas normativajiem noteikumiem, kas nosaka elektroniski sagatavoto parskatu iesniegšanas kartibu. Informaciju sniedz XBRL (Extensible Business Reporting Language) faila formata pec Eiropas Banku iestades izstradatas, tas majaslapa publicetas un parskata periodam piemerojamas DPM un XBRL taksonomijas vai XLSX (Microsoft Excel Open XML) faila formata, izmantojot Komisijas sagatavoto un Datu zinošanas sistema publiceto XLSX failu.7
+            
+              
+              
+            
+          
+III. Informacijas atklašana
+7. Iestade, kura identificeta ka cita sistemiski nozimiga iestade saskana ar Kreditiestažu likuma 35.13 panta noteikto, informacijas atklašanai piemero Pamatnostadnu 3. pielikuma noteiktas parskatu veidnes, atklajot informaciju reizi pusgada par parskata periodiem, kas beidzas 30. junija un 31. decembri. Informaciju atklaj prudencialas konsolidacijas grupas limeni, piemerojot Regulas Nr.  575/2013 pirmas dalas II sadalas 2. nodala noteiktas konsolidacijas prasibas.8
+            
+              
+              
+            
+          
+8. Atklajot šo noteikumu 7. punkta mineto informaciju par parskata periodu, kas beidzas 30. junija, informacijas publiskošanu iestade nodrošina sava timekla vietne taja paša datuma, kad tiek publiskots kreditiestažu publiskais ceturkšna parskats, neparprotami noradot, kur informacija ir pieejama.9
+            
+              
+              
+            
+          
+IV. Nosleguma jautajumi
+9. Iestade un filiale parskatus saskana ar šo noteikumu prasibam pirmo reizi sagatavo par stavokli 2020. gada 30. junija un iesniedz Komisijai lidz 2020. gada 11. augustam.10
+            
+              
+              
+            
+          
+10. Noteikumu 7. punkta mineta iestade informaciju saskana ar šo noteikumu prasibam pirmo reizi atklaj par stavokli 2020. gada 30. junija.11
+            
+              
+              
+            
+          
+Informativa atsauce uz Eiropas Banku iestades pamatnostadnem
+Noteikumos ieklautas tiesibu normas, kas izriet no Eiropas Banku iestades 2020. gada 2. junija dokumenta EBA/GL/2020/07 "Pamatnostadnes par tadu riska darijumu zinošanu un atklašanu, uz kuriem attiecas pasakumi, kas piemeroti, reagejot uz Covid-19 krizi".12
+            
+              
+              
+            
+          
+Finanšu un kapitala tirgus komisijas priekšsedetaja S. Purgaile

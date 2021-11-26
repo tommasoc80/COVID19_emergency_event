@@ -1,0 +1,362 @@
+﻿Ordinanza
+818.101.27
+sui provvedimenti per combattere
+il coronavirus (COVID-19) nel settore del traffico
+internazionale viaggiatori
+(Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori)
+del 27 gennaio 2021 (Stato 25 febbraio 2021)
+Il Consiglio federale svizzero,
+visto l'articolo 41 capoversi 1 e 3 della legge del 28 settembre 20121 sulle epidemie
+(LEp),
+ordina:
+Sezione 1: Scopo e oggetto
+Art. 1
+1	La presente ordinanza è finalizzata a impedire la diffusione del coronavirus SARS-
+CoV-2.
+1	A tale scopo disciplina per le persone che entrano in Svizzera da uno Stato o una
+regione con rischio elevato di contagio:
+a.	la registrazione dei dati di contatto;
+b.	l'obbligo di quarantena e la sua esecuzione;
+c.	l'esecuzione del test.
+3	Disciplina anche la registrazione dei dati di contatto delle persone che entrano in
+Svizzera in treno, autobus, nave o aereo da uno Stato o una regione senza rischio
+elevato di contagio.
+Sezione 2: Stato o regione con rischio elevato di contagio
+Art. 2
+1	Uno Stato o una regione presentano un rischio elevato di contagio con il SARS-
+CoV-2 se è soddisfatta almeno una delle condizioni seguenti:
+a.	nello Stato o nella regione in questione è stata rilevata una mutazione del
+SARS-CoV-2 che presenta un rischio di contagio più elevato o un decorso
+più grave della malattia rispetto alla forma del virus diffusa in Svizzera;
+RU 2021 61
+1 RS 818.101
+1
+818.101.27
+Lotta contro le malattie
+b.	nello Stato o nella regione in questione, negli ultimi 14 giorni il numero dei
+nuovi contagi per 100 000 persone è più alto di almeno 60 rispetto a quello
+registrato in Svizzera e questo numero non è riconducibile a singoli eventi o
+casi localmente circoscritti;
+c.	le informazioni disponibili provenienti dallo Stato o dalla regione in que-
+stione non permettono una valutazione attendibile della situazione di rischio
+e vi sono indizi che lasciano supporre un rischio elevato di contagio in que-
+sto Stato o in questa regione;
+d.	nelle ultime quattro settimane sono entrate in Svizzera a più riprese persone
+contagiate che hanno soggiornato nello Stato o nella regione in questione.
+2	Gli elenchi degli Stati e delle regioni con rischio elevato di contagio sono riportati
+nell'allegato 1.
+3	Il Dipartimento federale dell'interno (DFI), sentiti il Dipartimento federale di
+giustizia e polizia (DFGP), il Dipartimento federale delle finanze (DFF) e il Dipar-
+timento federale degli affari esteri (DFAE), aggiorna costantemente l'allegato.
+4	Le regioni confinanti con la Svizzera con le quali esiste uno stretto scambio eco-
+nomico, sociale e culturale possono essere escluse dagli elenchi di cui al capoverso 2
+anche se soddisfanno una delle condizioni di cui al capoverso 1.
+Sezione 3: Registrazione dei dati di contatto
+Art. 3 Obblighi delle persone in entrata
+1	Le persone che entrano in Svizzera da uno Stato o una regione con rischio elevato
+di contagio devono, prima dell'entrata, registrare i loro dati di contatto di cui
+all'articolo 49 dell'ordinanza del 29 aprile 20152 sulle epidemie (dati di contatto)
+come segue:
+a.	elettronicamente tramite la piattaforma per la registrazione dei dati di contat-
+to delle persone in entrata3, messa a disposizione dall'Ufficio federale della
+sanità pubblica (UFSP); oppure
+b.	su carta tramite le schede di contatto messe a disposizione dall'UFSP.
+1bis Le persone che entrano in Svizzera senza utilizzare un'impresa che trasporta
+persone secondo l'articolo 4 e che registrano i loro dati di contatto mediante schede
+di contatto devono conservare queste ultime per 14 giorni.4
+2	Le persone che entrano in Svizzera da Stati o regioni senza rischio elevato di
+contagio devono registrare i loro dati di contatto elettronicamente o su carta solo se
+l'entrata avviene in treno, autobus, nave o aereo.
+2 RS 818.101.1
+3 La piattaforma per la registrazione dei dati di contatto delle persone in entrata
+è accessibile all'indirizzo https://swissplf.admin.ch
+4 Introdotto dal n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo
+del test), in vigore dal 22 feb. 2021 (RU 2021 94).
+2
+818.101.27
+Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori
+3	Sono esentate dagli obblighi di cui ai capoversi 1 e 2 le persone che:
+a.	entrano in Svizzera da regioni confinanti con la Svizzera con le quali esiste
+uno stretto scambio economico, sociale e culturale;
+b.	nell'ambito della loro attività professionale effettuano il trasporto transfron-
+taliero di merci o persone;
+c.	entrano in Svizzera unicamente a fini di transito, con l'intenzione e la possi-
+bilità di recarsi direttamente in un altro Paese.5
+Art. 4 Obblighi delle imprese che trasportano persone
+1	Le imprese che trasportano persone nell'ambito del traffico internazionale assicu-
+rano che le persone in entrata registrino i loro dati di contatto secondo l'articolo 3
+capoversi 1 e 2.
+2	Su richiesta, forniscono all'UFSP entro 24 ore i dati di contatto di cui all'articolo 3
+capoverso 1 lettera b.
+3	Conservano i dati di contatto per 14 giorni, dopodiché li distruggono.
+4	Su richiesta, forniscono all'UFSP entro 48 ore gli elenchi di tutti i viaggi transfron-
+talieri in treno, autobus, nave o aereo programmati per il mese successivo.
+5	Trasmettono i dati di contatto di cui all'articolo 3 capoverso 1 lettera b nonché gli
+elenchi di cui al capoverso 4 tramite la piattaforma6 messa a disposizione dall'UFSP
+per le imprese che trasportano persone.
+Art. 57
+Art. 6 Compiti dell'UFSP e dei Cantoni
+1	L'UFSP provvede a elaborare i dati di contatto per l'esecuzione della quarantena
+secondo l'articolo 7 e a trasmetterli immediatamente ai Cantoni competenti per le
+persone in entrata.
+2	Non appena viene a conoscenza dell'entrata di una persona contagiata dal SARS-
+CoV-2, adotta i seguenti provvedimenti:
+a.	richiede all'impresa che trasporta persone i dati di contatto registrati su carta
+delle persone contagiate dal SARS-CoV-2 entrate in Svizzera;
+b.	sulla base dei dati di contatto ricevuti elettronicamente e dei dati di contatto
+di cui alla lettera a, avvisa le persone che hanno avuto un contatto stretto con
+la persona contagiata dal SARS-CoV-2;
+5
+6
+7
+Nuovo testo giusta il n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato
+negativo del test), in vigore dal 22 feb. 2021 (RU 2021 94).
+La piattaforma per le imprese che trasportano persone è accessibile all'indirizzo
+https://swissplf.admin.ch
+Abrogato dal n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del
+test), con effetto dal 22 feb. 2021 (RU 2021 94).
+3
+818.101.27
+Lotta contro le malattie
+c.	trasmette immediatamente i dati di contatto elaborati ai Cantoni competenti
+per le persone in entrata.
+3	L'UFSP può delegare i compiti di cui ai capoversi 1 e 2 a terzi. In tal caso, garanti-
+sce che siano rispettate la protezione e la sicurezza dei dati.
+4	Distrugge i dati un mese dopo l'entrata delle persone in questione.
+5	I Cantoni distruggono i dati un mese dopo averli ricevuti dall'UFSP.
+Sezione 4:
+Obbligo di test, quarantena e notifica per le persone in entrata
+Art. 7 Obbligo di test e di quarantena
+1	Le seguenti persone devono attestare di essersi sottoposte nelle ultime 72 ore a
+un'analisi di biologia molecolare per il SARS-CoV-2 e che il risultato del test è
+negativo:
+a.	le persone che entrano in Svizzera e che in un momento qualsiasi nei die-
+ci giorni precedenti l'entrata hanno soggiornato in uno Stato o una regione
+con rischio elevato di contagio;
+b.	le persone che entrano in Svizzera in aereo da uno Stato o una regione senza
+rischio elevato di contagio.
+2	Le persone di cui al capoverso 1 lettera a sono obbligate a recarsi direttamente
+presso il proprio domicilio o un altro alloggio adeguato immediatamente dopo
+l'entrata. Devono soggiornarvi ininterrottamente per 10 giorni a decorrere dalla loro
+entrata (quarantena per le persone in entrata).
+3	Le persone di cui al capoverso 1 che all'entrata in Svizzera non possono presentare
+un test con risultato negativo devono, immediatamente dopo l'entrata in Svizzera e
+d'intesa con l'autorità cantonale competente, sottoporsi a proprie spese:
+a.	a un'analisi di biologia molecolare per il SARS-CoV-2; oppure
+b.	a un test rapido per il SARS-CoV-2.
+4	Le persone sottoposte alla quarantena per le persone in entrata possono concluderla
+anticipatamente se si sottopongono a proprie spese a un'analisi di biologia molecola-
+re o a un test rapido per il SARS-CoV-2 e se il risultato è negativo. Il test può essere
+effettuato non prima del settimo giorno di quarantena.8
+5	Le persone che concludono anticipatamente la quarantena per le persone in entrata
+secondo il capoverso 4 devono portare una mascherina facciale e tenersi a una
+distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del
+proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena secondo il
+capoverso 2.
+Nuovo testo giusta il n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato
+negativo del test), in vigore dal 22 feb. 2021 (RU 2021 94).
+4
+818.101.27
+Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori
+6	Se la persona è entrata in Svizzera passando da uno Stato o una regione senza
+rischio elevato di contagio, l'autorità cantonale competente può considerare la durata
+del soggiorno in questo Stato o in questa regione nel calcolo del periodo di quaran-
+tena secondo il capoverso 2.
+Art. 8 Deroghe all'obbligo di test e di quarantena
+1	Sono esentate dall'obbligo di test e di quarantena di cui all'articolo 7 le persone
+che:
+a. svolgono un'attività assolutamente necessaria in Svizzera per mantenere:
+1.	il funzionamento del settore sanitario,
+2.	l'ordine e la sicurezza pubblici,
+3.	il funzionamento dei beneficiari istituzionali ai sensi dell'articolo 2 ca-
+poverso 1 della legge del 22 giugno 20079 sullo Stato ospite,
+4.	le relazioni diplomatiche e consolari della Svizzera;
+b. effettuano il trasporto transfrontaliero di persone o merci nell'ambito della
+loro attività professionale;
+c.	entrano in Svizzera per motivi professionali o medici importanti e improro-
+gabili;
+d.	rientrano in Svizzera dopo aver soggiornato in uno Stato o in una regione
+con rischio elevato di contagio per motivi professionali o medici importanti
+e improrogabili;
+e.	hanno soggiornato in uno Stato o in una regione con rischio elevato di con-
+tagio per meno di 24 ore come passeggeri in transito;
+f.	entrano in Svizzera esclusivamente per il transito con l'intenzione e la possi-
+bilità di recarsi direttamente in un altro Paese;
+g.	rientrano in Svizzera dopo aver partecipato a una manifestazione svoltasi in
+un Paese o una regione con rischio elevato di contagio, se attestano che per
+la partecipazione e il soggiorno è stato rispettato un piano di protezione spe-
+cifico; per partecipazione a una manifestazione si intende segnatamente la
+partecipazione, generalmente per motivi professionali, a una competizione
+sportiva, a un evento culturale o a un congresso per professionisti;
+h.	attestano che nei tre mesi precedenti l'entrata in Svizzera erano già state
+contagiate dal SARS-CoV-2 e sono considerate guarite.
+1bis Sono inoltre esentati dall'obbligo di test di cui all'articolo 7:
+a. i bambini sotto i 12 anni;
+9 RS 192.12
+5
+818.101.27
+Lotta contro le malattie
+b. le persone che possono provare mediante un attestato medico che, per motivi
+medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test
+per il SARS-CoV-2.10
+2	Il capoverso 1 non si applica alle persone che presentano sintomi di COVID-19, a
+meno che non possano attestare con un certificato medico che i sintomi sono ricon-
+ducibili a altra causa.
+3	Per le persone di cui al capoverso 1 lettera a, il datore di lavoro verifica se sussiste
+un'attività assolutamente necessaria e la attesta.
+4	In casi motivati l'autorità cantonale competente può autorizzare altre deroghe
+all'obbligo di test e di quarantena oppure concedere agevolazioni.
+Art. 9 Obbligo di notifica
+Chi è sottoposto alla quarantena per le persone in entrata secondo la presente ordi-
+nanza deve notificare l'entrata entro due giorni all'autorità cantonale competente e
+seguirne le istruzioni.
+Sezione 4a:11 Obblighi particolari per le imprese di trasporto aereo
+Art. 9a
+1 Le imprese di trasporto aereo devono informare i passeggeri che, prima della
+partenza, devono sottoporsi a un test per il SARS-CoV-2 e che sono ammessi sul
+velivolo soltanto se possono presentare un risultato negativo del test.
+2	Prima della partenza, devono verificare l'esistenza di un risultato negativo del test
+effettuato in base a una procedura che corrisponda allo stato attuale della scienza e
+della tecnica. Vige il principio che il prelievo dei campioni per:
+a. un'analisi di biologia molecolare per il SARS-CoV-2 sia stato effettuato non
+più di 72 ore prima;
+b. un test rapido immunologico per il SARS-CoV-2 sia stato effettuato non più
+di 24 ore prima.
+3	Sul documento con il risultato del test devono essere riportati i dati seguenti:
+a. il cognome, il nome e la data di nascita della persona testata;
+b. la data e l'ora del prelievo dei campioni;
+c.	il tipo di test eseguito di cui al capoverso 2 lettera a o b;
+d.	il risultato del test.
+10	Introdotto dal n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo
+del test), in vigore dal 22 feb. 2021 (RU 2021 94).
+11	Introdotta dal n. I dell'O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo
+del test), in vigore dal 22 feb. 2021 (RU 2021 94).
+6
+818.101.27
+Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori
+4	Le imprese di trasporto aereo devono negare l'accesso al velivolo ai passeggeri che
+non possono presentare un risultato negativo del test secondo il capoverso 2.
+5	Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assenza
+di un risultato negativo del test:
+a. bambini sotto i 12 anni;
+b. persone che possono provare mediante un attestato medico che, per motivi
+medici, devono essere urgentemente trasportate in Svizzera;
+c.	persone che hanno la cittadinanza svizzera o un titolo di soggiorno rilasciato
+dalla Svizzera e che non hanno la possibilità di sottoporsi al test per il
+SARS-CoV-2 entro un termine utile o a spese ragionevoli; l'impossibilità di
+sottoporsi al test deve essere attestata mediante un'autodichiarazione;
+d.	persone in transito in un aeroporto svizzero che non escono dall'area di tran-
+sito prima di proseguire il viaggio;
+e.	persone che possono provare mediante un attestato medico che, nei tre mesi
+precedenti l'entrata in Svizzera, erano già state contagiate dal SARS-CoV-2
+e sono considerate guarite;
+f.	persone che possono provare mediante un attestato medico che, per motivi
+medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test
+per il SARS-CoV-2.
+Sezione 5:
+Controlli e notifiche da parte dell'Amministrazione federale
+delle dogane
+Art. 10
+1	Le autorità di controllo alla frontiera possono controllare in funzione del rischio le
+persone che entrano da Stati o regioni con rischio elevato di contagio. A tale scopo
+verificano:
+a.	l'esistenza di un risultato negativo del test ai sensi dell'articolo 7 capover-
+so 1;
+b.	la registrazione dei dati di contatto ai sensi dell'articolo 3 capoverso 1.
+2	Se la persona sottoposta al controllo non può attestare il risultato negativo del test
+o la registrazione dei dati di contatto, l'autorità di controllo alla frontiera la notifica
+all'autorità cantonale competente. La notifica comprende i dati relativi alla persona
+entrata, il luogo e l'ora del controllo, l'indicazione del luogo di soggiorno previsto in
+Svizzera nonché il risultato del controllo.
+3	Le autorità di controllo alla frontiera possono riscuotere multe disciplinari.
+7
+818.101.27
+Lotta contro le malattie
+Sezione 6: Disposizioni finali
+Art. 11 Abrogazione e modifica di un altro atto normativo
+1 L'ordinanza COVID-19 del 2 luglio 202012 provvedimenti nel settore del traffico
+internazionale viaggiatori è abrogata.
+2 La modifica di altri atti normativi è disciplinata nell'allegato 2.
+Art. 12 Entrata in vigore
+La presente ordinanza entra in vigore l'8 febbraio 2021.
+12	[RU 2020 2737, 3549, 3699, 4513, 6399; 2021 43]
+8
+818.101.27
+Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori
+Allegato 113
+(art. 2 cpv. 2)
+Elenchi degli Stati e delle regioni con rischio elevato di contagio14
+1.	Stati e regioni
+Albania
+Andorra
+Bahrein
+Brasile
+Emirati Arabi Uniti
+Estonia
+Irlanda
+Israele
+Lettonia
+Libano
+Lituania
+Malta
+Monaco
+Montenegro
+Paesi Bassi
+Portogallo
+San Marino
+Santa-Lucia
+Saint Vincent e Grenadine
+Seicelle
+Serbia
+Svezia
+Slovacchia
+Slovenia
+Spagna
+13	Nuovo testo giusta il n. I dell'O del DFI del 24 feb. 2021, in vigore dal 25 feb. 2021
+(RU 2021 108).
+14	Uno Stato che figura nell'elenco comprende tutte le sue regioni, isole e regioni
+d'oltremare, anche se queste non sono elencate separatamente.
+9
+818.101.27
+Lotta contro le malattie
+Sudafrica
+Repubblica Ceca
+Regno Unito
+Stati Uniti
+2.	Regioni degli Stati limitrofi
+Regioni in Francia:
+-	Regione Alta Francia
+-	Regione Centro-Valle della Loira
+-	Regione Isola di Francia
+-	Regione Normandia
+-	Regione Nuova Aquitania
+-	Regione Occitania
+-	Regione Paesi della Loira
+-	Regione Provenza-Alpi-Costa Azzurra
+Regioni in Italia:
+-	Regione Emilia Romagna
+-	Regione Friuli Venezia Giulia
+-	Regione Marche
+-	Regione Puglia
+-	Regione Umbria
+Regioni in Austria:
+-	Land Salisburgo
+10
+818.101.27
+Ordinanza COVID-19 provvedimenti nel settore del traffico
+internazionale viaggiatori
+Allegato 2
+(art. 11 cpv. 2)
+Modifica di altri atti normativi
+Gli atti normativi seguenti sono modificati come segue:
+...15
+15 Le mod. possono essere consultate alla RU 2021 61.
+11
+818.101.27
+Lotta contro le malattie
+12

@@ -1,0 +1,889 @@
+
+LIETUVOS RESPUBLIKOS EKONOMIKOS IR INOVACIJŲ MINISTRAS
+
+ĮSAKYMAS
+dėl 2014–2020 metų europos sąjungos fondų investicijų veiksmų programos 3 prioriteto „SMULKIOJO IR VIDUTINIO VERSLO KONKURENCINGUMO SKATINIMAS“ priemonės NR. 03.3.1-LVPA-T-859 „COVID-19 PRODUKTAI LT“ projektų finansavimo sąlygų aprašo patvirtinimo
+
+2020 m. spalio 26 d. Nr. 4-939
+Vilnius
+
+Vadovaudamasis Atsakomybės ir funkcijų paskirstymo tarp institucijų, įgyvendinant 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programą, taisyklių, patvirtintų Lietuvos Respublikos Vyriausybės 2014 m. birželio 4 d. nutarimu Nr. 528 „Dėl atsakomybės ir funkcijų paskirstymo tarp institucijų, įgyvendinant 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programą“, 6.2.7 papunkčiu,
+t v i r t i n u  2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonės Nr. 03.3.1- LVPA-T-859 „COVID-19 produktai LT“ projektų finansavimo sąlygų aprašą (pridedama).
+
+
+
+Ekonomikos ir inovacijų ministras	Rimantas Sinkevičius
+
+
+PATVIRTINTA
+Lietuvos Respublikos ekonomikos 
+ir inovacijų  ministro 
+2020 m. spalio 26 d. įsakymu Nr. 4-939
+
+2014–2020 METŲ EUROPOS SĄJUNGOS FONDŲ INVESTICIJŲ VEIKSMŲ PROGRAMOS 3 PRIORITETO „Smulkiojo ir Vidutinio verslo Konkurencingumo skatinimas“ PRIEMONĖS 
+NR. 03.3.1-LVPA-T-859 „COVID-19 PRODUKTAI LT“ PROJEKTŲ FINANSAVIMO SĄLYGŲ APRAŠAS 
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Siekiant ekonomikos atsigavimo dėl koronaviruso (COVID-19) vykdytų suvaržymų ir jų padarinių verslui, 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonės Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“ projektų finansavimo sąlygų aprašas (toliau – Aprašas) nustato reikalavimus, kuriais turi vadovautis pareiškėjai, rengdami ir teikdami paraiškas finansuoti iš Europos Sąjungos struktūrinių fondų lėšų bendrai finansuojamus projektus (toliau – paraiška) pagal 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos, patvirtintos Europos Komisijos 2014 m. rugsėjo 8  d. įgyvendinimo sprendimu, kuriuo patvirtinami tam tikri 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos elementai, kad, siekiant investicijų į ekonomikos atsigavimą, augimą ir darbo vietų kūrimą tikslo, iš Europos regioninės plėtros fondo, Sanglaudos fondo, Europos socialinio fondo ir specialaus asignavimo Jaunimo užimtumo iniciatyvai būtų teikiama parama Lietuvos Respublikai (apie nurodytą sprendimą Europos Komisija pranešė dokumentu Nr. C(2014)6397), 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonės Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“ (toliau – Priemonė) finansuojamas veiklas, iš Europos Sąjungos struktūrinių fondų lėšų bendrai finansuojamų projektų (toliau – projektai) vykdytojai, įgyvendindami pagal Aprašą finansuojamus projektus, taip pat institucijos, atliekančios paraiškų vertinimą, atranką ir projektų įgyvendinimo priežiūrą.
+2. Aprašas yra parengtas atsižvelgiant į:
+2.1. 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos prioriteto įgyvendinimo priemonių įgyvendinimo planą, patvirtintą Lietuvos Respublikos ekonomikos ir inovacijų ministro 2014 m. gruodžio 19 d. įsakymu Nr. 4-933 „Dėl 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos prioriteto įgyvendinimo priemonių įgyvendinimo plano ir Nacionalinių stebėsenos rodiklių skaičiavimo aprašo patvirtinimo“ (toliau – Priemonių įgyvendinimo planas);
+2.2. Projektų administravimo ir finansavimo taisykles, patvirtintas Lietuvos Respublikos finansų ministro 2014 m. spalio 8 d. įsakymu Nr. 1K-316 „Dėl Projektų administravimo ir finansavimo taisyklių patvirtinimo“ (toliau – Projektų taisyklės);
+2.3. 2020 m. kovo 19 d. Europos Komisijos komunikato „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti reaguojant į dabartinį COVID-19 protrūkį, sistema“ su paskutiniais pakeitimais, padarytais 2020 m. spalio 13 d. Europos Komisijos komunikatu (toliau – Komunikatas), 1 ir 2 skyrius ir 3.8 skirsnį;
+2.4. Valstybės pagalbos schemą Nr. SA.58645 (2020/N) „Lietuva. Su COVID-19 susijusių mokslinių tyrimų, eksperimentinės plėtros ir produktų gamybos paramos schema“, patvirtintą 2020 m. spalio 6 d. Europos  Komisijos sprendimu Nr. C(2020) 6944 (toliau – valstybės pagalbos schema);
+2.5. 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos stebėsenos rodiklių skaičiavimo aprašą, patvirtintą Lietuvos Respublikos finansų ministro 2014 m. gruodžio 30 d. įsakymu Nr. 1K-499 „Dėl 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos stebėsenos rodiklių skaičiavimo aprašo patvirtinimo“ (toliau – Veiksmų programos stebėsenos rodiklių skaičiavimo aprašas);
+2.6. Rekomendacijas dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams, patvirtintas Žmogiškųjų išteklių plėtros veiksmų programos, Ekonomikos augimo veiksmų programos, Sanglaudos skatinimo veiksmų programos ir 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos valdymo komitetų 2014 m. liepos 4 d. protokolu Nr. 34 (su vėlesniais pakeitimais) ir paskelbtas Europos Sąjungos (toliau – ES) struktūrinių fondų svetainėje www.esinvesticijos.lt (toliau – Rekomendacijos dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams).
+3. Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Aprašo 2 punkte nurodytuose teisės aktuose ir dokumentuose, Atsakomybės ir funkcijų paskirstymo tarp institucijų, įgyvendinant 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programą, taisyklėse, patvirtintose Lietuvos Respublikos Vyriausybės 2014 m. birželio 4 d. nutarimu Nr. 528 „Dėl atsakomybės ir funkcijų paskirstymo tarp institucijų, įgyvendinant 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programą“, ir 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos administravimo taisyklėse, patvirtintose Lietuvos Respublikos Vyriausybės 2014 m. spalio 3 d. nutarimu Nr. 1090 „Dėl 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos administravimo taisyklių patvirtinimo“.
+4. Apraše vartojamos kitos sąvokos:
+4.1. Investicija – investicija į materialųjį ir nematerialųjį turtą, skirtą Komunikato 39 punkto a papunktyje nurodytiems produktams gaminti.
+4.2. Investavimo užbaigimas – projekto sutartyje nustatyta projekto veiklų įgyvendinimo pabaigos data, kai patiriamos paskutinės išlaidos ir (arba) kai perduodamos paskutinės prekės ir (arba) paslaugos.
+4.3. Labai maža įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme (toliau – Smulkiojo ir vidutinio verslo plėtros įstatymas).
+4.4. Maža įmonė – kaip ši sąvoka apibrėžta Smulkiojo ir vidutinio verslo plėtros įstatyme.
+4.5. Paties pareiškėjo pagamintos produkcijos pardavimo pajamos – pajamos, gautos iš pagamintų prekių pardavimo per ataskaitinį laikotarpį ir nurodytos tokiuose dokumentuose, kurie įrodo paties pareiškėjo pagamintų prekių pardavimo mastą, pvz., pelno (nuostolių) ataskaitoje, užpildytoje pagal 3-iojo verslo apskaitos standarto „Pelno (nuostolių) ataskaita“, patvirtinto Audito ir apskaitos tarnybos direktoriaus 2015 m. birželio 16 d. įsakymu Nr. VAS-40 „Dėl 3-iojo verslo apskaitos standarto „Pelno (nuostolių) ataskaita“ tvirtinimo“, 1 priede pateiktą formą, nurodomos pardavimo pajamos ir pateikiamas pastabos numeris, kuris yra nuoroda į informaciją, pateiktą 6-ojo verslo apskaitos standarto „Aiškinamasis raštas“, patvirtinto Audito ir apskaitos tarnybos direktoriaus 2012 m. gruodžio 21 d. įsakymu Nr. VAS-24 „Dėl 6-ojo verslo apskaitos standarto „Aiškinamasis raštas“ tvirtinimo“, 85.1  papunktyje, kuriame numatyta, kad turi būti nurodyta informacija apie paslaugų ir prekių pardavimo pajamų sumas, sugrupuotas pagal veiklos rūšis ir geografines rinkas, jeigu tos veiklos rūšys ir geografinės rinkos labai skiriasi viena nuo kitos prekių pardavimo ir paslaugų teikimo organizavimo būdais. Rengiant šią informaciją, siūloma vadovautis 6-ojo verslo apskaitos standarto „Aiškinamasis raštas“ metodinėmis rekomendacijomis, patvirtintomis Audito ir apskaitos tarnybos direktoriaus 2014 m. sausio 10 d. įsakymu Nr. VAS-2 ir 3-iojo verslo apskaitos standarto „Pelno (nuostolių) ataskaita“ metodinėmis rekomendacijomis, patvirtintomis Audito ir apskaitos tarnybos direktoriaus 2010 m. gegužės 13 d. įsakymu Nr. VAS-11. Jeigu dokumentai yra pateikiami kita negu minėtų finansinių dokumentų pavyzdine forma, juose turi būti pateikta visa pavyzdinėje formoje nurodyta informacija.
+4.6. Savarankiška įmonė – kaip ši sąvoka apibrėžta Smulkiojo ir vidutinio verslo plėtros įstatyme.
+4.7. Sunkumų patirianti įmonė – kaip ši sąvoka apibrėžta 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. liepos 2 d. Komisijos reglamentu (ES) Nr. 2020/972 (toliau – Bendrasis bendrosios išimties reglamentas), 2 straipsnio 18 punkte.
+4.8. Tarpinis produktas – visos prekės ir paslaugos, atliekančios sąnaudų funkciją gaminant kitus produktus arba teikiant paslaugas.
+4.9. Vidutinė įmonė – kaip ši sąvoka apibrėžta Smulkiojo ir vidutinio verslo plėtros įstatyme.
+4.10. Viena įmonė – įmonė, kuriai būdingi bent vienos rūšies iš toliau išvardytų santykiai su kitomis įmonėmis:
+4.10.1. Įmonė turi kitos įmonės akcininkų, pajininkų, dalininkų ar kitų juridinio asmens dalyvių arba narių (toliau – dalyviai) balsų daugumą.
+4.10.2. Įmonė turi teisę paskirti arba atleisti daugumą kitos įmonės administracijos, valdymo arba priežiūros organo narių.
+4.10.3. Pagal sutartį arba vadovaujantis įmonės steigimo dokumentų ar įstatų nuostatomis įmonei suteikiama teisė daryti kitai įmonei lemiamą įtaką, kaip tai apibrėžta Lietuvos Respublikos konkurencijos įstatyme.
+4.10.4. Įmonė, būdama kitos įmonės dalyve, vadovaudamasi su kitais tos įmonės dalyviais sudaryta sutartimi, viena kontroliuoja tos kitos įmonės dalyvių balsavimo teisių daugumą.
+5. Priemonės įgyvendinimą administruoja Lietuvos Respublikos ekonomikos ir inovacijų ministerija (toliau – Ministerija) ir viešoji įstaiga Lietuvos verslo paramos agentūra (toliau – įgyvendinančioji institucija).
+6. Pagal Priemonę teikiamo finansavimo forma – negrąžinamoji subsidija.
+7. Projektų atranka pagal Priemonę bus atliekama tęstinės projektų atrankos būdu. 
+8. Pagal Aprašą projektams įgyvendinti numatoma skirti iki 31 000 000 Eur (trisdešimt vieno milijono eurų) ES struktūrinių fondų (Europos regioninės plėtros fondo) lėšų, viršijant ES lėšas dėl Ateities ekonomikos DNR plano, kuriam pritarta Lietuvos Respublikos Vyriausybės 2020 m. birželio 10 d. pasitarime (pasitarimo protokolas Nr. 28), veiksmų ir projektų įgyvendinimo, kaip numatyta Lietuvos Respublikos Vyriausybės 2014 m. lapkričio 26 d. nutarime Nr. 1326 „Dėl 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos priedo patvirtinimo“.
+9. Priemonės tikslas – skatinti investicijas į kovai su COVID-19 reikalingų produktų gamybą.
+10. Pagal Aprašą remiama veikla – kovai su COVID-19 reikalingų produktų gamyba:
+10.1. atitinkamų vaistinių preparatų (įskaitant vakcinas) ir gydymo priemonių, jų tarpinių produktų, vaistų veikliųjų medžiagų ir žaliavų gamyba;
+10.2. medicinos priemonių, ligoninių ir medicinos reikmenų (įskaitant ventiliatorius, apsauginius drabužius bei priemones, taip pat diagnostikos priemones) ir būtinų žaliavų gamyba;
+10.3. dezinfekavimo priemonių ir jų tarpinių produktų bei jų gamybai būtinų cheminių žaliavų gamyba;
+10.4. duomenų rinkimo ir (arba) tvarkymo priemonių, skirtų kovai su COVID-19, gamyba.
+11. Pagal Apraše nurodytas remiamas veiklas tęstinės atrankos kvietimą teikti paraiškas numatoma paskelbti 2020 m. IV ketvirtį. Vienas pareiškėjas gali teikti vieną paraišką. Kvietimas stabdomas anksčiau negu kvietimo teikti paraiškas skelbime nustatyto termino paskutinė diena, jeigu pagal priimtus sprendimus dėl projektų finansavimo ir pateiktas naujas paraiškas paskirstyta ir prašoma skirti finansavimo lėšų suma sudaro galimybę paskirstyti visą kvietimui teikti paraiškas skirtą lėšų sumą.
+12. Pagal Aprašą teikiamas finansavimas yra valstybės pagalba ir turi atitikti valstybės pagalbos schemos ir Komunikato nuostatas.
+13. Pagal Aprašą teikiama valstybės pagalba laikoma turinti skatinamąjį poveikį, jeigu projektai pradėti nuo 2020 m. vasario 1 dienos.
+
+II SKYRIUS
+REIKALAVIMAI PAREIŠKĖJAMS IR PARTNERIAMS
+
+14. Pagal Aprašą galimi pareiškėjai yra labai mažos, mažos ir vidutinės įmonės (toliau –MVĮ), atitinkančios Aprašo 18.2 papunktyje nustatytus reikalavimus.
+15. Pagal Aprašą partneriai negalimi.
+16. Finansavimas gali būti skiriamas pareiškėjams visose srityse, išskyrus 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1301/2013 dėl Europos regioninės plėtros fondo ir dėl konkrečių su investicijų į ekonomikos augimą ir darbo vietų kūrimą tikslu susijusių nuostatų, kuriuo panaikinamas Reglamentas (EB) Nr. 1080/2006, 3 straipsnio 3 dalyje nustatytus atvejus. Taip pat finansavimas nėra skiriamas pareiškėjams, veikiantiems žemės ūkio, žuvininkystės, akvakultūros srityse, kredito ir finansų įstaigoms. Pagal Aprašą finansavimas nėra teikiamas pareiškėjui, kuris 2019 m. gruodžio 31 d. jau buvo laikomas sunkumų patiriančia įmone,  išskyrus tuos atvejus, jei įmonė yra labai maža arba maža ir jai nėra taikoma kolektyvinė nemokumo procedūra, ir nėra suteikta sanavimo ir restruktūrizavimo pagalba. Pagal Aprašą finansavimas neteikiamas, jeigu pareiškėjas nėra sugrąžinęs anksčiau gautos valstybės pagalbos, kuri Europos Komisijos sprendimu pripažinta neteisėta ir nesuderinama su vidaus rinka.
+
+III SKYRIUS
+PROJEKTAMS TAIKOMI REIKALAVIMAI
+
+17.	Projektas turi atitikti Projektų taisyklių III skyriaus dešimtajame skirsnyje nustatytus bendruosius projektų reikalavimus.
+18.	Projektas turi atitikti šiuos specialiuosius projektų atrankos kriterijus, patvirtintus 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos stebėsenos komiteto 2020 m. rugsėjo 17 d. protokoliniu sprendimu Nr. 44P-10 (58):
+18.1. Projektas atitinka Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų plano, patvirtinto Lietuvos Respublikos ekonomikos ir inovacijų ministro 2015 m. rugsėjo 2 d. įsakymu Nr. 4-554 „Dėl Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų plano patvirtinimo“ (toliau – Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų planas), nuostatas (vertinama, ar projektas prisideda prie Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų plano antrojo tikslo „modernizuoti, integruoti ir plėtoti pramonę“ pirmojo uždavinio „skatinti pramonės ir paslaugų įmonių jungimąsi į tinklus ir pramoninį bendradarbiavimą“ konkretaus veiksmo 1.1 „sudaryti palankias sąlygas mažų, labai mažų ir vidutinių įmonių (toliau – MVĮ) investicijoms į inovatyvios gamybos ir (ar) inovatyvių paslaugų verslo pradžią ir plėtrą“ įgyvendinimo (inovacijų (įrangos/įrenginių) diegimo įmonės lygmeniu).
+18.2. Pareiškėjas yra MVĮ, veikianti ne trumpiau kaip vienerius metus ir kurios vidutinės pačios MVĮ pagamintos produkcijos metinės pajamos per pastaruosius 3 finansinius metus arba per laiką nuo MVĮ įregistravimo dienos (jeigu MVĮ įregistruota mažiau nei prieš 3 pastaruosius finansinius metus) yra ne mažesnės kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų (vertinama, ar MVĮ vidutinės pačios pagamintos produkcijos metinės pajamos per pastaruosius 3 finansinius metus arba per laiką nuo MVĮ įregistravimo dienos, jei MVĮ įregistruota mažiau kaip prieš 3 pastaruosius finansinius metus, yra ne mažesnės kaip 145 000 (šimtas keturiasdešimt penki tūkstančiai) eurų.
+18.3. Projekto įgyvendinimo metu planuojami gaminti produktai yra skirti kovai su COVID-19 (vertinama, ar įgyvendinant projektą planuojami gaminti produktai yra skirti kovai su COVID-19, t. y. atitinkami vaistiniai preparatai (įskaitant vakcinas) ir gydymo priemonės, jų tarpiniai produktai, vaistų veikliosios medžiagos ir žaliavos; medicinos priemonės, ligoninių ir medicinos reikmenys (įskaitant ventiliatorius, apsauginius drabužius bei priemones, taip pat diagnostikos priemones) ir būtinos žaliavos; dezinfekavimo priemonės ir jų tarpiniai produktai bei jų gamybai būtinos cheminės žaliavos; duomenų rinkimo ir (arba) tvarkymo priemonės, skirtos kovai su COVID-19).
+19. Projektu turi būti prisidedama prie bent vieno Europos Sąjungos Baltijos jūros regiono strategijos, patvirtintos Europos Komisijos 2012 m. kovo 23 d. komunikatu Nr. COM(2012) 128 (toliau – ES BJRS), kuri skelbiama Europos Komisijos interneto svetainėje https://ec.europa.eu/regional_policy/lt/policy/cooperation/macro-regional-strategies/baltic-sea/library/#1, tikslo įgyvendinimo pagal ES BJRS veiksmų plane, patvirtintame Europos Komisijos 2017 m. kovo 20 d. sprendimu Nr. SWD(2017) 118, kuris skelbiamas Europos Komisijos interneto svetainėje https://ec.europa.eu/regional_policy/lt/policy/cooperation/macro-regional-strategies/baltic-sea/library/#1, numatytą politinę sritį „Inovacijos“.
+20. Pagal Aprašą nefinansuojami iš ES struktūrinių fondų lėšų bendrai finansuojami didelės apimties projektai.
+21. Teikiamų pagal Aprašą projektų veiklų įgyvendinimo trukmė turi būti ne ilgesnė kaip 6 mėnesiai nuo pagalbos suteikimo dienos. Projekto įgyvendinimo laikotarpis dėl objektyvių priežasčių gali būti pratęstas, bet ne ilgiau kaip iki 2021 m. liepos 1 d.
+22. Projektas užbaigiamas per šešis mėnesius nuo pagalbos suteikimo dienos. Projektas laikomas užbaigtu, kai užbaigtu jį pripažįsta įgyvendinančioji institucija. Jei šešių mėnesių termino nesilaikoma, už kiekvieną vėlavimo mėnesį turi būti grąžinta 25 proc. suteiktos pagalbos sumos, išskyrus atvejus, kai vėluojama dėl priežasčių, kurių projekto vykdytojas negali kontroliuoti. 
+23. Projektas gali būti pradėtas įgyvendinti ne anksčiau kaip 2020 m. vasario 1 d., tačiau projekto išlaidos iki finansavimo skyrimo dienos yra patiriamos pareiškėjo rizika. 
+24. Projekto veiklos turi būti vykdomos Lietuvos Respublikoje. Projekto veiklų vykdymo vieta yra laikoma vieta, kurioje projekto veiklą vykdo projektą vykdantis personalas, kaip jis apibrėžtas Rekomendacijose dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams.
+25. Projektu turi būti siekiama visų toliau išvardytų Priemonės įgyvendinimo stebėsenos rodiklių: 
+25.1. produkto stebėsenos rodiklio „Subsidijas gaunančių įmonių skaičius“, kodas P.B. 202;
+25.2. produkto stebėsenos rodiklio „Privačios investicijos, atitinkančios viešąją paramą įmonėms (subsidijos)“, kodas P.B.206;
+25.3. rezultato stebėsenos rodiklio „Investicijas gavusios įmonės pajamų padidėjimas“, kodas R.N.805.26. Aprašo 25.1 papunktyje nurodytam Priemonės įgyvendinimo stebėsenos rodiklio skaičiavimui taikomas Veiksmų programos stebėsenos rodiklių skaičiavimo aprašas. Aprašo 25.2 ir 25.3 papunkčiuose nurodytų Priemonės įgyvendinimo stebėsenos rodiklių skaičiavimui taikomas Nacionalinių stebėsenos rodiklių skaičiavimo aprašas, patvirtintas Lietuvos Respublikos ekonomikos ir inovacijų ministro 2014 m. gruodžio 19 d. įsakymu Nr. 4-933 „Dėl 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos prioriteto įgyvendinimo priemonių įgyvendinimo plano ir Nacionalinių stebėsenos rodiklių skaičiavimo aprašo patvirtinimo“. Visų Aprašo 25 punkte nurodytų Priemonės įgyvendinimo stebėsenos rodiklių skaičiavimo aprašai skelbiami ES struktūrinių fondų svetainėje www.esinvesticijos.lt.
+27. Negali būti numatyti projekto apribojimai, kurie turėtų neigiamą poveikį moterų ir vyrų lygybės ir nediskriminavimo dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, negalios, lytinės orientacijos, etninės priklausomybės, religijos principų įgyvendinimui. 
+28. Neturi būti numatyti projekto veiksmai, kurie turėtų neigiamą poveikį darnaus vystymosi principo įgyvendinimui. 
+29. Projekto veiklos turi būti pradėtos įgyvendinti ne vėliau kaip per 14 dienų nuo projekto sutarties pasirašymo dienos.
+30. Projektas ir projekto veiklos negali būti finansuotos ar finansuojamos iš kitų Lietuvos Respublikos valstybės biudžeto ir (arba) savivaldybių biudžetų, kitų piniginių išteklių, kuriais disponuoja valstybė ir (ar) savivaldybės, ES struktūrinių fondų, kitų ES finansinės paramos priemonių ar kitos tarptautinės paramos lėšų, kurioms apmokėti skyrus ES struktūrinių fondų lėšų jos būtų pripažintos tinkamomis finansuoti ir (arba) apmokėtos daugiau nei vieną kartą.
+IV SKYRIUS
+TINKAMŲ FINANSUOTI PROJEKTO IŠLAIDŲ IR FINANSAVIMO REIKALAVIMAI
+
+PIRMASIS SKIRSNIS
+BENDRIEJI REIKALAVIMAI
+
+31. Projekto išlaidos turi atitikti Projektų taisyklių VI skyriuje ir Rekomendacijose dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams išdėstytus projekto išlaidoms taikomus reikalavimus.
+32. Didžiausia projektui ir vienai įmonei galima skirti finansavimo lėšų suma yra 1 000 000 (vienas milijonas) eurų. Mažiausia projektui galima skirti finansavimo lėšų suma yra 100 000 (šimtas tūkstančių) eurų.
+33. Vykdant projektą pagal Aprašo 10 punkte nurodytą veiklą pagalba nederinama su kita investicine pagalba toms pačioms tinkamoms finansuoti išlaidoms padengti.
+34. Projekto išlaidoms, be Projektų taisyklių VI skyriuje išdėstytų reikalavimų, taip pat taikomos valstybės pagalbos schemos ir Komunikato nuostatos. 
+35. Projekto biudžetas sudaromas vadovaujantis Rekomendacijomis dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams. Paraiškos formos projekto biudžeto lentelė pildoma vadovaujantis Projekto biudžeto formos pildymo instrukcija, pateikta Rekomendacijose dėl projektų išlaidų atitikties Europos Sąjungos struktūrinių fondų reikalavimams.
+36. Pagal Aprašą kryžminis finansavimas netaikomas.
+37. Pagal Aprašą netinkamomis finansuoti išlaidomis laikomos išlaidos:
+37.1. nurodytos Projektų taisyklių VI skyriaus trisdešimt ketvirtajame skirsnyje;
+37.2. neįvardytos kaip Aprašo 2 lentelėje tinkamos finansuoti išlaidos.
+38. Projekto vykdytojui nepasiekus įsipareigotų pasiekti Priemonės įgyvendinimo stebėsenos rodiklių reikšmių, taikomos Projektų taisyklių IV skyriaus dvidešimt antrojo skirsnio nuostatos. 
+
+ANTRASIS SKIRSNIS
+FINANSAVIMO INTENSYVUMAS IR TINKAMOS FINANSUOTI IŠLAIDOS
+
+39. Didžiausia galima projekto finansuojamoji dalis (skaičiuojama nuo Aprašo 10 punkte nurodytai veiklai skirtų tinkamų finansuoti išlaidų) nurodyta Aprašo 1 lentelėje. 
+
+1 lentelė. Projekto finansuojamoji dalis. 
+Vykdoma veikla
+Bazinė finansuoja-moji dalis
+Galimas bazinės finansuojamosios dalies padidinimas
+Aprašo 10 punkte nurodyta veikla
+80 proc.
+15 procentinių punktų, jeigu investavimas užbaigiamas per du mėnesius nuo pagalbos suteikimo dienos.
+
+40. Projekto tinkamų finansuoti išlaidų dalis, kurios nepadengia projektui skiriamo finansavimo lėšos, turi būti finansuojama iš projekto vykdytojo lėšų. 
+41. Pareiškėjas savo iniciatyva ir savo ir (arba) kitų šaltinių lėšomis gali prisidėti prie projekto įgyvendinimo didesne, nei reikalaujama, lėšų suma.
+42. Pagal Aprašą tinkamų arba netinkamų finansuoti išlaidų kategorijos yra nustatytos Aprašo 2 lentelėje. 
+
+2 lentelė. Tinkamų arba netinkamų finansuoti išlaidų kategorijos, kai vykdoma Aprašo 10 punkte nurodyta veikla:
+Išlaidų katego-rijos Nr.
+Išlaidų kategorijos pavadinimas
+Reikalavimai ir paaiškinimai
+1.
+Žemė
+Netinkamos finansuoti išlaidos.
+2.
+Nekilnojamasis turtas
+Netinkamos finansuoti išlaidos.
+3.
+Statyba, rekonstravimas, remontas ir kiti darbai
+Netinkamos finansuoti išlaidos.
+4.
+Įranga, įrenginiai ir kitas turtas
+Tinkamos finansuoti išlaidos, tiesiogiai susijusios su projekto įgyvendinimu ir paskirstytos proporcingai veiklai, yra kovai su COVID-19 reikalingų produktų (atitinkamų vaistinių preparatų (įskaitant vakcinas) ir gydymo priemonių, jų tarpinių produktų, vaistų veikliųjų medžiagų ir žaliavų; medicinos priemonių, ligoninių ir medicinos reikmenų (įskaitant ventiliatorius, apsauginius drabužius bei priemones, taip pat diagnostikos priemones) ir būtinų žaliavų; dezinfekavimo priemonių ir jų tarpinių produktų bei jų gamybai būtinų cheminių žaliavų; duomenų rinkimo ir (arba) tvarkymo priemonių, skirtų kovai su COVID-19) gamyba ir naujų gamybos įrenginių bandymu susijusios išlaidos, patirtos iki masinės gamybos pradžios ir apskaičiuotos kaip su įrenginių bandymu susijusių veiklos sąnaudų ir veiklos pajamų, gautų iš bandomųjų gamybos ciklų, skirtumas:
+-	investicinės sąnaudos išvardytų produktų gamybai būtinos įrangos, įrenginių ir kito ilgalaikio materialiojo turto, skirto gamybinei veiklai vykdyti, įsigijimo ir įrangos lizingo (finansinės nuomos) išlaidos (išskyrus su lizingo (finansinės nuomos) sutartimi susijusias mokesčių išlaidas ir palūkanas) (įskaitant jų transportavimo, projektavimo, sumontavimo, vietos (aikštelės) paruošimo, instaliavimo, paruošimo naudoti, išbandymo, apmokymo naudotis, saugos instruktažo, techninės priežiūros (kol vyksta montavimas, instaliavimas, paruošimas naudoti, išbandymas) ir susijusias išlaidas). Lizingo (finansinės nuomos) laikotarpis negali būti ilgesnis už projekto įgyvendinimo trukmę, tai yra lizingo (finansinės nuomos) būdu įsigytas materialusis turtas iki projekto įgyvendinimo pabaigos turi tapti projekto vykdytojo nuosavybe;
+-	investicinės sąnaudos, susijusios su nematerialaus turto įsigijimu (įskaitant licencijas, programinės įrangos diegimą, darbuotojų apmokymą ir susijusias išlaidas).
+5.
+Projekto vykdymas
+Tinkamomis finansuoti išlaidomis, kurios patirtos iki masinės gamybos pradžios ir apskaičiuotos kaip su įrenginių bandymu susijusių veiklos sąnaudų ir veiklos pajamų, gautų iš bandomųjų gamybos ciklų, skirtumas, yra laikomos:
+-	projektą vykdančio personalo darbo užmokesčio išlaidos tiek, kiek tai susiję su įrangos, įrenginių bandymu. Projektą vykdančio personalo darbo užmokesčio išlaidos už kasmetines atostogas ir (ar) kompensacijas už nepanaudotas kasmetines atostogas apmokamos taikant maksimalias kasmetinių atostogų išmokų fiksuotąsias normas, kurios nustatomos vadovaujantis Kasmetinių atostogų ir papildomų poilsio dienų išmokų fiksuotųjų normų nustatymo tyrimo ataskaita, paskelbta ES struktūrinių fondų svetainėje https://www.esinvesticijos.lt/lt/dokumentai/kasmetiniu-atostogu-ismoku-fiksuotuju-normu-nustatymo-tyrimo-ataskaita. Pakeistos kasmetinių atostogų ir papildomų poilsio dienų išmokų fiksuotosios normos taikomos nuo jų įsigaliojimo dienos, įskaitant ir įgyvendinamas sutartis; 
+-	išorinių konsultacinių paslaugų, reikalingų įrangos, įrenginių diegimui ir bandymui, įsigijimas; 
+-	žaliavų, medžiagų ir energijos sąnaudos, reikalingos naujų gamybos įrenginių bandymui.
+Projekto vykdymo išlaidos gali sudaryti ne daugiau kaip 5 proc. visų tinkamų projekto išlaidų.
+6.
+Informavimas apie projektą 
+Netinkamos finansuoti išlaidos.
+7.
+Netiesioginės išlaidos ir kitos išlaidos pagal fiksuotąją projekto išlaidų normą
+Netinkamos finansuoti išlaidos.
+
+43. Visas įgyvendinant projektą įsigyjamas ilgalaikis materialusis turtas iki jo įsigijimo turi būti naujas (nenaudotas). 
+44. Nematerialusis turtas, naudojamas investicinėms išlaidoms apskaičiuoti, turi atitikti šias sąlygas:
+44.1. turi būti naudojamas tik projekto vykdytojo veiklai;
+44.2. turi būti nusidėvintis;
+44.3. turi būti įsigytas rinkos sąlygomis iš trečiųjų šalių, nesusijusių su pirkėju;
+44.4. turi būti įtrauktas į projekto vykdytojo turtą ir likti susietas su finansuotu projektu trejus metus po projekto finansavimo pabaigos.
+45. Įgyvendinančioji institucija duomenis apie suteiktą pagalbą Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registrui teikia vadovaudamasi Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatais, patvirtintais Lietuvos Respublikos Vyriausybės 2005 m. sausio 19 d. nutarimu Nr. 35 „Dėl Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatų patvirtinimo“, ir Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos duomenų tvarkymo taisyklėmis, patvirtintomis Lietuvos Respublikos konkurencijos tarybos 2015 m. lapkričio 13 d. nutarimu Nr. 1S-120/2015 „Dėl Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos duomenų tvarkymo taisyklių patvirtinimo“.
+46. Ministerija, vadovaudamasi Komunikato 88 punkto ir valstybės pagalbos schemos nuostatomis, informaciją apie suteiktą valstybės pagalbą turi paskelbti Europos Komisijos valstybės pagalbos skaidrumo viešos paieškos svetainėje https://webgate.ec.europa.eu/competition/transparency/ ne vėliau kaip per 12 mėnesių nuo pagalbos suteikimo dienos, vadovaudamasi įgyvendinančiosios institucijos pateikta informacija.
+
+V SKYRIUS
+PARAIŠKŲ RENGIMAS, PAREIŠKĖJŲ INFORMAVIMAS, KONSULTAVIMAS, PARAIŠKŲ TEIKIMAS IR VERTINIMAS
+
+47. Siekdamas gauti finansavimą pareiškėjas turi užpildyti paraišką, kurios iš dalies užpildyta forma PDF formatu skelbiama ES struktūrinių fondų svetainės www.esinvesticijos.lt skiltyje „Finansavimas“ prie paskelbto kvietimo teikti paraiškas „Susijusių dokumentų“. Paraiška ir jos priedai pildomi lietuvių kalba.
+48. Pareiškėjas pildo paraišką ir kartu su Aprašo 52 punkte nurodytais priedais iki kvietimo teikti paraiškas skelbime nustatyto termino paskutinės dienos teikia ją per iš Europos Sąjungos struktūrinių fondų lėšų bendrai finansuojamų projektų duomenų mainų svetainę (toliau – DMS), o jei nėra įdiegtos DMS funkcinės galimybės – įgyvendinančiajai institucijai raštu Projektų taisyklių III skyriaus dvyliktajame skirsnyje nustatyta tvarka.
+49. Jeigu, vadovaujantis Aprašo 48 punktu, paraiška teikiama raštu, ji gali būti teikiama vienu iš šių būdų:
+49.1. Įgyvendinančiajai institucijai teikiamas pasirašytas popierinis paraiškos ir jos priedų dokumentas (kartu pateikiant į elektroninę laikmeną įrašytą paraišką ir priedus). Paraiškos originalo ir elektroninės versijos turinys turi būti identiškas. Nustačius, kad paraiškos elektroninės versijos turinys neatitinka originalo, vadovaujamasi paraiškos originale nurodyta informacija. Paraiška gali būti pateikta registruotu laišku, per pašto kurjerį arba įteikta asmeniškai kvietime nurodytu adresu.
+49.2. Įgyvendinančiajai institucijai kvietime nurodytu elektroninio pašto adresu siunčiamas elektroninis dokumentas, pasirašytas kvalifikuotu elektroniniu parašu. 
+50. Jei paraiškos gali būti teikiamos per DMS, pareiškėjas prie DMS jungiasi naudodamasis Valstybės informacinių išteklių sąveikumo platforma ir užsiregistravęs tampa DMS naudotoju.
+51. Jei laikinai nėra užtikrintos DMS funkcinės galimybės ir dėl to pareiškėjai negali pateikti paraiškos ar jos priedo (-ų) paskutinę paraiškų pateikimo termino dieną, įgyvendinančioji institucija paraiškų pateikimo terminą pratęsia 7 dienų laikotarpiui ir (arba) sudaro galimybę paraiškas ar jų priedus pateikti kitu būdu ir apie tai paskelbia Projektų taisyklių 82 punkte nustatyta tvarka.
+52. Kartu su paraiška pareiškėjas turi pateikti šiuos priedus (Aprašo 52.1 ir 52.2 papunkčiuose nurodytų paraiškos priedų formos skelbiamos Europos Sąjungos struktūrinių fondų svetainės www.esinvesticijos.lt skiltyje „Dokumentai“, ieškant dokumento tipo „paraiškų priedų formos“):
+52.1. užpildytą Klausimyną apie pirkimo ir (arba) importo pridėtinės vertės mokesčio tinkamumą finansuoti iš Europos Sąjungos struktūrinių fondų ir (arba) Lietuvos Respublikos biudžeto lėšų, jei pareiškėjas prašo pirkimo ir (arba) importo pridėtinės vertės mokesčio išlaidas pripažinti tinkamomis finansuoti, t. y. įtraukia šias išlaidas į projekto biudžetą; 
+52.2. pareiškėjo Smulkiojo ar vidutinio verslo subjekto statuso deklaraciją, kurios forma patvirtinta Lietuvos Respublikos ūkio ministro 2008 m. kovo 26 d. įsakymu Nr. 4-119 „Dėl Smulkiojo ar vidutinio verslo subjekto statuso deklaravimo tvarkos aprašo ir Smulkiojo ar vidutinio verslo subjekto statuso deklaracijos formos patvirtinimo“;
+52.3. dokumentus, pagrindžiančius projekto biudžeto pagrįstumą (komerciniai pasiūlymai, nuorodos į rinkos kainas, darbo užmokesčio pažymos, detali biudžeto lentelė XLS formatu, kurios formą galima rasti interneto svetainėje http://lvpa.lt/lt/paraiskos/covid-19-produktai-1266. Jei projektas pradėtas įgyvendinti – pasirašytas pirkimo–pardavimo sutartis, sąskaitas faktūras ir kt.);
+52.4. dokumentus, pagrindžiančius, kad pareiškėjas turi teisę (turi atitinkamus leidimus, licenciją ar veiklos atestatą) gaminti kovai su COVID-19 reikalingus produktus, nurodytus Aprašo 10.1–10.4 papunkčiuose. Jei pareiškėjas paraiškos pateikimo metu neturi nurodytų dokumentų, jie turi būti pateikti Aprašo 74 punkte nustatyta tvarka;
+52.5. finansavimo šaltinius (pareiškėjo įnašą ir netinkamų finansuoti išlaidų padengimą) pagrindžiančius dokumentus;
+52.6. pareiškėjo patvirtintus paskutinių trejų finansinių metų metinių finansinių ataskaitų rinkinius arba paskutiniųjų trejų finansinių metų patvirtintus įmonių grupės metinių konsoliduotųjų finansinių ataskaitų rinkinius, jei jas pareiškėjas privalo rengti pagal Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo nuostatas (reikalavimas dėl patvirtintų metinių finansinių ataskaitų rinkinių netaikomas pareiškėjui, kuris yra pateikęs metinių finansinių ataskaitų rinkinius Juridinių asmenų registrui);
+52.7. Aprašo 3 priedą.
+53. Projekto parengtumui taikomas reikalavimas, kad kartu su paraiška turi būti pateikiama pusė ir daugiau Aprašo 52 punkte nurodytų pareiškėjui privalomų rengti ir teikti užpildytų priedų. Jo neįvykdžius paraiška atmetama, neprašant pareiškėjo pateikti papildomų dokumentų ar duomenų, papildyti ar patikslinti paraiškoje pateiktos informacijos. Aprašo 52 punkte nurodyti parengti priedai įgyvendinančiajai institucijai turi būti teikiami kartu su paraiška per DMS, jei priedų neįmanoma pateikti per DMS, jie teikiami raštu Projektų taisyklių 13 punkte nustatyta tvarka.
+54. Paraiškų pateikimo paskutinė diena nustatoma kvietime teikti paraiškas, kuris skelbiamas ES struktūrinių fondų svetainėje www.esinvesticijos.lt. Pareiškėjas gali teikti ne daugiau kaip vieną paraišką vieno kvietimo teikti paraiškas metu.
+55. Pareiškėjai informuojami ir konsultuojami Projektų taisyklių II skyriaus penktajame skirsnyje nustatyta tvarka. Informacija apie konkrečius įgyvendinančiosios institucijos konsultuojančius asmenis ir jų kontaktus bus nurodyta kvietimo teikti paraiškas skelbime, paskelbtame pagal Aprašą ES struktūrinių fondų svetainėje www.esinvesticijos.lt. 
+56. Įgyvendinančioji institucija atlieka projekto tinkamumo finansuoti vertinimą Projektų taisyklių III skyriaus keturioliktajame ir penkioliktajame skirsniuose nustatyta tvarka pagal Aprašo 1 priede nustatytus reikalavimus.
+57. Jeigu paraiškai vertinti pasitelkiamas užsienio ekspertas, įgyvendinančioji institucija Projektų taisyklių 118 punkte nustatytais terminais gali paprašyti pareiškėjo pateikti dalį paraiškos informacijos anglų kalba.
+58. Paraiškos vertinamos ne ilgiau kaip 60 dienų nuo paraiškos pateikimo dienos, užtikrinant Aprašo 63 punkte nurodyto sprendimo dėl projekto finansavimo arba nefinansavimo priėmimo termino laikymąsi.
+59. Nepavykus paraiškų įvertinti per Aprašo 58 punkte nustatytą terminą (kai paraiškų vertinimo metu reikia kreiptis į kitas institucijas, atliekama patikra projekto įgyvendinimo ir (ar) administravimo vietoje, taip pat kai buvo gauta paraiškų, kurių suma didesnė nei kvietimui teikti paraiškas skirta lėšų suma), vertinimo terminas gali būti pratęstas įgyvendinančiosios institucijos sprendimu, tačiau turi būti užtikrintas Aprašo 63 punkte nurodyto sprendimo dėl projekto finansavimo arba nefinansavimo priėmimo termino laikymasis. Apie naują paraiškų vertinimo terminą Projektų taisyklių 127 punkte nustatyta tvarka įgyvendinančioji institucija informuoja pareiškėjus per DMS, o jeigu nėra įdiegtos DMS funkcinės galimybės – raštu, taip pat Ministeriją ir vadovaujančiąją instituciją raštu, vadovaudamasi Projektų taisyklių 9 punktu (jeigu įdiegtos funkcinės galimybės, – per 2014–2020 metų Europos Sąjungos struktūrinių fondų posistemį SFMIS2014), ir nurodo termino pratęsimo priežastis.
+60. Paraiška atmetama dėl priežasčių, nustatytų Apraše, Projektų taisyklių 93 punkte ir Projektų taisyklių III skyriaus keturioliktajame, penkioliktajame ir šešioliktajame skirsniuose, juose nustatyta tvarka. Apie paraiškos atmetimą pareiškėjas informuojamas raštu (jeigu įdiegtos funkcinės galimybės, informuojamas per DMS) per 3 darbo dienas nuo sprendimo dėl paraiškos atmetimo priėmimo dienos.
+61. Pareiškėjas sprendimą dėl paraiškos atmetimo gali apskųsti Projektų taisyklių VII skyriaus keturiasdešimt trečiajame skirsnyje nustatyta tvarka ne vėliau kaip per 14 dienų nuo tos dienos, kurią pareiškėjas sužinojo ar turėjo sužinoti apie skundžiamus gyvendinančiosios institucijos veiksmus ar neveikimą. 
+62. Įgyvendinančioji institucija gali patikrinti pareiškėjo Juridinių asmenų registrui pateiktus patvirtintus paskutinių dvejų finansinių metų metinių finansinių ataskaitų rinkinius, siekdama įsitikinti, kad pareiškėjas 2019 m. gruodžio 31 d. nebuvo sunkumų patirianti įmonė. Paaiškėjus, kad pareiškėjas 2019 m. gruodžio 31 d. buvo sunkumų patirianti įmonė, finansavimas neskiriamas (projekto sutartis nesudaroma), išskyrus tuos atvejus, kai pareiškėjas yra labai maža ir maža įmonė ir jai nėra taikoma kolektyvinė nemokumo procedūra, ir nėra suteikta sanavimo ir restruktūrizavimo pagalba.
+63. Įgyvendinančiajai institucijai baigus paraiškų vertinimą, sprendimą dėl projekto finansavimo arba nefinansavimo priima Ministerija Projektų taisyklių III skyriaus septynioliktajame skirsnyje nustatyta tvarka. Sprendimas dėl projekto finansavimo arba nefinansavimo priimamas ne vėliau kaip iki 2020 m. gruodžio 31 d. 
+64. Ministerijai priėmus sprendimą finansuoti projektą, įgyvendinančioji institucija per 3 darbo dienas nuo šio sprendimo gavimo dienos per DMS pateikia šį sprendimą pareiškėjams, o jeigu DMS funkcinės galimybės nėra įdiegtos – raštu.
+65. Pagal Aprašą finansuojamiems projektams įgyvendinti bus sudaromos dvišalės projektų sutartys tarp pareiškėjų ir įgyvendinančiosios institucijos. Projektų sutartys yra keičiamos ar nutraukiamos Projektų taisyklių IV skyriaus devynioliktajame skirsnyje nustatyta tvarka. 
+66. Ministerijai priėmus sprendimą dėl projekto finansavimo, įgyvendinančioji institucija Projektų taisyklių IV skyriaus aštuonioliktajame skirsnyje nustatyta tvarka pagal Projektų taisyklių 4 priede nustatytą formą, pritaikytą šiam Aprašui ir suderintą su Ministerija, parengia ir pateikia pareiškėjui projekto sutarties projektą ir nurodo pasiūlymo pasirašyti projekto sutartį galiojimo terminą Projektų taisyklių 166 punkte nustatyta tvarka. Pareiškėjui per įgyvendinančiosios institucijos nustatytą pasiūlymo galiojimo terminą nepasirašius projekto sutarties, pasiūlymas pasirašyti projekto sutartį netenka galios. Pareiškėjas turi teisę kreiptis į įgyvendinančiąją instituciją su prašymu dėl objektyvių priežasčių, nepriklausančių nuo pareiškėjo, pakeisti projekto sutarties pasirašymo terminą. Jeigu pareiškėjas atsisako pasirašyti projekto sutartį ar per nustatytą terminą jos nepasirašo, įgyvendinančioji institucija informuoja Ministeriją ir pareiškėją Projektų taisyklių 168 punkte nustatyta tvarka.
+67. Jei planuojamos ūkinės veiklos poveikio aplinkai vertinimą reguliuojančių teisės aktų nustatyta tvarka privaloma atlikti poveikio aplinkai vertinimą, pareiškėjas iki projekto sutarties pasirašymo turi būti parengęs poveikio aplinkai vertinimo ataskaitą ir turėti atsakingos institucijos sprendimą ar atrankos išvadą (kopiją). Kai poveikio aplinkai vertinimo atlikti neprivaloma, pareiškėjas įgyvendinančiajai institucijai turi pateikti laisvos formos raštą, kuriame nurodoma informacija, kuria remiantis nustatyta, kad projektui netaikomas reikalavimas dėl poveikio aplinkai vertinimo, ir pagrįsti tai Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis. Įgyvendinančiajai institucijai Aprašo 66 punkte nustatytu atveju pratęsus projekto sutarties pasirašymo terminą, atitinkamai prasitęsia šiame Aprašo punkte įvardytų dokumentų pateikimo terminas.
+68. Ne vėliau kaip iki projekto sutarties pasirašymo pareiškėjas turi būti sudaręs sutartį gauti paskolą, jei pareiškėjo įnašas arba įnašo dalis yra paskola. Jei pareiškėjas skolinasi ne iš kredito įstaigos (banko ar kredito unijos), kaip ji suprantama pagal Lietuvos Respublikos finansų įstaigų įstatymą, iki projekto sutarties pasirašymo pareiškėjas turi pateikti ir skolintojo finansinį pajėgumą skolinti atitinkamą lėšų sumą įrodančius dokumentus. Jei pareiškėjas per įgyvendinančiosios institucijos nustatytą projekto sutarties pasirašymo terminą neįvykdo šio reikalavimo, pasiūlymas pasirašyti projekto sutartį netenka galios ir projektas nefinansuojamas. Įgyvendinančiajai institucijai Aprašo 66 punkte nustatytu atveju pratęsus projekto sutarties pasirašymo terminą, atitinkamai prasitęsia paskolos sutarties kopijos pateikimo terminas.
+69. Projekto sutarties originalas gali būti rengiamas ir teikiamas: 
+69.1. pasirašytas raštu popierinėje laikmenoje arba
+69.2. pasirašytas kvalifikuotu elektroniniu parašu (tik elektroninėje laikmenoje).
+
+VI SKYRIUS
+PROJEKTŲ ĮGYVENDINIMO REIKALAVIMAI
+
+70. Projektas įgyvendinamas pagal projekto sutartyje, Apraše ir Projektų taisyklėse nustatytus reikalavimus. 
+71. Projekto (-ų) įgyvendinimo priežiūrai atlikti sudaromas Projekto (-ų) priežiūros komitetas, kuris stebi projekto įgyvendinimo pažangą ir teikia rekomendacijas projekto vykdytojui dėl projekto įgyvendinimo. Projekto (-ų) priežiūros komitetas sudaromas iš įgyvendinančiosios institucijos, Ministerijos atstovų, į Projekto (-ų) priežiūros komitetą gali būti kviečiami kitų institucijų, įstaigų ar organizacijų atstovai. Projekto (-ų) priežiūros komiteto sudėtis tvirtinama Lietuvos Respublikos ekonomikos ir inovacijų ministro įsakymu, o jo veiklos principai bus nustatyti šio komiteto darbo reglamente.
+72. Kai projekto įgyvendinimo metu įsigyjamas arba sukuriamas ilgalaikis turtas, trejus metus po projekto finansavimo pabaigos turi būti užtikrintas investicijų tęstinumas Projektų taisyklių IV skyriaus dvidešimt septintajame skirsnyje nustatyta tvarka. 
+73. Projekto vykdytojas turi apdrausti ilgalaikį materialųjį turtą, kuris įsigytas ar sukurtas iš projektui skirtų finansavimo lėšų, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų. Turtas turi būti apdraustas projekto įgyvendinimo laikotarpiui nuo tada, kai yra sukuriamas ar įsigyjamas, ir ne mažiau kaip trejus metus nuo projekto finansavimo pabaigos draudimo ir draudimo tarpininkavimo sritis reguliuojančių teisės aktų nustatyta tvarka. Draudimo įvykio atveju projekto vykdytojas turi atkurti prarastą turtą. 
+74. Projekto vykdytojas, numatęs projekto įgyvendinimo metu vykdyti veiklą, kuriai yra gautas finansavimas ir kuriai būtinas leidimas, licencija ar veiklos atestatas, projekto įgyvendinimo metu arba projektui pasibaigus per projekto sutartyje nustatytą laikotarpį privalo pateikti įgyvendinančiajai institucijai gauto leidimo, licencijos ar veiklos atestato kopiją. Nepateikus leidimo, licencijos ar veiklos atestato kopijos, Ministerija turi teisę pareikalauti iš projekto vykdytojo grąžinti suteiktą finansavimą.
+75. Jei projekto veikla nepradėta įgyvendinti per 14 dienų nuo projekto sutarties pasirašymo dienos, įgyvendinančioji institucija, suderinusi su Ministerija, turi teisę vienašališkai nutraukti projekto sutartį Projekto taisyklių 192 punkte nustatyta tvarka. Jeigu įgyvendinančioji institucija nenutraukia projekto sutarties, ji nustato pareiškėjui ne ilgesnį kaip 14 kalendorinių dienų terminą informacijai dėl projekto veiklų įgyvendinimo pradžios nukėlimo pateikti ir, įvertinusi priežastis, priima galutinį sprendimą dėl projekto sutarties pratęsimo (nepratęsimo).
+76. Projekto vykdytojas privalo informuoti apie įgyvendinamą ar įgyvendintą projektą Projektų taisyklių VII skyriaus trisdešimt septintajame skirsnyje nustatyta tvarka.
+77. Projekto užbaigimo reikalavimai nustatyti Projektų taisyklių IV skyriaus dvidešimt septintajame skirsnyje.
+78. Visi su projekto įgyvendinimu susiję dokumentai turi būti saugomi Projektų taisyklių VII skyriaus keturiasdešimt antrajame skirsnyje, taip pat Komunikato 91 punkte nustatyta tvarka ir terminais.
+
+VII SKYRIUS
+APRAŠO KEITIMO TVARKA
+
+79. Aprašo keitimo tvarka nustatyta Projektų taisyklių III skyriaus vienuoliktajame skirsnyje.
+80. Jei Aprašas keičiamas jau atrinkus projektus, šie pakeitimai, nepažeidžiant lygiateisiškumo principo, taikomi ir įgyvendinamiems projektams Projektų taisyklių 91 punkte nustatytais atvejais.
+___________________________
+
+2014–2020 metų Europos Sąjungos fondų investicijų 
+veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio 
+verslo konkurencingumo skatinimas“ priemonės  
+Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“   
+projektų finansavimo sąlygų aprašo 
+1 priedas
+
+PROJEKTO TINKAMUMO FINANSUOTI VERTINIMO LENTELĖ
+
+Paraiškos kodas
+
+Pareiškėjo pavadinimas
+
+Projekto pavadinimas
+
+Projektą planuojama įgyvendinti: Pažymima projekto tinkamumo finansuoti vertinimo metu.
+□ su partneriu (-iais)              □be partnerio (-ių)
+
+□ PIRMINĖ               □ PATIKSLINTA
+(Žymima „Patikslinta“ tais atvejais, kai ši lentelė tikslinama po to, kai paraiška grąžinama pakartotinai vertinti.)
+
+Bendrasis reikalavimas /
+specialusis projektų atrankos kriterijus (toliau – specialusis kriterijus), jo vertinimo aspektai ir paaiškinimai
+
+Bendrojo reikalavimo / specialiojo kriterijaus detalizavimas
+Bendrojo reikalavimo / specialiojo kriterijaus vertinimas
+
+
+Taip / Ne / Netaikoma / Taip su išlyga
+Komentarai
+
+
+
+
+
+1. Planuojamu finansuoti projektu prisidedama prie bent vieno 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos  (toliau – veiksmų programa) prioriteto konkretaus uždavinio įgyvendinimo, rezultato pasiekimo ir įgyvendinama bent viena pagal projektų finansavimo sąlygų aprašą numatoma finansuoti veikla.
+1.1. Projekto tikslai ir uždaviniai atitinka bent vieną veiksmų programos prioriteto konkretų uždavinį ir siekiamą rezultatą.
+
+Projekto tikslai ir uždaviniai turi atitikti veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas 3.3.1. konkretų uždavinį „Padidinti MVĮ produktyvumą“ ir siekiamą rezultatą.“
+
+Informacijos šaltinis – paraiška finansuoti iš Europos Sąjungos struktūrinių fondų lėšų bendrai finansuojamą projektą (toliau – paraiška).
+
+
+1.2. Projekto tikslai, uždaviniai ir veiklos atitinka bent vieną iš projektų finansavimo sąlygų apraše nurodytų veiklų.
+Projekto tikslai, uždaviniai ir veiklos turi atitikti 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonės Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“ projektų finansavimo sąlygų aprašo (toliau – Aprašas)  10 punkte nurodytą veiklą. 
+
+Informacijos šaltinis – paraiška.
+
+
+1.3. Projektas atitinka kitus su projekto veiklomis susijusius projektų finansavimo sąlygų apraše nustatytus reikalavimus.
+Projektas turi atitikti kitus su projekto veiklomis susijusius Aprašo 18.2, 18.3 papunkčiuose, 20, 23 ir 24 punktuose nustatytus reikalavimus.
+
+Informacijos šaltinis – paraiška.
+
+
+2. Projektas atitinka strateginio planavimo dokumentų nuostatas.
+2.1. Projektas atitinka strateginio planavimo dokumentų nuostatas. 
+Projektas turi atitikti nacionalinį strateginio planavimo dokumentą, nurodytą Aprašo  18.1 papunktyje.
+
+Informacijos šaltinis – paraiška.
+
+
+2.2. Projektu prisidedama prie bent vieno 2009 m. spalio 30 d. Europos Vadovų Tarybos išvadomis  Nr. 15265/09 patvirtintos Europos Sąjungos Baltijos jūros regiono strategijos, atnaujintos Europos Komisijos 2012 m. kovo 23 d. komunikatu Nr. COM (2012) 128, tikslo įgyvendinimo pagal bent vieną Europos Sąjungos Baltijos jūros regiono strategijos veiksmų plane, patvirtintame Europos Komisijos 2017 m. kovo 20 d. sprendimu Nr. SWD(2017) 118, numatytą politinę sritį, horizontalųjį veiksmą ar įgyvendinimo pavyzdį.
+Projektas turi prisidėti prie Europos Sąjungos Baltijos jūros regiono strategijos tikslo įgyvendinimo, kaip tai nustatyta Aprašo 19 punkte.
+
+Informacijos šaltinis – paraiška.
+
+
+3. Projektu siekiama aiškių ir realių kiekybinių uždavinių.
+3.1. Projektu prisidedama prie bent vieno projektų finansavimo sąlygų apraše nustatyto veiksmų programos ir (arba) ministerijos priemonių įgyvendinimo plane nurodyto nacionalinio produkto ir (arba) rezultato rodiklio pasiekimo. 
+Projektu turi būti siekiama visų stebėsenos rodiklių, nurodytų Aprašo 25 punkte.
+
+Informacijos šaltinis – paraiška.
+
+
+
+3.2. Išlaikyta nuosekli vidinė projekto logika, t. y. projekto rezultatai yra projekto veiklų padarinys, projekto veiklos sudaro prielaidas įgyvendinti projekto uždavinius, o pastarieji – pasiekti nustatytą projekto tikslą. 
+Informacijos šaltinis – paraiška.
+
+
+3.3. Projekto uždaviniai yra specifiniai (parodo projekto esmę ir charakteristikas), išmatuojami (kiekybiškai išreikšti ir matuojami) ir įvykdomi, aiški veiklų pradžios ir pabaigos data. 
+Informacijos šaltinis – paraiška.
+
+
+4. Projektas atitinka horizontaliuosius (darnaus vystymosi bei moterų ir vyrų lygybės ir nediskriminavimo) principus, projekto įgyvendinimas yra suderinamas su Europos Sąjungos (toliau – ES) konkurencijos politikos nuostatomis.
+4.1. Projekte nėra numatyta veiksmų, kurie turėtų neigiamą poveikį darnaus vystymosi principo įgyvendinimui:
+
+
+
+4.1.1. aplinkosaugos srityje (aplinkos kokybė ir gamtos ištekliai, kraštovaizdžio ir biologinės įvairovės apsauga, klimato kaita, aplinkos apsauga ir kt.); 
+Informacijos šaltinis – paraiška.
+
+
+4.1.2. socialinėje srityje (užimtumas, skurdas ir socialinė atskirtis, visuomenės sveikata, švietimas ir mokslas, kultūros savitumo išsaugojimas, tausojantis vartojimas); 
+Informacijos šaltinis – paraiška.
+
+
+4.1.3. ekonomikos srityje (darnus pagrindinių ūkio šakų ir regionų vystymas). 
+Informacijos šaltinis – paraiška.
+
+
+4.1.4. teritorijų vystymo srityje (aplinkosauginių, socialinių ir ekonominių skirtumų mažinimas); 
+Informacijos šaltinis – paraiška.
+
+
+4.1.5. informacinės ir žinių visuomenės srityje. 
+Netaikoma.
+
+
+4.2. Pasiūlyti konkretūs veiksmai ( pademonstruotas iniciatyvus požiūris), kurie rodo, kad projektu skatinamas darnaus vystymosi principo įgyvendinimas. 
+Netaikoma.
+
+
+4.3. Projekte nėra numatoma apribojimų, kurie turėtų neigiamą poveikį moterų ir vyrų lygybės ir nediskriminavimo dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, negalios, lytinės orientacijos, etninės priklausomybės, religijos principų įgyvendinimui.
+Informacijos šaltinis – paraiška.
+
+
+4.4. Pasiūlyti konkretūs veiksmai, kurie rodo, kad projektu prisidedama prie moterų ir vyrų lygybės principo įgyvendinimo ir (arba) skatinamas nediskriminavimo dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, negalios, lytinės orientacijos, etninės priklausomybės, religijos principo įgyvendinimas. 
+Netaikoma.
+
+
+4.5. Projektas suderinamas su ES konkurencijos politikos nuostatomis: 
+
+
+
+4.5.1. teikiamas finansavimas neviršija nustatytų  de minimis pagalbos ribų ir atitinka reikalavimus, taikomus de minimis pagalbai; 
+Netaikoma
+
+
+4.5.2. projektas finansuojamas pagal suderintą valstybės pagalbos schemą ar Europos Komisijos sprendimą arba pagal 2014 m. birželio 17 d. Komisijos reglamentą (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir  108 straipsnius, laikantis ten nustatytų reikalavimų;
+Projektas atitinka bendrąjį reikalavimą, jei jis atitinka 2020 m. kovo 19 d. Europos Komisijos komunikato „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti reaguojant į dabartinį COVID-19 protrūkį, sistema“ su paskutiniais pakeitimais, padarytais 2020 m. spalio 13 d. Europos Komisijos komunikatu (toliau – Komunikatas), 3.8 skirsnį ir 1 ir 2 skyrių nuostatas, Apraše nustatytus reikalavimus, Valstybės pagalbos schemą Nr. SA.58645 (2020/N) „Lietuva. Su COVID-19 susijusių mokslinių tyrimų, eksperimentinės plėtros ir produktų gamybos paramos schema“, patvirtintą 2020 m. spalio 6 d. Europos  Komisijos sprendimu Nr. C(2020) 6944.
+
+Vertinant atitiktį šiam vertinimo aspektui, pildomas Aprašo 2 priedas.
+
+Informacijos šaltiniai: paraiška.
+
+
+4.5.3. projekto finansavimas nereiškia neteisėtos valstybės pagalbos ar de minimis pagalbos suteikimo.
+Netaikoma. 
+
+
+5. Pareiškėjas ir partneris (-iai) organizaciniu požiūriu yra pajėgūs tinkamai ir laiku įgyvendinti teikiamą projektą ir atitinka jam (jiems) keliamus reikalavimus.
+5.1. Pareiškėjas ir partneris (-iai) yra juridiniai asmenys, juridinio asmens filialai, atstovybės  (toliau – juridinis asmuo) arba fiziniai asmenys, kaip nustatyta projektų finansavimo sąlygų apraše.
+
+
+
+5.2. Pareiškėjas ir partneris (-iai) atitinka tinkamų pareiškėjų sąrašą, nustatytą projektų finansavimo sąlygų apraše. 
+
+
+Tinkamų pareiškėjų ir partnerių sąrašas yra nurodytas Aprašo 14 ir 15, 16 punktuose.
+
+Informacijos šaltiniai: paraiška, Juridinių asmenų registro duomenys.
+
+
+5.3. Pareiškėjas ir partneris (-iai) turi teisinį pagrindą užsiimti ta veikla (atlikti funkcijas), kuriai pradėti ir (arba) vykdyti, ir (arba) plėtoti skirtas projektas.
+Informacijos šaltinis – paraiška.
+
+
+5.4. Pareiškėjui ir partneriui (-iams) nėra apribojimų gauti finansavimą:
+5.4.1. pareiškėjui ir partneriui (-iams), kurie yra juridiniai asmenys, nėra iškelta byla dėl bankroto arba restruktūrizavimo, nėra pradėtas ikiteisminis tyrimas dėl ūkinės ir (arba) ekonominės veiklos arba jis (jie) nėra likviduojamas (-i), nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka (ši nuostata netaikoma biudžetinėms įstaigoms) arba pareiškėjui ir partneriui (-iams), kurie yra fiziniai asmenys, nėra iškelta byla dėl bankroto, nėra pradėtas ikiteisminis tyrimas dėl ūkinės ir (arba) ekonominės veiklos;
+5.4.2. paraiškos pateikimo dieną pareiškėjas ir partneris (-iai) galutiniu teismo sprendimu ar galutiniu administraciniu sprendimu nėra pripažinti nevykdančiais pareigų, susijusių su mokesčių ar socialinio draudimo įmokų mokėjimu pagal Lietuvos Respublikos teisės aktus arba pagal kitos valstybės teisės aktus, jei pareiškėjas ir partneris (-iai) yra užsienyje registruoti juridiniai asmenys ar užsienyje gyvenantys fiziniai asmenys (ši nuostata netaikoma įstaigoms, kurių veikla finansuojama iš Lietuvos Respublikos valstybės ir (arba) savivaldybių biudžetų ir (arba) valstybės pinigų fondų, ir pareiškėjams, kuriems Lietuvos Respublikos teisės aktų nustatyta tvarka yra atidėti mokesčių arba socialinio draudimo įmokų mokėjimo terminai);
+5.4.3. paraiškos vertinimo metu pareiškėjas ir partneris (-iai), kurie yra fiziniai asmenys, arba pareiškėjo ir partnerio (-ių), kurie yra juridiniai asmenys, vadovas, pagrindinis akcininkas (turintis daugiau nei 50 proc. akcijų) ar savininkas, ūkinės bendrijos tikrasis narys (-iai) ar mažosios bendrijos atstovas (-ai), turintis (-ys) teisę juridinio asmens vardu sudaryti sandorį, ar buhalteris (-iai), ar kitas (kiti) asmuo (asmenys), turintis (-ys) teisę surašyti ir pasirašyti pareiškėjo apskaitos dokumentus, neturi neišnykusio arba nepanaikinto teistumo arba dėl pareiškėjo ir partnerio (-ių) per paskutinius 5 metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už dalyvavimą bendrininkų grupėje, organizuotoje grupėje, nusikalstamame susivienijime, jų organizavimą ar vadovavimą jiems, teroristinius ir su teroristine veikla susijusius nusikaltimus ar teroristų finansavimą, vaikų darbo ar kitų su prekyba žmonėmis susijusių nusikalstamų veikų, kyšininkavimą, prekybą poveikiu, papirkimą, piktnaudžiavimą, tarnybos pareigų neatlikimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, turtinės žalos padarymą apgaule, turto sunaikinimą ar sugadinimą, neteisėtą praturtėjimą, kontrabandą, muitinės apgaulę, neteisėtą disponavimą akcizais apmokestinamomis prekėmis, neteisėtą prekių ar produkcijos neišvežimą iš Lietuvos Respublikos, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, neteisėtą juridinio asmens veiklą, svetimo prekių ar paslaugų ženklo naudojimą, apgaulingą pareiškimą apie juridinio asmens veiklą, mokesčių nesumokėjimą, kredito, paskolos ar tikslinės paramos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, skolininko nesąžiningumą, nusikalstamą bankrotą, netikros elektroninės mokėjimo priemonės gaminimą, tikros elektroninės mokėjimo priemonės klastojimą ar neteisėtą disponavimą elektronine mokėjimo priemone arba jos duomenimis, neteisėtą elektroninės mokėjimo priemonės ar jos duomenų panaudojimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą ar aplaidų apskaitos tvarkymą, nusikalstamu būdu gauto turto įgijimą ar realizavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, netikrų pinigų ar vertybinių popierių pagaminimą, laikymą arba realizavimą, dokumento suklastojimą ar disponavimą suklastotu dokumentu, antspaudo, spaudo ar blanko suklastojimą, dalyvavimą kokioje nors kitoje neteisėtoje veikloje, kenkiančioje Lietuvos Respublikos ir (arba) ES finansiniams interesams (šis apribojimas netaikomas, jei pareiškėjo arba partnerio (-ių) veikla yra finansuojama iš Lietuvos Respublikos valstybės ir (arba) savivaldybių biudžetų ir (arba) valstybės pinigų fondų, taip pat Europos investicijų fondui ir Europos investicijų bankui); 
+5.4.4. paraiškos vertinimo metu pareiškėjui ir partneriui (-iams), jei jie perkėlė gamybinę veiklą valstybėje narėje arba į kitą valstybę narę, nėra taikoma arba nebuvo taikoma išieškojimo procedūra (ši nuostata nėra taikoma viešiesiems juridiniams asmenims);
+5.4.5. paraiškos vertinimo metu pareiškėjui ir partneriui (-iams) nėra taikomas apribojimas (iki 5 metų) neskirti ES finansinės paramos dėl trečiųjų šalių piliečių nelegalaus įdarbinimo (ši nuostata nėra taikoma viešiesiems juridiniams asmenims);
+5.4.6. paraiškos vertinimo metu pareiškėjui ir partneriui (-iams) nėra taikomas apribojimas gauti finansavimą dėl to, kad per sprendime dėl lėšų grąžinimo nustatytą terminą lėšos nebuvo grąžintos arba grąžinta tik dalis lėšų (šis apribojimas netaikomas įstaigoms, kurių veikla finansuojama iš Lietuvos Respublikos valstybės ir (arba) savivaldybių biudžetų ir (arba) valstybės pinigų fondų, įstaigoms, kurių veiklai finansuoti yra skiriama 2007–2013 metų ES fondų ar  2014–2020 metų ES struktūrinių fondų techninė parama, Europos investicijų fondui ir Europos investicijų bankui);
+5.4.7. paraiškos vertinimo metu pareiškėjas ir partneris (-iai) Juridinių asmenų registrui yra pateikę metinių finansinių ataskaitų rinkinius, taip pat metinių konsoliduotųjų finansinių ataskaitų rinkinius, kaip nustatyta Juridinių asmenų registro nuostatuose, patvirtintuose Lietuvos Respublikos Vyriausybės 2003 m. lapkričio 12 d. nutarimu  Nr. 1407 „Dėl Juridinių asmenų registro įsteigimo ir Juridinių asmenų registro nuostatų patvirtinimo“ (ši nuostata netaikoma, kai pareiškėjas yra fizinis asmuo; ši nuostata taikoma tik tais atvejais, kai finansines ataskaitas būtina rengti pagal įstatymus, taikomus juridiniam asmeniui, užsienio juridiniam asmeniui ar kitai organizacijai). 
+Informacijos šaltiniai: paraiška, Aprašo 52.5 papunktyje nurodyti dokumentai, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos, Juridinių asmenų registro, Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos duomenys, taip pat kita viešajai įstaigai Lietuvos verslo paramos agentūrai (toliau – įgyvendinančioji institucija) prieinama informacija.
+Vertinant atitiktį šiam vertinimo aspektui, vadovaujamasi pareiškėjo pateikta deklaracija.
+Pareiškėjo deklaracijoje pateiktų teiginių dėl atitikties šiam vertinimo aspektui nurodytų apribojimų tikrumas tikrinamas atrankiniu būdu vidaus procedūrų apraše nustatyta tvarka.
+
+
+5.5. Pareiškėjas ir partneris (-iai) turi (gali užtikrinti) pakankamus administravimo gebėjimus vykdyti projektą.
+Informacijos šaltinis – paraiška.
+
+
+5.6. Projekto parengtumas atitinka projektų finansavimo sąlygų apraše nustatytus reikalavimus. 
+Projekto parengtumas turi atitikti reikalavimą,  nustatytą Aprašo 53 punkte.
+
+Informacijos šaltinis – paraiška.
+
+
+5.7. Partnerystė įgyvendinant projektą yra pagrįsta ir teikia naudą. 
+Netaikoma
+
+
+6. Projekto išlaidų finansavimo šaltiniai aiškiai nustatyti ir užtikrinti.
+6.1. Pareiškėjo ir (ar) partnerio (-ių) įnašas atitinka projektų finansavimo sąlygų apraše nustatytus reikalavimus ir yra užtikrintas įnašo finansavimas.
+Pareiškėjas turi prisidėti prie projekto įgyvendinimo Aprašo 39 ir 40 punktuose nurodyta lėšų dalimi.
+
+Informacijos šaltiniai: duomenys tikrinami pagal Juridinių asmenų registro duomenis, pareiškėjo kreditorių ir debitorių sąrašą (nurodomi kreditoriniai ir debitoriniai įsiskolinimai ir sąrašas, sudarytas ne vėliau kaip prieš 30 dienų iki paraiškos pateikimo įgyvendinančiajai institucijai dienos), prognozuojamus pinigų srautus (mėnesiais) projekto įgyvendinimo laikotarpiu, kuriuose pagal projekto tvarkaraštį būtų detalizuoti ir išdėstyti projekto finansavimo šaltiniai, numatomos patirti išlaidos (atsižvelgiant į apmokėjimo sąlygas), įvertintas paramos sumų gavimas ir pan. ir kurie įrodo, kad pareiškėjui pakaks numatytų finansavimo šaltinių nuosavam indėliui finansuoti ir sklandžiam projekto veiklų finansavimui užtikrinti, pagrindžiančius planuojamo pardavimo dokumentus (turimi kontraktai, užsakomieji komerciniai pasiūlymai, užsakymai ir panašiai), planuojamus finansavimo šaltinius (nuosavos lėšos, bankų ir kitų kredito įstaigų, juridinių asmenų paskolos ir kiti šaltiniai); kitus dokumentus, įrodančius pareiškėjo gebėjimus užtikrinti savo veiklos tęstinumą per visą projekto įgyvendinimo laikotarpį ir prisidėti prie projekto finansavimo, Aprašo  68 punkte nurodyti dokumentai.
+
+
+6.2. Užtikrintas netinkamų finansuoti su projektu susijusių išlaidų padengimas.
+Informacijos šaltinis – Aprašo 1 priedo 6.1 papunktyje nurodyti informacijos šaltiniai. 
+
+
+6.3. Užtikrintas finansinis projekto (veiklų) rezultatų tęstinumas. 
+Informacijos šaltinis – paraiška. 
+
+
+6.4. Projektas atitinka Europos investicijų banko nustatytas išlaidų tinkamumo finansuoti sąlygas.
+Informacijos šaltinis – paraiška.
+
+
+7. Užtikrintas efektyvus projektui įgyvendinti reikalingų lėšų panaudojimas.
+7.1. Projekto įgyvendinimo alternatyvos pasirinkimas pagrįstas sąnaudų ir naudos analizės rezultatais: 
+
+
+
+7.1.1. projekto įgyvendinimo alternatyvai (-oms) įvertinti taikomos pajamų, sąnaudų, finansavimo šaltinių, sukuriamos naudos ir kitos prielaidos yra pagrįstos;
+Netaikoma.
+
+
+7.1.2. projekto įgyvendinimo alternatyvai (-oms) įvertinti taikomas vienodas pagrįstos trukmės analizės laikotarpis;
+Netaikoma.
+
+
+7.1.3. projekto įgyvendinimo alternatyvai (-oms) įvertinti taikoma vienoda pagrįsto dydžio diskonto norma;
+Netaikoma.
+
+
+7.1.4. optimali projekto įgyvendinimo alternatyva pasirinkta pagal projekto įgyvendinimo alternatyvų finansinių ir (arba) ekonominių rodiklių (grynosios dabartinės vertės, vidinės grąžos normos, sąnaudų ir naudos santykio) reikšmes;
+Netaikoma.
+
+
+7.1.5. pasirinktai projekto įgyvendinimo alternatyvai realizuoti nėra žinomų teisinių, techninių ir socialinių apribojimų.
+Netaikoma.
+
+
+7.2. Projekto įgyvendinimo alternatyvos pasirinkimas pagrįstas sąnaudų veiksmingumo analizės rodikliu. 
+Netaikoma.
+
+
+7.3. Įvertintos pagrindinės projekto rizikos ir suplanuotos rizikų valdymo priemonės bei joms įgyvendinti reikalingi ištekliai.
+Informacijos šaltinis – paraiška.
+
+
+7.4. Numatytos projekto veiklos atitinka tinkamoms finansuoti veikloms ir jų apimtims nustatytus reikalavimus. Išlaidos atitinka nustatytus reikalavimus ir yra būtinos projektams įgyvendinti. Veiklos ir išlaidos suplanuotos efektyviai ir pagrįstai, įvertinus ir iki paraiškos pateikimo pradėtas ar atliktas viešųjų pirkimų procedūras. Vertinant pareiškėjo ir partnerio (-ių) įgyvendintus ir (arba) įgyvendinamus projektus toms pačioms veikloms ir išlaidoms finansavimas nėra skiriamas pakartotinai.
+Informacijos šaltinis – paraiška.
+
+
+7.5. Pareiškėjas gali įgyvendinti projekto tikslus, veiklas, uždavinius bei pasiekti rezultatus per projekto įgyvendinimo laikotarpį; projekto įgyvendinimo trukmė atitinka projektų finansavimo sąlygų apraše nustatytus reikalavimus.
+Projekto įgyvendinimo trukmė (terminas) turi atitikti Aprašo 21 punkte nustatytą reikalavimą.
+
+Informacijos šaltinis – paraiška.
+
+
+7.6. Projektas atitinka kryžminio finansavimo reikalavimus.
+Netaikoma.
+
+
+
+7.7. Teisingai pritaikyta fiksuotoji projekto išlaidų norma, fiksuotieji projekto išlaidų vieneto įkainiai, fiksuotosios projekto išlaidų sumos ir (ar) apdovanojimai. 
+Netaikoma
+
+
+7.8. Paraiškoje teisingai nurodyta projekto kategorija, iš projekto planuojamos gauti pajamos (taip pat ir grynosios pajamos) teisingai apskaičiuotos ir teisingai nustatytas projektui reikiamo finansavimo dydis, atsižvelgiant į tai, ar įgyvendinant projektą:
+– negaunama pajamų;
+– gaunama pajamų ir jos yra įvertintos iš anksto;
+– gaunama pajamų, bet jų iš anksto neįmanoma apskaičiuoti. 
+Netaikoma.
+
+
+8. Projekto veiklos vykdomos veiksmų programos įgyvendinimo teritorijoje.
+8.1. Projekto veiklos vykdomos Lietuvos Respublikoje arba ne Lietuvos Respublikoje, bet jas vykdant sukurti produktai, gauti rezultatai ir nauda (ar jų dalis, proporcinga Lietuvos Respublikos finansiniam įnašui) atitenka Lietuvos Respublikai (arba ES, kai vykdomos projektų veiklos pagal reglamento (ES) Nr. 1303/2013 9 straipsnio pirmosios pastraipos 1 punktą) ir projektas atitinka bent vieną iš šių sąlygų:
+8.1.1. iš Europos regioninės plėtros fondo ir Sanglaudos fondo bendrai finansuojamo projekto veiklų, vykdomų ne Lietuvos Respublikoje, o ES teritorijoje, išlaidos neviršija procento, nustatyto projektų finansavimo sąlygų apraše; arba pagal projektų finansavimo sąlygų aprašą vykdomos reprezentacijai skirtos veiklos, informavimo, komunikacijos ir ES struktūrinių fondų matomumo didinimo veiklos;
+8.1.2. iš Europos socialinio fondo bendrai finansuojamo projekto veiklos vykdomos: 
+- ES teritorijoje;
+- ne ES teritorijoje, bet tokių veiklų išlaidos neviršija procento, nustatyto projektų finansavimo sąlygų apraše;
+8.1.3. vykdomos techninės paramos projektų veiklos. 
+Projekto veiklų vykdymo teritorija turi atitikti Aprašo 24 punkte nustatytus reikalavimus.
+
+Informacijos šaltinis – paraiška.
+
+
+
+
+GALUTINĖ PROJEKTO ATITIKTIES BENDRIESIEMS REIKALAVIMAMS VERTINIMO IŠVADA:
+
+1)	Paraiška įvertinta teigiamai pagal visus bendruosius reikalavimus ir specialiuosius kriterijus:
+□ Taip                                                  □ Ne                                                              □ Taip su išlyga 
+Komentarai: ____________________________________________________________________
+
+2)	Pareiškėjas nebandė gauti konfidencialios informacijos arba daryti poveikio vertinimą atliekančiai institucijai dabartinio paraiškų vertinimo arba atrankos proceso metu:
+□ Taip, nebandė
+□ Ne, bandė
+Komentarai: ____________________________________________________________________
+(Privaloma pildyti tik atsakius „Ne, bandė“, t. y. nurodomos faktinės aplinkybės.)
+
+3)	Projekto tinkamumo finansuoti vertinimo metu nustatytos projekto tinkamos finansuoti ir tinkamos deklaruoti Europos Komisijai  (toliau – EK) išlaidos:
+
+Bendra projekto vertė (apima ir tinkamas, ir netinkamas išlaidas), Eur
+Didžiausia galima projekto tinkamų finansuoti išlaidų suma:
+Pajamos, mažinančios tinkamų deklaruoti EK išlaidų sumą, Eur
+Tinkamos deklaruoti EK išlaidos
+
+Iš viso, Eur
+Iš jų:
+
+Didžiausia EK tinkamų deklaruoti išlaidų suma, Eur
+Dalis nuo tinkamų finansuoti išlaidų,
+proc.
+
+
+
+Prašomos skirti lėšos – iki, Eur
+Dalis nuo tinkamų finansuoti išlaidų, proc.
+Pareiškėjo ir partnerio (-ių)  nuosavos lėšos, Eur
+Dalis nuo tinkamų finansuoti išlaidų, proc.
+
+
+
+1
+2
+3
+4=(3/2)*100
+5
+6=(5/2)*100
+7
+8
+9=(8/2)*100
+
+
+
+
+
+
+
+
+
+
+Pastabos:
+
+(Šiame laukelyje pagal poreikį gali būti įrašomos papildomos sąlygos, kurias įgyvendinančioji institucija, atsižvelgdama į projekto rizikingumą, siūlo įtraukti į projekto sutartį.) 
+
+
+
+____________________________________                              ______________________	              ___________________________
+(paraiškos vertinimą atlikusios institucijos atsakingo 
+asmens pareigų pavadinimas)                                                                         (data) 	                  (vardas ir pavardė, parašas, jei pildoma popierinė versija)
+
+______________________
+
+2014–2020 metų Europos Sąjungos fondų investicijų 
+veiksmų programos 1 prioriteto „Mokslinių tyrimų, 
+eksperimentinės plėtros ir inovacijų skatinimas“ ir 
+3 prioriteto „Smulkiojo ir vidutinio verslo 
+konkurencingumo skatinimas“ priemonės 
+Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“ 
+projektų finansavimo sąlygų aprašo 
+2 priedas
+
+
+PROJEKTŲ ATITIKTIES VALSTYBĖS PAGALBOS TAISYKLĖMS Patikros lapas
+
+1. Priemonės teisinis pagrindas
+2020 m. kovo 19 d. Europos Komisijos komunikatas „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti reaguojant į dabartinį COVID-19 protrūkį, sistema“ su paskutiniais pakeitimais, padarytais 2020 m. spalio 13 d. Europos Komisijos komunikatu (toliau – Komunikatas Valstybės pagalbos schemą Nr. SA.58645 (2020/N) „Lietuva. Su COVID-19 susijusių mokslinių tyrimų, eksperimentinės plėtros ir produktų gamybos paramos schema“, patvirtintą 2020 m. spalio 6 d. Europos  Komisijos sprendimu Nr. C(2020) 6944.
+
+2. Duomenys apie paraišką / projektą 
+Paraiškos / projekto numeris 
+
+Pareiškėjo / projekto vykdytojo pavadinimas 
+
+Projekto pavadinimas 
+
+
+3. Paraiškos / projekto patikra dėl atitikties Komunikatui ir valstybės pagalbos schemai
+Eil.
+Nr. 
+Klausimai
+Rezultatas
+Pastabos
+3.1.
+Ar projektas atitinka Komunikato ir valstybės pagalbos schemos bendrąsias nuostatas
+□ Taip
+□ Ne
+
+3.2. Kai projektu numatoma vykdyti Aprašo 10 punkte nurodytą veiklą:
+3.2.1.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio        39 punkto a papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 26 punkto nuostatas?
+□ Taip 
+□ Ne 
+
+3.2.2.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto b papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 27 punkto nuostatas?
+□ Taip 
+□ Ne 
+
+3.2.3.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto c papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 28 punkto nuostatas?
+□ Taip
+□ Ne
+
+3.2.4.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto d papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 29 punkto nuostatas?
+□ Taip
+□ Ne
+
+3.2.5.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto e papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 30 ir 31 punkto nuostatas?
+□ Taip
+□ Ne
+
+3.2.6.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto f papunkčio ir valstybės pagalbos schemos 2.6 skirsnio 32 punkto nuostatas?
+□ Taip
+□ Ne
+
+3.2.7.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto g papunkčio ir valstybės pagalbos schemos 2.7 skirsnio 38 punkto nuostatas?
+□ Taip
+□ Ne
+
+3.2.8.
+Ar teikiama valstybės pagalba atitinka Komunikato 3.8 skirsnio  39 punkto i papunkčio ir valstybės pagalbos schemos 2.4 skirsnio 13 punkto nuostatas?
+□ Taip
+□ Ne
+
+
+
+
+
+
+4. Valstybės pagalbos atitikties vertinimas 
+Ar teikiama valstybės pagalba atitinka Komunikato ir valstybės pagalbos schemos nuostatas?
+□ Taip 
+□ Ne 
+
+
+____________________________________ 
+(vertintojas) 
+
+___________ 
+(parašas) 
+
+________ 
+(data) 
+
+Patikros peržiūra: 
+□ Vertintojo išvadai pritarti 
+□ Vertintojo išvadai nepritarti 
+
+Pastabos:_______________________________________________________________________
+
+_____________________________________ 
+(skyriaus vedėjas) 
+____________ 
+(parašas) 
+____________ 
+(data) 
+
+____________________
+
+2014–2020 metų Europos Sąjungos fondų investicijų 
+veiksmų programos 1 prioriteto „Mokslinių tyrimų, 
+eksperimentinės plėtros ir inovacijų skatinimas“ ir 
+3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo 
+skatinimas“ priemonės Nr. 03.3.1-LVPA-T-859 „COVID-19 
+produktai LT“  projektų finansavimo sąlygų aprašo 
+3 priedas
+
+
+INFORMACIJa APIE GAUTĄ VALSTYBĖS PAGALBĄ, KITUS FINANSAVIMO ŠALTINIUS ir DUOMENIS, reikalingus projekto atitikČIAI 2014–2020 METŲ EUROPOS SĄJUNGOS FONDŲ INVESTICIJŲ VEIKSMŲ PROGRAMOS
+3 PRIORITETO „SMULKIOJO IR VIDUTINIO VERSLO KONKURENCINGUMO SKATINIMAS“ PRIEMONĖS NR. 03.3.1-LVPA-T-859 „COVID-19 PRODUKTAI LT“ PROJEKTŲ FINANSAVIMO SĄLYGŲ APRAŠO NUOSTATOMS IR projektų atrankos kriterijams įvertinti
+
+1.	Gauta (planuojama gauti) valstybės pagalba projektui pagal pareiškėją.
+
+Pateikite informaciją apie pareiškėjo per paskutinius 3 metus iki paraiškos finansuoti iš Europos Sąjungos struktūrinių fondų lėšų bendrai finansuojamą projektą (toliau – paraiška) pateikimo gautą ir planuojamą gauti valstybės pagalbą pagal 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. liepos 2 d. Komisijos reglamentu (ES) Nr. 2020/972 (toliau – Bendrasis bendrosios išimties reglamentas), 14 ir 25 straipsnius, de minimis pagalbą ir kitą paramą.
+
+Planuojama gauti pagalbos suma (ne iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijos)
+Gautos pagalbos suma 
+Pagalbos teikėjas
+Pagalbos suteikimo data
+1.1. Regioninė investicinė pagalba pagal Bendrojo bendrosios išimties reglamento 14 straipsnį
+
+
+
+
+1.2. De minimis pagalba, suteikta tinkamoms projekto išlaidoms kompensuoti
+
+
+
+
+1.3 Pagalba moksliniams tyrimams ir technologinės plėtros projektams pagal Bendrojo bendrosios išimties reglamento  25 straipsnį
+
+
+
+
+1.4. Pagalba darant materialiąsias investicijas
+
+
+
+
+1.5. Pagalba darant nematerialiąsias investicijas
+
+
+
+
+1.6. Kita įvairių formų valstybės finansinė parama juridiniams asmenims (valstybės suteiktos garantijos, garantuotų paskolų palūkanų kompensavimas, kita)
+
+
+
+
+
+2.	Kiti Europos Sąjungos, Lietuvos Respublikos ar kiti finansavimo šaltiniai.
+
+2.1. Valstybės pagalbos reglamentas, pagal kurį teikiama paraiška.
+□ Taip
+2020 m. kovo 19 d. Europos Komisijos komunikatas „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti reaguojant į dabartinį COVID-19 protrūkį, sistema“ su paskutiniais pakeitimais, padarytais 2020 m. spalio 13 d. Europos Komisijos komunikatu, Valstybės pagalbos schema Nr. SA.58645 (2020/N) „Lietuva. Su COVID-19 susijusių mokslinių tyrimų, eksperimentinės plėtros ir produktų gamybos paramos schema“, patvirtinta 2020 m. spalio 6 d. Europos  Komisijos sprendimu Nr. C(2020) 6944.
+2.2. Ar buvo pateikta paraiška dėl paramos šiam projektui arba jo daliai iš bet kurio kito Europos Sąjungos, Lietuvos Respublikos ar kitų finansavimo šaltinių (Europos regioninio plėtros fondo (toliau – ERPF), Sanglaudos fondo, kito Europos Sąjungos finansavimo šaltinio, valstybės ar savivaldybės programų, Europos ekonominės erdvės paramos ar panašiai)?
+□ Taip
+Jei taip, prašom išsamiai aprašyti (nurodyti susijusią finansinę priemonę, nuorodų numerius, datas, prašytas sumas, suteiktas sumas ir kita)
+□ Ne
+2.3. Ar šis projektas ar jo dalis papildo kokį nors kitą projektą, kuris jau finansuojamas ar bus finansuojamas iš ERPF, Sanglaudos fondo, kito Europos Sąjungos finansavimo šaltinio, valstybės ar savivaldybės programų, Europos ekonominės erdvės paramos ar panašiai?
+□ Taip
+Jei taip, prašom išsamiai aprašyti (nurodyti tikslius duomenis, nuorodų numerius, datas, prašytas sumas, gautas sumas ir kita) 
+□ Ne
+2.4. Ar buvo pateikta paraiška dėl paramos iš bet kurio kito Europos Sąjungos, Lietuvos Respublikos ar kitų finansavimo šaltinių (ERPF, Sanglaudos fondo, kito Europos Sąjungos finansavimo šaltinio, valstybės ar savivaldybės programų, Europos ekonominės erdvės paramos ar panašiai) ankstesniam šio projekto ar jo dalies etapui (įskaitant galimybių studijos ir parengiamuosius etapus)?
+□ Taip
+Jei taip, prašom išsamiai aprašyti (nurodyti susijusią finansinę priemonę, nuorodų numerius, datas, prašytas sumas, suteiktas sumas ir kita)
+□ Ne
+2.5. Ar pareiškėjui buvo finansuota bet kokia pradinė investicija, dėl kurios būtų tenkinamos Bendrojo bendrosios išimties reglamento 14 straipsnio 13 punkto nuostatos?
+□ Taip
+Jei taip, prašom išsamiai aprašyti (nurodyti susijusią finansinę priemonę, nuorodų numerius, datas, prašytas sumas, suteiktas sumas ir kita)
+□ Ne
+
+3.	Nurodoma informacija, pagrindžianti, kad projektas prisideda prie Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų plano, patvirtinto Lietuvos Respublikos ekonomikos ir inovacijų ministro 2015 m. rugsėjo 2 d. įsakymu Nr. 4-554 „Dėl Investicijų skatinimo ir pramonės plėtros 2014–2020 metų programos veiksmų plano patvirtinimo“ antrojo tikslo „modernizuoti, integruoti ir plėtoti pramonę“ pirmojo uždavinio „skatinti pramonės ir paslaugų įmonių jungimąsi į tinklus ir pramoninį bendradarbiavimą“ konkretaus veiksmo 1.1 „sudaryti palankias sąlygas mažų, labai mažų ir vidutinių įmonių (toliau – MVĮ) investicijoms į inovatyvios gamybos ir (ar) inovatyvių paslaugų verslo pradžią ir plėtrą“ įgyvendinimo (inovacijų (įrangos/įrenginių) diegimo įmonės lygmeniu) (taikoma vertinant projekto atitiktį 2014–2020 metų Europos Sąjungos fondų investicijų veiksmų programos 3 prioriteto „Smulkiojo ir vidutinio verslo konkurencingumo skatinimas“ priemonės Nr. 03.3.1-LVPA-T-859 „COVID-19 produktai LT“ projektų finansavimo sąlygų aprašo (toliau – Aprašas) 18.1 punkto reikalavimams).
+
+Atsakymo vieta Norėdami įvesti tekstą, spustelėkite arba bakstelėkite čia.
+
+4.	Pateikiama informacija, pagrindžianti projekto atitiktį Aprašo 14 ir 18.2 punktų reikalavimams. Pareiškėjo vykdomos veiklos ir projekto veiklos priskiriamos Ekonominės veiklos rūšių klasifikatoriui (EVRK 2 red.), patvirtintam Statistikos departamento prie Lietuvos Respublikos Vyriausybės generalinio direktoriaus 2007 m. spalio 31 d. įsakymu Nr. DĮ-226 „Dėl Ekonominės veiklos rūšių klasifikatoriaus patvirtinimo“ (toliau – EVRK 2 red.) (taikoma vertinant projekto atitiktį Aprašo 14 ir 18.2 punktų reikalavimams). 
+
+Pareiškėjo vykdoma veikla (-os) pagal EVRK 2 red. 
+Veiklos pagal EVRK 2 red.
+2017 m.
+pajamos
+2018 m. 
+pajamos
+2019 m.
+pajamos
+
+Veikla Nr. 1
+
+
+
+
+Veikla Nr. 2
+
+
+
+
+Veikla Nr. n
+
+
+
+Pareiškėjo metinės pajamos iš jo paties pagamintos produkcijos, Eur. 
+
+
+
+
+
+5.	Pateikiama informacija, pagrindžianti, kad projekto metu planuojami gaminti produktai yra skirti kovai su COVID-19 (taikoma vertinant projekto atitiktį Aprašo 18.3 punkto reikalavimams).
+
+a)	Gaminamas ar planuojamas gaminti produktas (-ai) ir pagrindimas, kad produktas yra skirtas kovai su COVID-19:
+
+Eil. Nr.
+Produktas (įvardijamas konkretus gaminamas produktas)
+Produktų grupė pagal Aprašo 10 punktą (pasirenkama viena iš keturių nurodytų grupių):
+1) atitinkami vaistiniai preparatai (įskaitant vakcinas) ir gydymo priemonės, jų tarpiniai produktai, vaistų veikliosios medžiagos ir žaliavos; 
+2) medicinos priemonės, ligoninių ir medicinos reikmenys (įskaitant ventiliatorius, apsauginius drabužius bei priemones, taip pat diagnostikos priemones) ir būtinos žaliavos; 
+3) dezinfekavimo priemonės ir jų tarpiniai produktai bei jų gamybai būtinos cheminės žaliavos;
+4) duomenų rinkimo ir (arba) tvarkymo priemonės, skirtos kovai su COVID-19.
+Pagrindimas, kad produktas skirtas kovai su COVID-19
+
+
+
+
+
+
+
+
+
+b)	Informacija, kokių rezultatų numatoma pasiekti įgyvendinus projektą (gamybos mastas, platinimo kanalai ir kt.).
+
+Atsakymo vieta Norėdami įvesti tekstą, spustelėkite arba bakstelėkite čia.
+
+c)	Ar numatomai vykdyti veiklai yra būtinas leidimas, licencija ar veiklos atestatas. Jei taip, prašom nurodyti, koks ir ar jį turite, jei ne – kada planuojate gauti.
+
+Atsakymo vieta Norėdami įvesti tekstą, spustelėkite arba bakstelėkite čia.
+
+d)	Informacija, reikalinga projekto biudžeto pagrįstumui įvertinti, ar įgyvendinant projektą planuojama įsigyti įranga, įrenginiai ir kitas turtas yra skirti produktų, skirtų kovai su COVID-19, gamybai:
+
+Eil. Nr.
+Įranga, įrenginys, kitas turtas
+Kaina, Eur be PVM 
+Komercinis pasiūlymas (tiekėjas, data) ir (arba) sutartis (sutartis, jei įranga nusipirkta)
+Įrangos funkcijos (aprašoma, kaip įranga naudojama tam tikro produkto gamybos procese) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.	 Informacija, reikalinga rezultato stebėsenos rodikliui „Investicijas gavusios įmonės pajamų padidėjimas“, kodas R.N.805, skaičiuoti
+
+
+Paraiškos pateikimo metai
+N (projekto įgyvendinimo pabaigos metai)
+N+1
+N+2
+N+3
+
+(2019 m.)
+(202X  m.)
+(202X m.)
+(202X m.)
+(202X m.)
+Pajamos (Eur)
+
+
+
+
+
+Pajamų pokyčio reikšmė (sukauptoji) (Eur)
+0,00
+Stebėsenos rodiklio „Investicijas gavusios įmonės pajamų padidėjimas“ reikšmė (proc.)
+0,00
+Prielaidos pajamų prognozei:
+
+Atsakymo vieta Norėdami įvesti tekstą, spustelėkite arba bakstelėkite čia.
+
+
+7.	Pareiškėjas patvirtina, kad įsipareigoja investavimą užbaigti per 2 mėnesius nuo pagalbos suteikimo dienos ir sutinka, kad bazinė finansuojamoji dalis yra padidinta 15 procentinių punktų. Pareiškėjas patvirtina, kad supranta ir sutinka, kad investavimo neužbaigus per 2 mėnesius nuo pagalbos suteikimo dienos, bazinė finansuojamoji dalis nebus padidinta 15 procentinių punktų.
+
+Įsipareigoju investavimą užbaigti per 2 mėnesius nuo pagalbos suteikimo dienos ir sutinku, kad bazinė finansuojamoji dalis yra padidinta 15 procentinių punktų. Suprantu ir sutinku, kad investavimo neužbaigus per 2 mėnesius nuo pagalbos suteikimo dienos, bazinė finansuojamoji dalis nebus padidinta 15 procentinių punktų.
+□Įsipareigoju ir sutinku
+
+
+
+(Jei įsipareigojama ir sutinkama, žymima „Įsipareigoju ir sutinku <pareigos, vardas, pavardė, parašas>“)
+
+8.	Pareiškėjas patvirtina, kad jam nėra taikoma kolektyvinė nemokumo procedūra, ir nėra suteikta sanavimo ir restruktūrizavimo pagalba (taikoma tik labai mažoms ir mažoms įmonėms).
+
+Patvirtinu, kad mano atstovaujamai labai mažai ir (arba) mažai įmonei nėra taikoma kolektyvinė nemokumo procedūra, ir nėra suteikta sanavimo ir restruktūrizavimo pagalba
+□ Patvirtinu
+
+
+(Jei patvirtinama, žymima „Patvirtinu <pareigos, vardas, pavardė, parašas>“)
+
+
+___________________

@@ -1,0 +1,214 @@
+﻿Verordnung
+über das Proximity-Tracing-System für das Coronavirus
+Sars-CoV-2
+(VPTS)
+vom 24. Juni 2020 (Stand am 25. Juni 2020)
+Der Schweizerische Bundesrat,
+gestützt auf Artikel 60a Absatz 7 des Epidemiengesetzes vom 28. September 2012* 1
+(EpG),
+verordnet:
+Art. 1 Gegenstand
+Diese Verordnung regelt die Einzelheiten der Organisation, des Betriebs und der
+Datenbearbeitung des Proximity-Tracing-Systems für das Coronavirus Sars-CoV-2
+nach Artikel 60a EpG (PT-System).
+Art. 2 Aufbau
+1	Das PT-System umfasst folgende Komponenten:
+a.	ein System zur Verwaltung von Annäherungsdaten (VA-System), bestehend
+aus einer Software, die von den teilnehmenden Personen auf ihren Mobilte-
+lefonen installiert wird (SwissCovid-App), und einem Backend (VA-
+Backend);
+b.	ein System zur Verwaltung von Codes zur Freischaltung der Benachrichti-
+gungen (Codeverwaltungssystem), bestehend aus einem webbasierten Front-
+end und einem Backend.
+2	Das VA-Backend und das Codeverwaltungssystem werden als zentrale Server vom
+Bundesamt für Gesundheit (BAG) betrieben.
+Art. 3 Freiwilligkeit
+1	Die Installation und der Einsatz der SwissCovid-App sind freiwillig.
+2	Die Benachrichtigung der teilnehmenden Personen, die potenziell dem Coronavi-
+rus ausgesetzt waren, erfolgt nur mit der ausdrücklichen Einwilligung der infizierten
+Person.
+AS 2020 2553
+1 SR 818.101
+1
+818.101.25
+Krankheitsbekämpfung
+Art. 4	Verantwortliches Bundesorgan
+Das BAG ist für alle Komponenten des PT-Systems das datenschutzrechtlich ver-
+antwortliche Bundesorgan.
+Art. 5	Funktionsweise im Grundbetrieb
+1	Das VA-Backend stellt im Grundbetrieb den SwissCovid-Apps seinen Inhalt im
+Abrufverfahren zur Verfügung. Dieser besteht aus einer Liste mit folgenden Daten:
+a.	den privaten Schlüsseln der infizierten teilnehmenden Personen, die in dem
+Zeitraum aktuell waren, in dem andere teilnehmende Personen potenziell
+dem Coronavirus ausgesetzt waren (relevanter Zeitraum);
+b.	dem Datum jedes Schlüssels.
+2	Die SwissCovid-App erfüllt unter Verwendung einer Schnittstelle zum Betriebs-
+system des Mobiltelefons folgende Funktionen:
+a.	Sie generiert mindestens jeden Tag einen neuen privaten Schlüssel, der keine
+Rückschlüsse auf die SwissCovid-App, das Mobiltelefon und die teilneh-
+mende Person ermöglicht.
+b.	Sie tauscht einen mindestens halbstündlich wechselnden Identifizierungs-
+code mit allen kompatiblen Apps innerhalb der Reichweite von Bluetooth
+aus; der Identifizierungscode wird aus dem aktuellen privaten Schlüssel ab-
+geleitet, kann aber nicht auf diesen Schlüssel zurückgeführt werden und er-
+möglicht keine Rückschlüsse auf die SwissCovid-App, das Mobiltelefon und
+die teilnehmende Person.
+c.	Die SwissCovid-App speichert die empfangenen Identifizierungscodes, die
+Signalstärke, das Datum und die geschätzte Dauer der Annäherung.
+d.	Sie ruft vom VA-Backend periodisch die Liste der privaten Schlüssel der
+infizierten teilnehmenden Personen ab und prüft, ob ihre lokal gespeicherten
+Identifizierungscodes mit einem privaten Schlüssel der Liste generiert wur-
+den.
+e.	Stellt sie fest, dass mindestens ein lokal gespeicherter Identifizierungscode
+mit einem privaten Schlüssel der Liste generiert wurde, und sind die Annä-
+herungsbedingungen nach dem Anhang erfüllt, so gibt die App die Benach-
+richtigung aus; der Abstand der Annäherung wird anhand der Stärke der
+empfangenen Signale geschätzt.
+3	Die über die Schnittstelle genutzten Funktionen der Betriebssysteme müssen die
+Vorgaben von Artikel 60a EpG und dieser Verordnung erfüllen; davon ausgenom-
+men ist die Regelung betreffend den Quellcode nach Artikel 60a Absatz 5 Buchsta-
+be e EpG. Das BAG vergewissert sich, dass diese Vorgaben eingehalten werden,
+insbesondere indem es entsprechende Zusicherungen einholt.
+4	Das Eidgenössische Departement des Innern (EDI) führt den Anhang entsprechend
+dem aktuellen Stand der Wissenschaften nach.
+2
+Proximity-Tracing-System für das Coronavirus Sars-CoV-2. V
+818.101.25
+Art. 6	Funktionsweise nach einer Infektion
+1	Ist eine Infektion nachgewiesen, so generiert die zugriffsberechtigte Fachperson im
+Codeverwaltungssystem einen einmaligen und zeitlich begrenzt gültigen Freischalt-
+code. Zusätzlich erfasst sie im Codeverwaltungssystem das Datum des Auftretens
+der ersten Symptome oder, falls die infizierte Person keine Symptome zeigt, das
+Testdatum.
+2	Die Fachperson gibt den Freischaltcode der infizierten Person bekannt. Diese kann
+den Freischaltcode in ihre SwissCovid-App eingeben.
+3	Das Codeverwaltungs-Backend bestätigt gegenüber der SwissCovid-App die
+Gültigkeit des eingegebenen Codes. Vom Datum, das die Fachperson eingegeben
+hat, zieht es zwei Tage ab. Das resultierende Datum gilt als Beginn des relevanten
+Zeitraums. Das Codeverwaltungs-Backend übermittelt dieses Datum der SwissCo-
+vid-App der infizierten Person.
+4	Die SwissCovid-App der infizierten Person übermittelt dem VA-Backend die
+privaten Schlüssel, die im relevanten Zeitraum aktuell waren, mit dem jeweiligen
+Datum.
+5	Das VA-Backend setzt die erhaltenen privaten Schlüssel mit ihrem jeweiligen
+Datum auf seine Liste.
+6	Die SwissCovid-App erzeugt nach der Übermittlung der privaten Schlüssel einen
+neuen privaten Schlüssel. Von diesem kann nicht auf frühere private Schlüssel
+zurückgeschlossen werden.
+Art. 7 Inhalt der Benachrichtigung
+1	Die Benachrichtigung umfasst:
+a.	die Information, dass die teilnehmende Person potenziell dem Coronavirus
+ausgesetzt war;
+b.	die Angabe, an welchem Tag dies zum letzten Mal der Fall war;
+c.	den Hinweis, dass das BAG eine Infoline zur kostenlosen Beratung betreibt;
+d.	Verhaltensempfehlungen des BAG.
+2	Das PT-System erteilt den teilnehmenden Personen keine Anweisungen.
+Art. 8 Inhalt des Codeverwaltungssystems
+1 Das Codeverwaltungssystem enthält folgende Daten:
+a. die Freischaltcodes;
+b. das Datum, an dem die ersten Symptome aufgetreten sind, oder, falls die in-
+fizierte Person keine Symptome zeigt, das Testdatum;
+c.	den Zeitpunkt der Vernichtung der Daten nach den Buchstaben a und b.
+2 Diese Daten lassen keine Rückschlüsse auf die teilnehmenden Personen zu.
+3
+818.101.25
+Krankheitsbekämpfung
+Art. 9 Zugriffsberechtigungen auf das Codeverwaltungssystem
+1 Den Freischaltcode können folgende Personen ausgeben:
+a. Kantonsärztinnen und Kantonsärzte;
+b. der Oberfeldarzt der Armee;
+c.	andere Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste oder
+des militärärztlichen Dienstes der Armee;
+d.	die von den kantonsärztlichen Diensten oder vom militärärztlichen Dienst
+der Armee beauftragten Dritten;
+e.	die behandelnde Ärztin oder der behandelnde Arzt und deren Hilfspersonen.
+2 Die Anmeldung im Codeverwaltungssystem erfolgt über das zentrale Zugriffs- und
+Berechtigungssystem der Bundesverwaltung für Webapplikationen. Die Bestim-
+mungen der Verordnung vom 19. Oktober 20162 über Identitätsverwaltungs-
+Systeme und Verzeichnisdienste des Bundes sind anwendbar.
+3	Das BAG erteilt und verwaltet die Zugriffsrechte für das Codeverwaltungssystem.
+Es kann die Kantonsärztinnen und Kantonsärzte sowie den Oberfeldarzt der Armee
+oder einzelne ihrer Hilfspersonen dazu berechtigen, die Zugriffsrechte an Hilfsper-
+sonen zu vergeben.
+Art. 10 Leistungen Dritter
+1 Das BAG kann Dritte beauftragen, den SwissCovid-Apps die Liste der für die
+Benachrichtigungen erforderlichen Daten im Abrufverfahren zur Verfügung zu
+stellen.
+2 Es kann die Vergabe der Zugriffsberechtigungen auf das Codeverwaltungssystem
+an Dritte übertragen. Der beauftragte Dritte muss Gewähr für eine zuverlässige und
+rechtlich korrekte Überprüfung der Berechtigung der Fachpersonen bieten.
+3	Die Dritten müssen vertraglich verpflichtet sein, die Vorgaben nach Arti-
+kel 60a EpG und dieser Verordnung einzuhalten; davon ausgenommen ist die Rege-
+lung betreffend den Quellcode nach Artikel 60a Absatz 5 Buchstabe e EpG. Das
+BAG kontrolliert die Einhaltung der Vorgaben.
+Art. 11 Protokoll über Zugriffe
+1 Auf die Speicherung und die Auswertung der Protokolle über die Zugriffe auf das
+VA-Backend und das Codeverwaltungssystem sowie die Liste nach Artikel 10
+Absatz 1 sind die Artikel 57i-57q des Regierungs- und Verwaltungsorganisationsge-
+setzes vom 21. März 19973 und die Verordnung vom 22. Februar 20124 über die
+Bearbeitung von Personendaten, die bei der Nutzung der elektronischen Infrastruk-
+tur des Bundes anfallen, anwendbar.
+2	SR 172.010.59
+3	SR 172.010
+4	SR 172.010.442
+4
+Proximity-Tracing-System für das Coronavirus Sars-CoV-2. V
+818.101.25
+2 Über diese Protokolle und die Aufzeichnung von Annäherungen hinaus zeichnet
+das PT-System keine Protokolle von Aktivitäten des Frontends des Codeverwal-
+tungssystems und der SwissCovid-Apps auf.
+Art. 12 Bekanntgabe zu Statistikzwecken
+Das BAG stellt dem Bundesamt für Statistik (BFS) periodisch den aktuellen Bestand
+der in den beiden Backends vorhandenen Daten in vollständig anonymisierter Form
+für statistische Auswertungen zur Verfügung.
+Art. 13	Vernichtung der Daten
+1 Die Daten des VA-Systems werden sowohl auf den Mobiltelefonen als auch im
+VA-Backend 14 Tage nach ihrer Erfassung vernichtet.
+2 Die Daten des Codeverwaltungssystems werden 24 Stunden nach ihrer Erfassung
+vernichtet.
+3	Die Protokolldaten von nach Artikel 10 Absatz 1 beauftragten Dritten werden 7
+Tage nach ihrer Erfassung vernichtet.
+4	Im Übrigen richtet sich die Vernichtung der Protokolldaten nach Artikel 4 Ab-
+satz 1 Buchstabe b der Verordnung vom 22. Februar 20125 über die Bearbeitung von
+Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes
+anfallen.
+5	Die dem BFS zur Verfügung gestellten Daten werden ebenfalls gemäss diesem
+Artikel vernichtet.
+Art. 14 Überprüfung des Quellcodes
+1 Das BAG veröffentlicht die Daten, die dazu dienen, zu überprüfen, ob die maschi-
+nenlesbaren Programme aller Komponenten des PT-Systems aus dem veröffentlich-
+ten Quellcode erstellt worden sind.
+2 Es nimmt die Überprüfung auch selber vor.
+Art. 15	Deaktivierung der SwissCovid-App und Berichterstattung
+1 Beim Ausserkrafttreten dieser Verordnung deaktiviert das BAG die SwissCovid-
+App und fordert die teilnehmenden Personen auf, die SwissCovid-App auf dem
+Mobiltelefon zu deinstallieren.
+2 Bis spätestens sechs Monate nach dem Ausserkrafttreten erstattet das BAG dem
+Bundesrat Bericht.
+5 SR 172.010.442
+5
+818.101.25
+Krankheitsbekämpfung
+Art. 16 Aufhebung eines anderen Erlasses
+Die Covid-19-Verordnung Pilotversuch Proximity-Tracing vom 13. Mai 20206 wird
+aufgehoben.
+Art. 17	Inkrafttreten und Geltungsdauer
+Diese Verordnung tritt am 25. Juni 2020 um 00.00 Uhr in Kraft und gilt bis zum
+30. Juni 2022.
+6 [AS 2020 1589]
+6
+Proximity-Tracing-System für das Coronavirus Sars-CoV-2. V
+818.101.25
+Anhang
+(Art. 5 Abs. 2 Bst. e und 4)
+Epidemiologische Annäherungsbedingungen
+Die epidemiologischen Annäherungsbedingungen sind erfüllt, wenn die folgenden
+Voraussetzungen erfüllt sind:
+a. Es bestand zu mindestens einem Mobiltelefon einer infizierten teilnehmen-
+den Person eine räumliche Annäherung von 1,5 Metern oder weniger.
+b. Die Summe der Dauer aller Annäherungen nach Buchstabe a innerhalb eines
+Tages erreicht oder übersteigt fünfzehn Minuten.
+7
+818.101.25
+Krankheitsbekämpfung
+8

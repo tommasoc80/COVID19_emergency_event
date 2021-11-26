@@ -1,0 +1,103 @@
+PUBLIC HEALTH
+
+The Personal Protective Equipment (Temporary Arrangements) (Coronavirus) (Scotland) Regulations 2021
+Approved by the Scottish Parliament
+
+Madeat 11.23 a.m. on 28th January 2021
+Laid before the Scottish Parliamentat 2.30 p.m. on 28th January 2021
+Coming into force1st February 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 1(1) of schedule 19 of the Coronavirus Act 2020(1) (“the Act”) and all other powers enabling them to do so.
+
+These Regulations are made in response to the serious and imminent threat to public health which is posed by the incidence and spread of coronavirus in Scotland.
+
+The Scottish Ministers consider that the restrictions and requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
+
+In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, resolution of the Scottish Parliament.
+
+Citation, commencement, application and interpretation
+1.—(1) These Regulations may be cited as the Personal Protective Equipment (Temporary Arrangements) (Coronavirus) (Scotland) Regulations 2021 and come into force on 1 February 2021.
+
+(2) These Regulations apply in Scotland.
+
+(3) In these Regulations—
+
+“the 2018 Regulations” means the Personal Protective Equipment (Enforcement) Regulations 2018(2),“Covid PPE” means PPE that—
+(a)is necessary for protection against the coronavirus disease, and
+(b)requires conformity assessment by an approved body in accordance with Article 19 of the PPE Regulation,
+“CE marking” has the meaning given to it in Article 3(18) of Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive 89/686/EEC(3) (as it has effect in EU law),“EHSR” means the essential health and safety requirements applicable to the Covid PPE as set out in Annex 2 to the PPE Regulation,“the HSE” means the Health and Safety Executive(4),“notified body” means a conformity assessment body that is not an approved body, that has been assigned an identification number under Article 29 of Regulation 2016/425 (as it has effect in EU law),“the PPE Regulation” means Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive 89/686/EEC(5).
+(4) Expressions in these Regulations which are not defined in paragraph (3) and which appear in the PPE Regulation have the same meaning in these Regulations as they have in the PPE Regulation.
+
+Temporary arrangements for the making available of Covid PPE
+2.—(1) This regulation applies to Covid PPE only.
+
+(2) Notwithstanding the requirements of Articles 8(2), 10(2) and 11(2) of the PPE Regulation, where the conditions set out in paragraph (3) are met, Covid PPE may be made available on the market by a relevant economic operator before—
+
+(a)the applicable conformity assessment procedure has been carried out, and
+(b)the UK marking has been affixed.
+(3) The conditions referred to in paragraph (2) are that before an economic operator makes the Covid PPE available—
+
+(a)the Covid PPE has been submitted for conformity assessment to an approved body, and
+(b)after the Covid PPE has been submitted to an approved body, the HSE—
+(i)has assessed the Covid PPE as compliant with the EHSR relevant to the assessment process, and
+(ii)has notified an economic operator at any time before 1 April 2021 of the assessment that the Covid PPE is compliant with the EHSR against which it has been assessed.
+(4) Where an economic operator relies on regulation 2A of the 2018 Regulations and submits Covid PPE to a notified body, a reference in this regulation to—
+
+(a)the UK marking is to be read as a reference to the CE marking,
+(b)an approved body is to be read as a reference to a notified body.
+Temporary arrangements for the making available of Covid PPE for healthcare and other frontline workers
+3.—(1) This regulation applies to Covid PPE only.
+
+(2) Notwithstanding the requirements of Articles 8(2), 10(2) and 11(2) of the PPE Regulation, where the conditions set out in paragraph (3) are met, Covid PPE may be made available by a relevant economic operator for the use of healthcare and other frontline workers, without—
+
+(a)the applicable conformity assessment procedure having been carried out, and
+(b)the UK marking having been affixed.
+(3) The conditions referred to in paragraph (2) are that before an economic operator makes the Covid PPE available—
+
+(a)the Covid PPE has been purchased by the Scottish Ministers or a health service body for use in the health service or other frontline services, and
+(b)the HSE—
+(i)has assessed the Covid PPE as compliant with the EHSR relevant to the assessment process, and
+(ii)has notified an economic operator at any time before 1 July 2021 of the assessment that the Covid PPE is compliant with the EHSR against which it has been assessed.
+(4) In this regulation—
+
+“healthcare worker” means an individual working as part of the health service continued under section 1(1) of the National Health Service (Scotland) Act 1978(6),“a health service body” means a body listed in section 17A(2)(a) to (e) of the National Health Service (Scotland) Act 1978(7),“other frontline services” means the provision of social care and community or residential drug and alcohol services,“other frontline workers” means any individual working in other frontline services,“social care” includes all forms of personal care and other practical assistance provided for individuals who are by reason of age, illness, disability, pregnancy, childbirth, dependence on alcohol or drugs, or any other similar circumstances, are in need of such care or other assistance.
+Enforcement
+4.—(1) Where an economic operator has made Covid PPE available in reliance on regulations 2 or 3, the economic operator will not be treated as having contravened the requirements and obligations set out in Articles 8(2), 10(2) or 11(2) of the PPE Regulation for the purposes of regulation 7(1) of the 2018 Regulations if—
+
+(a)the applicable conformity assessment procedure has not been completed in relation to the Covid PPE, or
+(b)the UK marking has not been affixed to the Covid PPE.
+(2) Paragraph (3) applies where an economic operator has made Covid PPE available in reliance on regulation 3 and—
+
+(a)the applicable conformity assessment procedure has not been completed in relation to the Covid PPE, or
+(b)the Covid PPE does not bear the UK marking.
+(3) Where this paragraph apples, a failure by an economic operator to take the action required under Article 41(1)(b), (c) and (d) of the PPE Regulation will not be treated as non-compliance with the PPE Regulation and the economic operator will not be guilty of an offence for the purposes of regulation 7(3) of the 2018 Regulations.
+
+(4) Where PPE has been assessed by the HSE before IP completion day, pursuant to the Commission Recommendation (EU) 2020/403 of 13 March 2020 on conformity assessment and market surveillance procedures within the context of the COVID-19 threat(8), these Regulations do not affect the validity of that HSE assessment.
+
+JEANE FREEMANA member of the Scottish Government
+St Andrew’s House,
+
+Edinburgh
+
+At 11.23 a.m. on 28th January 2021
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations are made by the Scottish Ministers in exercise of the powers conferred by paragraph 1 of schedule 19 of the Coronavirus Act 2020. The Regulations are made in order to implement temporary arrangements to facilitate the production and supply of PPE necessary for use during the COVID-19 crisis. These arrangements are similar to the proposals in the European Commission’s Recommendation 2020/403 of 13 March 2020 on conformity assessment and market surveillance procedures within the context of the COVID-19 threat.
+
+Regulation 2 permits PPE to be placed on the market while it is undergoing conformity assessment procedures but before these have been completed and before any conformity marking has been affixed.
+
+Regulation 3 permits PPE to be procured without undergoing conformity assessment procedures and without any conformity marking being affixed but this PPE must only be made available to healthcare workers and other frontline workers.
+
+In both cases, the PPE must have been assessed by the HSE and found to be compliant with the relevant elements of the essential health and safety requirements in Annex 2 of Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council Directive 89/686/EEC (as amended and retained in UK law). Where the conditions are met, the obligations in Regulation 2016/425 will be treated as satisfied for the purposes of the Personal Protective Equipment (Enforcement) Regulations 2018 and in respect of PPE for healthcare workers and other frontline workers, the market surveillance authority will not require the non-compliance to be brought to an end. This is solely in cases where the conformity assessment procedure has not been completed and the conformity mark has not been affixed due to reliance on regulation 2 or 3 of these Regulations.
+
+No Business and Regulatory Impact Assessment has been prepared in relation to these Regulations as no significant impact upon business, charities or voluntary bodies is foreseen.
+
+(1)2020 c.7.
+(2)S.I. 2018/390, as relevantly amended, with effect from IP completion day, by S.I. 2019/696.
+(3)OJ L 81, 31.3.2016, p.51.
+(4)The HSE was established by section 10 of the Health and Safety at Work etc. Act 1974 (c.37).
+(5)EUR 2016/425, as amended with effect from IP completion day by S.I. 2019/696. S.I. 2019/696 was amended by S.I. 2019/1246 and S.I. 2020/852.
+(6)1978 c.29.
+(7)Section 17A is relevantly amended by paragraph 46(a)(i) of schedule 4, and schedule 5, of the Health Act 1999 (c.8), paragraph 8 of schedule 17 of the Public Services Reform (Scotland) Act 2010 (asp 8), and paragraph 2(3)(a) of schedule 21 of the Health and Social Care Act 2012 (c.7).
+(8)OJ L 79I, 16.3.2020, p.1.

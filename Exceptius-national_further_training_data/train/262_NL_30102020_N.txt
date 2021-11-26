@@ -1,0 +1,2334 @@
+Regeling van de Minister voor Medische Zorg van 23 oktober 2020, kenmerk 1768679-212956-CZ, houdende regels voor verstrekking van een tijdelijke subsidie ten behoeve van de opschaling van de curatieve zorg voor COVID-19 patiënten (Subsidieregeling opschaling curatieve zorg COVID-19)
+De Minister voor Medische Zorg,
+
+Gelet op artikel 3 van de Kaderwet VWS-subsidies;
+
+Besluit:
+
+Artikel 1. Begripsbepalingen
+In deze regeling wordt verstaan onder:
+
+accountant:
+accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;
+
+bouwkundige aanpassingen:
+het plaatsen, aanbrengen of veranderen van een bouwwerk, ten behoeve van opschalingsfase 1, opschalingsfase 2 of opschalingsfase 3 waarbij geen wijzigingen aan het fysieke bouwvolume, aan zijgevels, achtergevels en daken worden toegepast;
+
+bouwwerk:
+elke constructie van enige omvang van hout, steen, metaal of ander materiaal, die op de plaats van bestemming hetzij direct, hetzij indirect steun vindt in de grond, bedoeld om ter plaatste te functioneren;
+
+comité bouwkundige aanpassingen:
+extern comité van onafhankelijke deskundigen dat de minister adviseert over de noodzakelijkheid van bouwkundige aanpassingen, waarvan de werkwijze is opgenomen in bijlage III;
+
+COVID-19 crisisvoorraad geneesmiddelen:
+voorraad van geneesmiddelen per ziekenhuis die het LCG als noodzakelijk beschouwt bij de behandeling van COVID-19 patiënten;
+
+COVID-19 patiënt:
+een persoon bij wie de infectieziekte SARS-CoV-2 is vastgesteld of een persoon bij wie de verdenking bestaat van een besmetting met de infectieziekte SARS-CoV-2;
+
+gerealiseerd flexibel IC-bed:
+IC-bed geschikt voor IC-zorg en aanwezig in de instelling, inclusief beschikbaarheid van bijbehorende voorzieningen om IC-zorg te kunnen verlenen en een plan waar dit bed geplaatst kan worden bij een piekbelasting;
+
+gerealiseerd vast IC-bed:
+IC-bed dat fysiek aanwezig is in de instelling, inclusief bijbehorende voorzieningen en 5 fte personeel, dat direct voor zorg inzetbaar is;
+
+IC:
+Intensive Care;
+
+IC-bed:
+een bed met bijbehorende voorzieningen en personeel op een intensieve zorgafdeling van een instelling, zijnde een:
+
+1°regulier IC-bed in opschalingsfase 1;
+
+2°vast IC-bed in opschalingsfase 2; of
+
+3°flexibel IC-bed in opschalingsfase 3;
+
+instelling:
+een in bijlage I opgenomen zorginstelling;
+
+klinisch bed:
+een bed met bijbehorende voorzieningen en personeel op een klinische afdeling van een instelling, zijnde een
+
+1°vast klinisch bed in opschalingsfase 2; of
+
+2°flexibel klinisch bed in opschalingsfase 3;
+
+koud bed:
+een beschikbaar IC-bed of klinisch bed dat wordt vrijgehouden voor een COVID-19 patiënt;
+
+LCG:
+Landelijk Coördinatiecentrum Geneesmiddelen;
+
+LCPS:
+Landelijk Coördinatiecentrum Patiënten Spreiding;
+
+LNAZ:
+Landelijk Netwerk Acute Zorg;
+
+materiële kosten:
+kosten voor materiaal behorende bij een IC-bed of een klinisch bed, waaronder kosten voor bloed, kunst- en hulpmiddelen, implantaten en geneesmiddelen, niet zijnde geneesmiddelen die behoren tot de COVID-19 crisisvoorraad geneesmiddelen;
+
+medische inventaris:
+patiëntgericht meubilair en patiëntgerichte apparatuur;
+
+minister:
+Minister voor Medische Zorg;
+
+opleidingsactiviteiten:
+activiteiten ten behoeve van opleiden, leren en ontwikkelen die noodzakelijk zijn voor het realiseren van opschalingsfase 1, opschalingsfase 2 en opschalingsfase 3;
+
+opschalingsfase 1:
+de opschaling tot een totaal van 1.150 structurele IC-bedden ten behoeve van zowel non-COVID-19 patiënten als COVID-19 patiënten;
+
+opschalingsfase 2:
+de opschaling met 200 vaste koude IC-bedden en 400 vaste klinische bedden ten behoeve van uitsluitend COVID-19-patiënten, waarmee het totaal aantal IC-bedden in Nederland op 1.350 komt;
+
+opschalingsfase 3:
+de opschaling met 350 flexibele koude IC-bedden en 700 flexibele klinische bedden ten behoeve van uitsluitend COVID-19 patiënten, waarmee het totaal aantal IC-bedden in Nederland op 1.700 komt;
+
+ROAZ:
+Regionaal Overleg Acute Zorgketen;
+
+warm bed:
+een IC-bed of klinisch bed dat wordt bezet door een patiënt.
+
+Artikel 2. Toepasselijkheid Kaderregeling
+Op deze regeling is de Kaderregeling subsidies OCW, SZW en VWS niet van toepassing.
+
+Artikel 3. Subsidiabele activiteiten
+De minister kan aan een instelling op aanvraag een subsidie verstrekken voor:
+
+a.bouwkundige aanpassingen ten behoeve van opschalingsfase 1 tot en met opschalingsfase 3;
+
+b.medische inventaris ten behoeve van opschalingsfase 1 tot en met opschalingsfase 3;
+
+c.de aanleg van de COVID-19 crisisvoorraad geneesmiddelen ten behoeve van opschalingsfase 2 en opschalingsfase 3;
+
+d.opleidingsactiviteiten ten behoeve van opschalingsfase 1;
+
+e.activiteiten in de vorm van de uitbreiding en het beschikbaar houden van koude IC-bedden en klinische bedden ten behoeve van opschalingsfase 2;
+
+f.activiteiten in de vorm van de uitbreiding en het beschikbaar houden van koude IC-bedden en klinische bedden ten behoeve van opschalingsfase 3; en
+
+g.activiteiten ten behoeve van een warm bed in opschalingsfase 3.
+
+Artikel 4. Intrekking en wijziging lopende subsidieverlening
+1.De minister beziet gedurende de subsidieperiode hoe de uitbraak van COVID-19 zich ontwikkelt en in hoeverre het uitvoeren van de diverse activiteiten, bedoeld in artikel 3, noodzakelijk blijft om die uitbraak onder controle te krijgen en te houden.
+
+2.Indien gedurende de subsidieperiode op basis van advies van het Outbreak Management Team blijkt dat de uitbraak van COVID-19 zich zodanig ontwikkelt dat de activiteiten waarvoor subsidie is verleend, bedoeld in artikel 3, onder e en f, niet meer geheel noodzakelijk zijn, treedt de minister daarover onverwijld in overleg met de instellingen die subsidie ontvangen.
+
+3.Indien de omstandigheid, bedoeld in het tweede lid, zich voordoet, kan de minister de subsidieverlening ten nadele van de subsidie-ontvangende instelling wijzigen of de subsidie lager vaststellen.
+
+Artikel 5. Subsidievoorwaarden
+1.Subsidie voor de aanleg van de COVID-19 crisisvoorraad geneesmiddelen, bedoeld in artikel 3, onder c, wordt uitsluitend verstrekt indien:
+
+a.de instelling voor het indienen van de aanvraag door het LCG is geadviseerd over de inhoud en omvang van de COVID-19 crisisvoorraad geneesmiddelen; en
+
+b.de inkoop volgens de daarvoor vastgestelde procesmatige en inhoudelijke kaders van het LCG geschiedt, overeenkomstig bijlage II.
+
+2.Subsidie voor bouwkundige aanpassingen als bedoeld in artikel 3, onder a, wordt uitsluitend verstrekt indien:
+
+a.de aanpassingen plaatsvinden binnen de bestaande bouwkundige grenzen van de instelling; en
+
+b.als de aanvraag voor opschalingsfase 1 en 2 meer dan € 75.000 per IC-bed bedraagt of voor opschalingsfase 3 meer dan € 25.000 per IC-bed, het comité bouwkundige aanpassingen daarover positief advies uitbrengt.
+
+3.Subsidie voor opleidingsactiviteiten als bedoeld in artikel 3, wordt uitsluitend verstrekt indien voor diezelfde kosten niet reeds op grond van de Subsidieregeling kwaliteitsimpuls ziekenhuiszorg 2020 –2022, SectorPlanPlus of de Beleidsregel Beschikbaarheidbijdrage (medische) vervolgopleidingen 2020 subsidie is aangevraagd en verstrekt.
+
+4.Subsidie voor opschalingsfase 2 wordt uitsluitend verstrekt indien de instelling het aantal op te schalen koude IC-bedden overeenkomstig bijlage I en klinische bedden fysiek aanwezig heeft en voor deze bedden personeel beschikbaar heeft.
+
+5.Subsidie voor opschalingsfase 3 wordt uitsluitend verstrekt indien de instelling het aantal op te schalen koude IC-bedden overeenkomstig bijlage I en klinische bedden binnen 48 uur beschikbaar kan maken voor patiëntenzorg.
+
+Artikel 6. Niet-subsidiabele kosten
+Niet-subsidiabele kosten zijn:
+
+a.de zorgkosten voor de behandeling van COVID-19-patiënten en niet-COVID-19 patiënten;
+
+b.bestuurs- en secretariaatskosten en andere materiële kosten;
+
+c.de kosten voor aanschaf en onderhoud van beademingsapparatuur en patiëntmonitorsystemen, bijbehorende accessoires en disposables;
+
+d.de kosten voor persoonlijke beschermingsmiddelen;
+
+e.kosten voor vervoer van COVID-19 patiënten en voor de coördinatie van COVID-19 patiëntenstromen; en
+
+f.personeelskosten in opschalingsfase 2 en opschalingsfase 3 die reeds uit andere bronnen gefinancierd worden.
+
+Artikel 7. Hoogte van subsidieverlening
+1.Het bedrag van de subsidieverlening voor een instelling bestaat uit de som van:
+
+a.de eenmalige kosten ten behoeve van bouwkundige aanpassingen in opschalingsfase 1 en opschalingsfase 2 vanaf 1 juli 2020 tot 1 maart 2021;
+
+b.de eenmalige kosten ten behoeve van bouwkundige aanpassingen in opschalingsfase 3 vanaf 1 juli 2020 tot 1 maart 2021;
+
+c.de eenmalige kosten ten behoeve van de medische inventaris in opschalingsfase 1 en opschalingsfase 2, tot een maximum van € 60.000 per IC-bed in die fases, overeenkomstig bijlage I;
+
+d.de eenmalige kosten ten behoeve van de medische inventaris in opschalingsfase 3, tot een maximum van € 30.000 per IC-bed in die fase, overeenkomstig bijlage I;
+
+e.de eenmalige kosten ten behoeve de COVID-19 crisisvoorraad geneesmiddelen, bestaande uit de som van:
+
+1°de inkoopprijs van de geneesmiddelen, zijnde geregistreerde producten en eigen bereidingen;
+
+2°10% van de inkoopprijs, bedoeld onder 1°, voor de opslag- en beheerkosten; en
+
+3°50% van de apotheekinkoopprijs van uitgestelde eigen bereidingen;
+
+f.een vergoeding per IC-bed voor opleidingsactiviteiten in opschalingsfase 1 van € 120.000 vanaf 1 juli 2020 tot en met 31 december 2022, tot het maximum aantal opgenomen IC-bedden per instelling in die fase, overeenkomstig bijlage I;
+
+g.een vergoeding van € 1.332.883 per koud IC-bed in opschalingsfase 2, die loopt vanaf 1 oktober 2020 tot en met 31 december 2022, tot het maximum aantal opgenomen IC-bedden per instelling in die fase, overeenkomstig bijlage I; en
+
+h.een vergoeding van € 224.002 per koud IC-bed in opschalingsfase 3, die loopt vanaf 1 januari 2021 tot en met 31 december 2022, tot het maximum aantal opgenomen IC-bedden per instelling in die fase, overeenkomstig bijlage I.
+
+2.Het bedrag van de subsidieverlening kan worden verhoogd voor elke dag dat een koud IC-bed gedurende opschalingsfase 3 wijzigt in een warm IC-bed. Het bedrag van de verhoging bestaat uit een bedrag van € 882 per warm IC-bed per dag, tot ten hoogste het in bijlage I bepaalde aantal IC-bedden in die fase, voor de periode van 1 januari 2021 tot en met 31 december 2022.
+
+Artikel 8. Aanvraag tot subsidieverlening
+1.Voor de aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
+
+2.De aanvraag wordt ingediend in de periode van 2 november 2020 tot en met 13 november 2020. Aanvragen die na die datum worden ontvangen, worden afgewezen.
+
+3.De aanvraag gaat vergezeld van:
+
+a.inzake bouwkundige aanpassingen:
+
+1°een plan voor de totale bouwkundige aanpassingen, indien de aanvraag voor opschalingsfase 1 en 2 minder dan € 75.000 per IC-bed bedraagt en voor opschalingsfase 3 minder dan € 25.000 per IC-bed, of
+
+2°een plan voor de totale bouwkundige aanpassingen en de bijbehorende offertes, indien de aanvraag voor opschalingsfase 1 en 2 meer dan € 75.000 per IC-bed bedraagt en voor opschalingsfase 3 meer dan € 25.000 per IC-bed;
+
+b.een lijst van de medische inventaris;
+
+c.een overzicht van het aan te leggen volume van de COVID-19 crisisvoorraad geneesmiddelen en de bijbehorende kosten op geaggregeerd niveau;
+
+d.een advies van het LCG ten aanzien van het volume van de COVID-19 crisisvoorraad geneesmiddelen; en
+
+e.een opschalingsvoorstel, inclusief onderbouwing op welke wijze de Raad van Bestuur van de instelling zo doelmatig mogelijk vorm geeft aan opschalingsfase 2 en opschalingsfase 3.
+
+Artikel 9. Bouwkundige aanpassingen
+1.Indien in een aanvraag de begrote kosten voor bouwkundige aanpassingen meer dan € 75.000 per IC-bed in opschalingsfase 1 en opschalingsfase 2 of meer dan € 25.000 per IC-bed in opschalingsfase 3 bedragen, wordt de aanvraag ter advies voorgelegd aan het comité bouwkundige aanpassingen.
+
+2.Indien de bij de aanvraag verstrekte gegevens of bescheiden onvoldoende zijn voor de beoordeling stelt het comité bouwkundige aanpassingen de instelling in de gelegenheid de aanvraag binnen twee weken aan te vullen.
+
+3.Het comité bouwkundige aanpassingen kan volstaan met een beperkt onderzoek indien het comité van oordeel is dat:
+
+a.de aanvraag kennelijk niet voldoet aan de bij deze regeling gestelde eisen;
+
+b.de aanvraag nagenoeg geheel overeenkomt met andere aanvragen waarover het comité bouwkundige aanpassingen reeds advies heeft uitgebracht;
+
+c.de bouwkundige aanpassingen naar verwachting niet of niet geheel zullen plaatsvinden;
+
+d.de aanvrager onjuiste of onvolledige gegevens heeft verstrekt.
+
+Artikel 10. Besluit tot subsidieverlening
+1.De minister besluit binnen 22 weken na ontvangst van de aanvraag tot subsidieverlening.
+
+2.De minister vermeldt in het besluit tot verlening van de subsidie:
+
+a.voor welke periode subsidie wordt verleend;
+
+b.de bouwkundige aanpassingen, het aantal IC-bedden, klinische bedden, de medische inventaris en de inhoud en omvang van de COVID-19 crisisvoorraad geneesmiddelen waarvoor de subsidie wordt verleend;
+
+c.het advies van het comité bouwkundige aanpassingen voor bouwkundige aanpassingen boven het maximumbedrag per IC-bed, bedoeld in artikel 7, eerste lid, onder a en onder b;
+
+d.de hoogte van het subsidiebedrag;
+
+e.de wijze waarop tussentijds inhoudelijk verslag wordt gedaan; en
+
+f.de wijze waarop de verleende subsidie wordt verantwoord.
+
+Artikel 11. Subsidieverplichtingen
+1.De instelling is verplicht:
+
+a.het aantal IC-bedden beschikbaar te hebben dat overeenkomstig bijlage I voor die instelling is vastgesteld;
+
+b.zich in te spannen om de zorg aan niet-COVID-19 patiënten in opschalingsfase 2 en opschalingsfase 3 maximaal op peil te houden;
+
+c.een contactpersoon aan te wijzen binnen de instelling die mandaat heeft om in overleg te treden met de minister, zorgverzekeraars en het ROAZ;
+
+d.dagelijks informatie aan het LCPS aan te leveren over het aantal reguliere patiënten en COVID-19 patiënten dat is opgenomen in de instelling;
+
+e.zich in te spannen om eventuele herverdeling van het aantal op te schalen IC-bedden binnen de ROAZ-regio tot stand te brengen; en
+
+f.een administratie te voeren die zodanig is ingericht dat daarin te allen tijde de voor de vaststelling van de subsidie van belang zijnde gegevens kunnen worden nagegaan.
+
+2.De instelling die subsidie ontvangt voor de aanleg van de COVID-19 crisisvoorraad geneesmiddelen is verplicht:
+
+a.medewerking te verlenen aan alle monitoringsverzoeken van het LCG;
+
+b.onmiddellijk gevolg te geven aan verzoeken van het LCG om een gedeelte van de COVID-19 crisisvoorraad geneesmiddelen over te dragen aan een andere instelling; en
+
+c.zich in te spannen om de COVID-19 crisisvoorraad geneesmiddelen gedurende de subsidieperiode continu op peil te houden, overeenkomstig de afspraken met het LCG.
+
+3.De instelling die subsidie ontvangt doet inhoudelijk verslag van de voortgang van de gesubsidieerde activiteiten, bedoeld in artikel 3. Het besluit tot verlening van de subsidie vermeldt op welke tijdstippen verslag wordt gedaan en waaruit het verslag bestaat.
+
+Artikel 12. Meldingsplicht
+1.De instelling die subsidie ontvangt meldt onverwijld schriftelijk aan de minister indien:
+
+a.aannemelijk is geworden dat de activiteiten waarvoor de subsidie is verstrekt niet, niet tijdig of niet geheel zullen worden verricht,
+
+b.aannemelijk is geworden dat niet, niet tijdig of niet geheel aan de subsidieverplichtingen zal worden voldaan, of
+
+c.zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
+
+2.In aanvulling op het eerste lid, meldt de instelling die subsidie ontvangt onverwijld schriftelijk aan de minister indien sprake is van een voornemen tot herverdeling van het aantal op te schalen IC-bedden en klinische bedden waarmee het ROAZ heeft ingestemd, in afwijking van bijlage I. De minister beslist binnen 6 weken op de melding.
+
+3.In aanvulling op het eerste lid, maakt de instelling die subsidie ontvangt halfjaarlijks schriftelijk melding aan de minister van het aantal dagen dat koude IC-bedden in opschalingsfase 3 overeenkomstig bijlage I zijn gewijzigd in warme bedden.
+
+4.De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
+
+5.Indien een melding als bedoeld in artikel 12, eerste tot en met derde lid, daartoe aanleiding geeft, kan de minister besluiten de subsidieverlening te herzien, in afwijking van bijlage I, en de bevoorschotting te herzien.
+
+Artikel 13. Bevoorschotting en betaling
+1.De minister verleent bij het besluit tot verlening van de subsidie voor activiteiten als bedoeld in artikel 3, onder a tot en met c, een voorschot van 100% dat in een keer wordt betaald.
+
+2.Bij het besluit tot verlening van de subsidie voor opleidingsactiviteiten in opschalingsfase 1 als bedoeld in artikel 3, onder d, verleent en betaalt de minister de volgende voorschotten:
+
+a.in 2020: € 30.000 per IC-bed;
+
+b.in 2021: € 60.000 per IC-bed; en
+
+c.in 2022: € 30.000 per IC-bed.
+
+3.Bij het besluit tot verlening van de subsidie voor opschalingsfase 2, bedoeld in artikel 3, onder e, verleent en betaalt de minister de volgende voorschotten:
+
+a.in 2020: € 164.765 per IC-bed;
+
+b.in 2021: € 599.059 per IC-bed; en
+
+c.in 2022: € 569.059 per IC-bed.
+
+4.Bij het besluit tot verlening van de subsidie voor opschalingsfase 3, bedoeld in artikel 3, onder f, verleent en betaalt de minister de volgende voorschotten:
+
+a.in 2021: € 127.001 per IC-bed; en
+
+b.in 2022: € 97.001 per IC-bed.
+
+Artikel 14. Aanvraag tot vaststelling
+1.Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
+
+2.De aanvraag tot vaststelling van de subsidie wordt ingediend voor 1 juni 2023.
+
+3.De aanvraag tot vaststelling van de subsidie gaat vergezeld van:
+
+a.een financieel verslag, waarbij inzicht wordt gegeven in de werkelijk gemaakte kosten van de activiteiten inhoudende:
+
+1°de bouwkundige aanpassingen;
+
+2°de medische inventaris; en
+
+3°het geaggregeerd volume en de totaalkosten van de COVID-19 crisisvoorraad geneesmiddelen;
+
+b.een activiteitenverslag, waarin de subsidieontvanger inzicht geeft in:
+
+1°het aantal gerealiseerde vaste IC-bedden op 1 januari 2021 en 1 januari 2022, het aantal gerealiseerde flexibele bedden en het aantal gerealiseerde klinische bedden;
+
+2°de manier waarop aan de voorwaarden en verplichtingen van deze regeling is voldaan;
+
+3°de gegeven en gevolgde opleidingen;
+
+4°het aantal opgeleide personen per opleiding per opschalingsfase; en
+
+5°de manier waarop invulling is gegeven aan de beschikbaarheid van personeel.
+
+4.Het financieel verslag gaat vergezeld van een controleverklaring opgesteld door een accountant overeenkomstig een door de minister vastgesteld model met inachtneming van een door de minister vastgesteld accountantsprotocol.
+
+5.Ten aanzien van de activiteit, bedoeld in het derde lid, onder b, sub 1°, wordt verantwoording afgelegd door het overleggen van een assurancerapport van een accountant.
+
+Artikel 15. Vaststelling
+1.Indien de activiteiten, bedoeld in artikel 3, onder a tot en met c, geheel zijn verricht en volledig is voldaan aan de verplichtingen die verbonden zijn aan de verleende subsidie, wordt de subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+
+2.De subsidie voor de activiteiten, bedoeld in artikel 3, onder d tot en met g, wordt vastgesteld op een bedrag per gerealiseerd vast IC-bed en gerealiseerd flexibel IC-bed, waarbij tevens rekening wordt gehouden met de dagvergoeding, bedoeld in artikel 7, tweede lid, voor een warm IC-bed en waarvan de hoogte door de minister bij de verlening is genoemd.
+
+3.De subsidie voor de activiteiten, bedoeld in artikel 3, onder d tot en met f, wordt vastgesteld tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+
+4.De minister kan de subsidie, bedoeld in het tweede lid, lager vaststellen indien de instelling op 1 januari 2021 en op 1 januari 2022 minder dan 5 fte personeel per gerealiseerd vast IC-bed beschikbaar heeft. In dat geval wordt de subsidie per niet-gerealiseerde fte verminderd met een bedrag van € 89.242 per IC-bed per jaar.
+
+5.De minister besluit binnen 22 weken op een aanvraag tot vaststelling.
+
+Artikel 16. Hardheidsclausule
+De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
+
+Artikel 17. Inwerkingtreding en vervaldatum
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. De regeling vervalt met ingang van 31 december 2022.
+
+Artikel 18. Citeertitel
+Deze regeling wordt aangehaald als: Subsidieregeling opschaling curatieve zorg COVID-19.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister voor Medische Zorg,
+T. van Ark
+
+BIJLAGE I. OPSCHALINGSLIJST
+ROAZ regio
+
+Ziekenhuizen
+
+Uitgangssituatie
+
+Uitbreiding IC bedden van uitgangssituatie naar 1.150 (fase 1)
+
+Uitbreiding IC bedden van 1.150 naar 1.350 (fase 2)
+
+Uitbreiding IC bedden van 1.350 naar 1.700 (fase 3)
+
+ 	
+Totaal uitbreiding IC capaciteit opgave aan VWS
+
+ 	
+109
+
+206
+
+343
+
+ 	
+Totaal aantal bedden opgave aan VWS
+
+1.032
+
+1.141
+
+1.347
+
+1.690
+
+AZEUR
+
+Medisch Spectrum Twente
+
+28
+
+0
+
+6
+
+8
+
+ 	
+Streekziekenhuis Koningin Beatrix
+
+4
+
+0
+
+2
+
+2
+
+ 	
+ZGT Almelo
+
+12
+
+0
+
+4
+
+0
+
+ 	
+Totaal AZEUR
+
+44
+
+0
+
+12
+
+10
+
+TZMN
+
+Diakonessenhuis – Utrecht
+
+13
+
+1
+
+2
+
+0
+
+ 	
+Meander Medisch Centrum
+
+12
+
+2
+
+2
+
+4
+
+ 	
+St. Antonius Ziekenhuis – Nieuwegein
+
+22
+
+3
+
+3
+
+10
+
+ 	
+St. Antonius Ziekenhuis – Utrecht
+
+3
+
+0
+
+0
+
+0
+
+ 	
+UMC Utrecht
+
+24
+
+3
+
+9
+
+16
+
+ 	
+Totaal TZMN
+
+74
+
+9
+
+16
+
+30
+
+NAZNW + SZN
+
+Amsterdam UMC
+
+43
+
+5
+
+9
+
+16
+
+ 	
+Noordwest Ziekenhuisgroep
+
+15
+
+2
+
+3
+
+6
+
+ 	
+Rode Kruis Ziekenhuis
+
+6
+
+1
+
+1
+
+2
+
+ 	
+Spaarne Gasthuis
+
+17
+
+2
+
+4
+
+6
+
+ 	
+Zaans Medisch Centrum
+
+6
+
+1
+
+1
+
+2
+
+ 	
+Ziekenhuis Amstelland
+
+4
+
+0
+
+0
+
+0
+
+ 	
+BovenIJ Ziekenhuis
+
+5
+
+0
+
+0
+
+0
+
+ 	
+Dijklander Ziekenhuis
+
+12
+
+1
+
+3
+
+5
+
+ 	
+Flevoziekenhuis
+
+8
+
+1
+
+2
+
+3
+
+ 	
+Antoni van Leeuwenhoek Ziekenhuis/NKI
+
+6
+
+0
+
+0
+
+0
+
+ 	
+OLVG
+
+23
+
+3
+
+4
+
+9
+
+ 	
+Tergooi
+
+12
+
+1
+
+3
+
+4
+
+ 	
+Totaal NAZNW+SZN
+
+157
+
+17
+
+30
+
+53
+
+NAZZ
+
+Deventer Ziekenhuis
+
+13
+
+2
+
+1
+
+2
+
+ 	
+Gelre Ziekenhuizen – Apeldoorn
+
+13
+
+0
+
+1
+
+0
+
+ 	
+Gelre Ziekenhuizen – Zutphen
+
+2
+
+2
+
+2
+
+2
+
+ 	
+Isala – Zwolle
+
+34
+
+2
+
+6
+
+12
+
+ 	
+Ropcke-Zweers
+
+3
+
+1
+
+2
+
+3
+
+ 	
+Ziekenhuis St. Jansdal
+
+7
+
+1
+
+1
+
+3
+
+ 	
+Totaal NAZZ
+
+72
+
+8
+
+13
+
+22
+
+AZO
+
+Canisius Wilhelmina Ziekenhuis
+
+10
+
+2
+
+4
+
+4
+
+ 	
+Radboudumc
+
+36
+
+3
+
+8
+
+15
+
+ 	
+Rijnstate
+
+17
+
+2
+
+4
+
+5
+
+ 	
+Ziekenhuis Rivierenland Tiel
+
+7
+
+1
+
+0
+
+0
+
+ 	
+Slingeland Ziekenhuis
+
+8
+
+0
+
+0
+
+0
+
+ 	
+Ziekenhuis Gelderse Vallei
+
+14
+
+2
+
+2
+
+2
+
+ 	
+Totaal AZO
+
+92
+
+10
+
+18
+
+26
+
+NAZL
+
+Laurentius Ziekenhuis
+
+8
+
+1
+
+0
+
+4
+
+ 	
+UMC Maastricht
+
+32
+
+6
+
+9
+
+9
+
+ 	
+VieCuri – Venlo
+
+16
+
+3
+
+3
+
+8
+
+ 	
+Zuyderland MC – Heerlen
+
+31
+
+0
+
+9
+
+10
+
+ 	
+SJG Weert
+
+6
+
+0
+
+1
+
+1
+
+ 	
+Totaal NAZL
+
+93
+
+10
+
+22
+
+32
+
+AZNN
+
+Antonius Ziekenhuis Sneek – Emmeloord
+
+6
+
+1
+
+0
+
+3
+
+ 	
+Martini Ziekenhuis
+
+12
+
+1
+
+4
+
+3
+
+ 	
+Medisch Centrum Leeuwarden
+
+18
+
+2
+
+3
+
+10
+
+ 	
+Nij Smellinghe Ziekenhuis
+
+6
+
+1
+
+3
+
+2
+
+ 	
+Ommelander Ziekenhuis
+
+6
+
+0
+
+0
+
+0
+
+ 	
+Treant Zorggroep – Emmen
+
+13
+
+1
+
+2
+
+7
+
+ 	
+Tjongerschans – Heerenveen
+
+6
+
+1
+
+1
+
+2
+
+ 	
+UMC Groningen
+
+35
+
+4
+
+4
+
+10
+
+ 	
+Wilhelmina Ziekenhuis Assen
+
+6
+
+1
+
+3
+
+0
+
+ 	
+Totaal AZNN
+
+108
+
+12
+
+20
+
+37
+
+NAZW
+
+Alrijne Zorggroep, Leiderdorp
+
+10
+
+1
+
+2
+
+3
+
+ 	
+Groene Hart Ziekenhuis
+
+10
+
+1
+
+1
+
+4
+
+ 	
+Haaglanden MC
+
+20
+
+2
+
+4
+
+6
+
+ 	
+HagaZiekenhuis (Leyenburg)
+
+16
+
+2
+
+4
+
+6
+
+ 	
+LangeLand Ziekenhuis
+
+2
+
+0
+
+2
+
+4
+
+ 	
+LUMC, Leiden
+
+29
+
+3
+
+6
+
+6
+
+ 	
+Reinier de Graaf Gasthuis Delft
+
+12
+
+1
+
+1
+
+4
+
+ 	
+Totaal NAZW
+
+99
+
+10
+
+20
+
+33
+
+TCZW
+
+ADRZ Goes
+
+12
+
+0
+
+1
+
+1
+
+ 	
+Albert Schweitzer Ziekenhuis
+
+16
+
+0
+
+2
+
+4
+
+ 	
+Beatrix Ziekenhuis
+
+6
+
+0
+
+0
+
+2
+
+ 	
+Erasmus MC
+
+45
+
+11
+
+16
+
+32
+
+ 	
+Franciscus, locatie Gasthuis
+
+15
+
+5
+
+0
+
+2
+
+ 	
+IJsselland Ziekenhuis
+
+8
+
+0
+
+1
+
+1
+
+ 	
+Ikazia Ziekenhuis
+
+12
+
+0
+
+1
+
+1
+
+ 	
+Maasstad Ziekenhuis
+
+15
+
+0
+
+4
+
+6
+
+ 	
+Van Weel-Bethesda – Dirksland
+
+6
+
+0
+
+1
+
+1
+
+ 	
+ZorgSaam – Zeeuws Vlaanderen
+
+9
+
+0
+
+1
+
+1
+
+ 	
+Totaal TCZW
+
+144
+
+16
+
+27
+
+51
+
+NAZB
+
+Amphia Ziekenhuis – Breda
+
+24
+
+3
+
+5
+
+8
+
+ 	
+Bernhoven Ziekenhuis
+
+8
+
+1
+
+1
+
+0
+
+ 	
+Bravis ziekenhuis – Bergen op Zoom
+
+15
+
+2
+
+3
+
+5
+
+ 	
+Catharina Ziekenhuis
+
+26
+
+2
+
+4
+
+12
+
+ 	
+Elkerliek Ziekenhuis
+
+8
+
+1
+
+3
+
+0
+
+ 	
+ETZ, locatie Elisabeth
+
+26
+
+3
+
+4
+
+15
+
+ 	
+Jeroen Bosch Ziekenhuis
+
+14
+
+2
+
+4
+
+6
+
+ 	
+Maasziekenhuis Pantein
+
+6
+
+0
+
+0
+
+0
+
+ 	
+Maxima Medisch Centrum
+
+11
+
+2
+
+3
+
+3
+
+ 	
+St. Anna Ziekenhuis
+
+11
+
+1
+
+1
+
+0
+
+ 	
+Totaal NAZB
+
+149
+
+17
+
+28
+
+49
+
+BIJLAGE II. PROCESMATIGE EN INHOUDELIJKE KADER LCG
+Elk ziekenhuis kan in de subsidieaanvraag aangeven hoeveel COVID-19 Crisisvoorraad geneesmiddelen (hierna: CCV) het opbouwt en daarna aanhoudt. Over de grootte van die voorraad zijn vooraf aanwijzingen verstrekt door het LCG. Hieronder staan de procesmatige en inhoudelijke kaders met betrekking tot de CCV.
+
+1.De geneesmiddelen die onderdeel uitmaken van de CCV en welke volumes moeten worden aangehouden door de individuele ziekenhuizen.
+
+a)De CCV die wordt aangelegd bestaat uit geneesmiddelen die staan op de A-lijst van het LCG, het betreft vooralsnog 14 geneesmiddelen.
+
+b)De omvang van de CCV van A-lijst geneesmiddelen die moet worden aangehouden door de individuele ziekenhuizen, wordt als volgt berekend:
+
+–het benodigde volume geneesmiddelen voor vijf maanden bij normaal regulier gebruik (referentie jaar: 2019; derhalve 5/12e van het jaarverbruik in 2019); plus
+
+–het extra piekgebruik tijdens 3 maanden COVID behorende bij 650 extra ICU bedden. De bedden worden toegerekend aan de ziekenhuizen conform de verdeling van bijlage I. Het piekverbruik is vastgesteld als het verbruik behorende bij een ‘piekontwikkeling’ conform de gamma-verdeling van de eerste golf.
+
+c)Het LCG geeft aanwijzingen aan het ziekenhuis ten aanzien van de omvang van het piekvolume door het aandeel van het ziekenhuis gerelateerd aan de totale CCV in Nederland vast te stellen. Het ziekenhuis stelt zelf op basis van de aanwijzingen van het LCG en haar eigen verbruiksgegevens het volume van de CCV voor het eigen ziekenhuis vast.
+
+d)Het LCG valideert het door het ziekenhuis aangegeven volume CCV. Indien gewenst wordt in overleg het volume bijgesteld.
+
+e)Het ziekenhuis bepaalt, nadat het volume is vastgesteld, welke formuleringen gewenst zijn.
+
+2.De inkoop en eigen bereidingen van geneesmiddelen.
+
+De CCV kan bestaan uit geregistreerde producten en eigen bereidingen. De eigen bereidingen moeten voldoen aan de geldende wet- en regelgeving.
+
+Met betrekking tot geregistreerde geneesmiddelen:
+
+a.Het ziekenhuis koopt de geregistreerde geneesmiddelen in via een inkoopgroep.
+
+b.Het ziekenhuis gebruikt een door LCG aangewezen IT-platform voor de inkoop van de geneesmiddelen.
+
+c.De ziekenhuizen dragen er zorg voor dat de geneesmiddelen vanaf december 2020 beschikbaar zijn in Nederland. In december 2020 dient een derde van de CCV beschikbaar te zijn, in januari 2021 twee derde en in februari 2021 de volledige CCV.
+
+Met betrekking tot eigen bereidingen:
+
+a.Indien er grondstoffen onderdeel worden van de CCV moet deze grondstof binnen 1 maand kunnen worden verwerkt tot het eindproduct.
+
+b.Voor de te bereiden geneesmiddelen dient een marktconforme prijs te worden bepaald.
+
+c.Het ziekenhuis geeft bij het LCG aan:
+
+–welke producten zij bij welke bereidingsapotheek wenst af te nemen;
+
+–welk deel hiervan uit grondstoffen kan bestaan; en
+
+–wat het Z-Index nummer is.
+
+d.Het LCG telt de vraag op en stemt met de bereidende apotheken af:
+
+–of de volumina per bereidingsapotheek realiseerbaar zijn; en
+
+–hoe een eventueel back-up scenario er uit ziet om bij het uitvallen van een bereidingsfaciliteit tijdens crisis wel de volumina te kunnen borgen.
+
+e.Indien gereed product uit eigen bereiding onderdeel vormt van de CCV voor een ziekenhuis dan draagt het ziekenhuis er zorg voor dat de eigen bereidingen per 1 december 2020 beschikbaar zijn.
+
+3.Eenmalige rapportage bij het aanleggen van de CCV.
+
+a.Het ziekenhuis geeft het LCG eenmalige de volgende informatie:
+
+–het volume dat wordt ingekocht als geregistreerde geneesmiddelen;
+
+–het volume dat wordt aangehouden als eigen bereidingen, inclusief Z-Index nummer; en
+
+–het volume dat (van deze eigen bereidingen) wordt aangehouden als grondstof (inclusief emballage), inclusief bereidende apotheek.
+
+4.Doorlopende monitoring van de CCV door het LCG.
+
+a.Het ziekenhuis gebruikt ZAGIS (of een ander IT-platform dat door het LCG wordt aangewezen) om informatie te delen met het LCG.
+
+b.Het ziekenhuis rapporteert de actuele stand van de CCV aan het LCG, conform de door het LCG aangegeven frequentie en specificatie.
+
+c.In het geval de CCV wordt aangesproken, kan de data aanlevering worden geïntensiveerd (conform kleurcodering).
+
+5.Het beheer van de CCV door de ziekenhuizen.
+
+a.Het ziekenhuis draagt er zorg voor dat de geneesmiddelen van de CCV worden opgeslagen conform geldende wetgeving. Opslag kan plaatsvinden bij de leverancier, een groothandel of in een apotheek.
+
+b.De geneesmiddelen dienen te zijn opgeslagen op Nederlands grondgebied
+
+c.De geneesmiddelen dienen binnen 24 uur in het ziekenhuis beschikbaar te zijn.
+
+d.De opbouw van de CCV geschiedt in fasen: in december 2020 moet een derde gereed zijn, in januari 2021 twee derde en in februari 2021 dient de gehele CCV gereed te zijn. Het op peil houden geldt voor de resterende subsidieperiode.
+
+e.Het ziekenhuis draagt voor eigen rekening zorg dat het voorraadvolume te allen tijde boven de afgestemde CCV-volume blijft tenzij leveranciers niet meer kunnen leveren.
+
+f.Indien het ziekenhuis niet in staat is om het volume te handhaven, bijvoorbeeld door leveringsproblemen, dient het hierover binnen 48 uur te rapporteren aan het LCG.
+
+g.Bij herstellen van leveringsmogelijkheden wordt de CCV weer aangevuld tot de vastgestelde volumina.
+
+BIJLAGE III. COMITÉ BOUWKUNDIGE AANPASSINGENAlgemeen
+Er is een comité bouwkundige aanpassingen dat de minister voor Medische Zorg (hierna: de minister) adviseert over de noodzakelijkheid van de opgevoerde bouwkundige aanpassingen door de zorginstelling die is opgenomen in Bijlage I bij de Subsidieregeling opschaling curatieve zorg COVID-19 (hierna: de Subsidieregeling). Een instelling komt in aanmerking voor subsidie voor bouwkundige aanpassingen als bedoeld in artikel 5, eerste lid, onder b, van de Subsidieregeling, indien die plaatsvinden binnen bestaande bouwkundige grenzen van de instelling en de aanpassingen geschieden overeenkomstig de daarvoor vastgestelde inhoudelijke en kwantitatieve kaders van het comité. Deze bijlage beschrijft de samenstelling van het comité en de adviesprocedure.
+
+Het comité
+In het kader van artikel 5, tweede lid, onder b, van de Subsidieregeling, maakt de minister gebruik van tijdelijke inhuur van externe deskundigen die gezamenlijk in een comité bouwkundige aanpassingen de minister adviseren over het onderdeel bouwkundige aanpassingen in subsidieaanvragen. De deskundigen hebben van de minister de opdracht gekregen om de minister gezamenlijk in de vorm van een comité te adviseren over de noodzakelijkheid van de opgevoerde bouwkundige aanpassingen. De leden werken onafhankelijk van het ministerie van Volksgezondheid, Welzijn en Sport (hierna: het ministerie). Het comité maakt derhalve geen deel uit van het ministerie. De leden van het comité zijn overigens ook niet werkzaam onder de verantwoordelijkheid van de minister. De leden zijn ook niet direct dan wel indirect verbonden aan de instellingen die een aanvraag tot verlening indienen op grond van de Subsidieregeling, waardoor belangenverstrengeling wordt voorkomen. De leden van het comité beschikken over deskundigheid op het gebied van bouwkundige aanpassingen door een zorginstelling. Het comité adviseert uitsluitend op aanvraag van de minister. Indien nodig kan de minister de opdracht voor advisering door de externe deskundigen verlengen.
+
+Adviesprocedure
+Het comité adviseert de minister bij aanvragen voor bouwkundige aanpassingen in de opschalingsfase 1, opschalingsfase 2 en opschalingsfase 3, indien de aanvraag de grensbedragen van € 75.000 (opschalingsfase 1 en opschalingsfase 2) en € 25.000 (opschalingsfase 3) per IC-bed overstijgen.
+
+Het comité adviseert de minister uiterlijk binnen 6 weken nadat zij de aanvraag van de minister heeft ontvangen. De minister besluit uiterlijk binnen 22 weken op de aanvraag van de instelling ten aanzien van de bouwkundige aanpassingen. De instelling ontvangt hiertoe een herziene verleningsbeschikking, waarin de minister zijn besluit kenbaar maakt ten aanzien van de aanvraag voor bouwkundige aanpassingen. Het advies van het comité wordt als bijlage bij de herziene beschikking gevoegd.
+
+Informatieverstrekking
+Ten behoeve van het opstellen van het advies verstrekt de minister minimaal de volgende gegevens, die bij de subsidieaanvraag zijn gevoegd, aan het comité:
+
+–aantal IC-bedden en bijbehorende klinische bedden overeenkomstig bijlage I;
+
+–offertes;
+
+–bouwplan.
+
+Het comité kan, indien een zorgvuldige advisering daartoe noopt, de instelling die het betreft, om nadere informatie vragen. De instelling wordt in een dergelijk geval in de gelegenheid gesteld zijn aanvraag binnen twee weken aan te vullen. Het advies wordt – samen met de aanvraag – door de minister beoordeeld.
+
+Het comité verstrekt aan de minister desgevraagd de gewenste inlichtingen.
+
+Inhoudelijke en kwantitatieve kaders van het comité
+De inhoudelijke en kwantitatieve kaders waar het comité bij de beoordeling van de bouwkundige aanpassingen op toetst zullen uiterlijk binnen twee weken na publicatie van de Subsidieregeling door het comité worden vastgesteld. Bekendmaking van deze kaders zal zo spoedig mogelijk na de vaststelling ervan plaatsvinden.
+
+Gelet op artikel 9, derde lid, van de Subsidieregeling kan het comité kan in ieder geval volstaan met een beperkt onderzoek wanneer:
+
+a.zich kennelijk een weigeringsgrond voordoet als bedoeld in de Subsidieregeling;
+
+b.het comité van oordeel is dat de aanvraag nagenoeg geheel overeenkomt met andere aanvragen waarover het comité advies heeft uitgebracht;
+
+c.de bouwkundige activiteiten niet of niet geheel zullen plaatsvinden;
+
+d.in het kader van de aanvraag onjuiste of onvolledige gegevens zijn verstrekt en de verstrekking van deze gegevens tot een onjuiste beschikking op de aanvraag zou leiden.
+
+Ambtelijke ondersteuning
+Er wordt vanuit het ministerie een secretaris beschikbaar gesteld. Het ministerie draagt er zorg voor dat de secretaris haar werkzaamheden functioneel onafhankelijk kan verrichten.
+
+Archiefbescheiden
+Het comité draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden, of zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het ministerie van VWS.
+
+TOELICHTING1. AlgemeenAanleiding
+De Subsidieregeling opschaling curatieve zorg COVID-19 (hierna: de Subsidieregeling) heeft betrekking op de subsidiëring van de opschaling van de Intensive Care-capaciteit en klinische capaciteit in ziekenhuizen ten behoeve van de behandeling van COVID-19 patiënten.
+
+Tijdens de eerste golf van de COVID-19 uitbraak in het voorjaar van 2020 is er een enorm beroep gedaan op de gehele keten van curatieve zorg. Zowel de capaciteit op de Intensive Care (hierna: IC) als de klinische capaciteit moest flink worden uitgebreid, maar ook het vervoer van COVID-19 patiënten en de nazorg die zij nodig hebben, creëerden lastige capaciteitsvraagstukken. Daarnaast is de regionale en landelijke coördinatie in korte tijd opgepakt.
+
+Er was sprake van een ongekende en intense periode vanwege de grote groep patiënten die zich in korte tijd aandiende. Het aantal patiënten dat op de IC verbleef, met een gemiddelde ligduur van 19 dagen, heeft een enorme impact gehad op de curatieve zorg. Alle betrokkenen hebben alles op alles moeten zetten om de nodige zorg te kunnen blijven verlenen. Dat is gelukt en dat is een prestatie van formaat. Helaas ging dit ten koste van de fysieke en mentale gezondheid van zorgprofessionals. Bovendien waren ziekenhuizen genoodzaakt de reguliere zorg extreem af te schalen, ten nadele van de reguliere patiënten.
+
+Om eenzelfde situatie bij een tweede golf COVID-19 patiënten te voorkomen, was het noodzakelijk te onderzoeken hoe de keten rond de COVID-19 patiënt beter georganiseerd kan worden. Daarom heeft de Minister voor Medische Zorg en Sport (hierna: de Minister) op 18 mei 2020 aan het Landelijk Netwerk Acute Zorg (hierna: LNAZ) de opdracht gegeven om, in overleg met de betrokken veldpartijen, een plan op te stellen. In dit plan zijn scenario’s uitgewerkt voor de opschaling van de IC-capaciteit en klinische capaciteit in ziekenhuizen, de uitbreiding van de vervoerscapaciteit voor COVID-19 patiënten en de financiering van instrumenten ter borging van coördinatie en monitoring van en samenwerking binnen en tussen de verschillende Regionaal Overleg Acute Zorgketen (hierna: ROAZen) in het kader van COVID-19 patiëntenstromen. Op 30 juni 2020 heeft de Minister het opschalingsplan van LNAZ, inclusief zijn reactie, aangeboden aan de Tweede Kamer1.
+
+Alle betrokken partijen zijn zich bewust van het grote maatschappelijke belang om tot oplossingen te komen die voorzien in de opvang van een onverhoopte tweede golf COVID-19 patiënten, waarbij het uitgangspunt is dat de reguliere zorg wordt gecontinueerd en waarbij rekening wordt gehouden met de draagkracht van het zorgpersoneel en met de uitdagingen op het gebied van financiën, infrastructuur, coördinatie en vervoer.
+
+Probleembeschrijving
+Vanaf 15 maart 2020 is het aantal COVID-19 patiënten dat IC-zorg nodig had snel gestegen. In april 2020 bedroeg het maximaal aantal COVID-19 patiënten die IC-zorg in Nederland nodig hadden 1.378. Met veel kunst- en vliegwerk, en een enorme toewijding en inzet van de mensen in de zorg, is het gelukt om al deze COVID-19 patiënten de zorg te bieden die zij nodig hadden. De gevolgen en de impact daarvan waren groot en zijn op dit moment – najaar 2020 – nog voelbaar. Voor patiënten, hun naasten, maar ook zeker voor alle zorgprofessionals in de ziekenhuizen.
+
+Het is daarom noodzakelijk om te voorkomen dat Nederland – mocht zich onverhoopt weer een piek in het aantal COVID-19 patiënten voordoen – opnieuw in een situatie terecht komt dat de IC’s de toestroom van COVID-19 patiënten niet aan kunnen. Het is van groot belang dat zorg voor COVID-19 patiënten zo min mogelijk ten koste gaat van de reguliere (non-COVID-19) zorg; dat de ziekenhuizen en het personeel structureel voorbereid zijn op en toegerust zijn voor een toename van patiënten en dat de capaciteit daarbij zodanig robuust is dat er daarmee ook zwaardere scenario’s aangepakt kunnen worden.
+
+In dat licht was het niet realistisch om vast te houden aan een reguliere capaciteit van 1.050 IC-bedden in de Nederlandse ziekenhuizen (de situatie voor de COVID-19-crisis). Dit is tevens onverstandig aangezien het niet wenselijk is terug te gaan naar de situatie waarin ziekenhuizen en hun verpleegkundigen en artsen onder een te hoge druk en snelheid de IC-capaciteit moeten opschalen. De beschikbare en flexibel op te schalen IC-capaciteit zal daarom tot en met 2022 moet worden verhoogd.
+
+Dit gaf aanleiding om landelijke afspraken te maken waarmee wordt voorkomen dat in elke regio andere beslissingen worden genomen. Ook biedt dit de mensen die werken in de ziekenhuizen houvast en perspectief, zodat zij duurzaam inzetbaar blijven bij deze belangrijke zorg.
+
+Op basis van prognoses van het Landelijk Coördinatiecentrum Patiënten Spreiding (LCPS) en de Nederlandse Vereniging voor Intensive Care (NVIC) werd eerder, voor in ieder geval de periode totdat er een vaccin beschikbaar is, de benodigde IC-buffercapaciteit voor COVID-19 patiënten op gemiddeld 650 bedden geschat. Dit betekent een totale IC-opschaling naar 1.700 IC-bedden in Nederland.
+
+Kern voorstel
+Ziekenhuizen werken momenteel, in afstemming met de ROAZen en het LNAZ, hard aan het vergroten van hun klinische en IC-capaciteit. Deze opschaling is onderdeel van het eerdergenoemde ‘Opschalingsplan COVID-19’ van het LNAZ. De Minister heeft in een brief van 5 augustus 2020 aan de ROAZen aangekondigd dat er een passende bekostiging voor de opschaling zal worden gevonden. Deze Subsidieregeling geeft daar invulling aan. Het huidige zorgstelsel kent hiervoor geen voorzieningen. Het gaat om een tijdelijke maatregel die één-op-één verbonden is aan de COVID-19 pandemie.
+
+De opschaling van de capaciteit van IC-bedden en klinische bedden is in drie fasen opgedeeld:
+
+•Fase 1: de structurele inzetbaarheid van in totaal 1.150 reguliere IC-bedden ten behoeve van zowel non-COVID-19 patiënten als COVID-19 patiënten;
+
+•Fase 2: de tijdelijke opschaling met 200 vaste IC-bedden en 400 klinische bedden ten behoeve van uitsluitend COVID-19 patiënten, waarmee het totaal aantal IC-bedden in Nederland op 1.350 komt, die op 1 oktober 2020 gerealiseerd moest zijn;
+
+•Fase 3: de tijdelijke opschaling met 350 flexibele IC-bedden en 700 flexibele klinische bedden ten behoeve van uitsluitend COVID-19 patiënten, waarmee het totaal aantal IC-bedden in Nederland op 1.700 komt, die op 1 januari 2021 gerealiseerd moest zijn.
+
+De Subsidieregeling dekt meerdere aspecten van de opschaling: het feitelijk opschalen door aanschaf van medische inventaris en aanpassingen in de huisvesting, het beschikbaar houden van bedden en personeel, het opleiden van huidige en nieuwe medewerkers en het aanleggen van een COVID-19 crisisvoorraad geneesmiddelen.
+
+Doel van de regeling
+Doel van de onderliggende subsidieregeling is om de benodigde financiële middelen, die direct gekoppeld zijn aan de uitvoering van het ‘Opschalingsplan COVID-19’, te verstrekken aan de ziekenhuizen waarbinnen de opschaling van de IC-capaciteit, conform de zogenaamde opschalingslijst (bijlage I), gerealiseerd wordt. Via het zorgstelsel kan daar niet op reguliere wijze in worden voorzien. Afstemming op dat stelsel is van belang om dubbele financiering te voorkomen. Deze subsidieverstrekking moet zo spoedig mogelijk gebeuren en op een zo eenvoudig mogelijke pragmatische manier. De subsidieverstrekking moet bovendien rechtmatig en doelmatig zijn, maar met minimale administratieve lasten.
+
+De COVID-19 opschalingssubsidie is bedoeld om de IC-capaciteit flexibel te kunnen opschalen indien de ontwikkeling van het COVID-19 virus onverhoopt weer tot een piekbelasting zou leiden, waarbij tevens wordt voorkomen dat (acute) reguliere zorg te veel wordt verdrongen.
+
+Opschalingslijst
+Onderdeel van het ‘Opschalingsplan COVID-19’ van het LNAZ was een overzicht van de mogelijk te leveren IC-bedden per ROAZ-regio. Naar aanleiding hiervan is een nadere uitvraag gedaan per regio waarbij er een overzicht is gerealiseerd van de huidige capaciteit per ziekenhuis en is er per regio een verdeling gemaakt waarbij per ziekenhuis is aangegeven hoeveel aantal IC-bedden er in de verschillende opschalingsfases worden opgeschaald. De 11 ROAZ-en hebben de extra benodigde bedden verdeeld over 70 ziekenhuizen. De definitieve opschalingslijst is als bijlage bij deze regeling opgenomen (bijlage I).
+
+De ROAZ-voorzitters hebben namens alle ziekenhuizen hun commitment uitgesproken over de uiteindelijke landelijke verdeling. Dit is van groot belang, want wanneer een ziekenhuis op een gegeven moment toch weer het commitment intrekt, komt daarmee meteen de totale opschaling, de verdeling en daarmee de financiering voor iedereen onder druk te staan.
+
+COVID-19 crisisvoorraad geneesmiddelen
+Ziekenhuizen gebruiken op de IC diverse geneesmiddelen voor COVID-19 patiënten, bijvoorbeeld pijnstillers of slaapmiddelen. Er is een ruime voorraad IC-medicatie nodig om toegerust te zijn voor een nieuwe piekbelasting van de COVID-19 IC-bedden. Het ministerie van Volksgezondheid, Welzijn en Sport (hierna: het ministerie van VWS) verzoekt ziekenhuizen zich daarom ook in te zetten voor de aanschaf en aanleg van een COVID-19 crisisvoorraad geneesmiddelen. De kosten voor de initiële aanleg van deze voorraad en de opslag ervan worden gedragen door het ministerie van VWS. Daarom zijn er in deze regeling ook gelden voor deze medicatie beschikbaar.
+
+De bedoeling is dat deze dynamische COVID-19 crisisvoorraad geneesmiddelen (hierna: CCV geneesmiddelen) als buffer dient en hier enkel op wordt ingeteerd indien de medicatie onverhoopt niet meer op de markt verkrijgbaar zou zijn. Het ministerie van VWS streeft naar een dynamische voorraad om verspilling van deze kostbare en kritieke medicatie te beperken. Ook streeft het ministerie van VWS naar een aanpak die tot zo min mogelijk marktverstoring leidt.
+
+Sinds het begin van de COVID-19 uitbraak monitort en coördineert het Landelijk Coördinatiecentrum Geneesmiddelen (LCG) de landelijke beschikbaarheid van deze geneesmiddelen. Dit gebeurt in opdracht van het ministerie van VWS. Het LCG heeft op verzoek van het ministerie van VWS ook met betrekking tot de CCV geneesmiddelen een belangrijke rol. Het LCG zal de ziekenhuizen adviseren over de omvang van de CCV geneesmiddelen per ziekenhuis, de voorraden van de ziekenhuizen monitoren en indien nodig een coördinerende rol hebben bij herverdeling van de voorraden tussen de ziekenhuizen onderling. Het LCG heeft in algemene zin een uitsluitend ondersteunende en coördinerende rol bij de aanleg door ziekenhuizen van de CCV geneesmiddelen. Het LCG voorziet het ministerie van VWS gedurende de subsidieperiode van een periodieke inzage in de voorraden van alle ziekenhuizen.
+
+Voor de totale kosten van de CCV geneesmiddelen is een goede inschatting gemaakt. Daarom is het niet noodzakelijk om een subsidieplafond te hanteren. Over het volume wordt een advies van het LCG uitgebracht (en bijgevoegd bij de subsidieaanvraag) en de CCV geneesmiddelen heeft betrekking op multi-source geneesmiddelen. Dit zijn geneesmiddelen waarbij concurrentie op de prijs is en waarvan de apotheekinkoopprijzen wel openbaar zijn. Tevens zijn de opgevoerde bedragen door het ministerie van VWS te controleren (in relatie tot openbare apotheekinkoopprijzen).
+
+Op de einddatum van de subsidieperiode, dat is 31 december 2022, is bij de ziekenhuizen de volledige CCV nog aanwezig (immers, ziekenhuizen hebben inspanningsverplichting de voorraad op peil te houden). Los van het feit dat het een dynamische voorraad, is deze voorraad bekostigd vanuit deze subsidie en heeft deze voorraad nog financiële waarde. Op een nader moment wordt bepaald hoe hiermee om wordt gegaan.
+
+Tijdelijkheid
+De subsidiëring van de opschaling van de IC-capaciteit in Nederland is van tijdelijke aard. Als de COVID-19 pandemie voorbij is, dat wil zeggen (i) zodra er een werkzaam vaccin is waarmee de Nederlandse bevolking beschermd is, of (ii) er een geneesmiddel voor COVID-19 is, of (iii) COVID-19 nagenoeg niet meer van invloed is op de ziekenhuiszorg in Nederland, kunnen de ziekenhuizen de uitbreiding van de IC-bedden ten behoeve van opschalingsfase 2 en opschalingsfase 3 weer afschalen tot het reguliere maximum van 1.150 IC-bedden. In dat geval worden ook de 1.000 klinische bedden afgeschaald. Op nader te bepalen peildata zal worden gekeken naar de stand van zaken op dat moment en worden besloten of één van bovenstaande situaties zich voordoet (of aanstaande is).
+
+Gevolgen (m.u.v. financiële gevolgen)
+Het aanvragen van een subsidie door de instellingen heeft gevolgen voor de administratieve lasten en nalevingskosten voor instellingen. De instellingen kunnen voor subsidie in aanmerking komen door een subsidieaanvraag in te dienen. Op de aanvraag kunnen zij aangeven welke activiteiten zij gaan uitvoeren. Instellingen aan wie een subsidie is toegekend, moeten voor de vaststelling van deze subsidie verantwoorden dat de activiteiten zijn verricht door middel van een financieel verslag en een activiteitenverslag.
+
+Financiële gevolgen
+Voor de realisatie van de opschaling zijn financiële middelen benodigd. Het kabinet heeft benadrukt dat zij de uitvoering van het Opschalingsplan en alle bijbehorende acties noodzakelijk vindt en zorg zal dragen voor een passende bekostiging.
+
+Hierbij is de voorwaarde dat de opschaling en de bijbehorende financiering specifiek aan de COVID-19 pandemie is gekoppeld en tijdelijk is. Zodra er een werkzaam vaccin is waarmee de Nederlandse bevolking beschermd is, of een geneesmiddel, of COVID-19 is nagenoeg niet meer van invloed op de ziekenhuiszorg, dan wordt de opgeschaalde capaciteit weer afgeschaald naar het reguliere niveau zoals deze gold voor de regeling en wordt de bijbehorende financiering aangepast.
+
+Gevolgen voor de regeldruk
+Het aanvragen van subsidie door ziekenhuizen heeft gevolgen voor de administratieve lasten. Het doel van de inrichting van de Subsidieregeling is het zo laag mogelijk houden van de administratieve lastendruk voor ziekenhuizen en het vereenvoudigen van de aanvraagprocedure voor partijen, zodat deze voorspoedig doorlopen kan worden. Dit past ook in de aard van de regeling, die ertoe noopt om zo spoedig mogelijk de opschaling van de IC-capaciteit en klinische capaciteit van zorginstellingen ten behoeve van de behandeling van COVID-19 patiënten te realiseren.
+
+Om de administratieve lasten laag te houden wordt de subsidie aangevraagd per ziekenhuis en niet per locatie. De ziekenhuizen die een aanvraag kunnen indienen staan vermeld op de opschalingslijst, dat onderdeel uitmaakt van de subsidieregeling (bijlage I), dit zijn er ongeveer 70. De administratieve lasten voor het aanvragen van de subsidie bestaan uit het eenmalig kennisnemen van de regeling, het indienen van de aanvraag tot subsidieverlening met de daarvoor bestemde stukken; een plan voor bouwkundige aanpassingen, een lijst van een medische inventaris, een overzicht van het aan te leggen volume van de COVID-19 crisisvoorraad geneesmiddelen, een advies van het LCG ten aanzien van de kosten van deze crisisvoorraad geneesmiddelen en een opschalingsvoorstel.
+
+Aanvragen voor bouwkundige aanpassingen die de grensbedragen (van € 75.000 in fase 1 en 2 en € 25.000 in fase 3) voor bouwkundige aanpassingen overstijgen worden door de minister voor advies voorgelegd aan het comité bouwkundige aanpassingen. Indien een zorgvuldige advisering daartoe noopt, kan aan de instelling die het betreft, door het comité bouwkundige aanpassingen om nadere informatie worden gevraagd, hetgeen eveneens gevolgen heeft voor de administratieve lasten.
+
+Daarnaast bestaan de gevolgen voor administratieve lasten uit het opstellen van een beknopte tussentijdse rapportage. Deze tussentijdse rapportage wordt twee keer overgelegd (eens per jaar) en dient ter controle van de voortgang van de activiteiten.
+
+Na afloop van de subsidieperiode dient de subsidieontvanger een aanvraag in voor subsidievaststelling. Hieruit moet blijken dat er voldaan is aan de voorwaarden en de verplichtingen die verbonden zijn aan de subsidie. De aanvraag gaat vergezeld met een activiteitenverslag inclusief een financieel verslag en een controleverklaring van de accountant.
+
+In verband met de COVID-19 pandemie is deze subsidieregeling in korte tijd tot stand gekomen. De beperkte capaciteit waar de subsidieontvangers in deze huidige periode mee te maken hebben, hebben ertoe geleid dat het niet mogelijk is geweest om de ziekenhuizen te betrekken bij het kwantificeren van de regeldruk. Er is derhalve een grove schatting gemaakt van de bovengenoemde kosten.
+
+Taak
+
+Uurtarief1
+
+Eenheid (uren)
+
+Kosten (in €) per ziekenhuis
+
+Kosten alle (70) aanvragers (€)
+
+Kennisnemingskosten
+
+54
+
+1
+
+54
+
+3.780
+
+Plan voor bouwkundige aanpassingen
+
+54
+
+8
+
+432
+
+30.240
+
+Lijst voor medische inventaris2
+
+54
+
+4
+
+216
+
+15.120
+
+Overzicht
+
+crisisvoorraad geneesmiddelen3
+
+54
+
+4
+
+216
+
+15.120
+
+Advies LCG4
+
+–
+
+–
+
+–
+
+–
+
+Indienen aanvraag voor verlening
+
+54
+
+4
+
+216
+
+15.120
+
+Opstellen tussentijdse rapportage (2x)
+
+54
+
+125
+
+648
+
+45.360
+
+Accountantskosten
+
+ 	 	
+1.000
+
+70.000
+
+Indienen aanvraag voor vaststelling
+
+54
+
+4
+
+216
+
+15.120
+
+Totaal per ziekenhuis
+
+ 	 	 	
+2.998
+
+Totaal alle ziekenhuizen
+
+ 	 	 	
+209.860
+
+1
+Er is uitgegaan van een uurtarief van € 54,– voor hoogopgeleide medewerkers. Bron CBS: bruto uurlonen plus gemiddelde opslag voor werkgeverslasten: 48% (volgens CBS-publicatie uit 2014 (Arbeid kost in Nederland gemiddeld 33 euro per uur)) + schatting voor overhead: 25%.
+
+2
+Ervan uitgaande dat deze lijsten en overzichten er nog niet zijn.
+
+3
+Ervan uitgaande dat deze lijsten en overzichten er nog niet zijn.
+
+4
+Vermoedelijk brengt het advies van het LCG ten aanzien van de kosten van de crisisvoorraad geneesmiddelen en het opschalingsvoorstel geen regeldruk mee voor de ziekenhuizen.
+
+5
+Uitgaande van 6 uur per rapportage.
+
+Staatssteun
+Er is sprake van staatssteun in de zin van artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie (VWEU) als aan de volgende vijf cumulatieve criteria is voldaan:
+
+–De steun wordt verleend aan een onderneming die een economische activiteit verricht;
+
+–De steun wordt met staatsmiddelen bekostigd;
+
+–De staatsmiddelen verschaffen een economisch voordeel dat niet via de normale commerciële weg zou zijn verkregen;
+
+–De maatregel is selectief;
+
+–De maatregel vervalst (potentieel) de mededinging en (dreigt te) leiden tot een ongunstige beïnvloeding van het handelsverkeer in de Europese Unie.
+
+Ziekenhuizen zijn te beschouwen als ondernemingen. Indien zij financiële steun ontvangen van de overheid kan er daarom sprake zijn van staatssteun. Op 13 maart 2020 heeft de Europese Commissie een gecoördineerde Europese respons gepresenteerd om de economische gevolgen van het Coronavirus tegen te gaan. Daarin heeft de Europese Commissie – onder meer – bepaald dat overheidssteun voor gezondheidsdiensten om COVID-19 het hoofd te bieden buiten de reikwijdte van de staatssteuncontrole door de Europese Commissie valt2. Aangezien de opschaling van de IC-capaciteit en de klinische capaciteit binnen de Nederlandse ziekenhuizen uitsluitend bestemd is voor de zorg voor COVID-19-patiënten valt de financiering ervan buiten de staatssteuntoetsing van de Europese Commissie.
+
+2. ArtikelsgewijsArtikel 1. Begripsbepaling
+In artikel 1 worden verschillende definities gegeven van die begrippen die worden gebruikt in onderhavige regeling. De begrippen die nadere uitleg behoeven worden hieronder toegelicht.
+
+Voor de definities bouwkundige aanpassingen en bouwwerk gelden de volgende uitgangspunten. De subsidie wordt uitsluitend verstrekt voor verbouwingen waarbij geen wijzigingen aan het fysiek bouwvolume, aan zijgevels, achtergevels en daken worden toegepast. De subsidie is niet bedoeld voor nieuwbouw. Onder nieuwbouw wordt verstaan het bouwen van een volledig nieuw bouwwerk.
+
+De COVID-19 crisisvoorraad geneesmiddelen (hierna: CCV) is de voorraad van geneesmiddelen die te maken heeft met de behandeling van COVID-19 patiënten. Het LCG heeft een lijst vastgesteld van COVID-19-gerelateerde geneesmiddelen, de zogenoemde A-lijst, waarbij een onderscheid wordt gemaakt tussen vier categorieën essentiële IC-medicatie. Deze vier categorieën zijn sedativa, pijnbestrijding, spierrelaxantia en ‘overig’.
+
+De CCV betreft daarmee de voorraad van geneesmiddelen, die staat op de A-lijst van het LCG, wordt aangelegd door zorgaanbieders en is bedoeld om een onverwachtse toename van COVID-19 patiënten op te vangen teneinde de adequate behandeling van deze patiënten te waarborgen voor behandeling op de IC.
+
+De CCV wordt door de ziekenhuizen aangelegd in aanvulling op hun reeds bestaande reguliere voorraadhoogte geneesmiddelen. De CCV zal daarna op dynamische wijze onderdeel uit gaan maken van de reguliere voorraad. Dat betekent dat de CCV door de ziekenhuizen ook voor reguliere zorg zal worden ingezet op basis van het First Expiry-First Out principe en dat de ziekenhuizen dan gehouden zijn om de gebruikte geneesmiddelen uit de CCV uit eigen inkomsten aan te vullen. De CCV fungeert derhalve als minimum van de aan te houden voorraad A-lijst geneesmiddelen. Indien de voorraad van een bepaald geneesmiddel onder het minimum van de CCV zakt, dan dient het ziekenhuis het desbetreffende geneesmiddel zelf aan te vullen tot minimaal de (op basis van de aanwijzingen van het LCG door het ziekenhuis) vastgestelde CCV. Het LCG zal de CCV-standen nauwlettend monitoren.
+
+Een COVID-19 patiënt is een patiënt bij wie sprake is van (verdenking van) een besmetting met de infectieziekte SARS-CoV-2. SARS-CoV-2 is het Severe Acute Respiratory Syndrome Coronavirus 2. De Wereldgezondheidsorganisatie heeft deze naam gegeven aan het nieuwe Coronavirus 2019-nCoV. Dit nieuwe COVID-19 virus is aangemerkt als een infectieziekte behorend tot groep A als bedoeld in artikel 1, onder e, van de Wet publieke gezondheid.
+
+Een gerealiseerd flexibel IC-bed is een IC-bed dat op de locatie van de instelling beschikbaar is in de vorm van een voor IC-zorg geschikt bed, inclusief de beschikbaarheid van bijbehorende voorzieningen om IC-zorg te kunnen verlenen en een plan waar deze flexibele IC-bedden geplaatst kunnen worden bij een piekbelasting.
+
+Een gerealiseerd vast IC-bed is een bed dat fysiek in de instelling aanwezig is, inclusief de bijbehorende voorzieningen en 5 fte personeel. Bovendien is het IC-bed direct voor zorg inzetbaar.
+
+Voor de onderbouwing van het realiseren van 5 fte personeel per IC-bed tellen in ieder geval mee: personeel op basis van een arbeidsovereenkomst, nuluren-contractanten, uitzendkrachten en inhuur personeel, langer dan zes maanden. Voor de onderbouwing tellen niet mee: medisch specialisten, arts-assistenten en stage-contractanten.
+
+Tot de materiële kosten behoren de kosten voor materiaal die bij patiëntenzorg horen, zoals bloed, kunst- en hulpmiddelen, implantaten en geneesmiddelen die niet behoren tot de COVID-19 crisisvoorraad geneesmiddelen.
+
+Tot de noodzakelijke medische inventaris behoren:
+
+–een IC-bed, inclusief matras en toebehoren;
+
+–patiëntstoel;
+
+–apparatuur per IC-bed: PC, beademingsballon, volumetrische pompen, spuitenpompen, infuuspaal, voedingspomp, hoogvacuumklok en laagvacuumklok;
+
+–overige kosten voor een IC-bed, onder andere een centrale post;
+
+–overkoepelende apparatuur voor een IC-bed (1 apparaat op 10 bedden), zoals een transportkar en toebehoren, dialyse-apparatuur en CVVH (Continue Veneus-Veneuze Hemofiltratie) en een echoapparaat;
+
+–kosten van de inventaris voor klinische capaciteit.
+
+In deze regeling wordt onder medische inventaris niet verstaan de (kosten voor) beademingsapparatuur en patiëntmonitorsystemen. Deze zijn reeds door het ministerie van VWS aan de instellingen verstrekt.
+
+De eerste stap in de opschaling van de IC-capaciteit, opschalingsfase 1, is het structureel beschikbaar maken van de reeds bestaande 1.150 IC-bedden. Deze capaciteit is al fysiek aanwezig in de Nederlandse ziekenhuizen, maar is nog niet optimaal inzetbaar. Opschalingsfase 1 moet uiterlijk 1 oktober 2020 gereed zijn, waarbij 100% van de structurele inzetbaarheid van 1.150 IC-bedden is gerealiseerd. Deze 1.150 IC-bedden kunnen worden gebruikt voor alle patiënten die IC-zorg nodig hebben, zowel non-COVID-19 als COVID-19 patiënten.
+
+In opschalingsfase 2 dienen de deelnemende instellingen hun capaciteit uit te breiden met extra IC-bedden en het equivalent aan extra klinische bedden. Deze bedden moeten fysiek aanwezig zijn in het ziekenhuis en het personeel voor deze bedden moet ingeroosterd kunnen worden. In totaal gaat het in opschalingsfase 2 om 200 extra IC-bedden (tot een totaal van 1.350 IC-bedden) en 400 extra klinische bedden. Deze uitbreiding moet op 1 oktober gereed zijn, of zo snel mogelijk daarna.
+
+In opschalingsfase 3 breiden de deelnemende ziekenhuizen hun capaciteit verder uit met flexibele IC-bedden en het equivalent aan klinische bedden. Deze uitbreiding moet uiterlijk 1 januari 2021 gerealiseerd zijn, of zo snel mogelijk daarna. In opschalingsfase 3 hoeven de daarin omschreven bedden niet constant fysiek aanwezig te zijn op een ingerichte afdeling, maar ze moeten wel snel gerealiseerd en opgebouwd kunnen worden binnen de muren van het ziekenhuis als er onverhoopt een piekbelasting dreigt vanwege een toestroom aan COVID-19 patiënten.
+
+In opschalingsfase 3 is er een onderscheid tussen een koud IC-bed en een warm IC-bed. Een koud IC-bed is een bed dat beschikbaar is om te worden ingezet, maar dat nog niet bezet is door een patiënt. Een warm IC-bed is een IC-bed dat daadwerkelijk bezet is door een patiënt.
+
+Artikel 2. Toepasselijkheid Kaderregeling
+De Kaderregeling subsidies OCW, SZW en VWS (hierna: de Kaderregeling) is niet van toepassing, omdat voor de onderhavige regeling een aparte systematiek is gewenst bij de subsidieverlening en bij de subsidievaststelling. Om die reden is op basis van de Kaderwet VWS-subsidies deze afzonderlijke subsidieregeling vastgesteld.
+
+Artikel 3. Subsidiabele activiteiten
+De subsidie bestaat uit zeven onderdelen en is gekoppeld aan de drie opschalingsfases.
+
+Onderdeel a tot en met onderdeel c van dit artikel betreffen de volgende activiteiten:
+
+–noodzakelijke verbouw en bouwkundige aanpassingen binnen bestaande ziekenhuisgebouwen ten behoeve van opschalingsfase 1 tot en met opschalingsfase 3;
+
+–noodzakelijke medische inventaris voor de behandeling van COVID-19 patiënten ten behoeve van opschalingsfase 1 tot en met opschalingsfase 3; en
+
+–het aanleggen van een COVID-19 crisisvoorraad geneesmiddelen ten behoeve van opschalingsfase 2 en opschalingsfase 3.
+
+Deze activiteiten spreken voor zich. De activiteiten in de onderdelen d tot en met g behoeven nadere toelichting. In onderdeel d zijn opleidingsactiviteiten opgenomen voor opschalingsfase 1. Dit betekent echter niet dat opleidingsactiviteiten in opschalingsfase 2 en opschalingsfase 3 niet in aanmerking komen voor subsidie op grond van deze regeling. Subsidie voor deze opleidingsactiviteiten loopt mee in de activiteiten genoemd in onderdeel e en f. De subsidie in onderdeel e en onderdeel f betreft een samenstel van meerdere activiteiten:
+
+–opleidingsactiviteiten in opschalingsfase 2 en opschalingsfase 3;
+
+–het beschikbaar hebben van extra IC-bedden, klinische bedden en personeel; en
+
+–onderhoud en beheer van medische inventaris.
+
+Deze activiteiten worden samengenomen in de onderdelen e en f, omdat verderop in de regeling (artikel 7) voor deze activiteiten gezamenlijk een vast bedrag wordt opgenomen als onderdeel van de hoogte van de subsidie. Hierbij wordt tevens rekening gehouden met een vaste vergoeding voor materiële kosten in opschalingsfase 2.
+
+Subsidie is tevens mogelijk voor de situatie dat een IC-bed in opschalingsfase 3 daadwerkelijk bezet wordt door een patiënt (onderdeel g), in de vorm van een vast bedrag per IC-bed per dag. Op dat moment komt er een vergoeding bij voor de inzet van personeel, een vergoeding voor de materiële kosten en een vergoeding voor het resterende deel van de extra benodigde klinische capaciteit.
+
+Artikel 4. Intrekking en wijziging lopende subsidieverlening
+Een subsidie wordt verleend in de veronderstelling dat de opschaling van de curatieve zorg van COVID-19 patiënten tot en met 31 december 2022 noodzakelijk is. De minister zal gedurende de subsidieperiode bezien hoe de uitbraak van COVID-19 zich ontwikkelt en indien daar aanleiding voor is zich beraden – in overleg met de instellingen – of een zekere mate van afschaling mogelijk en verantwoord is. Indien dat het geval is, geeft het derde lid van artikel 4 de minister de bevoegdheid om de subsidieverlening naar beneden bij te stellen. Indien afschaling eerder mogelijk is, zal de minister bij het bepalen van de omvang van de verlaging van de subsidie alle relevante omstandigheden van dat moment in ogenschouw nemen. Daarbij houdt de minister vanzelfsprekend rekening met reeds aangegane verplichtingen die redelijkerwijs verband houden met de opschaling van de IC-capaciteit.
+
+Artikel 5. Subsidievoorwaarden
+Voor ziekenhuizen die een bijdrage leveren aan de benodigde opschaling gelden in elk geval de in dit artikel beschreven voorwaarden.
+
+Bij de aanleg van de COVID-19 crisisvoorraad geneesmiddelen heeft het LCG een adviserende rol ten aanzien van de totstandkoming van die voorraad. Op basis van de bij het LCG bekende landelijke cijfers en de gegevens die worden aangeleverd door het ziekenhuis zal het LCG aanwijzingen geven welk volume er bij de COVID-19 crisisvoorraad geneesmiddelen minimaal moet worden aangehouden door een ziekenhuis. Het door het LCG afgegeven advies dient bij de subsidieaanvraag te worden gevoegd.
+
+De informatie die is verstrekt door het ziekenhuis over het volume van de aan te schaffen A-lijst geneesmiddelen ten behoeve van de COVID-19 crisisvoorraad geneesmiddelen is in het kader van een subsidieaanvraag steeds door het ministerie VWS bij het LCG te controleren.
+
+Bij de aanleg van de COVID-19 crisisvoorraad geneesmiddelen moet de inkoop plaats vinden conform de kaders die het LCG daarvoor heeft opgesteld. In bijlage II zijn die procesmatige en inhoudelijke kaders van het LCG weergegeven.
+
+Een aanvraag voor subsidie voor de noodzakelijke verbouw en bouwkundige aanpassingen binnen een instelling wordt alleen in behandeling genomen indien de bouwkundige aanpassingen plaatsvinden binnen de huidige grenzen van de instelling. Nieuwbouw is daarmee uitgesloten. Er kan daarom alleen aanspraak worden gemaakt op de subsidie als de opschaling van de IC-capaciteit in de bestaande constructie van de instelling wordt opgelost. Daarbij zijn de volgende randvoorwaarden van toepassing:
+
+•Het toevoegen van extra bouwvolume (m2) wordt aangemerkt als nieuwbouw;
+
+•Gebouwen of bouwdelen die geen onderdeel uitmaken van de bestaande constructie en nog gerealiseerd moeten worden, worden aangemerkt als nieuwbouw.
+
+Indien een subsidieaanvraag voor bouwkundige aanpassingen boven het grensbedrag van € 75.000 per IC-bed in opschalingsfase 1 en opschalingsfase 2 komt of boven het grensbedrag van € 25.000 per IC-bed in opschalingsfase 3, dan wordt de aanvraag voorgelegd aan het comité bouwkundige aanpassingen (waarvan de werkwijze is neergelegd in bijlage III). Het comité bouwkundige aanpassingen dient advies uit te brengen voordat de minister op dit deel van de aanvraag beslist.
+
+Om dubbelfinanciering van de opleidingskosten gedurende opschalingsfase 1, opschalingsfase 2 en opschalingsfase 3 te voorkomen, kan er geen subsidie worden aangevraagd voor opleidingskosten die reeds op grond van de Subsidieregeling kwaliteitsimpuls ziekenhuiszorg 2020 – 2022, SectorPlanPlus of de Beleidsregel Beschikbaarheidbijdrage (medische) vervolgopleidingen 2020 zijn of worden opgevoerd.
+
+Artikel 6. Niet-subsidiabele kosten
+De zorgkosten voor de behandeling van COVID-19 patiënten zijn niet subsidiabel. Die kosten zullen, overeenkomstig de gemaakte afspraken, worden vergoed vanuit de reguliere bekostiging door de zorgverzekeraars. De overige kosten in dit artikel komen evenmin voor vergoeding in aanmerking op grond van deze regeling
+
+Om dubbele financiering van de personeelskosten te voorkomen, kan er geen subsidie worden aangevraagd voor personeelskosten in opschalingsfase 2 en 3 die reeds uit andere bronnen worden gefinancierd. De middelen voor de IC-opschaling zijn beschikbaar gesteld om de reguliere zorg zoveel mogelijk doorgang te laten vinden. Het is daarbij van belang dat ziekenhuizen worden gestimuleerd om de beschikbaar gestelde middelen vooral in te zetten om nieuw personeel aan te trekken voor de IC-opschaling. De inzet van ander personeel uit de reguliere zorg, reeds gefinancierd via de zorgverzekeraars, moet voor de opschaling van de IC-capaciteit zoveel mogelijk worden beperkt.
+
+Artikel 7. Berekening subsidie
+Het eerste lid van artikel 7 bepaalt hoe de subsidie wordt berekend. De hoogte van de te verlenen subsidie wordt berekend door middel van de som van een aantal verschillende componenten. Bij de berekening van onderstaande bedragen wordt gerekend met de term teleenheid. Een teleenheid in opschalingsfase 2 bestaat uit één IC-bed en twee klinische bedden. Een teleenheid in opschalingsfase 3 bestaat uit één IC-bed en 0,8 klinisch bed.
+
+A. Noodzakelijke verbouw en bouwkundige aanpassingen binnen bestaande ziekenhuisgebouwen (eerste lid, onder a en b)
+
+Voor de vergoeding van noodzakelijk verbouw en bouwkundige aanpassingen zijn voor opschalingsfase 1, opschalingsfase 2 en opschalingsfase 3 richtinggevende grensbedragen per teleenheid bepaald.
+
+Het grensbedrag per teleenheid in opschalingsfase 1 en opschalingsfase 2 bedraagt € 75.000. Voor opschalingsfase 3 is het grensbedrag vastgesteld op € 25.000. Het grensbedrag voor opschalingsfase 1 en opschalingsfase 2 is berekend overeenkomstig onderstaande tabel. Voor opschalingsfase 3 is uitgegaan van 1/3 van het grensbedrag voor fase 1 en 2.
+
+Onderdeel
+
+ 
+Verbouw per m2
+
+€ 610
+
+W-installaties per m2
+
+€ 975
+
+E-installaties per m2
+
+€ 365
+
+T-installaties per m2
+
+€ 50
+
+Totaal
+
+€ 2.000
+
+Indirect 24%
+
+480
+
+Totaal
+
+€ 2.480
+
+ 	 
+Aantal m2 patiëntenhuisvesting
+
+25
+
+Opslag intensive care 20%
+
+5
+
+Totaal m2
+
+30
+
+ 	 
+Totaal per bed
+
+74.400
+
+Wanneer een subsidieaanvraag boven het totale richtinggevende grensbedrag uitkomt, dat wil zeggen het aantal teleenheden maal het richtinggevend grensbedrag per opschalingsfase, voert het comité bouwkundige aanpassingen een toets op noodzakelijkheid van de opgevoerde bouwkundige aanpassingen uit.
+
+B. Noodzakelijke medische inventaris ten behoeve van de opschaling (eerste lid, onder c en d)
+
+Voor de vergoeding van de noodzakelijke medische inventaris zijn vaste maximumbedragen bepaald. In de berekening van die maximumbedragen is meegenomen dat de beademingsapparatuur (inclusief monitor en capno-module) eerder door het ministerie van VWS aan de ziekenhuizen is geschonken.
+
+Het maximumbedrag per teleenheid in opschalingsfase 1 en opschalingsfase 2 bedraagt € 60.000. Het maximumbedrag per teleenheid in opschalingsfase 3 is € 30.000. In de onderstaande tabel wordt de opbouw van deze maximumbedragen toegelicht.
+
+Medische inventaris – onderdelen
+
+Maximum
+
+fase 1 & 2
+
+Maximum fase 3
+
+IC-bed (incl. matras en toebehoren)
+
+€ 25.000
+
+€ 5.000
+
+Apparatuur per IC-bed (denk aan: PC, beademingsballon, 2 volumetrische pompen, 6 spuitenpompen, infuuspaal, voedingspomp, hoogvacuumklok, laagvacuumklok)
+
+€ 15.000
+
+€ 15.000
+
+Overige kosten IC-bed (o.a. centrale post)
+
+€ 5.000
+
+€ 2.500
+
+Overkoepelende apparatuur IC-bed (transportkar & toebehoren, dialyse-apparaat/CVVH, Ech-apparaat -> 1 per 10 bedden)
+
+€ 10.000
+
+€ 5.000
+
+Kosten medische inventaris klinische capaciteit
+
+€ 5.000
+
+€ 2.500
+
+Maximumbedrag
+
+€ 60.000
+
+€ 30.000
+
+C. COVID-19 crisisvoorraad geneesmiddelen (eerste lid, onder e)
+
+De vergoeding voor de aanleg van de COVID-19 crisisvoorraad geneesmiddelen bestaat uit de inkoopprijs van de geneesmiddelen. Deze geneesmiddelen kunnen zowel geregistreerde producten zijn als eigen bereidingen. Met eigen bereidingen worden bereidingen van ziekenhuisapotheken zelf bedoeld. Dit heet ook wel een apotheekbereiding of magistrale bereiding. Ook doorgeleverde eigen bereidingen (bereidingen die door een ander ziekenhuis zijn gemaakt) komen voor subsidie in aanmerking.
+
+Indien sprake is van doorgeleverde eigen bereidingen (dat wil zeggen bereidingen die nog niet gereed zijn, oftewel ‘uitgestelde eigen bereidingen’) kan hiervan 50% van de apotheekinkoopprijs worden gesubsidieerd. De eigen bereidingen worden daadwerkelijk gemaakt en gekocht op het moment dat ze nodig zijn.
+
+D. Normbedrag omscholing en opleiding
+
+In opschalingsfase 1, 2 en 3 wordt subsidie verstrekt voor het omscholen en opleiden van personeel dat noodzakelijk is voor de opschaling van de IC-capaciteit en klinische capaciteit ten behoeve van de behandeling van COVID-19 patiënten. Voor de berekening van de hiermee samenhangende kosten is gekeken naar de door de ziekenhuizen ingediende opleidingsplannen. De opleidingsplannen die door de ziekenhuizen zijn ingediend zijn echter zeer divers (zowel qua bedrag als doorlooptijd). Voor de berekening van de hoogte van dit onderdeel van de subsidie wordt daarom uitgegaan van normatieve vergoedingen op basis van gemiddelden. Met deze normatieve vergoeding worden de beschikbare middelen zo eerlijk mogelijk verdeeld.
+
+Op basis van de ingediende opleidingsplannen zijn de gemiddelde kosten berekend voor het opleiden van extra personeel per opgeschaald IC-bed. De opleidingskosten zijn berekend per periode van twee jaar. Deze opleidingskosten zijn afgerond € 70.000. In verschillende opleidingsplannen is bij de berekening van de kosten echter nog geen rekening gehouden met de Basisopleiding Acute Zorg (hierna: BAZ). Om die reden is het normbedrag verhoogd met een bedrag van € 50.000 voor twee BAZ per opgeschaald IC-bed.
+
+Het totaalbedrag van € 120.000 voor een periode van twee jaar is omgerekend naar normbedragen per kalenderjaar. Voor het normbedrag voor opschalingsfase 1 en opschalingsfase 2 is 1 juli 2020 als startdatum genomen en is gerekend met een doorlooptijd van twee jaar. Voor het normbedrag voor opschalingsfase 3 is 1 januari 2021 als startdatum genomen en is gerekend met een doorlooptijd van anderhalf jaar.
+
+ 	
+2020
+
+2021
+
+2022
+
+Totaal
+
+Deel 1 – opleidingen (vanaf 1 juli 2020 – 1 juli 2022)
+
+€ 30.000
+
+€ 60.000
+
+€ 30.000
+
+€ 120.000
+
+Deel 2 – opleidingen (vanaf 1 juli 2020 – 1 juli 2022)
+
+€ 30.000
+
+€ 60.000
+
+€ 30.000
+
+€ 120.000
+
+Deel 3 – opleiding (vanaf 1 januari 2021 – 1 juli 2022)
+
+-
+
+€ 60.000
+
+€ 30.000
+
+€ 90.000
+
+E. Normbedrag opschalingsfase 2; per IC-bed per jaar
+
+Voor de berekening van de normbedragen in opschalingsfase 2 en 3 zijn basisbedragen per kostensoort bepaald:
+
+Kostensoort
+
+Grondslag
+
+Toelichting
+
+Basisbedrag
+
+Personeelskosten IC-bed
+
+Normatief LNAZ
+
+Berekening o.b.v. het LNAZ-rapport, bezetting per IC-bed:
+
+2,06 IC-verpleegkundige
+
+3,09 IC-ondersteuner
+
+€ 357.056
+
+Materiële kosten IC-bed
+
+Kostprijs NZa
+
+Reguliere kostprijs: geneesmiddelen, bloed, kunst- en hulpmiddelen, implantaten
+
+€ 134.178
+
+Gebouwkosten IC-bed
+
+Kostprijs NZa
+
+Onderhoud en beheer
+
+€ 65.172
+
+Personeelskosten klinisch bed
+
+Normatief LNAZ
+
+Berekening o.b.v. LNAZ-rapport, bezetting per klinisch bed:
+
+2,23 verpleegkundige
+
+€ 140.196
+
+Materiële kosten klinisch bed
+
+Kostprijs NZa
+
+Reguliere kostprijs: geneesmiddelen, bloed, kunst- en hulpmiddelen, implantaten
+
+€ 36.653
+
+Gebouwkosten klinisch bed
+
+Kostprijs NZa
+
+Onderhoud en beheer
+
+€ 18.928
+
+Het normbedrag voor opschalingsfase 2 wordt berekend overeenkomstig de volgende formule:
+
+Normbedrag opschalingsfase 2 = Totaal IC-bed + (2 * Totaal klinisch bed)
+
+De waarden voor Totaal IC-bed en het Totaal klinisch bed is berekend op basis van nader bepaalde percentages:
+
+Kostensoort
+
+Percentage van basisbedrag
+
+Bedrag
+
+Personeelskosten IC-bed
+
+70%
+
+€ 249.939
+
+Materiële kosten IC-bed
+
+50%
+
+€ 67.089
+
+Gebouwkosten IC-bed
+
+25%
+
+€ 16.293
+
+Totaal IC-bed per jaar
+
+ 	
+€ 333.321
+
+ 	 	 
+Personeelskosten klinisch bed
+
+70%
+
+€ 98.137
+
+Gebouwkosten klinisch bed
+
+25%
+
+€ 4.732
+
+Totaal klinisch bed
+
+ 	
+€ 102.869
+
+Op basis van bovenstaande informatie luidt de ingevulde formule:
+
+Normbedrag opschalingsfase 2 = € 333.321 + (2 * € 102.869)
+
+Het normbedrag voor opschalingsfase 2 komt daarmee op een totaal van € 539.059 per IC-bed per jaar.
+
+F. Normbedrag opschalingsfase 3; per IC-bed per jaar
+
+Voor de berekening van het normbedrag in opschalingsfase 3 worden de eerdergenoemde basisbedragen ook als uitgangspunt genomen.
+
+Het normbedrag voor opschalingsfase 3 wordt berekend overeenkomstig de volgende formule:
+
+Normbedrag opschalingsfase 3 = Totaal IC-bed + (0,8 * Totaal klinisch bed)
+
+De waarden voor Totaal IC-bed en het Totaal klinisch bed is berekend op basis van nader bepaalde percentages:
+
+Kostensoort
+
+Percentage van basisbedrag
+
+Bedrag
+
+Personeelskosten IC-bed
+
+10%
+
+€ 35.706
+
+Gebouwkosten IC-bed
+
+25%
+
+€ 16.293
+
+Totaal IC-bed per jaar
+
+ 	
+€ 51.999
+
+ 	 	 
+Personeelskosten klinisch bed
+
+10%
+
+€ 14.020
+
+Gebouwkosten klinisch bed
+
+25%
+
+€ 4.732
+
+Totaal klinisch bed
+
+ 	
+€ 18.752
+
+Op basis van bovenstaande informatie luidt de ingevulde formule:
+
+Normbedrag opschalingsfase 3 = € 51.999 + (0,8 * € 18.752)
+
+Het normbedrag voor opschalingsfase 3 komt daarmee op een totaal van € 67.001 per IC-bed per jaar.
+
+Totale vergoeding opschalingsfase 2 (eerste lid, onder g)
+
+De totale vergoeding per IC-bed in opschalingsfase 2 is een totaalbedrag voor de periode van 1 oktober 2020 tot en met 31 december 2022, waarin per jaar verschillende componenten worden opgeteld:
+
+–2020: normbedrag opleidingsactiviteiten deel 2 + 3/12 normbedrag opschalingsfase 2
+
+–2021: normbedrag opleidingsactiviteiten deel 2 + normbedrag opschalingsfase 2
+
+–2022: normbedrag opleidingsactiviteiten deel 2 + normbedrag opschalingsfase 2
+
+2020
+
+2021
+
+2022
+
+Totaal
+
+€ 164.765
+
+€ 599.059
+
+€ 569.059
+
+€ 1.332.883
+
+Totale vergoeding opschalingsfase 3 (eerste lid, onder h)
+
+De totale vergoeding per IC-bed in opschalingsfase 3 is een totaalbedrag voor de periode van 1 januari 2021 tot en met 31 december 2022, waarin per jaar verschillende componenten worden opgeteld:
+
+–2021: normbedrag opleidingsactiviteiten deel 3 + normbedrag opschalingsfase 3
+
+–2022: normbedrag opleidingsactiviteiten deel 3 + normbedrag opschalingsfase 3
+
+2021
+
+2022
+
+Totaal
+
+€ 127.001
+
+€ 97.001
+
+€ 224.002
+
+Dagvergoeding bezet IC-bed (tweede lid)
+
+Het tweede lid van artikel 7 maakt het mogelijk om de subsidie te verhogen in het geval dat een IC-bed in opschalingsfase 3 daadwerkelijk bezet wordt door een patiënt. De verhoging betreft in dit geval, anders dan de andere normbedragen, een bedrag per IC-bed per dag. Het gaat hier dus om de situatie waarin een koud bed wijzigt in een warm bed. Een en ander betekent andersom geredeneerd dat als een warm IC-bed wijzigt naar een koud IC-bed, deze dagtoeslag weer vervalt.
+
+Voor de berekening van dit laatste normbedrag per IC-bed per dag worden de eerdergenoemde basisbedragen ook als uitgangspunt genomen.
+
+Het normbedrag voor daadwerkelijke bezetting van een IC-bed in opschalingsfase 3 wordt berekend overeenkomstig de volgende formule:
+
+Normbedrag bezetting IC-bed opschalingsfase 3 = Totaal IC-bed + (0,8 * Totaal klinisch bed)
+
+De waarden voor Totaal IC-bed en het Totaal klinisch bed is berekend op basis van nader bepaalde percentages:
+
+Kostensoort
+
+Percentage van basisbedrag
+
+Bedrag
+
+Personeelskosten IC-bed
+
+40%
+
+€ 142.822
+
+Materiële kosten IC-bed
+
+100%
+
+€ 134.178
+
+Totaal IC-bed per jaar
+
+ 	
+€ 277.000
+
+ 	 	 
+Personeelskosten klinisch bed
+
+40%
+
+€ 56.078
+
+Totaal klinisch bed
+
+ 	
+€ 56.078
+
+Op basis van bovenstaande informatie luidt de ingevulde formule:
+
+Normbedrag daadwerkelijke bezetting IC-bed opschalingsfase 3 = € 277.000 + (0,8 * € 56.078)
+
+Het normbedrag voor een warm IC-bed in opschalingsfase 3 komt daarmee op een totaal van € 321.862 per IC-bed per jaar. Per dag bedraagt het normbedrag € 882 voor een warm bed in opschalingsfase 3.
+
+Artikel 8. Aanvraag tot subsidieverlening
+Een aanvraag voor subsidie kan worden ingediend in de periode van maandag 2 november 2020 tot en met vrijdag 13 november 2020.
+
+Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt (te vinden op www.dus-i.nl). Uit dit formulier blijkt welke gegevens de instelling dient aan te leveren, zoals de naam van de instelling, het adres, het KvK-nummer, een bankafschrift op naam van de aanvrager (niet ouder dan drie maanden) en de gegevens van de contactpersoon. Onderdeel van het aanvraagformulier is tevens de verklaring dat de instelling niet reeds subsidie heeft aangevraagd of heeft ontvangen op grond van de Subsidieregeling kwaliteitsimpuls ziekenhuiszorg 2020 – 2022, SectorPlanPlus of de Beleidsregel Beschikbaarheidbijdrage (medische) vervolgopleidingen 2020 voor dezelfde opleidingskosten en dat de instelling het aantal overeenkomstig bijlage I op te schalen IC-bedden in opschalingsfase 2 fysiek aanwezig heeft en voor deze bedden personeel beschikbaar heeft. Tevens dient de instelling een opschalingsvoorstel aan te leveren, waarbij de Raad van Bestuur van de instelling onderbouwt hoe zo doelmatig mogelijk vorm gegeven wordt aan de opschalingsfases.
+
+Het plan voor de bouwkundige aanpassingen als bedoeld in het derde lid, onder a, sub 1°, dient tevens een globale onderbouwing van de kosten te behelzen.
+
+Instellingen die een aanvraag indienen voor verbouw en bouwkundige aanpassingen in opschalingsfase 1 en opschalingsfase 2 boven het grensbedrag van € 75.000 per IC-bed of voor verbouw en bouwkundige aanpassingen in opschalingsfase 3 boven het grensbedrag van € 25.000 per IC-bed worden doorgezonden naar een zijportaal van het algemene aanvraagportaal en voorgelegd aan het comité bouwkundige aanpassingen.
+
+Artikel 9. Bouwkundige aanpassingen
+Het besluitvormingsproces voor het onderdeel ‘bouwkundige aanpassingen’ binnen een subsidieaanvraag verloopt volgens de volgende stappen:
+
+1.een instelling dient een subsidieaanvraag in;
+
+a.de aanvraag voor verbouw en bouwkundige aanpassingen bedraagt minder dan € 75.000 per IC-bed in opschalingsfase 1 en 2 en minder dan € 25.000 per IC-bed in opschalingsfase 3;
+
+b.de aanvraag voor verbouw en bouwkundige aanpassingen bedraagt meer dan € 75.000 per IC-bed in opschalingsfase 1 en 2 en minder dan € 25.000 per IC-bed in opschalingsfase 3;
+
+2.indien er sprake is van situatie 1(a) volgt er een lichte toets van de aanvraag;
+
+3.indien er sprake is van situatie 1(b) wordt de aanvraag door het comité bouwkundige aanpassingen getoetst op noodzakelijkheid van de bouwkundige aanpassingen;
+
+4.het advies van het comité wordt – samen met de aanvraag – door het ministerie van VWS beoordeeld.
+
+Het advies van het comité bouwkundige aanpassingen wordt als bijlage bij de verleningsbeschikking gevoegd.
+
+In bijlage III is voorzien in een beschrijving van de werkwijze van het comité bouwkundige aanpassingen.
+
+Artikel 10. Besluit tot subsidieverlening
+De beslistermijn bedraagt maximaal 22 weken. Het uitgangspunt is om zo snel als mogelijk te beslissen op een subsidieaanvraag; het streven is om in 2020 de meeste besluiten te nemen.
+
+Voor een aanvraag waarbij de kosten voor verbouw en bouwkundige aanpassingen boven het grensbedrag van € 75.000 per IC-bed in opschalingsfase 1 en opschalingsfase 2 dan wel boven het grensbedrag van € 25.000 per IC-bed in opschalingsfase 3 komen, zal de besluitvorming in twee fases plaatsvinden. Er wordt naar gestreefd om in 2020 een beschikking te nemen over de kosten van de bouwkundige aanpassingen tot de genoemde grensbedragen. Voor de kosten die boven de grensbedragen uitkomen en waar het comité bouwkundige aanpassingen over zal adviseren, zal de besluitvorming later plaatsvinden in de vorm van een herziene subsidieverlening, doch uiterlijk binnen 22 weken.
+
+Artikel 11. Subsidieverplichtingen
+Het uitgangspunt van de Subsidieregeling is de opschalingslijst in bijlage I, waarin het aantal op te schalen IC-bedden per ziekenhuis per opschalingsfase is vastgelegd. De instelling is verplicht het aantal IC-bedden beschikbaar te hebben overeenkomstig de opschalingslijst: een ziekenhuis kan daarom niet meer of minder IC-bedden opschalen. Dit is alleen anders als ziekenhuizen een herverdeling binnen de eigen ROAZ-regio kunnen oplossen. Onderling ruilen is mogelijk, mits het totaal van het door de ROAZ-regio op te schalen aantal IC-bedden in een opschalingsfase maar gelijk blijft. Daarnaast is het niet mogelijk om op te schalen IC-bedden ‘te schuiven’ tussen opschalingsfasen. Een IC-bed dat wordt opgeschaald in opschalingsfase 3 kan dus niet worden ‘verplaatst’ naar opschalingsfase 2 en andersom. Samenvattend betekent een en ander dat het wel mogelijk is om een IC-bed uit opschalingsfase 2 te realiseren begin 2021, zolang deze opschaling niet ten koste gaat van het in bijlage I opgenomen aantal IC-bedden in opschalingsfase 3 van de betreffende instelling.
+
+COVID-19 crisisvoorraad geneesmiddelen
+
+Het LCG is in opdracht van VWS belast met het monitoren en, indien aan de orde, het herverdelen van de COVID-19 crisisvoorraad geneesmiddelen (CCV geneesmiddelen). Om uitvoering te kunnen geven aan deze opdracht dient het LCG inzicht te hebben in de actuele standen van de CCV geneesmiddelen van alle individuele ziekenhuizen. Om deze reden zijn de ziekenhuizen verplicht om mee te werken aan de monitoringsverzoeken van het LCG en de gevraagde informatie op eerste verzoek binnen bekwame tijd aan het LCG aan te leveren.
+
+Indien aan alle door het LCG aan de inhoud van deze monitoringsverzoeken gestelde eisen wordt voldaan dan kunnen de ziekenhuizen hun rapporteringsverplichting uitbesteden aan een of meerdere leveranciers die op geaggregeerd niveau (d.w.z. alle ziekenhuizen) rechtstreeks aan het LCG rapporteren.
+
+De ziekenhuizen zijn zich bewust dat de door hen aan LCG verschafte gegevens periodiek gedeeld zullen worden met het ministerie van VWS. Het ministerie van VWS gebruikt deze gegevens om na te gaan of het aandeel van betreffende ziekenhuis in de CCV geneesmiddelen en de totale omvang van de CCV geneesmiddelen op peil is.
+
+Indien er door een onverwachte toename van COVID-19 patiënten een tekort ontstaat bij bepaalde ziekenhuizen, kan een beroep gedaan worden op de CCV geneesmiddelen waarbij het LCG de CCV geneesmiddelen zal gaan herverdelen. Het ziekenhuis is verplicht om op eerste verzoek van het LCG mee te werken aan deze herverdeling. Het LCG doet dit verzoek per e-mail.
+
+Indien een ziekenhuis in opdracht van het LCG bepaalde geneesmiddelen uit hun eigen CCV geneesmiddelen heeft afgestaan aan een ander ziekenhuis dan wordt dit administratief verrekend in de onderlinge CCV geneesmiddelen-standen. Dat betekent enerzijds dat de verplichting van het ziekenhuis om een bepaald volume CCV geneesmiddelen aan te houden, wordt verlaagd met het volume van de geneesmiddelen die zijn afgestaan en anderzijds dat de verplichting van het ziekenhuis om een bepaald volume CCV geneesmiddelen aan te houden wordt verhoogd met het volume van de geneesmiddelen die zijn ontvangen.
+
+Het continu op peil houden van de CCV geneesmiddelen dient te worden bekostigd via de inkomsten van het gebruik van geneesmiddelen (vanuit zorgverzekeraars en/of subsidieregeling).
+
+De door de subsidieontvanger aangelegde CCV geneesmiddelen wordt in beginsel in stand gehouden voor de duur van de subsidieperiode of zoveel korter als door VWS te bepalen. Indien de duur van de CCV geneesmiddelen wordt aangepast dan laat het ministerie van VWS dit zes maanden van tevoren weten aan de subsidieontvanger.
+
+Om de bezettingsgraad van bedden in opschalingsfase 2 en opschalingsfase 3 te kunnen monitoren, registreert de subsidieontvanger de zorgactiviteit ‘ic-dag, VWS-subsidie opschaling fase 2’ respectievelijk ‘ic-dag, VWS-subsidie opschaling fase 3’ volgens de Regeling medisch-specialistische zorg van de Nederlandse Zorgautoriteit en declareert deze bij de zorgverzekeraar.
+
+Artikel 12. Meldingsplicht
+Het eerste lid schrijft in drie situaties een meldingsplicht voor. Ten eerste is de subsidieontvanger verplicht te melden wanneer de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel worden verricht. Ten tweede geldt een meldingsplicht indien niet, niet tijdig of niet geheel wordt voldaan aan de aan de subsidie verbonden verplichtingen die zijn neergelegd in artikel 9. Ten derde kunnen zich, los van de activiteiten en verplichtingen, ook andere wijzigingen in de omstandigheden voordoen die van belang zijn voor de subsidieverstrekking en daarom gemeld dienen te woorden. Een evident voorbeeld doet zich voor indien de subsidieontvanger in surseance van betaling is geraakt of haar faillissement wordt aangevraagd of uitgesproken. Ook een statutenwijzigingen of een fusie kan tot een zodanige meldingsplicht leiden.
+
+De melding moet zo spoedig mogelijk en zelfs ‘onverwijld’ worden gedaan. Dit betekent dat de melding onmiddellijk moet worden gedaan. De subsidieontvanger mag dus niet wachten tot hij dit nodig acht.
+
+Het voldoen aan de meldingsplicht is van groot belang. Op basis van tijdige informatie van de subsidieontvanger kan de subsidie immers nog lopende de subsidieperiode worden aangepast. Deze mogelijkheid tot bijsturing bestaat niet meer na afloop van de subsidieperiode.
+
+In het tweede lid is een specifieke meldingsplicht neergelegd: de meldingsplicht ten aanzien van de herverdeling van het aantal op te schalen IC-bedden binnen de ROAZ-regio, zoals toegelicht bij artikel 11. Ziekenhuizen kunnen een herverdeling binnen de ROAZ-regio bewerkstelligen door het herverdelingsvoorstel schriftelijk aan het desbetreffende ROAZ voor te leggen, die daar op zijn beurt mee in moet stemmen. Van dit voornemen tot herverdeling moet onverwijld schriftelijk melding worden gedaan aan het ministerie van VWS. De minister zal binnen 6 weken een besluit nemen over het herverdelingsvoorstel. De minister zal de subsidieverlening alleen herzien als hij instemt met de herverdeling van de op te schalen IC-bedden.
+
+Bovendien is er een specifieke meldingsplicht (neergelegd in het derde lid) voor de situatie waarin de in opschalingsfase 3 opgeschaalde IC-bedden daadwerkelijk zijn bezet door patiënten, dat wil zeggen wanneer een koud IC-bed wijzigt in een warm IC-bed. In tegenstelling tot voorgaande leden geldt de meldingsplicht in het derde lid niet onverwijld, maar halfjaarlijks. Ieder half jaar meldt de instelling hoeveel bedden in opschalingsfase 3 daadwerkelijk bezet werden door een patiënt. In de verleningsbeschikking zal hierover nadere informatie worden gegeven.
+
+De specifieke meldingen in het eerste tot en met derde lid kunnen leiden tot een herziening van de subsidie. Een en ander zou kunnen betekenen dat een melding als bedoeld in het derde lid aangaande de warme bedden in het laatste half jaar van 2022 tot een vaststelling leidt die hoger is dan het bedrag genoemd in de op dat moment geldende subsidieverlening.
+
+Artikel 13. Bevoorschotting en betaling
+In het eerste lid is gekozen voor een bevoorschotting van 100% en een betaling in een keer direct na de verlening. De gedachte hierachter is dat het merendeel van deze kosten reeds zijn gemaakt op het moment van subsidieverlening.
+
+In het tweede, derde en vierde lid is gekozen voor een jaarlijkse bevoorschotting die in een keer wordt betaald. Voor de jaren 2021 en 2022 wordt het voorschot in januari betaald en in 2020 wordt het voorschot direct na de verlening betaald. Een eenmalig voorschot dat direct na de verlening wordt uitbetaald, is gerechtvaardigd, anders dan voorschotten per maand of kwartaal, omdat vooraf – gelet op de onzekerheid van het verloop van de COVID-19 crisis – geen helderheid kan worden gegeven over de liquiditeitsprognose die bovendien per instelling nog verschillend kan zijn. Dit zou onevenredige administratieve en uitvoeringslasten met zich mee brengen.
+
+Artikel 14. Aanvraag tot vaststelling
+Evenals voor de aanvraag van de verlening van de subsidie dient ook bij de aanvraag van de vaststelling een door de minister vastgesteld formulier gebruikt te worden (te vinden op www.dus-i.nl).
+
+De instelling legt rekening en verantwoording af aan de hand van een financieel verslag dat vergezeld gaat van een controleverklaring van een accountant en een activiteitenverslag.
+
+Het financieel verslag geeft inzicht in de werkelijke gemaakte kosten van de bouwkundige aanpassingen en de medische inventaris. Tevens dient het inzicht te geven in het geaggregeerd volume en de totaalkosten van de COVID-19 crisisvoorraad geneesmiddelen.
+
+In het activiteitenverslag wordt verantwoording afgelegd door het overleggen van een assurancerapport van een accountant voor:
+
+−het aantal gerealiseerde vaste IC-bedden; om vast te stellen of opschalingsfase 2 is gerealiseerd, toont de instelling aan hoeveel IC-bedden fysiek aanwezig zijn, inclusief bijbehorende voorzieningen en 5 fte personeel én dat deze bedden direct voor zorg inzetbaar zijn. De instelling dient aan te tonen dat op 1 januari 2021 én op 1 januari 2022 de formatie in fte’s ten opzichte van de formatie op 1 januari 2020 met 5 fte’s zorgprofessionals per teleenheid IC-bed is toegenomen. Bij artikel 1 in de artikelsgewijze toelichting is uiteengezet hoe deze toename kan worden onderbouwd;
+
+−het aantal gerealiseerde flexibele IC-bedden; om vast te stellen of opschalingsfase 3 gerealiseerd is, toont de instelling aan hoeveel IC-bedden aanwezig zijn in de vorm van een voor IC-zorg geschikt en op locatie beschikbaar bed, inclusief beschikbaarheid van bijbehorende voorzieningen om IC-zorg te kunnen verlenen en een plan waar deze bedden geplaatst worden bij een piekbelasting;
+
+−het aantal gerealiseerde klinische bedden.
+
+−De instelling geeft in het activiteitenverslag tevens aan op welke wijze aan de voorwaarden en verplichtingen van onderhavige regeling is voldaan. Het gaat om de volgende voorwaarden en verplichtingen:
+
+−het verlenen van medewerking aan alle monitoringsverzoeken van het LCG;
+
+−het onmiddellijk gevolg geven aan verzoeken van het LCG om een gedeelte van de COVID-19 crisisvoorraad geneesmiddelen over te dragen aan een andere instelling;
+
+−de inspanningsverplichting om de COVID-19 crisisvoorraad geneesmiddelen gedurende de subsidieperiode continu op peil te houden, overeenkomstig de afspraken met het LCG;
+
+−dat bouwkundige aanpassingen slechts binnen de huidige grenzen van de instelling zijn uitgevoerd;
+
+−de inspanningsverplichting om de zorg aan niet-COVID-19 patiënten in opschalingsfase 2 en opschalingsfase 3 maximaal op peil te houden;
+
+−het aanwijzen van een contactpersoon binnen de instelling die mandaat heeft om in overleg te treden met de minister, zorgverzekeraars en het ROAZ; en
+
+−het dagelijks aanleveren van informatie bij het LCPS over het aantal reguliere patiënten en COVID-19 patiënten dat is opgenomen in de instelling.
+
+De termijn waarbinnen de aanvraag tot vaststelling van de subsidie moet worden ingediend, is 22 weken na de datum waarop de activiteiten waarvoor subsidie verleend, uiterlijk moeten zijn verricht, zijnde 31 december 2022.
+
+Artikel 15. Vaststelling
+Als uit de aanvraag tot vaststelling van de subsidie blijkt dat de activiteiten zijn verricht en aan de subsidievoorwaarden en -verplichtingen is voldaan, wordt de subsidie voor de bouwkundige aanpassingen, medische inventaris en COVID-19 crisisvoorraad geneesmiddelen vastgesteld op basis van de werkelijk gemaakte kosten tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
+
+Voor de CCV volgt de vaststelling de berekening zoals deze in artikel 7, eerste lid, onder e, is opgenomen.
+
+Als uit de aanvraag tot vaststelling van de subsidie blijkt dat de opleidingsactiviteiten in opschalingsfase 1 en de activiteiten in de vorm van de uitbreiding en het beschikbaar houden van IC-bedden en klinische bedden ten behoeve van opschalingsfase 2 en opschalingsfase 3 zijn verricht, wordt de subsidie vastgesteld op basis van de gerealiseerde vaste IC-bedden en gerealiseerde flexibele IC-bedden. Om dit te controleren, wordt niet alleen gekeken naar het aantal bedden maar ook naar de toename in fte’s. De minister kan de subsidie lager vaststellen indien de instelling op 1 januari 2021 en op 1 januari 2022 minder dan 5 fte personeel per gerealiseerd vast IC-bed beschikbaar had. Voor elke op die meetmomenten niet-gerealiseerde fte wordt € 89.242 per IC-bed per jaar op de subsidie in mindering gebracht.
+
+Artikel 16. Hardheidsclausule
+Deze bepaling bevat een hardheidsclausule. Toepassing van de hardheidsclausule is aan strenge eisen gebonden en er zal met grote terughoudendheid gebruik van worden gemaakt. Het is evenwel niet op voorhand uit te sluiten dat zich omstandigheden zullen voordoen die noodzaken tot afwijken van deze regeling. Het dient dan te gaan om onbillijkheden van overwegende aard.
+
+Artikel 17. Inwerkingtreding en vervaldatum
+In afwijking van de systematiek van vaste verandermomenten bij regelgeving (zoals opgenomen in aanwijzing 4.17 van de Aanwijzingen voor de regelgeving), treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. Hiervoor is gekozen omdat de regeling zo spoedig mogelijk in werking moet treden om de ziekenhuizen in staat te stellen de IC-capaciteit zo spoedig mogelijk op te schalen een eventuele tweede golf COVID-19 besmettingen op te kunnen vangen.
+
+De Minister voor Medische Zorg,
+T. van Ark
+
+1
+Kamerstukken II 2019/20, 25 295, nr. 455.
+
+2
+Zie de vraag betreffende fondsen voor gezondheidsdiensten op pagina 7 onder het kopje ‘State aid’ op https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_458.
+

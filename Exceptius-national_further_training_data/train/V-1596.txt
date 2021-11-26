@@ -1,0 +1,331 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL ILGALAIKIŲ NEIGIAMŲ COVID-19 PANDEMIJOS PASEKMIŲ VISUOMENĖS
+PSICHIKOS SVEIKATAI MAŽINIMO VEIKSMŲ PLANO PATVIRTINIMO 
+
+2020 m. liepos 3 d.  Nr. V-1596
+
+Vilnius
+
+Įgyvendindamas Lietuvos Respublikos Vyriausybės 2020 m. gegužės 20 d. pasitarimo protokolo Nr. 25 8 klausimo 2 punktą bei Lietuvos Respublikos Vyriausybės 2020 m. birželio 3 d. nutarimo Nr. 565 „Dėl lėšų skyrimo“ 1.2–1.4 papunkčius ir siekdamas sumažinti ilgalaikes neigiamas COVID-19 pandemijos pasekmes visuomenės psichikos sveikatai:
+1. T v i r t i n u  Ilgalaikių neigiamų COVID-19 pandemijos pasekmių visuomenės psichikos sveikatai mažinimo veiksmų planą (pridedama);
+2. P a v e d u šio įsakymo vykdymo kontrolę viceministrui pagal veiklos sritį.
+
+
+
+Sveikatos apsaugos ministras 	Aurelijus Veryga
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUDERINTA
+Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos
+2020 m. birželio 23 d. raštu Nr. (10.22E-)SD-3377
+
+
+
+SUDERINTA
+Lietuvos Respublikos švietimo, mokslo ir sporto ministerijos
+2020 m. birželio 22 d. raštu Nr. SR-2935
+
+
+
+
+PATVIRTINTA
+Lietuvos Respublikos
+sveikatos apsaugos ministro
+2020 m. liepos 3 d. įsakymu Nr. V-1596
+
+
+ILGALAIKIŲ NEIGIAMŲ COVID-19 PANDEMIJOS PASEKMIŲ VISUOMENĖS PSICHIKOS SVEIKATAI MAŽINIMO VEIKSMŲ PLANAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Ilgalaikių neigiamų COVID-19 pandemijos pasekmių psichikos sveikatai mažinimo veiksmų plano (toliau – Planas) rengimo paskirtis – reaguojant į COVID-19 pandemijos sukeltas ilgalaikes neigiamas pasekmes visuomenės psichikos sveikatai, įgyvendinti kompleksines priemones visuomenės psichikos sveikatai gerinti.
+2. Veiksmų planą rengti paskatinusios priežastys – tęsiantis COVID-19 pandemijai ir jai pasibaigus, visuomenės psichikos sveikatai teks vis daugiau iššūkių ir neigiamų pasekmių. Pasaulinės sveikatos ir psichikos sveikatos organizacijos ir tarptautiniai ekspertai teigia, kad būtina imtis ilgalaikių priemonių spręsti psichikos sveikatos problemoms, kylančioms dėl COVID-19 pandemijos, o iki COVID-19 pandemijos buvęs nepakankamas psichikos sveikatos srities finansavimas turi būti nedelsiant ištaisytas, siekiant sumažinti ilgalaikius COVID-19 pandemijos sukeliamus socialinius ir ekonominius kaštus visuomenei. 
+3. COVID-19 pandemija ir įvestas karantinas Lietuvoje sukelia neeilinį stresą bei nerimą gyventojams, o neigiamos socialinės-ekonominės pasekmės bus jaučiamos dar ilgai pasibaigus pandemijai. Gyventojų apklausa parodė, kad karantino metu neigiamos psichologinės būsenos išlieka žymiai aukštesnės, nei buvo iki karantino paskelbimo. Net 66 proc. respondentų kovo pabaigoje vykusioje reprezentatyvioje apklausoje nurodė, kad COVID-19 pandemija jau turėjo neigiamos įtakos jų psichologinei būsenai. Kitos reprezentatyvios gyventojų apklausos duomenimis, patiriančių nerimą padaugėjo beveik pustrečio karto (nuo 26,1 iki 64,3 proc.), liūdesį – daugiau nei du kartus (nuo 21,9 iki 46,8 proc.), pyktį – beveik dvigubai (nuo 19,8 iki 35,6 proc.).
+4. 2019 m. Lietuvoje buvo 235 tūkst. asmenų, kuriems diagnozuoti psichikos ir elgesio sutrikimai, ir tokių asmenų kasmet daugėja. Vilniaus universiteto Psichotraumatologijos centras prognozuoja, kad ateityje COVID-19 pandemija ir paskelbtas karantinas bei socialinės-ekonominės pasekmės reikšmingai padidins šių sutrikimų paplitimą Lietuvoje ir todėl iškils poreikis identifikuoti labiausiai krizės psichologiškai paveiktus asmenis. Krizės laikotarpiu bei 3–6 mėn. po jos gali itin padažnėti sutrikimai, susiję su stresu – adaptacijos sutrikimas ar potrauminio streso sutrikimas, kurie šiuo metu Lietuvos sveikatos sistemoje nėra pakankamai atpažįstami. Taip pat numatomas didesnis kitų nerimo ir nuotaikos sutrikimų paplitimas. COVID-19 pandemija sukuria įvairias gyvenimo sritis apimantį stresorių tinklą – neužtikrintumas dėl ateities, suprastėjusios gyvenimo sąlygos, socialinių kontaktų ribojimas, pajamų sumažėjimas, rizika sveikatai ir kita. Visa tai daro stiprų neigiamą poveikį žmonių psichikos sveikatai.
+5. Tarptautinių organizacijų specialistai taip pat tvirtina, kad dėl ilgalaikio COVID-19 pandemijos poveikio gyventojams (ypač pažeidžiamoms grupėms) bei ekonomikai itin aktualia problema taps padidėjęs savižudybių atvejų skaičius. Ši problema itin aktuali Lietuvos kontekste: Vilniaus universiteto Suicidologijos tyrimų centro skaičiavimais, per 3–4 metus savižudybių Lietuvoje padaugės papildomai 230 atvejų (apie 10–15 proc. kasmet). Prognozuojama, kad didžiausia grėsmė bus ne karantino pradžioje, kai žmonės yra mobilizavęsi ir viliasi, kad viskas greitai pasibaigs, o karantinui pasibaigus ar užsitęsus, kai ryškiau pradės jaustis ekonominės pasekmės. 
+6. Gauti duomenys iš emocinės paramos linijų Lietuvoje apie dažniausiai pasitaikančias skambučių temas balandžio 20 d.–gegužės 3 d. rodo, kad tarp skambinančiųjų dominuoja nerimo, santykių šeimoje, vienišumo, priklausomybių ir depresijos temos. Įvairiose amžiaus grupėse, įskaitant vaikus ir jaunimą, viena iš dažniausiai minimų temų – savižudybės rizika, savęs žalojimas.
+7. Planas parengtas siekiant įgyvendinti šiuos tikslus:
+7.1. didinti psichologinės pagalbos ir psichikos sveikatos priežiūros paslaugų prieinamumą, mažinant neigiamas COVID-19 pandemijos ir susijusių socialinių-ekonominių reiškinių pasekmes gyventojų psichikos sveikatai;
+7.2. užtikrinti pagalbą asmenims, patiriantiems didesnę psichikos ir elgesio sutrikimų riziką dėl COVID-19 pandemijos, ir stiprinti jų psichikos sveikatą.
+
+
+
+
+II SKYRIUS
+ILGALAIKIŲ NEIGIAMŲ COVID-19 PANDEMIJOS PASEKMIŲ  PSICHIKOS SVEIKATAI MAŽINIMO VEIKSMŲ PLANAS
+
+Nr.
+Priemonė
+Aprašymas
+Skirtos lėšos, tūkst. eurų
+Įgyvendinimo terminas
+Vykdytojai
+
+
+
+2020 m.
+2021 m. 
+
+
+1 tikslas  – didinti psichologinės pagalbos ir psichikos sveikatos priežiūros paslaugų prieinamumą, mažinant neigiamas COVID-19 pandemijos ir susijusių socialinių-ekonominių reiškinių pasekmes gyventojų psichikos sveikatai
+1.	
+Didinti psichologų, dirbančių psichikos sveikatos centruose, skaičių
+Skiriamos papildomos Privalomojo sveikatos draudimo fondo rezervo lėšos, siekiant mažinti prie psichikos sveikatos centrų prirašytų asmenų, tenkančių vienam psichologui, skaičių iki 10 000. Numatoma, kad padidės psichologų skaičius psichikos sveikatos centruose 117 psichologų, papildomai bus suteikta apie 70 000 paslaugų per metus
+700 Privalomojo sveikatos draudimo fondo rezervo lėšos (toliau – PSDF) 
+2200 (PSDF)
+2020–2021 m.
+
+Sveikatos apsaugos ministerija, Valstybinė ligonių kasa
+2.	
+Plėtoti psichosocialinės reabilitacijos paslaugas
+Padidinus  skiriamų Privalomojo sveikatos draudimo fondo rezervo lėšų dydį, 2021 m. paslaugas galės gauti dvigubai daugiau asmenų
+150 (PSDF) 
+600 (PSDF)
+2020–2021 m.
+
+Sveikatos apsaugos ministerija, Valstybinė ligonių kasa
+3.	
+Plėtoti visuomenės psichikos sveikatos (stiprinimo ir prevencijos) paslaugas gyventojams visuomenės sveikatos biuruose
+Visuomenės sveikatos biuruose teikiamos psichikos sveikatos stiprinimo ir prevencijos paslaugos, kurias teiks papildomai apie 90 psichikos sveikatos specialistų. Teikiamos nerimo ir streso prevencijos, psichikos sveikatos raštingumo įgūdžių formavimo paslaugos, individualios psichologinės pagalbos paslaugos asmeniui
+1000 (valstybės biudžeto lėšos, toliau – VB)
+
+1300 (VB)
+2020–2021 m.
+
+Sveikatos apsaugos ministerija
+4.	
+Išbandyti ir išplėtoti mobiliųjų komandų paslaugas, užtikrinant neatidėliotiną ir skubią psichologinę pagalbą bendruomenėje nutikus krizei, galinčiai turėti neigiamų pasekmių psichikos sveikatai
+Nutikus kritiniam įvykiui ar ekstremaliajai situacijai, turinčiai reikšmingos įtakos asmens ar bendruomenės psichikos sveikatai, mobiliosios komandos vyktų į įvykio vietą ir teiktų skubią psichologinę pagalbą, identifikuotų tęstinės psichologinės pagalbos poreikį. 2021 m. paslaugas gaus iki 1800 paslaugos gavėjų (asmenų, grupių, bendruomenių)
+220 (VB)
+650 (VB)
+2020–2021 m.
+
+Sveikatos apsaugos ministerija
+5. 
+Stiprinti specialistų kompetencijas psichikos sveikatos sutrikimų ir jų požymių atpažinimo ir psichosocialinės pagalbos suteikimo, krizių įveikos, nuotolinių konsultavimo paslaugų teikimo ir kitose srityse
+5.1. vykdyti mokymus, kaip atpažinti ir gydyti depresijos, nerimo ir nemigos sutrikimus, pagal galimybes taikant nemedikamentinį gydymą (6 val., 600 šeimos gydytojų kasmet)
+
+
+2020–2021 m.
+
+Sveikatos apsaugos ministerija 
+
+
+5.2. vykdyti mokymus, kaip atpažinti psichologinę traumą ir adaptacijos sutrikimus (4 val.), bei atlikti psichotraumatologinį psichologinį įvertinimą ir teikti specializuotą psichologinę pagalbą asmenims, turintiems potrauminio streso sutrikimų (16 val. ir supervizijos, iš viso 400 psichologų)
+
+
+2020–2021 m.
+
+Sveikatos apsaugos ministerija 
+
+
+5.3. vykdyti mokymus ir supervizijas, kaip atpažinti savižudybės grėsmę ir suteikti pirmąją emocinę pagalbą (16 val., iš viso 1 000 specialistų)
+
+
+2020–2021 m.
+
+Sveikatos apsaugos ministerija 
+
+
+5.4. vykdyti instruktorių mokymus, kaip ekstremaliosios situacijos metu organizuoti pirmąją emocinę pagalbą (40 val. ir supervizijos, 36 visuomenės sveikatos biurų specialistai) 
+
+
+2021 m.
+Sveikatos apsaugos ministerija 
+
+
+5.5. vykdyti psichiatrų, psichoterapeutų ir (ar) psichologų mokymus ir (ar) supervizijas, kaip teikti konsultavimo paslaugas pacientams nuotoliniu būdu (iš viso 600 specialistų)
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija 
+
+
+5.6. vykdyti mokymus dėl nuotolinio darbo organizavimo ir konsultacijų teikimo mokyklų ir pedagoginių psichologinių tarnybų / švietimo pagalbos tarnybų psichologams ir socialiniams pedagogams (16 val., 600 dalyvių)
+100 (VB)
+
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra 
+
+
+5.7. vykdyti mokymus ir supervizijas streso įveikos, perdegimo sindromo požymių atpažinimo ir įveikos temomis pedagoginių psichologinių tarnybų / švietimo pagalbos tarnybų ir mokyklų psichologams (16 val., 200 psichologų) ir socialiniams pedagogams (16 val., 200 socialinių pedagogų)
+80 (VB)
+
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra 
+
+
+5.8. vykdyti supervizijas, skirtas  aptarti atvejus, kai įvertinama ir padedama spręsti mokinio psichologines, asmenybės ir ugdymosi problemas bei traumos ir socialinių krizių įveikos temomis pedagoginių psichologinių tarnybų / švietimo pagalbos tarnybų ir mokyklų psichologams (16 val., 150 psichologų)
+30 (VB)
+
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra 
+
+
+5.9. vykdyti supervizijas socialinių paslaugų srities darbuotojams bei tarpžinybinėms komandoms pagal socialinio darbo su tikslinėmis grupėmis (vaikais, jaunimu, šeimomis, globojamais vaikais) formas socialinių krizių atvejams aptarti (15 val., 360 dalyvių)
+72 (VB)
+
+
+2020 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+5.10. vykdyti mokymus Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos darbuotojams (6 val., 300 specialistų) ir socialiniams darbuotojams (6 val., 350 specialistų), kaip atpažinti depresijos, nerimo, priklausomybių ir savižudybių esminius požymius ir rekomenduoti gauti reikiamą pagalbą
+45 (VB)
+
+2020 m.
+Socialinės apsaugos ir darbo ministerija
+6.
+Stiprinti emocinę, psichologinę, konsultacinę pagalbą telefonu, internetu, nuotoliniu būdu tikslinėms grupėms
+6.1. plėtoti emocinės paramos vyresnio amžiaus žmonėms paslaugų teikimą telefonu. Teikti kokybiškas emocinės paramos senjorams telefonu paslaugas, iš dalies finansuoti psichologų konsultacijų, savanorių parengimo išlaidas. Bus atsiliepiama į daugiau skambučių, sustiprinta konsultuojančių savanorių, psichologų komanda
+120 (VB)
+240 (VB)
+2020–2021 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+6.2. stiprinti emocinę paramą, psichologinę, vaiko priežiūros konsultacinę pagalbą tėvams telefonu. Užtikrinti „Tėvų linijos“ veiklą, papildomai skatinti linijos plėtrą, ilginti konsultacijų valandas (psichologų konsultantų darbo apmokėjimas, komandos supervizijos, viešinimas). Bus suteikta daugiau konsultacijų valandų
+36 (VB)
+
+2020 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+6.3. plėtoti emocinės paramos linijų susirašinėjimo internetu (angl. chat) sistemą. Didinti konsultavimo valandų skaičių ir plėtoti paslaugos organizavimo priemones (savanorių koordinavimas, administravimas, psichologų konsultacijos). Pokalbių internetu bus padidinta: Vaikų linijoje: nuo 60 val. iki 260 val./mėn.; Jaunimo linijoje: nuo 96 val. iki 288 val./mėn.; Pagalbos moterims linijoje: nuo 48 val. iki 84 val./mėn.
+60 (VB)
+140 (VB)
+2020–2021 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+6.4. sukurti bendrąją liniją ir stiprinti pokalbių internetu (angl. chat) sistemą Specializuotos pagalbos centruose. Stiprinti psichosocialinę pagalbą smurto artimoje aplinkoje aukoms, diegti bendrąjį pagalbos telefonu numerį (800) ir interneto pokalbių programą. Bus įdiegtas papildomas, klientams patogesnis konsultavimo būdas, didesnis smurto artimoje aplinkoje aukoms teikiamų konsultacijų skaičius
+15 (VB)
+30 (VB)
+2020–2021 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+6.5. stiprinti emocinės paramos linijų techninę bazę – atnaujinti emocinės paramos linijų skambučių centro serverį. Atnaujinta įranga leis atnaujinti licencijas ir užtikrinti teikiamos emocinės paramos plėtrą bei emocinės paramos linijų veiklos stebėseną
+42 (VB)
+
+2020 m.
+Socialinės apsaugos ir darbo ministerija
+
+
+6.6. stiprinti konsultacines psichologines, psichoterapines, teisines, edukacines paslaugas telefonu (nuotoliniu būdu) vyrams, išgyvenantiems su COVID-19 pandemijos poveikiu susijusias ekonomines, socialines ir asmenines krizes 
+40 (VB)
+80 (VB)
+2020–2021 m.
+Socialinės apsaugos ir darbo ministerija
+7.	
+Teikti pagalbą psichologinių sunkumų patiriantiems mokiniams
+Švietimo įstaigų psichologams formuojamos papildomos užduotys individualiam darbui su psichologinių sunkumų patiriančiais mokiniais
+300 (VB)
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija
+8.	
+Įteisinti ir išplėtoti nuotolinį psichikos sveikatos specialistų (psichiatrų, psichoterapeutų ir (ar) psichologų) konsultavimą teikiant įprastines (ne karantino laikotarpio) paslaugas
+Pakeisti teisės aktus, įteisinant nuotolines konsultavimo paslaugas, numatant nuotoliniu būdu teikiamų paslaugų sąlygas bei apmokėjimo tvarką
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija
+9.	
+Informuoti gyventojus, siekiant paskatinti juos atpažinti emocinius sunkumus ir kreiptis pagalbos
+Vykdyti informacinę komunikacijos kampaniją bei plėtoti www.pagalbasau.lt svetainę – nacionalinę platformą – patikimai informacijai apie psichikos sveikatą ir psichosocialinės pagalbos galimybes
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija
+10.	
+Steigti papildomus psichologų etatus savivaldybių pedagoginėse psichologinėse tarnybose / švietimo pagalbos tarnybose  ir mokyklose
+ES projekto lėšomis papildomai įsteigti 95 psichologų, kurie teikia pagalbą mokiniams, mokytojams ir tėvams, etatus pedagoginėse psichologinėse tarnybose / švietimo pagalbos tarnybose ir mokyklose
+
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra
+11.	
+Steigti papildomus socialinių pedagogų etatus savivaldybių pedagoginėse psichologinėse tarnybose / švietimo pagalbos tarnybose
+ES projekto lėšomis steigiami 18 socialinių pedagogų, kurie teiks mokiniams ir mokytojams individualias ir grupines konsultacijas, emocinę paramą, etatų pedagoginėse psichologinėse tarnybose / švietimo pagalbos tarnybose
+
+
+2020–2021 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra
+12.	
+Vykdyti mokymus mokyklų bendruomenėms, kaip tinkamai reaguoti į krizinę situaciją, ją valdyti ir organizuoti pagalbos teikimą
+Bus vykdomi mokymai 60 mokyklos vaiko gerovės komisijos komandų, iš viso apmokyta 300 specialistų
+
+
+2020 m.
+Švietimo, mokslo ir sporto ministerija, Nacionalinė švietimo agentūra
+2 tikslas – užtikrinti pagalbą asmenims, patiriantiems didesnę psichikos ir elgesio sutrikimų riziką dėl COVID-19 pandemijos, ir stiprinti jų psichikos sveikatą
+13.	
+Informuoti asmenis, dirbančius ar dirbusius priešakinėse linijose COVID-19 pandemijos metu, bei asmenis, patyrusius sunkios formos COVID-19 ligą, ir jų artimuosius apie psichosocialinės pagalbos galimybes
+Skatinti asmens sveikatos priežiūros įstaigose ir kitose įstaigose pagal kompetenciją nustatyti tvarką, pagal kurią asmenys, dirbantys priešakinėse linijose COVID-19 pandemijos metu (asmens sveikatos priežiūros specialistai, socialiniai darbuotojai, vaiko teisių apsaugos pareigūnai ir kt.), būtų informuojami ir prireikus siunčiami gauti emocinę paramą ir (ar) psichikos sveikatos paslaugas
+
+
+
+2020 m.
+Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija
+14.	
+Mažinti  asmens sveikatos priežiūros specialistams dėl psichikos ir elgesio sutrikimų taikomus licencijuojamos veiklos ribojimus
+Pakeisti teisės aktus, kuriais nustatomi apribojimai verstis asmens sveikatos priežiūros specialisto praktika dėl psichikos ir elgesio sutrikimų, siekiant paskatinti šiuos specialistus kreiptis gauti psichikos sveikatos priežiūros paslaugas
+
+
+2020 m.
+Sveikatos apsaugos ministerija
+15.	
+Plėtoti psichologinės pagalbos prieinamumą asmens sveikatos priežiūros specialistams
+Parengti sveikatos apsaugos ministro įsakymą su rekomendacijomis dėl psichologinės pagalbos asmens sveikatos priežiūros specialistams prieinamumo užtikrinimo
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija
+16.	
+Įgyvendinti „Socialinio recepto“ iniciatyvą
+Įgyvendinti „Socialinio recepto“ iniciatyvą, kurios metu šeimos gydytojas rekomenduoja vienišiems ir su įprastu gyvenimo stresu nesusitvarkantiems vyresnio amžiaus asmenims ir (ar) neįgaliems asmenims dalyvauti psichikos sveikatai naudingose laisvalaikio veiklose bendruomenėje. Parengti paslaugų teikimo aprašą ir metodinę medžiagą, apmokyti specialistus, įgyvendinti bandomąjį projektą bei išplėtoti iniciatyvą nacionaliniu mastu
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija
+17.	
+Stiprinti emocinės paramos teikimą  arba nukreipimą į psichikos sveikatos specialistus vyresnio amžiaus asmenims
+Skatinti socialinių ir sveikatos paslaugų organizatorius, vykdančius vyresnio amžiaus vienišų asmenų lankomąją priežiūrą ar teikiančių paslaugas įstaigose, užtikrinti darbuotojų kompetencijas atpažįstant vyresnio amžiaus asmenų emocinius sunkumus, psichologinės pagalbos poreikį ir rekomenduojant kreiptis į psichikos sveikatos specialistus
+
+
+2020 m.
+Socialinės apsaugos ir darbo ministerija, Sveikatos apsaugos ministerija
+18.	
+Apmokyti su mokiniais dirbančius specialistus kuo anksčiau atpažinti galimų psichikos sutrikimų esminius požymius ir rekomenduoti gauti reikalingą pagalbą
+Apmokyti ir motyvuoti mokytojus, švietimo pagalbos specialistus ir mokyklos administracijos darbuotojus atpažinti mokinių psichologinę (emocinę) būseną, galimų psichikos sutrikimų esminius požymius ir tinkamai reaguoti, suteikiant pirmąją emocinę paramą ir (ar) rekomenduojant gauti reikalingą pagalbą
+
+
+2020–2021 m.
+Sveikatos apsaugos ministerija, Švietimo, mokslo ir sporto ministerija
+
+III SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+8. Įgyvendinant planą dalyvauja Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija ir Švietimo, mokslo ir sporto ministerija. Plano priemonių įgyvendinimą koordinuoja Sveikatos apsaugos ministerija. 

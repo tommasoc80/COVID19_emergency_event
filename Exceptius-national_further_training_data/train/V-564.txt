@@ -1,0 +1,99 @@
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS –
+VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVAS
+
+SPRENDIMAS
+DĖL BENDRADARBIAVIMO TEIKIANT INFORMACIJĄ
+
+2020 m. kovo 26 d. Nr. V-564
+Vilnius
+
+Vadovaudamasis Lietuvos Respublikos civilinės saugos įstatymo 4 straipsnio 1 punktu, 15 straipsnio 2 dalies 4 punktu, 27 ir 28 straipsniais, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 22 straipsnio 2 dalimi, Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 45 straipsnio 1 dalies 10 punktu, Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“, Lietuvos Respublikos Ministro Pirmininko 2020 m. vasario 27 d. potvarkiu Nr. 43 „Dėl valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo paskyrimo“, įgyvendindamas Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ 4.2 papunktį bei siekdamas užkirsti kelią tolimesniam COVID-19 ligos  (koronaviruso infekcijos) plitimui, tikslu operatyviai organizuoti, įgyvendinti ir koordinuoti procesus ir būtinus veiksmus visoje šalyje, n u s p r e n d ž i u:
+1. Pavesti stacionarines asmens sveikatos priežiūros paslaugas teikiančioms asmens sveikatos priežiūros įstaigoms (toliau – ASPĮ) kiekvieną dieną iki 6.00 val. ryto elektroniniu būdu Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos (toliau – VLK) interneto puslapyje adresu http://www.vlk.lt/apklausos/medpersonalas suvesti informaciją, apimančią pastarąsias 24 valandas ir užfiksuotą ne vėliau kaip iki 3.00 val. nakties, pagal priedą (pridedama).
+2. Pavesti VLK sudaryti galimybę Lietuvos Respublikos Vyriausybei, Sveikatos apsaugos ministerijai ir ASPĮ viešai matyti šio sprendimo 1 punkte nurodytus duomenis, o nesant tokios galimybės - kiekvieną dieną iki 7.00 val. ryto šiuos duomenis .xlsx formatu pateikti Sveikatos apsaugos ministerijai elektroniniu paštu.
+
+
+Sveikatos apsaugos ministras – valstybės lygio
+ekstremaliosios situacijos valstybės operacijų vadovas 		                        Aurelijus Veryga
+
+Lietuvos Respublikos sveikatos apsaugos ministro –
+valstybės lygio ekstremaliosios situacijos valstybės
+operacijų vadovo 2020 m. kovo 26 d. sprendimo Nr. V-564
+priedas
+
+DUOMENYS: MEDICINOS PERSONALAS (TIK PIRMAEILĖSE PAREIGOSE), PACIENTAI, LOVOS, ĮRANGA
+
+Informacija:
+Gydytojų skaičius iš viso
+
+
+Darbuotojai
+
+Visi įstaigoje įdarbinti gydytojai pirmaeilėse pareigose
+
+Visos įstaigoje įdarbintos slaugytojas pirmaeilėse pareigose
+
+Visi įstaigoje įdarbinti gydytojai Reanimatologai Anesteziologai pirmaeilėse pareigose
+
+Visos įstaigoje įdarbintos slaugytojos su Reanimatologijos ir Anesteziologijos patirtimi pirmaeilėse pareigose 
+
+Visi laikinai nedarbingi gydytojai, slaugytojos 
+
+Visi esantys atostogose gydytojai, slaugytojos 
+
+Visi laikinai nedarbingi gydytojai, slaugytojos 
+
+Visi dėl COVID19 infekcijos nedarbingi gydytojai, slaugytojos 
+
+Laikinai dėl COVID19 perkelti į kitas įstaigas gydytojai Reanimatologai Anesteziologai pirmaeilėse pareigose
+
+Laikinai dėl COVID19 perkelti į kitas įstaigas slaugytojos su Reanimatologijos ir Anesteziologijos patirtimi pirmaeilėse pareigose 
+
+Apie įstaigoje laikinai nedarbingumą ne dėl COVID-19 turinčius gydytojus ir slaugytojus
+
+Pacientai
+
+Visi stacionare esantys pacientai
+
+Pacientai, kuriems įtariama COVID19 infekcija
+
+Pacientai, kuriems patvirtinta COVID19 infekcija
+
+Sergantys COVID19 infekcija su deguonies kaukėmis
+
+Sergantys COVID19 infekcija ir intubuoti (DPV) 
+
+Mirę dėl COVID19 infekcijos pacientai
+
+Dėl COVID19 infekcijos perkelti į kitas įstaigas
+
+Dėl COVID19 infekcijos perkelti iš kitų įstaigų
+
+LOVOS
+
+Bendras stacionaro lovų skaičius
+
+Laisvos stacionaro lovos
+
+Bendras reanimacijos lovų skaičius
+
+Lovos užimtos su patvirtinta COVID19 infekcija
+
+Visos stacionaro lovos su deguonimi
+
+Užimtos stacionaro lovos su deguonimi 
+
+Visos stacionaro lovos su DPV
+
+Užimtos stacionaro lovos su DPV
+
+ĮRANGA
+
+Viso DPV aparatų
+
+Veikiantys DPV aparatai
+
+Sugedę DPV aparatai (nurodyti modelį)
+
+
+

@@ -1,0 +1,48 @@
+2020 No. 240
+REPRESENTATION OF THE PEOPLE
+
+The Representation of the People (Absent Voting at Local Government Elections) (Amendment) (Coronavirus) (Scotland) Regulations 2020
+Made12th August 2020
+Laid before the Scottish Parliament14th August 2020
+Coming into force23rd September 2020
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 33 and 61(2) of the Local Electoral Administration and Registration Services (Scotland) Act 2006(1) and all other powers enabling them to do so.
+
+Citation, commencement and interpretation
+1.—(1) These regulations may be cited as the Representation of the People (Absent Voting at Local Government Elections) (Amendment) (Coronavirus) (Scotland) Regulations 2020 and come into force on 23 September 2020.
+
+(2) In these regulations “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+
+Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007
+2.  The Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007(2) are amended in accordance with regulation 3.
+
+3.  In regulation 11 (closing date for applications)—
+
+(a)in paragraph (4)(a) omit “or”;
+(b)in paragraph (4)(aa) after “;” insert “or”;
+(c)after paragraph (4)(aa) insert—
+“(ab)on grounds that the applicant’s circumstances on the date of the poll will be or are likely to be such that:
+(i)the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant under the appropriate rules as a result of following Scottish Government advice or the advice of a registered medical practitioner in relation to coronavirus; and
+(ii)the applicant became aware of this after 5 p.m. on the sixth day before the date of the poll at the election for which it is made;”.
+Review
+4.  The Scottish Ministers must review the need for the requirements imposed by these Regulations at least once every year, with the first review being carried out by 23 September 2021
+
+Expiry
+5.  Regulation 2 ceases to have effect at the end of the period of 2 years beginning with the day on which that regulation comes into force.
+
+GRAEME DEYAuthorised to sign by the Scottish Ministers
+St Andrew’s House,
+
+Edinburgh
+
+12th August 2020
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+Paragraph 4 of schedule 4 of the Representation of the People Act 2000(3) makes provision for absent voting at a particular election in Scotland and subparagraph (2)(a) specifically provides that the returning officer shall grant an application to vote by proxy where satisfied that the applicant’s circumstances of the date of the poll will be or are likely to be such that the applicant cannot reasonably be expected to vote in person at the polling station allotted or likely to be allotted to the applicant. The circumstances of individuals shielding or self-isolating would fall into that category.
+
+These regulations amend the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007. They enable individuals shielding or self-isolating to apply for an “emergency proxy” by adding applications by individuals following Scottish Government or medical advice in relation to coronavirus to the categories of applications listed in regulation 11(4) of those regulations which shall be refused if they are received after 5 p.m. on the day of the poll at the election for which they are made.
+
+(1)2006 asp 14.
+(2)S.S.I. 2007/170, amended by S.I. 2009/35, S.S.I. 2009/94, S.S.I. 2009/1182, S.I. 2011/211, S.S.I. 2011/399, S.S.I. 2011/2085, S.I. 2012/1479, S.S.I. 2013/142, S.S.I. 2016/8, S.S.I. 2016/264, S.S.I. 2017/64 and S.S.I. 2019/1094, subparagraphs 326(2) and 326(3) of schedule 19 of the Data Protection Act 2018 (c.12) and by subparagraphs 1(2) and (3) of schedule 1 of the Scottish Elections (Franchise and Representation) Act 2020 (asp 6).
+(3)2000 c.2; paragraph 3 of schedule 4 was amended by section 9(3) of the Scottish Elections (Franchise and Representation) Act 2020 (asp 6).

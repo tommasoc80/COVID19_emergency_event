@@ -1,0 +1,63 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 
+2020 M. KOVO 24 D. ĮSAKYMO NR. V-520 „DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIŲ TYRIMŲ ATLIKIMO NE ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ LABORATORIJOSE KARANTINO LAIKOTARPIU“ PAKEITIMO
+
+2020 m. gegužės 6 d. Nr. V-1085
+Vilnius
+
+P a k e i č i u Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 24 d. įsakymą  Nr. V-520 „Dėl COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo ne asmens sveikatos priežiūros įstaigų laboratorijose karantino laikotarpiu“ ir išdėstau jį nauja redakcija:
+
+„LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIŲ TYRIMŲ ATLIKIMO KARANTINO LAIKOTARPIU
+
+Vadovaudamasis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 8 straipsniu, įgyvendindamas Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. birželio 13 d. įsakymą Nr. 278 „Dėl Pavojingų ir ypač pavojingų užkrečiamųjų ligų, dėl kurių ligoniai, asmenys, įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, asmenys, turėję sąlytį, ar šių ligų sukėlėjų nešiotojai turi būti hospitalizuojami, izoliuojami, tiriami ir (ar) gydomi privalomai, sąrašo patvirtinimo“ ir atsižvelgdamas į tai, kad Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta valstybės lygio ekstremalioji situacija visoje šalyje dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmės ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas visoje Lietuvos Respublikos teritorijoje:
+1.	T v i r t i n u  COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo karantino laikotarpiu tvarkos aprašą (pridedama).
+2.	P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.“
+
+
+
+Sveikatos apsaugos ministras							             Aurelijus Veryga
+
+PATVIRTINTA
+Lietuvos Respublikos
+sveikatos apsaugos ministro 
+2020 m. kovo 24 d. įsakymu Nr. V-520
+(Lietuvos Respublikos
+sveikatos apsaugos ministro 
+2020 m. gegužės  6  d. įsakymo Nr. V-1085
+redakcija)
+
+COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIŲ TYRIMŲ ATLIKIMO KARANTINO LAIKOTARPIU TVARKOS APRAŠAS
+
+1. COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo karantino laikotarpiu tvarkos aprašas (toliau – Aprašas) nustato reikalavimus įstaigoms, norinčioms karantino laikotarpiu paimti ėminius molekulinės diagnostikos tyrimams dėl SARS-CoV-2 (2019-nCoV) RNR nustatymo tikralaikės PGR metodu (toliau – COVID-19 ligos (koronaviruso infekcijos) laboratorinis tyrimas) ir (ar) atlikti šiuos tyrimus (toliau – laboratorija), ir COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo karantino laikotarpiu tvarką.
+2. Atlikti COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus turi teisę laboratorijos:
+2.1. atitinkančios Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“, patvirtintos Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatytus reikalavimus ir (ar) sukūrusios, įdiegusios ir palaikančios kokybės vadybos sistemą, atitinkančią standarte EN ISO/IEC 17025 „Tyrimo, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ (toliau – Standartas EN ISO/IEC 17025) nurodytus reikalavimus;
+2.2. užtikrinančios, kad naudojamos medicinos priemonės (prietaisai), kiti prietaisai ir pildoma medicininė dokumentacija atitinka Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 5 d. įsakyme Nr. V-998 „Dėl asmens sveikatos priežiūros įstaigų laboratorijų veiklos vertinimo“ nurodytus reikalavimus ir (ar) sukūrusios, įdiegusios ir palaikančios kokybės vadybos sistemą, atitinkančią Standarte EN ISO/IEC 17025 nurodytus reikalavimus.
+3.	Paimti ėminius iš pacientų COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti turi teisę asmens sveikatos priežiūros įstaigos, kurios atitinka Aprašo 2 punkte nustatytus reikalavimus, turinčios:
+3.1.	atskirą pastatą ar atribotą nuo kitų įstaigos padalinių pastato dalį su kabinetu ar kabinetais su atskiru įėjimu į kiekvieną kabinetą, skirtais tik COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus norintiems atlikti pacientams (toliau – pacientas) priimti;
+3.2.	paciento izoliavimo patalpą su sanitariniu mazgu (pacientui įtarus COVID-19 ligą (koronaviruso infekciją);
+3.3.	COVID-19 ligos (koronaviruso infekcijos) laboratorinio tyrimo ėminio paėmimo priemones (vienam pacientui reikalingi 3 sterilūs tamponai (specialios priemonės su transportine virusologine terpe), mėgintuvėlis su transportine terpe);
+3.4.	sandarius plastikinius maišelius su absorbuojančia medžiaga (antrinė ėminio pakuotė);
+3.5.	kartoninę dėžę mėgintuvėliams su ėminiais sudėti (tretinė pakuotė), nenuplaunamą rašiklį;
+3.6.	rankų ir paviršių dezinfekcijai skirtą dezinfekcinę medžiagą, daugkartinio naudojimo pirštines, skirtas valymo, dezinfekcijos darbams;
+3.7.	 vienkartinių pirštinių;
+3.8.	 lengvai dezinfekuojamą stalą;
+3.9.	 uždaromą konteinerį su neperšlampamu maišu užterštoms medicininėms atliekoms;
+3.10.	 du šaltkrepšius (vienas skirtas mėgintuvėliams su švariomis terpėmis, kitas – mėgintuvėliams su ėminiais);
+3.11.	ne mažiau kaip po vieną atsarginį asmens apsaugos priemonių (toliau – AAP) komplektą kiekvienai komandai ir ne mažiau kaip vieną atsarginį AAP komplektą pamainai.
+4.	Laboratorijų atitiktį Aprašo 2 punkte nustatytiems reikalavimams ir jų validumą atlikti COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus (Nacionalinei visuomenės sveikatos priežiūros laboratorijai (toliau – NVSPL) pateikiant 1 tikrai teigiamą ir 1 tikrai neigiamą ėminius) vertina NVSPL.
+5.	Aprašo 4 punkte nustatyta tvarka kaip atitinkančios Aprašo 2 punkte nustatytus reikalavimus įvertintos laboratorijos:
+5.1.	teikia informaciją apie visus atliktus COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. balandžio 1 d. sprendimu Nr. V-671 „Dėl Informacijos apie COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų rezultatus teikimo“ nustatyta tvarka;
+5.2.	paskiria asmenis, atsakingus už bendradarbiavimą su VšĮ Nacionaliniu kraujo centru Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. kovo 18 d. sprendimu Nr. V-440 „Dėl asmens sveikatos priežiūros įstaigų, karščiavimo klinikų ir savivaldybėse įsteigtų mobilių punktų ir jiems priskirtų laboratorijų bendradarbiavimo tvarkos“ nurodytais atvejais;
+5.3.	COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus valstybės poreikiui patenkinti vykdo tik pagal sutartį, sudarytą su NVSPL Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. balandžio 10 d. sprendime Nr. V-828 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo laboratorinių tyrimų atlikimo“ (toliau – sprendimas Nr. V-828) nustatyta tvarka.  
+6.	Asmens sveikatos priežiūros įstaigos, atitinkančios Aprašo 2 ir 3 punktuose nustatytus reikalavimus ir nurodytos sprendime Nr. V-828, mokamas ėminių COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti paėmimo ir COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo paslaugas gali teikti, tik jei užtikrina sprendimo Nr. V-828 2.3 papunktyje nurodyto COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų kiekio atlikimą valstybės poreikiams.
+
+_________________
+

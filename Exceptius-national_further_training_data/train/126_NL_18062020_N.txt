@@ -1,0 +1,935 @@
+Fiscale tegemoetkomingen naar aanleiding van de coronacrisis; (Besluit noodmaatregelen coronacrisis)
+Directoraat-generaal Belastingdienst/Corporate dienst Vaktechniek
+
+Besluit van 16 juni 2020, nr. 2020-12560
+
+De Staatssecretaris van Financiën heeft het volgende besloten.
+
+Dit besluit is een actualisatie van het besluit van 6 mei 2020, nr. 2020-9594 (Stcrt. 2020, 26066) (laatstelijk gewijzigd bij besluit van 19 mei 2020, nr. 2020-10789 (Stcrt. 2020, 28349)). Ten opzichte van het vorige besluit zijn de volgende onderwerpen toegevoegd:
+
+−Uitstel BPM voor vergunninghouders (onderdeel 3.1);
+
+−Tegemoetkoming vaste lasten MKB (onderdeel 8.5);
+
+−Uitstel publicatieplicht financiële gegevens ANBI’s (onderdeel 12).
+
+Daarnaast is de goedkeuring voor een vaste reiskostenvergoeding (zie onderdeel 6.2) verduidelijkt en uitgebreid tot andere vaste vergoedingen en is de goedkeuring voor de vrijstelling kortstondig gebruik van een motorrijtuig uitgebreid (onderdeel 7.1). Tevens is een aanvullende voorwaarde opgenomen voor uitstel van betaling van belastingen voor langer dan 3 maanden (onderdeel 3.1).
+
+Tot slot zijn in dit besluit termijnen van bestaande goedkeuringen verlengd.
+
+Het besluit van 6 mei 2020, nr. 2020-9594 (Stcrt. 2020, 26066) (laatstelijk gewijzigd bij besluit van 19 mei 2020, nr. 2020-10789 (Stcrt. 2020, 28349)) is ingetrokken, met uitzondering van onderdeel 3.2 (invorderingsrente) dat vervalt met terugwerkende kracht tot 1 juni 2020 op de dag dat de Verzamelspoedwet COVID-19 in werking treedt (zie onderdeel 13).
+
+1. Inleiding
+De bijzondere omstandigheden als gevolg van de coronacrisis zijn voor het kabinet aanleiding voor het treffen van economische en fiscale maatregelen. Deze maatregelen zijn aangekondigd als onderdeel van het noodpakket economie en banen dat is beschreven in de brieven van het kabinet aan de Voorzitter van de Tweede Kamer van 12, 17, 19 en 27 maart, 2, 14 en 24 april, 13, 20 en 28 mei 2020.
+
+In dit beleidsbesluit geef ik uitvoering aan fiscale maatregelen in de vorm van concrete goedkeuringen. Ook geef ik een toelichting op een bestaande mogelijkheid tot het verlagen van een voorlopige aanslag vennootschapsbelasting en inkomstenbelasting, kondig ik wetgeving aan die vergoedingen in verband met de TOGS en een tegemoetkoming vaste lasten MKB met terugwerkende kracht vrijstelt van vennootschapsbelasting en inkomstenbelasting en verwijs ik naar een apart besluit waarin ik regel dat bij een betaalpauze een eigenwoningschuld die onder de fiscale aflossingseis valt, blijft behoren tot de eigenwoningschuld.
+
+De goedkeuringen zien op de volgende onderwerpen:
+
+−Verschuldigdheid van en teruggaafverzoeken energiebelasting en opslag duurzame energie- en klimaattransitie;
+
+−Uitstel van betaling van belastingschulden;
+
+−Mededelingsplicht bodemrecht;
+
+−Verklaring betaalgedrag;
+
+−Melding betalingsonmacht;
+
+−G-rekening;
+
+−Betalingsverzuimboeten;
+
+−Bepaalde wettelijke administratieve verplichtingen rondom de loonheffingen;
+
+−Reiskostenvergoeding en andere vaste vergoedingen in de loonheffingen;
+
+−Gebruikelijk loon;
+
+−Werkkostenregeling;
+
+−Vrijstelling kortstondig gebruik van een motorrijtuig;
+
+−Maatregel voor om te bouwen taxi’s;
+
+−Geldigheid taxatierapport motorrijtuig;
+
+−Termijn bij gebruikmaking terugwerkende kracht bij geruisloze omzetting, bedrijfsfusie, juridische fusie, splitsing en geruisloze terugkeer;
+
+−Urencriterium;
+
+−Fiscale coronareserve;
+
+−Btw gevolgen van het ter beschikking stellen van zorgpersoneel;
+
+−Btw gevolgen van het gratis verstrekken van medische hulpgoederen en ‑apparatuur;
+
+−Btw-tarief bij online aanbieden van sportlessen;
+
+−Btw-tarief bij levering van mondkapjes;
+
+−Heffing over Duitse netto-uitkeringen;
+
+−Uitstel publicatieplicht financiële gegevens ANBI’s.
+
+De goedkeuringen zijn gebaseerd op een redelijke wetstoepassing gegeven de bijzondere omstandigheden veroorzaakt door de coronacrisis en waar nodig op de artikelen 62 tot en met 64 Algemene wet inzake rijksbelastingen.
+
+De beleidsmaatregelen hebben een tijdelijk karakter en zullen daarom worden ingetrokken zodra de omstandigheden dit mogelijk maken.
+
+1.1 Gebruikte begrippen en afkortingen
+AWR:
+Algemene wet inzake rijksbelastingen
+
+BBBB:
+Besluit Bestuurlijke Boeten Belastingdienst
+
+EB:
+Energiebelasting
+
+IW:
+Invorderingswet 1990
+
+LI:
+Leidraad invordering 2008
+
+ODE:
+Opslag duurzame energie- en klimaattransitie
+
+UBLB:
+Uitvoeringsbesluit loonbelasting 1965
+
+UR AWR 1994:
+Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994
+
+Wbm:
+Wet belastingen op milieugrondslag
+
+Wet OB:
+Wet op de omzetbelasting 1968
+
+Wet IB 2001:
+Wet inkomstenbelasting 2001
+
+Wet LB:
+Wet op de loonbelasting 1964
+
+2. EB en ODE
+Bij levering of verbruik van aardgas en elektriciteit zijn energiebelasting (EB) en opslag duurzame energie- en klimaattransitie (ODE) verschuldigd. Het tijdstip van verschuldigdheid is geregeld in artikel 56, eerste en derde lid, Wet belastingen op milieugrondslag (Wbm). Hierbij worden vier situaties onderscheiden.
+
+De huidige bijzondere omstandigheden geven aanleiding om soepeler om te gaan met dit tijdstip. De beschrijving van de vier situaties en de goedkeuring voor (delen van) die situaties zijn hierna in afzonderlijke onderdelen opgenomen (onderdelen 2.1 tot en met 2.4).
+
+Het toepassen van de goedkeuringen in onderdelen 2.1 en 2.2 kan tot een onbedoeld effect leiden bij verzoeken om teruggaaf van EB en ODE. Om dit onbedoelde effect op te heffen is in onderdeel 2.5 een goedkeuring opgenomen.
+
+2.1 Voorschot en eindfactuur per kalendermaand
+Op grond van artikel 56, eerste lid, onderdeel a, Wbm zijn voor leveringen van aardgas en elektriciteit in gevallen waarin een voorschotnota wordt uitgereikt of een voorschotbedrag wordt ontvangen de EB en de ODE verschuldigd op het tijdstip van de uitreiking van de voorschotnota of de ontvangst van het voorschotbedrag en op het tijdstip van de uitreiking van de eindfactuur. De huidige bijzondere omstandigheden geven aanleiding om in de situatie dat de eindfactuur van een klant betrekking heeft op een kalendermaand soepeler om te gaan met dit tijdstip. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat met betrekking tot de levering van aardgas en de levering van elektriciteit in gevallen als bedoeld in artikel 56, eerste lid, onderdeel a, Wbm voor leveringen in de maanden april 2020 tot en met september 2020 de EB en de ODE, alsmede de btw hierover, op een later tijdstip worden verschuldigd dan op het tijdstip waarop een voorschotnota wordt uitgereikt, een voorschotbedrag wordt ontvangen of een eindfactuur wordt uitgereikt.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende 6 voorwaarden:
+
+a.Het tijdvak waarop de eindfactuur betrekking heeft is een kalendermaand;
+
+b.De uitgereikte voorschotnota, het ontvangen voorschotbedrag en de eindfactuur zien op leveringen in de maanden april 2020, mei 2020, juni 2020, juli 2020, augustus 2020 of september 2020;
+
+c.Op de uitgereikte voorschotnota of in het ontvangen voorschotbedrag is voor leveringen in de maanden april 2020, mei 2020, juni 2020, juli 2020, augustus 2020 of september 2020 geen bedrag voor de EB en de ODE, noch de btw hierover, opgenomen;
+
+d.Op de uitgereikte eindfactuur is voor leveringen in de maanden april 2020, mei 2020, juni 2020, juli 2020, augustus 2020 of september 2020 de EB en de ODE, alsmede de btw hierover, niet in rekening gebracht;
+
+e.Voor leveringen in de maanden april 2020 tot en met september 2020 worden de EB en de ODE, vermeerderd met de btw hierover, uiterlijk in december 2020 via een aanvullende factuur (of facturen) op de eindfactuur alsnog in rekening gebracht en verschuldigd op het tijdstip waarop de aanvullende factuur (of facturen) wordt uitgereikt;
+
+f.In het geval er uiterlijk in december 2020 geen aanvullende factuur is uitgereikt voor leveringen in de maanden april 2020 tot en met september 2020 worden voor die leveringen de EB en de ODE, alsmede de btw hierover, verschuldigd op 1 januari 2021.
+
+De afnemer/ondernemer kan op basis van de aanvullende factuur eventueel aanspraak maken op aftrek van de daarop in rekening gebrachte btw.
+
+Door deze goedkeuring en de daaraan gestelde voorwaarden wordt bewerkstelligd dat wanneer de eindfactuur van een klant betrekking heeft op een kalendermaand, de energieleverancier de EB en de ODE op een later moment verschuldigd is en deze belastingen dus ook later op aangifte zal afdragen.
+
+Doordat de energieleverancier op de voorschotnota, in het voorschotbedrag en op de eindfactuur geen bedrag opneemt voor de EB en de ODE, noch de btw hierover, komt dit uitstel van verschuldigdheid ten goede aan de klanten van de energieleveranciers.
+
+2.2 Geen voorschot, wel factuur
+Op grond van artikel 56, eerste lid, onderdeel b, Wbm zijn voor leveringen van aardgas en elektriciteit, in gevallen waarin geen voorschotnota wordt uitgereikt of voorschotbedrag wordt ontvangen, maar wel een factuur wordt uitgereikt, de EB en de ODE verschuldigd op het tijdstip van de uitreiking van die factuur. De huidige bijzondere omstandigheden geven aanleiding om soepeler om te gaan met dit tijdstip. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat met betrekking tot de levering van aardgas en de levering van elektriciteit in gevallen als bedoeld in artikel 56, eerste lid, onderdeel b, Wbm voor leveringen in de maanden april 2020 tot en met september 2020 de EB en de ODE, alsmede de btw hierover, op een later tijdstip worden verschuldigd dan op het tijdstip van de uitreiking van de factuur.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende 4 voorwaarden:
+
+a.De uitgereikte factuur ziet op leveringen in de maanden april 2020, mei 2020, juni 2020, juli 2020, augustus 2020 of september 2020;
+
+b.Op de uitgereikte factuur is voor leveringen in de maanden april 2020, mei 2020, juni 2020, juli 2020, augustus 2020 of september 2020 de EB en de ODE, alsmede de btw hierover, niet in rekening gebracht;
+
+c.Voor leveringen in de maanden april 2020 tot en met september 2020 worden de EB en de ODE, vermeerderd met de btw hierover, uiterlijk in december 2020 via een aanvullende factuur (of facturen) alsnog in rekening gebracht en verschuldigd op het tijdstip waarop de aanvullende factuur (of facturen) wordt uitgereikt;
+
+d.In het geval er uiterlijk in december 2020 geen aanvullende factuur is uitgereikt voor leveringen in de maanden april 2020 tot en met september 2020 worden voor die leveringen de EB en de ODE, alsmede de btw hierover, verschuldigd op 1 januari 2021.
+
+De afnemer/ondernemer kan op basis van de aanvullende factuur eventueel aanspraak maken op aftrek van de daarop in rekening gebrachte btw.
+
+Door deze goedkeuring en de daaraan gestelde voorwaarden wordt bewerkstelligd dat de energieleverancier de EB en de ODE op een later moment verschuldigd is en deze belastingen dus ook later op aangifte zal afdragen.
+
+Doordat de energieleverancier op de betreffende factuur geen EB en ODE, noch de btw hierover, in rekening brengt, komt dit uitstel van verschuldigdheid ten goede aan de klanten van de energieleveranciers.
+
+2.3 Geen voorschot, geen factuur, wel levering
+Op grond van artikel 56, eerste lid, onderdeel c, Wbm zijn voor leveringen van aardgas en elektriciteit in overige gevallen (er wordt geen voorschotnota uitgereikt, geen voorschotbedrag ontvangen en geen factuur uitgereikt) de EB en de ODE verschuldigd op het tijdstip waarop de levering plaatsvindt. De huidige bijzondere omstandigheden geven aanleiding om soepeler om te gaan met dit tijdstip. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat met betrekking tot de levering van aardgas en de levering van elektriciteit in gevallen als bedoeld in artikel 56, eerste lid, onderdeel c, Wbm voor leveringen in de maanden april 2020 tot en met september 2020 de EB en de ODE, alsmede de btw hierover, niet worden verschuldigd op het tijdstip waarop de levering plaatsvindt, maar op 1 januari 2021.
+
+2.4 Geen voorschot, geen factuur, geen levering, wel verbruik
+In een aantal gevallen is de verbruiker op grond van artikel 53, tweede lid, Wbm de EB en de ODE verschuldigd, te weten bij:
+
+−Het verbruik van aardgas of elektriciteit, indien dit product is verkregen door tussenkomst van een gasbeurs of elektriciteitsbeurs;
+
+−Het verbruik van aardgas of elektriciteit door degene die leveringen aan de verbruiker verricht;
+
+−Het verbruik van aardgas of elektriciteit, indien het aardgas of de elektriciteit is verkregen op andere wijze dan door een levering.
+
+Artikel 56, derde lid, Wbm bepaalt dat de belasting dan verschuldigd is op het tijdstip waarop het verbruik plaatsvindt. De huidige bijzondere omstandigheden geven aanleiding om soepeler om te gaan met dit tijdstip. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat met betrekking tot gevallen als bedoeld in artikel 56, derde lid, Wbm voor verbruik in de maanden april 2020 tot en met september 2020 de EB en de ODE niet worden verschuldigd op het tijdstip waarop het verbruik plaatsvindt, maar op 31 december 2020.
+
+2.5 Termijn indienen teruggaafverzoeken EB en ODE
+Bij levering van aardgas en elektriciteit zijn EB en ODE verschuldigd. In onderdelen 2.1 en 2.2 van dit besluit keur ik voor bepaalde leveringen van aardgas en elektriciteit in de maanden april 2020 tot en met september 2020 goed dat de EB en de ODE, alsmede de btw hierover, op een later tijdstip worden verschuldigd dan normaal.
+
+Bij beide onderdelen is een van de voorwaarden voor de goedkeuring dat voor leveringen in die maanden de EB en de ODE, vermeerderd met de btw hierover, uiterlijk in december 2020 via een aanvullende factuur (of facturen) alsnog in rekening worden gebracht. Die belastingen worden verschuldigd op het tijdstip waarop de aanvullende factuur (of facturen) wordt uitgereikt.
+
+Het toepassen van deze goedkeuringen kan gevolgen hebben voor verzoeken om teruggaaf, bedoeld in de artikelen 67, 68, 69, 70 en 70a Wbm. In het Uitvoeringsbesluit belastingen op milieugrondslag is namelijk bepaald dat die verzoeken om teruggaaf moeten worden gedaan binnen dertien weken na afloop van de verbruiksperiode of het tijdvak.
+
+Het is mogelijk dat voor leveringen van aardgas en elektriciteit in de periode april 2020 tot en met september 2020 de EB en de ODE, alsmede de btw hierover, nog niet in rekening zijn gebracht binnen die termijn. Er kan dan niet tijdig een verzoek om teruggaaf worden gedaan. Dit is een onbedoeld effect van die twee goedkeuringen. Om dit onbedoelde effect op te heffen keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat verzoeken om teruggaaf, als bedoeld in de artikelen 67, 68, 69, 70 en 70a Wbm, kunnen worden gedaan binnen dertien weken na 31 december 2020. Deze goedkeuring geldt voor leveringen van aardgas en elektriciteit in de periode april 2020 tot en met september 2020 waarbij de EB en de ODE, alsmede de btw hierover, in een aanvullende factuur (of facturen) in rekening zijn gebracht en die factuur (of facturen) bij het verzoek om teruggaaf wordt overgelegd. (In die gevallen heeft de leverancier gebruik gemaakt van de goedkeuring in onderdeel 2.1 of 2.2 van dit besluit).
+
+3. Invordering
+3.1 Uitstel van betaling van belastingschulden
+Ondernemers die door bijzondere omstandigheden waarvan de oorzaak buiten hun invloed ligt, tijdelijk in liquiditeitsproblemen zijn gekomen kunnen om uitstel van betaling vragen, het zogenoemde ‘bijzonder uitstel’. Dit is geregeld in artikel 25.6.2a LI. De gevolgen van de coronacrisis geven aanleiding voor een tijdelijk soepeler beleid. Daarom keur ik het volgende goed.
+
+Goedkeuring 1 (drie maanden geen invorderingsmaatregelen)
+
+Ik keur goed dat de ontvanger na ontvangst van een verzoek om uitstel van betaling door een ondernemer van een van de hierna genoemde belastingen, dat is ingediend op of na 12 maart 2020, gedurende drie maanden geen invorderingsmaatregelen treft.
+
+Het verzoek om uitstel kan schriftelijk of digitaal via een daartoe bestemd formulier worden ingediend nadat er een belastingaanslag is opgelegd. Het verzoek om uitstel wordt geacht een verzoek om uitstel van betaling te zijn van alle openstaande en nog op te leggen belastingaanslagen waarop deze goedkeuring betrekking heeft.
+
+Deze goedkeuring geldt voor de volgende belastingen: loonheffingen, omzetbelasting, inkomstenbelasting/premie volksverzekeringen, inkomensafhankelijke bijdrage Zorgverzekeringswet, vennootschapsbelasting, kansspelbelasting, assurantiebelasting, verhuurderheffing, milieubelastingen (energiebelasting en opslag duurzame energie- en klimaattransitie (ODE), kolenbelasting, afvalstoffenbelasting, belasting op leidingwater), accijnzen en verbruiksbelasting van alcoholvrije dranken.
+
+Deze goedkeuring geldt tevens voor belasting van personenauto's en motorrijwielen (BPM) die is verschuldigd vanaf 1 mei 2020 door een onderneming die beschikt over een vergunning in de zin van artikel 8 van de Wet BPM.
+
+Deze goedkeuring geldt niet voor de omzetbelasting, de accijnzen, de verbruiksbelasting van alcoholvrije dranken en de kolenbelasting voor zover deze belastingen worden geheven met toepassing van de douanewetgeving ter zake van de invoer.
+
+Er wordt geen uitstel van betaling verleend en verleend uitstel van betaling wordt ingetrokken als de belangen van de Staat zich tegen (verder) uitstel verzetten. Dit is onder meer het geval als de ontvanger vreest voor misbruik van de situatie waardoor verhaalsmogelijkheden in gevaar komen.
+
+Goedkeuring 2 (uitstel langer dan drie maanden)
+
+Ik keur onder de volgende voorwaarden goed dat de ontvanger uitstel van betaling van belasting verleent voor een periode langer dan drie maanden. De ondernemer kan om deze langere uitsteltermijn vragen in zijn eerste verzoek om uitstel, of kan hier binnen de periode van 3 maanden na zijn eerste uitstelverzoek alsnog schriftelijk of (op termijn) digitaal via een daartoe bestemd formulier om vragen.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende zes voorwaarden:
+
+a.De bestaande betalingsproblemen maken langer uitstel noodzakelijk.
+
+b.Deze betalingsproblemen zijn hoofdzakelijk door de coronacrisis ontstaan.
+
+c.Er is voor de belastingschuld waarvoor het uitstel wordt gevraagd voldaan aan de aangifteplicht.
+
+d.Het gevraagde uitstel heeft betrekking op een of meer belastingen genoemd in goedkeuring 1.
+
+e.De ondernemer verklaart dat geen bonussen worden uitgekeerd aan de Raad van Bestuur en de directie van de onderneming, geen dividend wordt uitgekeerd en geen eigen aandelen worden ingekocht in de periode vanaf het indienen van het uitstelverzoek tot en met de datum van de vergadering waarin de jaarrekening wordt vastgesteld in 2021. Onder bonussen worden mede begrepen winstuitdelingen en andere betalingen die kenmerken van bonussen hebben. Deze voorwaarde ziet niet op bonussen, dividenden en aandelen waarvan de uitbetaling en inkoop na het uitstelverzoek plaatsvindt, maar de daaraan ten grondslag liggende beslissing in 2019 is genomen.
+
+f.Als de totale belastingschuld ten tijde van ontvangst van het verzoek om uitstel € 20.000 of meer bedraagt is een verklaring van een derde-deskundige vereist die voldoet aan de eisen die zijn opgenomen in goedkeuring 3.
+
+Er wordt geen uitstel van betaling verleend en verleend uitstel van betaling wordt ingetrokken als de belangen van de Staat zich tegen (verder) uitstel verzetten.
+
+Verleend uitstel van betaling op grond van dit onderdeel heeft een tijdelijk karakter en zal worden ingetrokken zodra de omstandigheden dit mogelijk maken. Dit kan bijvoorbeeld het geval zijn als het kabinet de beperkingen opheft ten aanzien van de branche waarin de ondernemer verkeert. Het uitstel op grond van deze goedkeuring zal echter niet voor 1 oktober 2020 worden ingetrokken.
+
+Gedurende het uitstel kan de ontvanger om tussentijdse aflossingen vragen als de liquiditeitspositie van de ondernemer dat toelaat.
+
+Alvorens het uitstel in te trekken stelt de ontvanger de ondernemer in de gelegenheid om een passende betalingsregeling af te sluiten die niet gebonden is aan een maximumtermijn of aan andere eisen die in het reguliere uitstelbeleid worden gesteld.
+
+Goedkeuring 3 (verklaring derde-deskundige)
+
+Ik keur goed dat de verklaring van de derde-deskundige, die op grond van goedkeuring 2 is vereist bij een belastingschuld van € 20.000 of meer, door de Belastingdienst wordt geaccepteerd als de verklaring in ieder geval de volgende elementen bevat:
+
+–Een verklaring dat aannemelijk is dat er sprake is van bestaande of op korte termijn te verwachten betalingsproblemen op het moment van het verzoek om uitstel. Bij ‘korte termijn’ valt te denken aan de periode waarin de actuele beperkingen van het kabinet ten aanzien van de betreffende ondernemer gelden.
+
+–Een verklaring dat aannemelijk is dat deze betalingsproblemen hoofdzakelijk door de coronacrisis zijn ontstaan.
+
+–Een liquiditeitsprognose die volgens de derde-deskundige plausibel is. Deze prognose is opgesteld, door de derde-deskundige dan wel de ondernemer zelf, aan de hand van de feiten en omstandigheden die op het moment van het indienen van het verzoek om uitstel van betaling bekend zijn.
+
+In de toelichting bij de verklaring geeft de derde-deskundige aan welke documenten of gegevens door de ondernemer zijn verstrekt. Zo nodig licht hij dit nader toe. Niet vereist is dat de derde-deskundige een zogenoemde assuranceverklaring geeft dat de ondernemer voldoet aan de voorwaarden.
+
+Goedkeuring 4 (samenloop uitstelvormen)
+
+Ik keur goed dat noch het feit dat aan de ondernemer eerder uitstel op grond van het bestaande beleid is verleend, noch het feit dat de ondernemer verzoekt om een andere vorm van uitstel, een belemmering vormt voor het toekennen van uitstel van betaling op grond dit onderdeel.
+
+Goedkeuring 5 (geen verrekening)
+
+Ik keur goed dat de ontvanger gedurende de periode van uitstel, als bedoeld in goedkeuring 1 en 2, geen belastingteruggaven (van enige soort) verrekent met de belastingschuld waarvoor uitstel van betaling is verleend, tenzij de ondernemer hierom verzoekt of de belangen van de Staat worden geschaad.
+
+Deze goedkeuring 5 is niet van toepassing bij de verrekening van rechten bij invoer.
+
+Voornoemde goedkeuringen 1 tot en met 5 gelden in aanvulling op het uitstelbeleid als verwoord in artikel 25.6 LI.
+
+3.2 Invorderingsrente
+Gelet op artikel 4, onderdelen A en B, van het bij koninklijke boodschap van 12 mei 2020 ingediende voorstel van wet houdende regels over een tijdelijke voorziening voor de betekening van exploten op grond van het Wetboek van Burgerlijke Rechtsvordering en wijziging van de Loodsenwet, de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990, de Algemene wet inkomensafhankelijke regelingen en de Luchtvaartwet BES in verband met de uitbraak van COVID-19 (Verzamelspoedwet COVID-19) (Kamerstukken 35 457), vervalt onderdeel 3.2 van het besluit van 6 mei 2020, nr. 2020-9594 (Stcrt. 2020, 26066) (laatstelijk gewijzigd bij besluit van 19 mei 2020, nr. 2020-10789 (Stcrt. 2020, 28349) met terugwerkende kracht tot en met 1 juni 2020 op de dag dat de Verzamelspoedwet COVID-19 in werking treedt.
+
+3.3 Diverse invorderingsonderwerpen
+Bij het robuust faciliteren van uitstel van betaling van belasting past een soepelere houding ten aanzien van een aantal aanvullende onderwerpen. Deze soepelere houding komt tot uitdrukking in onderstaande goedkeuringen.
+
+3.3.1 Meldingsregeling bodemrecht
+Goedkeuring 1
+
+Ik keur goed dat, in afwijking van artikel 22bis.1, ad 1.B.c LI, de verplichting tot mededeling, bedoeld in artikel 22bis, tweede lid of derde lid IW niet geldt in het geval de derde en de belastingschuldige in verband met de gevolgen van de coronacrisis nader zijn overeengekomen dat de termijn waar binnen de vordering ter zake waarvan het pandrecht of het eigendomsrecht van de derde geldt dient te worden afbetaald, wordt verlengd.
+
+Goedkeuring 2
+
+Ik keur goed dat in afwijking van artikel 22bis.2, ad a LI de meldingsplicht van het voornemen om rechten op een bodemzaak of bodemzaken uit te oefenen of enigerlei andere handeling te (laten) verrichten waardoor het niet meer als bodemzaak kwalificeert, niet van toepassing is als de betalingsachterstand is veroorzaakt door de gevolgen van de coronacrisis.
+
+3.3.2 Verklaring betalingsgedrag
+Goedkeuring
+
+Ik keur goed dat in afwijking van artikel 35.12.2 LI de ontvanger een schone verklaring betalingsgedrag afgeeft als voor de nageheven loonheffingen of voor de (door de uitlener verschuldigde) omzetbelasting ingevolge dit besluit uitstel van betaling is of zal worden verleend dan wel ingevolge dit besluit voor bedoelde naheffingsaanslagen geen invorderingsmaatregelen worden genomen.
+
+3.3.3 Melding betalingsonmacht
+Goedkeuring
+
+Ik keur goed dat voor zover het verzoek om uitstel van betaling op grond van dit beleidsbesluit betrekking heeft op aangiftetijdvakken die eindigen na 1 februari 2020, het verzoek in voorkomend geval mede geldt als tijdige melding van betalingsonmacht als bedoeld in artikel 36, tweede lid IW. De melding wordt bovendien rechtsgeldig geacht, tenzij achteraf blijkt dat de betalingsonmacht niet hoofdzakelijk verband houdt met de gevolgen van de coronacrisis.
+
+3.3.4 G-rekening
+Goedkeuring 1
+
+Ik keur goed dat in afwijking van artikel 10, eerste lid, van de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004, het saldo van de g-rekening dat overeenkomt met de verschuldigde loonheffing en omzetbelasting waarvoor op grond van dit beleidsbesluit uitstel van betaling is verleend dan wel de invordering is opgeschort op grond van een ingediend verzoek om uitstel van betaling, op verzoek kan worden gedeblokkeerd door de ontvanger. De in de vorige volzin bedoelde verruiming kan worden beperkt in situaties van misbruik of oneigenlijk gebruik.
+
+Goedkeuring 2
+
+Ik keur goed dat uitwinning van de g-rekening achterwege blijft als er een verzoek om uitstel van betaling op grond van dit besluit in behandeling is of is toegewezen, tenzij de belangen van de Staat zich daartegen verzetten.
+
+4. Betalingsverzuimboeten
+Ik acht het onwenselijk dat ondernemers waaraan uitstel van betaling vanwege betalingsproblemen als gevolg van de coronacrisis is verleend, worden beboet omdat zij niet (tijdig) aan hun betalingsverplichtingen hebben voldaan. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat verzuimboeten voor betalingsverzuimen begaan in de periode van 12 maart 2020 tot aan de datum waarop het uitstel van betaling van dit besluit eindigt (zie onderdeel 3.1), worden geacht niet te zijn opgelegd. Als een verzuimboete wordt opgelegd, zorgt de ontvanger ervoor dat deze ambtshalve wordt vernietigd. Deze goedkeuring geldt voor alle belastingmiddelen waarvoor de tijdelijke bijzondere uitstelregeling van dit besluit geldt, met dien verstande dat de goedkeuring voor de BPM van toepassing is op betalingsverzuimen die zijn begaan ten aanzien van tijdvakken waarvoor uitstel van betaling is verleend.
+
+5. Douane
+De in onderdeel 3.1 van dit besluit opgenomen goedkeuringen met betrekking tot uitstel van betaling van belastingschulden zijn niet van toepassing op de omzetbelasting, de accijnzen, de verbruiksbelasting van alcoholvrije dranken en de kolenbelasting voor zover deze belastingen worden geheven met toepassing van de douanewetgeving ter zake van de invoer. Voor die gevallen voorziet de douanewetgeving in een eigen regeling. Zie met name de artikelen 110, 112 en 114 van het Douanewetboek van de Unie.
+
+De in onderdeel 3.1 van dit verzamelbesluit opgenomen goedkeuring 5 inzake schorsing van de verrekening van belastingen is niet van toepassing bij de verrekening van rechten bij invoer.
+
+De in onderdeel 4 van dit besluit opgenomen goedkeuring met betrekking tot de verzuimboeten voor betalingsverzuimen begaan in de periode van 12 maart 2020 tot aan de datum waarop het uitstel van betaling op grond van dit besluit eindigt, is in voorkomend geval ook van toepassing op de accijnzen en verbruiksbelasting van alcoholvrije dranken.
+
+6. Loonheffingen
+6.1 Administratieve verplichtingen
+Werkgevers hebben rondom de loonheffingen bepaalde wettelijke administratieve verplichtingen. De huidige bijzondere omstandigheden kunnen meebrengen dat werkgevers deze verplichtingen vanwege het thuiswerken van werknemers en de anderhalvemetersamenleving in redelijkheid niet, niet tijdig of niet geheel kunnen nakomen. Dit kan leiden tot een in de wet voorziene sanctie die gelet op de bijzondere omstandigheden niet passend of redelijk is. Dit vind ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat de Belastingdienst een soepel standpunt inneemt in het geval dat een werkgever of werknemer gedurende de werking van dit besluit een wettelijke administratieve verplichting in redelijkheid niet, niet tijdig of niet volledig nakomt en dit voor zover mogelijk herstelt zodra dat kan.
+
+Voorbeeld identificatieplicht nieuwe werknemer
+
+Een werkgever moet voor de eerste werkdag van een werknemer of – als de werknemer op de eerste werkdag wordt aangenomen – op de eerste werkdag voor aanvang van de werkzaamheden de identiteit van de werknemer vaststellen aan de hand van het origineel van een toegelaten identiteitsbewijs en een kopie van het identiteitsbewijs in de loonadministratie opnemen (zie artikel 28, eerste lid, onderdeel f, Wet LB en artikel 7.5 UBLB).
+
+Het is in de huidige omstandigheden niet altijd in redelijkheid mogelijk om de identiteit van de werknemer tijdig volgens de wettelijke regeling vast te stellen aan de hand van een origineel identiteitsbewijs. In een dergelijk geval kan de toepassing van het anoniementarief achterwege blijven als de werkgever de identiteit van de werknemer volgens de wettelijke regeling vaststelt zodra hij daar in redelijkheid toe in staat is. Dit laat de verplichting onverlet om een kopie (al dan niet digitaal) van het identiteitsbewijs tijdig op te nemen in de loonadministratie.
+
+6.2 Vaste reiskostenvergoeding en andere vaste vergoedingen
+Vaste reiskostenvergoeding
+
+Voor reiskosten met een vast en gelijkmatig karakter bestaat de mogelijkheid een vaste onbelaste vergoeding af te spreken, bijvoorbeeld voor het woon-werktraject (zie onderdeel 4 van het besluit van 20 maart 2015, nr. BLKB2015/0188M (Stcrt. 2015, 8385)). Voor veel werknemers leiden de maatregelen rondom de coronacrisis wat betreft de kosten van vervoer tot een verandering van hun reispatroon. Die verandering kan meebrengen dat een werkgever de vaste reiskostenvergoeding moet aanpassen of geheel of gedeeltelijk tot het loon moet rekenen. Dit vind ik in deze bijzondere omstandigheden niet doelmatig en ongewenst. Daarom keur ik voor zoveel nodig het volgende goed.
+
+Goedkeuring 1
+
+Ik keur voor zoveel nodig goed dat een werkgever gedurende de werking van dit besluit voor een vaste reiskostenvergoeding geen gevolgen verbindt aan een wijziging in het reispatroon van een werknemer. De werkgever kan deze goedkeuring ook toepassen voor een vaste reiskostenvergoeding met nacalculatie. Dit betekent dat de werkgever voor deze periode mag blijven uitgaan van de aangenomen feiten waar de vergoeding op gebaseerd is.
+
+Andere vaste vergoedingen
+
+Voor andere vaste vergoedingen kunnen de maatregelen rondom de coronacrisis zonder nadere maatregel overeenkomstige gevolgen hebben. Dit vind ik in deze bijzondere omstandigheden ook niet doelmatig en ongewenst. Daarom keur ik voor zoveel nodig het volgende goed.
+
+Goedkeuring 2
+
+Ik keur voor zoveel nodig goed dat een werkgever gedurende de werking van dit besluit ook andere vaste vergoedingen ongewijzigd voortzet en daarvoor blijft uitgaan van de aangenomen feiten waar de vergoeding op gebaseerd is
+
+Toelichting
+
+Deze goedkeuringen gelden niet voor een vergoeding voor extraterritoriale kosten volgens de bewijsregel als bedoeld in artikel 10ea van het Uitvoeringsbesluit loonbelasting 1965. Deze goedkeuringen zien alleen op vaste vergoedingen waarop de werknemer uiterlijk op 12 maart 2020 een onvoorwaardelijk recht kreeg.
+
+Voorbeeld
+
+Als een recht op een vaste reiskostenvergoeding afhankelijk was van een keuze van de werknemer (bijvoorbeeld bij een cafetariasysteem) moet deze zijn keuze uiterlijk op 12 maart 2020 hebben gemaakt.
+
+6.3 Gebruikelijk loon 2020 AB-houders
+Zogenoemde AB-werknemers, zoals een directeur-grootaandeelhouder van een BV, genieten een gebruikelijk loon. Dit is wettelijk geregeld in de gebruikelijkloonregeling (zie artikel 12a van de Wet LB). De hoogte van het gebruikelijk loon is afhankelijk van de relevante feiten en omstandigheden, zoals de beloning bij vergelijkbare dienstbetrekkingen.
+
+Het is mij gebleken dat de coronacrisis tot knelpunten leidt bij de vaststelling van een gebruikelijk loon.
+
+Een en ander geeft mij aanleiding duidelijkheid vooraf te verschaffen en een tijdelijke goedkeuring uit te brengen. Ik kies daarbij voor een praktisch goed hanteerbaar criterium dat ook recht doet aan het wettelijk uitgangspunt. Bij omzetdalingen mag het gebruikelijk loon in 2020 evenredig lager zijn. Daarmee is een verlaging van het gebruikelijk loon in veel gevallen eenvoudig vast te stellen zonder overleg met de inspecteur. De rechtszekerheid wordt hiermee gediend.
+
+Goedkeuring
+
+Ik keur onder voorwaarden goed dat het gebruikelijk loon over 2020 wordt bepaald volgens de navolgende berekeningen. Het gaat daarbij om de omzet exclusief de omzetbelasting.
+
+Gebruikelijk loon 2020 = A x B/C
+
+A = het gebruikelijk loon over 2019
+
+B = de omzet over de eerste vier kalendermaanden van 2020
+
+C = de omzet over de eerste vier kalendermaanden van 2019
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende drie voorwaarden.
+
+a.De rekening-courantschuld of het dividend neemt niet toe als gevolg van het lagere gebruikelijk loon.
+
+b.Als de AB-werknemer feitelijk meer loon heeft genoten dan volgt uit bovenstaande berekeningen, geldt dat hogere loon. Dit kan zich bijvoorbeeld voordoen als een BV voor de AB-werknemer gebruikmaakt van de Tijdelijke noodmaatregel overbrugging voor behoud van werkgelegenheid (NOW). Een eventuele uitkering op grond van de Tijdelijke overbruggingsregeling zelfstandig ondernemers (Tozo) vormt geen genoten loon uit de dienstbetrekking en heeft daarom geen gevolgen voor het gebruikelijk loon.
+
+c.Deze goedkeuring geldt niet voor zover de omzet in het jaar 2019 of 2020 beïnvloed is door andere bijzondere oorzaken, zoals oprichting, staking, fusie, splitsing en bijzondere resultaten.
+
+Deze goedkeuring kan meebrengen dat het loon van de AB-werknemer lager is dan € 46.000, 75% van het loon van de meest vergelijkbare dienstbetrekking of het loon van de meestverdienende werknemer (zie artikel 12a van de Wet LB).
+
+Deze goedkeuring leidt uiteraard niet tot een hoger gebruikelijk loon en laat de wettelijke mogelijkheden onverlet om een lager gebruikelijk loon aannemelijk te maken.
+
+Andere gevallen: maatwerk
+
+Betrokkenen kunnen deze goedkeuring zonder overleg met de inspecteur toepassen. Desgewenst kunnen betrokkenen in andere gevallen overleggen met de bevoegde inspecteur over de toepassing van de gebruikelijkloonregeling in hun situatie. Dat geldt ook voor situaties die niet (rechtstreeks) onder deze goedkeuring vallen, maar waar wel knelpunten optreden.
+
+Bij bijzondere situaties passen maatwerkoplossingen. Zo kan bij een verliessituatie van de vennootschap de voornoemde goedkeuring leiden tot een lager gebruikelijk loon. In geval van bijkomende omstandigheden is het mogelijk een (nog) lager gebruikelijk loon vast te stellen.
+
+6.4 Werkkostenregeling
+Via de vrije ruimte van de werkkostenregeling kunnen werkgevers vergoedingen en verstrekkingen aan hun werknemers geven zonder dat deze belast worden. Werkgevers kunnen zelf bepalen waaraan en óf zij de vrije ruimte willen besteden, voor zover dit gebruikelijk is. Per 1 januari 2020 is de vrije ruimte 1,7% van – kort gezegd – de fiscale loonsom tot en met € 400.000 plus 1,2% van het restant van die loonsom.
+
+Zoals aangekondigd in de kamerbrief van 24 april 2020 wordt de vrije ruimte voor de eerste € 400.000 van – kort gezegd – de fiscale loonsom per werkgever eenmalig en tijdelijk verhoogd naar 3% voor het jaar 2020. Dat biedt mogelijkheden aan werkgevers die daar de financiële ruimte voor hebben om hun werknemers in deze moeilijke tijd extra tegemoet te komen, bijvoorbeeld door het verstrekken van een bloemetje of een cadeaubon. Dit kan ook steun geven aan sectoren die getroffen zijn door de crisis. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Vooruitlopend op wijziging van artikel 31a, derde lid, van de Wet LB keur ik goed dat voor het jaar 2020 in artikel 31a, derde lid, onderdeel a, van de Wet LB ‘1,7%’ en ‘€ 6.800’ gelezen worden als ‘3%’ en ‘€ 12.000’.
+
+7. Belasting van personenauto’s en motorrijwielen
+7.1 Vrijstelling kortstondig gebruik
+Het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992 kent een vrijstellingsregeling voor het gebruik van een motorrijtuig met buitenlands kenteken door een Nederlands ingezetene.
+
+De vrijstelling van artikel 3a wordt door middel van een elektronische melding maximaal één keer per twaalf maanden verleend en is persoons- en motorrijtuiggebonden. De vrijstelling wordt bijvoorbeeld gebruikt om met een in het buitenland aangeschaft motorrijtuig naar de RDW te rijden voor de keuring en inschrijving in het Nederlands kentekenregister.
+
+7.1.1 Vrijstelling kortstondig gebruik bij keuren
+Als gevolg van de coronacrisis heeft de RDW begin maart ingeplande keuringsafspraken moeten annuleren. Inmiddels is de volledige dienstverlening van de RDW hervat. Belanghebbenden die voor aankondiging van de maatregelen de vrijstelling al hebben aangevraagd kunnen deze niet nogmaals aanvragen en zullen kosten moeten maken om het motorrijtuig alsnog te laten keuren door de RDW. Dit vind ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat het tot 1 oktober 2020 mogelijk is om de vrijstelling een tweede keer aan te vragen door dezelfde persoon voor hetzelfde motorrijtuig in die gevallen waarin de keuring voor het motorrijtuig niet kon plaatsvinden in verband met de corona maatregelen van de RDW.
+
+Motorrijtuigenbelasting
+
+Als de vrijstelling is aangevraagd voor de belasting van personenauto’s en motorrijwielen geldt dit tevens als een beroep op de vrijstelling van motorrijtuigenbelasting (artikel, 26a, tweede lid, Uitvoeringsbesluit motorrijtuigenbelasting 1994). Ook deze vrijstelling kan onder de hierboven genoemde voorwaarden een tweede keer worden afgegeven.
+
+7.1.2 Vrijstelling kortstondig gebruik bij (vakantie)woning in buitenland
+Nederlands ingezetenen met een (vakantie)woning in het buitenland beschikken vaak over een auto die enkel lokaal wordt gebruikt. Een dergelijke auto is doorgaans dan ook geregistreerd in het land waar deze (vakantie)woning zich bevindt. Het is voor een Nederlands ingezetene niet toegestaan met deze auto in Nederland te rijden zonder belastingen te betalen als de vrijstelling kortstondig gebruik niet is aangevraagd.
+
+Nederlanders die zich tijdens de uitbraak van de coronacrisis in het buitenland bevonden, zagen zich door de beperking van het vliegverkeer in voorkomend geval genoodzaakt met de in het buitenland geregistreerde auto terug te rijden naar Nederland. Om belastingheffing te voorkomen zal in de regel de vrijstelling kortstondig gebruik zijn aangevraagd. Omdat deze vrijstelling maximaal één keer per twaalf maanden verleend kan worden, is het niet mogelijk met deze auto terug te rijden zonder belasting te betalen indien de maatregelen in het kader van het coronavirus zouden worden versoepeld. Dit vind ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat het tot 1 oktober 2020 mogelijk is om de vrijstelling een tweede keer aan te vragen door dezelfde persoon voor hetzelfde motorrijtuig in die gevallen waarin sprake is van een (vakantie)woning in het buitenland en de tweede aanvraag tot doel heeft terug te keren naar het land waar de (vakantie)woning is gelegen.
+
+Motorrijtuigenbelasting
+
+Als de vrijstelling is aangevraagd voor de belasting van personenauto’s en motorrijwielen geldt dit tevens als een beroep op de vrijstelling van motorrijtuigenbelasting (artikel, 26a, tweede lid, Uitvoeringsbesluit motorrijtuigenbelasting 1994). Ook deze vrijstelling kan onder de hierboven genoemde voorwaarden een tweede keer worden afgegeven.
+
+7.2 Maatregel voor om te bouwen taxi’s
+Met ingang van 1 januari 2020 verviel het recht op teruggaaf van bpm voor personenauto’s die zijn bestemd voor taxivervoer. In het besluit van 23 november 2015, nr. BLKB 2015/1382M, laatstelijk gewijzigd bij besluit van 10 december 2019, nr. 2019-188772, zijn twee goedkeuringen (10.3.2.1 en 10.3.2.2) opgenomen voor personenauto’s die in afwachting van ombouw nog niet als taxi zijn gekeurd door de RDW. Vanwege het vervallen van het recht op teruggaaf voor deze personenauto’s, zijn deze goedkeuringen voorzien van een einddatum, namelijk 1 april 2020.
+
+Als gevolg van de coronacrisis heeft de RDW begin maart ingeplande keuringsafspraken moeten annuleren. Inmiddels is de volledige dienstverlening van de RDW hervat. Echter, de in maart geplande en te plannen keuringsafspraken bij de RDW zijn deels komen te vervallen en de termijn van 1 april 2020 is niet in alle gevallen gehaald. Dit vind ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat in de hierboven genoemde goedkeuringen (10.3.2.1 en 10.3.2.2) van het kaderbesluit bpm, daar waar 1 april 2020 als uiterste datum is genoemd, 1 oktober 2020 als uiterste datum heeft te gelden en daar waar als uiterste datum voor het inplannen van de keuring 31 maart 2020 is genoemd, 30 september 2020 als uiterste datum heeft te gelden.
+
+7.3 Geldigheid taxatierapport
+De Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992 bepaalt dat het bij de aangifte gebruikte taxatierapport ten hoogste één maand vóór het tijdstip dat de belasting ingevolge artikel 1 van de wet belasting van personenauto’s en motorrijwielen 1992 is verschuldigd, is opgemaakt.
+
+Als gevolg van de coronacrisis heeft de RDW begin maart ingeplande keuringsafspraken moeten annuleren, waardoor het niet in alle gevallen mogelijk was een motorrijtuig in te schrijven in het kentekenregister. Hierdoor deed zich – in die gevallen waarin er niet gekeurd kon worden – geen belastbaar feit (en dus verschuldigdheid) voor.
+
+Taxatierapporten die net voorafgaand aan de beperking in de dienstverlening van de RDW (16 maart 2020) dan wel gedurende de periode dat de RDW haar dienstverlening beperkte tot cruciale keuringen zijn opgemaakt, voldoen mogelijk niet aan de termijn van één maand. Dit vind ik ongewenst. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat het tot 1 oktober 2020 mogelijk is om bij de aangifte bpm een taxatierapport te gebruiken dat ten hoogste vier maanden vóór het tijdstip dat de belasting ingevolge artikel 1 van de wet belasting van personenauto’s en motorrijwielen 1992 is verschuldigd, is opgemaakt, met dien verstande dat dit niet eerder is dan 16 februari 2020.
+
+8. Vennootschapsbelasting en inkomstenbelasting (winst)
+8.1 Termijn bij gebruikmaking terugwerkende kracht bij geruisloze omzetting, bedrijfsfusie, juridische fusie, splitsing en geruisloze terugkeer
+8.1.1 Geruisloze omzetting en geruisloze terugkeer
+Geruisloze omzetting van een IB-onderneming in een NV of BV en vice versa (geruisloze terugkeer) is onder voorwaarden met terugwerkende kracht naar het begin van het jaar mogelijk (overgangstijdstip). Zie onderdeel 12.1.2. van het besluit van 2 juli 2010, nr. DGB 2010/3599M en onderdeel 3.1 van het besluit van 2 oktober 2018, nr. 2018/99281.
+
+Een van de voorwaarden voor terugwerking is dat bepaalde juridische handelingen worden verricht binnen vijftien maanden na het tijdstip waarnaar terugwerking wordt gewenst. Deze termijn voor terugwerking van geruisloze omzetting en geruisloze terugkeer met terugwerkende kracht tot 1 januari 2019 is op 31 maart 2020 verstreken.
+
+De huidige bijzondere omstandigheden kunnen meebrengen dat deze termijn niet wordt gehaald. Dit kan ertoe leiden dat de onderneming niet met terugwerkende kracht geruisloos kan worden omgezet of kan terugkeren. Gelet op de bijzondere omstandigheden vind ik dit niet redelijk. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat de inspecteur de termijn van vijftien maanden, zoals deze wordt gesteld in de goedkeuring van terugwerkende kracht bij de geruisloze omzetting en geruisloze terugkeer, met drie maanden verlengt wanneer deze termijn verstrijkt in de periode van 1 maart 2020 tot en met 30 september 2020.
+
+8.1.2 Bedrijfsfusie, juridische fusie en splitsing
+Voor de faciliteiten van de bedrijfsfusie, de juridische fusie en de splitsing waarbij gebruik wordt gemaakt van terugwerkende kracht naar het begin van het boekjaar wordt de eis gesteld dat bepaalde juridische handelingen binnen twaalf maanden (voor bedrijfsfusie vijftien maanden) tot het moment dat de faciliteit terugwerkt, moeten zijn verricht.
+
+De huidige bijzondere omstandigheden kunnen meebrengen dat deze termijn niet wordt gehaald, wanneer deze termijn verstrijkt in de periode van 1 maart 2020 tot en met 31 mei 2020. Dit kan ertoe leiden dat de desbetreffende juridische handelingen niet met terugwerkende kracht geruisloos kunnen plaatsvinden. Gelet op de bijzondere omstandigheden vind ik dit niet redelijk. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat de inspecteur de termijn van twaalf maanden voor de juridische fusie en splitsing en vijftien maanden voor de bedrijfsfusie, zoals deze wordt gesteld in de goedkeuring van terugwerkende kracht bij de desbetreffende faciliteiten, met drie maanden verlengt wanneer deze termijn verstrijkt in de periode van 1 maart 2020 tot en met 30 september 2020.
+
+8.2 Urencriterium
+Ondernemers die belastingplichtig zijn voor de inkomstenbelasting (als bedoeld in artikel 3.4 van de Wet IB 2001) kunnen onder voorwaarden aanspraak maken op verschillende ondernemersfaciliteiten. Op sommige van deze ondernemersfaciliteiten zoals de zelfstandigenaftrek, de meewerkaftrek en de oudedagsreserve kan uitsluitend aanspraak worden gemaakt als aan het zogenoemde urencriterium wordt voldaan. Aan dit urencriterium wordt voldaan wanneer de ondernemer ten minste 1.225 uren per kalenderjaar besteedt aan werkzaamheden voor zijn onderneming.
+
+Het is denkbaar dat ondernemers door de coronacrisis minder of geen werkzaamheden voor hun onderneming(en) kunnen verrichten. Hierdoor kan het voor ondernemers lastig zijn om aannemelijk te maken dat aan het urencriterium is voldaan. Het feit dat ondernemers puur als gevolg van de coronacrisis bepaalde ondernemersfaciliteiten verliezen, vind ik onwenselijk en onrechtvaardig. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van het urencriterium zoals bepaald in artikel 3.6 van de Wet IB 2001, worden ondernemers, in de periode van 1 maart 2020 tot en met 30 september 2020, geacht ten minste 24 uren per week aan de onderneming(en) te hebben besteed.
+
+Ondernemers die seizoengebonden werkzaamheden verrichten en die normaliter in de periode van 1 maart tot en met 30 september een piek hebben in het aantal uren dat ze besteden aan de onderneming, worden geacht een gelijk aantal uren te hebben besteed in dezelfde periode in 2020 als het aantal uren dat is besteed in de periode van 1 maart 2019 tot en met 30 september 2019. De ondernemer kan in dat geval met behulp van de administratie van vorig jaar bepalen hoeveel uren hij aan de onderneming heeft besteed in de periode van 1 maart 2019 tot en met 30 september 2019.
+
+8.2.1 Verlaagd urencriterium voor startersaftrek bij arbeidsongeschiktheid
+Ook startende ondernemers die arbeidsongeschikt zijn kunnen mogelijk door de coronacrisis minder of geen werkzaamheden voor hun onderneming verrichten. Hiervoor acht ik het passend om in lijn met de systematiek van de hiervoor aangegeven versoepeling van het urencriterium ook het verlaagde urencriterium van 800 uren per kalenderjaar in de startersaftrek bij arbeidsongeschiktheid te versoepelen. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Bij de beoordeling van de aannemelijkheid van het aantal in een kalenderjaar aan werkzaamheden voor een of meer ondernemingen bestede uren in het kader van de startersaftrek bij arbeidsongeschiktheid zoals bepaald in artikel 3.78a van de Wet IB 2001, worden de betreffende ondernemers, voor de periode van 1 maart 2020 tot en met 30 september 2020, geacht ten minste 16 uren per week aan hun onderneming(en) te hebben besteed. De hiervoor genoemde goedkeuring voor ondernemers die seizoengebonden werkzaamheden verrichten is van overeenkomstige toepassing.
+
+8.3 Fiscale reserve 2019 voor coronagerelateerd verlies 2020 (fiscale coronareserve)
+De coronacrisis kan negatieve gevolgen hebben voor de liquiditeitspositie van bedrijven die belastingplichtig zijn voor de vennootschapsbelasting en kan over het boekjaar 2020 tot een verlies leiden, terwijl de eventuele verliesverrekening pas achteraf tot een verbetering van de liquiditeitspositie kan leiden. Om in voorkomende gevallen de liquiditeitspositie voor deze belastingplichtigen op een eerder moment te verbeteren keur ik, vooruitlopend op wetgeving, het volgende goed.
+
+Goedkeuring
+
+Ik keur onder voorwaarden goed dat belastingplichtigen voor de vennootschapsbelasting bij het bepalen van de in het boekjaar 2019 genoten winst een fiscale reserve kunnen vormen (coronareserve). Deze coronareserve kan worden gevormd voor het gehele of gedeeltelijke zogenoemde ‘coronagerelateerde verlies’ (zie hierna) dat zich naar verwachting in het boekjaar 2020 voordoet.
+
+Met de goedkeuring om een fiscale coronareserve te vormen beoog ik dat belastingplichtigen voor de vennootschapsbelasting het verwachte coronagerelateerde verlies in 2020 geheel of gedeeltelijk ten laste van de winst van 2019 kunnen brengen, waardoor de winst van 2019 en het verwachte verlies van 2020 gelijkmatiger over deze jaren wordt verdeeld. Hiermee is uitsluitend bedoeld om een liquiditeitsvoordeel te verlenen.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende vijf voorwaarden.
+
+a.Er is sprake van een verwacht ‘coronagerelateerd verlies’ in het boekjaar 2020. Hieronder wordt verstaan het over het boekjaar 2020 verwachte verlies in de zin van artikel 20, eerste lid, Wet Vpb 1969, voor zover dat verlies verband houdt met de gevolgen van de coronacrisis. Dat is bijvoorbeeld het geval voor zover sprake is van een verlies door omzetderving vanwege de door de overheid genomen coronamaatregelen.
+
+b.Het verwachte coronagerelateerde verlies kan niet groter zijn dan het totale verlies dat de belastingplichtige verwacht over het boekjaar 2020. Vorming van een coronareserve is dus niet mogelijk als de inschatting is dat over het boekjaar 2020 een positieve belastbare winst wordt genoten. De belastingplichtige maakt zelf een zo goed mogelijke inschatting van de verwachte omvang van het coronagerelateerde verlies.
+
+c.De dotatie aan de coronareserve in het boekjaar 2019 bedraagt maximaal de winst over het boekjaar 2019 die zou gelden zonder de vorming van deze reserve.
+
+d.De reserve wordt uiterlijk in het boekjaar 2020 volledig in de winst opgenomen. Bij het opnemen van de fiscale coronareserve in de winst dienen dezelfde bepalingen van toepassing te zijn bij het bepalen van de winst als bij de vorming van deze reserve in het daaraan voorafgaande boekjaar.
+
+e.De dotatie aan de coronareserve wordt in de aangifte vennootschapsbelasting 2019 opgenomen in de rubriek overige fiscale reserves. De vrijval in het boekjaar 2020 wordt als onttrekking in deze rubriek opgenomen in de aangifte vennootschapsbelasting 2020.
+
+Wellicht ten overvloede merk ik op dat het vormen van een coronareserve gevolgen kan hebben voor de toepassing van andere regelingen in de vennootschapsbelasting. Voor de eventuele samenloop met andere regelingen in de vennootschapsbelasting zullen geen flankerende maatregelen worden getroffen, waardoor de reguliere fiscale gevolgen intreden. Het is dus aan de belastingplichtige om bij het vormen van de coronareserve rekening te houden met deze mogelijke gevolgen.
+
+Fraude, misbruik en evident oneigenlijk gebruik zal bij het aantreffen daarvan zoveel mogelijk worden bestreden.
+
+Beroep op goedkeuring
+
+De belastingplichtige die een beroep wil doen op deze goedkeuring kan door middel van een verzoek tot herziening van de voorlopige aanslag of het indienen van de aangifte (een deel van) de eerder verschuldigde vennootschapsbelasting over het boekjaar 2019 verminderen. Als de belastingplichtige reeds aangifte vennootschapsbelasting over het boekjaar 2019 heeft gedaan en gebruik wil maken van deze goedkeuring, kan de belastingplichtige een aanvulling op de aangifte indienen, door middel van het indienen van een nieuwe aangifte.
+
+Gebroken boekjaren
+
+Belastingplichtigen die een boekjaar hanteren dat niet gelijk is aan het kalenderjaar, kunnen in het laatste boekjaar dat eindigt in de periode van 1 januari 2019 tot en met 31 maart 2020 een fiscale coronareserve vormen. De reserve wordt in dat geval uiterlijk in het boekjaar na het boekjaar waarin de reserve is gevormd volledig in de winst opgenomen. De voorwaarden voor de goedkeuring zijn overeenkomstig van toepassing.
+
+8.4 Voorlopige aanslag
+De Wet op de vennootschapsbelasting 1969 en de Wet IB 2001 bieden de mogelijkheid om een voorlopige aanslag vennootschapsbelasting en inkomstenbelasting te verminderen.
+
+Ondernemers die in 2020 een lagere winst verwachten dan waarmee rekening is gehouden bij het opleggen van de voorlopige aanslag(en), kunnen een verzoek om vermindering indienen bij de inspecteur. De inspecteur zal dit verzoek inwilligen.
+
+Heeft de ondernemer meer belasting betaald dan het bedrag dat is verschuldigd na inwilliging van het verzoek, dan krijgt hij het verschil terugbetaald.
+
+8.5 Tegemoetkoming ondernemers getroffen sectoren & tegemoetkoming vaste lasten MKB
+Ondernemingen kunnen onder voorwaarden aanspraak maken op een eenmalige tegemoetkoming van € 4.000 op grond van de Beleidsregel Tegemoetkoming ondernemers getroffen sectoren (TOGS). Een van de voorwaarden is dat in de periode 16 maart 2020 tot en met 15 juni 2020 ten minste € 4.000 omzetverlies wordt verwacht.
+
+Daarnaast is in de Kamerbrieven van 20 mei 2020 en 28 mei 2020 een maatregel aangekondigd op grond waarvan MKB-ondernemingen onder voorwaarden aanspraak kunnen maken op een tegemoetkoming voor vaste lasten van maximaal € 50.000 voor een periode van vier maanden. De hoogte van deze tegemoetkoming zal onder meer afhankelijk zijn van de mate van omzetderving.
+
+Het uitgangpunt is dat dergelijke tegemoetkomingen behoren tot de winst van de onderneming. Zoals aangegeven in de Kamerbrieven van 27 maart 2020 en 20 mei 2020, worden deze tegemoetkomingen evenwel vrijgesteld van belastingheffing.
+
+Goedkeuring
+
+Vooruitlopend op wetgeving keur ik goed dat deze tegemoetkomingen zijn vrijgesteld van belastingheffing.
+
+De tegemoetkoming kan in de aangifte (inkomstenbelasting of vennootschapsbelasting) worden opgenomen in de rubriek ‘Overige buitengewone baten’ én in de rubriek ‘Overige vrijgestelde winstbestanddelen’. Op die manier wordt geen inkomstenbelasting (box 1) of vennootschapsbelasting geheven over de tegemoetkoming(en).
+
+In het pakket Belastingplan 2021 zal met terugwerkende kracht worden geregeld dat beide tegemoetkomingen zijn vrijgesteld.
+
+9. Omzetbelasting
+9a. Zorgpersoneel en hulpgoederen
+In verband met de bestrijding van de coronacrisis is in de zorgsector een situatie ontstaan waarbij meer dan normaliter sprake is van in- en uitlenen van zorgpersoneel. Personeel wordt ingezet waar dat noodzakelijk is om de verzorging en verpleging van zieken landelijk en regionaal te waarborgen. Specifieke medische hulpgoederen moeten landelijk en regionaal voldoende aanwezig zijn en worden gratis (om niet) ter beschikking gesteld aan de zorgsector.
+
+Om te voorkomen dat deze uiterst noodzakelijke inzet ten behoeve van de zorgsector extra administratieve of financiële lasten oplevert uit hoofde van de heffing van btw bij het ter beschikking stellen van personeel en medische hulpgoederen wordt een tweetal tijdelijke goedkeuringen getroffen. Die goedkeuringen kunnen gelet op het tijdelijke karakter van de maatregel met terugwerkende kracht worden toegepast vanaf 16 maart 2020 en gelden tot 1 oktober 2020.
+
+9a.1 Ter beschikking stellen van zorgpersoneel
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat buiten de heffing van btw blijft het ter beschikking stellen van zorgpersoneel dat wordt ingezet voor het verzorgen of verplegen van personen in de hierna bedoelde inrichtingen. De maatregel geldt zowel voor de terbeschikkingstelling door de hierna bedoelde inrichtingen en instellingen onderling als voor de terbeschikkingstelling door ondernemers andere dan de hierna bedoelde inrichtingen en instellingen. Daarbij gelden de volgende voorwaarden.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende 3 voorwaarden:
+
+a.De goedkeuring geldt voor het ter beschikking stellen van zorgpersoneel aan inrichtingen als bedoeld in artikel 11, eerste lid, aanhef en onderdeel c, van de Wet OB of aan instellingen als bedoeld in artikel 11, eerste lid, aanhef en onderdeel f, van de Wet OB, jo Bijlage B behorende bij het Uitvoeringsbesluit omzetbelasting 1968, posten b-9, b-12, b-13 en b-23;
+
+b.De ondernemer dient op de factuur te vermelden dat gebruik wordt gemaakt van deze goedkeuring en de gegevens die betrekking hebben op de toepassing van de goedkeuring in de administratie vast te leggen;
+
+c.Als voor de terbeschikkingstelling een vergoeding in rekening wordt gebracht moet de vergoeding voor de terbeschikkingstelling beperkt blijven tot de brutoloonkosten van het betrokken personeelslid, eventueel vermeerderd met een administratieve kostenvergoeding van maximaal 5%. In geen geval mag er winst worden beoogd of gemaakt met de terbeschikkingstelling van het zorgpersoneel.
+
+De terbeschikkingstelling van zorgpersoneel die op basis van deze goedkeuring buiten de heffing van omzetbelasting blijft, blijft buiten beschouwing voor het vaststellen van het recht op aftrek van btw van de uitlener.
+
+Bij toepassing van de goedkeuring door ondernemers, anderen dan de hiervóór bedoelde van btw-vrijgestelde inrichtingen en instellingen, blijft de eventuele aftrek van btw voor deze ondernemers in stand. Van btw vrijgestelde ondernemers krijgen hierdoor geen (aanvullend) recht op aftrek van btw, noch vermindert toepassing van de goedkeuring hun eventuele recht op aftrek van btw.
+
+9a.2 Gratis verstrekken van medische hulpgoederen en -apparatuur
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat de gratis (om niet) verstrekking van medische hulpgoederen en medische apparatuur aan de in de vorige goedkeuring bedoelde inrichtingen en instellingen voor het verzorgen of verplegen van personen in die inrichtingen en instellingen of aan huisartsen voor de door hen verrichte gezondheidskundige verzorging van de mens, geen gevolgen heeft voor de heffing of de aftrek van btw bij de ondernemer die deze goederen verstrekt. Toepassing van het Besluit uitsluiting van aftrek omzetbelasting 1968 en heffing van btw op de voet van artikel 3, derde lid, onderdeel a, en artikel 4, tweede lid, van de Wet OB blijven achterwege.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende 4 voorwaarden:
+
+a.De goedkeuring betreft alleen goederen die worden genoemd in de ‘Bijlage Gepubliceerde lijst van de Wereld Douaneorganisatie; indelingen van medische voorzieningen in verband met uitbraak Covid-19’ (bijgevoegd zoals geldend op tijdstip van publicatie van dit beleidsbesluit);
+
+b.Voor de aftrek van btw maken de kosten van de goederen onderdeel uit van de algemene kosten van de ondernemer;
+
+c.Het recht op aftrek van btw voor deze algemene kosten wordt bepaald op basis van de totale omzet van de ondernemer, waarbij de gratis verstrekking van de goederen buiten beschouwing blijft;
+
+d.De ondernemer dient op de factuur te vermelden dat gebruik wordt gemaakt van deze goedkeuring en de gegevens die betrekking hebben op de toepassing van de goedkeuring in de administratie vast te leggen.
+
+9b. Online aanbieden van diensten door sportscholen en dergelijke ondernemers
+In verband met de bestrijding van de coronacrisis zijn sportscholen tijdelijk verplicht gesloten. Sportscholen werken veelal met abonnementen, waarbij hun afnemers voor langere tijd of meerdere keren de gelegenheid wordt geboden tot sportbeoefening.
+
+Om hun afnemers toch nog van dienst te kunnen zijn, bieden sportscholen hun diensten nu in aangepaste vorm online aan. De toepassing van het verlaagde btw-tarief (nu: 9%) is echter gekoppeld aan het ter beschikking stellen van sportaccommodaties. Hiervan is in dit geval geen sprake.
+
+Gelet op de bijzondere situatie en het tijdelijke karakter van de sluiting keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur goed dat het verlaagde btw-tarief van toepassing is op de sportlessen die sportscholen en dergelijke ondernemers gedurende de verplichte sluiting online aan hun afnemers aanbieden.
+
+Deze goedkeuring kan met terugwerkende kracht worden toegepast vanaf 16 maart 2020 en geldt totdat de verplichte sluiting wordt opgeheven.
+
+9c. Levering van mondkapjes
+In het kader van de bestrijding van het coronavirus geldt een aantal basisregels. Eén van de basisregels is dat 1,5 meter afstand van anderen moet worden gehouden. Gebleken is dat het opvolgen van die basisregel vrijwel niet mogelijk is bij het gebruik van het openbaar vervoer. Om het risico op overdracht van het coronavirus waar mogelijk te beperken, is besloten om vanaf 1 juni 2020 het dragen van een mondkapje in het openbaar vervoer verplicht te stellen. Dit is aanleiding voor het treffen van een tijdelijke goedkeuring. Deze goedkeuring kan worden toegepast met ingang van 25 mei 2020 en geldt tot 1 oktober 2020.
+
+Goedkeuring
+
+Ik keur goed dat geen btw wordt geheven over de levering van mondkapjes.
+
+Als van deze goedkeuring gebruik wordt gemaakt geldt het volgende. Over de levering van mondkapjes (zowel medische als niet-medische) is geen btw verschuldigd. Dit heeft echter geen gevolgen voor de aftrek van btw bij de leverancier (de goedkeuring werkt als een nultarief). Het begrip ‘mondkapjes’ moet naar algemeen spraakgebruik worden uitgelegd.
+
+10. Heffing over Duitse netto-uitkeringen
+Inwoners van Nederland die normaal gesproken in Duitsland werken kunnen als gevolg van aan de coronacrisis gerelateerde maatregelen Duitse socialezekerheidsuitkeringen zoals ‘Kurzarbeitergeld’, ‘Insolvenzgeld’ en ‘Arbeitslosengeld’ ontvangen. Als deze (eventueel in combinatie met bepaalde andere) Duitse uitkeringen in een kalenderjaar € 15.000 of minder bedragen, wijst artikel 17 van het belastingverdrag met Duitsland1 het heffingsrecht over deze Duitse uitkeringen toe aan Nederland.
+
+In de normale situatie is het arbeidsinkomen van deze personen in Duitsland belast. Verder zijn de genoemde uitkeringen gebaseerd op het netto-inkomen, waardoor er door Nederlandse belastingheffing een ongewenste inkomensachteruitgang ontstaat. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat de uitkeringen ‘Kurzarbeitergeld’, ‘Insolvenzgeld’ en ‘Arbeitslosengeld’ ontvangen door een inwoner van Nederland in de periode van 11 maart 2020 tot en met 31 december 2020 worden vrijgesteld. Hierbij wordt de methode van artikel 22, tweede lid, onderdelen a en b, van het belastingverdrag met Duitsland toegepast.
+
+Dit betekent dat de genoemde uitkeringen in de Nederlandse belastinggrondslag worden opgenomen en de belasting vervolgens wordt verminderd met de Nederlandse belasting die naar evenredigheid kan worden toegerekend aan de ontvangen uitkeringen.
+
+Voorwaarden
+
+Voor deze goedkeuring gelden de volgende twee voorwaarden:
+
+a.De belastingplichtige maakt voor het eerst aanspraak op ‘Kurzarbeitergeld’, ‘Insolvenzgeld’ of ‘Arbeitslosengeld’ op of na 11 maart 2020.
+
+b.De belastingplichtige kan gegevens overleggen die onderbouwen dat aan de eerste voorwaarde is voldaan.
+
+11. Eigenwoningrente
+In het besluit ‘Inkomstenbelasting. Eigenwoningrente; betaalpauze voor rente en aflossing eigenwoningschuld’ van 16 mei 2020, nr. 2020-109040 zijn goedkeuringen opgenomen waardoor een eigenwoningschuld die onder de fiscale aflossingseis valt, blijft behoren tot de eigenwoningschuld als met de geldverstrekker een betaalpauze voor rente en aflossing wordt overeengekomen vanwege (dreigende) betalingsproblemen als gevolg van de uitbraak van het coronavirus en de daardoor ontstane aflossingsachterstand op een andere wijze dan waarin wettelijk is voorzien, wordt ingehaald. Daarnaast wordt in dit besluit toegelicht op welk moment de tijdens de betaalpauze verschuldigde rente aftrekbaar is. Dit besluit geldt onder voorwaarden ook voor al vóór 8 mei 20202 overeengekomen betaalpauzes in verband met de uitbraak van het coronavirus. Tijdens een betaalpauze hoeft een belastingplichtige gedurende een bepaalde periode (gedeeltelijk) geen rente en aflossing te betalen.
+
+12. Uitstel publicatieplicht financiële gegevens ANBI’s
+ANBI’s zijn verplicht binnen zes maanden na afloop van het boekjaar bepaalde financiële gegevens via internet te publiceren (artikel 1a, achtste lid, UR AWR 1994). De coronacrisis kan ertoe leiden dat ANBI’s niet op tijd aan deze verplichting kunnen voldoen. Daarom keur ik het volgende goed.
+
+Goedkeuring
+
+Ik keur onder de volgende voorwaarden goed dat in afwijking van artikel 1a, achtste lid, UR AWR 1994 de termijn van zes maanden na afloop van het boekjaar kan worden verlengd met ten hoogste vier maanden.
+
+Voorwaarden
+
+Voor de goedkeuring gelden de volgende twee voorwaarden:
+
+a.Als het bestuur van de ANBI van deze mogelijkheid gebruik maakt, moet de instelling binnen zes maanden na afloop van het boekjaar het bestuursbesluit tot verlenging op de website publiceren.
+
+b.Uit het bestuursbesluit moet blijken waarom de financiële gegevens niet binnen de termijn van zes maanden kunnen worden gepubliceerd.
+
+13. Ingetrokken regeling
+Het volgende besluit is ingetrokken met ingang van de inwerkingtreding van dit besluit:
+
+–het besluit van 6 mei 2020, nr. 2020-9594 (Stcrt. 2020, 26066) (laatstelijk gewijzigd bij besluit van 19 mei 2020, nr. 2020-10789 (Stcrt. 2020, 28349)), met uitzondering van onderdeel 3.2 van dat besluit. Gelet op de artikelen 4, onderdelen A en B, en 8 van het bij koninklijke boodschap van 12 mei 2020 ingediende voorstel van wet houdende regels over een tijdelijke voorziening voor de betekening van exploten op grond van het Wetboek van Burgerlijke Rechtsvordering en wijziging van de Loodsenwet, de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990, de Algemene wet inkomensafhankelijke regelingen en de Luchtvaartwet BES in verband met de uitbraak van COVID-19 (Verzamelspoedwet COVID-19) (Kamerstukken 35 457), vervalt onderdeel 3.2 van dat besluit met terugwerkende kracht tot en met 1 juni 2020 op de dag dat de Verzamelspoedwet COVID-19 in werking treedt.
+
+14. Inwerkingtreding en vervaldatum
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 12 maart 2020 met dien verstande dat onderdeel 2 terugwerkt tot 1 april 2020, onderdelen 9a en 9b terugwerken tot 16 maart 2020, onderdeel 9c terugwerkt tot 25 mei 2020 en onderdeel 10 terugwerkt tot 11 maart 2020.
+
+De onderdelen 3.1, 3.3, 4, 5, 7.1, 7.2, 7.3, 9a en 9c vervallen met ingang van 1 oktober 2020.
+
+De onderdelen 6.3 en 10 vervallen met ingang van 1 januari 2021.
+
+15. Citeertitel
+Dit besluit wordt aangehaald als: Besluit noodmaatregelen coronacrisis.
+
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
+
+Den Haag, 16 juni 2020
+De Staatssecretaris van Financiën,
+namens deze,
+J. de Blieck
+hoofddirecteur Fiscale en Juridische Zaken
+
+BIJLAGE GEPUBLICEERDE LIJST VAN DE WERELD DOUANEORGANISATIE; INDELINGEN VAN MEDISCHE VOORZIENINGEN IN VERBAND MET UITBRAAK COVID-19
+Categorie
+
+Product namen
+
+Korte informatie
+
+GS indeling
+
+I COVID-19 Test kits/instrumenten en apparaten die worden gebruikt in diagnostische tests
+
+COVID-19 Test kits
+
+Diagnostische reagentia op basis van polymerasekettingreactie (PCR) nucleïnezuurtest.
+
+3822.00
+
+COVID-19 Test kits
+
+Diagnostische reagentia op basis van immunologische reacties
+
+3002.15
+
+COVID-19 Diagnostische Test instrumenten en apparaten
+
+Instrumenten gebruikt in klinische laboratoria voor in vitro diagnose
+
+9027.80
+
+II. Beschermende kledingstukken en soortgelijke artikelen
+
+Gezichts- en oogbescherming
+
+ 
+□ Textielmaskers, zonder vervangbare filters of mechanische delen, inclusief chirurgische maskers en wegwerpmaskers van niet-geweven textiel
+
+6307.90
+
+□ Gasmaskers met mechanische delen of vervangbare filters ter bescherming tegen biologische agentia. Omvat eveneens dergelijke maskers met oogbescherming of gelaatsschermen.
+
+9020.00
+
+□ Beschermende brillen
+
+9004.90
+
+□ Gelaatsschermen van kunststof (bedekken meer dan de ogen)
+
+3926.20
+
+Handschoenen
+
+ 
+□ Handschoenen van kunststof
+
+3926.20
+
+□ Chirurgische handschoenen van rubber
+
+4015.11
+
+□ Andere handschoenen van rubber
+
+4015.19
+
+□ Handschoenen van brei- of haakwerk die
+
+geïmpregneerd zijn of bedekt zijn met kunststof of rubber
+
+6116.10
+
+□ Handschoenen, andere dan van brei- of haakwerk
+
+6216.00
+
+Andere
+
+ 
+□ Wegwerp haarnetjes
+
+6505.00
+
+Beschermende kleding voor chirurgisch / medisch gebruik van vilt of gebonden textielvlies, ook indien geïmpregneerd, bekleed, bedekt of gelamineerd (textiel bedoeld bij post 56.02 of 56.03). Hieronder vallen ook gesponnen kledingstukken.
+
+6210.10
+
+Andere beschermende kleding van textiel, geïmpregneerd, bekleed, bedekt of gelamineerd met rubber (textiel van de posten 59.03, 59.06 of 59.07). De daadwerkelijke indeling hangt af van het type kledingstuk en of het kleding voor mannen of vrouwen betreft. Voorbeeld: een unisex geweven pak, geïmpregneerd met kunststof, wordt ingedeeld onder 6210.50 – andere kleding, voor dames of voor meisjes.
+
+6210.20
+
+6210.30
+
+6210.40
+
+6210.50
+
+Beschermende kledingstukken gemaakt van kunststof in vellen
+
+3926.20
+
+III. Thermometers
+
+Gevuld met vloeistof, met rechtstreekse aflezing
+
+Omvat eveneens standaard ‘Mercury-in-glass’ klinische thermometer
+
+9025.11
+
+Andere thermometers
+
+Bijvoorbeeld digitale thermometers of infraroodthermometers voor op het voorhoofd.
+
+9025.19
+
+IV. Desinfecteermiddelen /
+
+Sterilisatieproducten
+
+Alcohol oplossing
+
+Niet gedenatureerd, met een alcoholvolumegehalte van 80% vol of meer
+
+2207.10
+
+Alcohol oplossing
+
+Niet gedenatureerd, met een alcoholvolumegehalte van 75% vol
+
+2208.90
+
+ 	
+Desinfecterend middel voor de handen
+
+Vloeibaar of in de vorm van een gel die over het algemeen wordt gebruikt om infectieuze stoffen op de handen, op alcoholbasis, te verminderen.
+
+3808.94
+
+Andere desinfecterende bereidingen
+
+Opgemaakt in vormen of verpakkingen voor de verkoop in het klein, zoals doekjes geïmpregneerd met alcohol of andere ontsmettingsmiddelen.
+
+3808.94
+
+Medische, chirurgische of laboratoriumsterilisatoren
+
+Werkend met stoom of kokend water
+
+8419.20
+
+Waterstofperoxide in bulk
+
+H2O2, ook indien gestold met ureum.
+
+2847.00
+
+Waterstofperoxide gepresenteerd als medicijn
+
+H2O2 opgemaakt voor intern of
+
+extern gebruik als geneesmiddel, ook als antisepticum voor de huid. Alleen hier bedoeld indien in afgemeten doses of in vormen of verpakkingen voor de detailhandel
+
+3004.90
+
+Waterstofperoxide verwerkt in desinfecterende bereidingen voor oppervlakken reinigen
+
+H2O2 opgemaakt als reinigingsoplossing voor oppervlakken of apparaten.
+
+3808.94
+
+Andere chemische desinfecteermiddelen
+
+Opgemaakt in verpakkingen voor kleinhandel in ontsmettingsmiddelen of als ontsmettingsmiddelen, die alcohol, benzalkoniumchlorideoplossing of peroxyzuren of andere ontsmettingsmiddelen bevatten.
+
+3808.94
+
+V. Andere medische apparaten
+
+Tomografen die werken met behulp van een machine voor het automatisch verwerken van gegevens
+
+(CT) -scanners
+
+Gebruikt een roterende röntgenmachine om dunne plakjes van het lichaam af te beelden om ziekten zoals longontsteking te diagnosticeren.
+
+9022.12
+
+Extracorporale membraanoxygenatie
+
+(ECMO)
+
+Biedt langdurige cardiale en ademhalings-ondersteuning door bloed uit het lichaam van de persoon te verwijderen en de kooldioxide en zuurstofrijke rode bloedcellen kunstmatig te verwijderen.
+
+9018.90
+
+Medische
+
+beademingsapparaten (beademingsapparatuur)
+
+Zorgt voor mechanische ventilatie door ademlucht in en uit de longen te verplaatsen
+
+9019.20
+
+Andere apparaten voor zuurstoftherapie, waaronder zuurstoftenten
+
+Naast volledige zuurstoftherapieapparatuur omvat deze onderverdeling ook herkenbare delen van dergelijke systemen.
+
+9019.20
+
+Patiëntbewakingsapparatuur – elektro-diagnostische apparatuur
+
+Elektrische of elektronische apparatuur voor het waarnemen van een ziekte, aandoening of een of meer medische parameters in de tijd. Dit omvat apparaten zoals pulsoximeters of controlestations aan het bed die worden gebruikt voor het continu bewaken van verschillende vitale functies. (Opmerking: dit omvat geen apparaten die specifieker elders worden omvat, bijv. elektrocardiografen (9018.11) of elektronische thermometers
+
+(9025.19).)
+
+9018.19
+
+VI. Medische verbruiksartikelen
+
+Watten, gaas, verband en dergelijke artikelen (bijvoorbeeld zwachtels, pleisters, mosterdpleisters)
+
+Geïmpregneerd of bedekt met farmaceutische stoffen of opgemaakt in vormen of verpakkingen voor de verkoop in het klein voor medisch gebruik
+
+3005.90
+
+Spuiten, met of zonder naalden
+
+9018.31
+
+Buisvormige metalen naalden en hechtnaalden
+
+9018.32
+
+Naalden, katheters, canules en dergelijke
+
+9018.39
+
+Intubatiekits
+
+9018.90
+
+Papieren lakens
+
+4818.90
+
+1
+Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen van 12 april 2012, zoals gewijzigd bij protocol van 11 januari 2016.
+
+2
+Dit betreft de publicatiedatum van het oorspronkelijke besluit van 6 mei 2020, nr. 2020-85139 (Stcrt. 2020, 26069).

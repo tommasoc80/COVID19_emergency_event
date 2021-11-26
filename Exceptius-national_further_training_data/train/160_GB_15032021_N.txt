@@ -1,0 +1,49 @@
+2020 No. 1002
+ENFORCEMENT, ENGLAND AND WALES
+
+The Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020
+Made15th September 2020
+Laid before Parliament16th September 2020
+Coming into force29th September 2020
+The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 77(4) and 90 of the Tribunals, Courts and Enforcement Act 2007(1):
+
+Citation, commencement and saving provision
+1.—(1) These Regulations may be cited as the Taking Control of Goods (Amendment) (Coronavirus) Regulations 2020 and come into force on 29th September 2020.
+
+(2) Nothing in these Regulations affects any enforcement action taken prior to the coming into force of these Regulations.
+
+Amendments to the Taking Control of Goods Regulations 2013
+2.—(1) The Taking Control of Goods Regulations 2013(2) are amended as follows.
+
+(2) In regulation 2 (general interpretation), omit the definition of “the 2020 Regulations”.
+
+(3) In paragraph (1) of regulation 52 (minimum amount of net unpaid rent for CRAR to become exercisable), for “paragraph (2)” substitute “paragraphs (2) and (2A)”.
+
+(4) For regulation 52(2), substitute—
+
+“(2) During the relevant period, the minimum amount of net unpaid rent for the purpose of section 77(3)(a) of the Act is an amount equal to—
+
+(a)276 days’ rent where the notice of enforcement is given on or before 24th December 2020; and
+(b)366 days’ rent where the notice of enforcement is given on or after 25th December 2020.
+(2A) During the relevant period, the minimum amount of net unpaid rent for the purpose of section 77(3)(b) of the Act is an amount equal to—
+
+(a)276 days’ rent where the goods are taken control of for the first time on or before 24th December 2020; and
+(b)366 days’ rent where the goods are taken control of for the first time on or after 25th December 2020.”.
+(5) In regulation 52(3), for “paragraph (2)” substitute “this regulation”.
+
+Alex ChalkParliamentary Under Secretary of StateMinistry of Justice
+15th September 2020
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations amend regulation 52 of the Taking Control of Goods Regulations 2013 (S.I. 2013/1894) to specify the minimum amount of outstanding rent for the purposes of section 77(3) of the Tribunal, Courts and Enforcement Act 2007 (c.15) (the “2007 Act”), which will apply to commercial rent arrears recovery during the relevant period as defined in section 82 of the Coronavirus Act 2020 (c.7).
+
+Regulation 2(3) provides that, the minimum amount of net unpaid rent before an enforcement action can take place under section 77(3)(a) of the 2007 Act (for a notice of enforcement) and under section 77(3)(b) of the 2007 Act (for the first time goods are taken control of), is 276 days’ rent where it takes place on or before 24th December 2020 and 366 days’ rent respectively where it takes place on or after 25th December 2020.
+
+The definition of the 2020 Regulations is omitted as it is no longer needed now that date is historic. The amendments do not affect any enforcement action taken prior to these Regulations coming into force.
+
+As these are temporary, emergency regulations, no impact assessment has been prepared.
+
+(1)2007 c. 15; section 90 was amended by section 25(8) of the Crime and Courts Act 2013 (c. 22).
+(2)S.I. 2013/1894; amended by S.I. 2020/451, 2020/614.

@@ -1,0 +1,79 @@
+4 MAI 2020. - Arrêté royal n° 18 portant création d'une banque de données auprès de Sciensano dans le cadre de la lutte contre la propagation du coronavirus COVID-19
+PHILIPPE, Roi des Belges,
+A tous, présents et à venir, Salut.
+Vu le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
+Vu la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel;
+Vu la loi du 5 septembre 2018 instituant le comité de sécurité de l'information et modifiant diverses lois concernant la mise en oeuvre du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
+Vu la loi du 27 mars 2020 habilitant le Roi à prendre des mesures de lutte contre la propagation du coronavirus COVID-19 (II), articles 2 et 5, § 1er, 1° ;
+Vu l'avis de l'Inspecteur des Finances, donné le 30 avril 2020;
+Vu l'accord du Ministre du Budget du 2 mai 2020;
+Vu l'avis n° 36/2020 du 29 avril 2020 de l'Autorité de protection des données;
+Vu les lois sur le Conseil d'Etat coordonnées le 12 janvier 1973, article 3, § 1er, alinéa 1er ;
+Vu l'urgence, qui ne permet pas d'attendre l'avis de la section de législation du Conseil d'Etat dans un délai ramené à cinq jours, en raison notamment du fait qu'il est d'une vitale importance pour la santé publique et pour éviter une résurgence de l'épidémie de COVID-19, Sciensano dispose dans les plus brefs délais d'une base de données permettant de rechercher et contacter les contacts des personnes infectées, maintenant que le gouvernement a décidé de supprimer progressivement un certain nombre de restrictions aux mouvements de population à partir du 4 mai 2020;
+Sur la proposition de la Ministre des Affaires sociales et de la Santé publique, et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+Nous avons arrêté et arrêtons :
+Article 1er. Il est créé auprès de Sciensano une banque de données dans le cadre de la lutte contre la propagation du coronavirus COVID-19. Sciensano est le responsable du traitement de cette banque de données au sens du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+Art. 2. § 1. La banque de données contient des données à caractère personnel que les médecins, les hôpitaux, les laboratoires et le centre de contact communiquent à Sciensano.
+§ 2. La banque de données contient les données à caractère personnel suivantes des personnes pour lesquelles le médecin présume une infection ou pour lesquelles un test médical a été prescrit ou qui ont subi un test dans le cadre de la lutte contre la propagation du coronavirus COVID-19 :
+1° le numéro d'identification visé à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° le nom et le prénom ;
+3° le sexe ;
+4° la date de naissance et, le cas échéant, la date de décès ;
+5° l'adresse ;
+6° le type, la date, le numéro de l'échantillon et le résultat du test ou le diagnostic présumé en l'absence de test ;
+7° le numéro INAMI du prescripteur du test ;
+8° les informations de contact (numéros de téléphone) de l'intéressé et de la personne à contacter en cas d'urgence ;
+9° la collectivité dont la personne fait partie ;
+10° l'exercice ou pas de la profession de prestataire de soins.
+§ 3. La banque de données contient les données à caractère personnel suivantes des patients hospitalisés avec un diagnostic confirmé du coronavirus COVID-19:
+1° le numéro d'identification visé à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° le sexe ;
+3° l'adresse ;
+4° le type, la date, le numéro de l'échantillon, le résultat du test ou le diagnostic présumé en l'absence de test ;
+5° le service hospitalier, le numéro d'identification et les données de localisation de l'hôpital ;
+6° la collectivité dont la personne fait partie ;
+7° le résultat du CT scan ;
+8° les informations de contact de l'intéressé (numéros de téléphone) et de la personne à contacter en cas d'urgence ;
+9° l'exercice ou pas de la profession de prestataire de soins.
+§ 4. La banque de données contient les données à caractère personnel suivantes des personnes, visées au § 2 et § 3, avec lesquelles le patient est entré en contact, qui sont communiquées par le centre de contact :
+1° le numéro d'identification visé à l'article 8, § 1er, 1° ou 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° le nom et le prénom ;
+3° le sexe ;
+4° le cas échéant, la date de décès ;
+5° l'adresse ;
+6° le numéro de téléphone ;
+7° risque élévé / faible ;
+8° le lien entre le patient et les personnes avec lesquelles il a été en contact.
+Le lien sous 8° est effacé 21 jours après l'enregistrement dans la banque de données.
+Art. 3. § 1er. Le traitement des données à caractère personnel dans la banque de données poursuit les finalités suivantes :
+1° rechercher et contacter les personnes visées à l'article 2, §§ 2, 3 et 4, par un centre de contact dans le cadre de la lutte contre la propagation du coronavirus COVID-19 ;
+2° réaliser des études scientifiques, statistiques et/ou d'appui à la politique, après pseudonymisation, par des épidémiologistes associés au COVID-19 Risk Assessment Group ou pour des épidémiologistes accrédités par le comité de sécurité de l'information.
+3° communiquer des données aux services d'inspection de la santé des régions, visés dans l'arrêté ministériel du 19 juin 2009 déterminant la liste des infections qui doivent être déclarées et portant délégation de compétences à attribuer aux médecins-fonctionnaires et aux fonctionnaires, dans le décret du 2 mai 2019 modifiant le Code wallon de l'Action sociale et de la Santé en ce qui concerne la prévention et la promotion de la santé, dans l'ordonnance du 19 juillet 2007 relative à la politique de prévention en santé et dans l'arrêté du Collège réuni de la Commission communautaire commune du 23 avril 2009 relatif à la prophylaxie des maladies transmissibles, et le Dekret für Gesundheitsförderung und medizinischer Prävention du 1er juin 2004, dans le cadre d'initiatives visant à combattre la propagation des effets nocifs causés par les maladies infectieuses.
+§ 2. Le centre de contact utilise les données à caractère personnel de la banque de données pour contacter les personnes chez qui le médecin présume une infection et les personnes dont le test médical était positif et pour retrouver l'identité des personnes avec lesquelles elles ont été en contact.
+Dans la mesure où elles ont été en contact avec des personnes d'une collectivité avec une population fragile, le centre de contact prend contact avec le médecin référent ou, à défaut, avec le responsable administratif de cette collectivité.
+Dans la mesure où elles ont été en contact avec des personnes individuelles, le centre de contact prend contact individuellement avec ces personnes individuelles et leur fournit ensuite, sur la base des informations qu'elles communiquent, des recommandations adéquates par la voie électronique.
+Le Vlaams Agentschap Zorg en Gezondheid, l'Agence wallonne pour une Vie de Qualité, le Ministère de la Communauté Germanophone et la Commission communautaire commune sont, chacun dans son propre domaine de compétence, les responsables du traitement pour les traitements de données à caractère personnel par le centre de contact.
+Art. 4. § 1er. Tant la communication de données à caractère personnel à Sciensano en vue du traitement dans la banque de données visée à l'article 1er que la communication ultérieure de ces données à caractère personnel par Sciensano aux organisations visées à l'article 3, § 1er, 1° et 3°, et, uniquement après pseudonymisation, aux épidémiologistes associés au COVID-19 Risk Assessment Group ou les autres épidémiologistes pour la finalité visée à l'article 3, § 1er, 2°, s'effectuent toujours après délibération de la chambre sécurité sociale et santé du Comité de sécurité de l'information visée dans la loi du 5 septembre 2018 instituant le comité de sécurité de l'information et modifiant diverses lois concernant la mise en oeuvre du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+Sans préjudice de l'application de l'article 2, la chambre sécurité sociale et santé du Comité de sécurité de l'information détermine, par catégorie concernée de l'instance visée à l'article 2, § 1er, quels types de données à caractère personnel elle communique à Sciensano pour traitement dans la banque de données.
+La chambre sécurité sociale et santé du Comité de sécurité de l'information détermine, par catégorie concernée d'utilisateur des données à caractère personnel visé à l'article 3, § 1er, quels types de donnés à caractère personnel elle peut recevoir de Sciensano en provenance de la banque de données pour la réalisation des finalités visées à l'article 3, § 1er.
+Lors de l'évaluation d'une catégorie de communication de données à caractère personnel à ou par Sciensano, la chambre sécurité sociale et santé du Comité de sécurité de l'information détermine les modalités en la matière et elle détermine au moins les éléments suivants :
+1° la finalité exacte du traitement ;
+2° l'identité du responsable du traitement ;
+3° les catégories de données à caractère personnel traitées dans la mesure où celles-ci sont adéquates, pertinentes et limitées à ce qui est nécessaire au regard de la finalité pour laquelle elles sont traitées ;
+4° les catégories de personnes concernant lesquelles des données à caractère personnel sont traitées ;
+5° la durée de conservation des données à caractère personnel ;
+6° les mesures visant à garantir un traitement licite et loyal des données à caractère personnel ;
+7° la façon selon laquelle les personnes dont les données à caractère personnel sont traitées sont informées de ce traitement.
+§ 2. Dans l'hypothèse où les données nécessaires ne sont pas disponibles dans la banque de données, il est accordé un accès au registre national visé à l'article 1er de la loi du 8 août 1983 organisant un registre national des personnes physiques et aux registres Banque Carrefour visés à l'article 4 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, et ce uniquement pour les finalités mentionnées à l'article 3.
+Une communication de données à caractère personnel en provenance d'autres sources requiert une délibération du Comité de sécurité de l'information précité.
+§ 3. Toutes les personnes qui ont accès à la banque de données prennent les mesures utiles pour garantir que les données à caractère personnel enregistrées soient traitées de manière confidentielle et uniquement pour les finalités mentionnées à l'article 3. Cet accès vaut uniquement pour les utilisateurs individuels habilités à exercer le droit d'accès, sous la responsabilité exclusive des instances concernées.
+Sciensano désigne un délégué à la protection des données mentionné à l'article 37 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+Art. 5. Les données à caractère personnel reçues sont effacées par le responsable du traitement avant le 9 juin 2020.
+Dans la mesure où Sciensano communique les données à caractère personnel aux épidémiologistes visés à l'article 3, § 1er, 2°, à des fins de recherche scientifique, statistique et/ou d'appui à la politique, et ce toujours après pseudonymisation, le délai de conservation est déterminé par la chambre sécurité sociale et santé du Comité de sécurité de l'information.
+Art. 6. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge et cesse ses effets le 4 juin 2020.
+Art. 7. Le ministre qui a les Affaires sociales dans ses attributions et le ministre qui a la Santé publique dans ses attributions sont chargés, chacun en ce qui les concerne, de l'exécution du présent arrêté.
+Donné à Bruxelles, le 4 mai 2020.
+PHILIPPE
+Par le Roi :
+La Ministre des Affaires sociales et de la Santé publique,
+M. DE BLOCK

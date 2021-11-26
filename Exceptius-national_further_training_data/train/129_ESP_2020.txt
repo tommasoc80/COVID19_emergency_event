@@ -1,0 +1,1680 @@
+Anuncio de formalización de contratos de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Selección de suministradores y productos para hacer frente al COVID-19, así como la fijación de las condiciones a que habrán de ajustarse los suministros basados en este Acuerdo Marco. Expediente: AM 2020/070.
+2020
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Dirección del Instituto Nacional de Gestión Sanitaria (INGESA).
+          1.2) Número de identificación fiscal: 
+          Q2869002B.
+          1.3) Dirección: 
+          Alcalá, 56.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28014.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.11) Correo electrónico: 
+          bazuara@ingesa.sanidad.gob.es
+          1.12) Dirección principal: 
+          http://www.ingesa.mscbs.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=BCFBo8vhaU8%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Sanidad.
+        
+      4. Códigos CPV:
+      
+        4.1) CPV principal: 
+          33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.2) CPV 
+          Lote 01: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.3) CPV 
+          Lote 02: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.4) CPV 
+          Lote 03: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.5) CPV 
+          Lote 04: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.6) CPV 
+          Lote 05: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.7) CPV 
+          Lote 06: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.8) CPV 
+          Lote 07: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.9) CPV 
+          Lote 08: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.10) CPV 
+          Lote 09: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.11) CPV 
+          Lote 10: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.12) CPV 
+          Lote 11: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+        
+      5. Lugar principal de entrega de los suministros:
+      
+        5.1) Código NUTS principal: 
+          ES.
+          5.2) Código NUTS 
+          Lote 01: ES.
+          5.3) Código NUTS 
+          Lote 02: ES.
+          5.4) Código NUTS 
+          Lote 03: ES.
+          5.5) Código NUTS 
+          Lote 04: ES.
+          5.6) Código NUTS 
+          Lote 05: ES.
+          5.7) Código NUTS 
+          Lote 06: ES.
+          5.8) Código NUTS 
+          Lote 07: ES.
+          5.9) Código NUTS 
+          Lote 08: ES.
+          5.10) Código NUTS 
+          Lote 09: ES.
+          5.11) Código NUTS 
+          Lote 10: ES.
+          5.12) Código NUTS 
+          Lote 11: ES.
+        
+      6. Descripción de la licitación:
+      
+        6.1) Descripción genérica:
+          Selección de suministradores y productos para hacer frente al COVID-19, así como la fijación de las condiciones a que habrán de ajustarse los suministros basados en este Acuerdo Marco.
+          6.2)
+          Lote 01: Bata quirúrgica no estéril, desechable, prestación estándar (normativa Productos Sanitarios).
+          6.3)
+          Lote 02: Bata de protección contra agentes biológicos, desechable . Tipo PB [B]. Nivel 2 (normativa EPI).
+          6.4)
+          Lote 03: Bata quirúrgica no estéril, desechable, prestación alta (normativa Productos Sanitarios).
+          6.5)
+          Lote 04: Bata de protección contra agentes biológicos, desechable , tipo PB [B] Nivel 4 (normativa EPI).
+          6.6)
+          Lote 05: Guantes de nitrilo.
+          6.7)
+          Lote 06: Gafas de protección.
+          6.8)
+          Lote 07: Mascarillas quirúrgicas tipo II y tipo II R.
+          6.9)
+          Lote 08: Mascarillas de protección (eficacia de filtración equivalente a FFP2).
+          6.10)
+          Lote 09: Mascarillas de protección (eficacia de filtración equivalente a FFP3).
+          6.11)
+          Lote 10: Test molecular COVID-19.
+          6.12)
+          Lote 11: Kit de extracción.
+        
+      7. Tipo de procedimiento de adjudicación: 
+      
+        7.1) Tipo: 
+          Negociado sin publicidad acelerado (Adquisición de material necesario para hacer frente al COVID-19, que es de utilización común en el Sistema Nacional de Salud y que se requiere para el cumplimiento de los fines de las administraciones participantes).
+          7.2) Justificación: 
+          
+            7.2.1) 
+              Situación de extrema urgencia.
+            
+          7.3) Explicación: 
+          Emergencia Covid19.
+        
+      8. Información sobre un acuerdo marco o un sistema dinámico de adquisición:
+      El anuncio se refiere al establecimiento de un acuerdo marco.
+      9. Criterios de adjudicación: 
+      
+        9.1) 
+          Precio (Ponderación: 100%).
+          9.2) 
+          Requisitos técnicos (Ponderación: 100%).
+        
+      10. Fecha de adjudicación: 
+      
+        10.01) Lote 01: 
+          
+            10.01.1) Contrato 70.1: 
+              10 de noviembre de 2020.
+              10.01.2) Contrato 70.2: 
+              10 de noviembre de 2020.
+              10.01.3) Contrato 70.3: 
+              10 de noviembre de 2020.
+              10.01.4) Contrato 70.4: 
+              10 de noviembre de 2020.
+            
+          10.02) Lote 02: 
+          
+            10.02.1) Contrato 70.2: 
+              10 de noviembre de 2020.
+              10.02.2) Contrato 70.5: 
+              10 de noviembre de 2020.
+            
+          10.03) Lote 03: 
+          
+            10.03.1) Contrato 70.1: 
+              10 de noviembre de 2020.
+              10.03.2) Contrato 70.2: 
+              10 de noviembre de 2020.
+              10.03.3) Contrato 70.4: 
+              10 de noviembre de 2020.
+            
+          10.04) Lote 04: 
+          10 de noviembre de 2020.
+          10.10) Lote 10: 
+          
+            10.10.1) Contrato 70.10: 
+              10 de noviembre de 2020.
+              10.10.2) Contrato 70.11: 
+              10 de noviembre de 2020.
+              10.10.3) Contrato 70.12: 
+              10 de noviembre de 2020.
+              10.10.4) Contrato 70.13: 
+              10 de noviembre de 2020.
+              10.10.5) Contrato 70.14: 
+              10 de noviembre de 2020.
+              10.10.6) Contrato 70.15: 
+              10 de noviembre de 2020.
+              10.10.7) Contrato 70.16: 
+              10 de noviembre de 2020.
+              10.10.8) Contrato 70.17: 
+              10 de noviembre de 2020.
+              10.10.9) Contrato 70.18: 
+              10 de noviembre de 2020.
+              10.10.10) Contrato 70.19: 
+              10 de noviembre de 2020.
+              10.10.11) Contrato 70.20: 
+              10 de noviembre de 2020.
+              10.10.12) Contrato 70.21: 
+              10 de noviembre de 2020.
+              10.10.13) Contrato 70.22: 
+              10 de noviembre de 2020.
+              10.10.14) Contrato 70.23: 
+              10 de noviembre de 2020.
+              10.10.15) Contrato 70.24: 
+              10 de noviembre de 2020.
+              10.10.16) Contrato 70.25: 
+              10 de noviembre de 2020.
+              10.10.17) Contrato 70.26: 
+              10 de noviembre de 2020.
+              10.10.18) Contrato 70.27: 
+              10 de noviembre de 2020.
+              10.10.19) Contrato 70.28: 
+              10 de noviembre de 2020.
+              10.10.20) Contrato 70.29: 
+              10 de noviembre de 2020.
+              10.10.21) Contrato 70.30: 
+              10 de noviembre de 2020.
+              10.10.22) Contrato 70.31: 
+              10 de noviembre de 2020.
+              10.10.23) Contrato 70.32: 
+              10 de noviembre de 2020.
+              10.10.24) Contrato 70.33: 
+              10 de noviembre de 2020.
+              10.10.25) Contrato 70.6: 
+              10 de noviembre de 2020.
+              10.10.26) Contrato 70.7: 
+              10 de noviembre de 2020.
+              10.10.27) Contrato 70.8: 
+              10 de noviembre de 2020.
+              10.10.28) Contrato 70.9: 
+              10 de noviembre de 2020.
+            
+          10.11) Lote 11: 
+          
+            10.11.1) Contrato 70.10: 
+              10 de noviembre de 2020.
+              10.11.2) Contrato 70.13: 
+              10 de noviembre de 2020.
+              10.11.3) Contrato 70.15: 
+              10 de noviembre de 2020.
+              10.11.4) Contrato 70.18: 
+              10 de noviembre de 2020.
+              10.11.5) Contrato 70.25: 
+              10 de noviembre de 2020.
+              10.11.6) Contrato 70.26: 
+              10 de noviembre de 2020.
+              10.11.7) Contrato 70.30: 
+              10 de noviembre de 2020.
+              10.11.8) Contrato 70.33: 
+              10 de noviembre de 2020.
+              10.11.9) Contrato 70.34: 
+              10 de noviembre de 2020.
+              10.11.10) Contrato 70.8: 
+              10 de noviembre de 2020.
+            
+        
+      11. Ofertas recibidas: 
+      
+        11.01) Lote 01: 
+          
+            11.01.1) Contrato 70.1: 
+              
+                11.01.1.1) Número de ofertas recibidas: 
+                  36.
+                  11.01.1.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.01.2) Contrato 70.2: 
+              
+                11.01.2.1) Número de ofertas recibidas: 
+                  36.
+                  11.01.2.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.01.3) Contrato 70.3: 
+              
+                11.01.3.1) Número de ofertas recibidas: 
+                  36.
+                  11.01.3.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.01.4) Contrato 70.4: 
+              
+                11.01.4.1) Número de ofertas recibidas: 
+                  36.
+                  11.01.4.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+            
+          11.02) Lote 02: 
+          
+            11.02.1) Contrato 70.2: 
+              
+                11.02.1.1) Número de ofertas recibidas: 
+                  15.
+                  11.02.1.2) Número de ofertas recibidas de PYMEs: 
+                  9.
+                
+              11.02.2) Contrato 70.5: 
+              
+                11.02.2.1) Número de ofertas recibidas: 
+                  15.
+                  11.02.2.2) Número de ofertas recibidas de PYMEs: 
+                  9.
+                
+            
+          11.03) Lote 03: 
+          
+            11.03.1) Contrato 70.1: 
+              
+                11.03.1.1) Número de ofertas recibidas: 
+                  29.
+                  11.03.1.2) Número de ofertas recibidas de PYMEs: 
+                  21.
+                
+              11.03.2) Contrato 70.2: 
+              
+                11.03.2.1) Número de ofertas recibidas: 
+                  29.
+                  11.03.2.2) Número de ofertas recibidas de PYMEs: 
+                  21.
+                
+              11.03.3) Contrato 70.4: 
+              
+                11.03.3.1) Número de ofertas recibidas: 
+                  29.
+                  11.03.3.2) Número de ofertas recibidas de PYMEs: 
+                  21.
+                
+            
+          11.04) Lote 04: 
+          
+            11.04.1) Número de ofertas recibidas: 
+              9.
+              11.04.2) Número de ofertas recibidas de PYMEs: 
+              4.
+            
+          11.10) Lote 10: 
+          
+            11.10.1) Contrato 70.10: 
+              
+                11.10.1.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.1.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.2) Contrato 70.11: 
+              
+                11.10.2.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.2.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.3) Contrato 70.12: 
+              
+                11.10.3.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.3.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.4) Contrato 70.13: 
+              
+                11.10.4.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.4.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.5) Contrato 70.14: 
+              
+                11.10.5.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.5.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.6) Contrato 70.15: 
+              
+                11.10.6.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.6.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.7) Contrato 70.16: 
+              
+                11.10.7.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.7.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.8) Contrato 70.17: 
+              
+                11.10.8.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.8.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.9) Contrato 70.18: 
+              
+                11.10.9.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.9.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.10) Contrato 70.19: 
+              
+                11.10.10.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.10.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.11) Contrato 70.20: 
+              
+                11.10.11.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.11.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.12) Contrato 70.21: 
+              
+                11.10.12.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.12.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.13) Contrato 70.22: 
+              
+                11.10.13.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.13.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.14) Contrato 70.23: 
+              
+                11.10.14.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.14.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.15) Contrato 70.24: 
+              
+                11.10.15.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.15.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.16) Contrato 70.25: 
+              
+                11.10.16.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.16.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.17) Contrato 70.26: 
+              
+                11.10.17.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.17.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.18) Contrato 70.27: 
+              
+                11.10.18.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.18.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.19) Contrato 70.28: 
+              
+                11.10.19.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.19.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.20) Contrato 70.29: 
+              
+                11.10.20.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.20.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.21) Contrato 70.30: 
+              
+                11.10.21.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.21.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.22) Contrato 70.31: 
+              
+                11.10.22.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.22.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.23) Contrato 70.32: 
+              
+                11.10.23.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.23.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.24) Contrato 70.33: 
+              
+                11.10.24.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.24.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.25) Contrato 70.6: 
+              
+                11.10.25.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.25.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.26) Contrato 70.7: 
+              
+                11.10.26.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.26.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.27) Contrato 70.8: 
+              
+                11.10.27.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.27.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+              11.10.28) Contrato 70.9: 
+              
+                11.10.28.1) Número de ofertas recibidas: 
+                  54.
+                  11.10.28.2) Número de ofertas recibidas de PYMEs: 
+                  39.
+                
+            
+          11.11) Lote 11: 
+          
+            11.11.1) Contrato 70.10: 
+              
+                11.11.1.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.1.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.2) Contrato 70.13: 
+              
+                11.11.2.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.2.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.3) Contrato 70.15: 
+              
+                11.11.3.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.3.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.4) Contrato 70.18: 
+              
+                11.11.4.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.4.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.5) Contrato 70.25: 
+              
+                11.11.5.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.5.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.6) Contrato 70.26: 
+              
+                11.11.6.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.6.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.7) Contrato 70.30: 
+              
+                11.11.7.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.7.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.8) Contrato 70.33: 
+              
+                11.11.8.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.8.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.9) Contrato 70.34: 
+              
+                11.11.9.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.9.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+              11.11.10) Contrato 70.8: 
+              
+                11.11.10.1) Número de ofertas recibidas: 
+                  37.
+                  11.11.10.2) Número de ofertas recibidas de PYMEs: 
+                  26.
+                
+            
+        
+      12. Adjudicatarios: 
+      
+        12.01) Lote 01: 
+          
+            12.01.1) Contrato 70.1: 
+              
+                12.01.1.1) Nombre: 
+                  GARRIC MEDICA, S.L.
+                  12.01.1.2) Número de identificación fiscal: 
+                  B80196934.
+                  12.01.1.3) Dirección: 
+                  Barbuda, 32.
+                  12.01.1.4) Localidad: 
+                  Las Navas del Marqués .
+                  12.01.1.6) Código postal: 
+                  05230.
+                  12.01.1.7) País: 
+                  España.
+                  12.01.1.13) 
+                  El adjudicatario es una PYME.
+                
+              12.01.2) Contrato 70.2: 
+              
+                12.01.2.1) Nombre: 
+                  ITURRI, S.A.
+                  12.01.2.2) Número de identificación fiscal: 
+                  A41050113.
+                  12.01.2.3) Dirección: 
+                  Avda. Roberto Osborne, 9.
+                  12.01.2.4) Localidad: 
+                  Sevilla.
+                  12.01.2.6) Código postal: 
+                  41007.
+                  12.01.2.7) País: 
+                  España.
+                
+              12.01.3) Contrato 70.3: 
+              
+                12.01.3.1) Nombre: 
+                  Kaelis on Board Services, S.L.
+                  12.01.3.2) Número de identificación fiscal: 
+                  B81665119.
+                  12.01.3.3) Dirección: 
+                  Avenida Isla Graciosa, 7 -piso 1-.
+                  12.01.3.4) Localidad: 
+                  San Sebastián de los Reyes .
+                  12.01.3.6) Código postal: 
+                  28703.
+                  12.01.3.7) País: 
+                  España.
+                  12.01.3.13) 
+                  El adjudicatario es una PYME.
+                
+              12.01.4) Contrato 70.4: 
+              
+                12.01.4.1) Nombre: 
+                  Medline International Iberia, S.L.U.
+                  12.01.4.3) Dirección: 
+                  Avda. de Castilla, 2 -planta baja, local B- Edificio Munich.
+                  12.01.4.4) Localidad: 
+                  San Fernando de Henares (Madrid).
+                  12.01.4.6) Código postal: 
+                  28830.
+                  12.01.4.7) País: 
+                  España.
+                  12.01.4.13) 
+                  El adjudicatario es una PYME.
+                
+            
+          12.02) Lote 02: 
+          
+            12.02.1) Contrato 70.2: 
+              
+                12.02.1.1) Nombre: 
+                  ITURRI, S.A.
+                  12.02.1.2) Número de identificación fiscal: 
+                  A41050113.
+                  12.02.1.3) Dirección: 
+                  Avda. Roberto Osborne, 9.
+                  12.02.1.4) Localidad: 
+                  Sevilla.
+                  12.02.1.6) Código postal: 
+                  41007.
+                  12.02.1.7) País: 
+                  España.
+                
+              12.02.2) Contrato 70.5: 
+              
+                12.02.2.1) Nombre: 
+                  IBERHOSPITEX, S.A.
+                  12.02.2.2) Número de identificación fiscal: 
+                  A08630063.
+                  12.02.2.3) Dirección: 
+                  Avda. de Cataluña, 4.
+                  12.02.2.4) Localidad: 
+                  Lliça de Vall .
+                  12.02.2.6) Código postal: 
+                  08185.
+                  12.02.2.7) País: 
+                  España.
+                  12.02.2.13) 
+                  El adjudicatario es una PYME.
+                
+            
+          12.03) Lote 03: 
+          
+            12.03.1) Contrato 70.1: 
+              
+                12.03.1.1) Nombre: 
+                  GARRIC MEDICA, S.L.
+                  12.03.1.2) Número de identificación fiscal: 
+                  B80196934.
+                  12.03.1.3) Dirección: 
+                  Barbuda, 32.
+                  12.03.1.4) Localidad: 
+                  Las Navas del Marqués .
+                  12.03.1.6) Código postal: 
+                  05230.
+                  12.03.1.7) País: 
+                  España.
+                  12.03.1.13) 
+                  El adjudicatario es una PYME.
+                
+              12.03.2) Contrato 70.2: 
+              
+                12.03.2.1) Nombre: 
+                  ITURRI, S.A.
+                  12.03.2.2) Número de identificación fiscal: 
+                  A41050113.
+                  12.03.2.3) Dirección: 
+                  Avda. Roberto Osborne, 9.
+                  12.03.2.4) Localidad: 
+                  Sevilla.
+                  12.03.2.6) Código postal: 
+                  41007.
+                  12.03.2.7) País: 
+                  España.
+                
+              12.03.3) Contrato 70.4: 
+              
+                12.03.3.1) Nombre: 
+                  Medline International Iberia, S.L.U.
+                  12.03.3.2) Número de identificación fiscal: 
+                  B86030723.
+                  12.03.3.3) Dirección: 
+                  Avda. de Castilla, 2 -planta baja, local B- Edificio Munich.
+                  12.03.3.4) Localidad: 
+                  San Fernando de Henares .
+                  12.03.3.6) Código postal: 
+                  28830.
+                  12.03.3.7) País: 
+                  España.
+                  12.03.3.13) 
+                  El adjudicatario es una PYME.
+                
+            
+          12.04) Lote 04: 
+          
+            12.04.1) Nombre: 
+              ITURRI, S.A.
+              12.04.2) Número de identificación fiscal: 
+              A41050113.
+              12.04.3) Dirección: 
+              Avda. Roberto Osborne, 9.
+              12.04.4) Localidad: 
+              Sevilla.
+              12.04.6) Código postal: 
+              41007.
+              12.04.7) País: 
+              España.
+            
+          12.10) Lote 10: 
+          
+            12.10.1) Contrato 70.10: 
+              
+                12.10.1.1) Nombre: 
+                  Bruker Española, S.A.
+                  12.10.1.2) Número de identificación fiscal: 
+                  A28315539.
+                  12.10.1.3) Dirección: 
+                  Marie Curie, 5 -Edificio Alfa- planta baja.
+                  12.10.1.4) Localidad: 
+                  Rivas Vaciamadrid .
+                  12.10.1.6) Código postal: 
+                  28521.
+                  12.10.1.7) País: 
+                  España.
+                  12.10.1.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.2) Contrato 70.11: 
+              
+                12.10.2.1) Nombre: 
+                  COMERCIAL HOSPITALARIA GRUPO 3 SL.
+                  12.10.2.2) Número de identificación fiscal: 
+                  B36769479.
+                  12.10.2.3) Dirección: 
+                  Rúa Arroncal, 9 Vial C Nave 4C -Parque Empresarial Porto do Molle-.
+                  12.10.2.4) Localidad: 
+                  Nigrán .
+                  12.10.2.6) Código postal: 
+                  36350.
+                  12.10.2.7) País: 
+                  España.
+                  12.10.2.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.3) Contrato 70.12: 
+              
+                12.10.3.1) Nombre: 
+                  EUROIMMUN DIAGNOSTICS ESPAÑA S.L.U.
+                  12.10.3.2) Número de identificación fiscal: 
+                  B82621020.
+                  12.10.3.3) Dirección: 
+                  Avda. Somosierra, 22 15-A.
+                  12.10.3.4) Localidad: 
+                  San Sebastián de los Reyes .
+                  12.10.3.6) Código postal: 
+                  28703.
+                  12.10.3.7) País: 
+                  España.
+                  12.10.3.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.4) Contrato 70.13: 
+              
+                12.10.4.1) Nombre: 
+                  GAMMA SOLUTIONS S.L.
+                  12.10.4.3) Dirección: 
+                  Acanto, 22.
+                  12.10.4.4) Localidad: 
+                  Madrid.
+                  12.10.4.6) Código postal: 
+                  28045.
+                  12.10.4.7) País: 
+                  España.
+                  12.10.4.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.5) Contrato 70.14: 
+              
+                12.10.5.1) Nombre: 
+                  GENOMICA SAU.
+                  12.10.5.2) Número de identificación fiscal: 
+                  A79434718.
+                  12.10.5.3) Dirección: 
+                  Vía de los Poblados, 1 -1ª planta- Parque Empresarial Alvento Edificio B.
+                  12.10.5.4) Localidad: 
+                  Madrid.
+                  12.10.5.6) Código postal: 
+                  28033.
+                  12.10.5.7) País: 
+                  España.
+                  12.10.5.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.6) Contrato 70.15: 
+              
+                12.10.6.1) Nombre: 
+                  GLSMED Trade S.A.
+                  12.10.6.3) Dirección: 
+                  Rua Carlos Alberto da Mota Pinto, 17, 9º.
+                  12.10.6.4) Localidad: 
+                  1070-313 Lisboa .
+                  12.10.6.7) País: 
+                  Portugal.
+                
+              12.10.7) Contrato 70.16: 
+              
+                12.10.7.1) Nombre: 
+                  HARMONIUM HEALTHCARE .S.L.
+                  12.10.7.2) Número de identificación fiscal: 
+                  B74454935.
+                  12.10.7.3) Dirección: 
+                  Julio González Pola, 6.
+                  12.10.7.4) Localidad: 
+                  Oviedo.
+                  12.10.7.6) Código postal: 
+                  33013.
+                  12.10.7.7) País: 
+                  España.
+                  12.10.7.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.8) Contrato 70.17: 
+              
+                12.10.8.1) Nombre: 
+                  IHT MEDICAL.
+                  12.10.8.2) Número de identificación fiscal: 
+                  A59077941.
+                  12.10.8.3) Dirección: 
+                  Avda. de Cataluña, 4.
+                  12.10.8.4) Localidad: 
+                  Lliça de Vall .
+                  12.10.8.6) Código postal: 
+                  08185.
+                  12.10.8.7) País: 
+                  España.
+                  12.10.8.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.9) Contrato 70.18: 
+              
+                12.10.9.1) Nombre: 
+                  INMUNOLOGIA Y GENETICA APLICADA S.A.
+                  12.10.9.2) Número de identificación fiscal: 
+                  A28685154.
+                  12.10.9.3) Dirección: 
+                  Avda. Institución Libre Enseñanza, 39-8.
+                  12.10.9.4) Localidad: 
+                  Madrid.
+                  12.10.9.6) Código postal: 
+                  28037.
+                  12.10.9.7) País: 
+                  España.
+                
+              12.10.10) Contrato 70.19: 
+              
+                12.10.10.1) Nombre: 
+                  Instituto de Medicina Genomica, S.L.
+                  12.10.10.2) Número de identificación fiscal: 
+                  B98165723.
+                  12.10.10.3) Dirección: 
+                  Catedrático Agustín Escardino, 9.
+                  12.10.10.4) Localidad: 
+                  Paterna .
+                  12.10.10.6) Código postal: 
+                  46980.
+                  12.10.10.7) País: 
+                  España.
+                
+              12.10.11) Contrato 70.20: 
+              
+                12.10.11.1) Nombre: 
+                  Linear Chemicals S.L.U.
+                  12.10.11.2) Número de identificación fiscal: 
+                  B60485687.
+                  12.10.11.3) Dirección: 
+                  Joaquim Costa, 18 -2 planta-.
+                  12.10.11.4) Localidad: 
+                  Montgat .
+                  12.10.11.6) Código postal: 
+                  08390.
+                  12.10.11.7) País: 
+                  España.
+                  12.10.11.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.12) Contrato 70.21: 
+              
+                12.10.12.1) Nombre: 
+                  Medilevel sa.
+                  12.10.12.2) Número de identificación fiscal: 
+                  A03802451.
+                  12.10.12.3) Dirección: 
+                  Bolulla, 10 -Nave 3, Polígono Industrial Rabasa-.
+                  12.10.12.4) Localidad: 
+                  Alicante.
+                  12.10.12.6) Código postal: 
+                  03009.
+                  12.10.12.7) País: 
+                  España.
+                  12.10.12.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.13) Contrato 70.22: 
+              
+                12.10.13.1) Nombre: 
+                  MENARINI DIAGNOSTICOS, S.A.
+                  12.10.13.2) Número de identificación fiscal: 
+                  A08534638.
+                  12.10.13.3) Dirección: 
+                  Avda. del Maresme, 120.
+                  12.10.13.4) Localidad: 
+                  Badalona .
+                  12.10.13.6) Código postal: 
+                  08918.
+                  12.10.13.7) País: 
+                  España.
+                
+              12.10.14) Contrato 70.23: 
+              
+                12.10.14.1) Nombre: 
+                  MERCÉ V. ELECTROMEDICINA, S.L.
+                  12.10.14.2) Número de identificación fiscal: 
+                  B96056023.
+                  12.10.14.3) Dirección: 
+                  Colón, 1 -6ª planta-.
+                  12.10.14.4) Localidad: 
+                  Valencia.
+                  12.10.14.6) Código postal: 
+                  46004.
+                  12.10.14.7) País: 
+                  España.
+                  12.10.14.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.15) Contrato 70.24: 
+              
+                12.10.15.1) Nombre: 
+                  Nimgenetics Genómica y Medicina S.L.
+                  12.10.15.2) Número de identificación fiscal: 
+                  B85332138.
+                  12.10.15.3) Dirección: 
+                  Faraday, 7.
+                  12.10.15.4) Localidad: 
+                  Madrid.
+                  12.10.15.6) Código postal: 
+                  28049.
+                  12.10.15.7) País: 
+                  España.
+                  12.10.15.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.16) Contrato 70.25: 
+              
+                12.10.16.1) Nombre: 
+                  PALEX MEDICAL, S.A.
+                  12.10.16.2) Número de identificación fiscal: 
+                  A58710740.
+                  12.10.16.3) Dirección: 
+                  Jesús Serra Santamans, 5.
+                  12.10.16.4) Localidad: 
+                  Sant Cugat del Vallès .
+                  12.10.16.6) Código postal: 
+                  08174.
+                  12.10.16.7) País: 
+                  España.
+                
+              12.10.17) Contrato 70.26: 
+              
+                12.10.17.1) Nombre: 
+                  PERKINELMER ESPAÑA SL.
+                  12.10.17.2) Número de identificación fiscal: 
+                  B82338757.
+                  12.10.17.3) Dirección: 
+                  Ronda de Poniente, 19.
+                  12.10.17.4) Localidad: 
+                  Tres Cantos.
+                  12.10.17.6) Código postal: 
+                  28760.
+                  12.10.17.7) País: 
+                  España.
+                  12.10.17.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.18) Contrato 70.27: 
+              
+                12.10.18.1) Nombre: 
+                  Progenie molecular Especialidades Médico Ortopédicas UTE.
+                  12.10.18.3) Dirección: 
+                  Valle de la Ballestera, 56.
+                  12.10.18.4) Localidad: 
+                  Valencia.
+                  12.10.18.6) Código postal: 
+                  46015.
+                  12.10.18.7) País: 
+                  España.
+                
+              12.10.19) Contrato 70.28: 
+              
+                12.10.19.1) Nombre: 
+                  SIEMENS HEALTHCARE, S.L.U.
+                  12.10.19.2) Número de identificación fiscal: 
+                  B60805769.
+                  12.10.19.3) Dirección: 
+                  Avda. Leonardo da Vinci, 15-19.
+                  12.10.19.4) Localidad: 
+                  Getafe .
+                  12.10.19.6) Código postal: 
+                  28906.
+                  12.10.19.7) País: 
+                  España.
+                  12.10.19.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.20) Contrato 70.29: 
+              
+                12.10.20.1) Nombre: 
+                  SISTEMAS GENÓMICOS S.L.
+                  12.10.20.2) Número de identificación fiscal: 
+                  B96779764.
+                  12.10.20.3) Dirección: 
+                  Parque Tecnológico Ronda G. Marconi, 6.
+                  12.10.20.4) Localidad: 
+                  Paterna .
+                  12.10.20.6) Código postal: 
+                  46980.
+                  12.10.20.7) País: 
+                  España.
+                  12.10.20.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.21) Contrato 70.30: 
+              
+                12.10.21.1) Nombre: 
+                  VIRCELL SPAIN SLU.
+                  12.10.21.2) Número de identificación fiscal: 
+                  B19537844.
+                  12.10.21.3) Dirección: 
+                  Plaza Domínguez Ortiz, 1.
+                  12.10.21.4) Localidad: 
+                  Santa Fe .
+                  12.10.21.6) Código postal: 
+                  18320.
+                  12.10.21.7) País: 
+                  España.
+                  12.10.21.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.22) Contrato 70.31: 
+              
+                12.10.22.1) Nombre: 
+                  VITRO SA.
+                  12.10.22.2) Número de identificación fiscal: 
+                  A41361544.
+                  12.10.22.3) Dirección: 
+                  Luis Fuentes Bejarano, 60 -Edificio Nudo Norte, local 3-.
+                  12.10.22.4) Localidad: 
+                  Sevilla.
+                  12.10.22.6) Código postal: 
+                  41020.
+                  12.10.22.7) País: 
+                  España.
+                  12.10.22.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.23) Contrato 70.32: 
+              
+                12.10.23.1) Nombre: 
+                  VWR International Eurolab, S.L.U.
+                  12.10.23.2) Número de identificación fiscal: 
+                  B08362089.
+                  12.10.23.3) Dirección: 
+                  De la Tecnología, 5-17. A-7 Llinars Park.
+                  12.10.23.4) Localidad: 
+                  Llinars del Vallès .
+                  12.10.23.6) Código postal: 
+                  08450.
+                  12.10.23.7) País: 
+                  España.
+                  12.10.23.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.24) Contrato 70.33: 
+              
+                12.10.24.1) Nombre: 
+                  Werfen España S.A.U.
+                  12.10.24.2) Número de identificación fiscal: 
+                  A28114742.
+                  12.10.24.3) Dirección: 
+                  Plaza de Europa, 21-23.
+                  12.10.24.4) Localidad: 
+                  L´Hospitalet de Llobregat.
+                  12.10.24.6) Código postal: 
+                  08908.
+                  12.10.24.7) País: 
+                  España.
+                
+              12.10.25) Contrato 70.6: 
+              
+                12.10.25.1) Nombre: 
+                  ACJ, S.A.U.
+                  12.10.25.2) Número de identificación fiscal: 
+                  A35119015.
+                  12.10.25.3) Dirección: 
+                  Avda. Rafael Cabrera, 14 - Entresuelo-.
+                  12.10.25.4) Localidad: 
+                  Las Palmas de Gran Canaria.
+                  12.10.25.6) Código postal: 
+                  35002.
+                  12.10.25.7) País: 
+                  España.
+                  12.10.25.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.26) Contrato 70.7: 
+              
+                12.10.26.1) Nombre: 
+                  ASSUT EUROPE IBERICA, SLU.
+                  12.10.26.2) Número de identificación fiscal: 
+                  B63590244.
+                  12.10.26.3) Dirección: 
+                  Polígono Landaben, calle C, nave 1.
+                  12.10.26.4) Localidad: 
+                  Pamplona.
+                  12.10.26.6) Código postal: 
+                  31012.
+                  12.10.26.7) País: 
+                  España.
+                  12.10.26.13) 
+                  El adjudicatario es una PYME.
+                
+              12.10.27) Contrato 70.8: 
+              
+                12.10.27.1) Nombre: 
+                  BIOMERIEUX ESPAÑA, S.A.
+                  12.10.27.2) Número de identificación fiscal: 
+                  A28664589.
+                  12.10.27.3) Dirección: 
+                  Manuel Tovar, 45-47.
+                  12.10.27.4) Localidad: 
+                  Madrid.
+                  12.10.27.6) Código postal: 
+                  28034.
+                  12.10.27.7) País: 
+                  España.
+                
+              12.10.28) Contrato 70.9: 
+              
+                12.10.28.1) Nombre: 
+                  BIOSYSTEMS, S.A.
+                  12.10.28.2) Número de identificación fiscal: 
+                  A08678823.
+                  12.10.28.3) Dirección: 
+                  Costa Brava, 30.
+                  12.10.28.4) Localidad: 
+                  Barcelona.
+                  12.10.28.6) Código postal: 
+                  08030.
+                  12.10.28.7) País: 
+                  España.
+                  12.10.28.13) 
+                  El adjudicatario es una PYME.
+                
+            
+          12.11) Lote 11: 
+          
+            12.11.1) Contrato 70.10: 
+              
+                12.11.1.1) Nombre: 
+                  Bruker Española, S.A.
+                  12.11.1.2) Número de identificación fiscal: 
+                  A28315539.
+                  12.11.1.3) Dirección: 
+                  Marie Curie, 5 -Edificio Alfa- planta baja.
+                  12.11.1.4) Localidad: 
+                  Rivas Vaciamadrid .
+                  12.11.1.6) Código postal: 
+                  28521.
+                  12.11.1.7) País: 
+                  España.
+                  12.11.1.13) 
+                  El adjudicatario es una PYME.
+                
+              12.11.2) Contrato 70.13: 
+              
+                12.11.2.1) Nombre: 
+                  GAMMA SOLUTIONS S.L.
+                  12.11.2.3) Dirección: 
+                  Acanto, 22.
+                  12.11.2.4) Localidad: 
+                  Madrid.
+                  12.11.2.6) Código postal: 
+                  28045.
+                  12.11.2.7) País: 
+                  España.
+                  12.11.2.13) 
+                  El adjudicatario es una PYME.
+                
+              12.11.3) Contrato 70.15: 
+              
+                12.11.3.1) Nombre: 
+                  GLSMED Trade S.A.
+                  12.11.3.3) Dirección: 
+                  Rua Carlos Alberto da Mota Pinto, 17, 9º.
+                  12.11.3.4) Localidad: 
+                  1070-313 Lisboa .
+                  12.11.3.7) País: 
+                  Portugal.
+                
+              12.11.4) Contrato 70.18: 
+              
+                12.11.4.1) Nombre: 
+                  INMUNOLOGIA Y GENETICA APLICADA S.A.
+                  12.11.4.2) Número de identificación fiscal: 
+                  A28685154.
+                  12.11.4.3) Dirección: 
+                  Avda. Institución Libre Enseñanza, 39-8.
+                  12.11.4.4) Localidad: 
+                  Madrid.
+                  12.11.4.6) Código postal: 
+                  28037.
+                  12.11.4.7) País: 
+                  España.
+                
+              12.11.5) Contrato 70.25: 
+              
+                12.11.5.1) Nombre: 
+                  PALEX MEDICAL, S.A.
+                  12.11.5.2) Número de identificación fiscal: 
+                  A58710740.
+                  12.11.5.3) Dirección: 
+                  Jesús Serra Santamans, 5.
+                  12.11.5.4) Localidad: 
+                  Sant Cugat del Vallès .
+                  12.11.5.6) Código postal: 
+                  08174.
+                  12.11.5.7) País: 
+                  España.
+                
+              12.11.6) Contrato 70.26: 
+              
+                12.11.6.1) Nombre: 
+                  PERKINELMER ESPAÑA SL.
+                  12.11.6.2) Número de identificación fiscal: 
+                  B82338757.
+                  12.11.6.3) Dirección: 
+                  Ronda de Poniente, 19.
+                  12.11.6.4) Localidad: 
+                  Tres Cantos.
+                  12.11.6.6) Código postal: 
+                  28760.
+                  12.11.6.7) País: 
+                  España.
+                  12.11.6.13) 
+                  El adjudicatario es una PYME.
+                
+              12.11.7) Contrato 70.30: 
+              
+                12.11.7.1) Nombre: 
+                  VIRCELL SPAIN SLU.
+                  12.11.7.2) Número de identificación fiscal: 
+                  B19537844.
+                  12.11.7.3) Dirección: 
+                  Plaza Domínguez Ortiz, 1.
+                  12.11.7.4) Localidad: 
+                  Santa Fe .
+                  12.11.7.6) Código postal: 
+                  18320.
+                  12.11.7.7) País: 
+                  España.
+                  12.11.7.13) 
+                  El adjudicatario es una PYME.
+                
+              12.11.8) Contrato 70.33: 
+              
+                12.11.8.1) Nombre: 
+                  Werfen España S.A.U.
+                  12.11.8.2) Número de identificación fiscal: 
+                  A28114742.
+                  12.11.8.3) Dirección: 
+                  Plaza de Europa, 21-23.
+                  12.11.8.4) Localidad: 
+                  L´Hospitalet de Llobregat.
+                  12.11.8.6) Código postal: 
+                  08908.
+                  12.11.8.7) País: 
+                  España.
+                
+              12.11.9) Contrato 70.34: 
+              
+                12.11.9.1) Nombre: 
+                  COMERCIAL RAFER, S.L.
+                  12.11.9.2) Número de identificación fiscal: 
+                  B50045988.
+                  12.11.9.3) Dirección: 
+                  Uncastillo, 19 -bajos-.
+                  12.11.9.4) Localidad: 
+                  Zaragoza.
+                  12.11.9.6) Código postal: 
+                  50008.
+                  12.11.9.7) País: 
+                  España.
+                  12.11.9.13) 
+                  El adjudicatario es una PYME.
+                
+              12.11.10) Contrato 70.8: 
+              
+                12.11.10.1) Nombre: 
+                  BIOMERIEUX ESPAÑA, S.A.
+                  12.11.10.2) Número de identificación fiscal: 
+                  A28664589.
+                  12.11.10.3) Dirección: 
+                  Manuel Tovar, 45-47.
+                  12.11.10.4) Localidad: 
+                  Madrid.
+                  12.11.10.6) Código postal: 
+                  28034.
+                  12.11.10.7) País: 
+                  España.
+                
+            
+        
+      13. Valor de las ofertas: 
+      
+        13.01) Lote 01: 
+          
+            13.01.1) Contrato 70.1: 
+              
+                13.01.1.1) Valor de la oferta seleccionada: 
+                  2,50 euros.
+                
+              13.01.2) Contrato 70.2: 
+              
+                13.01.2.1) Valor de la oferta seleccionada: 
+                  1,60 euros.
+                
+              13.01.3) Contrato 70.3: 
+              
+                13.01.3.1) Valor de la oferta seleccionada: 
+                  1,94 euros.
+                
+              13.01.4) Contrato 70.4: 
+              
+                13.01.4.1) Valor de la oferta seleccionada: 
+                  2,60 euros.
+                
+            
+          13.02) Lote 02: 
+          
+            13.02.1) Contrato 70.2: 
+              
+                13.02.1.1) Valor de la oferta seleccionada: 
+                  2,37 euros.
+                
+              13.02.2) Contrato 70.5: 
+              
+                13.02.2.1) Valor de la oferta seleccionada: 
+                  1,18 euros.
+                
+            
+          13.03) Lote 03: 
+          
+            13.03.1) Contrato 70.1: 
+              
+                13.03.1.1) Valor de la oferta seleccionada: 
+                  2,75 euros.
+                
+              13.03.2) Contrato 70.2: 
+              
+                13.03.2.1) Valor de la oferta seleccionada: 
+                  2,26 euros.
+                
+              13.03.3) Contrato 70.4: 
+              
+                13.03.3.1) Valor de la oferta seleccionada: 
+                  3,60 euros.
+                
+            
+          13.04) Lote 04: 
+          
+            13.04.1) Valor de la oferta seleccionada: 
+              2,37 euros.
+            
+          13.10) Lote 10: 
+          
+            13.10.1) Contrato 70.10: 
+              
+                13.10.1.1) Valor de la oferta seleccionada: 
+                  13,50 euros.
+                
+              13.10.2) Contrato 70.11: 
+              
+                13.10.2.1) Valor de la oferta seleccionada: 
+                  8,00 euros.
+                
+              13.10.3) Contrato 70.12: 
+              
+                13.10.3.1) Valor de la oferta seleccionada: 
+                  11,00 euros.
+                
+              13.10.4) Contrato 70.13: 
+              
+                13.10.4.1) Valor de la oferta seleccionada: 
+                  4,17 euros.
+                
+              13.10.5) Contrato 70.14: 
+              
+                13.10.5.1) Valor de la oferta seleccionada: 
+                  14,00 euros.
+                
+              13.10.6) Contrato 70.15: 
+              
+                13.10.6.1) Valor de la oferta seleccionada: 
+                  5,25 euros.
+                
+              13.10.7) Contrato 70.16: 
+              
+                13.10.7.1) Valor de la oferta seleccionada: 
+                  6,30 euros.
+                
+              13.10.8) Contrato 70.17: 
+              
+                13.10.8.1) Valor de la oferta seleccionada: 
+                  11,69 euros.
+                
+              13.10.9) Contrato 70.18: 
+              
+                13.10.9.1) Valor de la oferta seleccionada: 
+                  4,30 euros.
+                
+              13.10.10) Contrato 70.19: 
+              
+                13.10.10.1) Valor de la oferta seleccionada: 
+                  5,60 euros.
+                
+              13.10.11) Contrato 70.20: 
+              
+                13.10.11.1) Valor de la oferta seleccionada: 
+                  7,50 euros.
+                
+              13.10.12) Contrato 70.21: 
+              
+                13.10.12.1) Valor de la oferta seleccionada: 
+                  6,00 euros.
+                
+              13.10.13) Contrato 70.22: 
+              
+                13.10.13.1) Valor de la oferta seleccionada: 
+                  14,00 euros.
+                
+              13.10.14) Contrato 70.23: 
+              
+                13.10.14.1) Valor de la oferta seleccionada: 
+                  14,75 euros.
+                
+              13.10.15) Contrato 70.24: 
+              
+                13.10.15.1) Valor de la oferta seleccionada: 
+                  12,60 euros.
+                
+              13.10.16) Contrato 70.25: 
+              
+                13.10.16.1) Valor de la oferta seleccionada: 
+                  14,70 euros.
+                
+              13.10.17) Contrato 70.26: 
+              
+                13.10.17.1) Valor de la oferta seleccionada: 
+                  6,00 euros.
+                
+              13.10.18) Contrato 70.27: 
+              
+                13.10.18.1) Valor de la oferta seleccionada: 
+                  7,50 euros.
+                
+              13.10.19) Contrato 70.28: 
+              
+                13.10.19.1) Valor de la oferta seleccionada: 
+                  9,50 euros.
+                
+              13.10.20) Contrato 70.29: 
+              
+                13.10.20.1) Valor de la oferta seleccionada: 
+                  5,80 euros.
+                
+              13.10.21) Contrato 70.30: 
+              
+                13.10.21.1) Valor de la oferta seleccionada: 
+                  11,90 euros.
+                
+              13.10.22) Contrato 70.31: 
+              
+                13.10.22.1) Valor de la oferta seleccionada: 
+                  7,50 euros.
+                
+              13.10.23) Contrato 70.32: 
+              
+                13.10.23.1) Valor de la oferta seleccionada: 
+                  8,24 euros.
+                
+              13.10.24) Contrato 70.33: 
+              
+                13.10.24.1) Valor de la oferta seleccionada: 
+                  15,00 euros.
+                
+              13.10.25) Contrato 70.6: 
+              
+                13.10.25.1) Valor de la oferta seleccionada: 
+                  12,00 euros.
+                
+              13.10.26) Contrato 70.7: 
+              
+                13.10.26.1) Valor de la oferta seleccionada: 
+                  12,85 euros.
+                
+              13.10.27) Contrato 70.8: 
+              
+                13.10.27.1) Valor de la oferta seleccionada: 
+                  5,50 euros.
+                
+              13.10.28) Contrato 70.9: 
+              
+                13.10.28.1) Valor de la oferta seleccionada: 
+                  13,50 euros.
+                
+            
+          13.11) Lote 11: 
+          
+            13.11.1) Contrato 70.10: 
+              
+                13.11.1.1) Valor de la oferta seleccionada: 
+                  5,70 euros.
+                
+              13.11.2) Contrato 70.13: 
+              
+                13.11.2.1) Valor de la oferta seleccionada: 
+                  1,60 euros.
+                
+              13.11.3) Contrato 70.15: 
+              
+                13.11.3.1) Valor de la oferta seleccionada: 
+                  2,25 euros.
+                
+              13.11.4) Contrato 70.18: 
+              
+                13.11.4.1) Valor de la oferta seleccionada: 
+                  1,30 euros.
+                
+              13.11.5) Contrato 70.25: 
+              
+                13.11.5.1) Valor de la oferta seleccionada: 
+                  4,90 euros.
+                
+              13.11.6) Contrato 70.26: 
+              
+                13.11.6.1) Valor de la oferta seleccionada: 
+                  2,80 euros.
+                
+              13.11.7) Contrato 70.30: 
+              
+                13.11.7.1) Valor de la oferta seleccionada: 
+                  4,90 euros.
+                
+              13.11.8) Contrato 70.33: 
+              
+                13.11.8.1) Valor de la oferta seleccionada: 
+                  6,00 euros.
+                
+              13.11.9) Contrato 70.34: 
+              
+                13.11.9.1) Valor de la oferta seleccionada: 
+                  2,95 euros.
+                
+              13.11.10) Contrato 70.8: 
+              
+                13.11.10.1) Valor de la oferta seleccionada: 
+                  6,00 euros.
+                
+            
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              Instituto Nacional de Gestión Sanitaria.
+              16.1.2) Dirección: 
+              Alcalá, 56.
+              16.1.3) Localidad: 
+              Madrid.
+              16.1.5) Código postal: 
+              28014.
+              16.1.6) País: 
+              España.
+            
+          16.4) Servicio del que se puede obtener información sobre el procedimiento de recurso:
+          
+            16.4.1) Nombre: 
+              Instituto Nacional de Gestión Sanitaria.
+              16.4.2) Dirección: 
+              Alcalá, 56.
+              16.4.3) Localidad: 
+              Madrid.
+              16.4.5) Código postal: 
+              28014.
+              16.4.6) País: 
+              España.
+            
+        
+      18. Fecha de envío del anuncio: 
+      15 de diciembre de 2020.
+    Madrid, 15 de diciembre de 2020.- Director del Instituto Nacional de Gestión Sanitaria, Alfonso María Jiménez Palacios.

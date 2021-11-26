@@ -1,0 +1,826 @@
+Pravilnik o pogojih, ki jih morajo izpolnjevati laboratoriji za izvajanje preiskav na podrocju laboratorijske medicine
+2004-06-11
+Opozorilo: Neuradno precišceno
+besedilo predpisa predstavlja zgolj informativni delovni pripomocek, glede
+katerega organ ne jamci odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Pravilnika o pogojih, ki jih
+morajo izpolnjevati laboratoriji za izvajanje preiskav na podrocju
+laboratorijske medicine obsega:
+
+-       
+Pravilnik o pogojih, ki jih morajo izpolnjevati laboratoriji za
+izvajanje preiskav na podrocju laboratorijske medicine (Uradni list RS, št.
+64/04 z dne 11. 6. 2004),
+
+-       
+Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih, ki jih
+morajo izpolnjevati laboratoriji za izvajanje preiskav na podrocju
+laboratorijske medicine (Uradni list RS, št. 1/16 z dne 8. 1. 2016),
+
+-       
+Pravilnik o dopolnitvi Pravilnika o pogojih, ki jih morajo izpolnjevati
+laboratoriji za izvajanje preiskav na podrocju laboratorijske medicine (Uradni
+list RS, št. 56/19 z dne 17. 9. 2019),
+
+-       
+Pravilnik o dopolnitvah Pravilnika o pogojih, ki jih morajo
+izpolnjevati laboratoriji za izvajanje preiskav na podrocju laboratorijske
+medicine (Uradni list RS, št. 131/20 z dne 28. 9. 2020)
+
+-       
+Zakon o zacasnih ukrepih za omilitev in odpravo posledic COVID-19 –
+ZZUOOP (Uradni list RS, št. 152/20 z dne 23. 10. 2020)..
+
+PRAVILNIK
+
+o pogojih, ki jih morajo izpolnjevati laboratoriji za
+izvajanje preiskav na podrocju laboratorijske medicine
+
+(neuradno precišceno besedilo št. 4)
+
+I. SPLOŠNE DOLOCBE
+
+1. clen
+
+Ta pravilnik doloca strokovne in tehnicne pogoje, ki jih
+morajo izpolnjevati laboratoriji za izvajanje preiskav na podrocju
+laboratorijske medicine (v nadaljnjem besedilu: medicinski laboratorij). 
+
+Dolocbe tega pravilnika se smiselno uporabljajo tudi za vse
+tiste izvajalce laboratorijske medicine, ki niso organizirani kot medicinski
+laboratoriji in za izvajanje preiskav na podrocju laboratorijske medicine ob pacientu
+(v nadaljnjem besedilu: POCT).
+
+2. clen
+
+Izrazi, uporabljeni v tem pravilniku, imajo naslednji pomen: 
+
+Vzorec je del telesne tekocine, vzorec izdihanega zraka, las
+ali tkivo, odvzeto za preiskavo, preucitev ali analizo. 
+
+Preiskava je niz postopkov, katerih cilj je dolociti vrednost
+ali znacilnosti posamezne lastnosti. 
+
+Laboratorijsko osebje so zdravstveni delavci ali sodelavci,
+ki v medicinskem laboratoriju izvajajo preiskave na podrocju laboratorijske
+medicine. 
+
+Notranja kontrola kakovosti je skupek postopkov, s
+katerimi se ocenjuje zanesljivost rezultata. 
+
+Zunanja ocena kakovosti je preverjanje rezultatov
+preiskav in primerjava z rezultati, pridobljenimi v drugih laboratorijih na
+istem vzorcu, pridobljenem s strani zunanje organizacije, ki podatke tudi statisticno
+obdela z namenom prikaza laboratorijskih preiskovalnih sposobnosti. 
+
+Presoja je podroben, sistematicen, neodvisen in
+dokumentiran proces pridobivanja podatkov in njihovo objektivno vrednotenje za
+ocenitev obsega, v katerem so izpolnjene zahteve, in za ocenitev ucinkovitosti
+izvajanja nacrtovanih ukrepov. 
+
+Notranja presoja ali presoja "prve stranke"
+se izvaja s strani ali v imenu organizacije same za notranje namene in je lahko
+podlaga za lastno izjavo organizacije o skladnosti s sprejetimi standardi. 
+
+Zunanja presoja ali presoja "druge stranke"
+se izvaja s strani organizacij, ki so za to zainteresirane ali druge osebe v
+njihovem imenu. Zunanjo presojo izvajajo zunanje neodvisne organizacije.
+
+Patologija vkljucuje izvajanje obdukcij, ugotavljanje smrti
+in vzrokov smrti, izvajanje histopatoloških, citopatoloških,
+molekularno-patoloških in elektronsko-mikroskopskih preiskav, izvajanje
+imunohistokemicnih, imunocitokemicnih in pretocno-citometricnih preiskav ter
+izvajanje drugih preiskav na tkivnih in celicnih vzorcih glede na razvoj
+patologije (zajema pojme patoanatomska in citopatološka dejavnost,
+histopatološke, patohistološke, histološke in citološke preiskave).
+
+POCT je testiranje, izvedeno za podrocja laboratorijske
+medicine iz 4. clena tega pravilnika, ob pacientu ali v bližini pacienta,
+ki ga izvaja nelaboratorijsko – klinicno osebje, rezultati testiranja pa lahko
+vplivajo na takojšnjo spremembo zdravljenja.
+
+3. clen
+
+Medicinski laboratorij je vsak laboratorij, ki preiskuje
+vzorce, kot so biološki materiali, pridobljeni iz cloveškega telesa in drugi
+materiali z namenom pridobiti podatke za postavitev diagnoze, zdravljenje,
+preprecevanje bolezni ali oceno zdravstvenega stanja pacienta.
+
+4. clen
+
+Dejavnost iz prejšnjega clena lahko na podlagi dovoljenja ministrstva,
+pristojnega za zdravje (v nadaljnjem besedilu: ministrstvo), opravljajo pravne
+in fizicne osebe, ki izpolnjujejo pogoje iz tega pravilnika. Postopek
+izpolnjevanja pogojev se zacne z vlogo za izdajo dovoljenja.
+
+Dovoljenje se lahko izda za podrocja, ki jih pokrivajo
+specializacije s podrocja zdravstva, ali za del podrocja, ki ga pokriva
+specializacija, in sicer za:
+
+-       
+patologijo,
+
+-       
+klinicno mikrobiologijo,
+
+-       
+medicinsko biokemijo,
+
+-       
+transfuzijsko medicino,
+
+-       
+laboratorijsko medicinsko genetiko,
+
+-       
+sodno medicino.
+
+Izpolnjevanje pogojev za opravljanje dejavnosti ugotavlja dve
+do pet clanska komisija, ki jo iz nabora strokovnjakov, ki jih predlagajo
+pristojni razširjeni strokovni kolegiji, imenuje uradna oseba ministrstva, ki
+vodi postopek, za vsako vlogo posebej. Stroške za delo komisije s posebnim
+sklepom doloci minister, pristojen za zdravje, in jih krije vlagatelj. Pravice
+porabe za kritje stroškov so zagotovljene na proracunski postavki ministrstva.
+
+V komisijo iz prejšnjega odstavka je lahko imenovana oseba,
+ki izpolnjujejo naslednje pogoje:
+
+-       
+ima opravljeno ustrezno specializacijo iz drugega odstavka tega clena,
+
+-       
+izpolnjuje pogoje za vodenje medicinskega laboratorija iz prvega in
+drugega odstavka 14. clena tega pravilnika in
+
+-       
+ima opravljen izpit za notranjega presojevalca.
+
+Komisija v 30 dneh od imenovanja pripravi porocilo o
+opravljenem pregledu medicinskega laboratorija. Iz porocila komisije je
+razvidno ali medicinski laboratorij izpolnjuje pogoje, ki jih za izdajo
+dovoljenja doloca ta pravilnik.
+
+Ce pogoji niso izpolnjenji, komisija v porocilu lahko
+predlaga rok za odpravo pomanjkljivosti, ki ne sme biti daljši od šest mesecev
+ali pa izda negativno mnenje za delovanje medicinskega laboratorija.
+
+Na podlagi porocila ministrstvo izda dovoljenje za dobo pet
+let, ali medicinskemu laboratoriju doloci rok za odpravo pomanjkljivosti
+oziroma zavrne izdajo dovoljenja. Po preteku roka, se opravi ponovni pregled
+medicinskega laboratorija.
+
+Postopek za podaljšanje dovoljenja se zacne na predlog
+medicinskega laboratorija, vloga za podaljšanje pa se vloži 90 dni pred potekom
+veljavnosti dovoljenja.
+
+II. ORGANIZIRANOST
+
+5. clen
+
+Medicinski laboratorij mora biti organiziran tako, da je
+zagotovljena njegova strokovna samostojnost ne glede na statusno obliko. 
+
+Medicinski laboratorij mora imeti dokumentacijo, ki vsebuje
+naslednje podatke: 
+
+-       
+organizacijsko strukturo; 
+
+-       
+povezanost medicinskega laboratorija z drugimi organizacijskimi enotami
+javnega zavoda ali druge pravne osebe in drugimi pravnimi in fizicnimi osebami;
+
+
+-       
+ime in priimek vodje laboratorija ter njegovo specializacijo; 
+
+-       
+poimensko imenovane namestnike in njihova pooblastila; 
+
+-       
+pooblastila laboratorijskemu osebju za izvajanje postopkov in preiskav; 
+
+-       
+obratovalni cas laboratorija, kako in v kakšnem obsegu so storitve
+dostopne med prazniki in v nujnih primerih; 
+
+-       
+seznam preiskav, ki jih laboratorij izvaja in nacin njihovega narocanja;
+
+
+-       
+nacin in pooblastila za izvajanje preiskav ob pacientu; 
+
+-       
+opis sistema zagotavljanja kakovosti; 
+
+-       
+postopek reševanja pritožb.
+
+6. clen
+
+Pri uvedbi in nadzoru nad izvajanjem preiskav POCT je treba
+upoštevati nacionalna priporocila in mednarodne standarde s podrocja
+laboratorijske medicine. Vodenje in kontrolo nad POCT mora imeti medicinski
+laboratorij z veljavnim dovoljenjem ministrstva in/ali specialist z ustrezno specializacijo.
+
+III. ZAGOTAVLJANJE KAKOVOSTI
+
+7. clen
+
+Pri zagotavljanju kakovosti medicinski laboratorij
+sistematicno izvaja vse dejavnosti, ki vodijo v izpolnjevanje zahtev za
+kakovost laboratorijskih rezultatov in zagotavljajo zaupanje v zanesljivost
+izvidov. Pri tem preucuje vse tiste vire variabilnosti, ki so v pristojnosti
+medicinskega laboratorija in izvaja postopke, ki so potrebni za njihovo
+prepoznavanje in zmanjševanje, vkljucno z vsemi vzroki, ki se pojavijo od
+trenutka priprave pacienta na odvzem vzorca, do izdaje izvida in casa uporabe
+informacije na izvidu. 
+
+Medicinski laboratorij mora vzpostaviti in vzdrževati sistem
+zagotavljanja kakovosti, ki ustreza vrsti in podrocju dela ter obsegu
+dejavnosti medicinskega laboratorija in zagotavlja nadzor nad postopki in
+procesi pred, med in po preiskavi vzorca. 
+
+Cilj sistema zagotavljanja kakovosti je kakovostno opravljena
+storitev za uporabnika. 
+
+Dokument o sistemu zagotavljanja kakovosti mora vsebovati
+najmanj organizacijo notranje kontrole kakovosti, sodelovanje v zunanji oceni
+kakovosti in smiselno povezanost dokumentacije sistema kakovosti. 
+
+Vodja medicinskega laboratorija je odgovoren za izvajanje
+notranje kontrole kakovosti in mora o tem voditi ustrezno evidenco. V ta namen
+mora redno pregledovati sistem zagotavljanja kakovosti in v primeru odstopanj
+sprejeti ustrezne ukrepe.
+
+8. clen
+
+Medicinski laboratorij dosega kakovost svojih rezultatov z
+vzpostavljenim sistemom notranjega nadzora in s sodelovanjem v zunanji oceni
+kakovosti, ki je lahko na ravni države ali mednarodna. 
+
+Medicinski laboratorij mora v zunanji oceni kakovosti
+sodelovati z najvecjim možnim obsegom preiskav, ki jih izvaja. 
+
+Vodja medicinskega laboratorija mora spremljati rezultate
+medlaboratorijskih primerjav in v primeru odstopanj sprejeti ustrezne ukrepe.
+
+9. clen
+
+Medicinski laboratorij mora na dolocenih tockah kontrolirati
+procese in postopke, predvideti ukrepe ter pooblastiti laboratorijsko osebje za
+odpravljanje napak. 
+
+Ce se odkrije napaka v procesih in postopkih, mora vodja
+medicinskega laboratorija ucinkovito ukrepati in o tem voditi zapise. 
+
+Pooblašceno laboratorijsko osebje mora oceniti vzroke za
+nastanek napak in njihove posledice ter, kadar je to potrebno, obvestiti
+narocnika. 
+
+Medicinski laboratorij mora sprejeti ukrepe za preprecevanje
+napak v procesih in postopkih, jih vpeljati in oceniti njihovo ucinkovitost.
+
+10. clen
+
+Medicinski laboratorij za preiskovanje vzorcev uporablja
+metode, ki so znanstveno preizkušene in jih priznavajo mednarodna ali domaca
+strokovna združenja ter razširjeni strokovni kolegiji. V medicinskem
+laboratoriju morajo biti metode pred uporabo preverjene in dokumentirane. 
+
+Vse laboratorijske preiskave morajo biti v medicinskem
+laboratoriju opisane v pisni obliki in na voljo laboratorijskemu osebju.
+Dokument o preiskavi mora vsebovati: 
+
+-       
+namen preiskave, 
+
+-       
+nacin in postopek uporabljene metode, 
+
+-       
+varnostne ukrepe, 
+
+-       
+vrste preiskovanih vzorcev, 
+
+-       
+referencne in kriticne vrednosti, kjer je to primerno,
+
+-       
+potrebno opremo, reagente, testne komplete, 
+
+-       
+kontrolne postopke, pogostnost njihovega izvajanja, 
+
+-       
+vrednotenje rezultatov, 
+
+-       
+nacin podajanja rezultatov, 
+
+-       
+strokovne vire (literaturo). 
+
+Uvajanje novih postopkov in njihovih sprememb mora biti
+dokumentirano in nadzirano. Kadar se zaradi sprememb v postopkih pomembno
+spremeni nacin podajanja rezultatov, mora medicinski laboratorij o tem
+obvestiti narocnika. 
+
+Kadar medicinski laboratorij spremeni nacin ali namen rabe
+reagentov in testnih kompletov, mora predhodno potrditi, da rezultati ustrezajo
+predvideni rabi. 
+
+Nove ali spremenjene postopke mora pred uvedbo v rutinsko
+uporabo odobriti vodja medicinskega laboratorija.
+
+11. clen
+
+Medicinski laboratorij mora skupaj z zdravstvenimi delavci,
+ki skrbijo za pacienta, poskrbeti za pravilen odvzem in prevoz vzorcev, sam pa
+zagotoviti ustrezno shranjevanje, pripravo vzorcev na preiskavo, preiskavo
+vzorcev, vrednotenje in porocanje o rezultatih ter svetovanje. 
+
+Medicinski laboratorij mora imeti dokumentacijo, ki
+opredeljuje: 
+
+-       
+obseg podatkov, potrebnih za identifikacijo narocnika, pacienta, vzorca
+in zahtevane preiskave; 
+
+-       
+navodila za pravilen odvzem in transport vzorcev; 
+
+-       
+zavrnitvena merila za vzorce; 
+
+-       
+predvideni cas od sprejema vzorca do izdaje izvida; 
+
+-       
+nacin ravnanja z vzorci, oznacenimi z oznako NUJNO; 
+
+-       
+nacine sporocanja izvidov in informacij med potekom preiskave; 
+
+-       
+dostop do svetovanja (kdo in na kakšen nacin opravi svetovanje v zvezi z
+nacini odvzemov vzorcev, s transportom, s preiskavami, z interpretacijo
+rezultatov, s priporocenimi dodatnimi laboratorijskimi preiskavami in podobno);
+
+
+-       
+možnosti dostopa do zbirnih laboratorijskih podatkov; 
+
+-       
+sporocanje nujnih in kriticnih rezultatov izvidov narocniku.
+
+12. clen
+
+Medicinski laboratorij lahko sodeluje z drugimi
+usposobljenimi laboratoriji in priznanimi strokovnjaki, ki izpolnjujejo pogoje
+iz tega pravilnika in so pridobili ustrezna dovoljenja. 
+
+Medicinski laboratorij mora voditi seznam vseh laboratorijev,
+ki zanj opravljajo preiskave in sezname vseh vzorcev, ki jih pošlje v te
+laboratorije. 
+
+Rezultate, dobljene v izbranem laboratoriju, mora medicinski
+laboratorij sporocati narocniku celovito in na nacin, ki ne spreminja klinicne
+interpretacije rezultata.
+
+13. clen
+
+Po koncani preiskavi medicinski laboratorij izda izvid, ki
+mora biti glede na vrsto preiskave cim bolj standardiziran. Laboratorijski
+izvid je dokument, ki je del zdravstvene dokumentacije pacienta. Izdanih
+izvidov ni dovoljeno popravljati. V primeru popravkov ali dodatkov k izvidu
+mora medicinski laboratorij izdati novo jasno verzijo izvida. Medicinski
+laboratorij izda tudi dvojnik izvida, ki mora biti posebej oznacen. 
+
+Izvid iz prejšnjega odstavka mora vsebovati najmanj naslednje
+podatke: 
+
+-       
+ime in naslov laboratorija, kjer je bila preiskava opravljena, 
+
+-       
+podatke o pacientu, ki omogocajo njegovo nedvoumno identifikacijo, 
+
+-       
+identifikacijo izvida, 
+
+-       
+narocnika preiskave, 
+
+-       
+vrsto vzorca, 
+
+-       
+datum in cas odvzema in sprejema vzorca, 
+
+-       
+datum zakljucka preiskave, kjer je to potrebno, 
+
+-       
+datum izvida, 
+
+-       
+cas izdaje izvida, kjer je to potrebno, 
+
+-       
+vrsto opravljene preiskave, 
+
+-       
+rezultat preiskave, 
+
+-       
+referencne vrednosti, kjer je to smiselno, 
+
+-       
+podpis ali avtorizacijo odgovorne osebe.
+
+IV. KADRI
+
+14. clen
+
+Medicinski laboratorij vodi redno zaposleni specialist za
+polni delovni cas s specializacijo iz drugega odstavka 4. clena tega
+pravilnika.
+
+Ne glede na prejšnji odstavek laboratorij s podrocja
+medicinske biokemije vodi specialist medicinske biokemije, ki ima z medicinskim
+laboratorijem sklenjeno delovno razmerje, v obsegu, ki omogoca strokovno
+vodenje in obvladovanje delovnih procesov v tem laboratoriju.
+
+Vodja medicinskega laboratorija je odgovoren za izvajanje in
+kakovost vseh procesov in postopkov v medicinskem laboratoriju, ki ju lahko na
+podlagi pisnega pooblastila prenese na druge zaposlene. Vodja medicinskega
+laboratorija je odgovoren za nacrtovanje virov, potrebnih za opravljanje
+dejavnosti in za redno izobraževanje laboratorijskega osebja.
+
+Glede na obseg in zahtevnost preiskav medicinski laboratorij
+zagotovi ustrezno število usposobljenega osebja z najmanj srednjo strokovno
+izobrazbe laboratorijske smeri.
+
+Medicinski laboratorij mora imeti glede laboratorijskega
+osebja dokumentacijo, ki vsebuje:
+
+-       
+opise del in nalog za vsa delovna mesta z zahtevano izobrazbo ter vsa
+dodatna znanja in izkušnje za vsakega zaposlenega,
+
+-       
+nacrt (predviden cas, obseg) uvajanja laboratorijskega osebja v
+posamezna dela in osebo, ki je odgovorna za uvajanje novih zaposlenih,
+
+-       
+zapise o opravljenem uvajanju zaposlenih v posamezna dela,
+
+-       
+zapise o izpostavljenosti laboratorijskega osebja škodljivim snovem in
+podatke o cepljenju,
+
+-       
+pooblastila laboratorijskemu osebju za izvajanje postopkov in preiskav.
+
+V. PROSTORI
+
+15. clen
+
+Prostori medicinskega laboratorija morajo biti dovolj
+prostorni in urejeni tako, da delo poteka neovirano, varno in kakovostno. Kjer
+je potrebno, morajo biti posamezni prostori ustrezno funkcijsko ali fizicno
+loceni. 
+
+Medicinski laboratorij mora imeti najmanj naslednje prostore:
+
+
+-       
+cakalnico (ce v laboratoriju odvzemajo vzorce pacientom), 
+
+-       
+prostor za odvzem vzorcev, ce v laboratoriju odvzemajo vzorce pacientom,
+
+
+-       
+prostor za sprejem, triažo, oznacevanje in pripravo vzorcev za nadaljnjo
+preiskavo, 
+
+-       
+prostor ali prostore za izvajanje preiskav, 
+
+-       
+prostor za cišcenje, dekontaminacijo in sterilizacijo laboratorijskega
+pribora, 
+
+-       
+ustrezne prostore in pogoje za shranjevanje vzorcev, reagentov,
+kemikalij, potrošnega materiala, opreme, dokumentacije, prirocnikov, zapisov,
+datotek in rezultatov, 
+
+-       
+prostor za odmor zaposlenih, 
+
+-       
+pisarniške prostore (vodja, administracija idr.), 
+
+-       
+garderobo, organizirano tako, da so uporabljene delovne obleke locene od
+cistih delovnih oblek in osebnih oblacil, 
+
+-       
+sanitarne prostore (ce v laboratoriju odvzemajo vzorce pacientom, morajo
+biti sanitarni prostori loceni za laboratorijsko osebje in paciente). 
+
+Prostori so lahko skupni z izvajalci drugih dejavnosti,
+vendar morajo v vsakem primeru ustrezati postopkom, ki se izvajajo,
+zagotavljati morajo udobje zaposlenim in najmanjšo možno mero poškodb in poklicnih
+bolezni. Prostori morajo izpolnjevati sanitarno tehnicne pogoje. 
+
+Dostop do vseh prostorov in njihova uporaba morata biti
+nadzorovana in urejena v skladu z njihovim namenom. Posebej morajo biti
+opredeljeni pogoji za vstop oseb, ki niso zaposlene v medicinskem laboratoriju
+in za vstop izven rednega delovnega casa. Pogoje za vstop in obseg nadzora
+doloci vodja glede na potrebe in znacilnosti medicinskega laboratorija. 
+
+Prostor, ki ga medicinski laboratorij uporablja za odvzem
+vzorcev, mora biti prilagojen pacientovim potrebam in varovanju njegove
+zasebnosti. 
+
+Medicinski laboratorij mora dolociti in obvladovati vplive iz
+okolja (npr. temperatura, vlaga, prezracevanje, viri elektricne energije, hrup,
+vibracije, osvetlitev), ki bi lahko vplivali na kakovost rezultatov preiskav. 
+
+Prostore medicinskega laboratorija je potrebno redno
+vzdrževati in cistiti.
+
+VI. OPREMA
+
+16. clen
+
+Medicinski laboratorij mora biti opremljen z ustrezno opremo,
+ki je primerna številu in vrsti preiskav, ki jih opravlja, ter mora zagotoviti
+kakovostno izvajanje postopkov v vseh fazah delovnega procesa. 
+
+Merila za izbor opreme doloci vodja medicinskega
+laboratorija. 
+
+Oprema mora biti oznacena na nacin, ki zagotavlja njeno
+namensko rabo. 
+
+Oprema mora biti vzdrževana tako, da izpolnjuje zahteve
+proizvajalca in morebitne dodatne zahteve posameznega laboratorija, ustreza
+namenu uporabe in omogoca varno delo. 
+
+Medicinski laboratorij mora o opremi, ki pomembno vpliva na
+kakovost rezultatov, voditi dokumentacijo, ki vsebuje: 
+
+-       
+identifikacijsko oznako opreme, 
+
+-       
+podatke o proizvajalcu in serviserju, 
+
+-       
+navodila za uporabo, ki morajo biti dostopna in razumljiva
+laboratorijskemu osebju, ki doloceno opremo uporablja, 
+
+-       
+podatke o prevzemu in priklopu opreme, 
+
+-       
+nacrt vzdrževanja in podatke o izvajanju rednega vzdrževanja, 
+
+-       
+nacrt in veljavnost kalibracij, kadar so te potrebne, 
+
+-       
+podatke o poškodbah, okvarah in popravilih.
+
+VII. DOKUMENTACIJA
+
+17. clen
+
+Medicinski laboratorij mora imeti dokumente, ki
+opredeljujejo: 
+
+-       
+nacin shranjevanja in varovanja podatkov v skladu s predpisi, ki urejajo
+varstvo osebnih podatkov; 
+
+-       
+nacin zagotavljanja sledljivosti vzorcev in izvidov; 
+
+-       
+nacin vodenja laboratorijskih dokumentov, ki so del sistema
+zagotavljanja kakovosti (enoten sistem oznacevanja, postopek odobritve in
+izdaje, obcasne preglede, vnašanje sprememb, cas in nacin shranjevanja,
+odstranjevanje neveljavnih verzij in uporaba le veljavnih verzij); 
+
+-       
+nacin in cas arhiviranja vzorcev, kjer je to potrebno, ter dokumentov v
+skladu z zahtevami pristojnega razširjenega strokovnega kolegija za posamezno
+podrocje.
+
+18. clen
+
+Ce medicinski laboratorij uporablja laboratorijski
+informacijski sistem (v nadaljnjem besedilu: LIS), mora ta zagotoviti visoko
+stopnjo integritete podatkov, tako med vnosom podatkov v LIS, obdelavo podatkov
+s pomocjo LIS (preracunavanja, statisticne analize) kot med prenosom podatkov –
+izvidov do napotnega zdravnika. LIS mora biti nadzorovan. 
+
+Pooblašceni uporabniki morajo biti usposobljeni za delo z
+LIS. Na voljo jim morajo biti ustrezna navodila za delo. Obvešceni morajo biti
+o vsaki spremembi v delovanju LIS. 
+
+Varnostni sistem mora varovati dostop do razlicnih podatkov
+in omogocati poseganje v LIS le za to pooblašcenemu laboratorijskemu osebju,
+zlasti ce je LIS vkljucen v racunalniška medmrežja (interna ali javna). 
+
+Medicinski laboratorij mora o posegih v LIS voditi posebno
+evidenco. 
+
+Za podatke, ki se hranijo v elektronski obliki, je potrebno
+izdelati varnostne kopije. 
+
+Vodja medicinskega laboratorija mora dolociti odgovorno osebo
+za delovanje LIS. 
+
+Medicinski laboratorij mora imeti opredeljen nacin
+posredovanja rezultatov v casu, ko LIS ne deluje. 
+
+Medicinski laboratorij mora imeti zagotovljene vire
+neprekinjene elektricne napetosti. 
+
+Racunalniška oprema mora biti vzdrževana po enakih nacelih
+kot druga laboratorijska oprema. Vsa oprema se mora nahajati v prostorih, ki
+zagotavljajo pogoje, navedene v proizvajalcevih specifikacijah in onemogocajo
+dostop nepooblašcenim osebam.
+
+19. clen
+
+Medicinski laboratorij mora zagotoviti pogoje za varno in
+zdravo delo v skladu s predpisi, ki urejajo varnost in zdravje pri delu.
+Dolociti mora: 
+
+-       
+pravila obnašanja v medicinskem laboratoriju, 
+
+-       
+zdravju škodljive snovi, nacin zašcite in nacin varnega odstranjevanja
+teh snovi, 
+
+-       
+nacin zbiranja in odstranjevanja odpadkov, 
+
+-       
+nacine zašcite pred laboratorijskimi okužbami, 
+
+-       
+ukrepanje ob nesrecah pri delu.
+
+VII.A IZJEMA V CASU NALEZLJIVE BOLEZNI COVID-19
+
+(prenehalo veljati)
+
+19.a clen
+
+(prenehal veljati)
+
+
+
+
+
+Pravilnik o pogojih, ki jih morajo
+izpolnjevati laboratoriji za izvajanje preiskav na podrocju laboratorijske
+medicine (Uradni list RS, št. 64/04) vsebuje naslednje prehodne in
+koncno dolocbo:
+
+»VIII. PREHODNE IN KONCNA DOLOCBA
+
+20. clen
+
+Medicinski laboratoriji morajo uskladiti svojo organiziranost
+in nacin dela z dolocbami tega pravilnika v enem letu od njegove uveljavitve,
+razen medicinskih laboratorijev s podrocja anatomske patologije in
+citopatologije, za katere velja rok uskladitve dve leti. 
+
+Po uveljavitvi tega pravilnika lahko z delom nadaljujejo
+medicinski laboratoriji, ki ne izpolnjujejo pogojev iz 14. clena tega
+pravilnika glede vodje medicinskega laboratorija, ce v skladu s strokovnimi
+stališci pristojnega razširjenega strokovnega kolegija zagotovijo sodelovanje
+ustreznega specialista. 
+
+Komisija iz 4. clena tega pravilnika opravi postopek
+ugotavljanja pogojev iz tega pravilnika najpozneje v dveh letih po preteku roka
+za uskladitev.
+
+21. clen
+
+Dolocbe tega pravilnika se uporabljajo tudi za laboratorije
+za pregledovanje brisov maternicnega vratu, kolikor niso v nasprotju s
+Pravilnikom o pogojih, ki jih morajo izpolnjevati laboratoriji za pregledovanje
+brisov maternicnega vratu (Uradni list RS, št. 68/01).
+
+22. clen
+
+Ta pravilnik zacne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Pravilnik o spremembah in dopolnitvah
+Pravilnika o pogojih, ki jih morajo izpolnjevati laboratoriji za izvajanje
+preiskav na podrocju laboratorijske medicine (Uradni list RS, št. 1/16) vsebuje naslednjo prehodno in
+koncno dolocbo:
+
+»PREHODNA IN KONCNA DOLOCBA
+
+8. clen
+
+Medicinski laboratoriji s podrocja laboratorijske medicinske
+genetike uskladijo kadre z dolocbami spremenjenega 14. clena pravilnika v
+enem letu od uveljavitve tega pravilnika.
+
+9. clen
+
+Ta pravilnik zacne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Pravilnik o dopolnitvi Pravilnika o pogojih,
+ki jih morajo izpolnjevati laboratoriji za izvajanje preiskav na podrocju
+laboratorijske medicine (Uradni list RS, št. 56/19) vsebuje naslednji koncni dolocbi:
+
+»KONCNI DOLOCBI
+
+2. clen
+
+Minister, pristojen za zdravje, izda sklep o stroških v zvezi
+z delom komisije za preglede laboratorijev v postopku ocenjevanja izpolnjevanja
+pogojev za izvajanje preiskav na podrocju laboratorijske medicine v sedmih dneh
+od uveljavitve tega pravilnika. 
+
+3. clen
+
+Ta pravilnik zacne veljati petnajsti dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Pravilnik
+o dopolnitvah Pravilnika o pogojih, ki jih morajo izpolnjevati laboratoriji za
+izvajanje preiskav na podrocju laboratorijske medicine (Uradni list RS, št. 131/20)
+vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+2. clen
+
+Ta pravilnik zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o zacasnih ukrepih za omilitev in
+odpravo posledic COVID-19 – ZZUOOP (Uradni list RS, št. 152/20) v zvezi s prenehanjem veljavnosti
+poglavja VII.a in 19.a clena pravilnika doloca:
+
+»129. clen
+
+(prenehanje uporabe in
+veljavnosti)
+
+[…]
+
+(2) Z dnem uveljavitve tega zakona prenehajo veljati: 
+
+-       
+[…]
+
+-       
+poglavje VII.a in 19.a clen Pravilnika o pogojih, ki jih morajo
+izpolnjevati laboratoriji za izvajanje preiskav na podrocju laboratorijske
+medicine (Uradni list RS, št. 64/04, 1/16, 56/19 in 131/20).«;
+
+ter vsebuje naslednjo koncno dolocbo:
+
+»134. clen
+
+(zacetek veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

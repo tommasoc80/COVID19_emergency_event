@@ -1,0 +1,65 @@
+2020 No. 934
+INCOME TAX
+
+VALUE ADDED TAX
+
+The Finance Act 2008, Section 135 (Coronavirus) Order 2020
+Made2nd September 2020
+Laid before the House of Commons3rd September 2020
+Coming into force25th September 2020
+The Treasury make the following Order in exercise of the powers conferred by section 135 of the Finance Act 2008(1).
+
+The Treasury, in accordance with section 135(9) of that Act, consider the emergency referred to in this Order to be of national significance.
+
+Citation and commencement
+1.  This Order may be cited as the Finance Act 2008, Section 135 (Coronavirus) Order 2020 and comes into force on 25th September 2020.
+
+Specified emergency
+2.  For the purposes of section 135 of the Finance Act 2008, the incidence of severe acute respiratory syndrome coronavirus 2 in the United Kingdom is an emergency.
+
+Specified liabilities
+3.  For the purposes of section 135 of the Finance Act 2008, the liabilities described in articles 4 and 5 are specified liabilities.
+
+4.  A liability that consists of an amount in relation to the year of assessment 2019-20(2) payable under—
+
+(a)section 59A(2)(b) (payments on account of income tax) of the Taxes Management Act 1970(3), or
+(b)section 15(1) and (2) (class 4 contributions recoverable under the Income Tax Acts) of the Social Security Contributions and Benefits Act 1992(4) in relation to an amount within paragraph (a).
+5.  A liability that—
+
+(a)consists of an amount payable under section 73 (failure to make returns etc) of the Value Added Tax Act 1994(5) where the assessment—
+(i)is in respect of a prescribed accounting period(6) where the return to which the prescribed accounting period relates was required by regulation 25 (making of returns) of the Value Added Tax Regulations 1995(7) to be made in the period beginning on 20th March 2020 and ending on 30th June 2020, and
+(ii)is made on or before 31st March 2021, or
+(b)consists of an amount payable during the period beginning on 20th March 2020 and ending on 30th June 2020 under—
+(i)article 4 (payments on account) of the Value Added Tax (Payments on Account) Order 1993(8),
+(ii)regulation 40(2) or (3) (VAT to be accounted for on returns and payment of VAT) of the Value Added Tax Regulations 1995, or
+(iii)regulation 50(2) (annual accounting scheme) of the Value Added Tax Regulations 1995(9).
+Specified date
+6.  For the purposes of section 135(4)(a) of the Finance Act 2008, the date specified is 20th March 2020.
+
+Maggie ThroupJames MorrisTwo of the Lords Commissioners of Her Majesty’s Treasury
+2nd September 2020
+
+EXPLANATORY NOTE
+(This note is not part of the Order)
+
+This Order is made in exercise of the powers conferred in section 135 of the Finance Act 2008 (c. 9) (“the Act”). That section provides that, in the case of a disaster or emergency specified by the Treasury as having national significance, no interest or surcharges will be charged where the Commissioners for Her Majesty’s Revenue and Customs have agreed to defer payments in respect of specified liabilities under an enactment or contract settlement.
+
+Section 135(4) of the Act defines the period over which relief is extended. Section 135(10) of the Act provides authority for the retrospective effect of this Order.
+
+Article 2 specifies that the incidence of coronavirus in the United Kingdom is an emergency which qualifies for relief under section 135 of the Act.
+
+Article 3 specifies the liabilities to which the relief applies are those set out by Article 4 and Article 5. Article 4 deals with income tax liabilities and Class 4 National Insurance contributions liabilities. Article 5 deals with VAT liabilities.
+
+Article 6 specifies that the commencement date for the relief period is 20th March 2020.
+
+A Tax Information and Impact Note covering this instrument was published on 25th June 2020 alongside the amendment to section 135 of the Finance Act 2008 and is available on the website at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/895358/Amending_section_135_.pdf. It remains an accurate summary of the impacts that apply to this instrument.
+
+(1)2008 c. 9. Section 135 was amended by section 105 of the Finance Act 2020 (c. 14).
+(2)Year of assessment is defined in section 989 of the Income Tax Act 2007 (c. 3) as ‘a tax year’. Tax year is defined in section 4(2) of the Income Tax Act 2007 as ‘a year for which income tax is charged’. Section 4(3) of that Act provides that ‘a tax year begins on 6 April and ends on the following 5 April’.
+(3)1970 c. 9. Section 59A was inserted by section 192 of the Finance Act 1994 (c. 9). Section 59A(2) was amended by sections 103(7) and 108(2) of the Finance Act 1995 (c. 4) and paragraphs 2(2) and 17(1) of Schedule 18 to the Finance Act 1996 (c. 8).
+(4)1992 c. 4. Section 15 was amended by Part 2, paragraphs 419 and 420 of Schedule 2 and Schedule 3 to the Income Tax (Trading and Other Income) Act 2005 (c. 5). Section 16 of the Social Security Contributions and Benefits Act 1992 applies section 59A(2)(b) with necessary modifications to Class 4 National Insurance contributions with the result that those contributions are payable as if they were income tax.
+(5)1994 c. 23. Section 73 was amended by paragraphs 10 and 11 of Schedule 3 to of the Finance Act 1996 (c. 8), section 136(4) of the Finance Act 2000 (c. 17), section 120 of the Finance Act 2008 (c. 9), paragraph 8 of Schedule 28 to the Finance Act 2012 (c. 14), paragraph 64(1) and (3) of Schedule 8 to the Taxation (Cross-border Trade) Act 2018 (c. 22) and S.I. 2016/1034.
+(6)Prescribed accounting period has the meaning given by section 25(1) of the Value Added Tax Act 1994.
+(7)S.I. 1995/2518. Regulation 25 was amended by S.I. 2000/258, S.I. 2000/794, S.I. 2004/1675, S.I. 2009/2978, S.I. 2012/1899.
+(8)S.I. 1993/2001. Article 4(1) was amended by S.I. 1995/291. Article 4(2) was substituted by S.I. 1995/291.
+(9)Regulation 50(2) was substituted by S.I. 1996/542. Regulation 50(2)(a)(i) was substituted by S.I. 2002/1142.

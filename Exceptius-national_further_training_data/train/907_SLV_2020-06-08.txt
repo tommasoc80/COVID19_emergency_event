@@ -1,0 +1,284 @@
+Uredba o nacinu unovcitve bona za izboljšanje gospodarskega položaja na podrocju potrošnje turizma, povracilu sredstev preko informacijskega sistema Financne uprave Republike Slovenije ter nacinu vodenja in upravljanja evidence bonov
+2020-06-08
+Opozorilo: Neuradno precišceno besedilo predpisa predstavlja
+zgolj informativni delovni pripomocek, glede katerega organ ne jamci
+odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Uredbe o nacinu unovcitve bona
+za izboljšanje gospodarskega položaja na podrocju potrošnje turizma, povracilu
+sredstev preko informacijskega sistema Financne uprave Republike Slovenije ter
+nacinu vodenja in upravljanja evidence bonov obsega:
+
+-       
+Uredbo o nacinu unovcitve bona za izboljšanje gospodarskega položaja na
+podrocju potrošnje turizma, povracilu sredstev preko informacijskega sistema
+Financne uprave Republike Slovenije ter nacinu vodenja in upravljanja evidence
+bonov (Uradni list RS, št. 84/20 z dne 8. 6. 2020),
+
+-       
+Uredbo o spremembi Uredbe o nacinu unovcitve bona za izboljšanje
+gospodarskega položaja na podrocju potrošnje turizma, povracilu sredstev preko
+informacijskega sistema Financne uprave Republike Slovenije ter nacinu vodenja
+in upravljanja evidence bonov (Uradni list RS, št. 195/20 z dne 23. 12. 2020).
+
+UREDBA
+
+o nacinu unovcitve bona za izboljšanje gospodarskega
+položaja na podrocju potrošnje turizma, povracilu sredstev preko
+informacijskega sistema Financne uprave Republike Slovenije ter nacinu vodenja
+in upravljanja evidence bonov
+
+(neuradno precišceno besedilo št. 1)
+
+1. clen
+
+(vsebina)
+
+Ta uredba doloca nacin unovcitve bona za izboljšanje
+gospodarskega položaja na podrocju potrošnje turizma (v nadaljnjem besedilu:
+bon) preko informacijskega sistema Financne uprave Republike Slovenije (v
+nadaljnjem besedilu: FURS), povracilo sredstev preko informacijskega sistema
+FURS ter nacin vodenja in upravljanja evidence bonov.
+
+2. clen
+
+(unovcitev bona)
+
+(1) Upravicenec mora na dan prihoda ob prijavi za nastanitev
+ali za nastanitev z zajtrkom (v nadaljnjem besedilu: storitev) seznaniti
+ponudnika storitev, da bo za opravljeno storitev unovcil bon.
+
+(2) Ob prijavi na dan prihoda mora ponudnik storitev v
+informacijski sistem FURS vnesti naslednje podatke o upravicencu, ki je unovcil
+bon:
+
+-       
+ime in priimek,
+
+-       
+EMŠO,
+
+-       
+številko in vrsto identifikacijskega dokumenta,
+
+-       
+datum prihoda in predvidenega odhoda,
+
+-       
+predvideni znesek, za katerega se unovci bon.
+
+(3) Unovcitev bona se opravi z izplacilom unovcenega bona v
+znesku opravljene storitve ponudniku storitev, ob predhodnem vnosu številke
+izdanega racuna za opravljeno storitev.
+
+(4) Ne glede na prejšnji odstavek se unovcitev bona lahko
+opravi z izplacilom upravicencu, ce je pri ponudniku storitev onemogocen dostop
+do informacijskega sistema FURS. Ob unovcitvi bona z izplacilom upravicencu,
+ponudnik storitev upravicencu izroci potrdilo o unovcitvi bona, iz katerega je
+razviden znesek unovcenega bona in nacin unovcitve bona, ter v treh dneh po
+opravljeni storitvi ponudnik storitev preko informacijskega sistema FURS pošlje
+zahtevek za izplacilo upravicencu.
+
+(5) Bon je deljiv in se lahko unovci v veckratnem znesku.
+
+3. clen
+
+(unovcitev bona z izplacilom ponudniku storitev)
+
+Ob unovcitvi bona z izplacilom ponudniku storitev upravicenec
+oziroma njegov zakoniti zastopnik ali skrbnik potrdi unovcitev bona s pisno
+potrditvijo in predložitvijo kopije osebne izkaznice ali potnega lista, na
+obrazcu iz Priloge 1 »Potrditev unovcitve bona«, ki je sestavni del te uredbe.
+Upravicenec lahko stanje svojega bona spremlja v mobilni aplikaciji eDavki.
+
+4. clen
+
+(unovcitev bona upravicenca, ki ima zakonitega zastopnika
+oziroma skrbnika, po tretji osebi)
+
+(1) Ce bon za upravicenca, ki ima zakonitega zastopnika
+oziroma skrbnika, unovci oseba, ki ni njegov zakoniti zastopnik oziroma
+skrbnik, mora ponudniku storitev predložiti izjavo na obrazcu iz Priloge 2
+»Izjava zakonitega zastopnika oziroma skrbnika za unovcitev bona upravicenca po
+tretji osebi«, ki je sestavni del te uredbe. Izjava mora vsebovati naslednje
+podatke:
+
+-       
+ime in priimek ter EMŠO upravicenca,
+
+-       
+ime in priimek ter EMŠO zakonitega zastopnika oziroma skrbnika
+upravicenca,
+
+-       
+ime in priimek ter EMŠO osebe, ki bo unovcila bon za upravicenca,
+
+-       
+datum in podpis zakonitega zastopnika oziroma skrbnika upravicenca.
+
+(2) Ob unovcitvi bona z izplacilom upravicencu je upravicenec
+do povracila sredstev oseba, ki unovci bon za upravicenca, ki ima zakonitega
+zastopnika oziroma skrbnika, v skladu s prejšnjim odstavkom.
+
+5. clen
+
+(unovcitev prenesenih bonov)
+
+(1) Ce bon upravicenca unovci oseba, na katero je upravicenec
+prenesel bon (med upravicencevimi sorodniki v ravni vrsti do drugega kolena –
+to so stari starši, starši, otroci, otroci zakonca ali zunajzakonskega
+partnerja, vnuki – zakonci, zunajzakonskimi partnerji, partnerji v sklenjeni
+ali nesklenjeni partnerski zvezi ter med otroki in njihovimi zakonitimi
+zastopniki, ce to niso njihovi starši), mora ta oseba ponudniku storitev
+predložiti izjavo na obrazcu iz Priloge 3 »Izjava upravicenca o prenosu bona«,
+ki je sestavni del te uredbe in katero podpiše upravicenec oziroma njegov
+zakoniti zastopnik ali skrbnik. Izjava morata vsebovati naslednje podatke:
+
+-       
+ime in priimek ter EMŠO upravicenca, ki bon prenaša (v nadaljnjem
+besedilu: prenosnik),
+
+-       
+ime in priimek ter EMŠO zakonitega zastopnika oziroma skrbnika
+prenosnika, ce ga ima,
+
+-       
+ime in priimek ter EMŠO osebe, na katero se bon prenaša (v nadaljnjem
+besedilu: pridobitelj),
+
+-       
+sorodstveno oziroma pravno razmerje med prenosnikom in pridobiteljem,
+
+-       
+datum in podpis prenosnika, njegovega zakonitega zastopnika oziroma
+skrbnika.
+
+(2) Ob unovcitvi bona ponudnik storitev v informacijski
+sistem FURS ob vnosu podatkov o upravicencu iz drugega odstavka 2. clena te
+uredbe vnese tudi podatke o prenosniku:
+
+-       
+ime in priimek ter EMŠO prenosnika,
+
+-       
+znesek, do višine katerega pridobitelj unovci bon prenosnika.
+
+(3) Bon je mogoce v skladu s petim odstavkom 35. clena Zakona
+o interventnih ukrepih za omilitev in odpravo posledic epidemije COVID-19
+(Uradni list RS, št. 80/20; v nadaljnjem besedilu: zakon) le enkrat prenesti,
+in sicer v celotni vrednosti bona. Ce je upravicenec bon delno že koristil,
+bona v preostali vrednosti ni mogoce vec prenesti.
+
+(4) Ob unovcitvi prenesenega bona z izplacilom upravicencu je
+upravicenec do povracila sredstev pridobitelj, njegov zakoniti zastopnik
+oziroma skrbnik.
+
+6. clen
+
+(povracilo sredstev)
+
+(1) FURS izplaca ponudniku storitev ali upravicencu sredstva
+unovcenega bona v znesku opravljene storitve v naslednjih rokih, vendar
+najpozneje v 30 dneh, in sicer:
+
+-       
+za bone, unovcene od 1. do 15. dne v mesecu, se izplacilo opravi do
+zadnjega dne v mesecu,
+
+-       
+za bone, unovcene od 16. do zadnjega dne v mesecu, se izplacilo opravi
+do 15. dne v naslednjem mesecu.
+
+(2) Sredstva unovcenega bona v znesku opravljene storitve
+FURS nakaže ponudniku storitev na njegov placilni racun, vpisan v davcni
+register.
+
+(3) Ob unovcitvi bona z izplacilom upravicencu FURS sredstva
+nakaže upravicencu, njegovemu zakonitemu zastopniku oziroma skrbniku na njegov
+placilni racun, vpisan v davcni register. Ce oseba iz prejšnjega stavka nima
+placilnega racuna, se sredstva izplacajo s poštno nakaznico.
+
+7. clen
+
+(nacin vodenja in upravljanja evidence bonov)
+
+(1) FURS o upravicencu do bona, ponudniku storitev ter
+nastanitvenem obratu, kjer je upravicenec unovcil bon, in o izplacilu bona vodi
+in upravlja evidenco bonov v elektronski obliki na podlagi predhodne povezave
+zbirk osebnih podatkov iz 35. clena zakona.
+
+(2) O izplacilu bona se vodijo podatki iz 2., 3., 4., 5. in
+6. clena te uredbe.
+
+(3) Podatki se v evidenci bonov hranijo pet let, nato se
+izbrišejo.
+
+8. clen
+
+(hramba dokumentacije)
+
+Pisne izjave iz 3., 4. in 5. clena te uredbe ter
+dokumentacijo (kopije osebnih izkaznic ali potnih listov) v zvezi z unovcenjem
+bonov mora ponudnik storitev hraniti do poteka zastaralnega roka za nadzor iz
+sedemnajstega odstavka 35. clena in 82. clena zakona.
+
+
+
+
+
+Priloga
+1: Potrditev unovcitve bona
+
+Priloga
+2: Izjava zakonitega zastopnika oziroma skrbnika za unovcitev bona upravicenca
+po tretji osebi
+
+Priloga
+3: Izjava upravicenca o prenosu bona
+
+
+
+
+
+Uredba o nacinu unovcitve bona za izboljšanje
+gospodarskega položaja na podrocju potrošnje turizma, povracilu sredstev preko
+informacijskega sistema Financne uprave Republike Slovenije ter nacinu vodenja
+in upravljanja evidence bonov (Uradni list RS, št. 84/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+9. clen
+
+(zacetek in prenehanje
+veljavnosti)
+
+Ta uredba zacne veljati 19. junija 2020 in preneha veljati
+31. januarja 2021.«.
+
+
+
+
+
+Uredba o spremembi Uredbe o nacinu unovcitve
+bona za izboljšanje gospodarskega položaja na podrocju potrošnje turizma,
+povracilu sredstev preko informacijskega sistema Financne uprave Republike
+Slovenije ter nacinu vodenja in upravljanja evidence bonov (Uradni list RS, št.
+195/20) spreminja 9. clen uredbe tako, da
+se glasi:
+
+»9. clen
+
+(zacetek in prenehanje
+veljavnosti)
+
+Ta uredba zacne veljati 19. junija 2020 in preneha veljati
+31. januarja 2022«;
+
+ter vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+2. clen
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

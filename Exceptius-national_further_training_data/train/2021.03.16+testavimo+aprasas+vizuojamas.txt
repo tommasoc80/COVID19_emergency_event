@@ -1,0 +1,334 @@
+
+
+
+LIETUVOS RESPUBLIKOS ekonomikos ir inovacijų MINISTRAS
+
+ĮSAKYMAS
+Dėl priemonės „COVID-19 TYRIMŲ KOMPENSAVIMAS SMULKIOJO IR VIDUTINIO VERSLO SUBJEKTAMS“ sąlygų aprašo 
+patvirtinimo
+
+2021 m.  kovo 18 d. Nr. 4-209
+Vilnius
+
+
+Vadovaudamasi Lietuvos Respublikos Vyriausybės 2001 m. liepos 11 d. nutarimo Nr. 887 „Dėl uždarosios akcinės bendrovės „INVESTICIJŲ IR VERSLO GARANTIJOS“ veiklos“ 2.1.7 ir 3.2 papunkčiais bei atsižvelgdama į Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ koncepciją, kuriai pritarta Lietuvos Respublikos Vyriausybės 2021 m. vasario 8 d. pasitarimo sprendimu (pasitarimo protokolas Nr. 8) ir Lietuvos Respublikos Vyriausybės 2021 m. kovo 10 d. pasitarimo sprendimu (pasitarimo protokolas Nr. 15),
+tvirtinu Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašą (pridedama).
+
+
+
+Ekonomikos ir inovacijų ministrė 	Aušrinė Armonaitė
+
+
+PATVIRTINTA
+Lietuvos Respublikos ekonomikos ir 
+inovacijų ministro 
+2021 m. kovo 18   įsakymu Nr. 4-209
+
+
+PRIEMONĖS „COVID-19 TYRIMŲ KOMPENSAVIMAS SMULKIOJO IR VIDUTINIO VERSLO SUBJEKTAMS“ SĄLYGŲ aprašas
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašas (toliau – Aprašas) nustato reikalavimus smulkiojo ir vidutinio verslo subjektams, kaip jie apibrėžti Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme (toliau – SVV subjektas), siekiantiems gauti COVID-19 tyrimų išlaidų kompensavimą pagal Priemonę „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ (toliau – Priemonė), taip pat paraiškų gauti finansavimą pagal Priemonę pateikimo, vertinimo ir COVID-19 tyrimų išlaidų kompensavimo tvarką. 
+2. Aprašas yra parengtas atsižvelgiant į: 
+2.1. 2013 m. gruodžio 18 d. Komisijos reglamentą (ES) Nr. 1407/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai su pakeitimais, padarytais 2020 m. liepos 2 d. Europos Komisijos reglamentu (ES) Nr. 2020/972;
+2.2. Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymą (toliau – SVV įstatymas);
+2.3. Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. gegužės 29 d. sprendimą Nr. V-1336 „Dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo“; 
+2.4. Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 4 d. įsakymą  Nr. V-2797 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo patvirtinimo“;
+2.5. Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ koncepciją, kuriai pritarta Lietuvos Respublikos Vyriausybės 2021 m. vasario 8 d. pasitarimo sprendimu (pasitarimo protokolas Nr. 8) ir Lietuvos Respublikos Vyriausybės 2021 m. kovo 10 d. pasitarimo sprendimu (pasitarimo protokolas Nr. 15).
+3. Priemonės įgyvendinimą administruoja Lietuvos Respublikos ekonomikos ir inovacijų ministerija (toliau – Ministerija) ir UAB „Investicijų ir verslo garantijos“ (toliau – INVEGA). 
+4. Priemonei skiriama suma – 30 mln. (trisdešimt milijonų) eurų valstybės biudžeto lėšų.
+5. Pagal Priemonę teikiamo finansavimo forma – negrąžinamoji subsidija. 
+6. Pagal Aprašą kompensuojamos SVV subjektų, Aprašo nustatytomis sąlygomis pateikusių paraišką kompensacijai už jiems (kai SVV subjektas yra fizinis asmuo) ir (ar) jų darbuotojams, kaip ši sąvoka apibrėžta Smulkiojo ar vidutinio verslo subjekto vidutinio metinio darbuotojų skaičiaus nustatymo tvarkos apraše, patvirtintame Lietuvos Respublikos ūkio ministro 2008 m. kovo 31 d. įsakymu Nr. 4-126 „Dėl Smulkiojo ir vidutinio verslo subjekto vidutinio metų sąrašinio darbuotojų skaičiaus nustatymo tvarkos aprašo patvirtinimo“ (toliau – darbuotojai), vadovaujantis Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. gegužės 29 d. sprendimu Nr. V-1336 „Dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo“ ir COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 4 d. įsakymu Nr. V-2797 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo patvirtinimo“ (toliau – COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašas), atliktus serologinius imunologinius tyrimus, kai nustatomi anti-S, anti-S1 arba anti-RBD IgG antikūnai prieš SARS-CoV-2 (toliau – serologinis tyrimas), ir greituosius SARS-CoV-2 antigeno testus (toliau – COVID-19 tyrimai) (toliau – pareiškėjas), patirtos išlaidos:
+6.1. iki 12 Eur už vieną serologinį tyrimą, atliktą pareiškėjo darbuotojams asmens sveikatos priežiūros įstaigos, turinčios teisę atlikti greituosius serologinius antikūnų testus ir greituosius SARS-CoV-2 antigeno testus pagal COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo 19 punktą, arba asmens sveikatos priežiūros įstaigos, kuri turi Įstaigos asmens sveikatos priežiūros licenciją, suteikiančią teisę teikti laboratorinės diagnostikos paslaugą ir atlikti serologinius tyrimus, ir kuri gali pateikti COVID-19 tyrimų užsakymus ir atsakymus į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (toliau – ASPĮ);
+6.2. iki 12 Eur už vieną greitąjį SARS-CoV-2 antigeno testą, atliktą pareiškėjo darbuotojams ASPĮ. 
+7. Jei pareiškėjo patirtos vieno greitojo SARS-CoV-2 antigeno testo arba vieno serologinio tyrimo išlaidos yra mažesnės nei Aprašo 6 punkte nustatytas dydis arba lygios jam, kompensuojamos faktiškai patirtos išlaidos. Jei pareiškėjo patirtos vieno serologinio tyrimo arba vieno greitojo SARS-CoV-2 antigeno testo išlaidos yra didesnės nei Aprašo 6 punkte nustatytas dydis, kompensacija apskaičiuojama taikant maksimalų Aprašo 6 punkte nustatytą dydį.  
+8. Didžiausia pagalbos, suteiktos vienam ūkio subjektui, kaip jis apibrėžtas Reglamento (ES) Nr. 1407/2013 2 straipsnio 2 dalyje, suma negali viršyti Reglamento (ES) Nr. 1407/2013 3 straipsnio 2 ir 3 dalyse nustatytų ribų.
+9. Paraiškų atranka pagal Priemonę atliekama tęstinės atrankos būdu, kai pateiktos paraiškos vertinamos ir sprendimai dėl COVID-19 tyrimų išlaidų kompensavimo priimami pagal paraiškų pateikimo eilės tvarką (toliau – Tęstinė atranka).
+10. INVEGA kvietimus teikti paraiškas pagal Aprašą skelbia interneto svetainėje www.invega.lt ne anksčiau kaip po 2 darbo dienų nuo šio Aprašo įsigaliojimo dienos ir ne vėliau kaip iki 2021 m. kovo 31 dienos.
+11. Tęstinė atranka baigiama, kai INVEGA priima sprendimus kompensuoti COVID-19 tyrimų išlaidas ir gauna naujų paraiškų už tokią sumą, kuri leidžia paskirstyti Priemonei skirtą finansavimą. 
+12. Paraiškos, kurios pateiktos INVEGAI iki kvietimo teikti paraiškas sustabdymo dienos ar iki kvietimo termino pabaigos ir kurių finansavimas negalimas dėl visos Priemonei skirtos sumos panaudojimo, įtraukiamos į pateiktų nevertintų paraiškų sąrašą (toliau – paraiškų sąrašas) ir apie tai informuojama Ministerija. Į paraiškų sąrašą paraiškos įrašomos pagal paraiškų pateikimo eilės tvarką. Ministerija, įvertinusi galimą papildomo finansavimo poreikį, priima sprendimą dėl papildomų lėšų skyrimo galimybės ir informuoja INVEGĄ. Ministerijai priėmus sprendimą dėl papildomos lėšų sumos skyrimo pagal kvietimą pateiktų ir į paraiškų sąrašą įtrauktų paraiškų finansavimui, INVEGA atlieka paraiškų vertinimą Aprašo nustatyta tvarka ir laikydamasi paraiškų pateikimo eilės tvarkos. Jei Ministerija priima sprendimą papildomos lėšų sumos neskirti arba skirti mažiau lėšų, nei reikia visoms į paraiškų sąrašą įrašytoms paraiškoms finansuoti, apie priimtą sprendimą informuojama INVEGA, kuri ne vėliau kaip per 5 darbo dienas elektroniniu paštu, nurodytu paraiškoje, informuoja pareiškėjus, kuriems neužteko pagal kvietimą teikti paraiškas skirtos lėšų sumos ar skiriamos papildomos lėšų sumos, kad jų paraiškos nebus nagrinėjamos.
+
+II SKYRIUS
+REIKALAVIMAI PAREIŠKĖJAMS, NORINTIEMS GAUTI KOMPENSACIJĄ
+
+13. Pagal Aprašą dėl COVID-19 tyrimų išlaidų kompensavimo gali kreiptis pareiškėjai, kurie atitinka visas šias sąlygas: 
+13.1. pareiškėjas paraiškos pateikimo metu yra labai maža, maža ar vidutinė įmonė, atitinkanti SVV įstatymo 3 straipsnyje nustatytas sąlygas, arba verslininkas, atitinkantis SVV įstatymo 4 straipsnyje nustatytas sąlygas (toliau – verslininkas), veikiantys Lietuvos Respublikoje. Laikoma, kad pareiškėjas veikia Lietuvos Respublikoje, jei jis kuria darbo vietas Lietuvos Respublikoje ir (arba) nuo savo vykdomos veiklos moka mokesčius, valstybinio socialinio draudimo įmokas ir privalomojo sveikatos draudimo įmokas;
+13.2. darbuotojams COVID-19 tyrimai yra atliekami ASPĮ, su kuria pareiškėjas yra sudaręs sutartį (-is), kurioje (-iose) yra įtvirtintos Aprašo priede nurodytos nuostatos dėl pareiškėjui ir (ar) jo darbuotojams atliekamų COVID-19 tyrimų. ASPĮ sąrašas skelbiamas Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos interneto svetainėje https://vaspvt.gov.lt/node/150;
+13.3. kompensacijos kreipiamasi dėl išlaidų, patirtų atliekant COVID-19 tyrimus darbuotojams, su kuriais tyrimo metu darbo santykiai arba jų esmę atitinkantys santykiai nebuvo pasibaigę, ir (arba) dėl išlaidų, patirtų atliekant COVID-19 tyrimus pareiškėjui, kai dėl kompensacijos kreipiasi verslininkas. Laikoma, kad darbo santykiai arba jų esmę atitinkantys santykiai tarp pareiškėjo ir (arba) jo tiriamų darbuotojų nepasibaigę, jeigu tyrimo metu tiriamas pareiškėjas ir (ar) tiriami darbuotojai buvo laikomi apdraustaisiais asmenimis pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnį; 
+13.4. pareiškėjui paraiškos pateikimo metu nėra iškelta bankroto ir (ar) restruktūrizavimo byla pagal Lietuvos Respublikos juridinių asmenų nemokumo įstatymą arba iki jo įsigaliojimo galiojusius Lietuvos Respublikos įmonių bankroto įstatymą ir Lietuvos Respublikos įmonių restruktūrizavimo įstatymą, o jei pareiškėjas verslininkas, – jam nėra iškelta fizinio asmens bankroto byla pagal Lietuvos Respublikos fizinių asmenų bankroto įstatymą;
+13.5. pareiškėjui gali būti suteikta pagalba vadovaujantis Reglamento (ES) Nr. 1407/2013 3 straipsniu;
+13.6. pareiškėjas nėra gavęs COVID-19 tyrimų išlaidų kompensavimo iš kitų Lietuvos Respublikos valstybės biudžeto ir (arba) savivaldybių biudžetų, kitų piniginių išteklių, kuriais disponuoja valstybė ir (ar) savivaldybė, Europos Sąjungos struktūrinių fondų, kitų Europos Sąjungos finansinės paramos priemonių ar kitos tarptautinės paramos lėšų;
+13.7. pagrindinė pareiškėjo vykdoma veikla nepriskiriama Reglamento Nr. 1407/2013 1 straipsnio 1 dalyje nurodytiems sektoriams.
+14. Kompensacija yra skiriama už apmokėtas COVID-19 tyrimų išlaidas, kurias pareiškėjas patyrė nuo 2021 m. vasario 23 d. iki 2021 m. gegužės 31 d. (toliau – išlaidos). 
+15. Išlaidos turi būti pagrįstos išlaidas pagrindžiančiais dokumentais – sąskaitomis faktūromis ir išlaidų apmokėjimą pagrindžiančiais dokumentais, įvykdyto mokėjimo nurodymais, banko sąskaitos išrašais, pinigų priėmimo kvitais, kasos pajamų orderio kvitais, kuriuose būtų nurodytas atliktų COVID-19 tyrimų skaičius ir tyrimų vieneto kaina. Tarpusavio įsipareigojimų įskaitymo aktas arba lygiavertis dokumentas nelaikomas tinkamu apmokėjimą pagrindžiančiu dokumentu. 
+16. COVID-19 tyrimų išlaidų kompensavimas yra de minimis pagalba, teikiama pagal Reglamentą (ES) Nr. 1407/2013 (toliau – de minimis pagalba). Teikiant de minimis pagalbą turi būti laikomasi Reglamento (ES) Nr. 1407/2013 1 straipsnio, 2 straipsnio 2 dalies, 3 straipsnio 2, 6–9 dalių, 5 straipsnio ir 6 straipsnio 4 dalies nuostatų. 
+17. Pareiškėjui suteikiamos de minimis pagalbos dydis priklauso nuo didžiausios galimos skirti per kompensavimo laikotarpį, nurodytą Aprašo 14 punkte, COVID-19 tyrimų kompensacijos sumos (toliau – didžiausia galima skirti kompensacijos suma). Didžiausia galima skirti kompensacijos suma negali būti didesnė nei Aprašo 8 punkte nustatyta suma. Didžiausia galima skirti kompensacijos suma apskaičiuojama pagal formulę: 
+kurioje:
+S – didžiausia galima kompensacijos suma;
+D – darbuotojų, kuriems planuojama atlikti COVID-19 tyrimus, skaičius;
+T – vieno darbuotojo didžiausias galimas testų skaičius per prašomą kompensuoti laikotarpį (4 vnt. vienam darbuotojui per 1 mėn., ilgiausias galimas kompensavimo laikotarpis nustatytas pagal Aprašo 13 punktą);
+K – didžiausia galima kompensuoti testo kaina pagal Aprašo 6 punktą.
+
+III SKYRIUS
+ADMINISTRAVIMO PROCEDŪROS
+
+18. Siekdamas gauti kompensaciją pagal Aprašą, pareiškėjas turi užpildyti paraišką elektroninėje paraiškų informacinėje sistemoje (https://covid19testavimas.invega.lt/) ir ją pateikti. Paraiškoje turi būti pateikti duomenys apie pareiškėją (pareiškėjo rekvizitai, kontaktinė informacija, teisinė forma, vykdoma veikla), nurodytas darbuotojų, kuriems planuojama atlikti COVID-19 tyrimus, skaičius, darbuotojams atliktų (jei iki paraiškos pateikimo buvo atlikti) ir planuojamų atlikti tyrimų skaičius, maksimali per kompensavimo laikotarpį, nurodytą Aprašo 14 punkte, prašoma kompensuoti suma, pareiškėjui įvertinti ir sprendimui dėl COVID-19 tyrimų išlaidų kompensavimo priimti ir kompensacijai išmokėti būtina informacija. Paraiška per kvietime teikti paraiškas nustatytą laikotarpį teikiama vieną kartą, išskyrus Aprašo 27 punkte nustatytus atvejus. 
+19. Jeigu pareiškėjas ar jo atstovas yra užsienio valstybės pilietis ar vienasmenio valdymo organo neturintis juridinis asmuo ir neturi techninių galimybių per Elektroninių valdžios vartų portalą patvirtinti savo tapatybės, jis INVEGAI elektroniniu paštu turi pateikti notaro patvirtinto įgaliojimo, kuriuo suteikiama teisė ne Lietuvos Respublikos piliečiui prisijungti per Elektroninių valdžios vartų portalą ir pateikti paraišką bei atlikti kitus su paraiška susijusius veiksmus, kopiją. INVEGA, gavusi pareiškėjo arba notaro patvirtintą įgaliojimo kopiją, per 5 darbo dienas nuo įgaliojimo kopijos gavimo dienos suteikia technines galimybes įgaliotam asmeniui atlikti Aprašo 18 punkte nustatytus veiksmus pareiškėjo vardu.
+20. Kartu su Aprašo 18 punkte nurodyta paraiška pareiškėjas turi pateikti šiuos dokumentus: 
+20.1. Smulkiojo ir vidutinio verslo subjekto statuso deklaraciją, kurios forma patvirtinta Lietuvos Respublikos ūkio ministro 2008 m. kovo 26 d. įsakymu Nr. 4-119 „Dėl Smulkiojo ir vidutinio verslo subjekto statuso deklaravimo tvarkos aprašo ir Smulkiojo ar vidutinio verslo subjekto statuso deklaracijos formos patvirtinimo“; 
+20.2. „Vienos įmonės“ deklaraciją pagal Ministerijos parengtą ir interneto svetainėje http://www.esinvesticijos.lt/lt/dokumentai/vienos-imones-deklaracijos-pagal-komisijos-reglamentaes-nr-1407-2013 paskelbtą rekomenduojamą formą;
+20.3. pareiškėjo su ASPĮ pasirašytos sutarties, kurioje turi būti Aprašo priede nurodytos privalomosios nuostatos, kopiją;
+20.4. išlaidas ir jų apmokėjimą pagrindžiančius dokumentus, nurodytus Aprašo 15 punkte, jei teikiant paraišką COVID-19 tyrimai yra atlikti.   
+21. Paraiška turi būti užpildyta lietuvių kalba. Ne lietuvių kalba, netinkamai ar ne iki galo užpildyta paraiška ir (ar) kartu teikiami dokumentai nebus vertinami. 
+22. Paraiškos gali būti teikiamos iki 2021 m. birželio 30 dienos. 
+23. Paraiška vertinama ne ilgiau kaip 10 darbo dienų nuo tinkamai užpildytos paraiškos ir dokumentų, nurodytų Aprašo 20 punkte, pateikimo INVEGAI dienos. Paraiškos vertinimo terminas, esant objektyvių aplinkybių (gautas ir vertinamas neįprastai didelis paraiškų kiekis; pareiškėjo prašymu; atliekant didelės apimties informacinių sistemų programavimo darbus ar sutrikus informacinių sistemų veiklai), INVEGOS vadovo sprendimu gali būti pratęstas, tačiau ne ilgiau kaip 10 darbo dienų. Apie pratęstą paraiškos vertinimo terminą INVEGA ne vėliau kaip per 2 darbo dienas nuo INVEGOS vadovo sprendimo pratęsti paraiškos vertinimo terminą priėmimo dienos informuoja pareiškėją (-us) informacine žinute: elektroninėje paraiškų informacinėje sistemoje nurodo laiką, kuriuo pratęsiamas paraiškos vertinimo terminas, ir priežastis, dėl kurių paraiškos vertinimo terminas pratęstas. 
+24. Paraiškos vertinimo metu INVEGA turi teisę paprašyti pareiškėjo pateikti trūkstamą informaciją, duomenis ir (ar) dokumentus, papildyti ar patikslinti paraiškoje pateiktą informaciją, duomenis ir (ar) dokumentus, išskyrus atvejus, kai trūkstamą informaciją, duomenis ir (ar) dokumentus galima patikrinti viešuose Lietuvos Respublikos valstybės institucijų registruose ir informacinėse sistemose. Pareiškėjas privalo pateikti trūkstamą informaciją, duomenis ir (ar) dokumentus Aprašo 18 punkte nurodytu būdu per INVEGOS nustatytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos nuo prašymo pateikti trūkstamą informaciją, duomenis ir (ar) dokumentus, papildyti ar patikslinti paraiškoje pateiktą informaciją, duomenis ir (ar) dokumentus gavimo dienos. Jeigu pareiškėjas per INVEGOS nustatytą terminą nepateikia nurodytos informacijos, duomenų ir (ar) dokumentų, INVEGA priima sprendimą atmesti paraišką. 
+25. Paraiška atmetama neprašius pareiškėjo pateikti papildomos informacijos, duomenų ir (ar) dokumentų, jei pareiškėjas neatitinka Aprašo 14 ir 16 punktuose nustatytų reikalavimų. 
+26. Baigusi pareiškėjo pateiktos paraiškos vertinimą INVEGA priima sprendimą dėl COVID-19 tyrimų išlaidų kompensavimo skyrimo (toliau – teigiamas sprendimas) arba paraiškos atmetimo.  
+27. INVEGA, priėmusi teigiamą sprendimą ar sprendimą dėl paraiškos atmetimo, ne vėliau kaip per 2 darbo dienas nuo šio sprendimo priėmimo dienos elektroniniu paštu, nurodytu paraiškoje, informuoja pareiškėją apie priimtą ir elektroninėje paraiškų informacinėje sistemoje paskelbtą sprendimą. Sprendimas pasirašomas INVEGOS vadovo ar jo įgalioto asmens kvalifikuotu elektroniniu parašu. Sprendime dėl paraiškos atmetimo turi būti nurodytas paraiškos atmetimo pagrindas ir šio sprendimo apskundimo tvarka. Pareiškėjas, kurio paraiška buvo atmesta dėl nustatytų trūkumų, kaip nurodyta Aprašo 25 ir 26 punktuose, pašalinęs minėtus trūkumus gali pakartotinai teikti naują paraišką dėl kompensacijos per kvietime teikti paraiškas nustatytą laikotarpį.
+28. INVEGA duomenis apie suteiktą de minimis pagalbą Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registrui teikia ir tikslina vadovaudamasi Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatais, patvirtintais Lietuvos Respublikos Vyriausybės 2005 m. sausio 19 d. nutarimu Nr. 35 „Dėl Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatų patvirtinimo“, ir Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos duomenų tvarkymo taisyklėmis, patvirtintomis Lietuvos Respublikos konkurencijos tarybos 2015 m. lapkričio 13 d. nutarimu Nr. 1S-120/2015 „Dėl Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos duomenų tvarkymo taisyklių patvirtinimo“. 
+29. Pareiškėjas, dėl kurio priimtas teigiamas sprendimas, dėl COVID-19 tyrimų, atliktų po paraiškos pateikimo dienos per laikotarpį, nurodytą Aprašo 14 punkte, kompensavimo gali kreiptis į INVEGĄ ne dažniau kaip vieną kartą per kalendorinį mėnesį ir turi pateikti Aprašo 15 punkte nurodytus išlaidas pagrindžiančius dokumentus. 
+30. Jei pareiškėjas, dėl kurio priimtas teigiamas sprendimas, Aprašo 14 punkte nurodytu laikotarpiu sudaro sutartį su kita ASPĮ, jis, atlikdamas Aprašo 29 punkte nurodytus veiksmus, turi INVEGAI pateikti sutarties su ASPĮ kopiją.
+31. COVID-19 tyrimų išlaidos pareiškėjui kompensuojamos iki kito mėnesio, einančio po ataskaitinio mėnesio, 25 dienos. Apskaičiuota kompensacija pareiškėjui pervedama į paraiškoje nurodytą sąskaitą.
+32. Pareiškėjui, dėl kurio priimtas sprendimas dėl COVID-19 tyrimų išlaidų kompensavimo, COVID-19 tyrimų išlaidų kompensacijos yra išmokamos, kai yra įvykdytos visos šios sąlygos:
+32.1. pareiškėjas yra sumokėjęs už atliktus COVID-19 tyrimus pagal sutartį su COVID-19 tyrimus atliekančia ASPĮ ir pateikia tai pagrindžiančius Aprašo 15 punkte nurodytus dokumentus;
+32.2. COVID-19 tyrimų pareiškėjui kompensacijos išmokėjimo momentu nėra iškelta bankroto ir (ar) restruktūrizavimo byla pagal Lietuvos Respublikos juridinių asmenų nemokumo įstatymą arba iki jo įsigaliojimo galiojusius Lietuvos Respublikos įmonių bankroto įstatymą ir Lietuvos Respublikos įmonių restruktūrizavimo įstatymą, o jei pareiškėjas verslininkas, – jam nėra iškelta fizinio asmens bankroto byla pagal Lietuvos Respublikos fizinių asmenų bankroto įstatymą.
+33. Kai kompensacija išmokama dalimis, vadovaujantis Reglamento (ES) Nr. 1407/2013 3 straipsnio 6 dalies nuostatomis, ji yra diskontuojama.
+34. Pareiškėjai Priemonės įgyvendinimo klausimais informuojami ir konsultuojami: 
+34.1. telefonu, kuris nurodomas kvietimo teikti paraiškas skelbime ir INVEGOS interneto svetainėje www.invega.lt. INVEGOS interneto svetainėje www.invega.lt galima rasti atsakymus į dažniausiai užduodamus klausimus (DUK); 
+34.2. elektroniniu paštu uzklausos@invega.lt, kuris nurodomas kvietimo teikti paraiškas skelbime ir INVEGOS interneto svetainėje www.invega.lt. 
+35. INVEGA, vertindama paraiškas, išmokėdama kompensacijas, atlikdama patikras, turi teisę gauti valstybės įmonės Registrų centro, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos, Audito, apskaitos, turto vertinimo ir nemokumo valdymo tarnybos prie Lietuvos Respublikos finansų ministerijos, Lietuvos statistikos departamento, Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos, Konkurencijos tarybos tvarkomuose viešuose registruose ir informacinėse sistemose tvarkomus duomenis pagal sudaromas sutartis dėl duomenų teikimo. 
+36. INVEGA turi teisę tvarkyti su Aprašo įgyvendinimu susijusius asmens duomenis. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva Nr. 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. Asmens duomenys tvarkomi kompensacijos apskaičiavimo, skyrimo ir administravimo tikslais. Su Aprašo nuostatų įgyvendinimu susiję asmens duomenys INVEGOJE tvarkomi ir saugomi 10 metų nuo paskutinio dokumento gavimo datos. Informacija apie asmens duomenų tvarkymą pateikiama INVEGOS interneto svetainėje www.invega.lt. 
+37. Pareiškėjas įsipareigoja saugoti ir atrankinių patikrų ir (ar) audito metu pateikti informaciją apie darbuotojus (vardą, pavardę, gimimo datą, darbuotojo socialinio draudimo numerį, darbuotojui atliktų testų skaičių, testų atlikimo datas), kuriems buvo atliekami COVID-19 tyrimai, už kurių išlaidas buvo prašoma kompensacijos pagal Priemonę, ir (ar) kitus dokumentus, pagrindžiančius Aprašo reikalavimų įgyvendinimą ir (ar) patirtų COVID-19 tyrimų išlaidų tinkamumą pagal Aprašą per INVEGOS nurodytą laikotarpį, kuris negali būti trumpesnis kaip 10 darbo dienų.
+38. Informacija apie COVID-19 tyrimų kompensavimą gavusius pareiškėjus (įmonės pavadinimas, įmonės kodas, numatomas suteikti kompensavimo dydis) per 20 darbo dienų nuo teigiamo sprendimo priėmimo dienos skelbiama INVEGOS interneto svetainėje www.invega.lt. 
+39. Informacija ir dokumentai, susiję su pagalbos teikimu, saugomi ne trumpiau kaip 10 metų nuo paskutinės pagalbos suteikimo dienos.  
+40. INVEGA atsitiktinės atrankos būdu patikrina ne mažiau kaip penkis procentus pareiškėjų, dėl kurių priimtas teigiamas sprendimas, patikras atlikdama pagal INVEGOS vadovo patvirtintą tvarką, kuri skelbiama INVEGOS interneto svetainėje www.invega.lt. 
+41. Jei nustatoma, kad pareiškėjai pateikė neteisingą informaciją, duomenis ir (ar) dokumentus ir (ar) sąmoningai nuslėpė informaciją, turinčią reikšmės sprendimo dėl COVID-19 tyrimų kompensavimo priėmimui, nepateikė ar atsisakė pateikti prašomą informaciją, duomenis ir (ar) dokumentus, kaip nustatyta Aprašo 37 punkte, nesilaikė Apraše nustatytų reikalavimų, gavo didesnę, nei priklauso pagal Aprašą, kompensaciją, pareiškėjas privalo grąžinti visą nepagrįstai ir (ar) neteisėtai gautą kompensaciją su palūkanomis, kaip nustatyta 2015 m. liepos 13 d. Tarybos reglamente (ES) 2015/1589, nustatančiame išsamias Sutarties dėl Europos Sąjungos veikimo 108 straipsnio taikymo taisykles. 
+42. Motyvuotą sprendimą dėl privalomų grąžinti lėšų, kurios buvo nepagrįstai išmokėtos pažeidžiant Aprašo nuostatas, ir su minėtomis lėšomis susijusių palūkanų priima INVEGA ir ne vėliau kaip per 5 darbo dienas nuo sprendimo dėl privalomų grąžinti lėšų priėmimo dienos išsiunčia pareiškėjui, pasirašytą INVEGOS vadovo ar jo įgalioto asmens kvalifikuotu elektroniniu parašu. Pareiškėjas privalomas grąžinti lėšas turi pervesti INVEGAI ne vėliau kaip per 30 dienų nuo sprendimo dėl privalomų grąžinti lėšų gavimo dienos. 
+43. INVEGA iš pareiškėjų susigrąžintas lėšas ne vėliau kaip per 5 darbo dienas nuo lėšų susigrąžinimo dienos perveda į Ministerijos sąskaitą, prieš tai raštu informavusi Ministeriją apie susigrąžintas lėšas ir jų pervedimą. Ministerija INVEGOS pervestas susigrąžintas lėšas ne vėliau kaip per 5 darbo dienas nuo jų gavimo dienos perveda į Lietuvos Respublikos finansų ministerijos nurodytą valstybės iždo sąskaitą. 
+
+IV SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+44. Už paraiškoje ir kartu su paraiška pateiktos informacijos ir išlaidas pagrindžiančiuose dokumentuose pateiktų duomenų teisingumą atsako pareiškėjas.
+45. Už pareiškėjų vertinimą, teigiamo sprendimo ar sprendimo dėl paraiškos atmetimo priėmimą, lėšų išmokėjimą ir jų apskaitą, neteisėtai ar nepagrįstai išmokėtų lėšų susigrąžinimą atsako INVEGA. 
+46. INVEGOS sprendimai gali būti skundžiami Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka Lietuvos administracinių ginčų komisijai arba Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka administraciniam teismui.
+_____________________________
+
+
+Priemonės „COVID-19 tyrimų 
+kompensavimas smulkiojo ir vidutinio 
+verslo subjektams“ sąlygų aprašo
+priedas
+
+SUTARTIES DĖL PROFILAKTINIŲ PERIODINIŲ TYRIMŲ DĖL COVID-19 LIGOS PRIVALOMŲJŲ NUOSTATŲ APRAŠYMAS 
+
+
+Sutartyje, sudaromoje dėl profilaktinių periodinių tyrimų dėl COVID-19 ligos (sudarant naują sutartį ir (arba) papildant jau turimas sutartis tarp asmens sveikatos priežiūros sveikatos įstaigos ir įmonės arba verslininko), turi būti nurodoma:
+
+1.	Sutartis sudaroma, atsižvelgiant į Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašą, patvirtintą Lietuvos Respublikos ekonomikos ir inovacijų ministro įsakymu „Dėl Priemonės „COVID-19 tyrimo kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašo patvirtinimo“ (toliau – Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašas), COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 4 d. įsakymu  Nr. V-2797 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo patvirtinimo“ (toliau – COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašas), ir į Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. gegužės 29 d. sprendimą Nr. V-1336 „Dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo“ (toliau – Sprendimas dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo).
+2.	Sutartimi asmens sveikatos priežiūros įstaiga (toliau – Paslaugų teikėjas) įsipareigoja teikti užsakovui (įmonei arba verslininkui) (toliau – Užsakovas) jo darbuotojų, kaip ši sąvoka apibrėžta Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų apraše, sutikusių dalyvauti Užsakovo atliekamame darbuotojų profilaktiniame periodiniame tyrime dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo, profilaktinių periodinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo (toliau – tyrimai) atlikimo paslaugas, kaip tai reglamentuoja COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašas ir Sprendimas dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo (toliau – Paslaugos), o Užsakovas įsipareigoja sumokėti Paslaugų teikėjui už suteiktas Paslaugas.
+3. Paslaugų teikėjas Užsakovui pagal jo poreikius atlieka:
+3.1. serologinius imunologinius tyrimus, kai nustatomi anti-S, anti-S1 arba anti-RBD IgG antikūnai prieš SARS-CoV-2 (toliau – serologinis tyrimas);
+3.2. greituosius SARS-CoV-2 antigeno testus.
+4. Paslaugų teikėjas suteikia Užsakovui Paslaugas pagal periodinio profilaktinio tyrimo eigą, atsižvelgdamas į COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo ir Sprendimo dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo nuostatas.
+5. Serologinis tyrimas atliekamas, siekiant nustatyti, ar asmuo yra persirgęs COVID-19 liga:
+5.1. Tais atvejais, kai serologinio tyrimo rezultatas yra teigiamas, asmuo laikomas turintis COVID-19 ligos (koronaviruso infekcijos) antikūnų ir jam periodiškai neatliekamas greitasis SARS-CoV-2 antigeno testas laikotarpiu, kaip nustatyta Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo. 
+5.2. Tais atvejais, kai serologinio tyrimo rezultatas yra neigiamas, asmeniui periodiškai atliekamas greitasis SARS-CoV-2 antigeno testas.
+6. Greitasis antigeno SARS-CoV-2 testas atliekamas, siekiant nustatyti, ar asmuo šiuo metu serga COVID-19 liga: 
+6.1. Tais atvejais, kai greitasis SARS-CoV-2 antigeno testo rezultatas yra teigiamas, asmuo laikomas sergančiu COVID-19 liga ir turi izoliuotis.
+6.2. Tais atvejais, kai greitasis SARS-CoV-2 antigeno testo rezultatas yra neigiamas, asmuo laikomas nesergančiu COVID-19 liga ir toliau jam atliekamas profilaktinis tyrimas greitaisiais SARS-CoV-2 antigeno testais Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo apibrėžtu periodiškumu. 
+7. Nebus tiriami asmenys, kuriems buvo nustatyta COVID-19 liga arba kurie buvo paskiepyti COVID-19 ligos vakcina pagal išsamią skiepijimo schemą, ir asmenys, gavę teigiamą serologinio tyrimo atsakymą, laikotarpiu, kaip nustatyta Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo.
+8. Užsakovas įsipareigoja:
+8.1. laikytis Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo profilaktiniams tyrimams dėl COVID-19 ligos nustatytų reikalavimų;
+8.2. užtikrinti, kad Paslaugos būtų teikiamos tik Užsakovo darbuotojams, pateikusiems raštišką sutikimą dalyvauti Užsakovo vykdomame darbuotojų profilaktiniame periodiniame tyrime dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo (Darbuotojų profilaktinių periodinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo ir serologinių tyrimų atlikimo paslaugų teikimo sutarties privalomųjų nuostatų priedas „Sutikimas dalyvauti profilaktiniame periodiniame tyrime dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo ir serologinių tyrimų atlikimo“);
+8.3. organizuoti ir koordinuoti sutinkančių profilaktiškai tirtis darbuotojų tyrimo procesą;
+8.4. užtikrinti, kad tyrimas sutinkantiems profilaktiškai tirtis darbuotojams būtų atliekamas profilaktiniams tyrimams rekomenduojamu periodiškumu, kaip nustatyta Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo;
+8.5. sumokėti Paslaugų teikėjui už suteiktas Paslaugas Sutartyje nustatytomis sąlygomis ir tvarka. 
+9. Paslaugų teikėjas įsipareigoja: 
+9.1. laikytis COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos apraše nurodytų reikalavimų;
+9.2. laikytis Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo profilaktiniams tyrimams dėl COVID-19 ligos nustatytų reikalavimų;
+9.3. serologinius tyrimus ir (ar) greituosius SARS-CoV-2 antigeno testus atlikti laikantis sveikatos apsaugos sritį reglamentuojančių teisės aktų reikalavimų ir Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo nustatytos periodinio profilaktinio tyrimo eigos; 
+9.4 užtikrinti, kad Užsakovo darbuotojams Paslaugos būtų suteiktos laiku, pagal iš anksto su Užsakovu suderintą grafiką ar kitu šalių sutartu būdu;
+9.5. užtikrinti, kad Paslaugos nebūtų teikiamos Sprendime dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo nurodytiems netiriamiems asmenims (prieš atliekant tyrimą patikrinus konkretaus asmens sveikatos duomenis Elektroninėje sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinėje sistemoje (toliau – ESPBI IS), kuri pasiekiama adresu https://www.esveikata.lt/);
+9.6. užtikrinti turimos informacijos apie Užsakovo darbuotojus konfidencialumą ir suteikti ją kitiems asmenims tik turint raštišką konkretaus darbuotojo sutikimą arba įstatymų nustatytais atvejais;
+9.7. atlikto tyrimo duomenis įrašyti į ištirto asmens elektroninę sveikatos istoriją ESPBI IS, kurioje jie saugomi teisės aktų nustatytą laikotarpį;
+9.8. informuoti Užsakovą ar jo įgaliotą atstovą apie atliktų tyrimų rezultatus;
+9.9. informuoti Užsakovo darbuotojus apie jiems atliktų tyrimų rezultatus.
+10. Užsakovas už suteiktas Paslaugas Paslaugų teikėjui sumoka pagal Paslaugų teikėjo pateiktą sąskaitą faktūrą ar kitą apskaitos dokumentą (toliau – sąskaita faktūra) už per vieną kalendorinį mėnesį Užsakovui faktiškai suteiktų paslaugų kiekį. Atliktų tyrimų skaičius sąskaitoje faktūroje nurodomas vienetais ir nurodoma vieneto kaina. 
+
+_____________________________
+
+Sutarties dėl profilaktinių periodinių 
+tyrimų dėl COVID-19 ligos privalomųjų 
+nuostatų aprašymo  
+priedas
+
+
+(Sutikimo dalyvauti profilaktiniame periodiniame tyrime dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo ir serologinių tyrimų atlikimo forma)
+
+
+SUTIKIMAS 
+DALYVAUTI PROFILAKTINIAME PERIODINIAME TYRIME DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO IR SEROLOGINIŲ TYRIMŲ ATLIKIMO
+
+
+I. BENDROJI INFORMACIJA
+
+Šioje sutikimo formoje pateikiama Jums skirta informacija apie Jūsų darbdavio – ____________ (toliau – darbdavys) – atliekamą darbuotojų profilaktinį periodinį tyrimą dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo ir serologinių tyrimų atlikimo (toliau – tyrimas).
+Jei sutinkate dalyvauti tyrime, prašome atidžiai perskaityti ir pasirašyti šią sutikimo formą. Kilus klausimų, užduokite juos darbdavio vadovui ar jo įgaliotam asmeniui. 
+
+Tyrimo organizatorius ir koordinatorius
+Darbdavys
+
+Už tyrimo atlikimo organizavimą atsakingi asmenys ir jų kontaktiniai duomenys
+____________
+
+Tyrimo tikslas
+Jūsų dalyvavimas tyrime labai svarbus, nes atliekant tyrimus yra siekiama užtikrinti  COVID-19 ligos (koronaviruso infekcijos) tarp darbuotojų plitimo kontrolę, mažinti COVID-19 ligos židinių darbo vietose skaičių.
+
+Tyrimo atlikimas
+Jei sutinkate dalyvauti tyrime, Jūs būsite profilaktiškai tiriamas (-a) dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tokia eiga:
+1.	Serologinis imunologinis tyrimas, kai nustatomi anti-S, anti-S1 arba anti-RBD IgG antikūnai prieš SARS-CoV-2 (toliau – serologinis tyrimas), bus atliekamas siekiant nustatyti, ar Jūs esate persirgęs COVID-19 liga:
+1.1.	Jei serologinio tyrimo rezultatas bus teigiamas, Jūs būsite laikomas (-a) turintis (-i) COVID-19 ligos (koronaviruso infekcijos) antikūnų ir Jums nebus atliekamas greitasis SARS-CoV-2 antigeno testas (toliau – greitasis antigeno testas) teisės aktuose nustatytu laikotarpiu. 
+1.2.	Jei serologinio tyrimo rezultatas bus neigiamas, Jums periodiškai bus atliekamas greitasis antigeno testas, kaip nustatyta Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. gegužės 29 d. sprendime Nr. V-1336 „Dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo“ (toliau – Sprendimas dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo).
+2.	Greitasis antigeno testas bus atliekamas siekiant nustatyti, ar Jūs sergate COVID-19 liga: 
+2.1.	Jei greitojo antigenų testo rezultatas bus teigiamas, Jūs būsite laikomas (-a) sergančiu  (-ia) COVID-19 liga ir Jūs turėsite izoliuotis Taisyklių nustatyta tvarka.
+2.2.	Jei greitojo antigeno testo rezultatas bus neigiamas, Jūs būsite laikomas (-a) nesergančiu (-ia) COVID-19 liga ir toliau Jums bus atliekamas profilaktinis tyrimas grietaisiais antigeno testais profilaktiniams tyrimams rekomenduojamu periodiškumu.
+Jūsų tyrimą organizuos darbdavys savo lėšomis.
+Tyrimo rezultatus Jums praneš tyrimą atlikusi asmens sveikatos priežiūros įstaiga, taip pat duomenys apie Jūsų tyrimą bus įrašyti į Jūsų elektroninę sveikatos istoriją Elektroninėje sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinėje sistemoje (toliau – ESPBI IS), kuri pasiekiama adresu https://www.esveikata.lt/. 
+Tyrimą atlikusi asmens sveikatos priežiūros įstaiga apie Jūsų tyrimo rezultatus informuos Jūsų darbdavio vadovą arba jo įgaliotą asmenį.
+
+Dalyvio patvirtinimas
+Dalyvaudamas (-a) tyrime patvirtinsite, kad Jums nebuvo nustatyta COVID-19 liga (koronaviruso infekcija) arba nesate paskiepytas (-a) COVID-19 ligos (koronaviruso infekcijos) vakcina pagal išsamią skiepijimo schemą ir nesate gavęs (-usi) teigiamo serologinio tyrimo  atsakymo laikotarpiu, kaip nustatyta Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. gegužės 29 d. sprendime Nr. V-1336 „Dėl tikslinių ir profilaktinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo“.
+
+Dalyvio teisės
+Dalyvavimas tyrime yra savanoriškas, todėl turite teisę atsisakyti jame dalyvauti, o dalyvaudamas (-a) tyrime galėsite bet kada iš jo pasitraukti, parašęs (-iusi) laisvos formos prašymą nutraukti dalyvavimą tyrime.
+Pažymime, kad tyrimo rezultatai, įrašyti medicinos dokumentuose, ir duomenys (vardas, pavardė, gimimo data, tyrimų skaičius), surinkti siekiant gauti patirtų išlaidų kompensavimą pagal Priemonę „COVID-19 tyrimų kompensavimas smulkaus ir vidutinio verslo subjektams“, iki Jūsų sutikimo dalyvauti tyrime atšaukimo nebus sunaikinti. 
+
+II. ASMENS DUOMENŲ TVARKYMO SĄLYGOS
+
+Tyrimo metu Jūsų asmens duomenis (vardą, pavardę, gimimo datą, asmens kodą, darbuotojo socialinio draudimo numerį, tyrimo duomenis), siekdamas užtikrinti COVID-19 ligos (koronaviruso infekcijos) tarp darbuotojų plitimo kontrolę ir mažinti COVID-19 ligos židinių darbo vietose skaičių ir gauti patirtų išlaidų kompensavimą pagal Priemonę „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“, tvarkys šis duomenų valdytojas:
+- Darbdavys, juridinio asmens kodas ______, adresas: _______; duomenų apsaugos pareigūno (jei privaloma paskirti)  kontaktiniai duomenys: __________, el. pašto adresas_______, darbo vietos adresas: __________.
+Jūsų asmens duomenys (vardas, pavardė, gimimo data, asmens kodas, darbuotojo socialinio draudimo numeris, tyrimo duomenys) bus perduoti šiems duomenų gavėjams: 
+-	Asmens sveikatos priežiūros įstaigai – tyrimams atlikti ir Jums ir darbdaviui informuoti apie tyrimų rezultatus, tyrimų rezultatams suvesti į elektroninę sveikatos istoriją ESPBI IS.
+Sveikatos priežiūros įstaigos duomenys: juridinio asmens kodas ________, adresas: ________; duomenų apsaugos pareigūno (jei privaloma paskirti)  kontaktiniai duomenys: __________, el. paštas_______, darbo vietos adresas: __________. 
+- Sveikatos apsaugos ministerijai – tyrimo duomenims ESPBI IS tvarkyti. 
+Sveikatos apsaugos ministerijos duomenys: juridinio asmens kodas 188603472, adresas: Vilniaus g. 33, LT-01506 Vilnius; duomenų apsaugos pareigūno kontaktiniai duomenys: Vilniaus g. 33, LT-01506 Vilnius (laišką adresuokite Sveikatos apsaugos ministerijos duomenų apsaugos pareigūnui), el. paštas duomenu.apsauga@sam.lt;
+- UAB „Investicijų ir verslo garantijos“ – tyrimų kompensacijoms administruoti ir atrankinėms patikroms atlikti.
+UAB „Investicijų ir verslo garantijos“ juridinio asmens kodas 110084026, adresas: Konstitucijos pr. 7 (16 aukštas), 09308 Vilnius; duomenų apsaugos pareigūno kontaktiniai duomenys: _______________, el. paštas ___________________.  
+
+Tyrimo metu gauta sveikatos informacija, leidžianti nustatyti asmens tapatybę, yra konfidenciali ir teikiama pirmiau nurodytiems duomenų gavėjams, laikantis Bendrojo duomenų apsaugos reglamento (toliau – BDAR), Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo, Priemonės „COVID-19 tyrimų kompensavimas smulkiojo ir vidutinio verslo subjektams“ sąlygų aprašo  reikalavimų. Kitiems duomenų gavėjams Jūsų asmens duomenys gali būti teikiami tik teisės aktuose nustatytais atvejais ir kai asmens duomenų teikimas būtinas ir proporcingas teisėtais ir konkrečiais tikslais. Trečiosioms šalims šio sutikimo pagrindu tvarkomi Jūsų asmens duomenys nebus perduodami.
+
+Šio sutikimo pagrindu Jūsų asmens duomenys bus saugomi 10 metų.
+
+Jūs turite BDAR nurodytas teises:
+- teisę prašyti, kad Jums būtų leista susipažinti su duomenų valdytojo ir duomenų gavėjų turimais Jūsų duomenimis ir juos ištaisyti arba ištrinti; 
+- teisę apriboti Jūsų duomenų tvarkymą, teisę nesutikti, kad duomenys būtų tvarkomi; 
+- teisę į duomenų perkeliamumą;
+- teisę bet kuriuo metu atšaukti šį sutikimą tvarkyti Jūsų asmens duomenis pirmiau nurodytais tikslais (šio sutikimo atšaukimas nereiškia, kad asmens duomenys iki Jūsų sutikimo atšaukimo buvo tvarkomi neteisėtai).
+
+Atliekant tyrimą gauta sveikatos informacija nelaikoma konfidencialia ir gali būti paskelbta be Jūsų sutikimo, jeigu ją paskelbus nebus galima tiesiogiai ar netiesiogiai nustatyti Jūsų tapatybės.
+
+III. SUTIKIMAS DALYVAUTI TYRIME
+
+Aš perskaičiau šią sutikimo formą ir supratau man pateiktą informaciją.
+Man buvo suteikta galimybė užduoti klausimus ir gavau mane tenkinančius atsakymus.
+Supratau, kad galiu bet kada pasitraukti iš tyrimo, nenurodęs (nenurodžiusi) priežasčių.
+Supratau, kad, norėdamas (-a) atšaukti sutikimą dalyvauti tyrime, raštu turiu apie tai informuoti darbdavio vadovą ar jo įgaliotą asmenį.
+Supratau, kad dalyvavimas šiame tyrime yra savanoriškas.
+Įsipareigoju laikytis Taisyklių reikalavimų, jei man reikės izoliuotis. 
+Patvirtinu, kad gavau sutikimo egzempliorių, pasirašytą darbdavio vadovo ar jo įgalioto asmens.
+
+Darbuotojas
+Telefono numeris ___________________________________
+Adresas korespondencijai: ________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+vardas
+
+pavardė
+
+atstovavimo pagrindas (jei taikoma)
+
+parašas
+
+pasirašymo data
+
+
+
+Patvirtinu, kad suteikiau informaciją apie tyrimą ir atsakiau į užduotus klausimus pirmiau nurodytam asmeniui.
+
+Darbdavio vadovas ar jo įgaliotas asmuo
+
+
+
+
+
+
+
+
+
+
+
+pareigos
+
+
+vardas 
+
+pavardė 
+
+parašas
+
+pasirašymo data
+
+
+
+IV. SUTIKIMAS DARBDAVIUI TVARKYTI ASMENS DUOMENIS
+
+Aš perskaičiau šią sutikimo formą, supratau man pateiktą informaciją ir sutinku, kad darbdavys tvarkytų šiame sutikime nurodytus asmens duomenis sutikime nurodytu tikslu, sąlygomis ir tvarka.
+Man buvo suteikta visa su asmens duomenų tvarkymu ir mano teisėmis susijusi informacija.
+Apie asmens duomenų, tvarkomų pagal šį sutikimą, pasikeitimus įsipareigoju pranešti darbdaviui.
+Sutikimo galiojimo terminas – 2021 m. gruodžio 31 d.
+Žinau, kad turiu teisę bet kada atšaukti šį sutikimą ir reikalauti nutraukti tolesnį asmens duomenų tvarkymą, kuris yra vykdomas šio sutikimo pagrindu. Sutikimo atšaukimas nedaro poveikio sutikimu pagrįsto asmens duomenų tvarkymo, atlikto iki sutikimo atšaukimo, teisėtumui. 
+Žinau, kad nesutikdamas, jog darbdavys tvarkytų sutikime nurodytus duomenis, negalėsiu dalyvauti darbdavio organizuojamame profilaktiniame periodiniame tyrime dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo ir serologinių tyrimų atlikimo.
+Žinau, kad turiu teisę apskųsti asmens duomenų tvarkymą. Jeigu manau, kad mano duomenis darbdavys ar bet kuris kitas duomenų valdytojas tvarko pažeisdamas duomenų apsaugos teisės aktų reikalavimus, aš turėsiu teisę pateikti skundą priežiūros institucijai, kuri Lietuvos Respublikoje yra Valstybinė duomenų apsaugos inspekcija (L. Sapiegos g. 17, LT-10312 Vilnius; tel. (8 5) 212 7532; el. paštas ada@ada.lt), arba teismui.
+Patvirtinu, kad gavau sutikimo egzempliorių, pasirašytą darbdavio vadovo ar jo įgalioto asmens.
+
+Asmuo (ar jo atstovas)
+Telefono numeris ___________________________________
+Adresas korespondencijai: ________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+vardas
+
+pavardė
+
+atstovavimo pagrindas
+
+parašas
+
+pasirašymo data
+
+
+
+

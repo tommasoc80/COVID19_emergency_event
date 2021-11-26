@@ -1,0 +1,1280 @@
+Uredba o spremembah in dopolnitvi Uredbe o metodologiji za ocenjevanje škode, pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo
+2020-07-08
+Povezava na Uradni list:
+                       
+                       
+                         Uradni list RS, št. 96/20
+                       
+                       
+                         Neuradno precišceno besedilo, ki vsebuje to spremembo:
+                       
+                       
+
+                         
+                         
+
+                         Opozorilo: Neuradno precišceno besedilo predpisa predstavlja zgolj
+informativni delovni pripomocek, glede katerega organ ne jamci odškodninsko ali
+kako drugace
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:NimbusSanDEECon;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+h4
+	{mso-style-name:"Naslov 4\,Grafika";
+	mso-style-link:"Naslov 4 Znak\,Grafika Znak";
+	margin-right:0cm;
+	margin-left:0cm;
+	text-align:center;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:normal;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Komentar - besedilo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Glava Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Noga Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.MsoHyperlink
+	{color:blue;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.05pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:7.0pt;
+	font-family:"Times New Roman","serif";
+	color:#333333;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Besedilo oblacka Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:windowtext;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:35.4pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alinejazarkovnotoko, li.Alinejazarkovnotoko, div.Alinejazarkovnotoko
+	{mso-style-name:"Alineja za crkovno tocko";
+	mso-style-link:"Alineja za crkovno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NogaZnak
+	{mso-style-name:"Noga Znak";
+	mso-style-link:Noga;
+	font-family:"Times New Roman","serif";}
+span.GlavaZnak
+	{mso-style-name:"Glava Znak";
+	mso-style-link:Glava;
+	font-family:"Arial","sans-serif";}
+p.Vrstapredpisa, li.Vrstapredpisa, div.Vrstapredpisa
+	{mso-style-name:"Vrsta predpisa";
+	mso-style-link:"Vrsta predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Naslovpredpisa, li.Naslovpredpisa, div.Naslovpredpisa
+	{mso-style-name:Naslov_predpisa;
+	mso-style-link:"Naslov_predpisa Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.VrstapredpisaZnak
+	{mso-style-name:"Vrsta predpisa Znak";
+	mso-style-link:"Vrsta predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	letter-spacing:2.0pt;
+	font-weight:bold;}
+p.Poglavje, li.Poglavje, div.Poglavje
+	{mso-style-name:Poglavje;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NaslovpredpisaZnak
+	{mso-style-name:"Naslov_predpisa Znak";
+	mso-style-link:Naslov_predpisa;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.len, li.len, div.len
+	{mso-style-name:Clen;
+	mso-style-link:"Clen Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+p.tevilnatoka111, li.tevilnatoka111, div.tevilnatoka111
+	{mso-style-name:"Številcna tocka 1\.1\.1";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:22.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-22.7pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lenZnak
+	{mso-style-name:"Clen Znak";
+	mso-style-link:Clen;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Odstavek, li.Odstavek, div.Odstavek
+	{mso-style-name:Odstavek;
+	mso-style-link:"Odstavek Znak";
+	margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Pravnapodlaga, li.Pravnapodlaga, div.Pravnapodlaga
+	{mso-style-name:"Pravna podlaga";
+	mso-style-link:"Pravna podlaga Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:51.05pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OdstavekZnak
+	{mso-style-name:"Odstavek Znak";
+	mso-style-link:Odstavek;
+	font-family:"Arial","sans-serif";}
+span.AlinejazarkovnotokoZnak
+	{mso-style-name:"Alineja za crkovno tocko Znak";
+	mso-style-link:"Alineja za crkovno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoa, li.rkovnatokazatevilnotokoa, div.rkovnatokazatevilnotokoa
+	{mso-style-name:"Crkovna tocka za številcno tocko \(a\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Prehodneinkoncnedolocbe, li.Prehodneinkoncnedolocbe, div.Prehodneinkoncnedolocbe
+	{mso-style-name:"Prehodne in koncne dolocbe";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:30.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.BesedilooblakaZnak
+	{mso-style-name:"Besedilo oblacka Znak";
+	mso-style-link:"Besedilo oblacka";
+	font-family:"Tahoma","sans-serif";}
+p.Oddelek, li.Oddelek, div.Oddelek
+	{mso-style-name:Oddelek;
+	mso-style-link:"Oddelek Znak1";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Odsek, li.Odsek, div.Odsek
+	{mso-style-name:Odsek;
+	mso-style-link:"Odsek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:12.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Del, li.Del, div.Del
+	{mso-style-name:Del;
+	mso-style-link:"Del Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.OddelekZnak1
+	{mso-style-name:"Oddelek Znak1";
+	mso-style-link:Oddelek;
+	font-family:"Arial","sans-serif";}
+span.OdsekZnak
+	{mso-style-name:"Odsek Znak";
+	mso-style-link:Odsek;
+	font-family:"Arial","sans-serif";}
+p.Naslovnadlenom, li.Naslovnadlenom, div.Naslovnadlenom
+	{mso-style-name:"Naslov nad clenom";
+	mso-style-link:"Naslov nad clenom Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.DelZnak
+	{mso-style-name:"Del Znak";
+	mso-style-link:Del;
+	font-family:"Arial","sans-serif";}
+span.NaslovnadlenomZnak
+	{mso-style-name:"Naslov nad clenom Znak";
+	mso-style-link:"Naslov nad clenom";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.Nazivpodpisnika, li.Nazivpodpisnika, div.Nazivpodpisnika
+	{mso-style-name:"Naziv podpisnika";
+	mso-style-link:"Naziv podpisnika Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.NazivpodpisnikaZnak
+	{mso-style-name:"Naziv podpisnika Znak";
+	mso-style-link:"Naziv podpisnika";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkom, li.rkovnatokazaodstavkom, div.rkovnatokazaodstavkom
+	{mso-style-name:"Crkovna tocka_za odstavkom";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpFirst, li.rkovnatokazaodstavkomCxSpFirst, div.rkovnatokazaodstavkomCxSpFirst
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpFirst";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpMiddle, li.rkovnatokazaodstavkomCxSpMiddle, div.rkovnatokazaodstavkomCxSpMiddle
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpMiddle";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomCxSpLast, li.rkovnatokazaodstavkomCxSpLast, div.rkovnatokazaodstavkomCxSpLast
+	{mso-style-name:"Crkovna tocka_za odstavkomCxSpLast";
+	mso-style-link:"Crkovna tocka_za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Alineazatevilnotoko, li.Alineazatevilnotoko, div.Alineazatevilnotoko
+	{mso-style-name:"Alinea za številcno tocko";
+	mso-style-link:"Alinea za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:1.0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-7.1pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomZnak
+	{mso-style-name:"Crkovna tocka_za odstavkom Znak";
+	mso-style-link:"Crkovna tocka_za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.tevilnatoka, li.tevilnatoka, div.tevilnatoka
+	{mso-style-name:"Številcna tocka";
+	mso-style-link:"Številcna tocka Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazatevilnotokoZnak
+	{mso-style-name:"Alinea za številcno tocko Znak";
+	mso-style-link:"Alinea za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotoko, li.rkovnatokazatevilnotoko, div.rkovnatokazatevilnotoko
+	{mso-style-name:"Crkovna tocka za številcno tocko";
+	mso-style-link:"Crkovna tocka za številcno tocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.8pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.tevilnatokaZnak
+	{mso-style-name:"Številcna tocka Znak";
+	mso-style-link:"Številcna tocka";
+	font-family:"Arial","sans-serif";}
+p.Alineazaodstavkom, li.Alineazaodstavkom, div.Alineazaodstavkom
+	{mso-style-name:"Alinea za odstavkom";
+	mso-style-link:"Alinea za odstavkom Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko";
+	font-family:"Arial","sans-serif";}
+p.tevilkanakoncupredpisa, li.tevilkanakoncupredpisa, div.tevilkanakoncupredpisa
+	{mso-style-name:"Številka na koncu predpisa";
+	mso-style-link:"Številka na koncu predpisa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.AlineazaodstavkomZnak
+	{mso-style-name:"Alinea za odstavkom Znak";
+	mso-style-link:"Alinea za odstavkom";
+	font-family:"Arial","sans-serif";}
+p.Datumsprejetja, li.Datumsprejetja, div.Datumsprejetja
+	{mso-style-name:"Datum sprejetja";
+	mso-style-link:"Datum sprejetja Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.tevilkanakoncupredpisaZnak
+	{mso-style-name:"Številka na koncu predpisa Znak";
+	mso-style-link:"Številka na koncu predpisa";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+p.Podpisnik, li.Podpisnik, div.Podpisnik
+	{mso-style-name:Podpisnik;
+	mso-style-link:"Podpisnik Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.DatumsprejetjaZnak
+	{mso-style-name:"Datum sprejetja Znak";
+	mso-style-link:"Datum sprejetja";
+	font-family:"Arial","sans-serif";
+	color:black;
+	layout-grid-mode:line;}
+span.PodpisnikZnak
+	{mso-style-name:"Podpisnik Znak";
+	mso-style-link:Podpisnik;
+	font-family:"Arial","sans-serif";}
+p.lennaslov, li.lennaslov, div.lennaslov
+	{mso-style-name:Clen_naslov;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;
+	font-weight:bold;}
+span.PravnapodlagaZnak
+	{mso-style-name:"Pravna podlaga Znak";
+	mso-style-link:"Pravna podlaga";
+	font-family:"Arial","sans-serif";}
+p.Pododdelek, li.Pododdelek, div.Pododdelek
+	{mso-style-name:Pododdelek;
+	mso-style-link:"Pododdelek Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.PododdelekZnak
+	{mso-style-name:"Pododdelek Znak";
+	mso-style-link:Pododdelek;
+	font-family:"Arial","sans-serif";}
+p.EVA, li.EVA, div.EVA
+	{mso-style-name:EVA;
+	mso-style-link:"EVA Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.EVAZnak
+	{mso-style-name:"EVA Znak";
+	mso-style-link:EVA;
+	font-family:"Arial","sans-serif";}
+span.Komentar-besediloZnak
+	{mso-style-name:"Komentar - besedilo Znak";
+	mso-style-link:"Komentar - besedilo";
+	font-family:"Arial","sans-serif";}
+p.Imeorgana, li.Imeorgana, div.Imeorgana
+	{mso-style-name:"Ime organa";
+	mso-style-link:"Ime organa Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:10.0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Naslov4Znak
+	{mso-style-name:"Naslov 4 Znak\,Grafika Znak";
+	mso-style-link:"Naslov 4\,Grafika";
+	font-family:"Arial","sans-serif";
+	color:black;}
+p.Opozorilo, li.Opozorilo, div.Opozorilo
+	{mso-style-name:Opozorilo;
+	mso-style-link:"Opozorilo Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+span.OpozoriloZnak
+	{mso-style-name:"Opozorilo Znak";
+	mso-style-link:Opozorilo;
+	font-family:"Arial","sans-serif";
+	color:gray;}
+p.lennovele, li.lennovele, div.lennovele
+	{mso-style-name:Clen_novele;
+	mso-style-link:"Clen_novele Znak";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Priloga, li.Priloga, div.Priloga
+	{mso-style-name:Priloga;
+	mso-style-link:"Priloga Znak";
+	margin-top:19.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	line-height:10.0pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.lennoveleZnak
+	{mso-style-name:"Clen_novele Znak";
+	mso-style-link:Clen_novele;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.PrilogaZnak
+	{mso-style-name:"Priloga Znak";
+	mso-style-link:Priloga;
+	font-family:"Arial","sans-serif";}
+p.rta, li.rta, div.rta
+	{mso-style-name:Crta;
+	mso-style-link:"Crta Znak";
+	margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.NPB, li.NPB, div.NPB
+	{mso-style-name:NPB;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+span.rtaZnak
+	{mso-style-name:"Crta Znak";
+	mso-style-link:Crta;
+	font-family:"Arial","sans-serif";}
+p.Zamaknjenadolobaprvinivo, li.Zamaknjenadolobaprvinivo, div.Zamaknjenadolobaprvinivo
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamaknjenadolobadruginivo, li.Zamaknjenadolobadruginivo, div.Zamaknjenadolobadruginivo
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.ZamaknjenadolobaprvinivoZnak
+	{mso-style-name:"Zamaknjena dolocba_prvi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_prvi nivo";
+	font-family:"Arial","sans-serif";}
+span.ZamaknjenadolobadruginivoZnak
+	{mso-style-name:"Zamaknjena dolocba_drugi nivo Znak";
+	mso-style-link:"Zamaknjena dolocba_drugi nivo";
+	font-family:"Arial","sans-serif";}
+p.Alineazapodtoko, li.Alineazapodtoko, div.Alineazapodtoko
+	{mso-style-name:"Alinea za podtocko";
+	mso-style-link:"Alinea za podtocko Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.7pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-11.35pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Zamakanjenadolobatretjinivo, li.Zamakanjenadolobatretjinivo, div.Zamakanjenadolobatretjinivo
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:49.65pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.AlineazapodtokoZnak
+	{mso-style-name:"Alinea za podtocko Znak";
+	mso-style-link:"Alinea za podtocko";
+	font-family:"Arial","sans-serif";}
+span.ZamakanjenadolobatretjinivoZnak
+	{mso-style-name:"Zamakanjena dolocba_tretji nivo Znak";
+	mso-style-link:"Zamakanjena dolocba_tretji nivo";
+	font-family:"Arial","sans-serif";}
+span.ImeorganaZnak
+	{mso-style-name:"Ime organa Znak";
+	mso-style-link:"Ime organa";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkoma, li.rkovnatokazaodstavkoma, div.rkovnatokazaodstavkoma
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA0, li.rkovnatokazaodstavkomA0, div.rkovnatokazaodstavkomA0
+	{mso-style-name:"Crkovna tocka za odstavkom A\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomaZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(a\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(a\)";
+	font-family:"Arial","sans-serif";}
+p.lennaslovnovele, li.lennaslovnovele, div.lennaslovnovele
+	{mso-style-name:"Clen naslov novele";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkoma1, li.rkovnatokazaodstavkoma1, div.rkovnatokazaodstavkoma1
+	{mso-style-name:"Crkovna tocka za odstavkom a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazatevilnotokoa0, li.rkovnatokazatevilnotokoa0, div.rkovnatokazatevilnotokoa0
+	{mso-style-name:"Crkovna tocka za številcno tocko a\.";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.Rimskatevilnatoka, li.Rimskatevilnatoka, div.Rimskatevilnatoka
+	{mso-style-name:"Rimska številcna tocka";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomi, li.rkovnatokazaodstavkomi, div.rkovnatokazaodstavkomi
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.tevilnatoka11Nova, li.tevilnatoka11Nova, div.tevilnatoka11Nova
+	{mso-style-name:"Številcna tocka 1\.1 Nova";
+	mso-style-link:"Številcna tocka 1\.1 Nova Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.Neuvrsceno
+	{mso-style-name:Neuvrsceno;
+	border:none;
+	background:yellow;}
+span.tevilnatoka11NovaZnak
+	{mso-style-name:"Številcna tocka 1\.1 Nova Znak";
+	mso-style-link:"Številcna tocka 1\.1 Nova";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoi, li.rkovnatokazatevilnotokoi, div.rkovnatokazatevilnotokoi
+	{mso-style-name:"Crkovna tocka za številcno tocko \(i\)";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:left;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomiZnak
+	{mso-style-name:"Crkovna tocka za odstavkom \(i\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(i\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazaodstavkomA2, li.rkovnatokazaodstavkomA2, div.rkovnatokazaodstavkomA2
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\)";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+p.rkovnatokazaodstavkomA3, li.rkovnatokazaodstavkomA3, div.rkovnatokazaodstavkomA3
+	{mso-style-name:"Crkovna tocka za odstavkom A\)";
+	mso-style-link:"Crkovna tocka za odstavkom A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:21.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-21.25pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak0
+	{mso-style-name:"Crkovna tocka za odstavkom \(A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom \(A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA1, li.rkovnatokazatevilnotokoA1, div.rkovnatokazatevilnotokoA1
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-18.0pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazaodstavkomAZnak1
+	{mso-style-name:"Crkovna tocka za odstavkom A\) Znak";
+	mso-style-link:"Crkovna tocka za odstavkom A\)";
+	font-family:"Arial","sans-serif";}
+p.rkovnatokazatevilnotokoA2, li.rkovnatokazatevilnotokoA2, div.rkovnatokazatevilnotokoA2
+	{mso-style-name:"Crkovna tocka za številcno tocko A\)";
+	mso-style-link:"Crkovna tocka za številcno tocko A\) Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:39.1pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-17.85pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak
+	{mso-style-name:"Crkovna tocka za številcno tocko \(A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko \(A\)";
+	font-family:"Arial","sans-serif";}
+p.Slikanasredino, li.Slikanasredino, div.Slikanasredino
+	{mso-style-name:"Slika_na sredino";
+	margin-top:20.0pt;
+	margin-right:0cm;
+	margin-bottom:20.0pt;
+	margin-left:0cm;
+	text-align:center;
+	punctuation-wrap:simple;
+	text-autospace:none;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.rkovnatokazatevilnotokoAZnak0
+	{mso-style-name:"Crkovna tocka za številcno tocko A\) Znak";
+	mso-style-link:"Crkovna tocka za številcno tocko A\)";
+	font-family:"Arial","sans-serif";}
+ /* Page Definitions */
+ @page WordSection1
+	{size:21.0cm 842.0pt;
+	margin:-70.9pt 70.9pt 70.9pt 70.9pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+Opozorilo: Neuradno precišceno besedilo predpisa predstavlja
+zgolj informativni delovni pripomocek, glede katerega organ ne jamci
+odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Uredbe o metodologiji za
+ocenjevanje škode, pogojih in postopku dodelitve javnih sredstev iz tocke b)
+drugega odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev
+epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo
+obsega:
+
+-       
+Uredbo o metodologiji za ocenjevanje škode, pogojih in postopku dodelitve
+javnih sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih
+ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za
+državljane in gospodarstvo (Uradni list RS, št. 74/20 z dne 21. 5. 2020),
+
+-       
+Uredbo o spremembah in dopolnitvi Uredbe o metodologiji za ocenjevanje
+škode, pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega
+odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije
+COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list
+RS, št. 96/20 z dne 8. 7. 2020).
+
+UREDBA
+
+o metodologiji za ocenjevanje škode, pogojih in
+postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a clena
+Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih
+posledic za državljane in gospodarstvo
+
+(neuradno precišceno besedilo št. 1)
+
+1. clen
+
+(vsebina uredbe)
+
+S to uredbo se dolocajo metodologija, po kateri se ocenjuje
+škoda, ki jo je podjetjem povzrocila epidemija COVID-19, pogoji in postopek
+dodelitve sredstev proracuna Republike Slovenije na podlagi tocke b) drugega
+odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije
+COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list
+RS, št. 49/20 in 61/20; v nadaljnjem besedilu: ZIUZEOP).
+
+2. clen
+
+(opredelitev škode)
+
+Škoda, ki je podjetjem nastala kot posledica epidemije
+COVID-19 (v nadaljnjem besedilu: škoda), se dokazuje kot škoda, ki nastane
+podjetjem zaradi zmanjšanja dobicka iz poslovanja (v nadaljnjem besedilu: EBIT),
+ali kot škoda, ki nastane zaradi dodatnih stroškov podjetja.
+
+3. clen
+
+(metodologija dolocitve škode zaradi zmanjšanja dobicka iz
+poslovanja)
+
+(1) Dobicek iz poslovanja se izracuna na podlagi podatkov iz
+izkaza poslovnega izida, katerega vsebina je opredeljena s Prilogo 2 Navodila o
+predložitvi letnih in zakljucnih porocil ter drugih podatkov poslovnih
+subjektov (Uradni list RS, št. 86/16 in 76/17), po naslednji formuli:
+
+EBIT= KDP – PO,
+
+pri cemer so:
+
+EBIT=    dobicek iz poslovanja (AOP 151),
+
+KDP =   kosmati donos iz poslovanja (AOP
+126),
+
+PO =      poslovni odhodki (AOP 127).
+
+(2) Od vrednosti KDP iz prejšnjega odstavka se odštejejo
+prejeta javna sredstva za nadomestilo plac in oprostitev prispevkov iz 28. in
+33. clena ZIUZEOP.
+
+(3) Škoda kot posledica zmanjšanja EBIT se izracuna tako, da
+se na podlagi podatkov iz izkaza poslovnega izida ali drugega dokazila za
+obdobje zadnjih dvanajstih mesecev pred epidemijo COVID-19 izracuna mesecno
+povprecje EBIT in nato od povprecne vrednosti odšteje znesek doseženega EBIT v
+posameznem mesecu za obdobje iz 20. clena ZIUZEOP.
+
+(4) Ce je podjetje pred epidemijo COVID-19 na trgu poslovalo
+manj kot dvanajst mesecev, se škoda zaradi zmanjšanja EBIT izracuna tako, da se
+na podlagi podatkov iz izkaza poslovnega izida ali drugega dokazila za obdobje
+poslovanja podjetja izracuna mesecno povprecje EBIT in nato od povprecne
+vrednosti odšteje znesek doseženega EBIT v posameznem mesecu za obdobje iz 20.
+clena ZIUZEOP.
+
+(5) Podjetjem, ki imajo sezonsko naravo dela, se mesecno
+povprecje EBIT iz tretjega odstavka tega clena izracuna za enako obdobje
+preteklega leta glede na obdobje iz 20. clena ZIUZEOP. Šteje se, da ima
+podjetje sezonsko naravo dela, ce je v vsakem od zadnjih treh zaporednih
+poslovnih let mesecni prihodek vsaj v enem mesecu za vec kot 25% odstopal od
+povprecnih mesecnih prihodkov v celem letu. O sezonski naravi dela poda izjavo
+zastopnik podjetja.
+
+4. clen
+
+(metodologija dolocitve škode zaradi dodatnih stroškov)
+
+(1) Škoda zaradi dodatnih stroškov se doloci kot vsota zneska
+izplacanega kriznega dodatka v skladu z drugim do cetrtim odstavkom 33. clena
+ZIUZEOP in zneska dodatnih stroškov, nastalih izkljucno zaradi zagotavljanja
+zajezitve in omejitve posledic epidemije v skladu z navodili in priporocili
+Nacionalnega inštituta za javno zdravje za varno izvajanje posameznih
+dejavnosti. Upoštevajo se le dodatni stroški, nastali v obdobju iz 20. clena
+ZIUZEOP.
+
+(2) Od višine škode iz prejšnjega odstavka se odšteje
+presežek cistih prihodkov od prodaje. Presežek cistih prihodkov od prodaje se
+ugotovi tako, da se od doseženih cistih prihodkov od prodaje v obdobju iz 20.
+clena ZIUZEOP odšteje doseženi cisti prihodek od prodaje v enakem obdobju
+preteklega leta.
+
+(3) Škodo zaradi dodatnih stroškov iz prvega odstavka tega
+clena podjetje dokazuje na podlagi knjigovodskih listin in obracuna davcnega
+odtegljaja od dohodkov iz delovnega razmerja.
+
+5. clen
+
+(višina in pogoji dodelitve javnih sredstev)
+
+(1) Vsota javnih sredstev, prejetih na podlagi 28. in 33.
+clena ZIUZEOP, drugih javnih sredstev za odpravo posledic škode iz državnega
+proracuna in obcinskih proracunov ter zneska, ki ga je podjetje za isto škodo
+prejelo iz naslova zavarovanja, sodnega postopka, arbitraže ali drugega vira,
+ne sme presegati nastale škode zaradi epidemije.
+
+(2) Ce višina ocenjene škode, po odštetju drugih prejetih
+javnih sredstev za odpravo posledic škode iz državnega proracuna in obcinskih
+proracunov ter zneska, ki ga je podjetje za isto škodo prejelo iz naslova
+zavarovanja, sodnega postopka, arbitraže ali drugega vira, preseže skupni
+znesek nadomestil place in oprostitve prispevkov iz 28. in 33. clena ZIUZEOP,
+se javna sredstva dodelijo le v višini skupnega zneska nadomestil place in
+oprostitve prispevkov iz 28. in 33. clena ZIUZEOP.
+
+(3) Ce je višina ocenjene škode, po odštetju drugih prejetih
+javnih sredstev za odpravo posledic škode iz državnega proracuna in obcinskih
+proracunov ter zneska, ki ga je podjetje za isto škodo prejelo iz naslova
+zavarovanja, sodnega postopka, arbitraže ali drugega vira, manjša od skupnega
+zneska nadomestil place in oprostitve prispevkov iz 28. in 33. clena ZIUZEOP,
+se javna sredstva dodelijo le v višini ocenjene škode.
+
+(4) Skupni znesek javnih sredstev za nadomestila place in
+oprostitev prispevkov iz 28. in 33. clena ZIUZEOP, ki se financirajo tudi iz
+drugih javnih virov, ne sme preseci omejitev, dolocenih z ZIUZEOP.
+
+6. clen
+
+(postopek ugotavljanja upravicene višine dodeljenih javnih
+sredstev)
+
+(1) Vlogo za ugotavljanje upravicene višine dodeljenih javnih
+sredstev iz 28. in 33. clena ZIUZEOP podjetje pošlje ministrstvu, pristojnemu
+za delo, do 31. avgusta 2020. Podjetje mora vlogi priložiti naslednja dokazila:
+
+-       
+pravilno izpolnjen Obrazec za oceno škode, ki je kot Priloga 1 sestavni
+del te uredbe, z ustreznimi dokazili (izkaz poslovnega izida, knjigovodske
+listine, obracun davcnega odtegljaja in drugo),
+
+-       
+izjavo, koliko javnih sredstev je prejelo za namen odprave posledic
+škode,
+
+-       
+izjavo, koliko drugih javnih sredstev je prejelo za nadomestila place in
+oprostitve prispevkov za iste delavce,
+
+-       
+kopije zavarovalnih polic za zavarovanje izpada prihodka oziroma v
+primeru, da podjetje ni zavarovano za izpad prihodka, ožigosano in podpisano
+izjavo direktorja ali druge pooblašcene osebe o tem, da podjetje ni bilo
+zavarovano za namene izpada prihodka oziroma za namene, ki pokrivajo tak izpad,
+
+-       
+kopije dokazil sodnih postopkov, arbitraže ali drugih virov za kritje
+škode, oziroma ožigosano in podpisano izjavo direktorja ali druge pooblašcene
+osebe o tem, da podjetje ni udeleženo v navedenih postopkih.
+
+(2) Postopek ugotavljanja upravicene višine dodeljenih javnih
+sredstev iz 28. in 33. clena ZIUZEOP se zacne na podlagi sklepa ministrstva,
+pristojnega za delo. Ministrstvo, pristojno za delo, preveri pravilnosti
+ocenjene škode po metodologiji iz 3. ali 4. clena te uredbe ter ugotovi
+upravicenost prejetega zneska javnih sredstev iz 28. in 33. clena ZIUZEOP v
+skladu s 5. clenom te uredbe.
+
+(3) Ministrstvo, pristojno za finance, ministrstvu,
+pristojnemu za delo, v okviru svojih nalog svetovanja upravljavcem pomoci, v
+skladu z Zakonom o spremljanju državnih pomoci, poda mnenje o pravilnosti
+ocenjene škode in mnenje o višini upravicene državne pomoci. Za ta namen
+ministrstvo, pristojno za delo, ministrstvu, pristojnemu za finance, posreduje
+dokumente iz prvega odstavka tega clena.
+
+(4) Ce podjetje ministrstvu, pristojnemu za delo, ne
+posreduje vloge v roku iz prvega odstavka tega clena, se šteje, da mu škoda ni
+nastala.
+
+(5) Ministrstvo, pristojno za delo, izda odlocbo o upraviceni
+višini dodeljenih javnih sredstev.
+
+(6) Ce ministrstvo, pristojno za delo, ugotovi, da škoda ni
+bila pravilno ocenjena oziroma je podjetje prejelo nadomestila plac in
+oprostitev prispevkov iz 28. in 33. clena ZIUZEOP v nasprotju s 5. clenom te
+uredbe, v odlocbi iz prejšnjega odstavka doloci rok za vracilo prekomerno
+prejetih javnih sredstev. Po poteku roka za placilo do placila se podjetju
+obracunavajo zakonske zamudne obresti po Zakonu o predpisani obrestni meri
+zamudnih obresti (Uradni list RS, št. 11/07 – uradno precišceno besedilo).
+
+
+
+
+
+Priloga
+1: Obrazec za oceno škode
+
+
+
+
+
+Uredba o metodologiji za ocenjevanje škode,
+pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a
+clena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev
+njenih posledic za državljane in gospodarstvo (Uradni list RS, št. 74/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+7. clen
+
+(zacetek veljavnosti)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Uredba o spremembah in dopolnitvi Uredbe o
+metodologiji za ocenjevanje škode, pogojih in postopku dodelitve javnih
+sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih ukrepih
+za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in
+gospodarstvo (Uradni list RS, št. 96/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+6. clen
+
+(zacetek veljavnosti)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

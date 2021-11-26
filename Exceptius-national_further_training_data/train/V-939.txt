@@ -1,0 +1,19 @@
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS –
+VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVAS
+
+SPRENDIMAS
+DĖL KIBERNETINIO SAUGUMO VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) PLITIMO GRĖSMĖS METU
+
+2020 m. balandžio 21 d. Nr. V-939
+Vilnius
+
+Vadovaudamasis Lietuvos Respublikos civilinės saugos įstatymo 15 straipsnio 2 dalies 1 ir 4 punktais, Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“, Valstybiniu ekstremaliųjų situacijų valdymo planu, patvirtintu Lietuvos Respublikos Vyriausybės 2010 m. spalio 20 d. nutarimu Nr. 1503 „Dėl Valstybinio ekstremaliųjų situacijų valdymo plano patvirtinimo“, Lietuvos Respublikos Ministro Pirmininko 2020 m. vasario 27 d. potvarkiu Nr. 43 „Dėl valstybės lygio ekstremaliosios situacijos valstybės operacijų  vadovo paskyrimo“, atsižvelgdamas į Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimą Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ ir siekdamas sustiprinti institucijų ir įstaigų kibernetinį saugumą ir valdomų informacinių sistemų atsparumą kibernetinėms grėsmėms, n u s p r e n d ž i u:
+Nurodyti asmens ir visuomenės sveikatos priežiūros įstaigoms bei kitoms institucijoms ir įstaigoms, dalyvaujančioms likviduojant valstybės lygio ekstremaliąją situaciją dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmės ir šalinant jos padarinius:
+1. Skubiai atlikti naudojamų valstybės informacinių išteklių, svetainių ir nuotolinio komunikavimo sistemų (toliau – informacinių sistemų) kibernetinio saugumo priemonių veiksmingumo įvertinimą, užtikrinti jų atitikimą nustatytiems kibernetinio saugumo reikalavimams ir Nacionalinio kibernetinio saugumo centro prie Krašto apsaugos ministerijos (toliau – NKSC) rekomendacijų įgyvendinimą.
+2. Užfiksavus kibernetinį incidentą, sąlygojusį neigiamą poveikį tvarkomos informacijos konfidencialumui, vientisumui, prieinamumui, Nacionalinio kibernetinių incidento valdymo plano, patvirtinto 2018 m. rugpjūčio 13 d. Lietuvos Respublikos Vyriausybės nutarimu Nr. 818 „Dėl Lietuvos Respublikos kibernetinio saugumo įstatymo įgyvendinimo“, III skyriuje nustatyta tvarka informuoti NKSC užpildant specialią formą interneto svetainėje https://www.nksc.lt/ arba pateikiant informaciją telefonu 1805 ar elektroniniu paštu cert@nksc.lt.
+3. Nedelsiant vykdyti visus teisėtus NKSC nurodymus ir rekomendacijas, susijusias su kibernetinio saugumo užtikrinimu ir apie jų įgyvendinimą informuoti NKSC.
+
+
+
+Sveikatos apsaugos ministras – valstybės lygio
+ekstremaliosios situacijos valstybės operacijų vadovas                                             Aurelijus Veryga

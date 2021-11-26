@@ -1,0 +1,81 @@
+VEJ nr 9334 af 10/06/2020
+Vejledning til læger om gratis pneumokokvaccination
+
+Af bekendtgørelse nr. 840 af 10/06/2020 fra Sundheds- og Ældreministeriet om gratis pneumokokvaccination til visse persongrupper fremgår de persongrupper, der fra d. 15. juni 2020 har ret til gratis vaccination med den 23-valente polysakkaridvaccine (PPV23).
+
+I denne vejledning præciseres, hvilke personer, der anbefales vaccination, samt hvornår personer, som tidligere er vaccineret mod pneumokokker, bør revaccineres.
+
+1. Persongrupper, der tilbydes gratis pneumokokvaccination med den 23-valentepolysakkaridvaccine (PPV23)
+
+Af tabel 1 fremgår de persongrupper, der tilbydes gratis vaccination med PPV23, samt Sundhedsstyrelsens supplerende bemærkninger til grupperne. Den, der vaccinerer, bør sikre sig, at personen, der vaccineres, tilhører en af de pågældende grupper. Gratis vaccination med PPV23 bør kun tilbydes til personer, som ikke er vaccineret med PPV23 inden for de sidste 6 år. Dette sikres gennem opslag i Det Danske Vaccinationsregister, gennem samtale med personen eller ved inspektion af vaccinationskort. Ved tvivl konfereres med egen læge, hvis en anden forestår vaccinationen. Hvis det vurderes, at der er grund til at revaccinere med PPV23, før der er gået 6 år efter seneste PPV23-vaccination, bør dette forudgås af pneumokok-antistofmåling.
+
+Hos personer med forhold, sygdomme eller tilstande, der kan give en forøget risiko for invasiv pneumokoksygdom, kan der fortsat gives en kombineret vaccination med en 13-valent konjugeret vaccine (PCV13) og PPV23 (markeret med * i tabellen). PCV13 er ikke omfattet af det gratis program, men kan til visse grupper gives med tilskud.
+
+Forhold om vaccination
+
+Gratis vaccination med PPV23 til de nævnte persongrupper bør ske under hensyntagen til gældende anbefalinger for almen praksis’ rolle ift. forebyggelse af COVID-19. Disse retningslinjer skal følges, uanset hvor vaccinationen foretages.
+
+Vaccination skal udsættes i tilfælde af akut sygdom med feber, og personer med symptomer forenelige med COVID-19 skal ikke vaccineres.
+
+Tabel 1. Persongrupper som er omfattet af tilbuddet om gratis vaccination fra den 15. juni 2020
+
+Persongrupper der har ret til gratis pneumokokvaccination, som anført i bekendtgørelse nr. 840 af 10/06/2020.
+Sundhedsstyrelsens supplerende bemærkninger
+1) Personer med bopæl et af de følgende steder:
+a) Plejehjem, jf. servicelovens § 192, plejeboligbebyggelser, der er omfattet af lov om almene boliger m.v.
+plejeboligbebyggelser, der er omfattet af lov om boliger for ældre og personer medhandicap, og friplejeboligbebyggelser, der er omfattet af lov om friplejeboliger.
+b) Botilbud efter §§ 107, 108 eller 110 i serviceloven.
+c) Botilbudslignende botilbud efter § 4, stk. 1,nr. 3, i lov om socialtilsyn, hvis personen modtager socialpædagogisk støtte efter servicelovens § 85.
+ 
+2) Personer, der er fyldt 65 år.
+ 
+* 3) Personer, som har en kronisk lidelse som nævnt i litra a til h, efter en lægelig vurdering.
+Dette gælder alle uanset alder, og vurderes pba. en lægefaglig vurdering.
+a) Personer med manglende milt eller dysfunktion af milten
+Personer, som har fået fjernet milten, og tilstande, der kan medføre manglende eller nedsat funktion af milten, eksempelvis hæmoglobinopati og cøliaki.
+b) Personer med påvirket respiration på grund af nedsat muskelkraft
+ 
+c) Personer med medfødt eller erhvervet immundefekt
+Sygdomme eller medicinsk behandling som medfører immunsuppression, eksempelvis HIV, hæmatologisk cancer og behandling med immunsupprimerende medicin.
+d) Personer med liquorlækage
+Personer med liquorlækage som følge af traume, større kraniekirurgi eller indlæggelse af shunt i hjernen.
+e) Personer med tidligere invasiv pneumokoksygdom
+Især personer, som tidligere har haft meningitis eller sepsis på grund af infektion med pneumokokker.
+f) Personer med Cochlear implantation
+ 
+g) Personer med stamcelletransplantation
+ 
+h) Personer med organtransplantation
+ 
+* 4) Personer, der ikke er fyldt 18 år, og som har sygdomme eller tilstande, der giver særlig risiko for invasiv pneumokoksygdom
+Personer med cyanotiske hjertesygdomme, hjerteinsufficiens, palliativ operation for hjertesygdom, hæmodynamisk betydende residua efter hjerteoperation, kronisk lungelidelse som eksempelvis cystisk fibrose, hypodynamisk respirationsinsufficiens, nefrotisk syndrom og immundefekter (undtaget agammaglobulinæmi og svær kombineret immundefekt).
+5) Personer med andre alvorlige sygdomme eller tilstande, som efter en konkret lægefaglig vurdering giver særlig høj risiko for invasiv pneumokoksygdom
+Dette gælder alle uanset alder, og vurderes pba. en lægefaglig vurdering.
+2. Information og samtykke
+
+Information om kontraindikationer, bivirkninger, administrationsmåde, dosering, opbevaring og holdbarhed samt tilsætningsstoffer fremgår af vaccinens produktresumé, se produktresume.dk.
+
+Indlægssedler, der følger med de enkelte vacciner, kan udleveres til borgeren i forbindelse med vaccination, eller der kan henvises til indlaegsseddel.dk. Jf. sundhedslovens § 15-17 skal patienten informeres om risiko for komplikationer og bivirkninger ved vaccinationerne, og der skal indhentes informeret samtykke forud for vaccination.
+
+3. Indberetning af bivirkninger og skader
+
+Bivirkninger
+
+Af § 4 i BEK nr. 1823 af 15/12/2015 om indberetning af bivirkninger ved lægemidler m.m. fremgår, at læger har pligt til at foretage indberetning af formodede bivirkninger til Lægemiddelstyrelsen vedrørende patienter, de har i behandling.
+
+PPV23 (Pneumovax og Pneumokok Polysaccharid ”Paranova”) er omfattet af skærpet indberetningspligt med henblik på at skærpe bivirkningsovervågningen. Læger skal dermed indberette alle formodede bivirkninger ved vaccinen (bortset fra formodede bivirkninger som følge af medicineringsfejl) hos patienter, som de har i behandling eller har behandlet, til Lægemiddelstyrelsen. Skærpet indberetningspligt indebærer, at læger, tandlæger, jordemødre og behandlerfarmaceuter skal indberette alle formodede bivirkninger (bortset fra formodede bivirkninger som følge af medicineringsfejl) hos patienter, som de har i behandling eller har behandlet, til Lægemiddelstyrelsen.
+
+Andre sundhedspersoner, patienter og pårørende kan indberette alle formodede bivirkninger til Lægemiddelstyrelsen. Formodede bivirkninger kan indberettes elektronisk på meldenbivirkning.dk til Lægemiddelstyrelsen.
+
+Skader
+
+Af § 45 i lovbekendtgørelse nr. 995 af 14/06/2018 om klage- og erstatningsadgang inden for sundhedsvæsenet fremgår, at det påhviler enhver autoriseret sundhedsperson, som i sin virksomhed bliver bekendt med skader, som må antages at kunne give ret til erstatning, at informere skadelidte herom samt i fornødent omfang at bistå med anmeldelse til Patienterstatningen.
+
+4. Ikrafttræden
+
+Denne vejledning træder i kraft den 15. juni 2020. Samtidig bortfalder Sundhedsstyrelsens vejledningnr. 9208 af 21/04/2020 til læger om gratis pneumokokvaccination.
+
+Sundhedsstyrelsen, den 10. juni 2020
+
+Sigrid Paulsen
+

@@ -1,0 +1,74 @@
+29 MAI 2020. - Décret portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19 (1)
+
+
+Le PARLEMENT FLAMAND a adopté et Nous, GOUVERNEMENT, sanctionnons ce qui suit :
+DECRET portant organisation de l'obligation de déclaration et du suivi des contacts dans le cadre du COVID-19
+Article 1er. Le présent décret règle une matière communautaire.
+Art. 2. Dans le présent décret, on entend par :
+1° règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;
+2° décret du 21 novembre 2003 : le décret du 21 novembre 2003 relatif à la politique de santé préventive ;
+3° arrêté royal n° 18 du 4 mai 2020 : l'arrêté royal n° 18 du 4 mai 2020 portant création d'une banque de données auprès de Sciensano dans le cadre de la lutte contre la propagation du coronavirus COVID-19.
+Art. 3. Afin de pouvoir mettre en oeuvre la compétence de lutte contre la propagation des infections, visée à l'article 44, § 2 du décret du 21 novembre 2003, dans le cadre de la pandémie du COVID-19, le Gouvernement flamand, sans préjudice de l'application de l'article 44, § 3 du décret précité, peut désigner une structure de coopération de partenaires extérieurs, qui crée un centre de contact chargé de missions de traçage et d'accompagnement de personnes avec un diagnostic COVID-19 avéré ou suspecté ou de personnes susceptibles d'avoir eu un contact à risque avec une personne infectée ou suspectée d'être infectée par le COVID-19, à condition que les données à caractère personnel soient traitées uniquement aux fins suivantes :
+1° contacter la personne infectée ou suspectée d'être infectée par le COVID-19 pour savoir avec quelles personnes cette personne a été en contact au cours de la période allant d'au moins 48 heures avant l'apparition des symptômes à au maximum quatorze jours avant la consultation ou la réalisation d'un test sur le COVID-19 ;
+2° contacter le médecin référent ou le responsable administratif des collectivités ayant une population fragile avec laquelle la personne infectée ou suspectée d'être infectée par le COVID-19 a eu des contacts au cours de la période visée au point 1° ;
+3° contacter individuellement les personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact au cours de la période visée au point 1°, afin de leur fournir des recommandations appropriées sur la base des informations qu'elles fournissent et de contrôler le respect de ces recommandations ;
+4° transmettre les coordonnées des personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact à la banque de données de Sciensano, créée par l'arrêté royal n° 18 du 4 mai 2020.
+Le Gouvernement flamand désigne une agence qui agit en tant que responsable du traitement et qui conclut une convention de traitement avec la structure de partenaires extérieurs visée au premier alinéa, conformément à l'article 28, paragraphe 3, du règlement général sur la protection des données.
+Les personnes qui, à la demande du centre de contact visé au premier alinéa, accomplissent les missions visées au premier alinéa, sont tenues au secret professionnel visé à l'article 458 du Code pénal.
+Le centre de contact, visé au premier alinéa, est entre autres supervisé et dirigé par les fonctionnaires-médecins et les fonctionnaires de l'agence, visés à l'article 44, § 3, 2° et 3° du décret du 21 novembre 2003.
+La structure de partenaires extérieurs visée au premier alinéa établit un rapport substantiel et financier sur les missions qui lui ont été confiées. Le Gouvernement flamand peut arrêter les modalités relatives au contenu du rapport substantiel et financier.
+Art. 4. Le Gouvernement flamand arrête les modalités d'organisation du centre de contact visé à l'article 3, premier alinéa du présent décret.
+Art. 5. § 1. Les données à caractère personnel recueillies dans le cadre du présent décret sont traitées conformément à la réglementation sur la protection lors du traitement de données à caractère personnel. Le traitement de données à caractère personnel est fondé sur l'article 6, paragraphe 1, e) du règlement général sur la protection des données et, en ce qui concerne les données relatives à la santé, sur l'article 9, paragraphe 2, i) du règlement général sur la protection des données.
+§ 2. Les personnes visées à l'article 45, § 3 du décret du 21 novembre 2003 communiquent, en exécution de l'article 6, premier alinéa, les données personnelles suivantes de la personne infectée ou présumée infectée par le COVID-19 à la base de données de Sciensano, établie par l'arrêté royal n° 18 du 4 mai 2020 :
+1° le numéro d'identification visé à l'article 8, § 1, 1° ou 2° de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° le sexe ;
+3° l'adresse ;
+4° le type, la date, le numéro de l'échantillon et le résultat du test ou le diagnostic présumé en l'absence de test ;
+5° les informations de contact, à savoir le numéro de téléphone et l'adresse courriel de la personne concernée et de la personne à contacter en cas d'urgence ;
+6° le cas échéant, la collectivité dont la personne fait partie ;
+7° le fait que la personne concernée exerce ou non la profession de prestataire de soins ;
+8° si la personne n'est pas hospitalisée :
+a) les nom et prénom ;
+b) la date de naissance et, le cas échéant, de décès ;
+c) le numéro INAMI du prescripteur du test ;
+9° si la personne est hospitalisée :
+a) le service hospitalier, le numéro d'identification et les données de localisation de l'hôpital ;
+b) le résultat du CT-scan ;
+§ 3. Le centre de contact visé à l'article 3, premier alinéa traite les données personnelles suivantes de la personne infectée ou suspectée d'être infectée par le COVID-19 :
+1° le numéro d'identification visé à l'article 8, § 1, 1° ou 2° de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° les nom, prénom et date de naissance ;
+3° le sexe ;
+4° les informations de contact, à savoir le numéro de téléphone et l'adresse courriel de la personne concernée et de la personne à contacter en cas d'urgence ;
+5° le cas échéant, la date de décès ;
+6° le cas échéant, la collectivité dont la personne fait partie.
+Le traitement des données à caractère personnel visées au premier alinéa n'est effectué qu'aux fins énoncées à l'article 3, premier alinéa, 1° et 2°.
+Les données à caractère personnel visées au premier alinéa sont détruites par le centre de contact après que celui-ci a obtenu les données des personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact et, le cas échéant, après que le médecin référent ou le responsable administratif des collectivités ayant une population fragile, visées à l'article 3, alinéa premier, 2°, a été contacté.
+§ 4. Le centre de contact visé à l'article 3, premier alinéa traite les données personnelles suivantes des personnes avec lesquelles la personne infectée ou suspectée d'être infectée par le COVID-19 a été en contact :
+1° le numéro d'identification visé à l'article 8, § 1, 1° ou 2° de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale ;
+2° les nom et prénom ;
+3° le sexe ;
+4° le cas échéant, la date de décès ;
+5° l'adresse ;
+6° le numéro de téléphone ou l'adresse courriel ;
+7° l'indication si la personne concernée présente un risque élevé ou faible d'infection par le COVID-19 ;
+8° le lien avec la personne infectée ou suspectée d'être infectée par le COVID-19 ;
+9° les informations fournies par la personne concernée, en vue de formuler des recommandations et de contrôler le respect de ces recommandations.
+Le traitement des données à caractère personnel visées au premier alinéa n'est effectué qu'aux fins énoncées à l'article 3, premier alinéa, 3° et 4°.
+Par dérogation au deuxième alinéa, les données à caractère personnel énoncées au premier alinéa, 9°, ne sont utilisées que pour donner des recommandations à la personne concernée et pour contrôler le respect de ces recommandations.
+Les données à caractère personnel visées au premier alinéa, 1° à 3°, 5° à 7° et 9°, sont conservées par le centre de contact pendant la durée nécessaire pour donner à la personne les recommandations nécessaires et pour assurer son suivi, et ce pendant un maximum de 21 jours après le premier contact avec la personne concernée.
+La donnée personnelle visée au premier alinéa, 4°, est détruite auprès du centre de contact après que cette donnée a été transmise à la base de données de Sciensano, créée par l'arrêté royal n° 18 du 4 mai 2020.
+La donnée personnelle visée au premier alinéa, 8° est détruite par le centre de contact 21 jours après que cette donnée a été transmise à la base de données de Sciensano, créée par l'arrêté royal n° 18 du 4 mai 2020.
+§ 5. Le Gouvernement flamand détermine les mesures techniques et organisationnelles à prendre par la structure de partenaires extérieurs pour protéger le traitement des données à caractère personnel par le centre de contact visé à l'article 3, premier alinéa.
+Art. 6. Par dérogation à l'article 45, § 1 du décret du 21 novembre 2003, la notification visée à l'article 44, § 3 du même décret, de COVID-19 est faite auprès de la base de données de Sciensano établie par l'arrêté royal n° 18 du 4 mai 2020.
+Le Gouvernement flamand arrête les modalités relatives à la notification visée à l'alinéa premier.
+Les données à caractère personnel visées dans le présent décret sont stockées dans la banque de données de Sciensano aux fins mentionnées à l'article 3, § 1, 1° et 3° de l'arrêté royal n° 18 du 4 mai 2020.
+Le Gouvernement flamand peut déterminer les conditions dans lesquelles les personnes qui, à la demande du centre de contact visé à l'article 3, premier alinéa, accomplissent les missions, participent, pour tout ou partie de ces activités, en ce qui concerne le partage de données, à la banque de données de Sciensano, dans les conditions visées à l'article 3, §§ 2, 4 et 5 de l'arrêté royal n° 18 du 4 mai 2020.
+Art. 7. Le décret du 8 mai 2020 portant organisation du suivi des contacts dans le cadre du COVID-19 est abrogé.
+Art. 8. Le présent décret produit ses effets à partir du 11 mai 2020.
+Le présent décret cesse de produire ses effets à une date à fixer par le Gouvernement flamand, et au plus tard le 31 décembre 2021.
+Promulguons le présent décret, ordonnons qu'il soit publié au Moniteur belge.
+Bruxelles, le 29 mai 2020.
+Le Ministre-Président du Gouvernement flamand,
+J. JAMBON
+Le Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté,
+W. BEKE

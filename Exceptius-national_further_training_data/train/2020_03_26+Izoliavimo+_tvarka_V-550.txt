@@ -1,0 +1,430 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+Dėl LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 12 D. ĮSAKYMO NR. V-352 „DĖL ASMENŲ, SERGANČIŲ COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), ASMENŲ, ĮTARIAMŲ, KAD SERGA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), AR TURĖJUSIŲ SĄLYTĮ SU SERGANČIUOJU COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IZOLIAVIMO NAMUOSE AR KITOJE GYVENAMOJOjE VIETOJE taisyklių patvirtinimo“ PAKEITIMO
+
+2020 m. kovo 26 d. Nr. V-550
+Vilnius
+
+
+P a k e i č i u Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymą Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ar turėjusių sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių patvirtinimo“ ir jį išdėstau nauja redakcija:
+
+„LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+Dėl ASMENŲ, SERGANČIŲ COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), ASMENŲ, ĮTARIAMŲ, KAD SERGA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IR ASMENŲ, TURĖJUSIŲ SĄLYTĮ, IZOLIAVIMO NAMUOSE, KITOJE GYVENAMOJOjE VIETOJE AR SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE taisyklių patvirtinimo
+
+Vadovaudamasis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 8 straipsniu, 9 straipsniu, 22 straipsnio 2 dalimi, Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“, Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. birželio 13 d. įsakymu Nr. 278 „Dėl Pavojingų ir ypač pavojingų užkrečiamųjų ligų, dėl kurių ligoniai, asmenys, įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, asmenys, turėję sąlytį, ar šių ligų sukėlėjų nešiotojai turi būti hospitalizuojami, izoliuojami, tiriami ir (ar) gydomi privalomai, sąrašo patvirtinimo“ ir atsižvelgdamas į tai, kad Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta valstybės lygio ekstremalioji situacija visoje šalyje dėl naujojo koronaviruso (COVID-19) plitimo grėsmės:
+1. T v i r t i n u Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisykles (pridedama).
+2. P a v e d u  įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.“
+
+
+
+Sveikatos apsaugos ministras 	 Aurelijus Veryga
+
+PATVIRTINTA
+Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352
+(Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 26 d. įsakymo Nr. V-550 redakcija)
+
+ASMENŲ, SERGANČIŲ COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), ASMENŲ, ĮTARIAMŲ, KAD SERGA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IR ASMENŲ, TURĖJUSIŲ SĄLYTĮ, IZOLIAVIMO NAMUOSE, KITOJE GYVENAMOJOjE VIETOJE AR savivaldybės administracijos NUMATYTOSE patalpose TAISYKLĖS
+
+I skyrius
+bendrosios nuostatos
+
+1. Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklės (toliau – Taisyklės) nustato asmenų, kuriems patvirtinta COVID-19 ligos (koronaviruso infekcijos) lengva forma ir kurių sveikatos būklė leidžia juos gydyti ambulatoriškai (toliau – ligonis), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija) (toliau – asmuo, įtariamas, kad serga), ir asmenų, turėjusių sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), ar grįžusių iš užsienio valstybių, išskyrus Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ 3.1.5 papunktyje nurodytas išimtis (toliau – sąlytį turėjęs asmuo), izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose tvarką, asmens sveikatos priežiūros įstaigų veiksmus išrašant ligonį ar asmenį, įtariamą, kad serga, iš stacionarinės asmens sveikatos priežiūros įstaigos ir stebint jo būklę, Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos (toliau – NVSC) veiksmus, nustačius sąlytį turėjusius asmenis.
+2. Taisyklės yra privalomos:
+2.1. asmens sveikatos priežiūros įstaigoms, kuriose tiriamas, stebimas ar gydomas ligonis ar asmuo, įtariamas, kad serga, ar sąlytį turėjęs asmuo;
+2.2. pirmines ambulatorines asmens sveikatos priežiūros šeimos medicinos paslaugas teikiančioms įstaigoms, prie kurių ligonis ar asmuo, įtariamas, kad serga, ar  sąlytį turėjęs asmuo yra prisirašęs;
+2.3. NVSC;
+2.4. ligoniams, asmenims, įtariamiems, kad serga, ir sąlytį turėjusiems asmenims.
+3. Ligonis, asmuo, įtariamas, kad serga, ar sąlytį turėjęs asmuo laikomi sergančiais ar galimai sergančiais liga, įrašyta į Pavojingų ir ypač pavojingų ligų sąrašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. birželio 13 d. įsakymu Nr. 278 „Dėl Pavojingų ir ypač pavojingų užkrečiamųjų ligų, dėl kurių ligoniai, asmenys, įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, asmenys, turėję sąlytį, ar šių ligų sukėlėjų nešiotojai turi būti hospitalizuojami, izoliuojami, tiriami ir (ar) gydomi privalomai, sąrašo patvirtinimo“, todėl privalo laikytis Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo ir šių Taisyklių nuostatų.
+4. Taisyklėse vartojamos sąvokos „asmuo, įtariamas, kad serga“, „sąlytį turėjęs asmuo“, „izoliavimas“ suprantamos taip, kaip nurodytos Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme bei pagal kriterijus, nurodytus Sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.
+
+II skyrius
+Sveikatos priežiūros įstaigų pareigos 
+
+5. Asmens sveikatos priežiūros įstaigos (toliau – ASPĮ), kuriose tiriamas, stebimas ar gydomas ligonis ar asmuo, įtariamas, kad serga ar sąlytį turėjęs asmuo:
+5.1. stacionarinės ASPĮ specialistai prieš paleisdami iš stacionarinės ASPĮ ligonį, asmenį, įtariamą, kad serga, ar asmenį, turėjusį sąlytį, arba mobilūs punktai bei karščiavimo klinikos, kai imamas tepinėlis dėl COVID-19 ligos (koronaviruso infekcija) nustatymo asmenims, įtariamiems, kad serga, ar sąlytį turėjusiems asmenims, informuoja tokį asmenį apie Taisyklėse nustatytą izoliavimo namuose, kitoje gyvenamojoje vietoje ar paskirtoje asmens sveikatos priežiūros įstaigoje ar savivaldybės administracijos numatytose patalpose tvarką, įteikia pasirašyti (jei iki šiol asmuo nebuvo pasirašęs) sutikimo būti izoliuotam formą ir atitinkamą atmintinę:
+5.1.1. ligoniui įteikiamas pasirašyti sutikimas būti izoliuotam parengtas pagal Taisyklių 1 priede pateiktą formą ir Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, sergančio COVID-19 liga (koronaviruso infekcija), atmintinė (Taisyklių 2 priedas);
+5.1.2. asmeniui, įtariamam, kad serga, ar sąlytį su sergančiu COVID-19 liga (koronaviruso infekcija) turėjusiam asmeniui ar sąlytį turėjusiam asmeniui, grįžusiam iš užsienio valstybės, kurio izoliavimo vieta namuose ar kitoje gyvenamojoje aplinkoje atitinka Taisyklių reikalavimus ir jis yra deklaravęs gyvenamąją vietą Lietuvos Respublikoje, įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, įtariamo, kad serga COVID-19 liga (koronaviruso infekcija), ir asmens, turėjusio sąlytį,  atmintinė (Taisyklių 3 priedas); 
+5.1.3. asmeniui, įtariamam, kad serga, ar sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjusiam asmeniui ar sąlytį turėjusiam asmeniui, grįžusiam iš užsienio valstybės, kurio izoliavimo vieta namuose ar kitoje gyvenamojoje aplinkoje neatitinka Taisyklių reikalavimų ir jis yra deklaravęs gyvenamąją vietą Lietuvos Respublikoje, arba jei toks asmuo išreiškė norą būti izoliuotas jo gyvenamosios savivaldybės numatytose izoliavimo patalpose, įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Savivaldybės administracijos numatytose patalpose izoliuoto sąlytį turėjusio asmens, grįžusio iš užsienio valstybės, atmintinė (Taisyklių 4 priedas);
+5.2. apie ligonio ar asmens, įtariamo, kad serga, ar sąlytį turėjusio asmens pasirašytą sutikimą būti izoliuotam namuose, parengtą pagal Taisyklių 1 priede pateiktą formą, pažymi Elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinėje sistemoje (toliau – ESPBI IS) ir (ar) asmens sveikatos priežiūros įstaigos informacinėje sistemoje  asmens medicinos dokumentų formoje E003/a „Stacionaro epikrizė“ arba formoje E025 „Ambulatorinio apsilankymo aprašymas“ (toliau – forma E025);
+5.3. sprendimai dėl ligonio izoliavimo paskirtoje asmens sveikatos priežiūros įstaigoje priimami ir informacija apie tokius ligonius perduodama atitinkamoms institucijoms, vadovaujantis specialiais ligonių izoliavimo ir transportavimo klausimus reglamentuojančiais teisės aktais;
+5.4. asmeniui, įtariamam, kad serga, ar asmeniui, turėjusiam sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), sutikimas būti izoliuotam parengtas pagal Taisyklių 1 priede pateiktą formą, nurodžius, kad jo namai ar kita gyvenamoji vieta neatitinka Taisyklių reikalavimų, apie tokį asmenį informuoja savivaldybės administraciją jos nurodytais kontaktais.
+6. Pirmines ambulatorines asmens sveikatos priežiūros šeimos medicinos paslaugas teikianti įstaiga, prie kurios yra prisirašęs ligonis, asmuo įtariamas, kad serga, ar sąlytį turėjęs asmuo, privalo:
+6.1. nuotoliniu būdu pagal nustatytą tvarką palaikyti reguliarų ryšį su ligoniu, asmeniu, įtariamu, kad serga, ar sąlytį turėjusiu asmeniu,  izoliuotu namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose, ir stebėti dėl lėtinių neinfekcinių ligų ir prireikus nuotoliniu būdu koreguoti gydymą;
+6.2. šeimos gydytojo komandos nariui nuotoliniu būdu nustačius, kad ligoniui, asmeniui, įtariamam, kad serga, ar sąlytį turėjusiam asmeniui dėl sveikatos būklės būtina hospitalizacija, skambinti į Bendrąjį pagalbos centrą telefono numeriu 112;
+6.3. sužinojusi, kad ligonis ar asmuo, įtariamas, kad serga, ar sąlytį turėjęs asmuo pažeidė Taisykles, privalo apie pažeidimą ar atsisakymą laikytis Taisyklių įrašyti į asmens medicinos dokumentų formą E025 ESPBI IS ar (ir) asmens sveikatos priežiūros įstaigos informacinėje sistemoje ir nedelsdama informuoti NVSC bei atitinkamos savivaldybės gydytoją teisės aktų nustatyta tvarka;
+6.4. informaciją apie ligoniui ar asmeniui, įtariamam, kad serga, ar sąlytį turėjusiam asmeniui suteiktas paslaugas įrašyti į asmens medicinos dokumentų formą E025 ESPBI IS ar (ir) asmens sveikatos priežiūros įstaigos informacinėje sistemoje;
+6.5. išduodama elektroninį nedarbingumo ar nėštumo ir gimdymo atostogų pažymėjimą, ligonį ar asmenį, įtariamą, kad serga, ar sąlytį turėjusį asmenį nuotoliniu būdu supažindinti su Taisyklėmis.
+7. NVSC specialistas, nustatęs sąlytį turėjusį asmenį:
+7.1. informuoja jį apie izoliavimo namuose, kitoje gyvenamoje vietoje ar savivaldybės administracijos numatytose patalpose būtinybę, pateikdamas pasirašyti (patekimo į šalį vietoje, vykdant sienų medicininę-karantininę kontrolę, nuotoliniu būdu, NVSC specialistui atvykstant pas sąlytį turėjusį asmenį ar kt.) sutikimą būti izoliuotam ir atitinkamą atmintinę:
+7.1.1. sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjusiam asmeniui įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, įtariamo, kad serga COVID-19 liga (koronaviruso infekcija), ir asmens, turėjusio sąlytį, atmintinė (Taisyklių 3 priedas);
+7.1.2. sąlytį turėjusiam asmeniui, grįžusiam iš užsienio valstybės, kurio izoliavimo vieta namuose ar kitoje gyvenamojoje vietoje atitinka Taisyklių reikalavimus ir jis yra deklaravęs gyvenamąją vietą Lietuvos Respublikoje, įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, įtariamo, kad serga COVID-19 liga (koronaviruso infekcija), ir asmens, turėjusio sąlytį, atmintinė (Taisyklių 3 priedas);
+7.1.3. sąlytį turėjusiam asmeniui, grįžusiam iš užsienio valstybės, kurio izoliavimo vieta namuose ar kitoje gyvenamojoje vietoje neatitinka Taisyklių reikalavimų ir jis yra deklaravęs gyvenamąją vietą Lietuvos Respublikoje arba toks asmuo išreiškė norą būti izoliuotas jo gyvenamosios savivaldybės numatytose izoliavimo patalpose, įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Savivaldybės administracijos numatytose patalpose izoliuoto sąlytį turėjusio asmens, grįžusio iš užsienio valstybės, atmintinė (Taisyklių 4 priedas);
+7.1.4. sąlytį turėjusiam asmeniui, grįžusiam iš užsienio valstybės, jei asmuo nėra deklaravęs gyvenamosios vietos Lietuvoje, įteikiamas pasirašyti sutikimas būti izoliuotam, parengtas pagal Taisyklių 1 priede pateiktą formą, ir Savivaldybės administracijos numatytose patalpose izoliuoto sąlytį turėjusio asmens, grįžusio iš užsienio valstybės, atmintinė (Taisyklių 4 priedas).
+7.2. atlieka aktyvų sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjusio asmens stebėjimą (su stebimu asmeniu, vadovaudamasis NVSC specialisto algoritmu, susisiekia nuotoliniu būdu ir užrašo sveikatos būklės duomenis, t. y. fiksuoja, ar nepasireiškia jokie ligos simptomai);
+7.3. informuoja sąlytį turėjusį asmenį, kad jei sveikatos stebėjimo metu pasireiškia ligos simptomai (karščiavimas, kosulys, pasunkėjęs kvėpavimas), jis turi nedelsdamas informuoti Karštąją koronaviruso liniją telefono numeriu 1808;
+7.4. jei per 14 dienų nuo paskutinės sąlyčio dienos stebimam asmeniui ligos simptomai nepasireiškia, sąlytį turėjęs asmuo nebelaikomas keliančiu susirgimo riziką ir izoliavimas savivaldybės administracijos numatytose patalpose jam nebetaikomas;
+7.5. jei asmuo nesilaiko Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo reikalavimų ir nustatytos izoliavimo tvarkos, NVSC turi teisę surašyti administracinių nusižengimų protokolus arba kreipiasi į teisėsaugos institucijas dėl baudžiamosios atsakomybės taikymo. 
+8. NVSC informaciją, susijusią su COVID-19 ligos (koronaviruso infekcija) valdymu, gauna:
+8.1. teisės aktų nustatyta tvarka atlikdamas COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką;
+8.2. tiesiogiai iš sąlytį turėjusio asmens užpildytos anketos; 
+8.3. kai informaciją NVSC apie įtariamus sąlytį turėjusius asmenis pateikia ligonis, asmuo, įtariamas, kad serga, kitas sąlytį turėjęs asmuo ar kiti asmenys (bendradarbiai, artimieji, kaimynai ir kt.) (toliau – tretieji asmenys). Tokiu atveju NVSC specialistas privalo susisiekti su trečiojo asmens nurodytu įtariamu sąlytį turėjusiu asmeniu bei įsitikinti, ar asmuo gali būti priskiriamas sąlytį turėjusiems asmenims. 
+9. Taisyklių 8.2 ir 8.3 papunkčiuose nurodytus asmenį identifikuojančius duomenis (vardas, pavardė), kontaktinius duomenis (telefono ryšio numeris, elektroninio pašto ar gyvenamosios vietos adresas) ir sąlyčiui nustatyti būtinas aplinkybes apie sąlytį turėjusius asmenis NVSC tvarko siekdamas identifikuoti įtariamą sąlytį turėjusį asmenį bei taikyti reikalingas infekcijų kontrolės priemones. Duomenys tvarkomi valstybės lygio ekstremaliosios situacijos dėl COVID-19 ligos (koronaviruso infekcijos) laikotarpiu. Taisyklių 8.2 ir 8.3 papunkčiuose nurodytai informacijai nepasitvirtinus, duomenys iš karto turi būti sunaikinami (toliau nebekaupiama).
+
+III skyrius
+Ligonio pareigos ir BŪTINOSIOS IZOLIAVIMO paskirtoje ASMENS sveikatos priežiūros įstaigoje SĄLYGOS
+
+10. Ligonis privalo laikytis šių izoliavimo paskirtoje asmens sveikatos priežiūros įstaigoje pareigų:
+10.1. nepalikti izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Draudžiama vykti visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+10.2. visą izoliavimo laiką nepriimti svečių (lankytojų);
+10.3. laikytis sveikatos priežiūros specialisto nurodymų;
+10.4. nesilankyti pastato bendrose patalpose (pvz., poilsio patalpose, koridoriuose ar pan.);
+10.5. vengti tiesioginio sąlyčio (tiesioginio fizinio kontakto, buvimo mažesniu nei 2 metrai atstumu ilgiau nei 15 min.) su kitais asmenimis. Perduodant maistą ar kitais atvejais, kai sąlytis neišvengiamas, reikia būti su medicinine kauke ir turi būti laikomasi bent 2 metrų atstumo, bendraujama trumpiau nei 15 min. (išskyrus atvejus, kai teikiamos sveikatos priežiūros paslaugos);
+10.6. kasdien matuotis kūno temperatūrą ir stebėti savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+10.7. pablogėjus sveikatos būklei ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), kreiptis į sveikatos priežiūros specialistą;
+10.8. suteikti reikalingą informaciją NVSC specialistui, atliekančiam COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką;
+10.9. laikytis asmens sveikatos priežiūros įstaigos nurodytų aplinkos ir asmens higienos reikalavimų.
+11. Asmens sveikatos priežiūros įstaigos, kuriose izoliuotas ligonis, privalo:
+11.1. užtikrinti, kad ligonis nepaliktų izoliavimo vietos be sveikatos priežiūros specialisto leidimo;
+11.2. užtikrinti, kad ligonis nevyktų visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+11.3. užtikrinti, kad ligonis visą izoliavimo laiką nepriimtų svečių (lankytojų);
+11.4. užtikrinti, kad ligonis laikytųsi sveikatos priežiūros specialisto nurodymų;
+11.5. užtikrinti, kad ligonis nesilankytų pastato bendrose patalpose (pvz., poilsio patalpose, koridoriuose ar pan.);
+11.6. užtikrinti, kad personalas vengtų tiesioginio sąlyčio (tiesioginio fizinio kontakto, buvimo mažesniu nei 2 metrai atstumu ilgiau nei 15 min.) su ligoniu, jei jam nereikia teikti sveikatos priežiūros paslaugų. Perduodant maistą ar kitais atvejais, kai sąlytis neišvengiamas, reikia būti su medicinine kauke ir turi būti laikomasi bent 2 metrų atstumo, bendraujama trumpiau nei 15 min.;
+11.7. sudaryti sąlygas, kad būtų užtikrintas šilto maisto, vaistinių preparatų, medicinos pagalbos priemonių ir kitų būtinų priemonių, kurios būtinos ligonio buvimui asmens sveikatos priežiūros įstaigoje, aprūpinimas;
+11.8. informuoti ligonius, kad jie kasdien matuotųsi kūno temperatūrą ir stebėtų savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+11.9. nustačius, kad pablogėjo ligonio sveikatos būklė ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), jei šie asmenys izoliuoti ne stacionarines asmens sveikatos priežiūros paslaugas teikiančiose įstaigose, informuoti Karštąją koronaviruso liniją telefono numeriu 1808 ar organizuoti ligonio pervežimą į COVID-19 ligoninę;
+11.10. nustatyti tvarką ir sudaryti sąlygas, kad ligonis laikytųsi aplinkos ir asmens higienos reikalavimų.
+
+IV skyrius
+Ligonio pareigos ir BŪTINOSIOS IZOLIAVIMO namuose ar kitoje gyvenamoJOje vietoje SĄLYGOS
+
+12. Ligonis privalo laikytis šių izoliavimo namuose ar kitoje gyvenamojoje vietoje pareigų:
+12.1. nepalikti izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Draudžiama vykti visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+12.2. visą izoliavimo laiką nepriimti svečių (lankytojų);
+12.3. laikytis sveikatos priežiūros specialisto nurodymų;
+12.4. maistu, vaistiniais preparatais ir kitomis būtinomis priemonėmis pasirūpinti nuotoliniu būdu arba paprašyti, kad tuo pasirūpintų kiti asmenys (pvz., šeimos nariai, draugai ar kt.), kuriems nėra taikomos izoliavimo priemonės, arba savivaldybės administracija;
+12.5. kasdien matuotis kūno temperatūrą ir stebėti savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+12.6. pablogėjus sveikatos būklei ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), turi kreiptis į Karštąją koronaviruso liniją numeriu 1808;
+12.7. suteikti reikalingą informaciją NVSC specialistui, atliekančiam COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką.
+13. Ligonio izoliavimo namuose ar kitose gyvenamosiose patalpose būtinosios sąlygos:
+13.1. ligonis turi būti izoliuotas atskirame bute / name arba gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu. Jei ligonis izoliuotas gerai izoliuotame individualaus buto / namo aukšte, jam draudžiama eiti į bendras patalpas (koridorių, virtuvę ir kt.), maistą ir kitas būtinas priemones prie ligonio izoliavimosi patalpos išorinių durų turi palikti kiti asmenys; 
+13.2. būtina užtikrinti aplinkos ir asmens higienos reikalavimų, nurodytų Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, sergančio COVID-19 liga (koronaviruso infekcija), atmintinėje (Taisyklių 2 priedas), laikymąsi;
+13.3. izoliavimo metu toje pačioje patalpoje kartu su ligoniu negali gyventi kiti sveiki asmenys. 
+
+V skyrius
+Asmens, įtariamo, kad serga, pareigos ir BŪTINOSIOS IZOLIAVIMO namuose ar kitoje gyvenamoJOje vietoje SĄLYGOS
+
+14. Asmuo, įtariamas, kad serga, privalo laikytis šių izoliavimo namuose ar kitoje gyvenamojoje vietoje pareigų:
+14.1. nepalikti izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Draudžiama vykti visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+14.2. visą izoliavimo laiką nepriimti svečių (lankytojų);
+14.3. laikytis sveikatos priežiūros specialisto nurodymų;
+14.4. maistu, vaistiniais preparatais ir kitomis būtinomis priemonėmis pasirūpinti nuotoliniu būdu arba paprašyti, kad tuo pasirūpintų kiti asmenys (pvz., šeimos nariai, draugai ar kt.), kuriems nėra taikomos izoliavimo priemonės, arba savivaldybės administracija;
+14.5. kasdien matuotis kūno temperatūrą ir stebėti savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+14.6. pablogėjus sveikatos būklei ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), turi kreiptis į Karštąją koronaviruso liniją numeriu 1808;
+14.7. suteikti reikalingą informaciją NVSC specialistui, atliekančiam COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką.
+15. Asmens, įtariamo, kad serga, izoliavimo namuose ar kitose gyvenamosiose patalpose būtinosios sąlygos:
+15.1. asmuo, įtariamas, kad serga, turi būti izoliuotas atskirame bute / name, gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu arba gerai vėdinamame kambaryje (t. y. su atidaromais  langais ir  sandariai uždaromomis durimis);
+15.2. būtina užtikrinti aplinkos ir asmens higienos reikalavimų, nurodytų Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, įtariamo, kad serga COVID-19 liga (koronaviruso infekcija), ir asmens, turėjusio sąlytį, atmintinė  (Taisyklių 3 priedas), laikymąsi;
+15.3. kartu su asmeniu, įtariamu, kad serga, gali gyventi tie šeimos nariai, kurie atsiradus ūmios kvėpavimo takų infekcijos požymiams gyveno kartu, tačiau sveikiems asmenims rekomenduojama gyventi kitame gerai vėdinamame kambaryje. 
+
+VI skyrius
+sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjusio ASMENS IR SĄLYTĮ TURĖJUSIO ASMENS, GRĮŽUSIO IŠ UŽSIENIO VALSTYBĖS, pareigos IR BŪTINOSIOS IZOLIAVIMO namuose ar kitoje gyvenamoJOje vietoje SĄLYGOS
+
+16. Sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjęs asmuo ir sąlytį turėjęs asmuo, grįžęs iš užsienio valstybės, kurio izoliavimo vieta namuose ar kitoje gyvenamojoje vietoje atitinka Taisyklių reikalavimus ir jis yra deklaravęs savo gyvenamąją vietą Lietuvos Respublikoje, privalo laikytis šių izoliavimo namuose ar kitoje gyvenamojoje vietoje pareigų:
+16.1. nepalikti izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Draudžiama vykti visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+16.2. visą izoliavimo laiką nepriimti svečių (lankytojų);
+16.3. laikytis sveikatos priežiūros specialisto nurodymų;
+16.4. maistu, vaistiniais preparatais ir kitomis būtinomis priemonėmis pasirūpinti nuotoliniu būdu arba paprašyti, kad tuo pasirūpintų kiti asmenys (pvz., šeimos nariai, draugai ar kt.), kuriems nėra taikomos izoliavimo priemonės, arba savivaldybės administracija;
+16.5. kasdien matuotis kūno temperatūrą ir stebėti savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+16.6. pablogėjus sveikatos būklei ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), turi kreiptis į Karštąją koronaviruso liniją numeriu 1808;
+16.7. suteikti reikalingą informaciją NVSC specialistui, atliekančiam COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką.
+17. Sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjusių asmenų ir sąlytį turėjusių asmenų, grįžusių iš užsienio valstybės, kurių izoliavimo vieta namuose ar kitoje gyvenamojoje vietoje atitinka Taisyklių reikalavimus ir jie yra deklaravę savo gyvenamąją vietą Lietuvos Respublikoje, izoliavimo namuose ar kitose gyvenamosiose patalpose būtinosios sąlygos:
+17.1. sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjęs asmuo, turi būti izoliuotas atskirame bute / name, gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu. Jei nėra galimybės užtikrintų šių sąlygų, sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjęs asmuo gali būti izoliuotas atskirame gerai vėdinamame kambaryje (t. y. su atidaromais langais ir sandariai uždaromomis durimis);
+17.2. sąlytį turėjęs asmuo, grįžęs iš užsienio, turi būti izoliuotas atskirame bute / name ar gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu. Kartu su sąlytį turėjusiais asmenimis, grįžusiais iš užsienio valstybės, izoliavimo metu negali gyventi kiti sveiki asmenys; 
+17.3. būtina užtikrinti aplinkos ir asmens higienos reikalavimų, nurodytų Namuose ar kitoje gyvenamojoje vietoje izoliuoto asmens, įtariamo, kad serga COVID-19 liga (koronaviruso infekcija), ir asmens, turėjusio sąlytį, atmintinė  (Taisyklių 3 priedas), laikymąsi.
+
+VII skyrius
+asmens, įtariamo, kad serga, ir sąlytį turėjusio asmens pareigos IR BŪTINOSIOS IZOLIAVIMO savivaldybės administracijos NUMATYTOSE patalpose SĄLYGOS
+
+18. Asmuo, įtariamas, kad serga, ar sąlytį turėjęs asmuo, kurių izoliavimo vieta namuose ar kitoje gyvenamojoje vietoje neatitinka Taisyklių reikalavimų ar jie nėra deklaravę savo gyvenamosios vietos Lietuvos Respublikoje, ar tokie asmenys išreiškė norą būti izoliuoti jų gyvenamosios savivaldybės numatytose izoliavimo patalpose, privalo laikytis šių izoliavimo savivaldybės administracijos numatytose patalpose pareigų:
+18.1. nepalikti izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Draudžiama vykti visuomeniniu transportu į izoliavimo vietą ar iš jos, kai reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas;
+18.2. visą izoliavimo laiką nepriimti svečių (lankytojų);
+18.3. laikytis sveikatos priežiūros specialisto nurodymų;
+18.4. nesilankyti pastato bendrose patalpose (pvz., poilsio patalpose, treniruoklių salėje ar pan.);
+18.5. vengti tiesioginio sąlyčio (tiesioginio fizinio kontakto, buvimo mažesniu nei 2 metrai atstumu ilgiau nei 15 min.) su kitais asmenimis. Perduodant maistą ar kitais atvejais, kai sąlytis neišvengiamas, rekomenduojama būti su medicinine kauke ir turi būti laikomasi bent 2 metrų atstumo, bendraujama trumpiau nei 15 min.;
+18.6. kasdien matuotis kūno temperatūrą ir stebėti savo sveikatos būklę dėl kosulio ir pasunkėjusio kvėpavimo simptomų pasireiškimo;
+18.7. pablogėjus sveikatos būklei ar atsiradus ūmios kvėpavimo takų infekcijos simptomams (staigiai prasidėjęs bent vienas iš šių simptomų: karščiavimas, kosulys, pasunkėjęs kvėpavimas), turi kreiptis į Karštąją koronaviruso liniją telefono numeriu 1808;
+18.8. suteikti reikalingą informaciją NVSC specialistui, atliekančiam COVID-19 ligos (koronaviruso infekcijos) židinio epidemiologinę diagnostiką;
+18.9. laikytis aplinkos ir asmens higienos reikalavimų, nurodytų Savivaldybės administracijos numatytose patalpose izoliuoto sąlytį turėjusio asmens, grįžusio iš užsienio valstybės, atmintinėje (Taisyklių 4 priedas);
+18.10. laikytis izoliavimo vietoje nustatytų vidaus tvarkos taisyklių.
+
+VIII skyrius
+LIGONIo, AsMENs, įtariamo, KAD SERGA, sąlytį turėjusio asmens atsakomybė
+
+19. Šių Taisyklių ir Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo reikalavimų pažeidimai padaromi tiek veikimu, tiek ir neveikimu. Veikimas yra tada, kai asmuo aktyviais veiksmais pažeidžia sveikatos apsaugos ar užkrečiamųjų ligų profilaktikos ir kontrolės reikalavimus, o neveikimas – kai asmuo, nors ir turi pareigą, nevykdo teisės aktų nustatytų reikalavimų, susijusių su sveikatos apsaugos ar užkrečiamųjų ligų profilaktikos kontrole.
+20. Nesilaikant šių Taisyklių reikalavimų, vadovaujantis Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 9 straipsniu, gali būti taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas. 
+21. Nesilaikant Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo reikalavimų dėl izoliavimo, asmeniui yra taikoma:
+21.1. administracinė atsakomybė – pagal Lietuvos Respublikos administracinių nusižengimų kodekso 45 straipsnį Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo pažeidimas užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų. Administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų, juridinių asmenų vadovams arba kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. Nurodytos veikos, sukėlusios pavojų išplisti pavojingoms ar ypač pavojingoms užkrečiamosioms ligoms, užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų;
+21.2. baudžiamoji atsakomybė – pagal Lietuvos Respublikos baudžiamojo kodekso 277 straipsnį, priklausomai nuo padarinių (Tas, kas pažeidė teisės aktų dėl sveikatos apsaugos reikalavimus ar užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito susirgimas ar kilo epidemija, baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų. Tas, kas būdamas medicinos įstaigos informuotas apie savo ligą ir įspėtas dėl apsaugos priemonių, kurių jis privalo laikytis bendraudamas su žmonėmis, sukėlė pavojų kitam asmeniui užsikrėsti pavojinga infekcine liga, padarė baudžiamąjį nusižengimą ir baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu).
+Susirgimo išplitimu laikytini tokie atvejai, kai dėl minėtų teisės aktų reikalavimų nesilaikymo užkrečiamosiomis ligomis suserga keli ar keliolika žmonių. Taip pat pagal padarinius gali būti taikoma baudžiamoji atsakomybė už nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso XVIII skyriuje „Nusikaltimai žmogaus sveikatai“;
+21.3. civilinė atsakomybė – turtinė prievolė, atsirandanti dėl žalos, kuri nesusijusi su sutartiniais santykiais. Kiekvienas asmuo turi pareigą laikytis tokio elgesio taisyklių, kad savo veiksmais (veikimu, neveikimu) nepadarytų kitam asmeniui žalos. Žalą, padarytą asmeniui, turtui, o įstatymų numatytais atvejais – ir neturtinę žalą, privalo visiškai atlyginti atsakingas asmuo. Jeigu fizinis asmuo suluošintas ar kitaip sužalota jo sveikata, tai už žalą atsakingas asmuo privalo nukentėjusiam asmeniui atlyginti visus šio patirtus nuostolius ir neturtinę žalą.
+22. Administracinių nusižengimų teiseną pradeda, administracinių nusižengimų tyrimą atlieka ir administracinių nusižengimų protokolus surašo NVSC, viešajai tvarkai užtikrinti gali būti pasitelkiama policija.
+23. Dėl baudžiamosios atsakomybės taikymo į teisėsaugos institucijas gali kreiptis kiekvienas suinteresuotas asmuo, turintis duomenų apie galimus šių taisyklių pažeidimus ir susirgimo išplėtimo atvejus, ginant savo ir viešąjį interesus.
+________________________
+
+
+Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių
+1 priedas
+
+(Asmens sutikimo būti izoliuotam forma)
+
+SUTIKIMAS BŪTI IZOLIUOTAM NAMUOSE AR KITOJE GYVENAMOJOJE VIETOJE / PASKIRTOJE ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGOJE / SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE
+
+(Pažymi sveikatos priežiūros specialistas prieš paduodamas formą asmeniui)
+Asmuo:
+Teisingą atsakymą pažymėti
+„X“
+serga COVID-19 liga (koronaviruso infekcija)
+
+
+įtariamas, kad serga COVID-19 liga (koronaviruso infekcija)
+
+turėjo sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) 
+
+grįžo iš užsienio valstybės*
+
+
+
+* žymima, kai asmuo, grįžęs iš užsienio valstybės (išskyrus išimtis, nurodytas Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ 3.1.5 papunktyje)   
+
+Esu informuotas, kad:
+1. Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo reikalavimų pažeidimai padaromi tiek veikimu, tiek ir neveikimu. Veikimas yra tada, kai asmuo aktyviais veiksmais pažeidžia sveikatos apsaugos ar užkrečiamųjų ligų profilaktikos kontrolės reikalavimus, o neveikimas – kai asmuo, nors ir turi pareigą, nevykdo teisės aktų nustatytų reikalavimų, susijusių su sveikatos apsaugos ar užkrečiamųjų ligų profilaktikos kontrole.
+2. Nesilaikant Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių, patvirtintų Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 (toliau – Taisyklės), reikalavimų, vadovaujantis Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 9 straipsniu, gali būti taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas. 
+3. Nesilaikant Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo reikalavimų dėl  izoliavimo, asmeniui yra taikoma:
+3.1. administracinė atsakomybė – pagal Lietuvos Respublikos administracinių nusižengimų kodekso 45 straipsnį Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo pažeidimas užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų. Administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki šešių šimtų eurų, juridinių asmenų vadovams arba kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. Nurodytos veikos, sukėlusios pavojų išplisti pavojingoms ar ypač pavojingoms užkrečiamosioms ligoms, užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų;
+3.2. baudžiamoji atsakomybė – pagal Lietuvos Respublikos baudžiamojo kodekso 277 straipsnį, priklausomai nuo padarinių (Tas, kas pažeidė teisės aktų dėl sveikatos apsaugos reikalavimus ar užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito susirgimas ar kilo epidemija, baudžiamas bauda arba areštu arba laisvės atėmimu iki trejų metų. Tas, kas būdamas medicinos įstaigos informuotas apie savo ligą ir įspėtas dėl apsaugos priemonių, kurių jis privalo laikytis bendraudamas su žmonėmis, sukėlė pavojų kitam asmeniui užsikrėsti pavojinga infekcine liga, padarė baudžiamąjį nusižengimą ir baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu).
+Susirgimo išplitimu laikytini tokie atvejai, kai dėl minėtų teisės aktų reikalavimų nesilaikymo užkrečiamosiomis ligomis suserga keli ar keliolika žmonių. Taip pat pagal padarinius gali būti taikoma baudžiamoji atsakomybė už nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso XVIII skyriuje „Nusikaltimai žmogaus sveikatai“;
+3.3. civilinė atsakomybė – turtinė prievolė, atsirandanti dėl žalos, kuri nesusijusi su sutartiniais santykiais. Kiekvienas asmuo turi pareigą laikytis tokio elgesio taisyklių, kad savo veiksmais (veikimu, neveikimu) nepadarytų kitam asmeniui žalos. Žalą, padarytą asmeniui, turtui, o įstatymų numatytais atvejais – ir neturtinę žalą, privalo visiškai atlyginti atsakingas asmuo. Jeigu fizinis asmuo suluošintas ar kitaip sužalota jo sveikata, tai už žalą atsakingas asmuo privalo nukentėjusiam asmeniui atlyginti visus šio patirtus nuostolius ir neturtinę žalą;
+3.4. administracinių nusižengimų teiseną pradeda, administracinių nusižengimų tyrimą atlieka ir administracinių nusižengimų protokolus surašo Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos ar kitos įgaliotos institucijos, viešajai tvarkai užtikrinti gali būti pasitelkiama policija;
+3.5. dėl baudžiamosios atsakomybės taikymo į teisėsaugos institucijas, gindamas savo ir viešąjį interesus, gali kreiptis kiekvienas suinteresuotas asmuo, turintis duomenų apie galimus šių taisyklių pažeidimus ir susirgimo išplitimo atvejus.
+
+Aš, ________________________________________________________________________,
+(įrašyti vardą ir pavardę)
+patvirtinu, kad perskaičiau ir supratau pateiktą informaciją, turėjau galimybę užduoti klausimų, gavau suprantamus atsakymus į visus užduotus klausimus, 
+
+esu deklaravęs gyvenamąją vietą Lietuvos Respublikoje: _______________ (įrašyti „Taip“/ „Ne“), 
+sutinku būti izoliuotas 14 dienų:
+Galimos izoliavimo vietos (pasirinkti tinkamą, įrašant izoliavimo vietos adresą):
+Namai ar kita gyvenamoji vieta
+
+Paskirtoji asmens sveikatos priežiūros įstaiga
+
+Savivaldybės administracijos numatytos patalpos
+
+
+mano namai ar kita gyvenamoji vieta, kurioje būsiu izoliuotas, atitinka Taisyklių reikalavimus: ______________ (įrašyti „Taip“/ „Ne“).**
+(**žymima, kai asmuo pasirenka izoliacijai savo namus ar kitą gyvenamąją vietą)
+Aš esu informuotas (-a), kad:
+1.	Kompetentingos asmens sveikatos priežiūros įstaigos, visuomenės sveikatos priežiūros įstaigos, savivaldybių administracijos, Lietuvos Respublikos sveikatos apsaugos ministerija ir kitos institucijos (toliau – kompetentingos institucijos) epidemijos metu gaus ir tvarkys šiame sutikime nurodytus mano asmens duomenis.
+2. Mano asmens duomenys bus tvarkomi žmonių užkrečiamųjų ligų profilaktikos ir kontrolės valdymo tikslu.
+3. Su išvardytais asmens duomenimis bus atliekami šie tvarkymo veiksmai: duomenų rinkimas, stebėjimas, vertinimas ir analizavimas.
+4. Asmens duomenys bus gaunami iš manęs, valstybės registrų ar informacinės sistemų, fizinių ar juridinių asmenų.
+5. Asmens duomenys gali būti perduoti teismui, teisėsaugos įstaigoms ar valstybės institucijoms tiek, kiek tokį teikimą nustato teisės aktų reikalavimai.
+6. Kompetentingos institucijos mano asmens duomenis tvarkys teisėtai, sąžiningai ir skaidriai, laikydamasi teisės aktų nustatytų reikalavimų, tik šiame sutikime nurodytais tikslais.
+7. Duomenų tvarkymo teisinis pagrindas – Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas.
+8. Asmens duomenys, surinkti šio sutikimo pagrindu, saugomi iki izoliavimo ir (ar) būtinojo hospitalizavimo, ir (ar) būtinojo izoliavimo termino pabaigos, bet ne ilgiau kaip 24 mėn.
+Šis terminas gali būti pratęstas, jei asmens duomenys yra naudojami arba gali būti naudojami kaip įrodymai ar informacijos šaltinis ikiteisminiame ar kitokiame tyrime, civilinėje, administracinėje ar baudžiamojoje byloje arba kitais įstatymų nustatytais atvejais. Tokiu atveju asmens duomenys gali būti saugomi tiek, kiek reikalinga šiems duomenų tvarkymo tikslams, ir sunaikinami nedelsiant, kai tampa nebereikalingi.
+Žinau, kad turiu šias teises: teisę prašyti, kad būtų leista susipažinti su duomenimis ir juos ištaisyti arba ištrinti, teisę apriboti duomenų tvarkymą, teisę nesutikti, kad duomenys būtų tvarkomi, taip pat teisę į duomenų perkeliamumą. Šias teises galiu įgyvendinti teisės aktų nustatyta tvarka.
+
+Įsipareigoju laikytis Taisyklių reikalavimų.
+Asmens kodas: _____________________________________;
+Telefono numeris kontaktams: ___________________________________;
+Adresas korespondencijai: ___________________________________________________________;
+
+______________________________                ______________________      _______________
+(vardas, pavardė)                                                      (parašas)		       (data)
+_________________________
+
+
+Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių
+2 priedas
+
+NAMUOSE AR KITOJE GYVENAMOJOJE VIETOJE IZOLIUOTO ASMENS, SERGANČIO COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), ATMINTINĖ
+
+Informuojame, jog:
+Jūs sergate COVID-19 liga (koronaviruso infekcija). Griežtai laikydamiesi šioje atmintinėje nurodytų ligonio izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių, Jūs galite toliau gydytis ambulatorinėmis sąlygomis
+
+Kas yra koronavirusas?
+Koronavirusai — tai didelė grupė virusų, kurie gali sukelti įvairias kvėpavimo takų ligas. Dažniausiai koronavirusai sukelia lengvas ar net besimptomes infekcijas, tačiau gali sukelti ir sunkesnes ligas. 
+
+Kaip perduodama ši infekcija?
+Žinoma, kad COVID-19 liga (koronaviruso infekcija) gali būti perduodama žmogaus žmogui, dažniausiai artimo sąlyčio su sergančiuoju ar infekuotuoju koronavirusine infekcija metu (pvz., namų ar darbo aplinkoje, gydymo įstaigoje). 
+Taip pat virusas gali būti perduodamas per kvėpavimo takų sekreto lašelius, kai asmuo kosėja, čiaudi. Yra duomenų, jog virusas gali būti perduodamas ir oraliniu-fekaliniu keliu (pvz., per nešvarias rankas). 
+
+Kodėl reikalingas izoliavimas namuose ar kitoje gyvenamojoje vietoje?
+Pagrindinis izoliavimo namuose ar kitoje gyvenamojoje vietoje tikslas – užkirsti kelią infekcijos plitimui ir naujų atvejų atsiradimui. Kol nėra efektyvių vakcinų ir vaistų, sergančių asmenų izoliavimas ir visuotinai taikomos higienos priemonės yra svarbiausi šios infekcijos kontrolės būdai. 
+
+Kiek tai gali užtrukti?
+Viruso išskyrimo laikotarpis gali užtrukti iki kelių savaičių. Izoliavimo namuose ar kitoje gyvenamojoje vietoje metu su Jumis kontaktuos pirminės ambulatorinės asmens sveikatos priežiūros šeimos medicinos paslaugas teikiančios įstaigos paskirtas koordinatorius ir (ar) Jūsų šeimos gydytojas. Jums bus atliekami tyrimai, kuriais bus tikrinama, ar Jūsų kvėpavimo takuose vis dar yra viruso dalelių. Kai laboratoriniais tyrimais bus patvirtinta, kad viruso dalelių nebėra, galėsite pabaigti izoliavimąsi namuose ar kitoje gyvenamojoje vietoje ir grįžti į įprastą gyvenimą.
+
+izoliavimo namuose ar kitoje gyvenamojoje vietoje PRINCIPAI
+
+●	Nepalikite izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Į izoliavimo vietą ar iš jos, jei reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas, draudžiama vykti visuomeniniu transportu.
+●	Palaikykite reguliarų ryšį su sveikatos priežiūros specialistu, kuris šiuo metu rūpinasi Jumis. 
+●	Visą izoliavimo laiką nepriimkite svečių / lankytojų.
+●	Maistu ir kitomis būtinomis priemonėmis pasirūpinkite nuotoliniu būdu – paprašykite draugų arba giminaičių ar kreipkitės į būtinų priemonių ar maisto produktų pristatymo paslaugas teikiančias įmones, nesant tokios galimybės, šias paslaugas turėtų suteikti savivaldybės administracija.
+●	Jeigu reikia pratęsti vaistų receptą, kreipkitės į savo šeimos gydytoją nuotoliniu būdu.
+●	Jei buvote suplanavęs vizitus pas gydytojus specialistus, odontologą, pakeiskite vizito datą į vėlesnę.
+●	Kasdien matuokitės kūno temperatūrą ir stebėkite savo būklę dėl pasunkėjusio kvėpavimo*. Pablogėjus sveikatos būklei, kreipkitės į Karštąją koronaviruso liniją telefono numeriu 1808.
+* Dažnai dusulys būna psichologinės kilmės. Svarbu įvertinti, ar esant ramybės būsenos išlieka padažnėjęs kvėpavimas (daugiau nei 20 k/min) ar oro trūkumo pojūtis.
+
+izoliavimo namuose ar kitoje gyvenamojoje vietoje sąlygos
+
+Būtinosios izoliavimo namuose ar kitose gyvenamosiose patalpose sąlygos:
+	Izoliavimo metu kartu negali gyventi kiti asmenys (šeimos nariai ir pan.). Jūs turite būti izoliuotas atskirame bute / name arba gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu.  
+	Jei sergate ir esate izoliuotas gerai izoliuotame individualaus buto / namo aukšte, Jums draudžiama eiti į bendras patalpas (koridorių, virtuvę ir kt.), maistą ir kitas būtinas priemones prie Jūsų izoliavimo patalpos išorinių durų turi palikti kiti asmenys.
+
+Būtina užtikrinti šiuos aplinkos ir asmens higienos reikalavimus:
+1.	Buitines atliekas meskite į atskirą (žymėtą) šiukšliadėžę, į kurią įdėtas skysčiams nepralaidus maišas.
+2.	Drabužius skalbkite įprastinėmis skalbimo priemonėmis 60–90 °C temperatūroje.
+3.	Indus plaukite karštu vandeniu ir įprastiniais plovikliais arba naudokitės indaplove.
+4.	Dažnai liečiamus paviršius dezinfekuokite alkoholiniu dezinfektantu, kurio koncentracija yra ne mažesnė kaip 70 proc., arba buitiniu balikliu, kuriame chloro koncentracija yra 0,5 proc.
+5.	Dažnai plaukite rankas su muilu ir vandeniu. Nesant galimybės nusiplauti rankų, gali būti naudojamos alkoholinės rankų dezinfekavimo priemonės (rankų alkoholiniai antiseptikai). Rankas būtina plauti prieš ir po maisto ruošos, prieš valgant, pasinaudojus tualetu ir kai rankos yra akivaizdžiai  nešvarios. 
+6.	Nusiplovę rankas su muilu ir vandeniu, jas nusausinkite vienkartiniais popieriniais rankšluosčiais.
+7.	Siekiant sulaikyti kvėpavimo takų išskyras, rekomenduojama apsirūpinti medicininėmis kaukėmis. Jas reikėtų dėvėti kiek įmanoma dažniau, ypač jei tenka bendrauti su kitais asmenimis (pasiimant maistą, atvykus sveikatos priežiūros specialistui ar pan.). Jei negalite toleruoti medicininės kaukės, turite laikytis kosėjimo-čiaudėjimo etiketo – užsidengti savo burną ir nosį servetėle, kai kosėjate ar čiaudite, ir išmesti panaudotą servetėlę į šiukšliadėžę. Jei servetėlės neturite, tai kosėdami ar čiaudėdami uždenkite burną alkūne, o ne delnu. 
+8.	Ne mažiau kaip 2–3 kartus per dieną vėdinkite patalpas (10 min. plačiai atverkite langus arba keletą minučių patalpose padarykite skersvėjį. Taip vėdinant patalpas jose neturi būti žmonių).
+9.	Naudokite atskirą patalynę, valgymo įrankius ir kt. Juos plaukite muilu ir vandeniu.  
+10.	Kasdien valykite ir dezinfekuokite dažnai naudojamus paviršius kambaryje, pvz., naktinius stalelius, lovų rėmus ir kitus miegamojo baldus. Pirmiausia valymui turi būti naudojamas įprastas muilas ar ploviklis. Po valymo atliekama dezinfekcija, pvz., naudojant buitinį baliklį, kuriame chloro koncentracija yra 0,5 proc. (skiedžiama 1 : 50 santykiu), arba alkoholio pagrindu pagamintą dezinfekcinį skystį.
+11.	Valykite ir dezinfekuokite vonios kambario ir tualeto paviršius mažiausiai kartą per dieną.
+12.	Pasibaigus izoliavimui, svarbu pirmiau nurodytais būdais pasirūpinti izoliavimo namų ar kitos gyvenamosios vietos dezinfekcija, prieš juose apsigyvenant kitiems asmenims. Izoliavimo namuose ar kitoje gyvenamojoje vietoje reikia vengti kilimų, minkštų baldų ir kitų daiktų minkštu porėtu paviršiumi, kuriuos sunku dezinfekuoti.
+______________________
+
+
+Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių
+3 priedas
+
+NAMUOSE AR KITOJE GYVENAMOJOJE VIETOJE IZOLIUOTO ASMENS, ĮTARIAMO, KAD SERGA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IR ASMENS, TURĖJUSIO SĄLYTĮ, ATMINTINĖ
+
+Informuojame, jog:
+yra įtariama, kad Jūs sergate COVID-19 liga (koronaviruso infekcija). Griežtai laikydamiesi šioje atmintinėje nurodytų ligonio ar asmens, įtariamo, kad serga, izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių, Jūs galite toliau gydytis ambulatorinėmis sąlygomis.
+ Jūs 14 d. laikotarpiu turėjote sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) ar buvote užsienio valstybėje (turėjote sąlytį su COVID-19 ligos (koronaviruso infekcijos) sukėlėjus perduodančiais veiksniais). Siekdamas užkirsti kelią galimam infekcijos plitimui, Jūs turite likti namuose (izoliuotis) 14 d. po paskutinės sąlyčio dienos ar paskutinės grįžimo į Lietuvos Respubliką dienos, griežtai laikytis šioje atmintinėje nurodytų izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių ir būti pasiekiamas visą izoliavimo laikotarpį telefonu ir el. paštu. 
+
+Kas yra koronavirusas?
+Koronavirusai — tai didelė grupė virusų, kurie gali sukelti įvairias kvėpavimo takų ligas. Dažniausiai koronavirusai sukelia lengvas ar net besimptomes infekcijas, tačiau gali sukelti ir sunkesnes ligas. 
+
+Kaip perduodama ši infekcija?
+Žinoma, kad COVID-19 liga (koronaviruso infekcija) gali būti perduodama žmogaus žmogui, dažniausiai artimo sąlyčio su sergančiuoju ar infekuotuoju koronavirusine infekcija metu (pvz., namų ar darbo aplinkoje, gydymo įstaigoje). 
+Taip pat virusas gali būti perduodamas per kvėpavimo takų sekreto lašelius, kai asmuo kosėja, čiaudi. Yra duomenų, jog virusas gali būti perduodamas ir oraliniu-fekaliniu keliu (pvz., per nešvarias rankas). 
+
+Kodėl reikalingas izoliavimas namuose ar kitoje gyvenamojoje vietoje?
+Pagrindinis izoliavimo namuose ar kitoje gyvenamojoje vietoje tikslas – užkirsti kelią infekcijos plitimui ir naujų atvejų atsiradimui. Kol nėra efektyvių vakcinų ir vaistų, sergančių asmenų izoliavimas ir visuotinai taikomos higienos priemonės yra svarbiausi šios infekcijos kontrolės būdai. Nors žmonės dažniausiai būna užkrečiami, kai pasireiškia simptomai, įtariama, kad kai kurie žmonės gali perduoti virusą dar iki simptomų atsiradimo, todėl siekiant užkirsti kelią ligos plitimui, svarbus ir sąlytį su sergančiaisiais COVID-19 liga (koronaviruso infekcija) turėjusio asmens izoliavimas.
+
+Jei Jūs esate įtariamas, kad sergate COVID-19 liga (koronaviruso infekcija), kiek gali užtrukti Jūsų izoliavimas?
+Jeigu Jums laboratoriniais tyrimais bus patvirtinta COVID-19 liga (koronaviruso infekcija), atsižvelgiant į Jūsų sveikatos būklę Jūs būsite hospitalizuotas ar izoliuotas namuose ir Jums bus suteikta visa reikalinga informacija. Jeigu Jūsų laboratorinis tyrimas bus neigiamas, jūs turite tęsti izoliavimą tol, kol nurodys Jūsų šeimos gydytojas.
+
+Jei turėjote sąlytį, ar tai reiškia, kad esate užsikrėtęs? 
+Tai nereiškia, kad esate užsikrėtęs, tačiau šios tikimybės atmesti negalima. Kiekvienai užkrečiamajai ligai yra būdingas tam tikras inkubacinis periodas, t. y. laikotarpis nuo infekcinės ligos sukėlėjo patekimo į organizmą pradžios iki ligos simptomų atsiradimo. Dabartiniais duomenimis, COVID-19 ligos (koronaviruso infekcijos) inkubacinio periodo trukmė gali būti iki 14 d. Todėl, siekiant laiku suteikti kvalifikuotą pagalbą ir taikyti tinkamas infekcijos kontrolės priemones, sąlytį turėjusiems asmenims, grįžusiems iš užsienio valstybės, taikomas izoliavimas ir sveikatos stebėjimas 14 dienų nuo grįžimo į Lietuvos Respubliką dienos. 
+
+Kokie simptomai susirgus? 
+COVID-19 ligos (koronaviruso infekcijos) klinikiniai požymiai: 
+Karščiavimas
+Kosulys
+Pasunkėjęs kvėpavimas 
+
+Jei turėjote sąlytį su sergančiuoju COVID-19 liga (koronaviruso infewkcija) arba grįžote iš užsienio valstybės ir izoliavimo laikotarpiu pasireiškė bent vienas iš šių požymių, nedelsdami skambinkite į Karštąją koronaviruso liniją telefono numeriu 1808, pateikite susirgimo aplinkybes (būtina nurodyti, kad 14 dienų laikotarpiu buvote užsienyje) ir vykdykite medikų rekomendacijas.
+
+Kaip elgtis praėjus 14 d. laikotarpiui? 
+Jei per 14 d. nuo paskutinės sąlyčio / grįžimo į Lietuvą dienos neatsiranda simptomų, Jūs nebelaikomas turinčiu susirgimo riziką ir galite grįžti į įprastą gyvenimo režimą.
+
+
+izoliavimo namuose ar kitoje gyvenamojoje vietoje PRINCIPAI
+
+●	Nepalikite izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Į izoliavimo vietą ar iš jos, jei reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas, draudžiama vykti visuomeniniu transportu.
+●	Palaikykite reguliarų ryšį su sveikatos priežiūros specialistu, kuris šiuo metu rūpinasi Jumis. 
+●	Visą izoliavimo laiką nepriimkite svečių / lankytojų.
+●	Maistu ir kitomis būtinomis priemonėmis pasirūpinkite nuotoliniu būdu – paprašykite draugų arba giminaičių ar kreipkitės į būtinų priemonių ar maisto produktų pristatymo paslaugas teikiančias įmones, nesant tokios galimybės, šias paslaugas turėtų suteikti savivaldybės administracija.
+●	Jeigu reikia pratęsti vaistų receptą, kreipkitės į savo šeimos gydytoją nuotoliniu būdu.
+●	Jei buvote suplanavęs vizitus pas gydytojus specialistus, odontologą, pakeiskite vizito datą į vėlesnę.
+●	Kasdien matuokitės kūno temperatūrą ir stebėkite savo būklę dėl pasunkėjusio kvėpavimo*. Pablogėjus sveikatos būklei, kreipkitės į Karštąją koronaviruso liniją telefono numeriu 1808.
+* Dažnai dusulys būna psichologinės kilmės. Svarbu įvertinti, ar esant ramybės būsenos išlieka padažnėjęs kvėpavimas (daugiau nei 20 k/min) ar oro trūkumo pojūtis.
+
+
+
+izoliavimo namuose ar kitoje gyvenamojoje vietoje sąlygos
+
+Būtinosios izoliavimo namuose ar kitose gyvenamosiose patalpose sąlygos:
+	 asmuo, įtariamas, kad serga, turi būti izoliuotas atskirame bute / name, gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu arba gerai vėdinamame kambaryje (t. y. su atidaromais langais ir sandariai uždaromomis durimis). Kartu gali gyventi tie šeimos nariai, kurie atsiradus ūmios kvėpavimo takų infekcijos požymiams jau gyveno kartu, tačiau sveikiems asmenims rekomenduojama gyventi kitame gerai vėdinamame kambaryje;
+	sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjęs asmuo, turi būti izoliuotas atskirame bute / name, gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu. Jei nėra galimybės užtikrintų šių sąlygų, sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija) turėjęs asmuo gali būti izoliuotas atskirame gerai vėdinamame kambaryje (t. y. su atidaromais langais ir sandariai uždaromomis durimis);
+	 sąlytį turėjęs asmuo, grįžęs iš užsienio, turi būti izoliuotas atskirame bute / name ar gerai izoliuotame kitame individualaus buto / namo aukšte su atskiru sanitariniu mazgu. Izoliavimo metu kartu negali gyventi kiti sveiki asmenys; 
+	jei kartu gyvena kiti asmenys, apribokite judėjimą namuose ir sumažinkite dalijimąsi bendra erdve. Įsitikinkite, kad bendros erdvės (pvz., virtuvė, koridorius ir kt. bendros patalpos) yra gerai vėdinamos (pvz., reguliariai atidarykite langus ir išvėdinkite patalpas).
+
+Būtina užtikrinti šiuos aplinkos ir asmens higienos reikalavimus:
+1.	Buitines atliekas meskite į šiukšliadėžę, į kurią įdėtas skysčiams nepralaidus maišas.
+2.	Drabužius skalbkite įprastinėmis skalbimo priemonėmis 60–90 °C temperatūroje.
+3.	Indus plaukite karštu vandeniu ir įprastiniais plovikliais arba naudokitės indaplove.
+4.	Dažnai plaukite rankas su muilu ir vandeniu. Nesant galimybės nusiplauti rankų, gali būti naudojamos alkoholinės rankų dezinfekavimo priemonės. Rankas būtina plauti prieš ir po maisto ruošos, prieš valgant, pasinaudojus tualetu ir kai rankos yra akivaizdžiai  nešvarios. 
+5.	Nusiplovę rankas su muilu ir vandeniu, jas nusausinkite vienkartiniais popieriniais rankšluosčiais.
+6.	Jeigu Jums įtariama COVID-19 liga (koronaviruso infekcija), siekiant sulaikyti kvėpavimo takų išskyras, rekomenduojama apsirūpinti medicininėmis kaukėmis. Jas reikėtų dėvėti kiek įmanoma dažniau, ypač jei tenka bendrauti su kitais asmenimis (pasiimant maistą, atvykus sveikatos priežiūros specialistui ar pan.). Jei negalite toleruoti medicininės kaukės, turite laikytis kosėjimo-čiaudėjimo etiketo – užsidengti savo burną ir nosį servetėle, kai kosėjate ar čiaudite, ir išmesti panaudotą servetėlę į šiukšliadėžę. Jei servetėlės neturite, tai kosėdami ar čiaudėdami uždenkite burną alkūne, o ne delnu. 
+7.	Jei esate sąlytį su sergančiuoju turėjęs asmuo ar grįžote iš užsienio valstybės, nėra būtinybės patalpose dėvėti medicininės kaukės, jei nejaučiate ligos simptomų. Medicininę kaukę užsidėkite tuo atveju, jei pasireiškė kvėpavimo takų infekcijos simptomai, pvz., kosulys, čiaudulys, ir jūs turite vykti greitosios medicinos pagalbos automobiliu į ligoninę. 
+8.	Ne mažiau kaip 2–3 kartus per dieną vėdinkite patalpas (10 min. plačiai atverkite langus arba keletą minučių patalpose padarykite skersvėjį. Taip vėdinant patalpas jose neturi būti žmonių).
+9.	Naudokite atskirą patalynę, valgymo įrankius ir kt. Juos plaukite muilu ir vandeniu.  
+10.	Kasdien valykite ir dezinfekuokite dažnai naudojamus paviršius kambaryje, pvz., naktinius stalelius, lovų rėmus ir kitus miegamojo baldus. Valykite įprastu muilu ar valikliais.
+11.	Valykite ir dezinfekuokite vonios kambario ir tualeto paviršius mažiausiai kartą per dieną.
+______________________
+
+
+Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių
+4 priedas
+
+SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE IZOLIUOTO SĄLYTĮ TURĖJUSIO ASMENS, GRĮŽUSIO IŠ UŽSIENIO VALSTYBĖS, ATMINTINĖ
+
+Kadangi Jūs 14 d. laikotarpiu buvote užsienio valstybėje (turėjote sąlytį su COVID-19 ligos (koronaviruso infekcijos) sukėlėjus perduodančiais veiksniais), siekiant užkirsti kelią galimam COVID-19 ligos (koronaviruso infekcijos) plitimui, Jūs būsite izoliuotas savivaldybės administracijos numatytose patalpose 14 d. po grįžimo į Lietuvos Respubliką dienos. Šiuo laikotarpiu Jūs turite griežtai laikytis šioje atmintinėje nurodytų izoliavimo taisyklių ir būti pasiekiamas visą izoliavimo laikotarpį telefonu ir el. paštu. 
+
+Kas yra koronavirusas?
+Koronavirusai – didelė grupė virusų, kurie gali sukelti įvairias kvėpavimo takų ligas. Dažniausiai koronavirusai sukelia lengvas ar net besimptomes infekcijas, tačiau gali sukelti ir sunkesnes ligas. 
+
+Kaip perduodama ši infekcija?
+Žinoma, kad COVID-19 liga (koronaviruso infekcija) gali būti perduodama žmogaus žmogui, dažniausiai sąlyčio su sergančiuoju ar infekuotuoju COVID-19 liga (koronaviruso infekcija) metu, (pvz., namų ar darbo aplinkoje, gydymo įstaigoje). Žinoma, kad virusas gali būti perduodamas per kvėpavimo takų sekreto lašelius, kai asmuo kosėja, čiaudi. Yra duomenų, jog virusas gali būti perduodamas ir oraliniu-fekaliniu keliu (pvz., per nešvarias rankas). 
+
+Kodėl reikalingas izoliavimas namuose ar kitoje gyvenamojoje vietoje?
+Pagrindinis izoliavimo tikslas – užkirsti kelią infekcijos plitimui ir naujų atvejų atsiradimui. Kol nėra efektyvių vakcinų ir vaistų, sergančių asmenų izoliavimas ir visuotinai taikomos higienos priemonės yra svarbiausi šios infekcijos kontrolės būdai. Nors žmonės dažniausiai būna užkrečiami, kai pasireiškia simptomai, įtariama, kad kai kurie žmonės gali perduoti virusą dar iki simptomų atsiradimo, todėl siekiant užkirsti kelią ligos plitimui, svarbus ir sąlytį su sergančiaisiais COVID-19 liga (koronaviruso infekcija) turėjusio asmens izoliavimas.
+
+Ar tai reiškia, kad esate užsikrėtęs? 
+Tai nereiškia, kad esate užsikrėtęs, tačiau šios tikimybės atmesti negalima. Kiekvienai užkrečiamajai ligai yra būdingas tam tikras inkubacinis periodas, t. y. laikotarpis nuo infekcinės ligos sukėlėjo patekimo į organizmą pradžios iki ligos simptomų atsiradimo. Dabartiniais duomenimis, COVID-19 ligos (koronaviruso infekcijos) inkubacinio periodo trukmė gali būti iki 14 d. Todėl, siekiant laiku suteikti kvalifikuotą pagalbą ir taikyti tinkamas infekcijos kontrolės priemones, sąlytį turėjusiems asmenims, grįžusiems iš užsienio valstybės, taikomas izoliavimas ir sveikatos stebėjimas 14 dienų nuo grįžimo į Lietuvos Respubliką dienos. 
+
+Kokie simptomai susirgus? 
+COVID-19 ligos (koronaviruso infekcijos) klinikiniai požymiai: 
+Karščiavimas
+Kosulys
+Pasunkėjęs kvėpavimas 
+Jei bent vienas iš šių požymių pasireiškė per 14 dienų, nedelsdami skambinkite į Karštąją koronaviruso liniją telefono numeriu 1808, pateikite susirgimo aplinkybes (būtina nurodyti, kad 14 dienų laikotarpiu buvote užsienyje) ir vykdykite medikų rekomendacijas.
+
+Kaip elgtis praėjus 14 d. laikotarpiui? 
+Jei per 14 d. nuo paskutinės sąlyčio / grįžimo į Lietuvą dienos neatsiranda simptomų, Jūs nebelaikomas turinčiu susirgimo riziką ir galite grįžti į įprastą gyvenimo režimą.
+
+izoliavimo PRINCIPAI
+
+●	Nepalikite izoliavimo vietos be sveikatos priežiūros specialisto leidimo. Į izoliavimo vietą ar iš jos, jei reikalinga atlikti tyrimus ar kitais atvejais, kai gautas sveikatos priežiūros specialisto leidimas, draudžiama vykti visuomeniniu transportu.
+●	Visą izoliavimo laiką nepriimkite svečių / lankytojų.
+●	Nesilankykite pastato bendrose patalpose, pvz., poilsio patalpose, treniruoklių salėje ar pan. 
+●	Venkite tiesioginio sąlyčio (tiesioginio fizinio kontakto, buvimo mažesniu nei 2 metrai atstumu ilgiau nei 15 min.) su kitais asmenimis. Perduodant maistą ar kitais atvejais, kai sąlytis neišvengiamas, rekomenduojama būti su medicinine kauke ir turi būti laikomasi bent 2 metrų atstumo, bendraujama trumpiau nei 15 min.
+●	Maistu ir kitomis būtinomis priemonėmis jus aprūpins savivaldybės administracija.
+●	Laikykitės sveikatos priežiūros specialisto nurodymų ir patalpų, kuriose esate izoliuotas, nustatytų vidaus tvarkos taisyklių.
+●	Jeigu reikia pratęsti vaistų receptą, kreipkitės į savo šeimos gydytoją nuotoliniu būdu.
+●	Kasdien matuokitės kūno temperatūrą ir stebėkite savo sveikatą, praneškite Jums skambinančiam visuomenės sveikatos specialistui apie atsiradusius sveikatos pokyčius (atsiradus kosuliui, dusuliui, apsunkintam kvėpavimui*). Atsiradus ūmios kvėpavimo takų infekcijos simptomams, kreipkitės į Karštąją koronaviruso liniją telefono numeriu 1808.
+
+izoliavimo sąlygos
+
+Būtina užtikrinti šiuos aplinkos ir asmens higienos reikalavimus:
+1.	Nėra būtinybės patalpose dėvėti medicininės kaukės, jei nejaučiate ligos simptomų. Medicininę kaukę užsidėkite tuo atveju, jei pasireiškė kvėpavimo takų infekcijos simptomai, pvz., kosulys, čiaudulys, ir jūs turite vykti greitosios medicinos pagalbos automobiliu į ligoninę. 
+2.	Plaukite rankas su muilu ir vandeniu. Nesant galimybės rankų nusiplauti, gali būti naudojamos alkoholinės rankų dezinfekavimo priemonės (rankų alkoholiniai antiseptikai). Rankas būtina plauti prieš maisto ruošą ir po jos, prieš valgant, pasinaudojus tualetu ir kai rankos yra akivaizdžiai nešvarios.
+3.	Laikykitės kosėjimo-čiaudėjimo etiketo – užsidenkite burną ir nosį servetėle, kai kosėjate ar čiaudite, ir išmeskite panaudotą servetėlę į šiukšliadėžę. Jei servetėlės neturite, tai kosėdami ar čiaudėdami uždenkite burną alkūne, o ne delnu. 
+4.	Ne mažiau, kaip 2–3 kartus per dieną vėdinkite patalpas (10 min. plačiai atverkite langus arba keletą minučių padarykite patalpose skersvėjį). 
+5.	Kasdien valykite dažnai naudojamus paviršius kambaryje, kuriame esate izoliuotas, pvz., naktinius stalelius, lovų rėmus ir kitus miegamojo baldus. Valykite įprastu muilu ar įprastiniais valikliais.
+6.	Indus plaukite karštu vandeniu ir įprastiniais plovikliais arba naudokitės indaplove.
+________________________

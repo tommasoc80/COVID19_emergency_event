@@ -1,0 +1,115 @@
+The Minister for Health, in exercise of the powers conferred on him by section 42 of the Public Service Pay and Pensions Act 2017 (No. 34 of 2017), being satisfied that subsection (6) of that section has been complied with; having complied with subsection (9) of that section; having had regard to the matters specified in paragraphs (a) to (e) of subsection (10) of that section, with the consent of the Minister for Public Expenditure and Reform, hereby makes the following regulations:
+
+1. These Regulations may be cited as the Public Service Pay and Pensions Act 2017 (Section 42) (Payments in Respect of Certain Services Rendered in Response to the Risk to Public Health Posed by Covid-19) Regulations 2020.
+
+2. In these Regulations -
+
+“Agreement of 2020” means the agreement dated the 19th day of March 2020 between the Minister for Health, the Health Service Executive and the Irish Medical Organisation in respect of the provision of services in response to the risk to human life and public health posed by the spread of Covid-19;
+
+“Covid-19” means a disease caused by infection with the virus SARS-CoV-2 and specified as an infectious disease in accordance with Regulation 6 of, and the Schedule to, the Infectious Diseases Regulations 1981 ( S.I. No. 390 of 1981 ) or any variant of the disease so specified as an infectious disease in those Regulations;
+
+“Covid-19 remote consultation” means a consultation between a relevant service provider and a patient, or a person acting on his or her behalf, that is carried out other than in person, whether by telephone or other electronic means, for the purposes of assessing whether that patient may have contracted Covid-19;
+
+“dedicated respiratory assessment”, in relation to a patient in respect of whom an assessment has been made pursuant to a Covid-19 remote consultation that he or she may have contracted Covid-19, means a surgery assessment for the purposes of determining the clinical needs of the patient;
+
+“General Medical Services Scheme” has the meaning assigned to it by section 1 of the Health (Provision of General Practitioner Services) Act 2012 (No. 4 of 2012);
+
+“out of hours consultation” means a surgery consultation Monday to Friday (excluding public holidays) between the hours of 5 p.m. and 6 p.m. on the same day and 8 a.m. and 9 a.m. on the same day, rendered under and in accordance with the terms of the General Medical Services Scheme;
+
+“relevant service provider” means a service provider who renders a service to or on behalf of the Health Service Executive under and in accordance with the Agreement of 2020;
+
+“remote consultation” means a consultation, other than a Covid-19 remote consultation, between a relevant service provider and a patient, or a person acting on his or her behalf, that is carried out other than in person, whether by telephone or other electronic means, for the purposes of assessing whether a surgery consultation is necessary in respect of that patient, rendered under and in accordance with the terms of the General Medical Services Scheme;
+
+“service” means -
+
+(a) a dedicated respiratory assessment,
+
+(b) a Covid-19 remote consultation,
+
+(c) a remote consultation, or
+
+(d) an out of hours consultation,
+
+rendered by a relevant service provider under and in accordance with the terms of the Agreement of 2020.
+
+3. These Regulations shall apply to payments in respect of services rendered by a relevant service provider to or on behalf of the Health Service Executive under and in accordance with the Agreement of 2020.
+
+4. The amount of the payment specified in column (3) of Schedules 1 and 2 opposite a particular reference number in column (1) thereof is prescribed as the payment to be made to a relevant service provider in respect of the particular service specified in column (2) thereof.
+
+5. Notwithstanding Regulation 5 of, and Schedules 4 and 15 to, the Public Service Pay and Pensions Act 2017 (Section 42) (Payments to General Practitioners) Regulations 2019 ( S.I. No. 692 of 2019 ), the amount of payment specified in column (3) of Schedules 4 and 15 to those Regulations opposite reference number 1 in column (1) shall not apply as the payment to be made to a relevant service provider in respect of the particular service specified in column (2) of those Schedules, for so as long as these Regulations are in operation.
+
+SCHEDULE 1
+
+Services rendered by a relevant service provider to or on behalf of the Health Service Executive – Agreement of 2020
+
+Reference Number
+
+(1)
+
+Description
+
+(2)
+
+Amount (Total)
+
+(3)
+
+1.
+
+Covid-19 remote consultation
+
+€30.00
+
+2.
+
+Dedicated respiratory assessment
+
+€75.00
+
+SCHEDULE 2
+
+Services rendered by a relevant service provider to or on behalf of the Health Service Executive under and in accordance with the terms of the General Medical - Services Scheme – Agreement of 2020
+
+Reference Number
+
+(1)
+
+Description
+
+(2)
+
+Amount
+
+(3)
+
+1.
+
+Remote consultation
+
+€25.00
+
+2.
+
+Out of hours consultation
+
+€41.63
+
+The Minister for Public Expenditure and Reform consents to the foregoing Regulations.
+
+
+GIVEN under the Official Seal of the Minister for Public Expenditure and Reform,
+
+30 March, 2020.
+
+PASCHAL DONOHOE,
+
+Minister for Public Expenditure and Reform.
+
+
+GIVEN under the Official Seal of the Minister for Health,
+
+30 March, 2020.
+
+SIMON HARRIS,
+
+Minister for Health.

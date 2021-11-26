@@ -1,0 +1,134 @@
+Pravilnik o izvajanju mikrobioloških preiskav na virus SARS-CoV-2
+2021-02-12
+Na podlagi cetrtega odstavka 69. clena Zakona o
+interventnih ukrepih za pomoc pri omilitvi posledic drugega vala epidemije
+COVID-19 (Uradni list RS, št. 203/20 in 15/21 – ZDUOP) minister za zdravje
+izdaja
+
+PRAVILNIK
+
+o izvajanju mikrobioloških preiskav na virus SARS-CoV-2
+
+1. clen
+
+S tem pravilnikom se dolocajo nacin izvedbe mikrobioloških
+preiskav na virus SARS-CoV-2 ter porocanje in posredovanje zahtevkov za
+povracilo stroškov izvedbe mikrobioloških preiskav na virus SARS-CoV-2 (v
+nadaljnjem besedilu: test PCR).
+
+2. clen
+
+(1) Pacienta na test PCR napoti izbrani osebni zdravnik,
+lececi zdravnik ali epidemiolog, kadar je medicinsko indiciran.
+
+(2) Odvzem brisa pri izvajalcu zdravstvene dejavnosti v mreži
+izvajalcev javne zdravstvene službe (v nadaljnjem besedilu: izvajalec) lahko
+izvede le zdravnik ali drug zdravstveni delavec, ki je za to ustrezno
+usposobljen.
+
+(3) Ce izvajalec ne more zagotoviti odvzema brisa znotraj 24
+ur od napotitve iz prvega odstavka tega clena, pacienta napoti k drugemu
+izvajalcu, ki ima proste zmogljivosti, vendar se morata oba izvajalca o tem in
+o nacinu medsebojnega obvešcanja glede napotitve predhodno dogovoriti.
+
+3. clen
+
+(1) Izvajalec mora javnemu zavodu iz prvega ali drugega
+odstavka 69. clena Zakona o interventnih ukrepih za pomoc pri omilitvi posledic
+drugega vala epidemije COVID-19 (Uradni list RS, št. 203/20 in 15/21 – ZDUOP)
+(v nadaljnjem besedilu: javni zavod) ob narocilu testa PCR v elektronski ali
+pisni obliki zagotoviti tocne in celovite podatke, ki omogocajo vnos diagnoze,
+izvida in rezultata testa PCR v Centralni register podatkov o pacientih (v
+nadaljnjem besedilu: CRPP), obvešcanje pacienta o rezultatih testa PCR z
+nacionalnim sistemom za obvešcanje pacientov prek SMS in izvedbo epidemiološke
+ankete.
+
+(2) Javni zavod mora ne glede na to, ali mu izvajalec podatke
+iz prejšnjega odstavka posreduje v elektronski ali pisni obliki, vse
+posredovane podatke evidentirati v svojem informacijskem sistemu tako, da je ob
+avtorizaciji izvida testa PCR zagotovljeno avtomatsko posredovanje diagnoze,
+izvida in rezultata testa PCR v CRPP, obvešcanje pacienta o rezultatu testa PCR
+z nacionalnim sistemom za obvešcanje pacientov prek SMS, izvedba epidemiološke
+ankete in nadzor nad številom posredovanih rezultatov testov PCR po izvajalcu.
+
+(3) Javni zavod poroca v CRPP v skladu s tehnicnimi navodili,
+ki jih doloci Nacionalni inštitut za javno zdravje (v nadaljnjem besedilu:
+NIJZ), pri tem pa upošteva dolocbe zakona, ki ureja obdelavo podatkov v zbirkah
+s podrocja zdravstvenega varstva.
+
+(4) Izvajalec in javni zavod se dogovorita o nacinu
+obvešcanja izvajalca o rezultatih testa PCR.
+
+(5) Izvajalec zagotavlja obvešcanje pacientov o rezultatu
+testa PCR v najkrajšem casu. Ce za obvešcanje pacientov uporablja storitve
+nacionalnega sistema za obvešcanje pacientov o rezultatih testa prek SMS v
+upravljanju NIJZ, mora zagotoviti sprotno spremljanje podatkov o neuspelih
+obvešcanjih, ki jih zagotavlja NIJZ, in v teh primerih paciente obvestiti o
+rezultatu testa PCR na drug nacin.
+
+(6) NIJZ do petega dne v mesecu za pretekli mesec pripravi
+porocilo o številu posredovanih rezultatov testov PCR v CRPP po izvajalcih in
+jih v obliki, ki jo dogovori z Zavodom za zdravstveno zavarovanje Slovenije (v
+nadaljnjem besedilu: ZZZS), posreduje ZZZS in ministrstvu, pristojnemu za
+zdravje (v nadaljnjem besedilu: ministrstvo).
+
+4. clen
+
+(1) Javni zavodi zahtevek za placilo stroškov izvedbe testa
+PCR posredujejo izvajalcu, ki je test PCR narocil, najvec do višine, ki jo s
+sklepom doloci minister, pristojen za zdravje (v nadaljnjem besedilu:
+minister).
+
+(2) Javni zavod in izvajalec se dogovorita o nacinu
+izstavljanja zahtevkov iz prejšnjega odstavka.
+
+5. clen
+
+(1) Izvajalci zahtevke za povracilo stroškov odvzema brisov,
+najvec do višine, ki jo s sklepom doloci minister, in izvedbe testov PCR iz
+prejšnjega clena (v nadaljnjem besedilu: zahtevek) posredujejo ZZZS do 10. dne
+v mesecu za pretekli mesec.
+
+(2) ZZZS lahko na podlagi porocil iz šestega odstavka 3.
+clena tega pravilnika preveri skladnost zahtevkov s številom posredovanih
+rezultatov testov PCR v CRPP po izvajalcih in na podlagi zahtevkov, predloženih
+v skladu s prejšnjim odstavkom, posreduje zahtevek ministrstvu do 20. dne v
+mesecu.
+
+(3) Ministrstvo izvrši placilo zahtevka ZZZS v 30 dneh po
+njegovem prejemu.
+
+(4) ZZZS izvede povracilo stroškov v 15 dneh od prejema
+sredstev ministrstva.
+
+(5) Zahtevki, ki niso posredovani ZZZS do 10. dne v mesecu za
+pretekli mesec, se vkljucijo v naslednji zahtevek za povracilo upravicenih
+stroškov.
+
+(6) Izvajalci v zahtevku ne smejo uveljavljati stroškov, za
+katere so na podlagi interventnih predpisov, povezanih z epidemijo COVID-19,
+povracilo iz proracuna Republike Slovenije že zahtevali oziroma prejeli.
+
+6. clen
+
+Izvajalci za potrebe nadzora v lastnih evidencah hranijo
+racune, ki so jih prejeli za teste PCR, iz katerih sta razvidna cena in
+kolicina.
+
+7. clen
+
+NIJZ prvo porocilo iz šestega odstavka 3. clena tega
+pravilnika pripravi v sedmih dneh od uveljavitve tega pravilnika.
+
+8. clen
+
+Ta pravilnik zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije in velja do 30. junija 2021.
+
+Št. 0070-25/2021
+
+Ljubljana, dne 10. februarja 2021
+
+EVA 2021-2711-0019
+
+V funkciji ministra za zdravjeJanez Janšapredsednik vlade

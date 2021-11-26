@@ -1,0 +1,7822 @@
+Tiesibu akts: 
+	    		speka esošs
+	    	Attelota redakcija: 01.04.2021. - ... / Speka esoša
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    Latvijas Bankas noteikumi Nr. 162Riga 2018. gada 18. janvari
+Noteikumi par elektronisko informacijas apmainu ar Latvijas Banku
+Izdoti saskana ar Kreditu registra likuma13., 17. pantu, 18. panta trešo dalu, 24. panta otro dalu,31. panta ceturto dalu, 38. panta piekto dalu,39. panta ceturto dalu un 40. panta trešo dalu unlikuma "Par Latvijas Banku" 39. panta otro dalu
+1. Visparigie jautajumi
+1. Noteikumi nosaka:1.1. kartibu, kada zinas ieklaujamas Kreditu registra (talak teksta – registrs);1.2. registra ieklauto zinu izsniegšanas registra dalibniekam, registra dalibniekam ar ierobežotu statusu (talak teksta – ierobežots registra dalibnieks) un Valsts kasei kartibu;1.3. kartibu, kada Finanšu un kapitala tirgus komisijai (talak teksta – Komisija) izsniedzamas registra ieklautas zinas;1.4. kartibu, kada registra dalibnieks, ierobežots registra dalibnieks un Valsts kase labo vai anule registra ieklautas zinas;1.5. maksas par registra izmantošanu apmeru un maksašanas kartibu;1.6. statistikas parskatu iesniegšanas kartibu.2
+            
+              
+              
+            
+          
+2. Registra dalibnieks, ierobežots registra dalibnieks, Valsts kase, Komisija un respondents, t.sk. kreditiestade, ka ari krajaizdevu sabiedriba, ieguldijumu brokeru sabiedriba, elektroniskas naudas iestade, naudas tirgus fonds un cits komersants, kas nav kreditiestade (talak teksta – nebanka), elektroniski veic informacijas apmainu ar Latvijas Banku, t.i., registra dalibnieks, ierobežots registra dalibnieks un Valsts kase ieklauj registra zinas, ka ari aktualize, labo un anule registra ieklautas zinas, registra dalibnieks, ierobežots registra dalibnieks, Valsts kase un Komisija pieprasa registra ieklautas zinas un Latvijas Banka izsniedz registra ieklautas zinas registra dalibniekam, ierobežotam registra dalibniekam, Valsts kasei un Komisijai, un kreditiestade un nebanka sniedz Latvijas Bankai statistikas parskatus drošibas sistema, izmantojot programmaturu un veicot pasakumus, kas nodrošina informacijas autentiskumu un konfidencialitati tas apmainas laika.3
+            
+              
+              
+            
+          
+3. Drošibas sistemai ir divi veidi:3.1. paaugstinatas drošibas sistema;3.2. nebanku statistikas sistema (adrese: https://stat.bank.lv).4
+            
+              
+              
+            
+          
+4. Drošibas sistema informacijas apmainu saskana ar šiem noteikumiem veic vai var veikt interaktivi, timekla pakalpju veida vai failu veida. Paaugstinatas drošibas sistema informacijas apmainu failu veida saskana ar šiem noteikumiem veic vai var veikt, izmantojot failu apmainas servisu (adrese: sftp.bank.lv).5
+            
+              
+              
+            
+          
+5. Paaugstinatas drošibas sistema informacijas apmainu veic registra un kreditiestažu sniedzamas statistikas ietvaros.6
+            
+              
+              
+            
+          
+6. Nebanku statistikas sistema informacijas apmainu veic nebanku sniedzamas statistikas ietvaros.7
+            
+              
+              
+            
+          
+6.1 Paaugstinatas drošibas sistema visus pieteikumus un pazinojumus sniedz latviešu valoda, bet gadijumos, kad persona, kas veic informacijas apmainu ar Latvijas Banku (talak teksta – informacijas apmainas subjekts), ir registreta cita valsti, pieteikumus un pazinojumus var sniegt anglu valoda.8
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+2. Informacijas apmaina paaugstinatas drošibas sistema
+2.1. Informacijas apmainas drošibas noteikumi
+7. Informacijas apmainas subjekts un Latvijas Banka paaugstinatas drošibas sistema veic šadus pasakumus, kas nodrošina informacijas autentiskumu un konfidencialitati tas apmainas laika:7.1. informacijas apmainai izmanto šifretu komunikaciju kanalu;7.2. elektroniski paraksta timekla pakalpju veida sniedzamo informaciju;7.3. elektroniski paraksta un šifre failu veida sniedzamo informaciju.9
+            
+              
+              
+            
+          (Grozits ar LB 27.04.2020. noteikumiem Nr. 181; LB 22.03.2021. noteikumiem Nr. 185)
+8. Lai informaciju elektroniski parakstitu, informacijas apmainas subjekts ar Latvijas Banku nosledz rakstisku ligumu.10
+            
+              
+              
+            
+          
+8.1 Informaciju elektroniski paraksta un šifre, lietojot RSA-2048 un AES-256 algoritmu vai ECDSA/ECDH-384, SHA-256 un AES-256 algoritmu.11
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+9. Informacijas apmainas subjekts elektroniski paraksta un šifre failu veida sniedzamo informaciju, izmantojot visas Latvijas Bankas publiskas atslegas attieciga veida informacijas apmainai, kuras izmanto attiecigos elektroniskas parakstišanas un šifrešanas algoritmus.12
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+10. Latvijas Banka elektroniski paraksta un šifre failu veida sniedzamo informaciju, izmantojot visu informacijas apmainas subjekta attieciga veida informacijas apmainai registreto paaugstinatas drošibas sistemas lietotaju publiskas atslegas, kuras izmanto attiecigos elektroniskas parakstišanas un šifrešanas algoritmus. Failu veida sniedzamas registra ieklautas zinas Latvijas Banka elektroniski paraksta un šifre, izmantojot to informacijas apmainas subjekta paaugstinatas drošibas sistemas lietotaju publiskas atslegas, kuriem ir:10.1. šo noteikumu 52.5. apakšpunkta minetas registra lietošanas tiesibas – registra ieklauto zinu sniegšanai bez kreditinformacijas biroja starpniecibas;10.2. šo noteikumu 55. punkta minetas registra lietošanas tiesibas – registra ieklauto zinu sniegšanai ar kreditinformacijas biroja starpniecibu.13
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+11. (Svitrots ar LB 22.03.2021. noteikumiem Nr. 185)14
+            
+              
+              
+            
+          
+12. Ja informacija nav pareizi elektroniski parakstita vai šifreta, informacijas apmainas subjekts nekavejoties nosuta Latvijas Bankai par to pazinojumu uz e-pasta adresi entrust@bank.lv.15
+            
+              
+              
+            
+          
+13. Latvijas Banka nodod informacijas apmainas subjektam programmaturu, kas izmantojama informacijas elektroniskai parakstišanai un šifrešanai. Informacijas elektroniskai parakstišanai un šifrešanai informacijas apmainas subjekts var izmantot ari citu programmaturu, kuru var savietot ar paaugstinatas drošibas sistemas programmaturu.16
+            
+              
+              
+            
+          
+14. Paaugstinatas drošibas sistemu uztur Latvijas Banka, iznemot to programmaturu un tehnisko nodrošinajumu, kas uzstadits informacijas apmainas subjektam.17
+            
+              
+              
+            
+          
+15. Lai veiktu informacijas apmainu failu veida, izmantojot failu apmainas servisu, informacijas apmainas subjekts izmanto SFTP (SSH File Transfer Protocol) klienta programmaturu, kuru var savietot ar failu apmainas servisa servera programmaturu.18
+            
+              
+              
+            
+          
+16. Informacijas apmainai failu veida izmanto šadus SFTP algoritmus:16.1. failu apmainas servisa servera autentificešanai – ECDSA 384 bitu algoritmu;16.2. integritates nodrošinašanai – hmac-sha256 vai hmac-sha256-96 algoritmu;16.3. šifrešanai – aes128/192/256-cbc/ctr vai 3des-ctr algoritmu;16.4. atslegu apmainas nodrošinašanai – ECDH atslegu ar vismaz 256 bitu algoritmu vai DH atslegu ar vismaz 2048 bitu algoritmu.19
+            
+              
+              
+            
+          
+17. Informacijas apmainas subjekta varda informacijas apmainu veic, t.sk. elektroniski paraksta un šifre informaciju, paaugstinatas drošibas sistemas lietotajs.20
+            
+              
+              
+            
+          
+18. Informacijas apmainas subjekta varda informacijas apmainu, izmantojot failu apmainas servisu, veic failu apmainas servisa lietotajs.21
+            
+              
+              
+            
+          
+19. Informacijas apmainas subjekts elektroniski ievada un uztur drošibas sistema interneta adreses, no kuram notiek pieslegšanas paaugstinatas drošibas sistemai un failu apmainas servisam. Informacijas apmainas subjekts nekavejoties drošibas sistema elektroniski anule interneta adreses, no kuram vairs nenotiek pieslegšanas paaugstinatas drošibas sistemai un failu apmainas servisam. Ja informacijas apmainas subjekts tehnisku iemeslu del nevar drošibas sistema elektroniski ievadit interneta adreses, no kuram notiek pieslegšanas paaugstinatas drošibas sistemai un failu apmainas servisam, tas iesniedz Latvijas Bankai rakstisku interneta adrešu registrešanas pieteikumu (1. pielikums).22
+            
+              
+              
+            
+          
+20. Informacijas apmainas subjekts veic šajos noteikumos noteiktos pasakumus saistiba ar paaugstinatas drošibas sistemas lietotaju un failu apmainas servisa lietotaju administrešanu (talak teksta – parvaldišanas pasakumi) interneta (adrese: https://entrust.bank.lv). Informacijas apmainas subjekta varda parvaldišanas pasakumus veic parvaldnieks, kas var iesniegt ari interneta adrešu registrešanas pieteikumu.23
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+21. Ja informacijas apmainas subjekts vairs neveic informacijas apmainu ar Latvijas Banku, Latvijas Banka dzeš drošibas sistema visas informacijas apmainas subjekta ievaditas interneta adreses, no kuram notiek pieslegšanas paaugstinatas drošibas sistemai un failu apmainas servisam.24
+            
+              
+              
+            
+          
+2.2. Paaugstinatas drošibas sistemas licences
+22. Latvijas Banka pieškir informacijas apmainas subjektam divas paaugstinatas drošibas sistemas licences. Latvijas Banka pieškir informacijas apmainas subjektam vel divas paaugstinatas drošibas sistemas licences par katru informacijas apmainas subjekta atbilstibu vienam no šadiem kriterijiem:22.1. informacijas apmainas subjekts veic informacijas apmainu registra ietvaros;22.2. informacijas apmainas subjekts sniedz statistikas parskatus.25
+            
+              
+              
+            
+          
+23. Informacijas apmainas subjekts var sanemt paaugstinatas drošibas sistemas papildu licenci. Lai sanemtu paaugstinatas drošibas sistemas papildu licenci, informacijas apmainas subjekts piecas darbadienas iepriekš iesniedz Latvijas Bankai rakstisku iesniegumu.26
+            
+              
+              
+            
+          (Grozits ar LB 27.04.2020. noteikumiem Nr. 181)
+24. Lai sanemtu paaugstinatas drošibas sistemas papildu licenci, bet tas ietvaros neregistretu paaugstinatas drošibas sistemas lietotaju informacijas apmainai registra ietvaros, informacijas apmainas subjekts nosledz ar Latvijas Banku rakstisku ligumu.27
+            
+              
+              
+            
+          
+25. Informacijas apmainas subjekts var atteikties no paaugstinatas drošibas sistemas papildu licences ar katra gada 1. janvari. Lai atteiktos no paaugstinatas drošibas sistemas papildu licences, informacijas apmainas subjekts lidz iepriekšeja gada beigam iesniedz Latvijas Bankai rakstisku iesniegumu.28
+            
+              
+              
+            
+          
+26. Informacijas apmainas subjekts var nodot paaugstinatas drošibas sistemas papildu licenci citam informacijas apmainas subjektam, iesniedzot Latvijas Bankai abpuseji parakstitu iesniegumu.29
+            
+              
+              
+            
+          
+2.3. Maksa par paaugstinatas drošibas sistemas papildu licenci informacijas apmainai registra ietvaros
+27. Lai segtu registra uzturešanas izdevumus par paaugstinatas drošibas sistemas papildu licenci, kuras ietvaros registre paaugstinatas drošibas sistemas lietotaju informacijas apmainai registra ietvaros, registra dalibnieks un ierobežots registra dalibnieks maksa Latvijas Bankai maksu par registra izmantošanu, kas sastav no vienreizejas maksas 65.75 euro apmera, t.sk. atlidziba par paaugstinatas drošibas sistemas papildu licenci 54.34 euro un 21% pievienotas vertibas nodoklis 11.41 euro (talak teksta – vienreizeja maksa), un gada maksas 16.40 euro apmera, t.sk. gada atlidziba 13.55 euro un 21% pievienotas vertibas nodoklis – 2.85 euro (talak teksta – gada maksa).30
+            
+              
+              
+            
+          (Grozits ar LB 20.12.2017. noteikumiem Nr. 169)
+28. Registra dalibnieks un ierobežots registra dalibnieks samaksa Latvijas Bankai vienreizejo maksu 10 darbadienu laika pec datuma, kura Latvijas Banka pieškir registra dalibniekam vai ierobežotam registra dalibniekam paaugstinatas drošibas sistemas papildu licenci.31
+            
+              
+              
+            
+          
+29. Registra dalibnieks un ierobežots registra dalibnieks lidz 15. janvarim samaksa Latvijas Bankai gada maksu par kartejo kalendaro gadu.32
+            
+              
+              
+            
+          
+30. Ja registra dalibnieks vai ierobežots registra dalibnieks sanem paaugstinatas drošibas sistemas papildu licenci pec 1. janvara, gada maksu par ša karteja kalendara gada atlikušo periodu aprekina proporcionali gada maksai par visu kartejo kalendaro gadu un registra dalibnieks vai ierobežots registra dalibnieks samaksa Latvijas Bankai šo gada maksas dalu 10 darbadienu laika pec datuma, kura Latvijas Banka pieškir registra dalibniekam vai ierobežotam registra dalibniekam paaugstinatas drošibas sistemas papildu licenci.33
+            
+              
+              
+            
+          
+31. Vienreizejo maksu un gada maksu ieskaita Latvijas Bankas norekinu konta Latvijas Banka Nr. LV35 LACB 0EUR 1750 5010 0, BIC LACBLV2X.34
+            
+              
+              
+            
+          
+2.4. Parvaldnieka registrešana, anulešana un atjaunošana
+2.4.1. Parvaldnieku skaits un parvaldnieka registrešana
+32. Informacijas apmainas subjekts registre vismaz divus parvaldniekus.35
+            
+              
+              
+            
+          
+33. Lai registretu parvaldnieku, informacijas apmainas subjekts iesniedz Latvijas Bankai rakstisku parvaldnieka registrešanas pieteikumu (2. pielikums). Parvaldnieka registrešanas pieteikumu paraksta ari persona, kura tiek registreta ka parvaldnieks.36
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+34. Latvijas Banka registre parvaldnieku vienas darbadienas laika pec parvaldnieka registrešanas pieteikuma sanemšanas.37
+            
+              
+              
+            
+          
+35. Pec parvaldnieka registrešanas Latvijas Banka veic šadas darbibas:35.1. nosuta uz parvaldnieka e-pasta adresi vina registracijas koda pirmo dalu;35.2. nosuta uz parvaldnieka mobila talruna numuru vina registracijas koda otro dalu.38
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+36. Informacijas apmainas subjekts 25 kalendaro dienu laika pec parvaldnieka registrešanas to ievieš un ieviešanu apstiprina drošibas sistema.39
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+37. Parvaldnieka tiesibas stajas speka vienas darbadienas laika pec parvaldnieka ieviešanas apstiprinašanas drošibas sistema.40
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+38. Informacijas apmainas subjekts ka parvaldnieku var registret ari paaugstinatas drošibas sistemas lietotaju. Šaja gadijuma Latvijas Banka pec parvaldnieka registrešanas nosuta uz parvaldnieka e-pasta adresi pazinojumu par parvaldnieka registrešanu un parvaldnieka tiesibas stajas speka nekavejoties.41
+            
+              
+              
+            
+          
+2.4.2. Parvaldnieka anulešana un atjaunošana
+39. Informacijas apmainas subjekts var parvaldnieku anulet pec savas iniciativas.42
+            
+              
+              
+            
+          
+40. Informacijas apmainas subjekts parvaldnieku anule, ja mainas parvaldnieka vards vai uzvards.43
+            
+              
+              
+            
+          
+41. Lai parvaldnieku anuletu, informacijas apmainas subjekts iesniedz Latvijas Bankai rakstisku parvaldnieka anulešanas pieteikumu (5. pielikums).44
+            
+              
+              
+            
+          
+42. Latvijas Banka parvaldnieku anule vienas darbadienas laika pec parvaldnieka anulešanas pieteikuma sanemšanas.45
+            
+              
+              
+            
+          
+43. Latvijas Banka parvaldnieku anule automatiski, ja izpildas viens no šadiem nosacijumiem:43.1. informacijas apmainas subjekts parvaldnieku nav ieviesis šo noteikumu 36. punkta minetaja termina;43.2. parvaldnieks nav atjaunojis atslegas šo noteikumu 89. punkta minetaja termina.46
+            
+              
+              
+            
+          
+44. Latvijas Banka parvaldnieku atjauno, ja izpildas viens no šadiem nosacijumiem:44.1. Latvijas Banka parvaldnieku anulejusi saskana ar šo noteikumu 43. punktu;44.2. parvaldnieks aizmirsis paroli, ar kuru aizsargata atslegu lietošana;44.3. parvaldnieka atslega bojata tehnisku iemeslu del.47
+            
+              
+              
+            
+          
+45. Lai parvaldnieku atjaunotu, informacijas apmainas subjekts iesniedz Latvijas Bankai rakstisku parvaldnieka atjaunošanas pieteikumu (6. pielikums). Parvaldnieka atjaunošanas pieteikumu paraksta ari persona, kura tiek atjaunota ka parvaldnieks.48
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+46. Latvijas Banka parvaldnieku atjauno vienas darbadienas laika pec parvaldnieka atjaunošanas pieteikuma sanemšanas.49
+            
+              
+              
+            
+          
+47. Pec parvaldnieka atjaunošanas Latvijas Banka veic šadas darbibas:47.1. nosuta uz parvaldnieka e-pasta adresi vina registracijas koda pirmo dalu;47.2. nosuta uz parvaldnieka mobila talruna numuru vina registracijas koda otro dalu.50
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+48. Informacijas apmainas subjekts 25 kalendaro dienu laika pec parvaldnieka atjaunošanas to ievieš un ieviešanu apstiprina drošibas sistema.51
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+49. Parvaldnieka tiesibas stajas speka vienas darbadienas laika pec parvaldnieka ieviešanas apstiprinašanas drošibas sistema.52
+            
+              
+              
+            
+          (Grozits ar LB 22.03.2021. noteikumiem Nr. 185)
+50. Ja informacijas apmainas subjekts vairs neveic informacijas apmainu ar Latvijas Banku, Latvijas Banka anule visus informacijas apmainas subjekta parvaldniekus.53
+            
+              
+              
+            
+          
+2.5. Paaugstinatas drošibas sistemas lietotaja registrešana, anulešana, atjaunošana un tiesibu maina
+2.5.1. Paaugstinatas drošibas sistemas lietotaju skaits un tiesibas
+51. Informacijas apmainas subjekts registre vismaz divus paaugstinatas drošibas sistemas lietotajus katra šada veida informacijas apmainai:51.1. informacijas apmainai registra ietvaros;51.2. statistikas parskatu iesniegšanai.54
+            
+              
+              
+            
+          
+52. Paaugstinatas drošibas sistemas lietotajam, kas registrets informacijas apmainai registra ietvaros, var but šadas registra lietošanas tiesibas:52.1. tiesibas ieklaut registra zinas interaktivi;52.2. tiesibas pieprasit registra ieklautas zinas interaktivi;52.3. tiesibas pieprasit registra ieklautas zinas timekla pakalpju veida;52.4. tiesibas ieklaut registra zinas failu veida;52.5. tiesibas pieprasit registra ieklautas zinas failu veida;52.6. tiesibas interaktivi pieprasit informaciju par informacijas apmainas subjekta paaugstinatas drošibas sistemas lietotaju darbibam;52.7. tiesibas interaktivi pieprasit apkopotu informaciju par registra ieklautajam zinam;52.8. tiesibas uzturet šajos noteikumos paredzetos pilnvarojumus Latvijas Bankai interaktivi.55
+            
+              
+              
+            
+          (Grozits ar LB 27.04.2020. noteikumiem Nr. 181)
+53. Informacijas apmainas subjekts pieprasa visas šo noteikumu 52. punkta minetas registra lietošanas tiesibas vismaz diviem paaugstinatas drošibas sistemas lietotajiem.56
+            
+              
+              
+            
+          
+54. Informacijas apmainas subjekts var pieprasit šo noteikumu 52.4. vai 52.5. apakšpunkta minetas registra lietošanas tiesibas kopa ne vairak ka 10 paaugstinatas drošibas sistemas lietotajiem.57
+            
+              
+              
+            
+          
+55. Informacijas apmainas subjekts, kas ir kreditinformacijas lietotajs Kreditinformacijas biroju likuma izpratne, registre paaugstinatas drošibas sistemas lietotaju informacijas apmainai registra ietvaros, kuram ir registra lietošanas tiesibas pieprasit registra ieklautas zinas ar kreditinformacijas biroja starpniecibu. Šadam paaugstinatas drošibas sistemas lietotajam vienlaikus nevar but šo noteikumu 52. punkta mineto registra lietošanas tiesibu.58
+            
+              
+              
+            
+          
+2.5.2. Paaugstinatas drošibas sistemas lietotaja registrešana
+56. Lai registretu paaugstinatas drošibas sistemas lietotaju, informacijas apmainas subjekts ievada drošibas sistema paaugstinatas drošibas sistemas lietotaja registracijas pieteikumu.59
+            
+              
+              
+            
+          
+57. Latvijas Banka registre paaugstinatas drošibas sistemas lietotaju vienas darbadienas laika pec paaugstinatas drošibas sistemas lietotaja registracijas pieteikuma ievadišanas drošibas sistema.60
+            
+              
+              
+            
+          
+58. Pec paaugstinatas drošibas sistemas lietotaja registrešanas Latvijas Banka veic šadas darbibas:58.1. nosuta uz visu informacijas apmainas subjekta parvaldnieku e-pasta adresem pazinojumu par paaugstinatas drošibas sistemas lietotaja registrešanu un drošibas sistema pieškir viniem pieeju paaugstinatas drošibas sistemas lietotaja registracijas koda pirmajai dalai;58.2. nosuta uz paaugstinatas drošibas sistemas lietotaja e-pasta adresi vina registracijas koda otro dalu.61
+            
+              
+              
+            
+          
+59. Informacijas apmainas subjekts 25 kalendaro dienu laika pec paaugstinatas drošibas sistemas lietotaja registrešanas to ievieš un ieviešanu apstiprina drošibas sistema.62
+            
+              
+              
+            
+          
+60. Paaugstinatas drošibas sistemas lietotaja tiesibas stajas speka vienas darbadienas laika pec paaugstinatas drošibas sistemas lietotaja ieviešanas apstiprinašanas drošibas sistema.63
+            
+              
+              
+            
+          
+61. Ka paaugstinatas drošibas sistemas lietotaju informacijas apmainas subjekts var registret ari parvaldnieku.64
+            
+              
+              
+            
+          
+62. Ka paaugstinatas drošibas sistemas lietotaju atseviška veida informacijas apmainai informacijas apmainas subjekts var registret paaugstinatas drošibas sistemas lietotaju, kas jau registrets cita veida informacijas apmainai, vai paaugstinatas drošibas sistemas lietotaju, kas registrets, lai sniegtu Latvijas Bankai vai sanemtu no Latvijas Bankas informaciju saskana ar Latvijas Bankas un informacijas apmainas subjekta noslegtu rakstisku ligumu.65
+            
+              
+              
+            
+          
+63. Lai paaugstinatas drošibas sistemas lietotaju registretu šo noteikumu 61. vai 62. punkta noteiktaja gadijuma, informacijas apmainas subjekts drošibas sistema piesaista parvaldnieku vai paaugstinatas drošibas sistemas lietotaju attiecigajam informacijas veidam. Jaunas paaugstinatas drošibas sistemas lietotaja tiesibas stajas speka nekavejoties.66
+            
+              
+              
+            
+          
+2.5.3. Paaugstinatas drošibas sistemas lietotaja anulešana un atjaunošana
+64. Informacijas apmainas subjekts var paaugstinatas drošibas sistemas lietotaju anulet pec savas iniciativas.67
+            
+              
+              
+            
+          
+65. Lai paaugstinatas drošibas sistemas lietotaju anuletu, informacijas apmainas subjekts ievada drošibas sistema paaugstinatas drošibas sistemas lietotaja anulešanas pieteikumu.68
+            
+              
+              
+            
+          
+66. Latvijas Banka anule paaugstinatas drošibas sistemas lietotaju vienas darbadienas laika pec paaugstinatas drošibas sistemas lietotaja anulešanas pieteikuma ievadišanas drošibas sistema.69
+            
+              
+              
+            
+          
+67. Latvijas Banka paaugstinatas drošibas sistemas lietotaju anule automatiski, ja izpildas viens no šadiem nosacijumiem:67.1. informacijas apmainas subjekts paaugstinatas drošibas sistemas lietotaju nav ieviesis šo noteikumu 59. punkta minetaja termina;67.2. paaugstinatas drošibas sistemas lietotajs nav atjaunojis atslegas šo noteikumu 89. punkta minetaja termina.70
+            
+              
+              
+            
+          
+68. Latvijas Banka paaugstinatas drošibas sistemas lietotaju atjauno, ja izpildas viens no šadiem nosacijumiem:68.1. Latvijas Banka paaugstinatas drošibas sistemas lietotaju anulejusi saskana ar šo noteikumu 67. punktu;68.2. paaugstinatas drošibas sistemas lietotajs aizmirsis paroli, ar kuru aizsargata atslegu lietošana;68.3. paaugstinatas drošibas sistemas lietotaja atslega bojata tehnisku iemeslu del.71
+            
+              
+              
+            
+          
+69. Lai paaugstinatas drošibas sistemas lietotaju atjaunotu, informacijas apmainas subjekts ievada drošibas sistema paaugstinatas drošibas sistemas lietotaja atjaunošanas pieteikumu.72
+            
+              
+              
+            
+          
+70. Latvijas Banka atjauno paaugstinatas drošibas sistemas lietotaju vienas darbadienas laika pec paaugstinatas drošibas sistemas lietotaja atjaunošanas pieteikuma ievadišanas drošibas sistema.73
+            
+              
+              
+            
+          
+71. Pec paaugstinatas drošibas sistemas lietotaja atjaunošanas Latvijas Banka veic šadas darbibas:71.1. nosuta uz visu informacijas apmainas subjekta parvaldnieku e-pasta adresem pazinojumu par paaugstinatas drošibas sistemas lietotaja atjaunošanu un drošibas sistema pieškir viniem pieeju paaugstinatas drošibas sistemas lietotaja registracijas koda pirmajai dalai;71.2. nosuta uz paaugstinatas drošibas sistemas lietotaja e-pasta adresi vina registracijas koda otro dalu.74
+            
+              
+              
+            
+          
+72. Informacijas apmainas subjekts 25 kalendaro dienu laika pec paaugstinatas drošibas sistemas lietotaja atjaunošanas to ievieš un ieviešanu apstiprina drošibas sistema.75
+            
+              
+              
+            
+          
+73. Paaugstinatas drošibas sistemas lietotaja tiesibas stajas speka vienas darbadienas laika pec paaugstinatas drošibas sistemas lietotaja ieviešanas apstiprinašanas drošibas sistema.76
+            
+              
+              
+            
+          
+74. Informacijas apmainas subjekts var anulet atseviška veida informacijas apmainas tiesibas paaugstinatas drošibas sistemas lietotajam, kas registrets visu veidu informacijas apmainai vai atseviška veida informacijas apmainai un lai sniegtu Latvijas Bankai vai no tas sanemtu informaciju saskana ar Latvijas Bankas un informacijas apmainas subjekta noslegtu rakstisku ligumu. Šada gadijuma informacijas apmainas subjekts drošibas sistema anule paaugstinata drošibas sistemas lietotaja piesaisti attiecigajam informacijas veidam un attiecigas tiesibas nekavejoties zaude speku.77
+            
+              
+              
+            
+          
+75. Ja informacijas apmainas subjekts vairs neveic informacijas apmainu ar Latvijas Banku, Latvijas Banka anule visus informacijas apmainas subjekta paaugstinatas drošibas sistemas lietotajus.78
+            
+              
+              
+            
+          
+2.5.4. Paaugstinatas drošibas sistemas lietotaja registra lietošanas tiesibu maina
+76. Lai mainitu paaugstinatas drošibas sistemas lietotaja registra lietošanas tiesibas, informacijas apmainas subjekts ievada drošibas sistema paaugstinatas drošibas sistemas lietotaja tiesibu mainas pieteikumu.79
+            
+              
+              
+            
+          
+77. Jaunas paaugstinatas drošibas sistemas lietotaja registra lietošanas tiesibas stajas speka nekavejoties.80
+            
+              
+              
+            
+          
+2.6. Failu apmainas servisa lietotaja registrešana un anulešana
+2.6.1. Failu apmainas servisa lietotaju skaits un failu apmainas servisa lietotaja registrešana
+78. Informacijas apmainas subjekts var registret ne vairak ka sešus failu apmainas servisa lietotajus.81
+            
+              
+              
+            
+          
+79. Lai registretu failu apmainas servisa lietotaju, informacijas apmainas subjekts ievada drošibas sistema failu apmainas servisa lietotaja registracijas pieteikumu.82
+            
+              
+              
+            
+          
+80. Latvijas Banka registre failu apmainas servisa lietotaju vienas darbadienas laika pec failu apmainas servisa lietotaja registracijas pieteikuma ievadišanas drošibas sistema.83
+            
+              
+              
+            
+          
+81. Pec failu apmainas servisa lietotaja registrešanas Latvijas Banka veic šadas darbibas:81.1. nosuta uz visu informacijas apmainas subjekta parvaldnieku e-pasta adresem pazinojumu par failu apmainas servisa lietotaja registrešanu un drošibas sistema pieškir viniem pieeju failu apmainas servisa servera kontrolsummai;81.2. nosuta uz failu apmainas servisa lietotaja e-pasta adresi vinam pieškirto failu apmainas servisa lietotaja vardu.84
+            
+              
+              
+            
+          
+82. Informacijas apmainas subjekts 25 kalendaro dienu laika pec failu apmainas servisa lietotaja registrešanas to ievieš, veicot šadas darbibas:82.1. izveido SSH2 atslegas, izmantojot RSA 2048 bitu algoritmu vai ECDSA 384 bitu algoritmu;82.2. saglaba failu apmainas servisa lietotaja autentificešanai nepieciešamo publisko atslegu SSH2 vai OpenSSH formata un ievieto to drošibas sistema.85
+            
+              
+              
+            
+          
+83. Failu apmainas servisa lietotaja tiesibas stajas speka vienas darbadienas laika pec šo noteikumu 82.2. apakšpunkta noteikto darbibu izpildes.86
+            
+              
+              
+            
+          
+2.6.2. Failu apmainas servisa lietotaja anulešana
+84. Lai failu apmainas servisa lietotaju anuletu, informacijas apmainas subjekts ievada drošibas sistema failu apmainas servisa lietotaja anulešanas pieteikumu.87
+            
+              
+              
+            
+          
+85. Latvijas Banka anule failu apmainas servisa lietotaju vienas darbadienas laika pec failu apmainas servisa lietotaja anulešanas pieteikuma ievadišanas drošibas sistema.88
+            
+              
+              
+            
+          
+86. Latvijas Banka failu apmainas servisa lietotaju anule automatiski, ja informacijas apmainas subjekts failu apmainas servisa lietotaju nav ieviesis šo noteikumu 82. punkta minetaja termina.89
+            
+              
+              
+            
+          
+87. Ja informacijas apmainas subjekts vairs neveic informacijas apmainu ar Latvijas Banku, Latvijas Banka anule visus informacijas apmainas subjekta failu apmainas servisa lietotajus.90
+            
+              
+              
+            
+          
+2.7. Parvaldnieka, paaugstinatas drošibas sistemas lietotaja, failu apmainas servisa lietotaja un Latvijas Bankas atslegas
+88. Parvaldnieka un paaugstinatas drošibas sistemas lietotaja parakstišanas atslegas ir derigas 24 menešus pec to izveidošanas, bet šifrešanas atslegas – 36 menešus pec to izveidošanas.91
+            
+              
+              
+            
+          
+89. Lai pagarinatu atslegu deriguma terminu, parvaldnieks vai paaugstinatas drošibas sistemas lietotajs 100 dienu laika pirms atslegu deriguma termina beigam interaktivi piesledzas drošibas sistemai un drošibas sistema automatiski izveido jaunas atslegas.92
+            
+              
+              
+            
+          
+90. Failu apmainas servisa lietotaja publiska atslega ir deriga pastavigi.93
+            
+              
+              
+            
+          
+91. Latvijas Banka drošibas sistema ievieto Latvijas Bankas publiskas atslegas un nosuta uz parvaldnieku
+e-pasta adresem pazinojumu par Latvijas Bankas publiskas atslegas izmantošanas uzsakšanu, noradot Latvijas Bankas publiskas atslegas kontrolsummu un to, kura veida informacijas apmainai ta lietojama.94
+            
+              
+              
+            
+          
+92. Ja sanemtas Latvijas Bankas publiskas atslegas kontrolsumma nesakrit ar šo noteikumu 91. punkta minetaja pazinojuma noradito Latvijas Bankas publiskas atslegas kontrolsummu, informacijas apmainas subjekts nosuta par to pazinojumu uz e-pasta adresi entrust@bank.lv.95
+            
+              
+              
+            
+          
+93. Latvijas Banka anule Latvijas Bankas publisko atslegu un nosuta uz parvaldnieku e-pasta adresem par to pazinojumu, noradot, kura veida informacijas apmainai Latvijas Bankas publiska atslega turpmak nav lietojama.96
+            
+              
+              
+            
+          
+2.8. Informacijas apmaina registra ietvaros
+2.8.1. Informacijas apmainas veidi
+94. Informacijas apmaina starp registra dalibnieku, ierobežotu registra dalibnieku vai Valsts kasi un Latvijas Banku notiek interaktivi, failu veida vai timekla pakalpju veida.97
+            
+              
+              
+            
+          
+95. Latvijas Banka sniedz registra dalibniekam, ierobežotam registra dalibniekam un Valsts kasei apkopotu informaciju par registra ieklautajam zinam tikai interaktivi.98
+            
+              
+              
+            
+          
+96. Timekla pakalpju veida registra dalibnieks, ierobežots registra dalibnieks un Valsts kase var pieprasit registra ieklautas zinas un Latvijas Banka var izsniegt registra ieklautas zinas registra dalibniekam, ierobežotam registra dalibniekam un Valsts kasei.99
+            
+              
+              
+            
+          
+97. Informacijas apmaina starp Komisiju un Latvijas Banku notiek tikai interaktivi.100
+            
+              
+              
+            
+          
+98. Informacijas apmaina interaktivi notiek registra interneta vietne (adrese: https://www.kreg.lv).101
+            
+              
+              
+            
+          
+99. Informacijas apmaina failu veida notiek registra interneta vietne (adrese: https://www.kreg.lv) vai izmantojot failu apmainas servisu.102
+            
+              
+              
+            
+          
+100. Informacijas apmaina timekla pakalpju veida notiek registra interneta vietne (adrese: https://www.kreg.lv/pieprasijumi).103
+            
+              
+              
+            
+          
+2.8.2. Registra ieklaujamas tehniskas informacijas saturs un nosacijumi tas ieklaušanai registra
+101. Veicot informacijas apmainu registra ietvaros, registra ieklauj šadu tehnisko informaciju:101.1. visparigo zinu identifikators;101.2. parkapuma zinu identifikators;101.3. paaugstinatas drošibas sistemas lietotaja identifikators;101.4. ta registra dalibnieka, ierobežota registra dalibnieka vai Valsts kases, kurš anule registra ieklautas zinas, nosaukums un šo zinu anulešanas datums;101.5. norade par pieprasijuma objektu.104
+            
+              
+              
+            
+          
+102. Ieklaujot registra visparigo zinu identifikatoru, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase patstavigi pieškir klienta saistibam unikalu simbolu virkni (ne vairak ka 35 simboli), ar kuru zinas par klienta saistibam var identificet starp citam attieciga registra dalibnieka, ierobežota registra dalibnieka vai Valsts kases registra ieklautajam zinam par ša registra dalibnieka, ierobežota registra dalibnieka vai Valsts kases klientu saistibam.105
+            
+              
+              
+            
+          
+103. Ieklaujot registra parkapuma zinu identifikatoru, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase patstavigi pieškir zinam par klienta vai klienta galvinieka saistibu parkapumiem unikalu simbolu virkni (ne vairak ka 16 simbolu), ar kuru zinas par attiecigo klienta vai klienta galvinieka parkapumu var identificet starp citam attieciga registra dalibnieka, ierobežota registra dalibnieka vai Valsts kases registra ieklautajam zinam par ša klienta vai klienta galvinieka saistibu parkapumiem.106
+            
+              
+              
+            
+          
+104. Šo noteikumu 101.3. un 101.4. apakšpunkta mineta tehniska informacija registra veidojas automatiski, veicot informacijas apmainu registra ietvaros.107
+            
+              
+              
+            
+          
+105. Registra dalibnieks vai Valsts kase ieklauj registra noradi par pieprasijuma objektu, ja registra dalibnieks vai Valsts kase registra ieklautas zinas pieprasa par iespejamo klientu, iespejamo klienta galvinieku vai citu Kreditu registra likuma noteiktu personu, kas nav ša registra dalibnieka vai Valsts kases klients vai klienta galvinieks.108
+            
+              
+              
+            
+          
+2.8.3. Registra ieklauto zinu aktualizešanas un labošanas tehniskie ierobežojumi
+106. Lai aktualizetu vai labotu registra ieklautas zinas par klientu vai visparigas zinas par klienta saistibam failu veida, registra atkartoti ieklauj visas zinas par šo klientu, visiem solidarajiem klientiem un šo klientu galviniekiem un visparigas zinas.109
+            
+              
+              
+            
+          
+107. Lai aktualizetu vai labotu registra ieklautas zinas par klienta galvinieku vai visparigas zinas par klienta galvinieka saistibam failu veida, registra atkartoti ieklauj visas zinas par šo klienta galvinieku, visiem attiecigajiem klientiem un klienta galviniekiem un visparigas zinas.110
+            
+              
+              
+            
+          
+108. Lai aktualizetu vai labotu registra ieklautas zinas par klienta saistibu parkapumiem failu veida, registra atkartoti ieklauj visas zinas par attiecigo klienta saistibu parkapumu.111
+            
+              
+              
+            
+          
+109. Lai aktualizetu vai labotu registra ieklautas zinas par klienta galvinieka saistibu parkapumiem failu veida, registra atkartoti ieklauj visas zinas par attiecigo klienta galvinieka saistibu parkapumu.112
+            
+              
+              
+            
+          
+110. Lai labotu registra ieklautas periodiskas zinas vai periodiskas riska darijumu zinas failu veida, registra atkartoti ieklauj attiecigi visas periodiskas zinas vai visas periodiskas riska darijumu zinas par attiecigajam klienta saistibam un klienta galvinieka saistibam par attiecigo parskata periodu.113
+            
+              
+              
+            
+          (LB 28.03.2019. noteikumu Nr. 172 redakcija)
+2.8.4. Informacijas sagatavošana apmainai failu veida
+111. Lai ieklautu registra zinas par klientu, klienta galvinieku, visparigas zinas un zinas par klienta un klienta galvinieka saistibu parkapumiem, ka ari aktualizetu, labotu vai anuletu šadas registra ieklautas zinas, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase sagatavo zinu sniegšanas failu.114
+            
+              
+              
+            
+          
+112. Lai labotu vai papildinatu registra ieklautas klientu vai klienta galvinieku identificejošas zinas, ka ari labotu visparigo zinu identifikatoru vai parkapuma zinu identifikatoru, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase sagatavo identificejošo zinu labošanas vai papildinašanas failu.115
+            
+              
+              
+            
+          
+113. Lai ieklautu registra periodiskas zinas, ka ari labotu vai anuletu šadas registra ieklautas zinas, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase sagatavo periodisko zinu failu.116
+            
+              
+              
+            
+          
+114. Lai pazinotu registra dalibniekam, ierobežotam registra dalibniekam vai Valsts kasei par zinu sniegšanas, periodisko zinu vai identificejošo zinu labošanas vai papildinašanas faila apstrades rezultatu, Latvijas Banka sagatavo atbildes failu.117
+            
+              
+              
+            
+          
+115. Lai pieprasitu registra ieklautas zinas, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase sagatavo visparejo pieprasijumu failu.118
+            
+              
+              
+            
+          
+116. Lai pec vispareja pieprasijumu faila apstrades registra dalibniekam, ierobežotam registra dalibniekam vai Valsts kasei izsniegtu registra ieklautas zinas, Latvijas Banka sagatavo visparejo zinu sanemšanas failu.119
+            
+              
+              
+            
+          
+117. Lai pieprasitu registra ieklautas zinas par klienta vai klienta galvinieka saistibam, kuras registra ieklavis attiecigais registra dalibnieks, ierobežotais registra dalibnieks vai Valsts kase, nesanemot zinas par klientu, klienta galvinieku un vinu saistibu parkapumiem, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase sagatavo kreditportfela pieprasijuma failu.120
+            
+              
+              
+            
+          
+118. Lai pec kreditportfela pieprasijuma faila apstrades registra dalibniekam, ierobežotam registra dalibniekam vai Valsts kasei izsniegtu registra ieklautas zinas, Latvijas Banka sagatavo kreditportfela parskata failu.121
+            
+              
+              
+            
+          
+119. Lai pieprasitu attieciga registra dalibnieka vai ierobežota registra dalibnieka registra ieklautas zinas par klienta saistibam, kuru nodrošinašanai ar Latvija registretas valsts kapitalsabiedribas, kas pilda ipašu uzdevumu – ievieš valsts attistibas un atbalsta programmas –, vai Valsts kases starpniecibu sanemta garantija vai galvojums valsts atbalsta programmas ietvaros (talak teksta – ar valsts garantiju programmu saistitas registra ieklautas zinas), registra dalibnieks vai ierobežots registra dalibnieks sagatavo ar valsts garantiju programmu saistito registra ieklauto zinu pieprasijuma failu.122
+            
+              
+              
+            
+          
+119.1 Ja šo noteikumu 119. punkta minetas ar valsts garantiju programmu saistitas registra ieklautas zinas registra dalibnieks vai ierobežots registra dalibnieks paredz pieprasit ar noteiktu regularitati un pilnvarot Latvijas Banku pilnvarojuma noteiktos laikos sagatavot un registra dalibnieka vai ierobežota registra dalibnieka varda nosutit ar valsts garantiju programmu saistito registra ieklauto zinu sanemšanas faila kopiju ari attiecigas garantijas vai galvojuma sniedzejam, tas interaktivi attiecigi pilnvaro Latvijas Banku.123
+            
+              
+              
+            
+          (LB 27.04.2020. noteikumu Nr. 181 redakcija)
+120. Lai pec tam, kad veikta ar valsts garantiju programmu saistito registra ieklauto zinu pieprasijumu faila apstrade, izsniegtu registra dalibniekam vai ierobežotam registra dalibniekam ar valsts garantiju programmu saistitas registra ieklautas zinas, Latvijas Banka sagatavo ar valsts garantiju programmu saistito registra ieklauto zinu sanemšanas failu.124
+            
+              
+              
+            
+          
+121. Registra dalibnieks, ierobežots registra dalibnieks, Valsts kase un Latvijas Banka sagatavo informaciju atbilstoši šo noteikumu 8. pielikuma noteiktajai strukturai un formatiem.125
+            
+              
+              
+            
+          
+2.8.5. Informacijas apmaina timekla pakalpju veida
+122. Lai pieprasitu registra ieklautas zinas, registra dalibnieks, ierobežots registra dalibnieks vai Valsts kase iesniedz Latvijas Bankai pieprasijumu, noradot registra ieklauto zinu atspogulojuma veidu.126
+            
+              
+              
+            
+          
+123. Registra dalibnieks, ierobežots registra dalibnieks, Valsts kase un Latvijas Banka sagatavo informaciju atbilstoši šo noteikumu 8. pielikuma noteiktajai strukturai un formatam.127
+            
+              
+              
+            
+          
+2.9. Informacijas apmaina kreditiestažu sniedzamas statistikas ietvaros
+124. Kreditiestade sniedz Latvijas Bankai statistikas parskatus failu veida, izmantojot failu apmainas servisu.128
+            
+              
+              
+            
+          
+125. Kreditiestade sagatavo statistikas parskatu ka atsevišku teksta failu atbilstoši šo noteikumu 10.–20. pielikuma noteiktajai strukturai un formatam.129
+            
+              
+              
+            
+          
+126. Lai pazinotu kreditiestadei par statistikas parskata faila sanemšanu, Latvijas Banka sniedz kreditiestadei atbildi failu veida, izmantojot failu apmainas servisu.130
+            
+              
+              
+            
+          
+127. Latvijas Banka sagatavo atbildi ka atsevišku teksta failu atbilstoši šo noteikumu 21. pielikuma noteiktajai strukturai un formatam.131
+            
+              
+              
+            
+          
+2.10. Informacijas apmaina par kreditiestades kreditriska darijumiem un tajos iesaistitajam personam
+128. Kreditiestade sniedz Latvijas Bankai informaciju par kreditiestades kreditriska darijumiem un tajos iesaistitajam personam, ka ari aktualize, labo vai anule informaciju par kreditiestades kreditriska darijumiem un tajos iesaistitajam personam:128.1. failu veida, izmantojot failu apmainas servisu;128.2. sagatavojot failu atbilstoši šo noteikumu 9. pielikuma noteiktajai strukturai un formatam;128.3. ka informacijas apmainas veidu izmantojot informacijas apmainu registra ietvaros.132
+            
+              
+              
+            
+          (Grozits ar LB 20.01.2020. noteikumiem Nr. 178)
+129. Lai pazinotu kreditiestadei par šo noteikumu 128. punkta mineta informacijas faila sanemšanu, Latvijas Banka sniedz kreditiestadei atbildi failu veida, izmantojot failu apmainas servisu, atbilstoši šo noteikumu 9. pielikuma noteiktajai strukturai un formatam.133
+            
+              
+              
+            
+          
+2.11. Failu glabašanas termini
+130. No informacijas apmainas subjekta sanemto failu pec ta apstrades Latvijas Banka failu apmainas servisa vai registra interneta vietne (adrese: https://www.kreg.lv) automatiski dzeš.134
+            
+              
+              
+            
+          
+131. Informacijas apmainas subjekts failu apmainas servisa vai registra interneta vietne (adrese: https://www.kreg.lv) no Latvijas Bankas sanemto failu var glabat ne ilgak ka 10 dienu pec ta sanemšanas. Pec mineta termina Latvijas Banka šo failu automatiski dzeš.135
+            
+              
+              
+            
+          
+3. Informacijas apmaina nebanku statistikas sistema
+132. Nebanka sniedz Latvijas Bankai statistikas parskatus interaktivi, izmantojot nebanku statistikas sistemu.136
+            
+              
+              
+            
+          
+133. Nebankas varda statistikas parskatu Latvijas Bankai iesniedz nebanku statistikas sistemas lietotajs.137
+            
+              
+              
+            
+          
+133.1 Nebanku statistikas sistemas lietotajs nebanku statistikas sistemas interneta vietne (adrese: https://stat.bank.lv) autentificejas ar šadu elektroniskas identifikacijas lidzekli:133.11. personas apliecibu;133.12. Fizisko personu elektroniskas identifikacijas likuma paredzetu citu kvalificetu vai kvalificetu paaugstinatas drošibas elektroniskas identifikacijas lidzekli, kura pienemšanu nodrošina Latvijas Banka;133.13. maksajumu pakalpojumu sniedzeja izsniegtu, uzturetu vai akceptetu drošas autentificešanas lidzekli, kurš atbilst Eiropas Komisijas 2017. gada 27. novembra Delegetas regulas (ES)  2018/389, ar ko Eiropas Parlamenta un Padomes Direktivu (ES) 2015/2366 papildina attieciba uz regulativajiem tehniskajiem standartiem par drošu lietotaja autentificešanu un vienotiem un drošiem atklatiem sazinas standartiem, prasibam un kura pienemšanu nodrošina Latvijas Banka.138
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+134. Lai registretos ka nebanku statistikas sistemas lietotajs, interaktivi nebanku statistikas sistemas interneta vietne (adrese: https://stat.bank.lv) iesniedzams nebanku statistikas sistemas lietotaja registrešanas pieteikums.139
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+135. Latvijas Banka registre nebanku statistikas sistemas lietotaju vienas darbadienas laika pec nebanku statistikas sistemas lietotaja registrešanas pieteikuma sanemšanas.140
+            
+              
+              
+            
+          
+136. Pec nebanku statistikas sistemas lietotaja registrešanas Latvijas Banka nosuta uz nebanku statistikas sistemas lietotaja e-pasta adresi lietotaja registrešanas apstiprinajumu.141
+            
+              
+              
+            
+          (Grozits ar LB22.03.2021. noteikumiem Nr. 185)
+137. Nebanku statistikas sistemas lietotaja tiesibas stajas speka nekavejoties pec vina registrešanas.142
+            
+              
+              
+            
+          (Grozits ar LB22.03.2021. noteikumiem Nr. 185)
+138. Lai nebanku statistikas sistemas lietotaju anuletu, nebanka iesniedz Latvijas Bankai nebanku statistikas sistemas lietotaja anulešanas pieteikumu interaktivi nebanku statistikas sistemas interneta vietne (adrese: https://stat.bank.lv).143
+            
+              
+              
+            
+          
+139. Latvijas Banka anule nebanku statistikas sistemas lietotaju vienas darbadienas laika pec nebanku statistikas sistemas lietotaja anulešanas pieteikuma sanemšanas.144
+            
+              
+              
+            
+          
+140. Latvijas Banka automatiski anule nebanku statistikas sistemas lietotaju, ja izpildas viens no šadiem nosacijumiem:140.1. nebanku statistikas sistemas lietotajs triju menešu laika pec vina identifikatora sanemšanas nepiesledzas nebanku statistikas sistemai;140.2. nebanku statistikas sistemas lietotajs 18 menešus nepiesledzas nebanku statistikas sistemai.145
+            
+              
+              
+            
+          
+141. Ja tiek mainits nebanku statistikas sistemas lietotaja talruna numurs vai e-pasta adrese, nebanku statistikas sistemas lietotajs nekavejoties par to informe Latvijas Banku, ievadot aktualo talruna numuru vai e-pasta adresi interaktivi nebanku statistikas sistemas sadala "Mani dati".146
+            
+              
+              
+            
+          
+4. Nosleguma jautajumi
+142. Atzit par speku zaudejušiem Latvijas Bankas 2013. gada 12. decembra noteikumus Nr. 130 "Noteikumi par elektronisko informacijas apmainu ar Latvijas Banku" (Latvijas Vestnesis, 2013, Nr. 248; 2014, Nr. 97; 2015, Nr. 95; 2016, Nr. 93, 2017, Nr. 140 un 2018, Nr. 15).147
+            
+              
+              
+            
+          
+143. Noteikumi stajas speka 2018. gada 1. aprili.148
+            
+              
+              
+            
+          
+144. (Svitrots ar LB 22.03.2021. noteikumiem Nr. 185)149
+            
+              
+              
+            
+          
+145. Lidz 2021. gada 30. septembrim nebanku statistikas sistemas lietotajs nebanku statistikas sistemas interneta vietne (adrese: https://stat.bank.lv) var autentificeties ari veida, kas tika izmantots lidz šo noteikumu 133.1 punkta speka stašanas dienai.150
+            
+              
+              
+            
+          (LB 22.03.2021. noteikumu Nr. 185 redakcija)
+Latvijas Bankas prezidents I. Rimševics
+1. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162(Pielikums LB 22.03.2021. noteikumu Nr. 185 redakcija)
+Interneta adrešu registrešanas pieteikums
+
+ 
+(informacijas apmainas subjekta
+nosaukums un registracijas numurs)
+ludz registret interneta adreses, no kuram parvaldnieks
+pieslegsies drošibas sistemai:
+ 
+.
+(tas
+aktualize parvaldnieks drošibas sistema)
+ŠIS DOKUMENTS IR ELEKTRONISKI
+PARAKSTITS AR DROŠU ELEKTRONISKO PARAKSTU UN SATUR LAIKA
+ZIMOGU.
+ 
+(personas, kura ir tiesiga
+parstavet informacijas apmainas subjektu, vards, uzvards un
+amats)
+DATUMS SKATAMS DOKUMENTA PARAKSTA LAIKA ZIMOGA.
+
+
+2. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162(Pielikums LB 22.03.2021. noteikumu Nr. 185 redakcija)
+Parvaldnieka registrešanas pieteikums
+
+(informacijas apmainas subjekta
+nosaukums un registracijas numurs)
+ludz registret parvaldnieku
+ 
+(vards, uzvards; personas kods)
+ 
+.
+(e-pasta
+adrese; mobila talruna numurs)
+ 
+ 
+
+Interneta adreses, no kuram parvaldnieks pieslegsies drošibas
+sistemai:
+ 
+ 
+ 
+ 
+ 
+.
+
+(janorada, ja šadas adreses iepriekš nav registretas; tas
+aktualize parvaldnieks drošibas sistema)
+ŠIS DOKUMENTS IR ELEKTRONISKI
+PARAKSTITS AR DROŠU ELEKTRONISKO PARAKSTU UN SATUR LAIKA
+ZIMOGU.
+ 
+(personas, kura ir tiesiga
+parstavet informacijas apmainas subjektu, vards, uzvards un
+amats)
+ 
+ 
+(parvaldnieka vards
+un uzvards)
+ 
+DATUMS SKATAMS DOKUMENTA PARAKSTA LAIKA ZIMOGA.
+
+
+3. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Parvaldnieka registracijas koda nodošanas protokols(Pielikums svitrots ar LB 22.03.2021. noteikumiem Nr. 185)
+
+
+
+4. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Parvaldnieka ieviešanas protokols(Pielikums svitrots ar LB 22.03.2021. noteikumiem Nr. 185)
+
+
+
+5. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162(Pielikums LB 22.03.2021. noteikumu Nr. 185 redakcija)
+Parvaldnieka anulešanas pieteikums
+
+ 
+(informacijas apmainas subjekta nosaukums un
+registracijas numurs)
+pazino par parvaldnieka
+ 
+(vards, uzvards; personas
+kods)
+anulešanu.
+ŠIS DOKUMENTS IR ELEKTRONISKI
+PARAKSTITS AR DROŠU ELEKTRONISKO PARAKSTU UN SATUR LAIKA
+ZIMOGU.
+ 
+(personas, kura ir tiesiga
+parstavet informacijas apmainas subjektu, vards, uzvards un
+amats)
+DATUMS SKATAMS DOKUMENTA PARAKSTA LAIKA ZIMOGA.
+
+
+6. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162(Pielikums LB 22.03.2021. noteikumu Nr. 185 redakcija)
+Parvaldnieka atjaunošanas pieteikums
+
+(informacijas apmainas subjekta
+nosaukums un registracijas numurs)
+ludz atjaunot parvaldnieku
+ 
+(vards, uzvards; personas kods)
+ 
+.
+(e-pasta
+adrese; mobila talruna numurs)
+ 
+ 
+
+Atjaunošanas iemesls:
+ 
+ 
+ 
+ 
+ 
+.
+ŠIS DOKUMENTS IR ELEKTRONISKI
+PARAKSTITS AR DROŠU ELEKTRONISKO PARAKSTU UN SATUR LAIKA
+ZIMOGU.
+ 
+(personas, kura ir tiesiga
+parstavet informacijas apmainas subjektu, vards, uzvards un
+amats)
+ 
+ 
+(parvaldnieka vards
+un uzvards)
+ 
+DATUMS SKATAMS DOKUMENTA PARAKSTA LAIKA ZIMOGA.
+
+
+7. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Parvaldnieka registracijas koda atjaunošanas protokols(Pielikums svitrots ar LB 22.03.2021. noteikumiem Nr. 185)
+
+
+
+8. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Registra failu un timekla pakalpju formati un struktura(Pielikums grozits ar LB 28.03.2019. noteikumiem Nr. 172; LB 20.01.2020. noteikumiem Nr. 178; LB 27.04.2020. noteikumiem Nr. 181; LB 21.07.2020. noteikumiem Nr. 182; LB 22.03.2021. noteikumiem Nr. 185; grozijumi pielikuma 14.1. un 14.2. apakšpunkta piemerojami ar 31.01.2022., sk. grozijumu 3. punktu)
+
+I. Izmantotie apzimejumi
+1. Apzimejumi
+
+Apzimejums
+
+Skaidrojums
+N
+Vertiba ir skaitlis
+C
+Vertiba ir simbolu kombinacija.
+Izmantojamie simboli ir "0"–"9", "A"–"Z", "a"–"z", atstarpes
+(Space) simbols, "–", "+", "!", "?", ".", ",", "&",
+"*", "_", "(", ")", "'", ":", "%", ";" un "/"
+Cn
+Vertiba ka formata C gadijuma,
+maksimalais vertibas garums ir n simboli
+Nm
+Vertiba ir skaitlis ar maksimalo
+garumu m simboli
+GGGG-MM-DD
+Vertiba ir datums formata
+GGGG-MM-DD, kur:
+GGGG – cetrciparu gadskaitlis;
+MM – divciparu meneša numurs (no 01 lidz 12);
+DD – divciparu meneša dienas numurs (no 01 lidz 31)
+
+HH.MM:SS
+Vertiba ir laiks formata HH.MM:SS,
+kur:
+HH – stundas (no 00 lidz 23);
+MM – minutes (no 00 lidz 59);
+SS – sekundes (no 00 lidz 59)
+
+Cn vai Nn
+Vertiba ka formata C vai N
+gadijuma, vertibas garums ir precizi n simboli
+II. Failu apmaina, izmantojot failu
+apmainas servisu
+2. Faila nosaukuma formats ir
+aaaggmmddnnnnnn.xml, GZIP formata sapakota faila
+formats ir aaaggmmddnnnnnn.gz, bet šifreta un
+elektroniski parakstita faila nosaukuma formats ir
+aaaggmmddnnnnnn.ext, kur:
+2.1. aaa – atbilstoša faila veida nosaukuma
+prefikss;
+2.2. ggmmdd – faila sagatavošanas datums;
+2.3. nnnnnn – unikals faila numurs faila
+sagatavošanas diena;
+2.4. ext – šifreta un elektroniski parakstita faila
+paplašinajums ("ent" vai "p7m").
+3. Registra dalibnieks, ierobežots registra dalibnieks un
+Valsts kase sagatavotos failus pec to sapakošanas, elektroniskas
+parakstišanas un šifrešanas ievieto failu apmainas servisa
+KREG/OUT kataloga. Latvijas Banka atbildes failus pec to
+sapakošanas, elektroniskas parakstišanas un šifrešanas
+ievieto failu apmainas servisa KREG/IN kataloga. Failu
+sapakošana ir obligata, ja tiek izmantots šifreta un
+elektroniski parakstita faila "p7m" formats.
+III. Zinu sniegšanas fails
+4. Zinu sniegšanas faila nosaukuma
+prefikss ir "krk".
+5. Zinu sniegšanas faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 7.
+punktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Zinojuma
+bloks</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Zinojuma
+bloks</Message>
+ 
+</KRMessages>
+</KRFile>
+6. Zinojuma bloka norada klienta vai klienta galvinieka
+saistibas identificejošo zinojumu (sk. ša pielikuma 8.
+punktu), parkapuma zinojumu (sk. ša pielikuma 9. punktu)
+vai parkapuma noveršanas zinojumu (sk. ša pielikuma 10.
+punktu).
+7. Faila sakuma bloks
+7.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka
+vai Valsts kases
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>K</FileType>
+</Header>
+7.2. Faila sakuma bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Zinojumu skaits
+Zinojumu skaits faila. Zinojumu
+skaits viena faila nedrikst parsniegt 10 000
+N5
+Datums
+Faila sagatavošanas datums
+GGGG-MM-DD
+8. Klienta vai klienta
+galvinieka saistibas identificejošais zinojums
+8.1. Klienta vai klienta galvinieka
+saistibas identificejoša zinojuma struktura zinu
+ieklaušanas, aktualizešanas un labošanas gadijuma
+(anulešanas gadijuma nenorada bloku BorrowerList) ir
+šada.
+<Message>
+ 
+<Header>Sakuma
+bloks (sk. ša pielikuma 8.2.
+apakšpunktu)</Header>
+ 
+
+<BorrowerList>
+ 
+ 
+<Borrower>Personas apraksta
+bloks (sk. ša pielikuma
+ 
+ 
+
+8.3. apakšpunktu)</Borrower>
+ 
+ 
+…
+ 
+ 
+<Borrower>Personas apraksta
+bloks</Borrower>
+ 
+
+</BorrowerList>
+ 
+<Credit>Klienta
+vai klienta galvinieka saistibu apraksta bloks (sk. ša
+pielikuma
+ 
+
+8.4. apakšpunktu)</Credit>
+</Message>
+ 
+8.2. Sakuma bloks
+8.2.1. Sakuma bloka struktura
+<Header>
+ 
+
+<MessageType>S</MessageType>
+ 
+<Operation>Operacijas
+veids</Operation>
+</Header>
+8.2.2. Sakuma bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Operacijas veids
+"N" – zinojuma ieklaušana;
+"E" – zinojuma aktualizešana vai labošana;
+"D" – zinojuma anulešana
+
+
+C1
+8.3. Personas apraksta bloks
+8.3.1. Personas apraksta bloka struktura ir atkariga no
+personas un rezidenta pazimes.
+8.3.2. Fiziskas personas rezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<PersonCode>Personas kods</PersonCode>
+ 
+
+<CloseConnected>Individuala norade par klienta
+ciešam attiecibam vai Individuala norade par klienta
+galvinieka ciešam attiecibam</CloseConnected>
+ 
+<PeriodList>
+ 
+ 
+<Period>
+ 
+ 
+ 
+
+<Status>Statuss</Status>
+ 
+ 
+ 
+
+<IndividualDateFrom>Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka
+saistibu sakuma datums</IndividualDateFrom>
+ 
+ 
+ 
+
+<IndividualDateTo>Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai Individualais
+klienta galvinieka liguma noteiktais klienta galvinieka
+saistibu beigu datums</IndividualDateTo>
+ 
+ 
+ 
+<GuaranteeAmount>Klienta
+galvinieka saistibu apjoms</GuaranteeAmount>
+ 
+ 
+ 
+<GuaranteeCurrency>Klienta
+galvinieka saistibu valutas
+kods</GuaranteeCurrency>
+ 
+ 
+ 
+
+<ActualEndDate>Individualais klienta saistibu
+faktiskais beigu datums vai Individualais klienta
+galvinieka saistibu faktiskais beigu
+datums</ActualEndDate>
+ 
+ 
+</Period>
+ 
+ 
+…
+ 
+ 
+
+<Period>...</Period>
+ 
+</PeriodList>
+</Borrower>
+ 
+8.3.3. Fiziskas personas nerezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<DocNumber>Personu apliecinoša dokumenta
+numurs</DocNumber>
+ 
+
+<Country>Personu apliecinoša dokumenta izdevejvalsts
+kods</Country>
+ 
+
+<BirthDate>Dzimšanas
+datums</BirthDate>
+ 
+
+<PersonCodeN>Personas
+kods</PersonCodeN>
+ 
+
+<Name>Vards</Name>
+ 
+
+<Surname>Uzvards</Surname>
+ 
+
+<CloseConnected>Individuala norade par klienta
+ciešam attiecibam vai Individuala norade par klienta
+galvinieka ciešam attiecibam</CloseConnected>
+ 
+<PeriodList>
+ 
+ 
+<Period>
+ 
+ 
+ 
+
+<Status>Statuss</Status>
+ 
+ 
+ 
+
+<IndividualDateFrom>Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka
+saistibu sakuma datums</IndividualDateFrom>
+ 
+ 
+ 
+
+<IndividualDateTo>Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai Individualais
+klienta galvinieka liguma noteiktais klienta galvinieka
+saistibu beigu datums</IndividualDateTo>
+ 
+ 
+ 
+<GuaranteeAmount>Klienta
+galvinieka saistibu apjoms</GuaranteeAmount>
+ 
+ 
+ 
+<GuaranteeCurrency>Klienta
+galvinieka saistibu valutas
+kods</GuaranteeCurrency>
+ 
+ 
+ 
+
+<ActualEndDate>Individualais klienta saistibu
+faktiskaisbeigu datums vai Individualais klienta galvinieka
+saistibu faktiskais beigu datums</ActualEndDate>
+ 
+ 
+</Period>
+ 
+ 
+…
+ 
+ 
+
+<Period>...</Period>
+ 
+</PeriodList>
+</Borrower>
+ 
+8.3.4. Juridiskas personas rezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<RegNumber>Vienotas registracijas
+numurs</RegNumber>
+ 
+
+<InvestmentFundID>fonda
+identifikators</InvestmentFundID>
+ 
+
+<CloseConnected>Individuala norade par klienta
+ciešam attiecibam vai Individuala norade par klienta
+galvinieka ciešam attiecibam</CloseConnected>
+ 
+<PeriodList>
+ 
+ 
+<Period>
+ 
+ 
+ 
+
+<Status>Statuss</Status>
+ 
+ 
+ 
+
+<IndividualDateFrom>Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka
+saistibu sakuma datums</IndividualDateFrom>
+ 
+ 
+ 
+
+<IndividualDateTo>Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai Individualais
+klienta galvinieka liguma noteiktais klienta galvinieka
+saistibu beigu datums</IndividualDateTo>
+ 
+ 
+ 
+<GuaranteeAmount>Klienta
+galvinieka saistibu apjoms</GuaranteeAmount>
+ 
+ 
+ 
+<GuaranteeCurrency>Klienta
+galvinieka saistibu valutas
+kods</GuaranteeCurrency>
+ 
+ 
+ 
+
+<ActualEndDate>Individualais klienta saistibu
+faktiskais beigu datums vai Individualais klienta
+galvinieka saistibu faktiskais beigu
+datums</ActualEndDate>
+ 
+ 
+</Period>
+ 
+ 
+…
+ 
+ 
+
+<Period>…</Period>
+ 
+</PeriodList>
+</Borrower>
+ 
+8.3.5. Juridiskas personas
+nerezidenta apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<Country>Registracijas valsts
+kods</Country>
+ 
+
+<RegNumberN>Registracijas
+numurs</RegNumberN>
+ 
+
+<RegNumType>Registracijas numura
+veids</RegNumType>
+ 
+
+<InvestmentFundID>fonda
+identifikators</InvestmentFundID>
+ 
+
+<RegDate>Registracijas
+datums</RegDate>
+ 
+
+<NameJP>Nosaukums</NameJP>
+ 
+
+<LegalForm>Juridiska forma</LegalForm>
+ 
+
+<AddressStreet>Juridiska adrese –
+iela</AddressStreet>
+ 
+
+<AddressCity>Juridiska adrese – administrativa
+teritorija</AddressCity>
+ 
+
+<AddressPostalCode>Juridiska adrese – pasta
+indekss</AddressPostalCode>
+ 
+
+<AddressPostBox>Juridiska adrese –
+pastkastite</AddressPostBox>
+ 
+
+<CloseConnected>Individuala norade par klienta
+ciešam attiecibam vai Individuala norade par klienta
+galvinieka ciešam attiecibam</CloseConnected>
+ 
+<PeriodList>
+ 
+ 
+<Period>
+ 
+ 
+ 
+
+<Status>Statuss</Status>
+ 
+ 
+ 
+
+<IndividualDateFrom>Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka
+saistibu sakuma datums</IndividualDateFrom>
+ 
+ 
+ 
+
+<IndividualDateTo>Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai
+Individualais klienta galvinieka liguma noteiktais
+klienta galvinieka saistibu beigu
+datums</IndividualDateTo>
+ 
+ 
+ 
+<GuaranteeAmount>Klienta
+galvinieka saistibu apjoms</GuaranteeAmount>
+ 
+ 
+ 
+<GuaranteeCurrency>Klienta
+galvinieka saistibu valutas
+kods</GuaranteeCurrency>
+ 
+ 
+ 
+
+<ActualEndDate>Individualais klienta saistibu
+faktiskaisbeigu datums vai Individualais klienta galvinieka
+saistibu faktiskais beigu datums</ActualEndDate>
+ 
+ 
+</Period>
+ 
+ 
+…
+ 
+ 
+
+<Period>...</Period>
+ 
+</PeriodList>
+ 
+
+<Category>Kategorija</Category>
+ 
+
+<EconomicSector>Tautsaimniecibas
+nozare</EconomicSector>
+ 
+
+<LegalStatus>Tiesvedibas
+statuss</LegalStatus>
+ 
+
+<LegalStatusDate>Tiesvedibas statusa noteikšanas
+datums</LegalStatusDate>
+</Borrower>
+8.3.6. Personas apraksta bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Personas pazime
+"F" – fiziska persona;
+"J" – juridiska persona
+
+
+C1
+Rezidenta pazime
+"R" – rezidents;
+"N" – nerezidents
+
+
+C1
+Personas kods
+Personas kods
+N6-N5
+C40
+
+Vards
+Vards
+C40
+Uzvards
+Uzvards
+C60
+Personu apliecinoša dokumenta
+numurs
+Personu apliecinoša dokumenta
+numurs
+C40
+Dzimšanas datums
+Dzimšanas datums
+GGGG-MM-DD
+Vienotas registracijas numurs
+Vienotas registracijas numurs
+
+N11
+Fonda identifikators
+Ieguldijumu fonda, alternativo
+ieguldijumu fonda, ieguldijumu plana vai pensiju plana
+identifikacijas kods
+C20
+Nosaukums
+Nosaukums
+C254
+Registracijas valsts kods
+No standarta
+
+C2
+Personu apliecinoša dokumenta
+izdevejvalsts kods
+No standarta
+
+C2
+Registracijas numurs
+Registracijas numurs
+C100
+Registracijas numura veids
+Registracijas numura veids (no kodu
+saraksta)
+C22
+Registracijas datums
+Registracijas datums
+GGGG-MM-DD
+Juridiska forma
+Juridiska forma
+C6
+Juridiska adrese – iela
+Iela, ekas numurs un dzivokla
+numurs (ja eka sadalita dzivoklos) vai majas nosaukums.
+Norada ari pastkastites numuru, ja nav izdalams atseviški un
+netiek noradits lauka "Juridiska adrese – pastkastite"
+C100
+Juridiska adrese – administrativa
+teritorija
+Pilseta vai pagasts
+C100
+Juridiska adrese – pasta
+indekss
+Pasta indekss
+C20
+Juridiska adrese –
+pastkastite
+Pastkastites numurs. Norada, ja ir
+izdalams atseviški un nav ietverts lauka "Juridiska adrese –
+iela"
+C20
+Individuala norade par klienta
+ciešam attiecibam vai Individuala norade par klienta
+galvinieka ciešam attiecibam
+"C"
+C1
+Statuss
+"B" – klients;
+"G" – klienta galvinieks
+
+
+C1
+Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka saistibu
+sakuma datums
+Individualais klienta saistibu
+sakuma datums vai individualais klienta galvinieka saistibu
+sakuma datums
+GGGG-MM-DD
+Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai Individualais
+klienta galvinieka liguma noteiktais klienta galvinieka saistibu
+beigu datums
+Individualais klienta liguma
+noteiktais klienta saistibu beigu datums vai individualais
+klienta galvinieka liguma noteiktais klienta galvinieka saistibu
+beigu datums
+GGGG-MM-DD
+Klienta galvinieka saistibu
+apjoms
+Klienta galvinieka saistibu
+apjoms
+N15.N2
+Klienta galvinieka saistibu valutas
+kods
+No standarta
+
+C3
+Individualais klienta saistibu
+faktiskais beigu datums vai Individualais klienta galvinieka
+saistibu faktiskais beigu datums
+Individualais klienta saistibu
+faktiskais beigu datums vai individualais klienta galvinieka
+saistibu faktiskais beigu datums
+GGGG-MM-DD
+Kategorija
+No kodu saraksta
+
+N2
+Tautsaimniecibas nozare
+No regulas
+N2, N3 vai N4
+Tiesvedibas statuss
+No kodu saraksta
+
+N2
+Tiesvedibas statusa noteikšanas
+datums
+Tiesvedibas statusa noteikšanas
+datums
+GGGG-MM-DD
+ 
+8.4. Klienta vai klienta galvinieka
+saistibu apraksta bloks
+8.4.1. Bloka struktura
+<Credit>
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+<CreditType>Klienta
+saistibu veids</CreditType>
+ 
+<ContractID>Klienta liguma
+identifikators</ContractID>
+ 
+<CreditPurpose>Klienta
+saistibu merkis</CreditPurpose>
+ 
+<ValidFrom>Klienta
+saistibu sakuma datums</ValidFrom>
+ 
+<TakeOverDate>Klienta
+saistibu parnemšanas datums</TakeOverDate>
+ 
+<ValidTo>Klienta liguma
+noteiktais klienta saistibu beigu
+datums</ValidTo>
+ 
+<SettlementDate>Norekina
+datums</SettlementDate>
+ 
+
+<TransfAmount>Parskaitita
+summa</TransfAmount>
+ 
+
+<TransfAmountCurrency>Parskaititas summas valutas
+kods</TransfAmountCurrency>
+ 
+<ActualEndDate>Klienta
+saistibu faktiskais beigu datums</ActualEndDate>
+ 
+<Amount>Klienta liguma
+noteiktais klienta saistibu
+apjoms</Amount>
+ 
+<Currency>Klienta liguma
+noteikto klienta saistibu valutas
+kods</Currency>
+ 
+<Syndicate>Norade par
+sindiceto kreditu</Syndicate>
+ 
+<SyndContractID>Sindiceta
+kredita liguma identifikators</SyndContractID>
+ 
+<RegrRights>Norade par
+regresa tiesibam</RegrRights>
+ 
+<CreditStatus>Klienta
+saistibu statuss</CreditStatus>
+ 
+<OriginationWay>Klienta
+saistibu rašanas veids</OriginationWay>
+ 
+<CompletionWay>Klienta
+saistibu izbeigšanas veids</CompletionWay>
+ 
+<Covid19Status>Norade par
+atbalsta pasakumiem sakara ar Covid-19
+izplatibu</Covid19Status>
+ 
+<Covid19StatusDate>Atbalsta
+pasakumu sakara ar Covid-19 izplatibu piemerošanas sakuma
+datums</Covid19StatusDate>
+ 
+<Losses>Zaudejumu
+apjoms</Losses>
+ 
+<LossesCurrency>Zaudejumu
+apjoma valutas kods</LossesCurrency>
+ 
+<LinkedPart>Saistitais
+registra dalibnieks</LinkedPart>
+ 
+
+<CountryRiskTransfBasis>Valsts riska parneses
+pamats</CountryRiskTransfBasis>
+ 
+
+<RiskEmanatingCountry>Valsts, no kuras parnests
+risks</RiskEmanatingCountry>
+ 
+<RiskAcceptCountry>Valsts,
+uz kuru parnests risks</RiskAcceptCountry>
+</Credit>
+8.4.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Klienta saistibu veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Klienta liguma identifikators
+Klienta liguma identifikators.
+Nenorada, ja operacijas veids ir "D"
+C35
+Klienta saistibu merkis
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Klienta saistibu sakuma datums
+Klienta saistibu sakuma datums.
+Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Klienta saistibu parnemšanas
+datums
+Klienta saistibu parnemšanas
+datums. Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu beigu datums
+Klienta liguma noteiktais klienta
+saistibu beigu datums. Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Norekina datums
+Norekina datums. Nenorada, ja
+operacijas veids ir "D"
+GGGG-MM-DD
+Parskaitita summa
+Parskaitita summa. Nenorada, ja
+operacijas veids ir "D"
+N15.N2
+Parskaititas summas valutas
+kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu faktiskais beigu
+datums
+Klienta saistibu faktiskais beigu
+datums. Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu apjoms
+Klienta liguma noteiktais klienta
+saistibu apjoms. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta liguma noteikto klienta
+saistibu valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Norade par sindiceto kreditu
+"1" – izsniegts sindicetais
+kredits. Nenorada, ja operacijas veids ir "D"
+
+C1
+Sindiceta kredita liguma
+identifikators
+Sindiceta kredita liguma
+identifikators. Nenorada, ja operacijas veids ir "D"
+C35
+Norade par regresa tiesibam
+"1" – ir regresa tiesibas.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+Klienta saistibu statuss
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Klienta saistibu rašanas veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Klienta saistibu izbeigšanas
+veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Norade par atbalsta pasakumiem
+sakara ar Covid-19 izplatibu
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Atbalsta pasakumu sakara ar Covid-19
+izplatibu piemerošanas sakuma datums
+Atbalsta pasakumu sakara ar Covid-19
+izplatibu piemerošanas sakuma datums. Nenorada, ja operacijas
+veids ir "D"
+GGGG-MM-DD
+Zaudejumu apjoms
+Zaudejumu apjoms. Nenorada, ja
+operacijas veids ir "D"
+N15.N2
+Zaudejumu apjoma valutas kods
+"EUR" vai "LVL". Ja nav noradits,
+tad ir "EUR". Nenorada, ja operacijas veids ir "D"
+
+C3
+Saistitais registra dalibnieks
+Visu saistito registra dalibnieku
+identifikatori, atdaliti ar komatu. Nenorada, ja operacijas
+veids ir "D"
+C
+Valsts riska parneses pamats
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Valsts, no kuras parnests risks
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C2
+Valsts, uz kuru parnests risks
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C2
+ 
+9. Parkapuma zinojums
+9.1. Parkapuma zinojuma struktura
+zinu ieklaušanas, aktualizešanas un labošanas gadijuma
+(anulešanas gadijuma nenorada bloku Borrower)
+<Message>
+ 
+<Header>Sakuma bloks
+(sk. ša pielikuma 9.2. apakšpunktu)</Header>
+ 
+<Credit>Klienta vai klienta
+galvinieka saistibu apraksta bloks (sk. ša pielikuma 9.3.
+apakšpunktu)</Credit>
+ 
+<Borrower>Personas apraksta
+bloks (sk. ša pielikuma
+9.4. apakšpunktu)</Borrower>
+</Message>
+ 
+9.2. Sakuma bloks
+9.2.1. Sakuma bloka struktura
+<Header>
+ 
+
+<MessageType>N</MessageType>
+ 
+<MessageID>Parkapuma
+zinu identifikators</MessageID>
+ 
+<Operation>Operacijas
+veids</Operation>
+</Header>
+9.2.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Parkapuma zinu identifikators
+Ja operacijas veids ir "E" vai "D",
+norada atbilstoša aktualizejama, labojama vai anulejama
+zinojuma parkapuma zinu identifikatoru
+C16
+Operacijas veids
+"N" – zinojuma ieklaušana;
+"E" – zinojuma aktualizešana vai labošana;
+"D" – zinojuma anulešana
+
+
+C1
+ 
+9.3. Klienta vai klienta galvinieka
+saistibu apraksta bloks
+9.3.1. Klienta vai klienta galvinieka
+saistibu apraksta bloka struktura
+<Credit>
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+<MKDate>Parkapuma
+datums</MKDate>
+ 
+<MKZDate>Parkapuma
+zinošanas sakuma datums</MKZDate>
+</Credit>
+9.3.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Parkapuma datums
+Parkapuma datums
+GGGG-MM-DD
+Parkapuma zinošanas sakuma
+datums
+Parkapuma zinošanas sakuma
+datums
+GGGG-MM-DD
+ 
+9.4. Personas apraksta bloks
+9.4.1. Bloka lietojamo zinu aprakstu sk. ša
+pielikuma 8.3.6. apakšpunkta.
+ 
+9.4.2. Personas apraksta bloka struktura ir
+atkariga no personas un rezidenta pazimes.
+ 
+9.4.3. Fiziskas personas rezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<PersonCode>Personas
+kods</PersonCode>
+</Borrower>
+ 
+9.4.4. Fiziskas personas nerezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<DocNumber>Personu
+apliecinoša dokumenta numurs</DocNumber>
+ 
+<Country>Personu
+apliecinoša dokumenta izdevejvalsts
+kods</Country>
+ 
+<BirthDate>Dzimšanas
+datums</BirthDate>
+ 
+<PersonCodeN>Personas
+kods</PersonCodeN>
+</Borrower>
+ 
+9.4.5. Juridiskas personas rezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<RegNumber>Vienotas
+registracijas numurs</RegNumber>
+</Borrower>
+ 
+9.4.6. Juridiskas personas
+nerezidenta apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<Country>Registracijas
+valsts kods</Country>
+ 
+<RegNumberN>Registracijas
+numurs</RegNumberN>
+ 
+<RegDate>Registracijas
+datums</RegDate>
+</Borrower>
+ 
+10. Parkapuma noveršanas
+zinojums
+10.1. Parkapuma noveršanas
+zinojuma struktura:
+<Message>
+ 
+<Header>Sakuma bloks
+(sk. ša pielikuma 10.2. apakšpunktu)</Header>
+ 
+<Credit>Klienta vai klienta
+galvinieka saistibu apraksta bloks (sk. ša pielikuma 10.3.
+apakšpunktu)</Credit>
+</Message>
+ 
+10.2. Sakuma bloks
+10.2.1. Sakuma bloka struktura
+<Header>
+ 
+
+<MessageType>P</MessageType>
+ 
+<MessageID>Parkapuma
+zinu identifikators</MessageID>
+<MessageIDCO>Saistitais parkapuma zinu
+identifikators</MessageIDCO>
+ 
+<Operation>Operacijas
+veids</Operation>
+</Header>
+10.2.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Parkapuma zinu identifikators
+Ja operacijas veids ir "E" vai "D",
+norada atbilstoša aktualizejama, labojama vai anulejama
+zinojuma parkapuma zinu identifikatoru
+C16
+Saistitais parkapuma zinu
+identifikators
+Parkapuma zinu identifikators no
+atbilstoša parkapuma zinojuma
+C16
+Operacijas veids
+"N" – zinojuma ieklaušana;
+"E" – zinojuma aktualizešana vai labošana;
+"D" – zinojuma anulešana
+
+
+C1
+ 
+10.3. Klienta vai klienta galvinieka
+saistibu apraksta bloks
+10.3.1. Klienta vai klienta galvinieka
+saistibu apraksta bloka struktura
+<Credit>
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+<MKIDate>Parkapuma
+noveršanas datums</MKIDate>
+</Credit>
+10.3.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Parkapuma noveršanas datums
+Parkapuma noveršanas datums
+GGGG-MM-DD
+IV. Periodisko zinu fails
+11. Periodisko zinu faila nosaukuma prefikss ir "krr".
+12. Periodisko zinu faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 13.
+punktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Periodisko zinu
+zinojuma bloks (sk. ša pielikuma
+14. punktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Periodisko zinu
+zinojuma bloks</Message>
+ 
+</KRMessages>
+</KRFile>
+ 
+13. Faila sakuma bloks
+13.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka
+vai Valsts kases
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>R</FileType>
+</Header>
+13.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Zinojumu skaits
+Zinojumu skaits faila. Zinojumu
+skaits viena faila nedrikst parsniegt 10 000
+N5
+Datums
+Periodisko zinu faila sagatavošanas
+datums
+GGGG-MM-DD
+ 
+14. Periodisko zinu zinojuma
+bloks
+14.1. Periodisko zinu zinojuma bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+
+<Month>Kalendarais menesis</Month>
+ 
+ 
+
+<MessageType>R</MessageType>
+ 
+ 
+
+<Operation>Operacijas
+veids</Operation>
+ 
+</Header>
+ 
+<Credit>
+ 
+ 
+
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+ 
+
+<RemainingAmount>Klienta saistibu faktiskais
+atlikums</RemainingAmount>
+ 
+ 
+
+<RemainderCurrency>Klienta saistibu faktiska atlikuma
+valutas kods</RemainderCurrency>
+ 
+ 
+
+<OffBlncAmount>Klienta saistibu neizmantotais
+apjoms</OffBlncAmount>
+ 
+ 
+
+<OffBlncCurrency>Klienta saistibu neizmantota apjoma
+valutas kods</OffBlncCurrency>
+ 
+ 
+
+<InterestRateRevisionDate>Procentu likmes nakamas
+parskatišanas datums</InterestRateRevisionDate>
+ 
+ 
+
+<IntRateEndDate>Datums, kad beidzas periods, kura tiek
+maksati tikai procenti</IntRateEndDate>
+ 
+ 
+
+<CustomerDefaultStatus>Klienta saistibu neizpildes
+novertejums vai Klienta galvinieka saistibu neizpildes
+novertejums</CustomerDefaultStatus>
+ 
+ 
+
+<CustomerDefaultStatusDate>Klienta saistibu neizpildes
+novertejuma noteikšanas datums vai Klienta galvinieka
+saistibu neizpildes novertejuma noteikšanas
+datums</CustomerDefaultStatusDate>
+ 
+ 
+
+<IntRate>Procentu likme</IntRate>
+ 
+ 
+
+<IntRateCap>Maksimala procentu
+likme</IntRateCap>
+ 
+ 
+
+<IntRateFloor>Minimala procentu
+likme</IntRateFloor>
+ 
+ 
+
+<RefRate>Atsauces procentu likmes
+vertiba</RefRate>
+ 
+ 
+
+<RefRateDur>Atsauces procentu likmes
+terminš</RefRateDur>
+ 
+ 
+
+<IntRateSpread>Procentu likmes
+pieskaitijums</IntRateSpread>
+ 
+ 
+
+<IntRateType>Procentu likmes
+veids</IntRateType>
+ 
+ 
+
+<IntRateFrq>Procentu likmes parskatišanas
+periodiskums</IntRateFrq>
+ 
+ 
+
+<AccountClsf>Klienta saistibu klasifikacija
+gramatvediba</AccountClsf>
+ 
+ 
+
+<AmountInNext12M>Atmaksajamas klienta saistibu
+pamatsummas apjoms nakamajos 12
+menešos</AmountInNext12M>
+ 
+ 
+
+<AmrtType>Amortizacijas
+veids</AmrtType>
+ 
+ 
+
+<PmntFrq>Maksajumu
+periodiskums</PmntFrq>
+ 
+ 
+
+<FiduciaryInst>Norade par fiduciarajam
+saistibam</FiduciaryInst>
+ 
+ 
+
+<FiduciaryInstCountry>Norade par tas personas
+valstisko piederibu, kura uznemas ar klienta saistibam
+saistito risku</FiduciaryInstCountry>
+ 
+ 
+
+<ProjectLoan>Norade par projekta finansešanas
+aizdevumu</ProjectLoan>
+ 
+ 
+
+<SubDebts>Norade par pakartotam
+saistibam</SubDebts>
+ 
+ 
+
+<RpmntRights>Norade par atmaksas
+tiesibam</RpmntRights>
+ 
+ 
+
+<FairValueRisk>Klienta saistibu faktiska atlikuma un
+to novertejuma pirms tiesibu un saistibu vai prasijuma
+tiesibu parnemšanas starpiba</FairValueRisk>
+ 
+ 
+
+<AccInterest>Uzkrata procentu
+summa</AccInterest>
+ 
+ 
+
+<AccInterestCurrency>Uzkratas procentu summas valutas
+kods</AccInterestCurrency>
+ 
+ 
+
+<Accruals>Klienta saistibu pamatsummai uzkrata
+vertibas samazinajuma summa</Accruals>
+ 
+ 
+
+<AccrualsCurrency>Klienta saistibu pamatsummai
+uzkratas vertibas samazinajuma summas valutas
+kods</AccrualsCurrency>
+ 
+ 
+
+<QualityRate>Klienta saistibu vertibas samazinajuma
+novertešanas metode</QualityRate>
+ 
+ 
+
+<ImpairmentType>Klienta saistibu vertibas
+samazinajuma veids</ImpairmentType>
+ 
+ 
+
+<CreditClass>Klienta saistibu klasifikacijas
+grupa</CreditClass>
+ 
+ 
+
+<ProbabilityOfDefault>Klienta saistibu nepildišanas
+varbutiba</ProbabilityOfDefault>
+ 
+ 
+
+<LossGivenDefault>Iespejamie zaudejumi klienta
+saistibu nepildišanas
+gadijuma</LossGivenDefault>
+ 
+ 
+
+<PoDMethod>Norade par vertešanas
+metodi</PoDMethod>
+ 
+ 
+
+<DelayPeriod>Kavejuma dienu
+skaits</DelayPeriod>
+ 
+ 
+
+<DelayAmount>Klienta saistibu kaveta
+pamatsumma</DelayAmount>
+ 
+ 
+
+<DelayCurrency>Klienta saistibu kavetas pamatsummas
+valutas kods</DelayCurrency>
+ 
+ 
+
+<DelayInterest>Klienta saistibu kaveta procentu
+summa</DelayInterest>
+ 
+ 
+
+<DelayInterestCurrency>Klienta saistibu kavetas
+procentu summas valutas
+kods</DelayInterestCurrency>
+ 
+ 
+
+<OtherDelayedFees>Klienta saistibu citu kaveto
+maksajumu summa</OtherDelayedFees>
+ 
+ 
+
+<OtherDelayedFeesCurrency>Klienta saistibu citu kaveto
+maksajumu summas valutas
+kods</OtherDelayedFeesCurrency>
+ 
+ 
+
+<CreditDefaultStatus>Individualo klienta saistibu
+neizpildes statuss</CreditDefaultStatus>
+ 
+ 
+
+<CreditDefaultDate>Individualo klienta saistibu
+neizpildes statusa noteikšanas
+datums</CreditDefaultDate>
+ 
+ 
+
+<PerformingStatus>Klienta saistibu pelnitspejas
+statuss</PerformingStatus>
+ 
+ 
+
+<PerformingDate>Klienta saistibu pelnitspejas statusa
+noteikšanas datums</PerformingDate>
+ 
+ 
+
+<AccountRef>Norade par uzskaiti
+gramatvediba</AccountRef>
+ 
+ 
+
+<RecognBalStatus>Norade par atzišanu bilance un
+arpusbilance</RecognBalStatus>
+ 
+ 
+
+<SecuritType>Vertspapirošanas
+veids</SecuritType>
+ 
+ 
+
+<SrcEncumbrance>Klienta saistibu apgrutinajuma
+avots</SrcEncumbrance>
+ 
+ 
+
+<PrvsnOffBlnc>Uzkrajumi klienta saistibam
+arpusbilance</PrvsnOffBlnc>
+ 
+ 
+
+<PrvsnOffBlncCurrency>Uzkrajumu klienta saistibam
+arpusbilance valutas
+kods</PrvsnOffBlncCurrency>
+ 
+ 
+
+<ForbearanceStatus>Klienta saistibu statusa
+pazime</ForbearanceStatus>
+ 
+ 
+
+<ForbearanceStatusDate>Klienta saistibu statusa
+pazimes noteikšanas
+datums</ForbearanceStatusDate>
+ 
+ 
+
+<FairValAccu>Patiesas vertibas uzkratas parmainas
+kreditriska rezultata</FairValAccu>
+ 
+ 
+
+<FairValAccuCurrency>Patiesas vertibas uzkrato
+parmainu kreditriska rezultata valutas
+kods</FairValAccuCurrency>
+ 
+ 
+
+<CumulatRecov>Uzkratas atgutas summas kopš datuma,
+kura klienta saistibam noteikts neizpildes
+statuss</CumulatRecov>
+ 
+ 
+
+<CumulatRecovCurrency>Uzkrato atguto summu kopš
+datuma, kura klienta saistibam noteikts neizpildes statuss,
+valutas kods</CumulatRecovCurrency>
+ 
+ 
+
+<ClsExposure>Norade par klienta saistibu
+klasifikaciju tirdzniecibas
+portfeli</ClsExposure>
+ 
+ 
+
+<CarryAmount>Uzskaites
+vertiba</CarryAmount>
+ 
+ 
+
+<CarryAmountCurrency>Uzskaites vertibas valutas
+kods</CarryAmountCurrency>
+ 
+ 
+
+<CollateralList>
+ 
+ 
+ 
+<Collateral>
+ 
+ 
+ 
+ 
+
+<CollateralType>Nodrošinajuma
+veids</CollateralType>
+ 
+ 
+ 
+ 
+
+<CollateralCountry>Nodrošinajuma registracijas
+vieta</CollateralCountry>
+ 
+ 
+ 
+ 
+
+<CollateralId>Nodrošinajuma
+identifikators</CollateralId>
+ 
+ 
+ 
+ 
+
+<CollateralOrigValue>Nodrošinajuma sakotneja
+vertiba</CollateralOrigValue>
+ 
+ 
+ 
+ 
+
+<CollateralOrigValueCurrency>Nodrošinajuma
+sakotnejas vertibas valutas
+kods</CollateralOrigValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralOrigDate>Nodrošinajuma sakotnejas
+vertibas noteikšanas
+datums</CollateralOrigDate>
+ 
+ 
+ 
+ 
+
+<CollateralValue>Nodrošinajuma
+vertiba</CollateralValue>
+ 
+ 
+ 
+ 
+
+<CollateralValueCurrency>Nodrošinajuma vertibas
+valutas kods</CollateralValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralValueType>Nodrošinajuma vertibas
+veids</CollateralValueType>
+ 
+ 
+ 
+ 
+
+<CollateralValueDate>Nodrošinajuma vertibas
+noteikšanas datums</CollateralValueDate>
+ 
+ 
+ 
+ 
+
+<CollateralValutApproach>Nodrošinajuma novertešanas
+metode</CollateralValutApproach>
+ 
+ 
+ 
+ 
+
+<Collateral3rdPartyClaims>Trešo personu prioritaro
+prasijumu pret nodrošinajumu
+vertiba</Collateral3rdPartyClaims>
+ 
+ 
+ 
+ 
+
+<Collateral3rdPartyClaimsCurrency>Trešo personu
+prioritaro prasijumu pret nodrošinajumu vertibas valutas
+kods</Collateral3rdPartyClaimsCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralAllocValue>Nodrošinajuma attiecinama
+vertiba</CollateralAllocValue>
+ 
+ 
+ 
+ 
+
+<CollateralAllocValueCurrency>Nodrošinajuma
+attiecinamas vertibas valutas
+kods</CollateralAllocValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralMaturityDate>Nodrošinajuma beigu
+terminš</CollateralMaturityDate>
+ 
+ 
+ 
+ 
+<LandBookList>
+ 
+ 
+ 
+ 
+<LandBookNr>Kadastra
+numurs</LandBookNr>
+ 
+ 
+ 
+ 
+…
+ 
+ 
+ 
+ 
+</LandBookList>
+ 
+ 
+ 
+</Collateral>
+ 
+ 
+ 
+…
+ 
+ 
+ 
+
+<Collateral>…</Collateral>
+ 
+ 
+
+</CollateralList>
+ 
+</Credit>
+</Message>
+14.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Gads
+Gads
+GGGG
+Kalendarais menesis
+Kalendarais menesis
+N2
+Operacijas veids
+"N" – zinojuma ieklaušana;
+"E" – zinojuma labošana;
+"D" – zinojuma anulešana
+
+
+C1
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Klienta saistibu faktiskais
+atlikums
+Klienta saistibu faktiskais atlikums.
+Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta saistibu faktiska atlikuma
+valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu neizmantotais
+apjoms
+Klienta saistibu neizmantotais
+apjoms. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta saistibu neizmantota apjoma
+valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Procentu likmes nakamas
+parskatišanas datums
+Procentu likmes nakamas
+parskatišanas datums. Nenorada, ja operacijas veids ir
+"D"
+GGGG-MM-DD
+Datums, kad beidzas periods, kura
+tiek maksati tikai procenti
+Datums, kad beidzas periods, kura
+tiek maksati tikai procenti. Nenorada, ja operacijas veids ir
+"D"
+GGGG-MM-DD
+Klienta saistibu neizpildes
+novertejums vai Klienta galvinieka saistibu neizpildes
+novertejums
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Klienta saistibu neizpildes
+novertejuma noteikšanas datums vai Klienta galvinieka saistibu
+neizpildes novertejuma noteikšanas datums
+Klienta saistibu neizpildes
+novertejuma noteikšanas datums vai Klienta galvinieka saistibu
+neizpildes novertejuma noteikšanas datums. Nenorada, ja
+operacijas veids ir "D"
+GGGG-MM-DD
+Procentu likme
+Procentu likme. Nenorada, ja
+operacijas veids ir "D"
+N3.N6
+Maksimala procentu likme
+Maksimala procentu likme. Nenorada,
+ja operacijas veids ir "D"
+N3.N6
+Minimala procentu likme
+Minimala procentu likme. Nenorada,
+ja operacijas veids ir "D"
+
+N3.N6
+Atsauces procentu likmes
+vertiba
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2
+vai N3
+Atsauces procentu likmes
+terminš
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Procentu likmes pieskaitijums
+Procentu likmes pieskaitijums.
+Nenorada, ja operacijas veids ir "D"
+N3.N6
+Procentu likmes veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Procentu likmes parskatišanas
+periodiskums
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Klienta saistibu klasifikacija
+gramatvediba
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Atmaksajamas klienta saistibu
+pamatsummas apjoms nakamajos 12 menešos
+Atmaksajamas klienta saistibu
+pamatsummas apjoms nakamajos 12 menešos. Nenorada, ja
+operacijas veids ir "D
+N15.N2
+Amortizacijas veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Maksajumu periodiskums
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Norade par fiduciarajam
+saistibam
+"1" – ir fiduciaras saistibas.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+Norade par tas personas valstisko
+piederibu, kura uznemas ar klienta saistibam saistito
+risku
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C2
+Norade par projekta finansešanas
+aizdevumu
+"1" – ir projekta finansešanas
+aizdevums. Nenorada, ja operacijas veids ir "D"
+
+C1
+Norade par pakartotam
+saistibam
+"1" – ir pakartotas saistibas.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+Norade par atmaksas tiesibam
+"1" – ir atmaksas tiesibas.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+Klienta saistibu faktiska atlikuma
+un to novertejuma pirms tiesibu un saistibu vai prasijuma
+tiesibu parnemšanas starpiba
+Klienta saistibu faktiska atlikuma
+un to novertejuma pirms tiesibu un saistibu vai prasijuma
+tiesibu parnemšanas starpiba euro. Nenorada, ja
+operacijas veids ir "D"
+N15.N2
+Uzkrata procentu summa
+Uzkrata procentu summa. Nenorada,
+ja operacijas veids ir "D"
+N15.N2
+Uzkratas procentu summas valutas
+kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu pamatsummai
+uzkrata vertibas samazinajuma summa
+Klienta saistibu pamatsummai
+uzkrata vertibas samazinajuma summa. Nenorada, ja operacijas
+veids ir "D"
+N15.N2
+Klienta saistibu pamatsummai
+uzkrata vertibas samazinajuma summas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu vertibas
+samazinajuma novertešanas metode
+No kodu saraksta.
+Nenorada, ja operacijas veids ir "D"
+
+
+N2
+Klienta saistibu vertibas
+samazinajuma veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Klienta saistibu klasifikacijas
+grupa
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N1
+Klienta saistibu nepildišanas
+varbutiba
+Klienta saistibu nepildišanas
+varbutiba procentos. Nenorada, ja operacijas veids ir "D"
+N3.N6
+Iespejamie zaudejumi klienta
+saistibu nepildišanas gadijuma
+Iespejamie zaudejumi klienta
+saistibu nepildišanas gadijuma procentos. Nenorada, ja
+operacijas veids ir "D"
+N3.N6
+Norade par vertešanas metodi
+"1" – klienta saistibu
+nepildišanas varbutibu nosaka pec ciklu aptverošas
+(through-the-cycle) metodes. Nenorada, ja operacijas veids
+ir "D"
+
+C1
+Kavejuma dienu skaits
+Kavejuma dienu skaits. Nenorada, ja
+operacijas veids ir "D"
+N5
+Klienta saistibu kaveta
+pamatsumma
+Klienta saistibu kaveta pamatsumma.
+Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta saistibu kavetas
+pamatsummas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu kaveta procentu
+summa
+Klienta saistibu kaveta procentu
+summa. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta saistibu kavetas procentu
+summas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu citu kaveto
+maksajumu summa
+Klienta saistibu citu kaveto
+maksajumu summa. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Klienta saistibu citu kaveto
+maksajumu summas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Individualo klienta saistibu
+neizpildes statuss
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N2
+Individualo klienta saistibu
+neizpildes statusa noteikšanas datums
+Individualo klienta saistibu
+neizpildes statusa noteikšanas datums. Nenorada, ja operacijas
+veids ir "D"
+GGGG-MM-DD
+Klienta saistibu pelnitspejas
+statuss
+"I" – ienakumus nesošas;
+"N" – ienakumus nenesošas.
+Nenorada, ja operacijas veids ir "D"
+
+
+C1
+Klienta saistibu pelnitspejas
+statusa noteikšanas datums
+Klienta saistibu pelnitspejas
+statusa noteikšanas datums.
+Nenorada, ja operacijas veids ir "D"
+
+GGGG-MM-DD
+Norade par uzskaiti
+gramatvediba
+"1" – klienta saistibas nav
+atzitas registra dalibnieka vai ierobežota registra
+dalibnieka bilance. Nenorada, ja operacijas veids ir "D"
+
+C1
+Norade par atzišanu bilance un
+arpusbilance
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+
+N1
+Vertspapirošanas veids
+"T" – tradicionals;
+"S" – sintetisks.
+Nenorada, ja operacijas veids ir "D"
+
+
+C1
+Klienta saistibu apgrutinajuma
+avots
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Uzkrajumi klienta saistibam
+arpusbilance
+Uzkrajumi klienta saistibam
+arpusbilance. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Uzkrajumu klienta saistibam
+arpusbilance valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Klienta saistibu statusa pazime
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+C13
+Klienta saistibu statusa pazimes
+noteikšanas datums
+Klienta saistibu statusa noteikšanas
+datums. Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Patiesas vertibas uzkratas
+parmainas kreditriska rezultata
+Patiesas vertibas uzkratas
+parmainas kreditriska rezultata. Nenorada, ja operacijas
+veids ir "D"
+N15.N2
+Patiesas vertibas uzkrato
+parmainu kreditriska rezultata valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Uzkratas atgutas summas kopš
+datuma, kura klienta saistibam noteikts neizpildes statuss
+Uzkratas atgutas summas kopš
+datuma, kura klienta saistibam noteikts neizpildes statuss.
+Nenorada, ja operacijas veids ir "D"
+N15.N2
+Uzkrato atguto summu kopš datuma,
+kura klienta saistibam noteikts neizpildes statuss, valutas
+kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Norade par klienta saistibu
+klasifikaciju tirdzniecibas portfeli
+"T" – tirdzniecibas;
+"N" – netirdzniecibas.
+Nenorada, ja operacijas veids ir "D"
+
+
+C1
+Uzskaites vertiba
+Uzskaites vertiba. Nenorada, ja
+operacijas veids ir "D"
+N15.N2
+Uzskaites vertibas valutas
+kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Nodrošinajuma veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Nodrošinajuma registracijas
+vieta
+No standarta vai NUTS kods. Nenorada,
+ja operacijas veids ir "D"
+C2
+vai C5
+Nodrošinajuma identifikators
+Nodrošinajuma identifikators.
+Nenorada, ja operacijas veids ir "D"
+C60
+Nodrošinajuma sakotneja
+vertiba
+Nodrošinajuma sakotneja
+vertiba. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Nodrošinajuma sakotnejas
+vertibas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Nodrošinajuma sakotnejas
+vertibas noteikšanas datums
+Nodrošinajuma sakotnejas
+vertibas noteikšanas datums. Nenorada, ja operacijas veids ir
+"D"
+GGGG-MM-DD
+Nodrošinajuma vertiba
+Nodrošinajuma vertiba. Nenorada,
+ja operacijas veids ir "D"
+N15.N2
+Nodrošinajuma vertibas valutas
+kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Nodrošinajuma vertibas veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Nodrošinajuma vertibas
+noteikšanas datums
+Nodrošinajuma vertibas
+noteikšanas datums. Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Nodrošinajuma novertešanas
+metode
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+Trešo personu prioritaro prasijumu
+pret nodrošinajumu vertiba
+Trešo personu prioritaro prasijumu
+pret nodrošinajumu vertiba. Nenorada, ja operacijas veids ir
+"D"
+N15.N2
+Trešo personu prioritaro prasijumu
+pret nodrošinajumu vertibas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Nodrošinajuma attiecinama
+vertiba
+Nodrošinajuma attiecinama
+vertiba. Nenorada, ja operacijas veids ir "D"
+N15.N2
+Nodrošinajuma attiecinamas
+vertibas valutas kods
+No standarta. Nenorada, ja
+operacijas veids ir "D"
+
+C3
+Nodrošinajuma beigu terminš
+Nodrošinajuma beigu terminš.
+Nenorada, ja operacijas veids ir "D"
+GGGG-MM-DD
+Kadastra numurs
+Kadastra numurs. Nenorada, ja
+operacijas veids ir "D"
+N17
+IV.1 Periodisko riska
+darijumu zinu fails
+14.1 Periodisko riska darijumu zinu faila nosaukuma
+prefikss ir "krb".
+14.2 Periodisko riska darijumu zinu faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 14.3
+punktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Periodisko riska
+darijumu zinu zinojuma bloks (sk. ša pielikuma
+14.4 punktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Periodisko riska
+darijumu zinu zinojuma bloks</Message>
+ 
+</KRMessages>
+</KRFile>
+14.3 Faila sakuma bloks
+14.31. Faila sakuma bloka struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka vai Valsts
+kases identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>B</FileType>
+</Header>
+14.32. Bloka lietojamo zinu apraksts
+Nosaukums
+Apraksts
+Formats
+Registra dalibnieka vai
+ierobežota registra dalibnieka identifikators
+Vienotas registracijas
+numurs
+N11
+Zinu subjekts
+Registra dalibnieka
+filiales BIC kods
+C8
+Zinojumu skaits
+Zinojumu skaits faila.
+Zinojumu skaits viena faila nedrikst parsniegt 10 000
+N5
+Datums
+Periodisko riska
+darijumu zinu faila sagatavošanas datums
+GGGG-MM-DD
+14.4 Periodisko riska darijumu zinu zinojuma
+bloks
+14.41. Periodisko riska darijumu zinu zinojuma
+bloka struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+
+<Month>Kalendarais menesis</Month>
+ 
+ 
+
+<MessageType>H</MessageType>
+ 
+ 
+
+<Operation>Operacijas
+veids</Operation>
+ 
+</Header>
+ 
+<Credit>
+ 
+ 
+
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+ 
+<RiskList>
+ 
+ 
+ 
+<Risk>
+ 
+ 
+ 
+ 
+<ExposureID>Riska darijuma
+identifikators</ExposureID>
+ 
+ 
+ 
+ 
+<CapCalcApproach>Kapitala
+prasibas aprekinašanas
+pieeja</CapCalcApproach>
+ 
+ 
+ 
+ 
+<ExposureType>Riska darijuma
+veids</ExposureType>
+ 
+ 
+ 
+ 
+<RiskWeightAmount>Riska
+darijuma riska sverta
+vertiba</RiskWeightAmount>
+ 
+ 
+ 
+ 
+
+<RiskWeightAmountCurrency>Riska darijuma riska
+svertas vertibas valutas
+kods</RiskWeightAmountCurrency>
+ 
+ 
+ 
+ 
+<RiskWeight>Riska
+pakape</RiskWeight>
+ 
+ 
+ 
+ 
+<ExposureClass>Riska darijuma
+kategorija</ExposureClass>
+ 
+ 
+ 
+ 
+<OrigExposureValue>Riska
+darijuma vertiba pirms
+korekcijas</OrigExposureValue>
+ 
+ 
+ 
+ 
+
+<OrigExposureValueCurrency>Riska darijuma vertibas
+pirms korekcijas valutas
+kods</OrigExposureValueCurrency>
+ 
+ 
+ 
+ 
+<ConversFactor>Korekcijas
+pakape</ConversFactor>
+ 
+ 
+ 
+ 
+<ExposureValue>Riska darijuma
+vertiba pec korekcijas</ExposureValue>
+ 
+ 
+ 
+ 
+<ExposureValueCurrency>Riska
+darijuma vertibas pec korekcijas valutas
+kods</ExposureValueCurrency>
+ 
+ 
+ 
+ 
+<SMECapitalReq>Mazo un videjo
+uznemumu riska darijumu faktora piemerošanas
+pazime</SMECapitalReq>
+ 
+ 
+ 
+ 
+<ExposureFlow>Riska darijuma
+ar kreditriska parnešanu vertibas palielinajuma vai
+samazinajuma </ExposureFlow>
+ 
+ 
+ 
+ 
+<ExposureFlowCurrency>Riska
+darijuma ar kreditriska saistita vertibas palielinajuma vai
+samazinajuma summas valutas
+kods</ExposureFlowCurrency>
+ 
+ 
+ 
+</Risk>
+ 
+ 
+ 
+…
+ 
+ 
+ 
+<Risk> ..
+</Risk>
+ 
+ 
+</RiskList>
+ 
+</Credit>
+</Message>
+14.42. Bloka lietojamo zinu apraksts
+Nosaukums
+Apraksts
+Formats
+ 
+Gads
+Gads
+GGGG
+ 
+Kalendarais
+menesis
+Kalendarais
+menesis
+N2
+ 
+Operacijas veids
+"N" – zinojuma
+ieklaušana;
+"E" – zinojuma labošana;
+"D" – zinojuma anulešana
+
+C1
+ 
+Visparigo zinu
+identifikators
+Visparigo zinu
+identifikators
+C35
+ 
+Riska darijuma
+identifikators
+Riska darijuma
+identifikators. Nenorada, ja operacijas veids ir "D"
+C35
+ 
+Kapitala prasibas
+aprekinašanas pieeja
+"S" – standartizeta
+pieeja;
+"I" – uz iekšejiem reitingiem balstita pieeja.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+ 
+Riska darijuma
+veids
+"B" – bilance;
+"A" – arpusbilance.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+ 
+Riska darijuma riska
+sverta vertiba
+Riska darijuma riska
+sverta vertiba. Nenorada, ja operacijas veids ir "D"
+N15.N2
+ 
+Riska darijuma riska
+svertas vertibas valutas kods
+No standarta. Nenorada,
+ja operacijas veids ir "D"
+C3
+ 
+Riska pakape
+Riska pakape. Nenorada,
+ja operacijas veids ir "D"
+N3
+ 
+Riska darijuma
+kategorija
+No kodu saraksta.
+Nenorada, ja operacijas veids ir "D"
+N2 vai N3
+ 
+Riska darijuma vertiba
+pirms korekcijas
+Riska darijuma vertiba
+pirms korekcijas. Nenorada, ja operacijas veids ir "D"
+N15.N2
+ 
+Riska darijuma
+vertibas pirms korekcijas valutas kods
+No standarta. Nenorada,
+ja operacijas veids ir "D"
+C3
+ 
+Korekcijas pakape
+Korekcijas pakape.
+Nenorada, ja operacijas veids ir "D"
+N1.N4
+ 
+Riska darijuma vertiba
+pec korekcijas
+Riska darijuma vertiba
+pec korekcijas. Nenorada, ja operacijas veids ir "D"
+N15.N2
+ 
+Riska darijuma
+vertibas pec korekcijas valutas kods
+No standarta. Nenorada,
+ja operacijas veids ir "D"
+C3
+ 
+Mazo un videjo
+uznemumu riska darijumu faktora piemerošanas pazime
+"T" – tiek piemerots
+kreditriska kapitala prasibu samazinajums;
+"N" – riska darijums bez mazo un videjo uznemumu riska
+darijumu faktora.
+Nenorada, ja operacijas veids ir "D"
+
+C1
+ 
+Riska darijuma ar
+kreditriska parnešanu saistita vertibas palielinajuma vai
+samazinajuma summa
+Riska darijuma ar
+kreditriska parnešanu saistita vertibas palielinajuma vai
+samazinajuma summa. Pielaujama negativa vertiba. Nenorada, ja
+operacijas veids ir "D"
+N15.N2
+ 
+Riska darijuma ar
+kreditriska parnešanu saistitas vertibas palielinajuma vai
+samazinajuma summas valutas kods
+No standarta. Nenorada,
+ja operacijas veids ir "D"
+C3
+ 
+V. Visparejais pieprasijumu
+fails
+15. Vispareja pieprasijumu faila nosaukuma prefikss ir
+"krp".
+16. Vispareja pieprasijumu faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 17.
+punktu)</Header>
+ 
+<KRQueries>
+ 
+ 
+<Message>Pieprasijuma
+bloks (sk. ša pielikuma 18. punktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Pieprasijuma
+bloks</Message>
+ 
+</KRQueries>
+</KRFile>
+ 
+17. Faila sakuma bloks
+17.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka
+vai Valsts kases
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Queries>Pieprasijuma
+bloku skaits</Queries>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>P</FileType>
+</Header>
+17.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Pieprasijuma bloku skaits
+Pieprasijuma bloku skaits
+vispareja pieprasijumu faila. Pieprasijuma bloku skaits
+viena faila nedrikst parsniegt 10 000. Ja atbildes faila
+izmers rada tehniskas ša faila šifrešanas un elektroniskas
+parakstišanas problemas, sagatavojams jauns visparejais
+pieprasijumu fails ar mazaku pieprasijuma bloku skaitu
+N5
+Datums
+Faila sagatavošanas datums
+GGGG-MM-DD
+ 
+18. Pieprasijuma bloks
+18.1. Pieprasijuma bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+<MessageType>Bloka
+tips</MessageType>
+ 
+ 
+<QueryID>Pieprasijuma
+identifikators</QueryID>
+ 
+ 
+<ReportType>Parskata
+veids</ReportType>
+ 
+ 
+<PotentialClient>Norade
+par pieprasijuma objektu</PotentialClient>
+ 
+ 
+<PeriodCount>Periodisko
+zinu periodu skaits</PeriodCount>
+ 
+ 
+<ExcludeType>Zinu
+sniedzeja registra ieklauto zinu ietveršanas
+pazime</ExcludeType>
+ 
+</Header>
+ 
+
+<Query>Pieprasijuma parametru
+bloks</Query>
+</Message>
+18.2. Ja bloka tips ir "B", pieprasijuma parametru bloka
+norada personas aprakstu atbilstoši ša pielikuma
+9.4. apakšpunktam, aizstajot bloka nosaukumu "Borrower" ar
+"Query".
+18.3. Ja bloka tips ir "C", pieprasijuma parametru bloka
+norada visparigo zinu identifikatoru
+<CreditID>Visparigo zinu
+identifikators</CreditID>.
+18.4. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Bloka tips
+"B" – parskats par klientu vai
+klienta galvinieku, visparigas zinas, periodiskas zinas un
+zinas par klienta vai klienta galvinieka saistibu parkapumiem;
+"C" – parskats par klienta vai klienta galvinieka
+saistibam
+
+
+C1
+Pieprasijuma identifikators
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases pieškirts vispareja
+pieprasijumu faila ietvaros unikals identifikators
+C16
+Parskata veids
+"G" – apkopotais parskats;
+"D" – izverstais parskats.
+Norada tikai tad, ja bloka tips ir "B"
+
+
+C1
+Norade par pieprasijuma objektu
+"P" – iespejamais klients,
+iespejamais klienta galvinieks vai cita Kreditu registra likuma
+noteikta persona, kas nav ša registra dalibnieka vai Valsts
+kases klients vai klienta galvinieks. Norada tikai tad, ja bloka
+tips ir "B"
+
+C1
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Periodisko zinu periodu skaits
+Norada, par cik pedejiem menešiem
+parskata ieklaujamas periodiskas zinas (nokluseta vertiba
+– 1). Ja norada vertibu 0, tad parskata periodiskas zinas
+neieklauj
+N2
+Zinu sniedzeja registra ieklauto
+zinu ietveršanas pazime
+Zinu sniedzeja registra ieklauto
+zinu ietveršanas pazime:
+0 – šadas zinas parskata ietver (nokluseta
+vertiba);
+1 – šadas zinas parskata neietver
+
+N1
+VI. Atbildes fails
+19. Atbildes faila
+nosaukuma prefikss ir "kra".
+ 
+20. Atbildes faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+
+<Header>Faila sakuma bloks (sk. ša pielikuma 22.
+punktu)</Header>
+ 
+
+<KRErrors>
+ 
+ 
+
+<Message>Zinojuma noraidišanas bloks (sk. ša
+pielikuma 23. punktu)</Message>
+ 
+ 
+…
+ 
+ 
+
+<Message>Zinojuma noraidišanas
+bloks</Message>
+ 
+
+</KRErrors>
+</KRFile>
+21. Bloku KRErrors norada tikai tad, ja zinu
+sniegšanas faila, periodisko zinu faila vai identificejošo
+zinu labošanas vai papildinašanas faila ir kludaini
+zinojumi.
+22. Faila sakuma bloks
+22.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>;Registra
+dalibnieka, ierobežota registra dalibnieka
+vai Valsts kases
+identifikators</Participant>
+ 
+<FileName>Faila
+nosaukums</FileName>
+ 
+<Errors>Kludaino
+zinojumu skaits</Errors>
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+<Line>Kludainas rindas
+numurs</Line>
+ 
+<LinePos>Kludas pozicija
+rinda</LinePos>
+ 
+<Reason>Kludas
+celonis</Reason>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>A</FileType>
+</Header>
+22.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Faila nosaukums
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases ieklauta zinu sniegšanas
+faila, periodisko zinu faila vai identificejošo zinu labošanas
+vai papildinašanas faila nosaukums bez paplašinajumiem
+
+C15
+Kludaino zinojumu skaits
+Kludaino zinojumu skaits zinu
+sniegšanas faila vai periodisko zinu faila. Ja zinu
+sniegšanas faila vai periodisko zinu faila nav kludainu
+zinojumu, vertiba ir 0. Ja ir faila formata kluda, vertiba
+ir 1
+N5
+Kludas kods
+Kludas kods
+
+C4
+Kludas apraksts
+Kludas paskaidrojuma teksts
+C
+Kludainas rindas numurs
+Norada faila formata kludas
+gadijuma
+N
+Kludas pozicija rinda
+Norada faila formata kludas
+gadijuma
+N
+Kludas celonis
+Norada faila formata kludas
+gadijuma
+C
+Datums
+Atbildes faila sagatavošanas
+datums
+GGGG-MM-DD
+ 
+23. Zinojuma noraidišanas
+bloks
+23.1. Zinojuma noraidišanas bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<MessageType>A</MessageType>
+ 
+ 
+
+<MessageID>Identifikators</MessageID>
+ 
+</Header>
+ 
+<Error>
+ 
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+ 
+<Type>Iesniegta
+kludaina zinojuma tips</Type>
+ 
+ 
+<MessageIDCO>Iesniegta
+kludaina zinojuma identifikators</MessageIDCO>
+ 
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+</Error>
+</Message>
+23.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Identifikators
+Sistemas generets pazinojuma
+identifikators
+
+C16
+Visparigo zinu identifikators
+Visparigo zinu identifikators no
+registra dalibnieka, ierobežota registra dalibnieka vai Valsts
+kases kludaina zinojuma. Nenorada "I" un "T" tipa
+zinojumiem
+C35
+Iesniegta kludaina zinojuma
+tips
+"S" – klienta vai klienta galvinieka
+saistibas identificejošais zinojums;
+"R" – periodisko zinu zinojums;
+"N" – parkapuma zinojums;
+"P" – parkapuma noveršanas zinojums;
+"I" – identificejošas informacijas mainas zinojums;
+"D" – kreditriska darijuma zinojums;
+"F" – kreditriska darijumos iesaistitas personas apraksta
+zinojums
+"H" – periodisko riska darijumu zinu zinojums;
+"T" – identificejošas informacijas mainas zinojums
+kreditriska darijumiem
+
+
+C1
+Iesniegta kludaina zinojuma
+identifikators
+Norada tikai "N", "P", "I", "F" un
+"T" tipa zinojumiem
+C16
+Kludas kods
+Sistemas uzraditais kludas
+kods
+
+C4
+Kludas apraksts
+Kludas paskaidrojuma teksts
+C
+VII. Visparejo zinu sanemšanas
+fails
+24. Visparejo zinu
+sanemšanas faila nosaukuma prefikss ir "krz".
+ 
+25. Visparejo zinu
+sanemšanas faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+
+<Header>Faila sakuma bloks (sk. ša pielikuma 26.
+punktu)</Header>
+ 
+
+<KRReports>
+ 
+ 
+<Report>Zinu
+bloks (sk. ša pielikuma 27. punktu)</Report>
+ 
+ 
+…
+ 
+ 
+<Report>Zinu
+bloks</Report>
+ 
+ 
+
+<QueryError>Kludas apraksta bloks (sk. ša
+pielikuma 28. punktu)</QueryError>
+ 
+ 
+…
+ 
+ 
+
+<QueryError>Kludas apraksta
+bloks</QueryError>
+ 
+
+</KRReports>
+</KRFile>
+ 
+26. Faila sakuma bloks
+26.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka
+vai Valsts kases
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<FileName>Faila
+nosaukums</FileName>
+ 
+<Reports>Sagatavoto
+parskatu skaits</Reports>
+ 
+<Errors>Kludaino
+pieprasijumu skaits</Errors>
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+<Line>Kludainas rindas
+numurs</Line>
+ 
+<LinePos>Kludas pozicija
+rinda</LinePos>
+ 
+<Reason>Kludas
+celonis</Reason>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>Z</FileType>
+</Header>
+26.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Faila nosaukums
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases iesniegta vispareja
+pieprasijumu faila nosaukums bez paplašinajumiem
+
+C15
+Sagatavoto parskatu skaits
+Sistemas sagatavoto parskatu
+skaits
+N5
+Kludaino pieprasijumu skaits
+Kludaino pieprasijumu skaits
+vispareja pieprasijumu faila
+N5
+Kludas kods
+Kludas kods
+
+C4
+Kludas apraksts
+Kludas paskaidrojuma teksts
+C
+Kludainas rindas numurs
+Norada faila formata kludas
+gadijuma
+N
+Kludas pozicija rinda
+Norada faila formata kludas
+gadijuma
+N
+Kludas celonis
+Norada faila formata kludas
+gadijuma
+C
+Datums
+Visparejo zinu sanemšanas faila
+sagatavošanas datums
+GGGG-MM-DD
+ 
+27. Zinu bloks
+27.1. Zinu bloka struktura
+<Report>
+ 
+<Header>Sakuma bloks
+(sk. ša pielikuma 27.3. apakšpunktu)</Header>
+ 
+<Query>Pieprasijuma
+parametru bloks</Query>
+ 
+<KRMessages>Parskata
+zinojumu bloks (sk. ša pielikuma
+27.4. apakšpunktu)</KRMessages>
+</Report>
+27.2. Pieprasijuma parametru bloks satur informaciju par
+pieprasijuma parametriem no vispareja pieprasijumu faila (sk.
+ša pielikuma 18. punktu).
+27.3. Sakuma bloks
+27.3.1. Sakuma bloka struktura
+<Header>
+ 
+<ReportType>Parskata
+veids</ReportType>
+ 
+<ReportID>Parskata
+registracijas numurs</ReportID>
+ 
+ 
+ 
+<QueryID>Pieprasijuma
+identifikators</QueryID>
+ 
+<PreparedDate>Parskata
+sagatavošanas datums</PreparedDate>
+<PreparedTime>Parskata sagatavošanas
+laiks</PreparedTime>
+ 
+<QueryUserName>Zinu
+pieprasitaja paaugstinatas drošibas sistemas lietotaja
+identifikators</QueryUserName>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+<TotalRemainder>Klienta
+saistibu kopejais faktiskais
+atlikums</TotalRemainder>
+</Header>
+27.3.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Parskata veids
+"G" – apkopotais parskats par
+klientu vai klienta galvinieku, visparigam zinam, periodiskam
+zinam un zinam par klienta vai klienta galvinieka saistibu
+parkapumiem;
+"D" – izverstais parskats par klientu vai klienta
+galvinieku, visparigam zinam, periodiskam zinam un zinam
+par klienta vai klienta galvinieka saistibu parkapumiem;
+"C" – parskats par klienta vai klienta galvinieka
+saistibam
+
+
+C1
+Parskata registracijas numurs
+Sistemas pieškirtais parskata
+registracijas numurs
+
+C16
+Pieprasijuma identifikators
+Saistita pieprasijuma
+identifikators no vispareja pieprasijumu faila
+C16
+Parskata sagatavošanas datums
+Parskata sagatavošanas datums
+GGGG-MM-DD
+Parskata sagatavošanas laiks
+Parskata sagatavošanas laiks
+HH.MM:SS
+Zinu pieprasitaja paaugstinatas
+drošibas sistemas lietotaja identifikators
+Zinu pieprasitaja paaugstinatas
+drošibas sistemas lietotaja identifikators
+C
+Zinojumu skaits
+Sistemas sagatavoto zinojumu skaits
+bloka KRMessages
+N5
+Klienta saistibu kopejais faktiskais
+atlikums
+Klienta visu aktualo saistibu
+faktiska atlikuma kopsumma euro. Norada, ja parskata
+veids ir "G"
+N15.N2
+ 
+27.4. Parskata zinojumu bloks
+27.4.1. Parskata zinojumu bloka
+struktura
+<KRMessages>
+ 
+<Message>Zinojuma
+bloks</Message>
+ 
+…
+ 
+<Message>Zinojuma
+bloks</Message>
+</KRMessages>
+27.4.2. Atkariba no pieprasijuma noraditas parskata
+veida pazimes ("G", "D" vai "C") parskata zinojumu bloka
+ieklauj apkopota parskata zinojumus (sk. ša pielikuma
+27.4.3. apakšpunktu), izversta parskata zinojumus (sk.
+ša pielikuma 27.4.4. apakšpunktu) vai parskata par klienta
+vai klienta galvinieka saistibam zinojumus (sk. ša pielikuma
+27.4.5. apakšpunktu).
+27.4.3. Apkopota parskata zinojuma
+bloks
+27.4.3.1. Apkopota parskata
+zinojuma bloka struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<MessageType>G</MessageType>
+ 
+</Header>
+ 
+<Credit>
+ 
+ 
+
+<Status>Statuss</Status>
+ 
+ 
+<CreditType>Klienta
+saistibu veids</CreditType>
+ 
+ 
+<ValidFrom>Klienta
+saistibu sakuma datums, Individualais klienta saistibu
+sakuma datums vai Individualais klienta galvinieka
+saistibu sakuma datums</ValidFrom>
+ 
+ 
+<ValidTo>Klienta liguma
+noteiktais klienta saistibu beigu datums,Individualais klienta liguma noteiktais klienta saistibu
+beigu datums vaiIndividualais klienta galvinieka liguma noteiktais klienta
+galvinieka saistibu
+beigu datums</ValidTo>
+ 
+ 
+<ActualEndDate>Klienta
+saistibu faktiskais beigu datums, Individualais klienta
+saistibu faktiskais beigu datums vai Individualais klienta
+galvinieka saistibu faktiskais beigu
+datums</ActualEndDate>
+ 
+ 
+<CreditStatus>Klienta
+saistibu statuss</CreditStatus>
+ 
+ 
+<Amount>Klienta liguma
+noteiktais klienta saistibu apjoms vaiKlienta galvinieka saistibu apjoms</Amount>
+ 
+ 
+<Currency>Klienta liguma
+noteikto klienta saistibu valutas
+kods</Currency>
+ 
+ 
+<RemainingAmount>Klienta
+saistibu faktiskais atlikums</RemainingAmount>
+ 
+ 
+<RemainderCurrency>Klienta
+saistibu faktiska atlikuma valutas
+kods</RemainderCurrency>
+ 
+ 
+<RemainderEUR>Klienta
+saistibu faktiska atlikuma apjoms
+euro</RemainderEUR>
+ 
+ 
+<OffBlncAmount>Klienta
+saistibu neizmantotais apjoms</OffBlncAmount>
+<OffBlncCurrency>Klienta saistibu neizmantota apjoma
+valutas kods</OffBlncCurrency>
+ 
+ 
+<BorrowerCount>Klientu
+skaits</BorrowerCount>
+ 
+ 
+<GuarantorCount>Klienta
+galvinieku skaits</GuarantorCount>
+ 
+ 
+<MKCount>Parkapuma
+zinojumu skaits</MKCount>
+ 
+ 
+<MKStatus>Parkapuma
+aktuala statusa pazime</MKStatus>
+ 
+ 
+<Historical>Izbeigto
+klienta vai klienta galvinieka saistibu
+pazime</Historical>
+ 
+</Credit>
+</Message>
+27.4.3.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Statuss
+"B" – klients;
+"G" – klienta galvinieks
+
+
+C1
+Klienta saistibu veids
+No kodu saraksta
+N2 vai N3
+Klienta saistibu sakuma datums,
+Individualais klienta saistibu sakuma datums vai Individualais
+klienta galvinieka saistibu sakuma datums
+Klienta saistibu sakuma datums,
+individualais klienta saistibu sakuma datums vai individualais
+klienta galvinieka saistibu sakuma datums
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu beigu datums, Individualais klienta liguma noteiktais
+klienta saistibu beigu datums vai Individualais klienta
+galvinieka liguma noteiktais klienta galvinieka saistibu beigu
+datums
+Klienta liguma noteiktais klienta
+saistibu beigu datums, individualais klienta liguma noteiktais
+klienta saistibu beigu datums vai individualais klienta
+galvinieka liguma noteiktais klienta galvinieka saistibu beigu
+datums
+GGGG-MM-DD
+Klienta saistibu faktiskais beigu
+datums, Individualais klienta saistibu faktiskais beigu datums
+vai Individualais klienta galvinieka saistibu faktiskais beigu
+datums
+Klienta saistibu faktiskais beigu
+datums, individualais klienta saistibu faktiskais beigu datums
+vai individualais klienta galvinieka saistibu faktiskais beigu
+datums
+GGGG-MM-DD
+Klienta saistibu statuss
+No kodu saraksta
+
+N2
+Klienta liguma noteiktais klienta
+saistibu apjoms vai Klienta galvinieka saistibu apjoms
+Klienta liguma noteiktais klienta
+saistibu apjoms vai klienta galvinieka saistibu apjoms
+N15.N2
+Klienta liguma noteikto klienta
+saistibu valutas kods
+No standarta
+
+C3
+Klienta saistibu faktiskais
+atlikums
+Klienta saistibu faktiskais
+atlikums
+N15.N2
+Klienta saistibu faktiska atlikuma
+valutas kods
+No standarta
+
+C3
+Klienta saistibu faktiska atlikuma
+apjoms euro
+Klienta saistibu faktiska atlikuma
+apjoms euro
+N15.N2
+Klienta saistibu neizmantotais
+apjoms
+Klienta saistibu neizmantotais
+apjoms
+N15.N2
+Klienta saistibu neizmantota apjoma
+valutas kods
+No standarta
+
+C3
+Klientu skaits
+Klientu skaits
+N
+Klienta galvinieku skaits
+Klienta galvinieku skaits
+N
+Parkapuma zinojumu skaits
+Parkapuma zinojumu skaits
+N5
+Parkapuma aktuala statusa
+pazime
+"K", ja klientam vai klienta
+galviniekam pedejais registrets parkapuma zinojums. Zinu
+nenorada, ja klientam vai klienta galviniekam pedejais
+registrets parkapuma noveršanas zinojums
+
+C1
+Izbeigto klienta saistibu vai klienta
+galvinieka saistibu pazime
+"H", ja klienta saistibas vai klienta
+galvinieka saistibas izbeigtas vai tiesibas un saistibas vai
+prasijuma tiesibas nodotas citai personai
+
+C1
+ 
+27.4.4. Izversta parskata zinojuma
+bloks
+27.4.4.1. Izversta parskata
+zinojuma bloka struktura
+<Message>
+ 
+<Header>
+ 
+ 
+<MessageType>Zinojuma
+tips</MessageType>
+ 
+ 
+<MessageID>Parkapuma
+zinu identifikators</MessageID>
+ 
+ 
+<MessageIDCO>Saistitais
+parkapuma zinu identifikators</MessageIDCO>
+ 
+ 
+<BorrowerCount>Klientu
+skaits</BorrowerCount>
+ 
+ 
+<GuarantorCount>Klienta
+galvinieku skaits</GuarantorCount>
+ 
+ 
+<Historical>Izbeigto
+klienta vai klienta galvinieka saistibu
+pazime</Historical>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+<Month>Kalendarais
+menesis</Month>
+ 
+ 
+<Registered>Zinojuma
+registracijas datums</Registered>
+ 
+ 
+<RegisteredBy>Registra
+dalibnieka, ierobežota registra dalibnieka vai
+Valsts kases identifikators</RegisteredBy>
+ 
+</Header>
+ 
+
+<Borrower>Personas apraksta
+bloks</Borrower>
+ 
+<Credit>Klienta
+vai klienta galvinieka saistibu apraksta
+bloks</Credit>
+</Message>
+27.4.4.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Zinojuma tips
+"S" – klienta vai klienta galvinieka
+saistibas identificejošais zinojums;
+"R" – periodisko zinu zinojums;
+"N" – parkapuma zinojums;
+"P" – parkapuma noveršanas zinojums
+
+
+C1
+Parkapuma zinu identifikators
+Norada tikai "N" un "P" tipa
+zinojumiem, ja zinu pieprasitajs ir ari zinu sniedzejs
+C16
+Saistitais parkapuma zinu
+identifikators
+Parkapuma zinu identifikators no
+atbilstoša parkapuma zinu zinojuma. Norada tikai "P" tipa
+zinojumam, ja zinu pieprasitajs ir ari zinu sniedzejs
+C16
+Klientu skaits
+Norada tikai "S" tipa
+zinojumiem
+N
+Klienta galvinieku skaits
+Norada tikai "S" tipa
+zinojumiem
+N
+Izbeigto klienta saistibu vai klienta
+galvinieka saistibu pazime
+"H", ja klienta saistibas vai klienta
+galvinieka saistibas izbeigtas vai tiesibas un saistibas vai
+prasijuma tiesibas nodotas citai personai
+
+C1
+Gads
+Periodisko zinu kalendara meneša
+gads. Norada tikai "R" tipa zinojumiem
+GGGG
+Kalendarais menesis
+Periodisko zinu kalendarais
+menesis. Norada tikai "R" tipa zinojumiem
+N2
+Zinojuma registracijas datums
+Zinojuma registracijas datums
+GGGG-MM-DD
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Ja zinu pieprasitajs ir zinu
+sniedzejs, ši zina satur vienotas registracijas numuru
+(Valsts kasei – nodoklu maksataja registracijas numuru).
+Ja registra zinas ieklavis cits registra dalibnieks vai
+cits ierobežots registra dalibnieks, ši zina satur
+apzimejumu "Cits"
+
+C4 vai N11
+27.4.4.3. Personas apraksta bloku norada tikai "S" tipa
+zinojumiem. Bloka aprakstu sk. ša pielikuma
+8.3. apakšpunkta. Ja zinas tiek pieprasitas ar
+kreditinformacijas biroja starpniecibu, personas apraksta bloka
+netiek ieklauta zina Individuala norade par klienta ciešam
+attiecibam vai Individuala norade par klienta galvinieka
+ciešam attiecibam.
+27.4.4.4. Klienta vai klienta galvinieka saistibu apraksta
+bloks
+Zinojuma
+tips
+Saistibu
+apraksta formats
+
+Piezimes
+S
+Sk. ša pielikuma
+8.4. apakšpunktu
+Zinas Visparigo zinu
+identifikators, Zaudejumu apjoms un Zaudejumu
+apjoma valutas kods norada tikai tad, ja zinu pieprasitajs
+ir ari zinu sniedzejs. Parejos gadijumos norada registra
+automatiski pieškirtu unikalu identifikatoru. Ja zinas tiek
+pieprasitas ar kreditinformacijas biroja starpniecibu, netiek
+ieklautas zinas Zaudejumu apjoms un Zaudejumu apjoma
+valutas kods
+N
+Sk. ša pielikuma
+9.3. apakšpunktu
+Zinu Visparigo zinu
+identifikators norada tikai tad, ja zinu pieprasitajs ir
+ari zinu sniedzejs. Parejos gadijumos norada registra
+automatiski pieškirtu unikalu identifikatoru
+P
+Sk. ša pielikuma
+10.3. apakšpunktu
+Zinu Visparigo zinu
+identifikators norada tikai tad, ja zinu pieprasitajs ir
+ari zinu sniedzejs. Parejos gadijumos norada registra
+automatiski pieškirtu unikalu identifikatoru
+R
+Sk. ša pielikuma
+14. punktu
+Ja zinu pieprasitajs nav zinu
+sniedzejs vai ari ja zinas tiek pieprasitas ar
+kreditinformacijas biroja starpniecibu, periodisko zinu
+zinojuma bloka norada tikai zinas Klienta saistibu
+faktiskais atlikums, Klienta saistibu faktiska atlikuma
+valutas kods, Klienta saistibu neizmantotais atlikums,
+Klienta saistibu neizmantota atlikuma valutas kods,
+Nodrošinajuma veids, Nodrošinajuma registracijas
+vieta, Procentu likmes nakamas parskatišanas datums
+un Datums, kad beidzas periods, kura tiek maksati tikai
+procenti
+ 
+27.4.5. Parskata par klienta vai
+klienta galvinieka saistibam zinojuma bloks
+27.4.5.1. Parskata par klienta vai
+klienta galvinieka saistibam zinojuma bloka struktura
+<Message>
+ 
+<Header>
+ 
+ 
+<MessageType>Zinojuma
+tips</MessageType>
+ 
+ 
+<MessageID>Parkapuma
+zinu identifikators</MessageID>
+ 
+ 
+<MessageIDCO>Saistitais
+parkapuma zinu identifikators</MessageIDCO>
+ 
+ 
+<BorrowerCount>Klientu
+skaits</BorrowerCount>
+ 
+ 
+<GuarantorCount>Klienta
+galvinieku skaits</GuarantorCount>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+<Month>Kalendarais
+menesis</Month>
+ 
+ 
+<Registered>Zinojuma
+registracijas datums</Registered>
+ 
+</Header>
+ 
+
+<BorrowerList>Personas apraksta
+bloks</BorrowerList>
+ 
+<Credit>Klienta
+vai klienta galvinieka saistibu apraksta
+bloks</Credit>
+</Message>
+27.4.5.2. "S" un "R" tipa zinojumiem personu apraksta bloka
+norada visus klientus un klienta galviniekus. Parejo tipu
+zinojumos norada to klientu vai klienta galvinieku, uz kuru šis
+zinojums attiecas. Bloka aprakstu sk. ša pielikuma
+8.3. apakšpunkta.
+27.4.5.3. Klienta vai klienta galvinieka saistibu apraksta
+bloks
+Zinojuma
+tips
+Saistibu
+apraksta formats
+
+Piezimes
+S
+Sk. ša pielikuma
+8.4. apakšpunktu
+Klienta vai klienta galvinieka
+saistibu apraksta bloks
+N
+Sk. ša pielikuma
+9.3. apakšpunktu
+Parkapuma zinojuma bloks
+P
+Sk. ša pielikuma
+10.3. apakšpunktu
+Parkapuma noveršanas zinojuma
+bloks
+R
+Sk. ša pielikuma
+14. punktu
+Periodisko zinu zinojuma bloks
+27.4.5.4. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Zinojuma tips
+"S" – klienta vai klienta galvinieka
+saistibas identificejošais zinojums;
+"R" – periodisko zinu zinojums;
+"N" – parkapuma zinojums;
+"P" – parkapuma noveršanas zinojums
+
+
+C1
+Parkapuma zinu identifikators
+Norada tikai "N" un "P" tipa
+zinojumiem
+C16
+Saistitais parkapuma zinu
+identifikators
+Parkapuma zinu identifikators no
+atbilstoša parkapuma zinu zinojuma. Norada tikai "P" tipa
+zinojumiem
+C16
+Klientu skaits
+Klientu skaits
+N
+Klienta galvinieku skaits
+Klienta galvinieku skaits
+N
+Gads
+Periodisko zinu kalendara meneša
+gads. Norada tikai "R" tipa zinojumiem
+GGGG
+Kalendarais menesis
+Periodisko zinu kalendarais
+menesis. Norada tikai "R" tipa zinojumiem
+N2
+Zinojuma registracijas datums
+Zinojuma registracijas datums
+GGGG-MM-DD
+ 
+28. Kludas apraksta bloks
+28.1. Kludas apraksta bloka
+struktura
+<QueryError>
+ 
+<Header>
+ 
+ 
+
+<MessageType>A</MessageType>
+ 
+ 
+<MessageID>Pazinojuma
+identifikators</MessageID>
+ 
+</Header>
+ 
+<Error>
+ 
+ 
+<QueryID>Pieprasijuma
+identifikators</QueryID>
+ 
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+</Error>
+</QueryError>
+28.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Pazinojuma identifikators
+Sistemas generets
+identifikators
+
+C16
+Pieprasijuma identifikators
+Atbilstoša kludaina pieprasijuma
+identifikators no vispareja pieprasijumu faila
+C16
+Kludas kods
+Kludas kods
+
+C4
+Kludas apraksts
+Kludas apraksts
+C
+VIII. Ar valsts garantiju programmu
+saistito registra ieklauto zinu pieprasijuma fails
+29. Ar valsts garantiju
+programmu saistito registra ieklauto zinu pieprasijuma faila
+nosaukuma prefikss ir "krv".
+ 
+ 
+30. Ar valsts garantiju
+programmu saistito registra ieklauto zinu pieprasijumu faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 31.
+punktu)</Header>
+ 
+
+<Query>Pieprasijuma bloks (sk. ša pielikuma 32.
+punktu)</Query>
+</KRFile
+ 
+31. Faila sakuma bloks
+31.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka vai ierobežota registra dalibnieka
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+
+<FileType>V</FileType>
+</Header>
+31.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka vai ierobežota
+registra dalibnieka identifikators
+Vienotas registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+ 
+32. Pieprasijuma bloks
+32.1. Pieprasijuma bloka
+struktura
+<Query>
+ 
+<Guarantor>Valsts garantiju
+programmas ievieseja identifikators</Guarantor>
+ 
+
+<Year>Gads</Year>
+ 
+<Month>Kalendarais
+menesis</Month>
+ 
+ <Type>Valsts
+garantiju programmas veids</Type>
+<ValidFrom>Klienta saistibu sakuma
+datums</ValidFrom>
+<Proxy>Pilnvarojums nosutit valsts garantiju
+programmas ieviesejam</Proxy>
+</Query>
+32.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Valsts garantiju programmas ievieseja
+identifikators
+Vienotas registracijas numurs vai
+nodoklu maksataja registracijas numurs. Ieklauj, ja
+nepieciešams sanemt registra ieklautas zinas par noteiktu
+valsts garantiju programmas ievieseju, kurš registra noradits
+ka attiecigo klienta saistibu klienta galvinieks
+N11
+Gads
+Periodisko zinu kalendara meneša
+gads
+GGGG
+Kalendarais menesis
+Periodisko zinu kalendarais
+menesis
+N2
+Valsts garantiju programmas veids
+No klasifikatora. Ieklauj, ja
+nepieciešams sanemt registra ieklautas zinas par noteiktu
+valsts garantiju programmas veidu
+N3
+Klienta saistibu sakuma datums
+Klienta saistibu sakuma datums.
+Norada, ja nepieciešams sanemt registra ieklautas zinas par
+klienta saistibam, kuru sakuma datums ir noraditais vai
+velaks
+GGGG-MM-DD
+Pilnvarojums nosutit valsts
+garantiju programmas ieviesejam
+"P". Norada, ja pilnvaro Latvijas
+Banku registra dalibnieka vai ierobežota registra dalibnieka
+varda nosutit šis zinas ari pieprasijuma noraditajam
+valsts garantiju programmas ieviesejam
+C1
+IX. Ar valsts garantiju programmu
+saistito registra ieklauto zinu sanemšanas fails
+33. Ar valsts garantiju programmu
+saistito registra ieklauto zinu sanemšanas faila nosaukuma
+prefikss ir "krg".
+33.1 Ar valsts garantiju
+programmu saistito registra ieklauto zinu sanemšanas faila
+ieklauj zinas par klienta saistibam, kuras atbilst
+ieklaušanas kriterijiem, nemot vera periodiskas zinas
+attiecigaja gada un kalendaraja menesi vai iepriekšeja
+kalendaraja menesi.
+ 
+ 
+ 
+34. Ar valsts garantiju programmu
+saistito registra ieklauto zinu sanemšanas faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 35.
+punktu)</Header>
+ 
+<KRReports>
+ 
+ 
+<Report>Zinu bloks
+(sk. ša pielikuma 36. punktu)</Report>
+ 
+ 
+…
+ 
+ 
+<Report>Zinu
+bloks</Report>
+ 
+</KRReports>
+</KRFile>
+ 
+35. Faila sakuma bloks
+35.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka vai ierobežota registra dalibnieka
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Guarantor>Valsts garantiju
+programmas ievieseja identifikators</Guarantor>
+ 
+
+<Year>Gads</Year>
+ 
+<Month>Kalendarais
+menesis</Month>
+ 
+<CreditCount>Klienta saistibu
+skaits</CreditCount>
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+<Line>Kludainas rindas
+numurs</Line>
+ 
+<LinePos>Kludas pozicija
+rinda</LinePos>
+ 
+<Reason>Kludas
+celonis</Reason>
+<Proxy>Pilnvarojums nosutit valsts garantiju
+programmas ieviesejam</Proxy>
+</Header>
+35.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka vai ierobežota
+registra dalibnieka identifikators
+Vienotas registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC kods
+C8
+Valsts garantiju programmas ievieseja
+identifikators
+Vienotas registracijas numurs vai
+nodoklu maksataja registracijas numurs
+N11
+Gads
+Periodisko zinu kalendara meneša
+gads
+GGGG
+Kalendarais menesis
+Periodisko zinu kalendarais
+menesis
+N2
+Klienta saistibu skaits
+Faila ietverto klientu saistibu
+kopejais skaits
+N
+Kludas kods
+Kludas kods
+
+C4
+Kludas apraksts
+Kludas paskaidrojuma teksts
+C
+Kludainas rindas numurs
+Norada faila formata kludas
+gadijuma
+N
+Kludas pozicija rinda
+Norada faila formata kludas
+gadijuma
+N
+Kludas celonis
+Norada faila formata kludas
+gadijuma
+C
+Pilnvarojums nosutit valsts
+garantiju programmas ieviesejam
+"P". Norada, ja šis zinas
+atbilstoši Latvijas Bankai sniegtajam pilnvarojumam registra
+dalibnieka vai ierobežota registra dalibnieka varda
+nosutitas ari valsts garantiju programmas ieviesejam
+C1
+ 
+36. Zinu bloks
+36.1. Zinu bloka struktura
+<Report>
+ 
+<Credit>
+ 
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+ 
+<Guarantor>Valsts garantiju
+programmas
+ievieseja identifikators</Guarantor>
+<Type>Valsts garantiju programmas
+veids</Type>
+ 
+ 
+<CreditType>Klienta
+saistibu veids</CreditType>
+ 
+ 
+<CreditPurpose>Klienta
+saistibu merkis</CreditPurpose>
+ 
+ 
+<CreditStatus>Klienta
+saistibu statuss</CreditStatus>
+ 
+ 
+<Covid19Status>Norade par
+atbalsta pasakumiem sakara ar Covid-19
+izplatibu</Covid19Status>
+ 
+ 
+<Covid19StatusDate>Atbalsta
+pasakumu sakara ar Covid-19 izplatibu piemerošanas sakuma
+datums</Covid19StatusDate>
+ 
+ 
+<ValidFrom>Klienta
+saistibu sakuma datums</ValidFrom>
+ 
+ 
+<ValidTo>Klienta liguma
+noteiktais klienta saistibu beigu
+datums</ValidTo>
+ 
+ 
+<ActualEndDate>Klienta
+saistibu faktiskais beigu datums</ActualEndDate>
+ 
+ 
+<Amount>Klienta liguma
+noteiktais klienta saistibu apjoms</Amount>
+ 
+ 
+<Currency>Klienta liguma
+noteikto klienta saistibu valutas
+kods</Currency>
+ 
+ 
+<RemainingAmount>Klienta
+saistibu faktiskais atlikums</RemainingAmount>
+ 
+ 
+<RemainderCurrency>Klienta
+saistibu faktiska atlikuma valutas
+kods</RemainderCurrency>
+ 
+ 
+<IntRateEndDate>Datums, kad
+beidzas periods, kura tiek maksati tikai
+procenti</IntRateEndDate>
+ 
+ 
+<AmrtType>Amortizacijas
+veids</AmrtType>
+ 
+ 
+<PmntFrq>Maksajumu
+periodiskums</PmntFrq>
+ 
+ 
+<Delay>Kavejuma dienu
+skaits</Delay>
+ 
+ 
+<DelayAmount>Klienta
+saistibu kaveta pamatsumma</DelayAmount>
+ 
+ 
+<DelayCurrency>Klienta
+saistibu kavetas pamatsummas valutas
+kods</DelayCurrency>
+ 
+ 
+<DelayInterest>Klienta
+saistibu kaveta procentu summa</DelayInterest>
+ 
+ 
+
+<DelayInterestCurrency>Klienta saistibu kavetas
+procentu summas valutas
+kods</DelayInterestCurrency>
+ 
+ 
+<OtherDelayedFees>Klienta
+saistibu citu kaveto maksajumu
+summa</OtherDelayedFees>
+ 
+ 
+
+<OtherDelayedFeesCurrency>Klienta saistibu citu kaveto
+maksajumu summas valutas
+kods</OtherDelayedFeesCurrency>
+ 
+ 
+<ImpairmentType>Klienta
+saistibu vertibas samazinajuma
+veids</ImpairmentType>
+<Customer DefaultStatus> Klienta saistibu
+neizpildes
+novertejums</CustomerDefaultStatus>
+ 
+ 
+<ForbearanceStatus>Klienta
+saistibu statusa pazime</ForbearanceStatus>
+ 
+</Credit>
+ 
+
+<BorrowerList>
+ 
+ 
+<Borrower>Personas apraksta
+bloks (sk. ša pielikuma
+36.3. apakšpunktu)</Borrower>
+ 
+ 
+…
+ 
+
+</BorrowerList>
+</Report>
+36.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Valsts garantiju programmas ievieseja
+identifikators
+Vienotas registracijas numurs vai
+nodoklu maksataja registracijas numurs
+N11
+Valsts garantiju programmas veids
+No klasifikatora
+N3
+Klienta saistibu veids
+No kodu saraksta
+N2 vai N3
+Klienta saistibu merkis
+No kodu saraksta
+
+N2 vai N3
+Klienta saistibu statuss
+No kodu saraksta
+
+N2
+Norade par atbalsta pasakumiem sakara ar Covid-19
+izplatibu
+No kodu saraksta
+N2
+Atbalsta pasakumu sakara ar Covid-19 izplatibu
+piemerošanas sakuma datums
+Atbalsta pasakumu sakara ar Covid-19 izplatibu
+piemerošanas sakuma datums
+GGGG-MM-DD
+Klienta saistibu sakuma datums
+Klienta saistibu sakuma datums
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu beigu datums
+Klienta liguma noteiktais klienta
+saistibu beigu datums Ieguldijumu
+GGGG-MM-DD
+Klienta saistibu faktiskais beigu
+datums
+Klienta saistibu faktiskais beigu
+datums
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu apjoms
+Klienta liguma noteiktais klienta
+saistibu apjoms
+N15.N2
+Klienta liguma noteikto klienta
+saistibu valutas kods
+No standarta
+
+C3
+Klienta saistibu faktiskais
+atlikums
+Klienta saistibu faktiska atlikuma
+apjoms
+N15.N2
+Klienta saistibu faktiska atlikuma
+valutas kods
+No standarta
+
+C3
+Datums, kad beidzas periods, kura
+tiek maksati tikai procenti
+Datums, kad beidzas periods, kura
+tiek maksati tikai procenti
+GGGG-MM-DD
+Amortizacijas veids
+No kodu saraksta
+N2 vai N3
+Maksajumu periodiskums
+No kodu saraksta
+N2 vai N3
+Kavejuma dienu skaits
+Kavejuma dienu skaits
+N5
+Klienta saistibu kaveta
+pamatsumma
+Klienta saistibu kaveta
+pamatsumma
+N15.N2
+Klienta saistibu kavetas
+pamatsummas valutas kods
+No standarta
+
+C3
+Klienta saistibu kaveta procentu
+summa
+Klienta saistibu kaveta procentu
+summa
+N15.N2
+Klienta saistibu kavetas procentu
+summas valutas kods
+No standarta
+
+C3
+Klienta saistibu citu kaveto
+maksajumu summa
+Klienta saistibu citu kaveto
+maksajumu summa
+N15.N2
+Klienta saistibu citu kaveto
+maksajumu summas valutas kods
+No standarta
+
+C3
+Klienta saistibu vertibas
+samazinajuma veids
+No kodu saraksta
+
+N2
+Klienta saistibu neizpildes
+novertejums
+No kodu saraksta
+
+N2
+Klienta saistibu statusa pazime
+No kodu saraksta
+N2 vai N3
+ 
+36.3. Personas apraksta
+bloks
+36.3.1. Bloka lietojamo
+zinu aprakstu sk. ša pielikuma 8.3.6. apakšpunkta.
+ 
+ 
+36.3.2. Personas apraksta
+bloka struktura ir atkariga no personas un rezidenta
+pazimes.
+ 
+ 
+36.3.3. Fiziskas personas
+rezidenta apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<PersonCode>Personas kods</PersonCode>
+</Borrower>
+ 
+ 
+36.3.4. Fiziskas personas
+nerezidenta apraksta bloka struktura
+<Borrower>
+ 
+
+<PersonType>Personas
+pazime</PersonType>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<DocNumber>Personu apliecinoša dokumenta
+numurs</DocNumber>
+ 
+
+<Country>Personu apliecinoša dokumenta izdevejvalsts
+kods</Country>
+ 
+
+<BirthDate>Dzimšanas
+datums</BirthDate>
+ 
+
+<PersonCodeN>Personas
+kods</PersonCodeN>
+ 
+
+<Name>Vards</Name>
+ 
+
+<Surname>Uzvards</Surname>
+</Borrower>
+ 
+36.3.5. Juridiskas personas rezidenta
+apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<RegNumber>Vienotas
+registracijas numurs</RegNumber>
+ 
+<InvestmentFundID>fonda
+identifikators</InvestmentFundID>
+</Borrower>
+ 
+36.3.6. Juridiskas personas
+nerezidenta apraksta bloka struktura
+<Borrower>
+ 
+<PersonType>Personas
+pazime</PersonType>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<Country>Registracijas
+valsts kods</Country>
+ 
+<RegNumberN>Registracijas
+numurs</RegNumberN>
+ 
+<RegNumType>Registracijas
+numura veids</RegNumType>
+ 
+<InvestmentFundID>fonda
+identifikators</InvestmentFundID>
+ 
+<;RegDate>Registracijas
+datums</RegDate>
+ 
+
+<NameJP>Nosaukums</NameJP>
+ 
+<AddressStreet>Juridiska
+adrese – iela</AddressStreet>
+ 
+<AddressCity>Juridiska
+adrese – administrativa
+teritorija</AddressCity>
+ 
+
+<AddressPostalCode>Juridiska adrese – pasta
+indekss</AddressPostalCode>
+ 
+
+ <AddressPostBox>Juridiska adrese –
+pastkastite</AddressPostBox>
+</Borrower>
+X. Kreditportfela pieprasijuma
+fails
+37. Kreditportfela pieprasijuma
+faila nosaukuma prefikss ir "krq".
+ 
+ 
+38. Kreditportfela pieprasijumu
+faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila sakuma
+bloks (sk. ša pielikuma 39. punktu)</Header>
+ 
+<Query>Pieprasijuma
+bloks (sk. ša pielikuma 40. punktu)</Query>
+</KRFile>
+ 
+39. Faila sakuma bloks
+39.1. Bloka struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka vai Valsts
+kases identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+
+<FileType>Q</FileType>
+</Header>
+39.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+ 
+40. Pieprasijuma bloks
+40.1. Bloka struktura
+<Query>
+ 
+<CreditStartFrom>Klienta
+saistibu sakuma datuma vai Individuala klienta saistibu
+sakuma datuma minimala
+robeža</CreditStartFrom>
+ 
+<CreditStartTo>Klienta
+saistibu sakuma datuma vai Individuala klienta saistibu
+sakuma datuma maksimala robeža</CreditStartTo>
+ 
+
+<RegisteredFrom>Ieklaušanas perioda sakuma
+datums</RegisteredFrom>
+ 
+<RegisteredTo>Ieklaušanas
+perioda beigu datums</RegisteredTo>
+ 
+<ModifiedFrom>Pedejas
+aktualizešanas vai labošanas sakuma
+datums</ModifiedFrom>
+ 
+<ModifiedTo>Pedejas
+aktualizešanas vai labošanas beigu
+datums</ModifiedTo>
+ 
+<CreditStatus1>Klienta
+saistibu statuss</CreditStatus1>
+ 
+<CreditStatus2>Klienta
+saistibu statuss</CreditStatus2>
+ 
+<CreditStatus3>Klienta
+saistibu statuss</CreditStatus3>
+ 
+<Month>Kalendarais
+menesis</Month>
+</Query>
+40.2. Pieprasijuma bloka norada kadu no periodiem: klienta
+vai klienta galvinieka saistibu speka stašanas datuma periodu
+(Klienta saistibu sakuma datuma vai Individuala
+klienta saistibu sakuma datuma minimala robeža un
+Klienta saistibu sakuma datuma vai Individuala
+klienta saistibu sakuma datuma maksimala robeža) vai
+saistibu registrešanas datuma periodu (Registrešanas
+perioda sakuma datums un Registrešanas perioda beigu
+datums), vai saistibu aktualizešanas vai labošanas datuma
+periodu (Pedejas aktualizešanas vai labošanas sakuma
+datums un Pedejas aktualizešanas vai labošanas beigu
+datums). Pieprasijuma bloka kopa vai atseviški var
+noradit vienu vai vairakus periodus, vienu vai vairakus klienta
+saistibu statusus vai kalendaro menesi.
+40.3. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Klienta saistibu sakuma datuma vai
+Individuala klienta saistibu sakuma datuma minimala
+robeža
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu sakuma datumam, sakuma
+datums
+GGGG-MM-DD
+Klienta saistibu sakuma datuma vai
+Individuala klienta saistibu sakuma datuma maksimala
+robeža
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu sakuma datumam, beigu datums.
+Janorada, ja noradita Klienta saistibu sakuma datuma
+vai Individuala klienta saistibu sakuma datuma minimala
+robeža
+GGGG-MM-DD
+Registrešanas perioda sakuma
+datums
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu registrešanas datumam, sakuma
+datums
+GGGG-MM-DD
+Registrešanas perioda beigu
+datums
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu registrešanas datumam, beigu
+datums. Janorada, ja noradits Registrešanas perioda
+sakuma datums
+GGGG-MM-DD
+Pedejas modificešanas sakuma
+datums
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu pedejas modificešanas
+datumam, sakuma datums
+GGGG-MM-DD
+Pedejas modificešanas beigu
+datums
+Perioda, kura jaieklaujas klienta
+vai klienta galvinieka saistibu pedejas aktualizešanas vai
+labošanas datumam, beigu datums. Janorada, ja noradits
+Pedejas modificešanas sakuma datums
+GGGG-MM-DD
+Klienta saistibu statuss
+Viena vai vairakas vertibas no kodu
+saraksta. Ja nenorada, tad ietver visas klienta un klienta
+galvinieka saistibas
+
+N2
+Kalendarais menesis
+Kalendarais menesis, par kuru
+atspogulo klienta saistibu faktisko atlikumu
+GGGG-N2
+XI. Kreditportfela parskata
+fails
+41. Kreditportfela parskata faila
+nosaukuma prefikss ir "krs".
+ 
+ 
+42. Kreditportfela parskata faila
+struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila sakuma
+bloks (sk. ša pielikuma 44. punktu)</Header>
+ 
+<Query>Pieprasijuma
+bloks</Query>
+ 
+<Credits>Klienta vai
+klienta galvinieka saistibu bloks (sk. ša pielikuma
+45. punktu)</Credits>
+</KRFile>
+ 
+43. Pieprasijuma bloks satur
+informaciju no kreditportfela pieprasijuma faila pieprasijuma
+bloka (sk. ša pielikuma 40. punktu).
+ 
+ 
+44. Faila sakuma bloks
+44.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka vai Valsts
+kases identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<FileName>Faila
+nosaukums</FileName>
+ 
+<Credits>Atlasito
+klienta vai klienta galvinieka saistibu
+skaits</Credits>
+ 
+<ErrorCode>Kludas
+kods</ErrorCode>
+ 
+<ErrorText>Kludas
+apraksts</ErrorText>
+ 
+<Line>Kludainas rindas
+numurs</Line>
+ 
+<LinePos>Kludas pozicija
+rinda</LinePos>
+ 
+<Reason>Kludas
+celonis</Reason>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>S</FileType>
+</Header>
+44.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Faila nosaukums
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases iesniegta kreditportfela
+pieprasijuma faila nosaukums bez paplašinajumiem
+
+C15
+Atlasito klienta vai klienta
+galvinieka saistibu skaits
+Atlasito klienta vai klienta
+galvinieka saistibu skaits. Nenorada, ja kreditportfela
+pieprasijuma faila bijusi kluda
+N
+Kludas kods
+Kludas kods
+
+C4
+Kludas apraksts
+Kludas paskaidrojuma teksts
+C
+Kludainas rindas numurs
+Norada faila formata kludas
+gadijuma
+N
+Kludas pozicija rinda
+Norada faila formata kludas
+gadijuma
+N
+Kludas celonis
+Norada faila formata kludas
+gadijuma
+C
+Datums
+Kreditportfela parskata faila
+sagatavošanas datums
+GGGG-MM-DD
+45. Klienta vai klienta galvinieka saistibu bloks
+45.1. Klienta vai klienta galvinieka saistibu bloka
+noraditas zinas par atlasitajam klienta vai klienta galvinieka
+saistibam. Katra rinda satur zinas par vienam klienta vai
+klienta galvinieka saistibam.
+45.2. Klienta vai klienta galvinieka saistibu apraksta
+struktura
+<Credit ID=Visparigo zinu identifikators
+StartDate=Klienta saistibu sakuma datums
+EndDate=Klienta liguma noteiktais klienta saistibu beigu
+datums
+Registered=Zinu ieklaušanas datums
+LastModified=Zinu aktualizešanas vai labošanas
+datums
+Status=Klienta saistibu statuss
+Remainder=Klienta saistibu faktiskais atlikums
+Currency=Klienta saistibu faktiska atlikuma valutas
+kods
+OffBlncAmount=Klienta saistibu neizmantotais apjoms
+OffBlncCurrency=Klienta saistibu neizmantota apjoma
+valutas kods
+Period=Kalendarais menesis/>
+45.3. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Visparigo zinu identifikators
+Visparigo zinu identifikators
+C35
+Klienta saistibu sakuma datums
+Klienta saistibu sakuma datums
+GGGG-MM-DD
+Klienta liguma noteiktais klienta
+saistibu beigu datums
+Klienta liguma noteiktais klienta
+saistibu beigu datums
+GGGG-MM-DD
+Zinu ieklaušanas datums
+Zinu ieklaušanas datums
+GGGG-MM-DD
+Zinu aktualizešanas vai labošanas
+datums
+Zinu aktualizešanas vai labošanas
+datums
+GGGG-MM-DD
+Klienta saistibu statuss
+No kodu saraksta
+
+N2
+Klienta saistibu faktiskais
+atlikums
+Pedejais ieklautais klienta
+saistibu faktiskais atlikums, ja kreditportfela pieprasijuma
+faila kalendarais menesis nav noradits. Klienta saistibu
+faktiskais atlikums kreditportfela pieprasijuma faila
+noradita kalendara meneša beigas, ja kreditportfela
+pieprasijuma faila kalendarais menesis ir noradits. Ja
+faktiskais atlikums nav ieklauts, lauka vertiba netiek
+noradita
+N15.N2
+Klienta saistibu faktiska atlikuma
+valutas kods
+No standarta. Ja faktiskais atlikums
+nav ieklauts, lauka vertiba netiek noradita
+
+C3
+Klienta saistibu neizmantotais
+apjoms
+Klienta saistibu neizmantotais
+apjoms
+N15.N2
+Klienta saistibu neizmantota apjoma
+valutas kods
+No standarta
+
+C3
+Kalendarais menesis
+Kalendarais menesis, par kuru
+atspogulo klienta saistibu faktisko atlikumu. Ja tas nav
+ieklauts, lauka vertiba netiek noradita
+GGGG-N2
+XII. Identificejošo zinu labošanas
+vai papildinašanas fails
+46. Identificejošo zinu labošanas
+vai papildinašanas faila nosaukuma prefikss ir "kri".
+ 
+ 
+ 
+47. Identificejošo zinu labošanas
+vai papildinašanas faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 48.1.
+apakšpunktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Zinojuma
+bloks(sk. ša pielikuma 48.3.
+apakšpunktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Zinojuma
+bloks(sk. ša pielikuma 48.3.
+apakšpunktu)</Message>
+ 
+</KRMessages>
+</KRFile>
+ 
+48. Faila sakuma bloks
+48.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka, ierobežota registra dalibnieka vai
+Valsts kases identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>I</FileType>
+</Header>
+48.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka, ierobežota
+registra dalibnieka vai Valsts kases identifikators
+Vienotas registracijas numurs.
+Valsts kasei – nodoklu maksataja registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Datums
+Identificejošo zinu labošanas vai
+papildinašanas faila sagatavošanas datums
+GGGG-MM-DD
+ 
+48.3. Zinojuma bloks
+48.3.1. Zinojuma bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<MessageType>I</MessageType>
+ 
+ 
+<SubstitutionType>Darbibas
+tips</SubstitutionType>
+ 
+ 
+<MessageID>Zinojuma
+identifikators</MessageID>
+ 
+</Header>
+ 
+
+<Substitution>Identificejošo zinu labošanas vai
+papildinašanas bloks (sk. ša pielikuma 48.3.2.
+apakšpunktu)</Substitution>
+</Message>
+ 
+48.3.2. Atkariba no darbibas tipa
+("K", "P" vai "N") identificejošo zinu labošanas vai
+papildinašanas bloka ieklauj identifikatoru labošanas bloku
+(sk. ša pielikuma 48.3.3. apakšpunktu) vai personu
+identificejošo zinu labošanas vai papildinašanas bloku (sk.
+ša pielikuma 48.3.4. apakšpunktu).
+ 
+ 
+ 
+48.3.3. Identifikatoru labošanas
+bloks
+<Substitution>
+ 
+<Credit
+IdFrom=Pašreizejais visparigo zinu identifikators
+IdTo=Jaunais visparigo zinu identifikators>
+ 
+ 
+<Violation
+IdFrom=Pašreizejais parkapuma zinu identifikators
+IdTo=Jaunais parkapuma zinu identifikators/>
+ 
+ 
+…
+ 
+ 
+<Violation
+IdFrom=Pašreizejais parkapuma zinu identifikators
+IdTo=Jaunais parkapuma zinu identifikators/>
+ 
+</Credit>
+</Substitution>
+ 
+48.3.4. Personu identificejošo zinu
+labošanas vai papildinašanas bloks
+<Substitution>
+ 
+<PersonFrom>Pašreizejais
+personas apraksta bloks</PersonFrom>
+ 
+<PersonTo>Jaunais
+personas apraksta bloks</PersonTo>
+</Substitution>
+ 
+ 
+48.3.5. Ša pielikuma 48.3.4.
+apakšpunkta mineto personas apraksta bloku norada atbilstoši
+ša pielikuma 36.3. apakšpunktam, aizstajot bloka nosaukumu
+"Borrower" attiecigi ar "PersonFrom" un "PersonTo".
+ 
+ 
+48.3.6. 
+(Svitrots ar LB 28.03.2019. noteikumiem Nr. 172)
+48.3.7. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+Formats
+Darbibas tips
+"K" – saistibu identifikatora
+labošana;
+"P" – personu identificejošo zinu labošana;
+"N" – personu identificejošo zinu pievienošana
+
+
+C1
+Zinojuma identifikators
+Registra dalibnieka vai ierobežota
+registra dalibnieka pieškirts faila ietvaros unikals
+identifikators
+C16
+Pašreizejais visparigo zinu
+identifikators
+Pašreizejais visparigo zinu
+identifikators, ko paredzets mainit
+C35
+Jaunais visparigo zinu
+identifikators
+Jaunais visparigo zinu
+identifikators
+C35
+Pašreizejais parkapuma zinu
+identifikators
+Pašreizejais parkapuma zinu
+identifikators, ko paredzets mainit
+C16
+Jaunais parkapuma zinu
+identifikators
+Jaunais parkapuma zinu
+identifikators
+C16
+XIII. Informacijas pieprasišana ar
+timekla pakalpju funkciju
+49. Datu apmaina notiek
+ar SOAP zinojumiem, izmantojot HTTP protokolu. Datu šifrešana
+tiek nodrošinata atsevišku zinojumu limeni atbilstoši
+Web Services Security specifikacijai.
+ 
+ 
+50. Informacijas
+pieprasijumus nodrošina funkcija QueryData (queryType:
+<string>,
+query:<string>):<string>.
+ 
+ 
+51. Funkcijas
+QueryData parametrs queryType norada pieprasijuma
+veidu un var but ar šadu vertibu: "G" – apkopotais parskats
+par klientu vai klienta galvinieku, "D" – izverstais parskats
+par klientu vai klienta galvinieku, "GP" – apkopotais parskats
+par iespejamo klientu, iespejamo klienta galvinieku vai citu
+Kreditu registra likuma noteiktu personu, kas nav ša registra
+dalibnieka klients vai klienta galvinieks, "DP" – izverstais
+parskats par iespejamo klientu, iespejamo klienta galvinieku vai
+citu Kreditu registra likuma noteiktu personu, kas nav ša
+registra dalibnieka klients vai klienta galvinieks, "C" –
+parskats par klienta vai klienta galvinieka saistibam.
+ 
+ 
+52. Atbilstoši
+pieprasijuma veidam norada parametra query vertibu.
+Parametra vertiba ir personu vai saistibas identificejoša
+informacija atbilstoši ša pielikuma 18.2. un
+18.3. apakšpunkta noraditajam XML formatam.
+ 
+53. Pieprasijuma izpildes
+rezultata sagatavo XML formata simbolu virkni.
+<Report>
+ 
+
+<KRMessages>Zinojumu bloks (sk. ša pielikuma
+27.4. apakšpunktu)</KRMessages>
+ 
+
+<Error>Pieprasijuma kludas
+apraksts</Error>
+</Report>
+ 
+54. Ja parametra
+queryType un query formats ir pareizs, sagatavo
+sekciju <KRMessages>, bet sekciju <Error>
+neuzrada; preteja gadijuma sagatavo tikai sekciju
+<Error>.
+
+Latvijas Bankas prezidents I. Rimševics
+9. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Informacijas par kreditiestažu kreditriska darijumiem un tajos iesaistitajam personam sniegšanas struktura un formats(Pielikums grozits ar LB 28.03.2019. noteikumiem Nr. 172; LB 20.01.2020. noteikumiem Nr. 178; LB 27.04.2020. noteikumiem Nr. 181; LB 22.03.2021. noteikumiem Nr. 185)
+
+I. Izmantotie apzimejumi
+1. Šaja noteikumu pielikuma izmantoti apzimejumi saskana
+ar šo noteikumu 8. pielikuma 1. punktu.
+II. Failu apmaina, izmantojot failu
+apmainas servisu
+2. Faila nosaukuma formats ir
+aaaggmmddnnnnnn.xml, GZIP formata sapakota faila
+formats ir aaaggmmddnnnnnn.gz, bet šifreta un
+elektroniski parakstita faila nosaukuma formats ir
+aaaggmmddnnnnnn.ext, kur:
+2.1. aaa – atbilstoša faila veida nosaukuma
+prefikss;
+2.2. ggmmdd – faila sagatavošanas datums;
+2.3. nnnnnn – unikals faila numurs faila
+sagatavošanas diena;
+2.4. ext – šifreta un elektroniski parakstita faila
+paplašinajums ("ent" vai "p7m").
+3. Registra dalibnieks sagatavotos failus pec to
+sapakošanas, elektroniskas parakstišanas un šifrešanas
+ievieto failu apmainas servisa KREG/OUT kataloga. Latvijas Banka
+atbildes failus pec to sapakošanas, elektroniskas parakstišanas
+un šifrešanas ievieto failu apmainas servisa KREG/IN kataloga.
+Failu sapakošana ir obligata, ja tiek izmantots šifreta un
+elektroniski parakstita faila "p7m" formats.
+III. Kreditriska darijumu
+informacijas fails
+4. Faila nosaukuma prefikss ir "krd".
+5. Ja šaja noteikumu pielikuma nav noteikts citadi,
+sniedzamas informacijas apraksts un formats noraditi šo
+noteikumu 8. pielikuma.
+6. Faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila
+sakuma bloks (sk. ša pielikuma 7.
+punktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Darijuma zinu
+zinojuma bloks (sk. ša pielikuma
+8. punktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Darijuma zinu
+zinojuma bloks</Message>
+ 
+</KRMessages>
+</KRFile>
+ 
+7. Faila sakuma bloks
+7.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>D</FileType>
+</Header>
+ 
+8. Darijuma zinu zinojuma
+bloks
+8.1. Darijuma zinu zinojuma bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+
+<Month>Kalendarais menesis</Month>
+ 
+ 
+
+<MessageType>D</MessageType>
+ 
+ 
+
+<Operation>Operacijas
+veids</Operation>
+ 
+</Header>
+ 
+
+<BorrowerList>
+ 
+ 
+
+<Borrower>Personas apraksta bloks (sk. ša
+pielikuma 8.3. apakšpunktu)</Borrower>
+ 
+ 
+…
+ 
+ 
+
+<Borrower>Personas apraksta
+bloks</Borrower>
+ 
+
+</BorrowerList>
+ 
+<Credit>
+ 
+ 
+
+<ContractID>Klienta liguma
+identifikators</ContractID>
+ 
+ 
+
+<CreditID>Klienta saistibu
+identifikators</CreditID>
+ 
+ 
+
+<CreditType>Klienta saistibu
+veids</CreditType>
+ 
+ 
+
+<CreditPurpose>Klienta saistibu
+merkis</CreditPurpose>
+ 
+ 
+
+<ValidFrom>Klienta saistibu sakuma
+datums</ValidFrom>
+ 
+ 
+
+<TakeOverDate>Klienta saistibu parnemšanas
+datums</TakeOverDate>
+ 
+ 
+
+<ValidTo>Klienta liguma noteiktais klienta saistibu
+beigu datums</ValidTo>
+ 
+ 
+
+<SettlementDate>Norekina
+datums</SettlementDate>
+ 
+ 
+
+<ActualEndDate>Klienta saistibu faktiskais beigu
+datums</ActualEndDate>
+ 
+ 
+<Amount>Klienta
+liguma noteiktais klienta saistibu
+apjoms</Amount>
+ 
+ 
+
+<Currency>Klienta liguma noteikto klienta
+saistibu valutas kods</Currency>
+ 
+ 
+
+<Syndicate>Norade par sindiceto
+kreditu</Syndicate>
+ 
+ 
+
+<SyndContractID>Sindiceta kredita liguma
+identifikators</SyndContractID>
+ 
+ 
+
+<RegrRights>Norade par regresa
+tiesibam</RegrRights>
+ 
+ 
+
+<FiduciaryInst>Norade par fiduciarajam
+saistibam</FiduciaryInst>
+ 
+ 
+
+<ProjectLoan>Norade par projekta finansešanas
+aizdevumu</ProjectLoan>
+ 
+ 
+
+<SubDebts>Norade par pakartotam
+saistibam</SubDebts>
+ 
+ 
+
+<RpmntRights>Norade par atmaksas
+tiesibam</RpmntRights>
+ 
+ 
+
+<RemainingAmount>Klienta saistibu faktiskais
+atlikums</RemainingAmount>
+ 
+ 
+
+<RemainderCurrency>Klienta saistibu faktiska atlikuma
+valutas kods</RemainderCurrency>
+ 
+ 
+
+<OffBlncAmount>Klienta saistibu neizmantotais
+apjoms</OffBlncAmount>
+ 
+ 
+
+<OffBlncCurrency>Klienta saistibu neizmantota apjoma
+valutas kods</OffBlncCurrency>
+ 
+ 
+
+<AccountRef>Norade par uzskaiti
+gramatvediba</AccountRef>
+ 
+ 
+
+<IntRate>Procentu likme</IntRate>
+ 
+ 
+
+<IntRateCap>Maksimala procentu
+likme</IntRateCap>
+ 
+ 
+
+<IntRateFloor>Minimala procentu
+likme</IntRateFloor>
+ 
+ 
+
+<RefRate>Atsauces procentu likmes
+vertiba</RefRate>
+ 
+ 
+
+<RefRateDur>Atsauces procentu likmes
+terminš</RefRateDur>
+ 
+ 
+
+<IntRateSpread>Procentu likmes
+pieskaitijums</IntRateSpread>
+ 
+ 
+
+<IntRateType>Procentu likmes
+veids</IntRateType>
+ 
+ 
+
+<IntRateFrq>Procentu likmes parskatišanas
+periodiskums</IntRateFrq>
+ 
+ 
+
+<InterestRateRevisionDate>Procentu likmes nakamas
+parskatišanas datums</InterestRateRevisionDate>
+ 
+ 
+
+<IntRateEndDate>Datums, kad beidzas periods, kura tiek
+maksati tikai procenti</IntRateEndDate>
+ 
+ 
+
+<AccInterest>Uzkrata procentu
+summa</AccInterest>
+ 
+ 
+
+<AccInterestCurrency>Uzkratas procentu summas valutas
+kods</AccInterestCurrency>
+ 
+ 
+
+<Accruals>Klienta saistibu pamatsummai uzkrata
+vertibas samazinajuma summa</Accruals>
+ 
+ 
+
+<AccrualsCurrency>Klienta saistibu pamatsummai
+uzkratas vertibas samazinajuma summas valutas
+kods</AccrualsCurrency>
+ 
+ 
+
+<QualityRate>Klienta saistibu vertibas samazinajuma
+novertešanas metode</QualityRate>
+ 
+ 
+
+<ImpairmentType>Klienta saistibu vertibas
+samazinajuma veids</ImpairmentType>
+ 
+ 
+
+<PrvsnOffBlnc>Uzkrajumi klienta saistibam
+arpusbilance</PrvsnOffBlnc>
+ 
+ 
+
+<PrvsnOffBlncCurrency>Uzkrajumu klienta saistibam
+arpusbilance valutas
+kods</PrvsnOffBlncCurrency>
+ 
+ 
+
+<DelayPeriod>Kavejuma dienu
+skaits</DelayPeriod>
+ 
+ 
+
+<DelayAmount>Klienta saistibu kaveta
+pamatsumma</DelayAmount>
+ 
+ 
+
+<DelayCurrency>Klienta saistibu kavetas pamatsummas
+valutas kods</DelayCurrency>
+ 
+ 
+
+<DelayInterest>Klienta saistibu kaveta procentu
+summa</DelayInterest>
+ 
+ 
+
+<DelayInterestCurrency>Klienta saistibu kavetas
+procentu summas valutas
+kods</DelayInterestCurrency>
+ 
+ 
+
+<OtherDelayedFees>Klienta saistibu citu kaveto
+maksajumu summa</OtherDelayedFees>
+ 
+ 
+
+<OtherDelayedFeesCurrency>Klienta saistibu citu kaveto
+maksajumu summas valutas
+kods</OtherDelayedFeesCurrency>
+ 
+ 
+
+<ProbabilityOfDefault>Klienta saistibu nepildišanas
+varbutiba</ProbabilityOfDefault>
+ 
+ 
+
+<LossGivenDefault>Iespejamie zaudejumi klienta
+saistibu nepildišanas
+gadijuma</LossGivenDefault>
+ 
+ 
+
+<PoDMethod>Norade par vertešanas
+metodi</PoDMethod>
+ 
+ 
+
+<CreditDefaultStatus>Individualo klienta saistibu
+neizpildes statuss</CreditDefaultStatus>
+ 
+ 
+
+<CreditDefaultDate>Individualo klienta saistibu
+neizpildes statusa noteikšanas
+datums</CreditDefaultDate>
+ 
+ 
+
+<PerformingStatus>Klienta saistibu pelnitspejas
+statuss</PerformingStatus>
+ 
+ 
+
+<PerformingDate>Klienta saistibu pelnitspejas statusa
+noteikšanas datums</PerformingDate>
+ 
+ 
+
+<RecognBalStatus>Norade par atzišanu bilance un
+arpusbilance</RecognBalStatus>
+ 
+ 
+
+<AccountClsf>Klienta saistibu klasifikacija
+gramatvediba</AccountClsf>
+ 
+ 
+
+<AmrtType>Amortizacijas
+veids</AmrtType>
+ 
+ 
+
+<PmntFrq>Maksajumu
+periodiskums</PmntFrq>
+ 
+ 
+
+<FairValueRisk>Klienta saistibu faktiska atlikuma un
+to novertejuma pirms tiesibu un saistibu vai prasijuma
+tiesibu parnemšanas starpiba</FairValueRisk>
+ 
+ 
+
+<TransfAmount>Parskaitita
+summa</TransfAmount>
+ 
+ 
+
+<TransfAmountCurrency>Parskaititas summas valutas
+kods</TransfAmountCurrency>
+ 
+ 
+
+<CountryRiskTransfBasis>Valsts riska parneses
+pamats</CountryRiskTransfBasis>
+ 
+ 
+
+<RiskEmanatingCountry>Valsts, no kuras parnests
+risks</RiskEmanatingCountry>
+ 
+ 
+
+<RiskAcceptCountry>Valsts, uz kuru parnests
+risks</RiskAcceptCountry>
+ 
+ 
+
+<SecuritType>Vertspapirošanas
+veids</SecuritType>
+ 
+ 
+
+<Losses>Zaudejumu apjoms</Losses>
+ 
+ 
+
+<LossesCurrency>Zaudejumu apjoma valutas
+kods</LossesCurrency>
+ 
+ 
+
+<SrcEncumbrance>Klienta saistibu apgrutinajuma
+avots</SrcEncumbrance>
+ 
+ 
+
+<CreditStatus>Klienta saistibu
+statuss</CreditStatus>
+ 
+ 
+
+<ForbearanceStatus>Klienta saistibu statusa
+pazime</ForbearanceStatus>
+ 
+ 
+
+<ForbearanceStatusDate>Klienta saistibu statusa
+pazimes noteikšanas
+datums</ForbearanceStatusDate>
+ 
+ 
+
+<FairValAccu>Patiesas vertibas uzkratas parmainas
+kreditriska rezultata</FairValAccu>
+ 
+ 
+
+<FairValAccuCurrency>Patiesas vertibas uzkrato
+parmainu kreditriska rezultata valutas
+kods</FairValAccuCurrency>
+ 
+ 
+
+<CumulatRecov>Uzkratas atgutas summas kopš datuma,
+kura klienta saistibam noteikts neizpildes
+statuss</CumulatRecov>
+ 
+ 
+
+<CumulatRecovCurrency>Uzkrato atguto summu kopš
+datuma, kura klienta saistibam noteikts neizpildes statuss,
+valutas kods</CumulatRecovCurrency>
+ 
+ 
+
+<ClsExposure>Norade par klienta saistibu
+klasifikaciju tirdzniecibas
+portfeli</ClsExposure>
+ 
+ 
+
+<CarryAmount>Uzskaites
+vertiba</CarryAmount>
+ 
+ 
+
+<CarryAmountCurrency>Uzskaites vertibas valutas
+kods</CarryAmountCurrency>
+ 
+ 
+
+<CollateralList>
+ 
+ 
+ 
+<Collateral>
+ 
+ 
+ 
+ 
+
+<CollateralId>Nodrošinajuma
+identifikators</CollateralId>
+ 
+ 
+ 
+ 
+
+<CollateralType>Nodrošinajuma
+veids</CollateralType>
+ 
+ 
+ 
+ 
+
+<CollateralCountry>Nodrošinajuma registracijas
+vieta</CollateralCountry>
+ 
+ 
+ 
+ 
+
+<CollateralOrigValue>Nodrošinajuma sakotneja
+vertiba</CollateralOrigValue>
+ 
+ 
+ 
+ 
+
+<CollateralOrigValueCurrency>Nodrošinajuma
+sakotnejas vertibas valutas
+kods</CollateralOrigValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralOrigDate>Nodrošinajuma sakotnejas
+vertibas noteikšanas
+datums</CollateralOrigDate>
+ 
+ 
+ 
+ 
+
+<CollateralValue>Nodrošinajuma
+vertiba</CollateralValue>
+ 
+ 
+ 
+ 
+
+<CollateralValueCurrency>Nodrošinajuma vertibas
+valutas kods</CollateralValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralValueType>Nodrošinajuma vertibas
+veids</CollateralValueType>
+ 
+ 
+ 
+ 
+
+<CollateralValueDate>Nodrošinajuma vertibas
+noteikšanas datums</CollateralValueDate>
+ 
+ 
+ 
+ 
+
+<CollateralValutApproach>Nodrošinajuma novertešanas
+metode</CollateralValutApproach>
+ 
+ 
+ 
+ 
+
+<Collateral3rdPartyClaims>Trešo personu prioritaro
+prasijumu pret nodrošinajumu
+vertiba</Collateral3rdPartyClaims>
+ 
+ 
+ 
+ 
+
+<Collateral3rdPartyClaimsCurrency>Trešo personu
+prioritaro prasijumu pret nodrošinajumu vertibas valutas
+kods</Collateral3rdPartyClaimsCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralAllocValue>Nodrošinajuma attiecinama
+vertiba</CollateralAllocValue>
+ 
+ 
+ 
+ 
+
+<CollateralAllocValueCurrency>Nodrošinajuma
+attiecinamas vertibas valutas
+kods</CollateralAllocValueCurrency>
+ 
+ 
+ 
+ 
+
+<CollateralMaturityDate>Nodrošinajuma beigu
+terminš</CollateralMaturityDate>
+ 
+ 
+ 
+</Collateral>
+ 
+ 
+ 
+…
+ 
+ 
+ 
+
+<Collateral>…</Collateral>
+ 
+ 
+
+</CollateralList>
+ 
+</Credit>
+</Message>
+8.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Klienta saistibu identifikators
+Klienta saistibu identifikators
+C35
+Klienta saistibu veids
+No kodu saraksta. Nenorada, ja
+operacijas veids ir "D"
+N2 vai N3
+ 
+8.3. Personas apraksta
+bloks
+8.3.1. Personas apraksta
+bloka struktura ir atkariga no personas un rezidenta
+pazimes.
+ 
+ 
+8.3.2. Juridiskas
+personas rezidenta apraksta bloka struktura
+<Borrower>
+ 
+
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+
+<RegNumber>Vienotas registracijas
+numurs</RegNumber>
+ 
+
+<InvestmentFundID>fonda
+identifikators</InvestmentFundID>
+ 
+
+<CustomerDefaultStatus>Klienta saistibu neizpildes
+novertejums</CustomerDefaultStatus>
+ 
+
+<CustomerDefaultStatusDate>Klienta saistibu neizpildes
+novertejuma noteikšanas
+datums</CustomerDefaultStatusDate>
+</Borrower>
+ 
+8.3.3. Juridiskas personas
+nerezidenta apraksta bloka struktura
+<Borrower>
+ 
+<ResidentType>Rezidenta
+pazime</ResidentType>
+ 
+<Country>Registracijas
+valsts kods</Country>
+ 
+<RegNumberN>Registracijas
+numurs</RegNumberN>
+ 
+<RegNumType>Registracijas
+numura veids</RegNumType>
+ 
+<InvestmentFund ID>fonda
+identifikators</InvestmentFund ID>
+ 
+<RegDate>Registracijas
+datums</RegDate>
+ 
+
+<NameJP>Nosaukums</NameJP>
+ 
+<LegalForm>Juridiska
+forma</LegalForm>
+ 
+<AddressStreet>Juridiska
+adrese – iela</AddressStreet>
+ 
+<AddressCity>Juridiska
+adrese – administrativa
+teritorija</AddressCity>
+ 
+
+<AddressPostalCode>Juridiska adrese – pasta
+indekss</AddressPostalCode>
+ 
+<AddressPostBox>Juridiska
+adrese – pastkastite</AddressPostBox>
+ 
+
+<Category>Kategorija</Category>
+ 
+
+<EconomicSector>Tautsaimniecibas
+nozare</EconomicSector>
+ 
+<LegalStatus>Tiesvedibas
+statuss</LegalStatus>
+ 
+
+<LegalStatusDate>Tiesvedibas statusa noteikšanas
+datums</LegalStatusDate>
+ 
+
+<CustomerDefaultStatus>Klienta saistibu neizpildes
+novertejums</CustomerDefaultStatus>
+ 
+
+<CustomerDefaultStatusDate>Klienta saistibu neizpildes
+novertejuma noteikšanas datums
+</CustomerDefaultStatusDate></Borrower>
+</Borrower>
+8.3.4. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Kategorija
+No kodu saraksta
+
+N2
+IV. Kreditriska darijumos
+iesaistito personu fails
+9. Faila nosaukuma
+prefikss ir "krf".
+ 
+ 
+ 
+10. Ja šaja noteikumu
+pielikuma nav noteikts citadi, sniedzamas informacijas apraksts
+un formats noraditi šo noteikumu 8. pielikuma.
+ 
+ 
+ 
+11. Faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+
+<Header>Faila sakuma bloks (sk. ša pielikuma 12.
+punktu)</Header>
+ 
+
+<KRMessages>
+ 
+ 
+
+<Message>Funkcijas apraksta bloks (sk. ša
+pielikuma 13. punktu)</Message>
+ 
+ 
+…
+ 
+ 
+
+<Message>Funkcijas apraksta
+bloks</Message>
+ 
+
+</KRMessages>
+</KRFile>
+ 
+12. Faila sakuma bloks
+12.1. Faila sakuma bloka
+struktura
+<Header>
+ 
+<Participant>Registra
+dalibnieka identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+<Messages>Zinojumu
+skaits</Messages>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+
+<FileType>F</FileType>
+</Header>
+ 
+13. Funkcijas apraksta bloks
+13.1. Funkcijas apraksta bloka
+struktura
+<Message>
+ 
+<Header>
+ 
+ 
+<MessageID>Zinojuma
+identifikators</MessageID>
+ 
+ 
+
+<Year>Gads</Year>
+ 
+ 
+<Month>Kalendarais
+menesis</Month>
+ 
+ 
+
+<MessageType>F</MessageType>
+ 
+ 
+<Operation>Operacijas
+veids</Operation>
+ 
+</Header>
+ 
+<Credit>
+ 
+ 
+<CreditID>Visparigo zinu
+identifikators</CreditID>
+ 
+ 
+<ContractID>Klienta liguma
+identifikators</ContractID>
+ 
+ 
+
+<CollateralId>Nodrošinajuma
+identifikators</CollateralId>
+ 
+ 
+<Role>Norade par
+iesaistitas personas funkciju</Role>
+ 
+</Credit>
+ 
+
+<Person>Personas apraksta bloks (sk. ša pielikuma
+8.3. apakšpunktu)</Person>
+</Message>
+13.2. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Zinojuma identifikators
+Registra dalibnieka pieškirts
+faila ietvaros unikals identifikators
+C16
+Operacijas veids
+"N" – zinojuma ieklaušana;
+"D" – zinojuma anulešana
+
+
+C1
+Nodrošinajuma identifikators
+Nodrošinajuma identifikators.
+Nodrošinajuma identifikatoru norada tikai tad, ja zinas
+"Norade par iesaistitas personas funkciju" vertiba ir "N"
+
+C60
+Norade par iesaistitas personas
+funkciju
+"C" – iesaistita persona ir
+kreditors;
+"N" – iesaistita persona ir saistibu nodrošinajuma
+sniedzejs;
+"P" – iesaistita persona ir pakalpojuma sniedzejs;
+"I" – iesaistita persona ir iniciators
+
+
+C1
+IV.1 Kreditriska
+darijumos iesaistito personu identificejošas informacijas
+labošanas fails
+13.1 Faila nosaukuma prefikss ir "krt".
+13.2 Identificejošas informacijas labošanas
+faila struktura
+<?xml version="1.0"
+encoding="Windows-1257"?>
+<KRFile>
+ 
+<Header>Faila sakuma bloks
+(sk. ša pielikuma 13.31.
+apakšpunktu)</Header>
+ 
+<KRMessages>
+ 
+ 
+<Message>Zinojuma bloks (sk. ša
+pielikuma
+13.33. apakšpunktu)</Message>
+ 
+ 
+…
+ 
+ 
+<Message>Zinojuma bloks (sk. ša
+pielikuma
+13.33. apakšpunktu)</Message>
+ 
+</KRMessages>
+</KRFile>
+13.3 Faila sakuma bloks
+13.31. Faila sakuma bloka struktura
+<Header>
+ 
+<Participant>Registra dalibnieka vai
+ierobežota registra dalibnieka
+identifikators</Participant>
+ 
+<Subject>Zinu
+subjekts</Subject>
+ 
+
+<Prepared>Datums</Prepared>
+ 
+<FileType>T</FileType>
+</Header>
+13.32. Bloka lietojamo zinu apraksts
+
+Nosaukums
+
+Apraksts
+
+Formats
+Registra dalibnieka vai ierobežota
+registra dalibnieka identifikators
+Vienotas registracijas numurs
+
+N11
+Zinu subjekts
+Registra dalibnieka filiales BIC
+kods
+
+C8
+Datums
+Kreditriska darijumos iesaistito
+personu identificejošas informacijas labošanas faila
+sagatavošanas datums
+GGGG-MM-DD
+13.33. Zinojuma bloks
+13.33.1. Zinojuma bloka struktura
+<Message>
+ 
+<Header>
+ 
+ 
+<MessageType>T</MessageType>
+ 
+ 
+<MessageID>Zinojuma
+identifikators</MessageID>
+ 
+</Header>
+ 
+<Substitution>
+ 
+ 
+<PersonFrom>Pašreizejais personas
+apraksta bloks</PersonFrom>
+ 
+ 
+<PersonTo>Jaunais personas apraksta
+bloks</PersonTo>
+ 
+</Substitution>
+</Message>
+13.33.2. Ša pielikuma 13.33.1.
+apakšpunkta mineto personas apraksta bloku sagatavo atbilstoši
+ša pielikuma 8.3. apakšpunktam, aizstajot bloka nosaukumu
+"Borrower" attiecigi ar "PersonFrom" un "PersonTo" un nenoradot
+zinas Klienta saistibu neizpildes novertejums,
+Klienta saistibu neizpildes novertejuma noteikšanas
+datums, Kategorija, Tautsaimniecibas nozare,
+Tiesvedibas statuss un Tiesvedibas statusa noteikšanas
+datums.
+13.33.3. Bloka lietojamo zinu apraksts
+Nosaukums
+
+Apraksts
+Formats
+Zinojuma identifikators
+Registra dalibnieka vai ierobežota
+registra dalibnieka pieškirts faila ietvaros unikals
+identifikators
+C16
+V. Atbildes fails
+14. Atbildes faila struktura un formats noraditi šo
+noteikumu 8. pielikuma.
+
+
+Latvijas Bankas prezidents I. Rimševics
+10. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Kreditiestažu sniedzamo statistikas parskatu failu formati un struktura(Pielikums LB 15.03.2018. noteikumu Nr. 164 redakcija)
+
+I. Faila formats
+1. Parskatu failus sagatavo ASCII formata, latviešu valodas
+burtu ar diakritiskajam zimem kodešanai lietojot šadu
+tabulu.
+Burts
+ASCII kods
+A
+181
+C
+211
+E
+240
+G
+242
+I
+215
+K
+244
+L
+246
+N
+252
+Š
+208
+U
+222
+Ž
+248
+2. Failu nosaukuma formats ir
+aaa_kkk_ggggmmdd.txt, bet šifreta un
+elektroniski parakstita faila nosaukuma formats ir
+aaa_kkk_ggggmmdd.ext, kur:
+2.1. aaa – faila nosaukuma prefikss, ko norada
+saskana ar attieciga parskata sagatavošanas formatiem;
+2.2. kkk – monetaras finanšu iestades kods
+atbilstoši "Latvijas Republikas monetaro finanšu iestažu
+sarakstam";
+2.3. gggg – parskata gads;
+2.4. mm – parskata perioda pedejais menesis;
+2.5. dd – parskata perioda pedeja diena;
+2.6. ext – šifreta un elektroniski parakstita faila
+paplašinajums ("ent" vai "p7m").
+3. Sagatavotos parskatu failus pec to elektroniskas
+parakstišanas un šifrešanas ievieto failu apmainas servisa
+STAT/OUT kataloga.
+II. Parskatu struktura
+4. Parskats sastav no rindam. Katra rinda norada vienu
+parskata raditaju, t.i., raditaja apzimejumu, vienadibas
+zimi (simbols "=") un raditaja vertibu. Norada tikai tos
+parskata raditajus, kuriem ir vertiba. Katra parskata
+obligati norada šadus parskata raditajus:
+4.1. parskata iesniedzeja kods (raditaja apzimejums –
+ORG_KODS, raditaja vertiba – monetaras finanšu iestades
+kods atbilstoši "Latvijas Republikas monetaro finanšu iestažu
+sarakstam");
+4.2. parskata kods (raditaja apzimejums – DOK_KODS,
+raditaja vertiba – attieciga parskata veidlapas VSPARK
+kods forma nnnnnnnn);
+4.3. parskata periods (raditaja apzimejums – DATUMS,
+raditaja vertibas uzradišanas principi sniegti attieciga
+parskata sagatavošanas formata apraksta);
+4.4. labojums (raditaja apzimejums – LABOJUMS,
+raditaja vertiba – labojuma kartas numurs, ja parskats
+tiek iesniegts atkartoti; pirmo reizi iesniedzot parskatu par
+attiecigo periodu, raditajs nav jauzrada);
+4.5. parskata iesniegšanas datums (raditaja apzimejums
+– IESN_DAT, raditaja vertibu norada formata ggggmmdd, kur
+gggg – gads, mm – menesis, dd – diena);
+4.6. izpilditajs (raditaja apzimejums – PERSONA,
+raditaja vertiba – izpilditaja vards, uzvards);
+4.7. izpilditaja talrunis (raditaja apzimejums –
+TALRUNIS, raditaja vertiba – izpilditaja talruna
+numurs);
+4.8. izpilditaja e-pasta adrese, ja attieciga parskata
+sagatavošanas noteikumi to paredz (raditaja apzimejums –
+EPASTS, raditaja vertiba – izpilditaja e-pasta
+adrese).
+5. Par decimaldalas atdalitaju parskatos lieto punktu
+(simbols "."). Negativu vertibu noradišanai lieto minusa
+zimi.
+6. Parejos parskata raditajus norada saskana ar
+attieciga parskata sagatavošanas noteikumiem. Ja parskata nav
+noradamo vertibu, sniedz tikai obligatos raditajus.
+III. Parskatos izmantojamo kodu
+saraksti
+7. Darijuma partnera sektoru kodu saraksts
+Darijuma partnera sektors
+"Meneša bilances parskata" ABL pielikuma izmantojamais
+kods
+"Meneša bilances parskata" N pielikuma
+izmantojamais kods
+Nefinanšu sabiedribas
+–
+SK11
+Valsts nefinanšu sabiedribas
+SK111
+–
+Privatas nefinanšu
+sabiedribas
+SK112
+–
+Centralas bankas
+SK121
+SK121
+Monetaras finanšu iestades,
+iznemot naudas tirgus fondus
+SK122
+SK122
+Saistitas un radniecigas
+monetaras finanšu iestades, iznemot naudas tirgus fondus
+SK12201
+–
+Monetaras finanšu iestades, kas
+nav saistitas un radniecigas monetaras finanšu iestades,
+iznemot naudas tirgus fondus
+SK12202
+–
+Naudas tirgus fondi
+SK123
+–
+Ieguldijumu fondi, iznemot naudas
+tirgus fondus, un alternativo ieguldijumu fondi
+SK124
+SK124
+Citi finanšu starpnieki
+SK125
+SK125
+Citi finanšu starpnieki, iznemot CDP
+un FIS
+SK125A
+–
+Centralie darijuma partneri
+(CDP)
+SK1256
+–
+Finanšu instrumentsabiedribas
+(FIS)
+SK1254
+–
+Finanšu paligsabiedribas
+SK126
+SK126
+Piesaistošas finanšu iestades un
+naudas aizdeveji
+SK127
+SK127
+Apdrošinašanas sabiedribas
+SK128
+SK128
+Pensiju fondi
+SK129
+–
+Centralas valdibas
+SK1311
+SK1311
+Vietejas valdibas
+SK1313
+SK1313
+Socialas nodrošinašanas
+fondi
+SK1314
+SK1314
+Majsaimniecibas
+SK14
+SK14
+Majsaimniecibas, iznemot
+pašnodarbinatos
+SK14C
+–
+Pašnodarbinatie
+SK142
+–
+Majsaimniecibas apkalpojošas
+bezpelnas organizacijas
+SK15
+SK15
+Nav informacijas
+SK9
+–
+8. Termina veidu kodu saraksts
+Termina veids
+"Meneša bilances parskata" ABL pielikuma izmantojamais
+kods
+Pieprasijuma
+TV111
+Ar noteikto terminu
+TV112
+Ar bridinajuma terminu par
+iznemšanu
+TV12
+Repo darijumi
+TV13
+Reversie repo darijumi
+TV14
+Uz nakti
+TV15
+Ar sakotnejo terminu
+TV16
+9. Terminu grupu kodu saraksts
+Termina grupa
+"Meneša bilances parskata" ABL pielikuma izmantojamais
+kods
+Uz nakti
+00D01D
+Pieprasijuma
+00M00M
+Lidz 3 men.
+00M03M
+Lidz 6 men.
+00M06M
+3–12 meneši
+03M12M
+6–12 meneši
+06M12M
+Lidz 1 gadam
+00M12M
+1–2 gadi
+01G02G
+2–5 gadi
+02G05G
+Ilgak par 2 gadiem
+02G99G
+Ilgak par 5 gadiem
+05G99G
+Repo darijumi
+00R99R
+Reversie repo darijumi
+99R00R
+10. Instrumentu veidu kodu saraksts
+Instrumenta veids
+"Meneša bilances parskata" ABL pielikuma izmantojamais
+kods
+ 
+Strukturetie noguldijumi
+IV201
+ 
+Parvedamie noguldijumi
+IV202
+ 
+Neparvedamie noguldijumi
+IV203
+ 
+Strukturetie emitetie parada
+vertspapiri
+IV301
+ 
+Emitetie parada vertspapiri ar
+terminu lidz 2 gadiem ar nominala kapitala garantiju, tos
+dzešot, mazaku par 100%
+IV302
+ 
+Sindicetie krediti
+IV404
+ 
+Krediti majokla iegadei
+IV405
+ 
+Paterina krediti
+IV406
+ 
+Parejie krediti
+IV407
+ 
+
+11. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Meneša bilances parskata" un ta pielikumu formats(Pielikums grozits ar LB 15.03.2018. noteikumiem Nr. 164)
+1. "Meneša bilances parskats"1.1. Faila nosaukuma prefikss ir "MBP".1.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).1.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").2. ABL pielikums "MFI "Meneša bilances parskata" poziciju izversums"2.1. Faila nosaukuma prefikss ir "MBP_ABL".2.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).2.3. Raditaja apzimejumu 4. ailei veido faila nosaukuma prefikss, meneša bilances parskata pozicijas kods, valsts kods, valutas kods, darijuma partnera sektora kods saskana ar kodu sarakstu (10. pielikuma 7. punkts), monetaras finanšu iestades kods (ja tada nav, tad "000"), termina veida kods saskana ar kodu sarakstu (10. pielikuma 8. punkts; ja tada nav, tad "00"), termina kods saskana ar kodu sarakstu (10. pielikuma 9. punkts; ja tada nav, tad "00") un instrumenta veida kods saskana ar kodu sarakstu (10. pielikuma 10. punkts; ja tada nav, tad "00"), starp kuriem liekama pasvitrojuma zime (simbols "_").2.4. "Meneša bilances parskata" pozicijas "Nauda kase" rindas valsts kods ir "ND", bet poziciju kopsummas rindas – "W0".2.5. "Meneša bilances parskata" poziciju kopsummas rindas valutas kods ir "Z01".3. B-P pielikums "Norekinu karšu, atjaunojamie un parsnieguma krediti"3.1. Faila nosaukuma prefikss ir "MBP_B_P".3.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).3.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").4. F pielikums "Pelnas un zaudejumu aprekins"4.1. Faila nosaukuma prefikss ir "MBP_F".4.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).4.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").5. J pielikums "Aktivi parvaldišana"5.1. Faila nosaukuma prefikss ir "MBP_J ".5.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).5.3. J pielikuma raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").6. K pielikums "Parskats par elektronisko naudu"6.1. Faila nosaukuma prefikss ir "MBP_K".6.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – pusgada pedeja meneša skaitlis 06 vai 12 atbilstoši parskata periodam.6.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_"). 7. M pielikums "Krediti dalijuma pec atlikuša termina un pec procentu likmes parskatišanas perioda"7.1. Faila nosaukuma prefikss ir "MBP_M".7.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – ceturkšna pedeja meneša skaitlis 03, 06, 09 vai 12 atbilstoši parskata periodam.7.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_"). 8. N pielikums "Parskats par pamatkapitala sadalijumu"8.1. Faila nosaukuma prefikss ir "MBP_N".8.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).8.3. Raditaja apzimejumu 4. ailei veido faila nosaukuma prefikss, rindas kods, valsts kods no 2. ailes un sektora kods no 3. ailes saskana ar kodu sarakstu (10. pielikuma 7. punkts), starp kuriem liekama pasvitrojuma zime (simbols "_"), iznemot kopsummas rindu, kurai valsts kods un sektora kods nav janorada. 8.4. Rindas kods ir akcionara identifikators no 1. ailes, iznemot kopsummas rindu, kuras kods ir "KOPA".9. ""Meneša bilances parskata" un ABL pielikuma poziciju parmainas"9.1. Faila nosaukuma prefikss ir "MBP_P1".9.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).9.3. Raditaja apzimejumu veido sadalas prefikss, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_"). Prefikss sadalai "MBP aktivu pozicijas" ir "MBP_P1_AK", sadalai "MBP pasivu pozicijas" – "MBP_P1_PA", sadalai "ABL pielikuma pozicijas" – "MBP_P1_PI", sadalai "MBP arpusbilances pozicijas" – "MBP_P1_AR".9.4. Rindas kods ir rindas kartas numurs attiecigaja sadala.9.5. Sadala "ABL pielikuma pozicijas" ABL pielikumam aile A norada pozicijas kodu, ko veido prefikss "MBP_ABL", meneša bilances pozicijas kods, valsts kods, valutas kods, darijuma partnera sektora kods saskana ar kodu sarakstu (10. pielikuma 7. punkts), monetaras finanšu iestades kods (ja tada nav, tad "000"), termina veida kods saskana ar kodu sarakstu (10. pielikuma 8. punkts; ja tada nav, tad "00"), termina kods saskana ar kodu sarakstu (10. pielikuma 9. punkts; ja tada nav, tad "00") un instrumenta veida kods saskana ar kodu sarakstu (10. pielikuma 10. punkts; ja tada nav, tad "00"), starp kuriem liekama pasvitrojuma zime (simbols "_").10. "Parejo aktivu izversums" un "Parejo saistibu izversums"10.1. Parskata "Parejo aktivu izversums" faila nosaukuma prefikss ir "MBP_P2", "Parejo saistibu izversums" – "MBP_P3".10.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).10.3. Raditaja apzimejumu veido atbilstoša paskaidrojuma faila nosaukuma prefikss, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").10.4. Rindas kods ir rindas kartas numurs, iznemot kopsummas rindu, kuras kods ir "KOPA".
+Latvijas Bankas prezidents I. Rimševics
+12. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Procentu likmju parskatu formats
+1. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).2. "Jauno darijumu procentu likmju parskats"2.1. Faila nosaukuma prefikss ir "JDL".2.2. Raditaja apzimejumu veido sadalai atbilstošs prefikss ("KJ_1", "KJ_2", "KJ_3", "KJ_4", "NJ_1" vai "NJ_2"), pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_'').3. "Darijumu atlikumu procentu likmju parskats"3.1. Faila nosaukuma prefikss ir "JDA".3.2. Raditaja apzimejumu veido sadalai atbilstošs prefikss ("KA_1", "KA_2", "KA_3", "KA_4", "NA_1" vai "NA_2"), pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_'').4. ""Jauno darijumu procentu likmju parskata" poziciju parmainas"4.1. Faila nosaukuma prefikss ir "JDP".4.2. Raditaja apzimejumu veido sadalai atbilstošs prefikss, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_'').4.3. Sadalu prefiksi ir šadi:4.3.1. sadalai "Euro" – "JDP_EUR";4.3.2. sadalai "ASV dolaros" – "JDP_USD";4.3.3. sadalai "Parejas arvalstu valutas" – "JDP_PRV".4.4. Rindas kods ir rindas kartas numurs attiecigaja sadala.
+Latvijas Bankas prezidents I. Rimševics
+13. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Rezervju bazes un prasibu aprekina" formats
+1. Faila nosaukuma prefikss ir "RPA".2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).3. Raditaja apzimejumu veido faila nosaukuma prefikss un pozicijas kods, starp kuriem liekama pasvitrojuma zime (simbols "_").
+Latvijas Bankas prezidents I. Rimševics
+14. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Ilgtermina areja parada ceturkšna parskata" un "Ilgtermina areja parada prognožu ceturkšna parskata" formats
+1. "Ilgtermina areja parada ceturkšna parskats"1.1. Faila nosaukuma prefikss ir "2MB_B".1.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – ceturkšna pedeja meneša skaitlis 03, 06, 09 vai 12 atbilstoši parskata periodam.1.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").1.4. Rindas kods ir rindas kartas numurs attiecigaja pozicija.2. "Ilgtermina areja parada prognožu ceturkšna parskats"2.1. Faila nosaukuma prefikss ir "2MB_P".2.2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – ceturkšna pedeja meneša skaitlis 03, 06, 09 vai 12 atbilstoši parskata papildinajuma parskata periodam.2.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").2.4. Rindas kods ir rindas kartas numurs attiecigaja pozicija.
+Latvijas Bankas prezidents I. Rimševics
+15. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Naudas tirgus darijumu parskata" formats
+1. Faila nosaukuma prefikss ir "NTD".2. Raditaja apzimejuma DATUMS vertibu norada forma gggg.mm.dd., kur gggg – gadskaitlis, mm – meneša skaitlis un dd – dienas skaitlis, noradot parskata perioda sakuma datumu.3. Raditaju "Darijuma sakuma norekinu datums" un "Darijuma beigu norekinu datums" vertibas norada forma gggg.mm.dd., kur gggg – gadskaitlis, mm – meneša skaitlis un dd – dienas skaitlis.4. Raditaja apzimejumu ailem veido parskata sadalas atbilstošais prefikss, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_''). Rindas kods ir rindas kartas numurs attiecigaja sadala, iznemot kontrolsummas rindu, kuras kods aizstats ar "Kontrolsumma".5. Sadalu prefiksi ir šadi:5.1. naudas tirgus darijumiem (iznemot valutas mijmainas darijumus) ar rezidentiem – "NTR";5.2. naudas tirgus darijumiem (iznemot valutas mijmainas darijumus) ar nerezidentiem – "NTN";5.3. valutas mijmainas darijumiem ar rezidentiem – "VMR";5.4. valutas mijmainas darijumiem ar nerezidentiem – "VMN".
+Latvijas Bankas prezidents I. Rimševics
+16. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Kreditiestažu, elektroniskas naudas iestažu un maksajumu iestažu maksajumu statistikas parskata" formats
+1. Faila nosaukuma prefikss ir "KMSP".2. Raditaja apzimejuma DATUMS vertibu norada forma ggggnn, kur gggg - gadskaitlis, nn - 01, ja parskatu iesniedz par 1. pusgadu, 02, ja parskatu iesniedz par 2. pusgadu.3. Raditaja apzimejumu veido faila nosaukuma prefikss, pozicijas kods, valsts kods, ja tadu norada atbilstošajam pozicijas kodam (valstu kodi kopsummas rindam: "Iekšzeme" – LV, "Parejas euro zonas valstis" – U5, "Parejas arvalstis" – U4), un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols "_").
+Latvijas Bankas prezidents I. Rimševics
+17. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Kreditu norakstišanas un vertspapiru parvertešanas korekciju parskata" formats
+1. Faila nosaukuma prefikss ir "KNVP".2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – parskata meneša skaitlis (no 01 lidz 12).3. Raditaja apzimejumu veido sadalai atbilstošs prefikss, pozicijas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_'').4. Sadalu prefiksi ir šadi:4.1. sadalai "Kreditu norakstišanas korekcija" – "KNK";4.2. sadalai "Vertspapiru parvertešanas korekcija" – "VPK";4.3. sadalai "Korekcijas pretvertiba" – "KPV".
+Latvijas Bankas prezidents I. Rimševics
+18. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Valutu pirkšanas un pardošanas parskatu formats
+
+1. Raditaja apzimejuma DATUMS vertibu norada forma
+ggggmm, kur gggg – gadskaitlis un mm – parskata meneša
+skaitlis (no 01 lidz 12).
+2. "Arvalstu valutu pirkšanas un pardošanas par euro
+darijumu parskats"
+2.1. Faila nosaukuma prefikss ir "VAL_PAR_V".
+2.2. Raditaja apzimejumu veido faila nosaukuma prefikss,
+rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime
+(simbols "_").
+2.3. Rindas kods ir rindas kartas numurs parskata, iznemot
+kontrolsummas rindu, kuras kods ir "KOPA".
+3. "Arvalstu valutu pirkšanas un pardošanas par arvalstu
+valutam darijumu parskats"
+3.1. Faila nosaukuma prefikss ir "VAL_PAR_N".
+3.2. Raditaja apzimejumu veido faila nosaukuma prefikss,
+rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime
+(simbols "_").
+3.3. Rindas kods ir rindas kartas numurs parskata, iznemot
+kontrolsummas rindu, kuras kods ir "KOPA".
+4. "Arvalstu valutu darijumu skaidra un bezskaidra nauda
+parskats"
+4.1. Faila nosaukuma prefikss ir "VAL_PAR_D".
+4.2. Raditaja apzimejumu veido faila nosaukuma prefikss,
+darijuma veids, rezidence, sektors, valuta, darijums un
+preteja valuta, starp kuram liekama pasvitrojuma zime
+(simbols "_").
+Darijumu, darijuma veidu, valutu, rezidenci un sektoru
+apzime šadi.
+
+Pozicija
+Pozicijas
+aizpildes norades
+Darijums
+"SP" – tagadnes darijums
+"FU" – nakotnes darijums
+"SW" – valutas mijmainas darijums
+"Z0" – visi darijumi
+
+Darijuma veids
+"N" – nopirkts
+"P" – pardots
+
+Valuta
+"EUR" – euro
+"USD" – ASV dolari
+"GBP" – Lielbritanijas sterlinu marcinas
+"Z22" – parejas valutas
+"Z01" – visas valutas
+
+Rezidence
+"LV" – rezidents
+"Z9" – nerezidents
+"A1" – visi
+
+Sektors
+"100" – MFI, iznemot Latvijas
+Banku
+"210" – citi finanšu starpnieki, finanšu paligsabiedribas,
+apdrošinašanas sabiedribas un pensiju fondi
+"224" – majsaimniecibas
+"225" – valdiba, nefinanšu sabiedribas, majsaimniecibas
+apkalpojošas biedribas un nodibinajumi
+
+4.3. Raditaja apzimejumu kontrolsummas rindai veido
+prefikss "VAL_PAR_D", darijuma veids, rezidence un sektors, starp
+kuriem liekama pasvitrojuma zime (simbols "_").
+
+
+Latvijas Bankas prezidents I. Rimševics
+19. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Vertspapiru parskatu formats(Pielikums LB 15.03.2018. noteikumu Nr. 164 redakcija)
+1. Parskatu failu nosaukumu prefiksi ir šadi:1.1. parskatam "Vertspapiru ar ISIN kodu meneša parskats" – "VIP_D";1.2. parskatam "Vertspapiru bez ISIN koda meneša parskats" – "VIP_BI";1.3. parskatam "Kapitala vertspapiru meneša parskats (atbilstoši monetaro finanšu iestažu "Meneša bilances parskata" 270000. pozicijai)" – "VIP_LIDZD";1.4. parskatam "Kreditiestades grupas vertspapiru ceturkšna parskats" – "VIP_GP".2. Raditaja apzimejuma DATUMS vertibu norada forma ggggmm, kur gggg – gadskaitlis un mm – meneša skaitlis (no 01 lidz 12) atbilstoši parskata periodam meneša parskatam vai ceturkšna pedeja meneša skaitlis 03, 06, 09 vai 12 atbilstoši parskata periodam ceturkšna parskatam.3. Parskatam "Vertspapiru ar ISIN kodu meneša parskats" raditaja apzimejumu veido prefikss "VIP_1D", rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_''). Parejiem parskatiem raditaja apzimejumu veido faila nosaukuma prefikss, rindas kods un ailes kods, starp kuriem liekama pasvitrojuma zime (simbols ''_'').4. Rindas kods ir rindas kartas numurs parskata, iznemot kontrolsummas rindu, kuras kods ir "0".5. Parskatam "Kapitala vertspapiru meneša parskats (atbilstoši monetaro finanšu iestažu "Meneša bilances parskata" 270000. pozicijai)" ailes "Vertspapiru kopejais emitetais apjoms (emisijas valuta)", "Emitenta pašu kapitals (emisijas valuta)" un "Emitenta parskata gada pelna vai zaudejumi (emisijas valuta)" vertibas norada veselos skaitlos.6. Parejos parskata raditajus norada saskana ar noteikumiem, kas nosaka vertspapiru parskatu sagatavošanas kartibu.
+20. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+"Nebanku arejo maksajumu meneša parskata" formats
+
+1. Faila nosaukuma prefikss ir "NAM".
+2. "Nebanku arejo maksajumu meneša parskata" ir šadas
+dalas:
+2.1. parskata sakuma rinda;
+2.2. parskata satura rindas;
+2.3. parskata beigu rinda.
+3. Rindas sakuma pazime ir atveroša figuriekava (simbols
+"{"). Rindas beigu pazime ir aizveroša figuriekava (simbols
+"}").
+4. Faila pirma rinda ir parskata sakuma rinda un pedeja
+rinda – parskata beigu rinda. Starp šim rindam atrodas
+parskata satura rindas.
+5. Datuma aprakstam izmanto formatu ggggmmdd, kur:
+5.1. gggg – gads;
+5.2. mm – menesis;
+5.3. dd – diena.
+6. Parskata sakuma rindas pozicijas aizpilda šadi.
+
+Pozicija
+
+Nosaukums
+Pozicijas
+aizpildes norades
+1
+Pazime
+"S"
+2–12
+Kreditiestades kods
+MFI kods
+13–20
+Karteja parskata perioda sakuma
+datums
+Norada forma ggggmmdd, kur gggg –
+gads, mm – menesis, dd – meneša pirmais datums
+21–28
+Karteja parskata perioda beigu
+datums
+Norada forma ggggmmdd, kur gggg –
+gads, mm – menesis, dd – meneša pedejais datums
+7. Parskata satura rindu pozicijas aizpilda šadi.
+
+Pozicija
+
+Nosaukums
+Pozicijas
+aizpildes norades
+1
+Pazime
+"J"
+2–9
+Darijuma datums
+Aizpilda visas pozicijas
+10–25
+Darijuma registracijas numurs
+Nolidzina no kreisas puses
+26
+Nebankas grupas kods
+Aizpilda poziciju
+27–37
+Komersanta registracijas numurs
+Nolidzina no kreisas puses, ja
+26. pozicija simbols ir "6"
+38
+Areja maksajuma veids
+"K" vai "D"
+39–53
+Summa
+Nolidzina no labas puses un par
+decimaldalas atdalitaju lieto punktu (simbols ".")
+54–56
+Valutas kods
+Aizpilda visas pozicijas
+57–59
+Areja maksajuma kods
+Ja nav nosakams ienakoša areja
+maksajuma kods, pozicijas neaizpilda
+60–61
+Valsts kods
+Aizpilda visas pozicijas
+8. Parskata beigu rindas pozicijas aizpilda šadi.
+
+Pozicija
+
+Nosaukums
+Pozicijas
+aizpildes norades
+1
+Pazime
+"B"
+2–9
+Parskata iesniegšanas datums
+Aizpilda visas pozicijas
+10–35
+Talruna numurs
+Nolidzina no kreisas puses
+36–53
+Skaitlu kopsumma
+Nolidzina no labas puses un par
+decimaldalas atdalitaju lieto punktu (simbols ".")
+
+Latvijas Bankas prezidents I. Rimševics
+21. pielikums
+Latvijas Bankas 2018. gada 18. janvara
+noteikumiem Nr. 162
+Latvijas Bankas atbildes par kreditiestažu statistikas parskatu failu pienemšanu formats un struktura
+1. Atbildes faila nosaukums tiek veidots forma rez_nosaukums, kur:1.1. rez ir "OK", ja fails veiksmigi apstradats; "NOK" – ja fails nav pienemts;1.2. nosaukums – sanemta faila nosaukums.2. Atbildes fails tiek sagatavots ASCII faila formata un satur:TIPS: "FAILA UZLADE"BANKA: <MFI>FAILS: <NameSource>DATUMS: <DateLastModified>LAIKS: <TimeLastModified>REZULTATS: <Rez>KLUDAS: <ErrCount><Errors>2.1. <MFI> – monetaras finanšu iestades kods atbilstoši "Latvijas Republikas monetaro finanšu iestažu sarakstam";2.2. <NameSource> – sanemta faila nosaukums;2.3. <DateLastModified> – ienakoša faila sanemšanas datums formata dd.mm.gggg;2.4. <TimeLastModified> – ienakoša faila sanemšanas laiks formata hh.mm:ss;2.5. <Rez> – atšifrešanas rezultats: OK vai NOK;2.6. <ErrCount> – atšifrejot konstateto kludu skaits;2.7. <Errors> – atšifrešanas kludu teksts.3. Atbildes failus Latvijas Banka elektroniski neparaksta un nešifre.4. Atbildes failus Latvijas Banka ievieto failu apmainas servisa STAT/IN kataloga.
+Latvijas Bankas prezidents I. Rimševics

@@ -1,0 +1,407 @@
+Anuncio de formalización de contratos de: Jefatura de Asuntos Económicos del Mando de Apoyo Logístico. Objeto: Adquisición de materiales de protección, desinfección, almacenaje y sanitario frente al COVID-19. Expediente: 2091120014700.
+2020
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Jefatura de Asuntos Económicos del Mando de Apoyo Logístico.
+          1.2) Número de identificación fiscal: 
+          S2800811H.
+          1.3) Dirección: 
+          C/ Prim 4-6.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28071.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.9) Teléfono: 
+          917802845.
+          1.10) Fax: 
+          917803134.
+          1.11) Correo electrónico: 
+          jaemale@mde.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=rJ2tfh28XyQ%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Defensa.
+        
+      4. Códigos CPV:
+      
+        4.1) CPV principal: 
+          18143000 (Indumentaria de protección), 24315300 (Peróxido de hidrógeno), 33100000 (Equipamiento médico), 33141118 (Toallitas húmedas) y 44616000 (Bidones).
+          4.2) CPV 
+          Lote 1: 33100000 (Equipamiento médico).
+          4.3) CPV 
+          Lote 2: 24322220 (Etanol).
+          4.4) CPV 
+          Lote 3: 33141118 (Toallitas húmedas).
+          4.5) CPV 
+          Lote 4: 44616000 (Bidones).
+          4.6) CPV 
+          Lote 5: 24315300 (Peróxido de hidrógeno).
+          4.7) CPV 
+          Lote 6: 18143000 (Indumentaria de protección).
+          4.8) CPV 
+          Lote 7: 18143000 (Indumentaria de protección).
+          4.9) CPV 
+          Lote 8: 18143000 (Indumentaria de protección).
+          4.10) CPV 
+          Lote 9: 33100000 (Equipamiento médico).
+        
+      5. Lugar principal de entrega de los suministros:
+      
+        5.1) Código NUTS principal: 
+          ES300.
+          5.2) Código NUTS 
+          Lote 1: ES300.
+          5.3) Código NUTS 
+          Lote 2: ES300.
+          5.4) Código NUTS 
+          Lote 3: ES300.
+          5.5) Código NUTS 
+          Lote 4: ES300.
+          5.6) Código NUTS 
+          Lote 5: ES300.
+          5.7) Código NUTS 
+          Lote 6: ES300.
+          5.8) Código NUTS 
+          Lote 7: ES300.
+          5.9) Código NUTS 
+          Lote 8: ES300.
+          5.10) Código NUTS 
+          Lote 9: ES300.
+        
+      6. Descripción de la licitación:
+      
+        6.1) Descripción genérica:
+          Adquisición de materiales de protección, desinfección, almacenaje y sanitario frente al COVID-19.
+          6.2)
+          Lote 1: Escobillón seco estéril. Virus aluminio/poliester.
+          6.3)
+          Lote 2: Etanol 96%.
+          6.4)
+          Lote 3: Toallitas húmedas.
+          6.5)
+          Lote 4: Bidones para residuos 120L y 60L.
+          6.6)
+          Lote 5: Peróxido de hidrogeno/agua oxigenada 5%.
+          6.7)
+          Lote 6: Filtro Scott Pro200 PF.
+          6.8)
+          Lote 7: Gafa Integral.
+          6.9)
+          Lote 8: Buzo M4000.
+          6.10)
+          Lote 9: Bote envase 20L.
+        
+      7. Tipo de procedimiento de adjudicación: 
+      
+        7.1) Tipo: 
+          Negociado sin publicidad acelerado (Situación emergencia COVID-19. Operación BALMIS).
+          7.2) Justificación: 
+          
+            7.2.1) 
+              Situación de extrema urgencia.
+            
+          7.3) Explicación: 
+          Situación emergencia COVID-19. Operación BALMIS.
+        
+      9. Criterios de adjudicación: 
+      Precio (Ponderación: 100%).
+      10. Fecha de adjudicación: 
+      
+        10.1) Lote 1: 
+          22 de abril de 2020.
+          10.2) Lote 2: 
+          22 de abril de 2020.
+          10.3) Lote 3: 
+          22 de abril de 2020.
+          10.4) Lote 4: 
+          22 de abril de 2020.
+          10.5) Lote 5: 
+          22 de abril de 2020.
+          10.6) Lote 6: 
+          22 de abril de 2020.
+          10.7) Lote 7: 
+          22 de abril de 2020.
+          10.8) Lote 8: 
+          22 de abril de 2020.
+          10.9) Lote 9: 
+          22 de abril de 2020.
+        
+      11. Ofertas recibidas: 
+      
+        11.1) Lote 1: 
+          
+            11.1.1) Número de ofertas recibidas: 
+              1.
+            
+          11.2) Lote 2: 
+          
+            11.2.1) Número de ofertas recibidas: 
+              1.
+            
+          11.3) Lote 3: 
+          
+            11.3.1) Número de ofertas recibidas: 
+              1.
+            
+          11.4) Lote 4: 
+          
+            11.4.1) Número de ofertas recibidas: 
+              1.
+            
+          11.5) Lote 5: 
+          
+            11.5.1) Número de ofertas recibidas: 
+              1.
+            
+          11.6) Lote 6: 
+          
+            11.6.1) Número de ofertas recibidas: 
+              1.
+            
+          11.7) Lote 7: 
+          
+            11.7.1) Número de ofertas recibidas: 
+              1.
+            
+          11.8) Lote 8: 
+          
+            11.8.1) Número de ofertas recibidas: 
+              1.
+            
+          11.9) Lote 9: 
+          
+            11.9.1) Número de ofertas recibidas: 
+              1.
+            
+        
+      12. Adjudicatarios: 
+      
+        12.1) Lote 1: 
+          
+            12.1.1) Nombre: 
+              Nirco S.L.
+              12.1.2) Número de identificación fiscal: 
+              B58786096.
+              12.1.3) Dirección: 
+              Puerto Navafria, 12.
+              12.1.4) Localidad: 
+              Móstoles.
+              12.1.6) Código postal: 
+              28935.
+              12.1.7) País: 
+              España.
+              12.1.13) 
+              El adjudicatario es una PYME.
+            
+          12.2) Lote 2: 
+          
+            12.2.1) Nombre: 
+              Inilab S.L.
+              12.2.2) Número de identificación fiscal: 
+              B81620445.
+              12.2.3) Dirección: 
+              Hermanos Lumiere, 2.
+              12.2.4) Localidad: 
+              Arganda del Rey.
+              12.2.6) Código postal: 
+              28500.
+              12.2.7) País: 
+              España.
+              12.2.13) 
+              El adjudicatario es una PYME.
+            
+          12.3) Lote 3: 
+          
+            12.3.1) Nombre: 
+              Ibersurgical S.L.
+              12.3.2) Número de identificación fiscal: 
+              B46960795.
+              12.3.3) Dirección: 
+              Valle de la Ballestera, 64 B.
+              12.3.4) Localidad: 
+              Valencia.
+              12.3.6) Código postal: 
+              46015.
+              12.3.7) País: 
+              España.
+              12.3.13) 
+              El adjudicatario es una PYME.
+            
+          12.4) Lote 4: 
+          
+            12.4.1) Nombre: 
+              Ferreteria Unceta S.A.
+              12.4.2) Número de identificación fiscal: 
+              A20020277.
+              12.4.3) Dirección: 
+              San Antolin, 7.
+              12.4.4) Localidad: 
+              Elgoibar.
+              12.4.6) Código postal: 
+              20870.
+              12.4.7) País: 
+              España.
+              12.4.13) 
+              El adjudicatario es una PYME.
+            
+          12.5) Lote 5: 
+          
+            12.5.1) Nombre: 
+              Saborit International S.L.
+              12.5.2) Número de identificación fiscal: 
+              B78311941.
+              12.5.3) Dirección: 
+              Avenida de Somosierra, 22 - NAV 4 D.
+              12.5.4) Localidad: 
+              San Sebastián de los Reyes.
+              12.5.6) Código postal: 
+              28703.
+              12.5.7) País: 
+              España.
+              12.5.13) 
+              El adjudicatario es una PYME.
+            
+          12.6) Lote 6: 
+          
+            12.6.1) Nombre: 
+              Iturri S.A.
+              12.6.2) Número de identificación fiscal: 
+              A41050113.
+              12.6.3) Dirección: 
+               Avenida Roberto Osborne, 5.
+              12.6.4) Localidad: 
+              Sevilla.
+              12.6.6) Código postal: 
+              41007.
+              12.6.7) País: 
+              España.
+            
+          12.7) Lote 7: 
+          
+            12.7.1) Nombre: 
+              Iturri S.A.
+              12.7.2) Número de identificación fiscal: 
+              A41050113.
+              12.7.3) Dirección: 
+               Avenida Roberto Osborne, 5.
+              12.7.4) Localidad: 
+              Sevilla.
+              12.7.6) Código postal: 
+              41007.
+              12.7.7) País: 
+              España.
+            
+          12.8) Lote 8: 
+          
+            12.8.1) Nombre: 
+              Iturri S.A.
+              12.8.2) Número de identificación fiscal: 
+              A41050113.
+              12.8.3) Dirección: 
+               Avenida Roberto Osborne, 5.
+              12.8.4) Localidad: 
+              Sevilla.
+              12.8.6) Código postal: 
+              41007.
+              12.8.7) País: 
+              España.
+            
+          12.9) Lote 9: 
+          
+            12.9.1) Nombre: 
+              Nutea S.L.
+              12.9.2) Número de identificación fiscal: 
+              B46356028.
+              12.9.3) Dirección: 
+              Doctor Lanuza, 18.
+              12.9.4) Localidad: 
+              Alboraya.
+              12.9.6) Código postal: 
+              46120.
+              12.9.7) País: 
+              España.
+              12.9.13) 
+              El adjudicatario es una PYME.
+            
+        
+      13. Valor de las ofertas: 
+      
+        13.1) Lote 1: 
+          
+            13.1.1) Valor de la oferta seleccionada: 
+              1.925,70 euros.
+            
+          13.2) Lote 2: 
+          
+            13.2.1) Valor de la oferta seleccionada: 
+              4.250,00 euros.
+            
+          13.3) Lote 3: 
+          
+            13.3.1) Valor de la oferta seleccionada: 
+              1.157,71 euros.
+            
+          13.4) Lote 4: 
+          
+            13.4.1) Valor de la oferta seleccionada: 
+              8.680,80 euros.
+            
+          13.5) Lote 5: 
+          
+            13.5.1) Valor de la oferta seleccionada: 
+              8.250,00 euros.
+            
+          13.6) Lote 6: 
+          
+            13.6.1) Valor de la oferta seleccionada: 
+              9.450,00 euros.
+            
+          13.7) Lote 7: 
+          
+            13.7.1) Valor de la oferta seleccionada: 
+              52.320,00 euros.
+            
+          13.8) Lote 8: 
+          
+            13.8.1) Valor de la oferta seleccionada: 
+              116.550,00 euros.
+            
+          13.9) Lote 9: 
+          
+            13.9.1) Valor de la oferta seleccionada: 
+              1.583,40 euros.
+            
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              Jefatura de Asuntos Económicos del Mando de Apoyo Logístico.
+              16.1.2) Dirección: 
+              Prim, 4-6.
+              16.1.3) Localidad: 
+              Madrid.
+              16.1.5) Código postal: 
+              28071.
+              16.1.6) País: 
+              España.
+            
+        
+      18. Fecha de envío del anuncio: 
+      11 de mayo de 2020.
+    Madrid, 11 de mayo de 2020.- El Jefe de Asuntos Económicos del Mando de Apoyo Logístico del Ejército, José Manuel Sánchez Maldonado.

@@ -1,0 +1,270 @@
+Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 16 februari 2021, kenmerk 1827716-218421-PDC19 tot goedkeuring van protocollen als bedoeld in artikel 6.7c, vierde lid, onderdeel j, 2o, van de Tijdelijke regeling maatregelen covid-19, van Federal Express Corporation en Exxaero International BV / Exxaero GmbH
+De Minister van Volksgezondheid, Welzijn en Sport,
+
+Gelet op artikel 6.7c, vierde lid, onderdeel j, 2o, van de Tijdelijke regeling maatregelen covid-19;
+
+Gelet op de verzoeken van Federal Express Corporation, d.d. 5 februari 2021 en Exxaero International BV / Exxaero GmbH, d.d. 11 februari 2021 tot goedkeuring van het COVID-19 alternatief testprotocol voor luchtvaartbemanning van Federal Express Corporation en Exxaero International BV / Exxaero GmbH.
+
+Besluit:
+
+Artikel 1
+Het bij brief van 5 februari door Federal Express Corporation (hierna genoemd FedEx) voorgelegde protocol als bedoeld in artikel 6.7c, vierde lid, onderdeel j, 2o, van de Tijdelijke regeling maatregelen covid-19, zoals opgenomen in de bijlage bij dit besluit, wordt goedgekeurd.
+
+Het bij brief van 11 februari door Exxaero International BV / Exxaero GmbH (hierna genoemd Exxaero) voorgelegde protocol als bedoeld in artikel 6.7c, vierde lid, onderdeel j, 2o, van de Tijdelijke regeling maatregelen covid-19, zoals opgenomen in de bijlage bij dit besluit, wordt goedgekeurd.
+
+Artikel 2
+Dit besluit treedt in werking door toezending aan de aanvragers, d.d. 15 februari 2021.
+
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+namens deze,
+de plv. directeur-generaal Volksgezondheid,
+E.G.M. Veldhuis
+
+Als u het niet eens bent met deze beslissing
+
+Bent u het niet eens met deze beslissing? Belanghebbenden kunnen bezwaar maken binnen zes weken na toezending aan de aanvrager. Het bezwaarschrift e-mailt u naar: WJZ.bezwaarenberoep@minvws.nl. Uw bezwaarschrift kunt u ook per post versturen naar de Minister van Volksgezondheid, Welzijn en Sport, t.a.v. Directie Wetgeving en Juridische Zaken, Postbus 20350, 2500 EJ Den Haag. Vermeld altijd de reden van uw bezwaar en het kenmerk van dit besluit.
+
+Het indienen van bezwaar schort de werking van dit besluit niet op.
+
+TOELICHTING
+Artikel 6.7c, vierde lid, onderdeel j, 2o, van de Tijdelijke regeling maatregelen covid-19 (Trm) maakt het mogelijk voor de aanbieder van vervoer per luchtvaartuig als alternatief voor de testverplichtingen conform artikel 6.7c, tweede lid, van de Trm, ervoor zorg te dragen dat de bemanning van een luchtvaartuig zich houdt aan een door de Minister van VWS goedgekeurde protocol.
+
+Dit besluit betreft de goedkeuring van de door FedEx en Exxaero ingediende protocollen. De door FedEx en Exxaero ingediende protocollen bieden, het 97e OMT-advies deel 1 in afweging nemend, naar oordeel van de Minister van Volksgezondheid, Welzijn en Sport een beschermingsniveau dat ten minste gelijkwaardig is aan het beschermingsniveau dat wordt bereikt met toepassing van het eerste lid van artikel 6.7c van de Tijdelijke regeling maatregelen covid-19, als bedoeld in artikel 1 van de op 25 januari gepubliceerde Regeling met kenmerknummer 1812480-217085-WJZ.
+
+De Minister van Volksgezondheid, Welzijn en Sport,
+namens deze,
+de plv. directeur-generaal Volksgezondheid,
+E.G.M. Veldhuis
+
+BIJLAGE: COVID-19 ALTERNATIEF TESTPROTOCOL LUCHTVAARTBEMANNING VAN FEDEX EN EXXAERO
+Ministerie van Infrastructuur en Waterstaat; and Ministerie van Volksgezondheid, Welzijn en Sport Den Haag
+
+Delivered via email: ProjectCOVID-19LV@minienw.nl
+
+February 5, 2021
+
+RE: Protocol COVID-19 testing crew
+
+References: article 6.7c, sub 4 part j, under 2° of the Tijdelijke regeling maatregelen covid-19 (‘Covid Act’); letter to Parliament dated 23 January 2021 by Ministers De Jonge and Van Nieuwenhuizen Wijbenga, including OMT advice dated 22 January; protocol submitted by KLM, formal decision to KLM protocol dated 27 January 2021 from the Minister of Volksgezondheid, Welzijn en Sport; email correspondence between FedEx and the above-mentioned Ministries, NOTAMs A0185/21, A0186/21, A0187/21).
+
+Dear Sir/Madam,
+
+With this letter FedEx Express Corporation (FedEx) respectfully submits its proposal for an alternative testing protocol for its crew members, thereby applying for the exemption for rapid testing granted in article 6.7c, subparagraph 4, part j, under 2° of the Covid Act and in NOTAM A0186/21.
+
+As we will elaborate upon in this letter, FedEx is of the opinion that its suggested protocol, focused on operating in a closed loop during a tour of duty with testing before departure to operate a flight series and upon return, in conjunction with strict crew bubble measures, will minimize the risk of our crew as a vector for introducing COVID into the Netherlands.
+
+1.Background
+
+FedEx is a U.S. certificated all-cargo air carrier, and is the world’s largest express transportation provider, with an unparalleled global network that allows us to connect people and goods in over 220 countries and territories. The Netherlands is home to the FedEx International Headquarters located in Hoofddorp (formerly the Head Office of TNT). FedEx also has several local distribution and operational facilities in the Netherlands.
+
+Schiphol Airport has traditionally played a pivotal role in our operations, allowing for:
+
+a.scheduled and chartered operations, such as daily operations between Amsterdam (AMS) and Roissy-Charles de Gaulle (CDG) (supported by over 100 crewmembers based in CGN), and weekly operations from different points in Asia to AMS (that continue on to other European airports); and
+
+b.repositioning of our crews on commercial flights to other airports in the world from where our crews operate our cargo flights (these crews are commonly referred to as ‘deadhead crew’).
+
+Prior to implementation of testing requirements in the Netherlands, AMS served as an important hub to move our deadhead crew to duty stations throughout the world, as well as operate AMS-CDG-AMS daily services for express and general cargo, to include critical medical supplies, personal protective equipment, and now vaccines and medical kits that are critical to the global response to COVID-19. Repositioning our crews from our U.S. and German bases is crucial to support our international air cargo business because they live all over the world. In response to the testing requirements in the Netherlands, FedEx has largely discontinued using AMS as a transit point for our deadhead crew, although KLM is one of our valued commercial partners for deadheading crew. In this connection, we do not seek an
+
+alternative testing process for crew members that deadhead into AMS or through AMS to onward destinations.
+
+We have also modified our long-standing AMS-CDG-AMS to accommodate Dutch testing requirements – but at a significant operational and service burden. We initially substituted it with CDG-AMS-CDG twice daily, requiring crew from CDG to remain on board in AMS during the turnaround period, exiting only to conduct required operational safety checks. In response to increased crew scheduling and operational and testing availability issues, we have now reduced CDG-AMS-CDG service to once daily. Now all shipments t/from the Netherlandsexperience a +1 day delay. Our CGN-based crews continue to support the CDG-AMS-CDG operation, but at increased stress on the system. We have asked crews operating from Asia to AMS to remain on board at AMS, except for required safety checks, until their onward operation to other EU points.
+
+To safeguard our crew, FedEx works with strict occupational health and safety protocols and consistent with the public health corridor guidelines set by ICAO, as well as obligations imposed by the U.S. Federal Aviation Administration (FAA) Safety Alert for Operators (SAFO) 20009 – COVID-19: Updated Interim Occupational Health and Safety Guidance for Air Carriers and Crews, as we will elaborate upon in this letter.
+
+2.Legal restrictions / compliance issues
+
+Currently, all travelers to the Netherlands from high-risk countries traveling by aircraft or ferry must provide proof that they have tested negative for COVID-19 following a rapid test taken within four (4) hours prior to departure to the Netherlands. Unlike other testing and entry requirements, this rapid testing requirement applies to air crew as well.
+
+Taking into account our 24/7 worldwide operations as set out in paragraph #1 above, the rapid testing requirements have proven to be non-feasible for FedEx and have significantly impacted our operations during the past weeks. The testing policies are especially not feasible for FedEx operations at AMS since test facilities are not available at every airport from which we depart in Asia (e.g., local quarantine rules, physical location of facilitates, crew safety, etc.) and scheduled ground time for return flights are too short to realize testing. From a safety perspective, crewmembers are subject to mandatory rest times which - if interrupted by testing – cannot be met and will result in operational delays. Given operational constraints at many airports and availability of relief crew in light of COVID restrictions, we have been forced to cancel flights rather than adjust flight schedules. This situation can be particularly problematic for flights from Asia, negatively affecting flights carrying COVID-related cargo.
+
+3.FedEx health & safety measures and ‘crew bubble’
+
+At a minimum, our crew operate internationally in accordance with the SAFO 20009 standards, attached to this letter as Annex 1. FedEx occupational health program measures incorporate SAFO 20009 and include inter alia:
+
+Health Safety Program
+
+–Crew temperature test daily;
+
+–Crew must report any sign of COVID-19 symptoms to their fleet manager;
+
+–Crew may not report for duty if they exhibit symptoms of COVID-19;
+
+–Crew that develop of COVID-19 symptoms while on duty must report to the Duty Officer and will be tested and/or removed from duty.
+
+–Crew that test positive for COVID-19 may not return to work until they have been cleared by a medical professional, and are reported to the local health authorities or CDC as required;
+
+–Crew that are exposed to anyone with COVID-19 symptoms, must self-isolate and may not return to work until cleared by FedEx to do so;
+
+–Opportunities to test for COVID-19 at key points in the network, including at an off-airport location in Paris, France, which is unable to meet Dutch testing requirements for our historic AMS-CDG-AMS operation.
+
+Health Protections
+
+–Maintain 2 meters distance to the extent possible from others during take-off, landing, ground transportation
+
+–Contactless immigration and security screening
+
+–Limit exposure to the general public by avoiding public spaces (including public transportation) and using company-provided private transportation.
+
+–Stay in their hotel rooms to the extent possible during layovers;
+
+–Limit activities in public to essential errands, such as getting food, and to the extent possible, eat in their hotel rooms;
+
+–Follow any additional recommendations or requirements of national, state or local authorities;
+
+–Wash hands frequently;
+
+–Wear a mask while around other people;
+
+–Avoid contact with people having cough, fever or shortness of breath or otherwise suspected of having COVID-19;
+
+–Before each flight, inspect and confirm the condition and contents of the universal protect kit (e.g., PPE);
+
+–Follow guidance for COVID-19 precautions of the national and local health authorities in the area where they are located.
+
+Crew abides by the abovementioned rules globally, and thus does not travel in case of any symptoms. In case of exposure to a person that tested positive for COVID-19, the relevant crew member may not report to work until cleared by a medical professional. That means that a crew member is generally not scheduled to fly until fourteen (14) days after the last contact with the COVID+ individual or until otherwise cleared for duty by a medical professional. This is in line with the requirements by the Dutch government.
+
+In addition to the above, we have put in place specific measures for individual airports. Please find below an example COVID-related health safety measures for crew in place at CDG:
+
+–There is no direct contact between pilots and ground personal. Documents, flight paperwork, meals and drinks are handed over in a specific area;
+
+–All cockpits are systematically disinfected at CDG during the ground time. It is valid for every aircraft being operated at CDG;
+
+–Aircraft inspection by crews is done when the area is clear from ground personal;
+
+–Masks are mandatory at any time and everywhere in CDG, including inside the warehouse and crew lounge and outside on the ramp as well;
+
+–A dedicated van brings the pilots from the aircraft to the crew lounge. The same applies on the way back;
+
+–The crew lounge is only dedicated for pilots and the access of the doors to access the crew lounge are closed and require a special access pass;
+
+–The crew lounge is equipped with plastic glasses. Sanitary distances are applied. Masks are mandatory all the time;
+
+–The crew lounge is disinfected twice a day.
+
+4.Monitoring crew bubble
+
+We instruct our crew on the above and other (national or local) measures via different channels, such as the Flight Crew Information File (FCIF) and Customs, Immigration,
+
+Quarantine (CIQ) documents that crew must review prior to every operation. For group specific communications, FedEx uses an internal electronic messaging (ELM) system. Furthermore, FedEx Duty Officers are available 24/7 with the ability to communicate with crew on any matter, as needed, and have specific protocols in place in the event that a crew member tests positive for COVID, becomes ill on duty, or might be deemed as a “close contact” of a COVID+ individual.
+
+Compliance with the above instructions is managed by FedEx flight operations through the regional Duty Officers, who are on call 24/7 to support crew on FedEx international operations. They also monitor compliance with our protocol as set out in chapter 5. For example, were a crew member to deviate from protocol for ground transportation or accommodation, the service provider would contact FedEx Crew Travel Services and the Duty Officer would be made aware for appropriate action. Crew members can use the FedEx "Insite" reporting system to provide Flight Operations with any pertinent information or process improvement suggestions. So there is a direct line for feedback on the execution of, and any improvements required for, our protocol for the Netherlands. Flight Operations periodically reviews the implementation of all COVID-related movement and entry protocols, including those in the Netherlands.
+
+Since the implementation of FedEx’s COVID-specific protocols as part of its occupational health program, we have not been aware of FedEx crew becoming vectors for transmission of COVID at their crew bases or the destinations that we serve.
+
+The abovementioned measures entail that chances of our crew departing or arriving in the Netherlands while infected with COVID-19 are low.
+
+5.Proposed protocol FedEx operations in NL
+
+FedEx seeks approval for the below protocol to replace the requirements for rapid testing within four (4) hours prior to boarding an aircraft to the Netherlands, as more specifically set out in NOTAMs A0168/21 and A169/21.
+
+Our alternative protocol is twofold. Part A regards our AMS-CDG-AMS operation. Part B includes our protocol for flights arriving from different origins in the world.
+
+Part A
+
+As mentioned, FedEx historically operates a daily schedule between AMS-CDG-AMS that we would like to restore to support continued movement of critical medical supplies and goods during the current health crisis. The crew supporting this operation reside in Germany. In the normal course of duty, a two-person crew departs CGN on Sunday, then operates AMS-CDG- AMS Monday-Friday, without leaving the closed loop system that we have implemented for the protection of our crew worldwide. This crew would spend approximately four (4) hours on the ground at CDG (e.g., between 0000h-0400h) where they would use a crew rest area in the FedEx hub facility, which is not a part of the passenger terminal. Under current French regulation, FedEx cannot establish medical testing facilities in the FedEx hub, testing is unavailable at the terminal at the time of our operations and, even if it were available, the time needed to transit FedEx crew from the FedEx hub to passenger terminals or testing facilities outside of the airport would severely disrupt crew rest, risking operational safety. The same two (2) crew members conduct this operation during their entire duty period. Our crew generally operate on a 7 days on/7 days off duty cycle. In order to comply with Dutch requirements, FedEx shall organize the 7 days’ cycle for outbound flights as follows:
+
+a.Crew will take two tests within four (4) hours prior to boarding in Germany: (1) an antigen test and (2) a PCR test;
+
+b.With the negative antigen test results, crew will board the CGN-AMS flight (as deadhead crew);
+
+c.Upon arrival in the Netherlands, crew will use FedEx-arranged transportation to the crew hotel;
+
+d.The crew members will remain in isolation in their hotel in Amsterdam in accordance with the crew bubble requirements;
+
+e.The results of the PCR will be received by crew while resting in the Netherlands, and only with negative PCR test results, will operate their AMS-CDG-AMS flight series;
+
+f.At CDG the crew may leave the aircraft only to use the crew rest accommodations at the FedEx hub facility (approximately 4 hours, no contact with anyone) before the return operation to AMS.
+
+g.Upon return to AMS, crew will go to their hotel and remain in isolation in accordance with our ‘crew bubble’ instructions (see chapter 3 of this letter);
+
+h.The above operations and rest cycle will repeat on Tuesday, Wednesday, Thursday and Friday;
+
+i.After operations on Friday, crew will comply with national testing requirements before returning to their home base in Germany.
+
+j.If a crew member were to become unavailable to complete the duty cycle (e.g., illness, fatigue, mechanical issues, etc.) the crew member would be relieved of duty by “relief” crew member that would enter the closed loop system after being subjected to an antigen and PCR test as per the principles set out in subparagraph (a) above.
+
+Part B
+
+As mentioned, FedEx operates both scheduled and charter flights from destinations both inside and outside the EU/Schengen area to AMS. We have taken note of the exemption of test requirements for travelers from safe countries, including South Korea and China, when travelers have resided there 10 days prior to the trip. Due to the nature of international deployment and varying duty cycles, our crew members often do not qualify for the exemption. Our crew do not habitually end their tour of duty in AMS but rather operate onward to other destinations (usually within the EU/Schengen area). In that connection, they are not interacting with people at AMS, and do not have the opportunity to serve as a disease vector to the local population.
+
+Therefore, and in order to comply with Dutch requirements, FedEx shall organize the following scenarios for inbound flights:
+
+a.Crew does not exit the aircraft (except for safety checks) in AMS but rather continues on to another airport. We trust that no testing is required, in accordance with NOTAM A0185, testing (3/4), exemption XII.1
+
+b.Crew does not exit the aircraft in AMS, but new crew boards to operate the remainder of the flight. For this new crew we will work in accordance with the principles set out in Part A. The new crew will test before arriving in AMS, and crew stays in crew bubble in their hotel until flight departure.
+
+c.Crew exits the aircraft in AMS because their duty ends (though unusual) and will take an antigen test upon arrival in AMS, if they were unable to do so at their point of departure.
+
+d.In the event that an unforeseen circumstance arises that requires crew to deplane in AMS and they have not been able to test before flying to AMS, they will take an antigen test on arrival, unless otherwise exempted from a testing requirement under the specific circumstances presented.
+
+FedEx believes that the above protocol will offer the same level of protection as the situation in which crew does not exit the aircraft, and therefore complies with the criteria for exemption as set out in article 6.7c, subparagraph 4 part j, under 2° of the Covid Act and in NOTAM A0186/21.
+
+We look forward to recelvlng your approval and we are available at your convenlence for any clarifications.
+
+Sincerly yours, on behalf of FedEx
+
+Capt. Steve van Dyke
+
+Titel: Senior Manager, light Operations – Europa, Middle East, Africa & India Datum: February 5, 2021
+
+Plaats: Memphis, Tennessee, USA
+
+Annex 1 – SAFO 20009 guidelines
+
+Hyperlink: https://www.faa.gov/other_visit/aviation_industry/airline_operators/airline_safety/safo/all_safo s/media/2020/SAFO20009.pdf
+
+Eindhoven, 10 Februari 2021
+
+Betreft: Verzoek ontheffing testverplichting voor luchtvaartbemanning.
+
+Geachte heer/mevrouw,
+
+Graag wil ik een verzoek indienen tot de mogelijkheid tot ontheffing van testverplichting voor luchtvaartbemanning, conform de kamerbrief met kenmerk: 1818273- 217501-PDC19.
+
+Exxaero verzoekt hierbij dan ook goedkeuring voor onderstaand protocol, als alternatief voor de vereiste maatregelen zoals beschreven in Notice to Airmen (NOTAM)A0168/21 en A169/21, aangaande het testen van vliegend personeel van Exxaero BV en Exxaero GmbH.
+
+Maatregelen en restricties vliegend personeel
+EASA heeft op 26 maart 2020 richtlijnen uitgebracht voor het management van flightcrew in relatie tot de uitbraak van het coronavirus. EASA beveelt luchtvaartmaatschappijen onder meer aan om alle niet-essentiële interactie tussen flight en passagiers zoveel als praktisch haalbaar aan te passen om het risico op besmetting door passagiers te reduceren.
+
+De basis van het protocol van Exxaero ligt in de richtlijnen van EASA en ICAO. Daarnaast is de aard van de operatie van Exxaero dusdanig ingericht dat wij vliegen zonder cabine crew. Het vliegen met privé gecharterde vliegtuigen met maximaal 10 passagiers op meer dan 1,5 meter afstand van de flightcrew maakt de kans op besmetting zeer gering.
+
+Exxaero heeft een groot aantal maatregelen genomen welke in lijn zijn gebracht met de adviezen van het RIVM. Wie klachten heeft mag niet vliegen. Passagiers krijgen na een triage en instructie een hygiëne kit uitgereikt met een flesje handgel en mondkapje. Bovendien instrueert Exxaero al sinds het begin van de coronacrisis haar bemanningsleden tijdens het verblijf in quarantaine te gaan in het hotel (‘crew bubble’). Buiten de adviezen ter voorkoming van virustransmissie (persoonlijke hygiëne, social distancing etc.) betekent dit:
+
+•Vermijd zo veel mogelijk contact met derden (1,5m afstand).
+
+•Crew blijft zoveel als mogelijk op de hotelkamer. Crew zal het hotel niet verlaten.
+
+•Mondneusmasker op buiten de kamer.
+
+•Exxaero zorgt voor veilig transport van en naar de luchthaven.
+
+Voorgesteld Protocol
+A.Exxaero zal haar vliegend personeel voorafgaand aan de vlucht vanuit Nederland naar een hoog risicogebied een PCR test af laten nemen op een tijdstip welke ligt op maximaal 72 uur voor vertrek. Het streven is om de negatieve uitslag zo kort mogelijk voor vertrek binnen te krijgen. Daarnaast zal er een antigeensneltest worden afgenomen voor vertrek (<4 uur). Mocht de PCR (of LAMP test) binnen 12 uur voor vertrek afgenomen kunnen worden dan zal conform het OMT-advies de noodzaak van een antigeensneltest de dag van vertrek vervallen. In geval van een positieve testuitslag mag het betreffende personeelslid niet vliegen en wordt geadviseerd in thuisquarantaine te gaan. Dit betekent in alle redelijkheid dat de crew tijdens de heenreis, het verblijf op het buitenstation, en op de terugreis welke binnen 72 uur na vertrek vanuit Nederland aanvangt, geen besmettingsgevaar voor elkaar of, na terugkomst, voor anderen oplevert.
+
+Omdat de passagiers op de terugreis negatief zijn getest voor vertrek, is er vanuit de passagiers geen risico op overdracht van het coronavirus.
+
+B.Indien het verblijf op het buitenstation langer is dan 72 uur (vertrek vanuit Nederland en aanvang terugvlucht naar Nederland) zal het bemanningslid op het buitenstation een antigeentest laten verrichten op de dag van vertrek indien beschikbaar. Indien dit niet mogelijk is op het buitenstation zal er een antigeentest plaatsvinden bij terugkeer in Nederland.
+
+C.Voor het verblijf op het buitenstation dient de bemanning zich te houden aan de maatregelen en restricties zoals hierboven beschreven in de paragraaf ‘Maatregelen en Restricties Vliegend Personeel.’
+
+D.Indien iemand van de crew COVID-19-geassocieerde klachten ontwikkelt en er is geen antigeentest beschikbaar, dan vliegt men terug met een mondneusmasker en afgezonderd in de vlucht en dienen andere adviezen ter voorkoming van transmissie (persoonlijke hygiëne, afstand houden etc.) maximaal aangehouden te worden. Bij aankomst in Nederland dient deze persoon zich zo snel mogelijk te isoleren en zich te laten testen.
+
+Intern zal Exxaero gebruik maken van haar Safety Management System (SMS) en middels rapportage aan het Safety Review Board (SRB) de effectiviteit toetsen en zo nodig bijsturen.
+
+Mocht u nog vragen en/ of opmerkingen hebben verneem ik deze graag.
+
+Hoogachtend,
+
+R.T.R.M. (Rogier) Buijs
+
+Accountable Manager Exxaero BV
+
+R.W.P. (Roderick) Buijs
+
+Accountable Manager Exxaero GmbH
+
+1
+XII. AIRCREW (CREW MEMBERS OR PERSONNEL OPERATING PASSENGER OR CARGO FLIGHTS OR TRAVELLING AS PASSENGERS TO OR FROM THEIR DEPARTURE BASE), WHO DO NOT LEAVE THE AIRCAFT POSITION (EXCEPT FOR SAFETY INSPECTIONS) DURING TURNAROUND AND CONTINUE FLYING (BACK) IMMEDIATELY AFTERWARDS.
+

@@ -1,0 +1,897 @@
+Regeling van de Minister voor Medische Zorg van 17 augustus 2020, kenmerk 1724451-208304-Z, houdende wijziging van de bijlagen 1 en 2 van de Regeling zorgverzekering in verband met de maandelijkse wijziging van de aanspraak op geregistreerde geneesmiddelen
+De Minister voor Medische Zorg,
+
+Gelet op artikel 2.8 van het Besluit zorgverzekering,
+
+Besluit:
+
+ARTIKEL I
+De Regeling zorgverzekering wordt gewijzigd als volgt:
+
+A
+
+Bijlage 1 wordt gewijzigd als volgt:
+
+1. In onderdeel A worden de volgende regels opgenomen:
+
+0A02BCAO V
+
+113512
+
+MAAGZUURREMMER OMEPRAZOL CF CAPSULE MSR 10MG
+
+2,00
+
+STUK
+
+1,00866
+
+0A02BCAO V
+
+113513
+
+MAAGZUURREMMER OMEPRAZOL CF CAPSULE MSR 20MG
+
+1,00
+
+STUK
+
+1,68111
+
+ 
+0A09AAAO V
+
+125925//16055
+
+CREON 25000 CAPSULE MSR
+
+2,40
+
+STUK
+
+1,00796
+
+ 
+0A10ABBPI V
+
+EU/1/16/1160/012
+
+FIASP PUMPCART 100 E/ML OPL V INJ IN PATROON 1,6ML
+
+0,40
+
+ML
+
+2,26345
+
+ 
+0C10AAAO V
+
+126567//25187
+
+LESCOL XL TABLET MVA 80MG
+
+0,75
+
+STUK
+
+1,84537
+
+0C10AAAO V
+
+116692
+
+ROSUVASTATINE BIOCON TABLET FILMOMHULD 10MG
+
+1,00
+
+STUK
+
+1,38403
+
+0C10AAAO V
+
+116693
+
+ROSUVASTATINE BIOCON TABLET FILMOMHULD 20MG
+
+0,50
+
+STUK
+
+2,76806
+
+0C10AAAO V
+
+116694
+
+ROSUVASTATINE BIOCON TABLET FILMOMHULD 40MG
+
+0,25
+
+STUK
+
+5,53612
+
+0C10AAAO V
+
+116691
+
+ROSUVASTATINE BIOCON TABLET FILMOMHULD 5MG
+
+2,00
+
+STUK
+
+0,83042
+
+ 
+0D10ADADC V
+
+124058
+
+AKLIEF CREME 50MCG/G
+
+1,00
+
+GRAM
+
+0,23211
+
+ 
+0G03AABO V
+
+124827
+
+ETONOGES/ETHINYLEST ABB RING VAG 0,120/0,015MG/24U
+
+0,04
+
+STUK
+
+2,78318
+
+ 
+0G03CAAO V
+
+123203
+
+OESTROGEL 0,75 MG/DOSIS TRANSDERMALE GEL
+
+0,75
+
+DO
+
+0,25058
+
+ 
+0G03DAAO V
+
+126699//601
+
+PROVERA TABLET 5MG
+
+1,00
+
+STUK
+
+0,11571
+
+ 
+0G04BEAO V
+
+121995
+
+TADALAFIL TEVA 20 MG FILMOMHULDE TABLETTEN
+
+2,00
+
+STUK
+
+9,51000
+
+ 
+YG04CAAO V
+
+126701//104130
+
+COMBODART CAPSULE 0,5/0,4MG
+
+1,00
+
+STUK
+
+2,08572
+
+YG04CAAO V
+
+126172
+
+DUTASTERIDE/TAMSULOSINE HCL SANDOZ CAPS 0,5/0,4MG
+
+1,00
+
+STUK
+
+2,08572
+
+ 
+0J01DHAP V
+
+102982
+
+IMIPENEM/CILASTATINE HIKMA INFPDR FL 500/500MG
+
+4,00
+
+STUK
+
+18,31911
+
+ 
+0J02ACBP V
+
+EU/1/15/1004/001
+
+VORICONAZOLE HIKMA INFUSIEPOEDER FLACON 200MG
+
+2,00
+
+STUK
+
+143,00000
+
+ 
+0N01BBAP V
+
+122759
+
+PANKAINE GLUCOSE 5 MG/ML OPLOSSING VOOR INJECTIE
+
+28,00
+
+ML
+
+0,24141
+
+ 
+0N02ABCO V
+
+121055
+
+FENTANYL CF ZUIGTABLET 200MCG
+
+3,00
+
+STUK
+
+8,05920
+
+0N02ABCO V
+
+121056
+
+FENTANYL CF ZUIGTABLET 400MCG
+
+1,50
+
+STUK
+
+10,07400
+
+0N02ABCO V
+
+121057
+
+FENTANYL CF ZUIGTABLET 600MCG
+
+1,00
+
+STUK
+
+15,11100
+
+0N02ABCO V
+
+121058
+
+FENTANYL CF ZUIGTABLET 800MCG
+
+0,75
+
+STUK
+
+20,14800
+
+ 
+0N03AEAO V
+
+126581//6870
+
+RIVOTRIL TABLET 0,5MG
+
+16,00
+
+STUK
+
+0,03826
+
+ 
+0N03AXAO K
+
+126734//19115
+
+LAMICTAL DISPERS KAUW/DISPERGEERBARE TABLET 5MG
+
+60,00
+
+STUK
+
+0,38133
+
+ 
+0N03AXAO V
+
+126732//19116
+
+LAMICTAL DISPERS KAUW/DISPERGEERBARE TABLET 25MG
+
+12,00
+
+STUK
+
+0,58651
+
+0N03AXAO V
+
+126733//20926
+
+LAMICTAL DISPERS KAUW/DISPERGEERBARE TABLET 50MG
+
+6,00
+
+STUK
+
+0,73313
+
+ 
+0N03AXCO V
+
+124063
+
+GABAPENTINE STRIDES CAPSULE 100MG
+
+18,00
+
+STUK
+
+0,43563
+
+0N03AXCO V
+
+124067
+
+GABAPENTINE STRIDES CAPSULE 300MG
+
+6,00
+
+STUK
+
+0,65344
+
+0N03AXCO V
+
+124068
+
+GABAPENTINE STRIDES CAPSULE 400MG
+
+4,50
+
+STUK
+
+0,87126
+
+ 
+0N03AXEO V
+
+126674//24167
+
+TOPAMAX TABLET OMHULD 100MG
+
+3,00
+
+STUK
+
+1,58880
+
+ 
+0N04BCAO V
+
+109080
+
+ROPINIROLE AUROBINDO RETARD TABLET MVA 2MG
+
+3,00
+
+STUK
+
+1,56609
+
+0N04BCAO V
+
+109088
+
+ROPINIROLE AUROBINDO RETARD TABLET MVA 8MG
+
+0,75
+
+STUK
+
+5,22029
+
+ 
+2N06ABAO V
+
+117160
+
+SERTRALINE RIA TABLET FILMOMHULD 50MG
+
+1,00
+
+STUK
+
+1,06638
+
+2N06ABAO V
+
+117163
+
+SERTRALINE RIA TABLET FILMOMHULD 100MG
+
+0,50
+
+STUK
+
+2,13277
+
+ 
+0P01BABO V
+
+123681
+
+HYDROXYCHLOROQUINESULFAAT FOCUS TABL FILMOMH 200MG
+
+1,00
+
+STUK
+
+0,27239
+
+ 
+0R01ADAN V
+
+126706//14424
+
+FLIXONASE NEUSSPRAY 50MCG/DO FLACON 120DOSES
+
+4,00
+
+DO
+
+0,08425
+
+ 
+0R03ACCIDCV
+
+126526//18150
+
+SEREVENT DISKUS INHPDR 50MCG 60DO
+
+2,00
+
+DO
+
+0,61011
+
+ 
+YS01EDHG V
+
+124705
+
+VIZILATICOM 50 MCG/ML + 5 MG/ML OOGDRUPPELS, OPLOS
+
+1,00
+
+ML
+
+10,02413
+
+2. In onderdeel A worden de volgende regels vervangen door de daarbij vermelde teksten:
+
+‘0A04ADBO V
+
+122854
+
+APREPITANT AUROBINDO CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+122854
+
+APREPITANT AUROBINDO CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A04ADBO V
+
+121532
+
+APREPITANT CF CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+121532
+
+APREPITANT CF CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A04ADBO V
+
+120489
+
+APREPITANT SANDOZ CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+120489
+
+APREPITANT SANDOZ CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A04ADBO V
+
+121086
+
+APREPITANT TEVA CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+121086
+
+APREPITANT TEVA CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A04ADBO V
+
+121535
+
+APREPITANT XIROMED CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+121535
+
+APREPITANT XIROMED CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A04ADBO V
+
+EU/1/03/262/002
+
+EMEND CAPSULE 80MG
+
+1,19
+
+STUK
+
+16,37600
+
+’:
+
+0A04ADBO V
+
+EU/1/03/262/002
+
+EMEND CAPSULE 80MG
+
+1,19
+
+STUK
+
+14,72000
+
+;
+
+ 
+‘0A09AAAO V
+
+120929
+
+CREON 35000 HARDE MSR CAPSULES 35000 EENHEDEN
+
+1,71
+
+STUK
+
+1,41115
+
+’:
+
+0A09AAAO V
+
+120929
+
+CREON 35000 CAPSULE MSR
+
+1,71
+
+STUK
+
+1,41115
+
+;
+
+ 
+‘0C07AABO V
+
+20329
+
+SOTALOL HCL FLX TABLET 80MG
+
+2,00
+
+STUK
+
+0,12781
+
+’:
+
+0C07AABO V
+
+20329
+
+SOTALOL HCL FOCUS TABLET 80MG
+
+2,00
+
+STUK
+
+0,12781
+
+;
+
+ 
+‘0N02AACP V
+
+51950
+
+MORFINE HCL PCH INJVLST 10MG/ML AMPUL 1ML
+
+3,00
+
+ML
+
+1,30500
+
+’:
+
+0N02AACP V
+
+51950
+
+MORFINE HCL TEVA INJVLST 10MG/ML AMPUL 1ML
+
+3,00
+
+ML
+
+1,30500
+
+;
+
+ 
+‘0N05CDAP V
+
+22594
+
+MIDAZOLAM ACTAVIS INJVLST 1MG/ML
+
+15,00
+
+ML
+
+0,17988
+
+’:
+
+0N05CDAP V
+
+22594
+
+MIDAZOLAM AUROBINDO INJVLST 1MG/ML
+
+15,00
+
+ML
+
+0,17988
+
+3. In onderdeel B worden de volgende regels opgenomen:
+
+120979
+
+ABACAVIR/LAMIVUDINE AMAROX TABL FILMOMH 600/300MG
+
+125563//121514
+
+ALUTARD SQ 108 BERK VERVOLG 1FLX5ML+ 5SP
+
+125562//121480
+
+ALUTARD SQ 801 BIJENGIF VERVOLG 1FLX5ML+ 5SP
+
+122576
+
+ATOVAQUON/PROGUANIL AMAROX TAB FILMOMH 250/100MG
+
+122575
+
+ATOVAQUON/PROGUANIL AMAROX TABL FILMOMH 62,5/25MG
+
+121365
+
+COLCHICINE RIA 1 MG TABLETTEN
+
+121364
+
+COLCHICINE RIA TABLET 0,5MG
+
+123544
+
+DARUNAVIR ACCORD TABLET FILMOMHULD 400MG
+
+122437
+
+EMTRICITABINE/TENOFOVIRDIS AMAROX TB OMH 200/245MG
+
+117662
+
+NEVIRAPINE AMAROX TABLET MVA 400MG
+
+EU/1/20/1430/008
+
+RYBELSUS TABLET 14MG
+
+EU/1/20/1430/002
+
+RYBELSUS TABLET 3MG
+
+EU/1/20/1430/005
+
+RYBELSUS TABLET 7MG
+
+125980//3716
+
+SYNTOCINON NEUSSPRAY 4IE/DO FLACON 50DO
+
+120623
+
+TENOFOVIRDISOPROXIL AMAROX TABLET FILMOMH 245MG
+
+B
+
+In bijlage 2 komt onderdeel 5 te luiden:
+
+5. Pneumokokkenvaccin
+Voorwaarde:
+
+uitsluitend voor een verzekerde:
+
+a.in de leeftijd van twee jaar of ouder met een onvolwaardige miltfunctie ofwel na miltverwijdering,
+
+b.met lekkage van hersenvocht,
+
+c.met sikkelcelziekte,
+
+d.lijdend aan de ziekte van Hodgkin, non-Hodgkin lymfoom, myeloom of chronische lymfatische leukemie,
+
+e.lijdend aan levercirrhose, chronische nierfunctiestoornis, chronisch hartfalen met stuwing, een ischemische hartziekte of alcoholisme met pneumokokkeninfectie in de anamnese,
+
+f.met een marginale longfunctie (dyspnoe na 100 meter wandelen en een FVC<50% van voorspeld, FEV1, FEV1/FVC ratio en Dlco < 40% van voorspeld, of een VO2max tussen 10-15 ml/(kg-min)),
+
+g.die immuungecompromitteerd is ten gevolge van een auto-immuunziekte, een immunosuppressieve behandeling, een orgaantransplantatie of een beenmergtransplantatie,
+
+h.die HIV-geïnfecteerd is (CDC-classificatie HIV-infectie groepen II, III en IV) met een goede immuunrespons, of
+
+i.die ten gevolge van COVID-19 is opgenomen geweest in het ziekenhuis, en
+
+1°.restafwijkingen op CT-thorax heeft (fibrose, en/of bronchiëctasieën, en/of persisterende infiltratieve afwijkingen / atelectase), en
+
+2°.afwijkingen in longfunctie heeft (FVC < 70% en/ of z-score < 2.00, of FEV1/FVC ratio z-score < -1.64 én FEV1 < 50% van voorspeld, of DLCOc < 60%).
+
+ARTIKEL II
+Deze regeling treedt in werking met ingang van 1 augustus 2020. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 juli 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 2020.
+
+Deze regeling zal in de Staatscourant worden geplaatst.
+
+De Minister voor Medische Zorg,
+T. van Ark

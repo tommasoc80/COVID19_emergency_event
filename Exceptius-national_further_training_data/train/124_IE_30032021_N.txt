@@ -1,0 +1,69 @@
+The Minister for Health, in exercise of the powers conferred on him by sections 5 , 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) (in so far as it relates to regulations 3 and 5) and 38G (inserted by section 7 of the Health (Amendment) Act 2021 (No. 1 of 2021)) of the Health Act 1947 (No. 28 of 1947) and, in relation to regulations 3 and 5 –
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Finance, Minister for Transport, the Minister for Foreign Affairs, and the Minister for Justice.
+
+hereby makes the following regulations:
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Exempted Traveller) (Covid-19) Regulations 2021.
+
+(2) These Regulations shall come into operation on the 26th day of March 2021.
+
+2. In these Regulations –
+
+“Act of 1947” means the Health Act 1947 (No. 28 of 1947);
+
+“relevant person” has the meaning assigned to it by Regulation 3;
+
+“relevant test result” means, in relation to a transit passenger, a record or evidence, in written or electronic form, confirming that –
+
+(a) the person has been subject to a RT-PCR test,
+
+(b) such test was administered to the person no more than 72 hours before he or she arrives in the State, and
+
+(c) Covid-19, or the virus SARS-CoV-2, was not detected in the person at the time of taking the test;
+
+“RT-PCR test” means a reverse transcription polymerase chain reaction test, the purpose of which is to detect the presence of Covid-19, or the virus SARS-CoV-2, in the person to whom it is administered;
+
+“transit passenger” means a person prescribed under Regulation 4.
+
+3. The following persons (each of whom, in these Regulations, is referred to as a “relevant person”) are specified as relevant persons for the purposes of these Regulations:
+
+(a) authorised officers;
+
+(b) medical officers of health;
+
+(c) officers of the Minister for Justice, being immigration officers appointed by that Minister under section 3 of the Immigration Act 2004 (No. 1 of 2004);
+
+(d) officers of customs (within the meaning of the Customs Act 2015 (No. 18 of 2015));
+
+(e) any officer, employee or agent of the Health Service Executive who is acting in the course of his or her duty as such officer, employee or agent.
+
+4. For the purposes of paragraph (j) of the definition of “exempted traveller” in section 38B(25) of the Act of 1947, a person is prescribed as an exempted traveller where the person –
+
+(a) arrives at a port or airport in the State for the purposes of travelling to another state,
+
+(b) does not leave the port or airport concerned before so travelling,
+
+(c) has a relevant test result, if he or she is more than 7 years of age,
+
+(d) presents himself or herself to a relevant person or a member of the Garda Síochána on arrival at a port or airport in the State, and
+
+(e) complies with any request of a relevant person or a member of the Garda Síochána under Regulation 5.
+
+5. A relevant person or a member of the Garda Síochána may request a transit passenger:
+
+(a) to provide such information or documentation as may be required in order to verify that the transit passenger has arrived in the State for the purposes of travelling to another state;
+
+(b) to remain at the place where he or she presents himself or herself to the relevant person or a member of the Garda Síochána, or at such other place in the port or airport as he or she may be requested to remain by the relevant person or a member of the Garda Síochána;
+
+(c) to go to such place in the port or airport as requested by the relevant person or a member of the Garda Síochána or to accompany the relevant person or a member of the Garda Síochána to such a place.
+
+GIVEN the Official Seal of the Minister for Health,
+
+25 March, 2021.
+
+FERGAL GOODMAN,
+
+A person authorised under section 15 of the Ministers and Secretaries Act 1924 to authenticate the seal of the Minister for Health.

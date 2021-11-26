@@ -1,0 +1,1033 @@
+Zakon o zbirkah podatkov s podrocja zdravstvenega varstva (ZZPPZ)
+2000-07-21
+Opozorilo: Neuradno precišceno besedilo
+predpisa predstavlja zgolj informativni delovni pripomocek, glede katerega
+organ ne jamci odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Zakona o
+zbirkah podatkov s podrocja zdravstvenega varstva obsega:
+
+-      
+Zakon o zbirkah podatkov s podrocja zdravstvenega varstva – ZZPPZ (Uradni list RS, št. 65/00 z
+dne 21. 7. 2000),
+
+-      
+Zakon o spremembah in dopolnitvah Zakona o zbirkah podatkov s
+podrocja zdravstvenega varstva – ZZPPZ-A (Uradni list RS, št. 47/15 z dne 30. 6. 2015),
+
+-      
+Zakon o spremembah in dopolnitvah Zakona o zbirkah podatkov s
+podrocja zdravstvenega varstva – ZZPPZ-B (Uradni list RS, št. 31/18 z dne 4. 5. 2018),
+
+-      
+Zakon o zacasnih ukrepih za omilitev in odpravo posledic COVID-19
+– ZZUOOP (Uradni list RS, št. 152/20 z dne 23. 10. 2020),
+
+-      
+Zakon o interventnih ukrepih za omilitev posledic drugega vala
+epidemije COVID-19 – ZIUOPDVE (Uradni list RS, št. 175/20 z dne 27. 11. 2020),
+
+-      
+Zakon o interventnih ukrepih za pomoc pri omilitvi posledic
+drugega vala epidemije COVID-19 – ZIUPOPDVE (Uradni list RS, št. 203/20 z dne
+30. 12. 2020).
+
+ZAKON
+
+O ZBIRKAH PODATKOV S PODROCJA ZDRAVSTVENEGA
+VARSTVA (ZZPPZ)
+
+(neuradno precišceno besedilo št. 5)
+
+I. TEMELJNE DOLOCBE
+
+1. clen
+
+Ta zakon doloca obdelavo podatkov in zbirke
+podatkov s podrocja zdravstvenega varstva in eZdravja, njihove upravljavce in
+upravicence do podatkov.
+
+S tem zakonom se v pravni red Republike
+Slovenije prenaša Direktiva 2011/24/EU Evropskega parlamenta in Sveta z dne
+9. marca 2011 o uveljavljanju pravic pacientov pri cezmejnem zdravstvenem
+varstvu (UL L št. 88 z dne 4. 4. 2011, str. 45) v delu, ki se nanaša na
+opredelitev izraza zdravstvena dokumentacija.
+
+1.a clen 
+
+Zdravstvena dokumentacija je izvirno in
+reproducirano (pisano, risano, tiskano, fotografirano, filmano, fonografirano,
+magnetno, opticno ali kako drugace zapisano) dokumentarno gradivo, ne glede na
+obliko zapisa in nosilec zapisa podatkov:
+
+-       
+ki nastane ali je prejeto pri zdravstveni oskrbi,
+
+-       
+ki je opredeljeno v Osnovni zdravstveni dokumentaciji v Prilogi 1 ali
+
+-       
+ki je povezano z zdravstvenim stanjem in je nujno potrebno za izvajanje
+pravic ali obveznosti, priznanih ali dolocenih z zakonom.
+
+Pojem »zdravstvena dejavnost« ima enak
+pomen, kot ga opredeljuje zakon, ki ureja zdravstveno dejavnost. Pojmi
+»zdravstvena oskrba«, »zdravstveni delavci« in »pacient« imajo enak pomen, kot
+jih opredeljuje zakon, ki ureja pacientove pravice.
+
+2. clen
+
+Za zbiranje, obdelavo in posredovanje
+osebnih podatkov, vsebovanih v zbirkah podatkov iz tega zakona, se uporabljajo
+dolocbe zakona o varstvu osebnih podatkov, kolikor s tem zakonom za posamezne
+primere ni drugace doloceno.
+
+3. clen
+
+Upravljavci zbirk podatkov s podrocja
+zdravstvenega varstva so Nacionalni inštitut za javno zdravje (v nadaljnjem
+besedilu: NIJZ) in ostali izvajalci zdravstvene dejavnosti (v nadaljnjem
+besedilu: izvajalci) v Republiki Sloveniji.
+
+4. clen
+
+Upravljavci zbirk podatkov iz prejšnjega
+clena (v nadaljnjem besedilu: upravljavci zbirk podatkov), pridobivajo osebne
+podatke praviloma neposredno od posameznika, na katerega se nanašajo. 
+
+V primerih posrednega zbiranja osebnih
+podatkov, posameznika ni potrebno predhodno seznaniti s tem, da se bodo podatki
+pridobili iz že obstojece zbirke podatkov, ce ni s tem zakonom drugace
+doloceno. 
+
+Upravljavci zbirk podatkov imajo pravico iz
+Centralnega registra prebivalstva (v nadaljnjem besedilu: CRP) brezplacno
+dobiti naslednje podatke: EMŠO, ime in priimek, kraj rojstva, leto rojstva,
+spol, prebivališce in vrste prebivališca, državljanstvo, zakonski stan, šolska
+izobrazba, EMŠO matere, oceta, zakonca in otrok, datum in podatki o dogodkih,
+spremembah ali popravkih. 
+
+Upravljavci zbirk podatkov imajo pravico
+uporabe številke zdravstvenega zavarovanja na kartici zdravstvenega zavarovanja
+kot povezovalnega znaka za zbiranje, obdelovanje in posredovanje podatkov,
+opredeljenih v zbirkah podatkov po tem zakonu. Infrastruktura kartice
+zdravstvenega zavarovanja se z uveljavitvijo tega zakona uporablja tudi za
+zdravstveno kartico kot zbirko podatkov, ob tem, da je zagotovljena popolna
+locenost pristopov do podatkov zdravstvenega zavarovanja in do podatkov zbirke
+zdravstvene kartice. V zbirko zdravstvene kartice se podatki prenašajo iz
+drugih maticnih zbirk, opredeljenih v tem zakonu in so namenjeni za prenos
+podatkov, potrebnih pri zagotavljanju zdravstvenega varstva, med izvajalci
+zdravstvenega varstva. Upravljavec zbirke podatkov na zdravstveni kartici je
+Ministrstvo za zdravje. 
+
+Osebne podatke lahko pridobi tudi zdravnik,
+kadar te potrebuje zato, da zavaruje neposredno ogroženo življenje posameznika.
+
+
+Ce se osebni podatki nanašajo na rasno,
+narodno in drugo poreklo, politicna, verska in druga prepricanja ali spolno
+vedenje, lahko upravljavci zbirk podatkov pridobijo te podatke neposredno ali
+posredno le na podlagi pisne privolitve posameznika.
+
+II. ZBIRKE PODATKOV
+
+5. clen
+
+Vrste in vsebina posameznih zbirk podatkov
+s podrocja zdravstvenega varstva, njihov namen, obdobna porocila, kdo mora
+posredovati podatke in kdaj, upravljavec zbirke, nacin dajanja podatkov in cas
+hranjenja podatkov, so opredeljeni v Prilogi 1, ki je sestavni del tega zakona. Za posamezne zbirke podatkov iz Priloge 1
+(NIJZ 16, NIJZ 25, NIJZ 25.1, NIJZ 26, NIJZ 26.1, NIJZ 26.2, NIJZ 53.1 in
+NIJZ 53.2) so doloceni upravicenci do podatkov iz zbirke.
+
+Ne glede na dolocbe zakona, ki ureja varstvo
+osebnih podatkov, lahko upravljavec zbirk podatkov NIJZ 16, NIJZ 25, NIJZ 25.1,
+NIJZ 26, NIJZ 26.1, NIJZ 26.2, NIJZ 53.1 in NIJZ 53.2 iz Priloge 1 za
+podatke iz teh zbirk brez placila stroškov pridobiva podatke iz drugih zbirk
+podatkov iz Priloge 1, lahko tudi le z uporabo EMŠO ali ZZZS številke
+(identifikacijske številke zavarovane osebe).
+
+6. clen
+
+Za statisticne namene ima NIJZ pravico
+zahtevati podatke, opredeljene v Prilogi 1, od upravljavcev vseh zbirk podatkov
+iz tega zakona.
+
+III. ZAVAROVANJE PODATKOV
+
+7. clen
+
+Tehnicne in organizacijske ukrepe za
+zavarovanje podatkov v zbirkah podatkov predpiše minister, pristojen za zdravje,
+v soglasju z ministrom, pristojnim za pravosodje in ministrom, pristojnim za
+znanost in tehnologijo.
+
+IV. EVIDENTIRANJE PODATKOV
+
+8. clen
+
+Podatke iz Priloge 1 pod zaporedno številko
+NIJZ 1 do NIJZ 75, ki se obdelujejo na podlagi tega zakona, je treba vpisati v
+predpisana evidencna sredstva ob zdravstvenih pregledih in drugih zdravstvenih
+storitvah. 
+
+Zdravnik, drugi zdravstveni delavci in
+sodelavci morajo v evidencnem sredstvu s svojim podpisom potrditi izvide in
+rezultate pregleda oziroma drugih storitev po vsaki koncani delovni izmeni. 
+
+Obliko, nacin in evidencna sredstva iz
+prvega odstavka tega clena doloci minister, pristojen za zdravje. 
+
+Postopek, kako lahko posamezni državljan
+uresnicuje pravico do vpogleda v osebne zdravstvene podatke, doloci minister,
+pristojen za zdravje.
+
+9. clen
+
+Odgovorna oseba upravljavca zbirke podatkov
+odgovarja za popolnost in resnicnost vpisanih podatkov. 
+
+Sprememba vsakega podatka mora biti
+izvedena tako, da omogoca vpogled v prejšnji podatek, pri cemer mora biti
+razvidno, kdo in kdaj je spremenil podatek. Upravljavci zbirk podatkov, ki
+zagotavljajo iz svojih zbirk podatke za zbirko zdravstvena kartica, so dolžni
+zagotavljati razvidnost v svojih zbirkah podatkov.
+
+V. METODOLOŠKA NACELA
+
+10. clen
+
+Za zagotovitev enotnosti sistema vodenja
+zbirk podatkov s podrocja zdravstvenega varstva, se uporabljajo enotna
+metodološka nacela, enotni standardi (definicije, klasifikacije in šifranti)
+ter standardni postopki oblikovanja in pošiljanja porocil (v nadaljnjem
+besedilu: porocila). 
+
+Enotna metodološka nacela, enotne standarde
+(definicije, klasifikacije in šifranti) ter standardne postopke doloci
+minister, pristojen za zdravje na predlog NIJZ po pridobitvi mnenja
+Statisticnega urada Republike Slovenije.
+
+11. clen
+
+Enotna metodološka nacela in enotne
+standarde (definicije, klasifikacije in šifranti) za oblikovanje in vodenje
+zbirk podatkov, ki so skupni za Zavod za zdravstveno zavarovanje Slovenije (v
+nadaljnjem besedilu: ZZZS) in NIJZ, doloci minister pristojen za zdravje na
+predlog ZZZS in NIJZ po pridobitvi mnenja Statisticnega urada Republike
+Slovenije.
+
+12. clen
+
+Enotna metodološka nacela in enotne
+standarde (definicije, klasifikacije in šifranti) za oblikovanje in vodenje
+zbirk podatkov, ki so skupni za ZZZS, NIJZ, Zavod za pokojninsko in invalidsko
+zavarovanje Slovenije in Zavod Republike Slovenije za zaposlovanje, dolocita
+ministra, pristojna za delo in zdravje, na predlog upravljavcev navedenih zbirk
+podatkov po pridobitvi mnenja Statisticnega urada Republike Slovenije.
+
+13. clen
+
+NIJZ zagotavlja za podrocje zdravstvenega
+varstva elemente enotnosti zdravstvenega informacijskega sistema v Republiki
+Sloveniji. 
+
+Za uresnicevanje enotnosti zdravstvenega
+informacijskega sistema, glede podatkov, ki so skupnega pomena za upravljavce
+iz 11. in 12. clena tega zakona, izvaja NIJZ naslednje naloge: 
+
+-       
+usklajuje vsebinske definicije podatkovnih pojmov; 
+
+-       
+uvaja in ukinja podatkovne pojme; 
+
+-       
+usklajuje razvrstitvene sezname (nomenklature, klasifikacije in
+šifrante). 
+
+Ministrstvo, pristojno za zdravje
+zagotavlja sredstva za izvajanje nalog iz prejšnjega odstavka.
+
+VI. eZDRAVJE
+
+14. clen
+
+eZdravje je na nacionalni ravni usklajen
+zdravstveni informacijski sistem, ki z delovanjem na enotni
+informacijsko-komunikacijski infrastrukturi omogoca:
+
+-       
+obdelavo zdravstvenih in drugih podatkov, podrobneje dolocenih v 14.b
+clenu tega zakona in v Prilogi 2;
+
+-       
+izvajanje storitev eZdravja, ki z elektronskimi sredstvi omogocajo
+obdelavo podatkov iz prejšnje alinee za namene, dolocene pri posamezni zbirki
+eZdravja.
+
+Za zagotavljanje storitev eZdravja NIJZ
+opravlja naslednje naloge:
+
+-       
+nacrtuje, razvija, upravlja, zagotavlja in spremlja uporabo enotnih
+elementov eZdravja, ki vkljucujejo sredstva, orodja, naprave in metode,
+potrebne za delovanje eZdravja;
+
+-       
+nacrtuje, razvija, upravlja, zagotavlja in spremlja uporabo enotne
+informacijsko-komunikacijske infrastrukture za upravljanje zbirk podatkov
+eZdravja in storitev eZdravja;
+
+-       
+upravlja, zagotavlja in spremlja uporabo zbirk podatkov eZdravja in
+storitev eZdravja;
+
+-       
+zagotavlja izmenjavo podatkov med eZdravjem in zdravstvenimi
+informacijskimi sistemi v tujini;
+
+-       
+upravlja in izvaja sistem odobritev vkljucevanja informacijskih rešitev
+uporabnikov eZdravja v eZdravje;
+
+-       
+spremlja in sodeluje pri nacionalnih in mednarodnih projektih ter v
+nacionalnih in mednarodnih delovnih telesih s podrocja zdravstvene informatike;
+
+-       
+spremlja in sodeluje pri koordinaciji sistema upravljanja informacijske
+varnosti s podrocja zdravstvene informatike;
+
+-       
+nacrtuje in izvaja promocijo eZdravja in njegovih storitev ter
+usposabljanje in izobraževanje uporabnikov eZdravja;
+
+-       
+pripravlja strokovne podlage s podrocja svojega delovanja in vrednoti
+ucinke svojih nalog;
+
+-       
+strateške naloge, ki pokrivajo podrocje razvoja in upravljanja;
+
+-       
+operativne naloge, ki bodo zagotavljale nemoteno delovanje storitev
+eZdravja in storitev posameznih komponent sistema eZdravje;
+
+-       
+naloge mednarodnega sodelovanja;
+
+-       
+naloge izboljšanja zdravstvenih procesov z vzpodbujanjem uporabe
+storitev eZdravja, ki so usmerjene predvsem v promocijo, usposabljanje in
+izobraževanje.
+
+NIJZ opravlja naloge iz tretje alinee
+prejšnjega odstavka na podlagi javnega pooblastila.
+
+Uporabniki eZdravja so fizicne in pravne
+osebe, ki uporabljajo storitve eZdravja in enotno informacijsko-komunikacijsko
+infrastrukturo eZdravja.
+
+Obvezni uporabniki eZdravja so izvajalci,
+drugi uporabniki eZdravja, doloceni v posamezni zbirki eZdravja iz Priloge 2 in
+drugi obvezni uporabniki eZdravja za posamezne storitve eZdravja, ce pravica do
+obdelave podatkov, vsebovanih v zbirkah podatkov eZdravja, izhaja iz drugega
+zakona.
+
+Minister, pristojen za zdravje, za obvezne
+uporabnike storitev eZdravja doloci pogoje, roke, nacin vkljucitve in uporabe
+eZdravja.
+
+14.a clen 
+
+Zbirke podatkov eZdravja so Centralni
+register podatkov o pacientih (v nadaljnjem besedilu: CRPP) in zbirke podatkov,
+ki se vzpostavijo in vodijo zaradi izvajanja posameznih storitev eZdravja. Te
+zbirke podatkov so dolocene v Prilogi zbirk podatkov eZdravja, ki je kot
+Priloga 2 sestavni del tega zakona. Upravljavec zbirk podatkov eZdravja je
+NIJZ.
+
+Ime in vsebina posameznih zbirk podatkov
+eZdravja, razen CRPP, njihov namen, kdo mora posredovati podatke in kdaj, nacin
+pridobivanja podatkov, rok hrambe podatkov in upravicenci do podatkov iz
+posamezne zbirke podatkov, so opredeljeni v Prilogi 2.
+
+Ne glede na dolocbe zakona, ki ureja
+varstvo osebnih podatkov, lahko NIJZ:
+
+-       
+za zbirke podatkov eZdravja brez placila stroškov pridobiva podatke iz
+drugih zbirk podatkov, lahko tudi le z uporabo EMŠO ali ZZZS številke
+(identifikacijske številke) zavarovane osebe;
+
+-       
+za namen izvajanja storitev eZdravja brez predhodnega dovoljenja
+državnega nadzornega organa za varstvo osebnih podatkov povezuje zbirke
+podatkov eZdravja, tudi le z uporabo enega identifikatorja kot istega
+povezovalnega znaka.
+
+14.b clen 
+
+CRPP je zbirka podatkov eZdravja o
+pacientih s stalnim ali zacasnim prebivališcem v Republiki Sloveniji in o drugih pacientih, ki v Republiki
+Sloveniji prejmejo zdravstveno oskrbo.
+
+CRPP vsebuje naslednje podatke o pacientih
+iz prejšnjega odstavka:
+
+-       
+povzetek podatkov o pacientu in
+
+-       
+pacientovo zdravstveno dokumentacijo iz prvega odstavka 1.a clena tega
+zakona.
+
+Podatki iz prejšnjega odstavka se
+obdelujejo zato, da se izvajalcem v Republiki Sloveniji in v tujini omogoci
+dostop do podatkov in izmenjava podatkov za izvajanje zdravstvene oskrbe in
+mrliško pregledne službe ter z namenom ažuriranja podatkov zdravstvene
+dokumentacije. Kontaktne podatke pacienta iz CRPP lahko izvajalci in NIJZ
+uporabijo za obvešcanje pacienta o spremembah podatkov v CRPP in drugih zbirkah
+eZdravja, posredovanje kljucev za elektronsko identifikacijo pacienta, izvedbo
+stikov s pacientom pred nacrtovano zdravstveno storitvijo, posredovanje
+informacij in navodil v povezavi z nacrtovano zdravstveno storitvijo, vabilo
+pacienta na izvedbo zdravstvene storitve, izvajanje zdravstvene storitve na
+daljavo ter spremljanje izkušenj pacienta in izidov zdravstvene obravnave po
+izvedbi zdravstvene storitve, pri cemer je treba upoštevati predpise s podrocja
+varstva osebnih podatkov glede tehnicnih ukrepov za zagotavljanje varnosti
+podatkov pri komunikaciji.
+
+Povzetek podatkov o pacientu iz prve alinee
+drugega odstavka tega clena vsebuje naslednje osnovne podatke o pacientu:
+
+1.     
+pacientove identifikacijske in statusne podatke:
+
+a)   
+osebno ime;
+
+b)   
+državljanstvo;
+
+c)   
+naslov stalnega in zacasnega prebivališca;
+
+c)  
+spol;
+
+d)   
+EMŠO oziroma datum rojstva, ce pacient nima dolocene EMŠO;
+
+e)   
+ZZZS številka zavarovane osebe;
+
+f)    
+CRPP identifikacijska številka pacienta;
+
+g)   
+podatki o zdravstvenem zavarovanju (obveznem in prostovoljnem);
+
+h)   
+Zakonski stan, ce je potreben za uveljavljanje pravic pacienta iz
+obveznega zdravstvenega zavarovanja ali za samo zdravstveno oskrbo;
+
+i)     
+izobrazba;
+
+j)     
+delo, delovno mesto oziroma poklic, podatki o delodajalcu;
+
+k)   
+kontaktni podatki (na primer telefonska številka, elektronski naslov,
+podatek o uporabi namenskih aplikacij) in datum zadnje potrditve pravilnosti
+podatkov;
+
+l)     
+podatki o osebnem zdravniku:
+
+-     o
+izvajalcu, pri katerem dela osebni zdravnik;
+
+-     o osebnem
+zdravniku (osebno ime, telefonska številka in elektronski naslov pri izvajalcu,
+številka zdravstvenega delavca);
+
+-     datum
+izbire osebnega zdravnika;
+
+-     datum
+prekinitve izbire osebnega zdravnika;
+
+m) 
+podatki o zdravstvenem delavcu, ki pacienta obravnava (osebno ime,
+telefonska številka in elektronski naslov pri izvajalcu, številka zdravstvenega
+delavca);
+
+n)   
+podatki o družinskih clanih, o osebah, ki jih doloci pacient, njegovem
+zdravstvenem pooblašcencu, rejniku, skrbniku in drugih zakonitih zastopnikih,
+ce so potrebni za uveljavljanje pravic:
+
+-     osebno
+ime;
+
+-     EMŠO
+oziroma datum rojstva, ce posameznik nima dolocene EMŠO;
+
+-     ZZZS
+številka zavarovane osebe;
+
+-     naslov
+stalnega in zacasnega prebivališca;
+
+-     razmerje
+do pacienta;
+
+-     kontaktni
+podatki (na primer telefonska številka, elektronski naslov);
+
+o)   
+podatek o smrti: dan, mesec, leto, ura in kraj smrti;
+
+p)   
+podatek o pisnih izjavah volje pacienta na podlagi zakona, ki ureja
+pacientove pravice:
+
+-     o
+dolocitvi, izkljucitvi ali omejitvi oseb, ki so upravicene odlocati o njegovi
+zdravstveni oskrbi;
+
+-     o tem,
+kakšne zdravstvene oskrbe ne dovoljuje, ce bi se znašel v položaju, ko ne bi
+bil sposoben dati veljavne privolitve;
+
+-     o
+dolocitvi oseb, ki se za cas življenja ali po njegovi smrti lahko seznanijo z
+njegovo zdravstveno dokumentacijo, in oseb, katerim prepoveduje to seznanitev;
+
+r)     podatek o pisni
+izjavi pacienta iz tretjega odstavka 14.c clena;
+
+s)    davcno
+številko pacienta in oseb pod podtocko n) in tretje alinee pod podtocko p) te
+tocke za namen preverjanja istovetnosti in pooblastil pri njihovem dostopu in
+posodabljanju podatkov v CRPP;
+
+š)    nacin
+želene vzpostavitve stika;
+
+t)     oddelek,
+razred in letnik ter podatki o vzgojno-izobraževalnem zavodu za osebe, ki so
+udeleženci vzgoje in izobraževanja, oziroma letnik in podatki o višji strokovni
+šoli oziroma visokošolskem zavodu za osebe, ki so udeleženci višjega
+strokovnega oziroma visokošolskega študija;
+
+2.     
+pacientove zdravstvene podatke brez casovne omejitve:
+
+a)   
+krvna skupina;
+
+b)   
+alergije in preobcutljivosti;
+
+c)   
+cepljenja;
+
+c)    kronicne
+bolezni;
+
+d)   
+medicinski pripomocki, ki so vsajeni v telo;
+
+e)   
+vecji medicinski posegi;
+
+f)    
+podatki o invalidnosti;
+
+3.     
+pacientove zdravstvene podatke s casovno omejitvijo:
+
+a)   
+nosecnost in pricakovan datum poroda, ki sta dostopna v CRPP še 30 dni
+po tem datumu;
+
+b)   
+zdravstvena stanja in medicinski posegi za zadnjih šest mesecev;
+
+c)   
+zdravila, živila za posebne zdravstvene in prehranske namene,
+predpisana, prejeta ali izdana v zadnjih šestih mesecih;
+
+c)    medicinski
+pripomocki, izdani v zadnjih šestih mesecih.
+
+14.c clen 
+
+Uporabniki podatkov CRPP so izvajalci, ki
+za namene iz tretjega odstavka prejšnjega clena obdelujejo podatke iz CRPP.
+
+Obdelava podatkov iz CRPP pri izvajalcih v
+Republiki Sloveniji je dopustna brez privolitve pacienta, pri izvajalcih v
+tujini pa na podlagi privolitve pacienta. Pacient lahko da privolitev ustno, z
+dejanjem oziroma ravnanjem, iz katerega je mogoce zanesljivo sklepati, da
+pomeni privolitev, ali pisno.
+
+Pacient ima pravico s pisno izjavo
+prepovedati vpogled v povzetek podatkov o pacientu. Prepoved se lahko poda za
+izvajalca ali državo izvajalca. Dodatne možnosti prepovedi za dolocena
+zdravstvena stanja in medicinske posege lahko doloci minister, pristojen za
+zdravje, na pobudo Komisije za medicinsko etiko. Pacient lahko s pisno izjavo omeji uporabo svojih kontaktnih
+podatkov.
+
+Prepoved iz prejšnjega odstavka ni mogoca
+za naslednje podatke:
+
+-       
+osebno ime;
+
+-       
+EMŠO;
+
+-       
+ZZZS številka zavarovane osebe;
+
+-       
+podatek o pisnih izjavah volje pacienta pod podtocko p) 1. tocke
+cetrtega odstavka prejšnjega clena;
+
+-       
+podatek o pisni izjavi pacienta iz prejšnjega odstavka;
+
+-       
+podatek o smrti: dan, mesec, leto, ura in kraj smrti.
+
+14.c clen
+
+NIJZ za CRPP pridobiva naslednje pacientove
+identifikacijske in statusne podatke iz 1. tocke cetrtega odstavka 14.b clena
+tega zakona od naslednjih zavezancev:
+
+1.     
+od upravljavca CRP:
+
+a)   
+podatke o pacientu:
+
+-     osebno
+ime;
+
+-     državljanstvo;
+
+-     naslov
+stalnega in zacasnega prebivališca;
+
+-     EMŠO
+oziroma datum rojstva in spol, ce posameznik nima dolocene EMŠO;
+
+-     davcno
+številko;
+
+-     zakonski
+stan;
+
+-     izobrazbo;
+
+b)   
+podatke o osebah iz podtocke n) in tretje alinee podtocke p) 1. tocke cetrtega
+odstavka 14.b clena tega zakona:
+
+-     osebno
+ime;
+
+-     EMŠO
+oziroma datum rojstva, ce družinski clan nima dolocene EMŠO;
+
+-     davcno
+številko;
+
+-     naslov
+stalnega in zacasnega prebivališca;
+
+-     razmerje
+do pacienta;
+
+2.     
+od upravljavca maticnega registra podatke o smrti pacienta: dan, mesec,
+leto, ura in kraj smrti;
+
+3.     
+od ZZZS:
+
+a)   
+ZZZS številko zavarovane osebe in oseb pod podtocko n) 1. tocke cetrtega
+odstavka 14.b clena tega zakona;
+
+b)   
+EMŠO;
+
+c)   
+podatke o izbranih osebnih zdravnikih;
+
+c)    podatke
+o obveznem zdravstvenem zavarovanju;
+
+d)    poklic
+zavarovane osebe in podatke o delodajalcu;
+
+4.     
+od zavarovalnic, ki izvajajo prostovoljno zdravstveno zavarovanje:
+podatke o prostovoljnem zdravstvenem zavarovanju,
+
+5.     
+od Ministrstva za javno upravo iz podatkov Centralnega avtentikacijskega
+sistema:
+
+a)   
+EMŠO;
+
+b)   
+telefonsko številko in elektronski naslov iz podtocke k) 1. tocke
+cetrtega odstavka 14.b clena tega zakona;
+
+6.     
+od ministrstva, pristojnega za vzgojo in izobraževanje:
+
+a)   
+EMŠO;
+
+b)   
+ime in naslov vzgojno-izobraževalnega zavoda, višje strokovne šole ali
+visokošolskega zavoda ter maticno številko zavoda (PRS šifra);
+
+c)   
+oddelek oziroma vzgojna skupina, razred in letnik.
+
+NIJZ za CRPP pridobiva od upravljavca
+Registra prostorskih enot kot zavezanca šifrante obcin, naselij, ulic, hišnih
+številk, številk stanovanj in poštnih številk.
+
+Izvajalci za CRPP od pacienta pridobivajo
+podatke:
+
+-       
+o delu in delovnem mestu iz podtocke j) 1. tocke cetrtega odstavka 14.b
+clena tega zakona;
+
+-       
+o kontaktnih podatkih iz tocke k) 1. tocke cetrtega odstavka 14.b clena
+tega zakona;
+
+-       
+iz podtocke l) 1. tocke cetrtega odstavka 14.b clena tega zakona za
+izvajalce izven mreže javne zdravstvene službe;
+
+-       
+o kontaktnih podatkih iz podtocke n) 1. tocke cetrtega odstavka 14.b
+clena tega zakona;
+
+-       
+iz podtock p), r) in š) 1. tocke cetrtega odstavka 14.b clena tega
+zakona.
+
+CRPP se povezuje z zbirkami podatkov Osnovna zdravstvena dokumentacija, Evidenca
+nalezljivih bolezni in Register obveznikov za cepljenje in izvajanja cepljenja iz Priloge 1, drugimi zbirkami podatkov eZdravja in za podatke iz
+prvega in drugega odstavka tega clena z zbirkami podatkov zavezancev za njihovo
+posredovanje. NIJZ z zavezanci iz prvega in drugega odstavka tega clena s
+pogodbami dogovori postopek in nacin izmenjave podatkov.
+
+Izvajalci so glede podatkov iz podtock d),
+e), f), j), k), l), m), n), p) in r) 1. tocke ter 2. in 3. tocke cetrtega
+odstavka 14.b clena tega zakona odgovorni za obdelavo, in sicer vsak izvajalec
+v delu, ki se nanaša na zagotavljanje dolocene zdravstvene oskrbe. Podatek se
+posreduje v CRPP takoj, ko nastane ali se prejme pri izvajanju zdravstvene
+oskrbe ali mrliško pregledne službe, vendar najpozneje do konca delavnika.
+Podatek se posreduje v CRPP na nacin, da je razviden cas njegovega nastanka in
+njegove veljavnosti. Podatek posreduje v CRPP izvajalec, ki ga ob izvajanju
+zdravstvene oskrbe ali mrliško pregledne službe prvi zabeleži. Izvajalci
+ažurirajo podatke iz podtock k) in š) 1. tocke cetrtega odstavka 14.b clena
+tega zakona v svoji dokumentaciji iz CRPP pred vzpostavitvijo stika s pacientom
+in preverijo pravilnost kontaktnih podatkov ob vsakem stiku s pacientom, ce ta
+omogoca nedvoumno identifikacijo pacienta. Spremembo kontaktnih podatkov ali
+nacina vzpostavitve stika izvajalci posredujejo v CRPP do konca delavnika.
+
+Pooblastila zdravstvenih delavcev in drugih
+pooblašcenih oseb za obdelavo podatkov v CRPP se dolocijo za posamezen podatek
+ali po posameznih sklopih podatkov oziroma pacientove zdravstvene dokumentacije
+iz prvega odstavka 1.a clena tega zakona tako, da je obseg pooblastila odvisen
+od kvalifikacije, poklica in delovnega podrocja zdravstvenega delavca ter
+delovnega mesta oziroma dela pri izvajalcu.
+
+Izvajalec je odgovoren za podelitev in
+uporabo pooblastil v skladu s prejšnjim odstavkom.
+
+Pacient lahko podatke iz podtock k) in š)
+1. tocke cetrtega odstavka 14.b clena tega zakona posreduje prek portala za
+paciente, aplikacije za paciente, po pošti z overjeno izjavo, po elektronski
+pošti z elektronsko podpisano izjavo ali osebno na NIJZ.
+
+14.d clen
+
+Podatki o posameznem pacientu iz drugega
+odstavka 14.b clena tega zakona se v CRPP hranijo do njegove smrti, pri cemer
+se podatki iz 3. tocke cetrtega odstavka 14.b clena tega zakona po poteku
+casovne omejitve blokirajo tako, da se prepreci njihova nadaljnja obdelava v
+CRPP.
+
+Ne glede na prejšnji odstavek se podatki iz
+podtock a), d), e), o), p) in r) 1. tocke cetrtega odstavka 14.b clena tega
+zakona hranijo v CRPP eno leto po smrti pacienta.
+
+Ne glede na prvi in drugi odstavek tega
+clena se podatki hranijo 30 let od zadnje spremembe pacientovih zdravstvenih
+podatkov ali pacientove zdravstvene dokumentacije, ce podatek o smrti pacienta
+v CRPP ni znan.
+
+Minister, pristojen za zdravje, doloci:
+
+-       
+vrsto in roke hrambe pacientove zdravstvene dokumentacije iz druge
+alinee drugega odstavka 14.b clena tega zakona;
+
+-       
+šifrante, ki se uporabljajo za posredovanje podatkov iz 2. in 3. tocke
+cetrtega odstavka 14.b clena tega zakona;
+
+-       
+natancnejše pogoje, vsebino in postopek posredovanja pisne izjave
+pacienta iz tretjega odstavka 14.c clena tega zakona;
+
+-       
+pooblastila iz šestega odstavka prejšnjega clena.
+
+VI.a NADZOR
+
+14.e clen
+
+Nadzor nad izvajanjem tega zakona opravlja inšpektorat,
+pristojen za zdravje.
+
+Inšpektorat, pristojen za zdravje, opravlja nadzor nad
+dolocbami prvega in drugega odstavka 8. clena, 14.b clena ter prvega, drugega
+in petega odstavka 14.c clena tega zakona.
+
+VII. KAZENSKE DOLOCBE
+
+15. clen
+
+Z globo od 5.000 do 15.000 eurov se kaznuje
+za prekršek pravna oseba, samostojni podjetnik posameznik ali posameznik, ki
+samostojno opravlja dejavnost, ce:
+
+-       
+v nasprotju s prvim, drugim ali cetrtim odstavkom 14.c clena tega
+zakona, Prilogo 1 ali Prilogo 2 ne posreduje podatkov oziroma jih ne posreduje
+v rokih iz Priloge 1 ali Priloge 2,
+
+-       
+zbrane podatke hrani v nasprotju z roki, dolocenimi v 3. tocki cetrtega
+odstavka 14.b clena, v prvem, drugem ali tretjem odstavku 14.d clena tega
+zakona, v Prilogi 1 ali Prilogi 2,
+
+-       
+podatke iz Priloge 1 posreduje v nasprotju z nacini dajanja podatkov iz
+Priloge 1,
+
+-       
+obdeluje podatke v CRPP v nasprotju s prvim odstavkom 14.c clena ali
+petim odstavkom 14.c clena tega zakona,
+
+-       
+v nasprotju s 14.b clenom tega zakona, Prilogo 1 ali Prilogo 2 ne vodi
+predpisane zbirke podatkov ali je ne vodi v skladu z dolocbami tega zakona.
+
+Z globo od 500 do 5.000 eurov se kaznuje za
+prekršek iz prejšnjega odstavka tudi odgovorna oseba pravne osebe, samostojnega
+podjetnika posameznika ali posameznika, ki samostojno opravlja dejavnost.
+
+Z globo od 250 do 2.500 eurov se kaznuje za
+prekršek iz prvega odstavka tega clena tudi posameznika.
+
+V hitrem postopku o prekršku lahko
+prekrškovni organ izrece globo znotraj razpona, ki je dolocen v prvem, drugem
+in tretjem odstavku tega clena.
+
+16. clen
+
+(crtan)
+
+
+
+
+
+Priloga
+1: Priloga zbirk podatkov s podrocja zdravstvenega varstva
+
+Priloga
+2: Priloga zbirk podatkov ezdravja
+
+
+
+
+
+Zakon o zbirkah podatkov s podrocja
+zdravstvenega varstva – ZZPPZ
+(Uradni list RS, št. 65/00) vsebuje naslednje prehodne in
+koncne dolocbe:
+
+»VIII. PREHODNE IN KONCNE DOLOCBE
+
+17. clen
+
+Z uveljavitvijo tega zakona se prenehajo
+uporabljati zakon o evidencah na podrocju zdravstva (Uradni list SFRJ, št.
+22/78 in 18/88 in Uradni list RS, št. 10/91, 17/91, 13/93 in 66/93) in 41.,
+42., 43., 44., 45., 46., 53., 54., 55. in 56. clen zakona o evidencah na
+podrocju dela (Uradni list SFRJ, št. 17/90 in Uradni list RS, št. 10/91, 17/91,
+13/93 in 66/93), ki dolocajo evidence s podrocja zdravstvenega zavarovanja in
+zdravstvenega varstva.
+
+18. clen
+
+Enotna metodološka nacela in enotne
+standarde (definicije, klasifikacije, šifrante), evidencna sredstva ter
+standardne postopke oblikovanja in pošiljanja porocil iz 10. in 11. clena tega
+zakona doloci minister, pristojen za zdravstvo v enem letu od uveljavitve tega
+zakona. 
+
+Enotna metodološka nacela in enotne
+standarde (definicije, klasifikacije, šifrante), evidencna sredstva ter
+standardne postopke oblikovanja in pošiljanja porocil iz 12. clena tega zakona
+dolocita skupaj ministra, pristojna za delo in zdravstvo v enem letu od
+uveljavitve tega zakona. 
+
+Do izdaje novih metodoloških nacel,
+standardov, evidencnih sredstev in predpisov iz prvega in drugega odstavka tega
+clena se še naprej uporablja navodilo o enotnih metodoloških nacelih in
+standardih za evidenco na podrocju zdravstva (Uradni list SFRJ, št. 13/79),
+kolikor ni v nasprotju s tem zakonom.
+
+19. clen
+
+Obliko, nacine in sredstva evidentiranja iz
+8. clena tega zakona doloci minister, pristojen za zdravstvo na predlog IVZ v
+dveh letih od uveljavitve tega zakona.
+
+20. clen
+
+Ta zakon zacne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o spremembah in dopolnitvah Zakona o
+zbirkah podatkov s podrocja zdravstvenega varstva – ZZPPZ-A (Uradni list RS, št. 47/15) vsebuje naslednje prehodne in
+koncne dolocbe:
+
+»PREHODNE IN KONCNE DOLOCBE
+
+12. clen
+
+NIJZ zacne izvajati naloge iz drugega
+odstavka 14. clena zakona 1. decembra 2015.
+
+Akt o ustanovitvi NIJZ se uskladi z drugim
+odstavkom 14. clena zakona v treh mesecih od dneva uveljavitve tega zakona.
+
+Naloge iz drugega odstavka 14. clena zakona
+do 1. decembra 2015 opravlja ministrstvo, pristojno za zdravje.
+
+NIJZ 1. decembra 2015 od ministrstva,
+pristojnega za zdravje, prevzame v upravljanje opremo, financirano iz projekta
+2711-08-0012 ESS-eZdravje. NIJZ od ministrstva, pristojnega za zdravje, z dnem
+zacetka opravljanja nalog iz drugega odstavka 14. clena zakona prevzame tudi
+nedokoncane zadeve, dokumentacijo in arhiv, naloge ter pravice in obveznosti iz
+pogodb, ki se nanašajo na projekt 2711-08-0012 ESS-eZdravje.
+
+13. clen
+
+Na podlagi tretjega odstavka prejšnjega
+clena ministrstvo, pristojno za zdravje, vzpostavi zbirke podatkov eZdravja iz
+prvega odstavka 14.a clena zakona v skladu s tem zakonom v enem mesecu od
+uveljavitve tega zakona.
+
+Izvajalci v CRPP vpišejo podatke iz
+cetrtega odstavka 14.b clena zakona, ki so že zajeti v zdravstveni
+dokumentaciji iz prvega odstavka 1.a clena zakona, ob prvem stiku s pacientom
+po uveljavitvi tega zakona.
+
+14. clen
+
+Minister, pristojen za zdravje, izda
+predpise iz šestega odstavka 14. clena in cetrtega odstavka 14.d clena zakona v
+enem mesecu od uveljavitve tega zakona.
+
+15. clen
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o spremembah in dopolnitvah Zakona o
+zbirkah podatkov s podrocja zdravstvenega varstva – ZZPPZ-B (Uradni list RS, št. 31/18) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+3. clen
+
+Ta zakon zacne veljati petnajsti dan po
+objavi v Uradnem listu Republike Slovenije, uporabljati pa se zacne
+1. januarja 2019.«.
+
+
+
+
+
+Zakon o zacasnih ukrepih za omilitev in odpravo
+posledic COVID-19 – ZZUOOP (Uradni list RS, št. 152/20) vsebuje naslednjo koncno dolocbo:
+
+»134. clen
+
+(zacetek
+veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o interventnih ukrepih za omilitev
+posledic drugega vala epidemije COVID-19 – ZIUOPDVE (Uradni list RS, št. 175/20) vsebuje naslednjo koncno dolocbo:
+
+»142. clen
+
+(zacetek
+veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.
+
+
+
+
+
+Zakon o interventnih ukrepih za pomoc pri
+omilitvi posledic drugega vala epidemije COVID-19 – ZIUPOPDVE (Uradni list RS,
+št. 203/20) vsebuje naslednjo koncno dolocbo:
+
+»133. clen
+
+(zacetek
+veljavnosti)
+
+Ta zakon zacne veljati naslednji dan po
+objavi v Uradnem listu Republike Slovenije.«.

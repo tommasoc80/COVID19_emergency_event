@@ -1,0 +1,484 @@
+Tiesibu akts: 
+	    		zaudejis speku
+	    	Attelota redakcija: 01.01.2021. - 31.12.2020. / Vesturiska
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    
+    
+      
+        
+        Tiesibu akts ir zaudejis speku.Skatit Ministru kabineta
+              2020. gada 17. decembra noteikumus Nr. 828 "Noteikumi par numeracijas lietošanas tiesibu ikgadejo valsts nodevu".
+            
+        
+        
+      
+      
+    
+    Ministru kabineta noteikumi Nr.892
+Riga 2009.gada 11.augusta (prot. Nr.52 24.§)
+Noteikumi par numeracijas lietošanas tiesibu ikgadejo valsts nodevu
+Izdoti saskana ar Elektronisko sakaru likuma 58.panta pirmo dalu
+1. Noteikumi nosaka kartibu, kada aprekina ikgadejo valsts nodevu par numeracijas lietošanas tiesibam (turpmak – nodeva), nodevas maksašanas kartibu un atbrivojumu no nodevas.2
+            
+              
+              
+            
+          
+2. Nodevu maksa elektronisko sakaru komersants, kuram ir pieškirtas vai pieškirtas un pagarinatas iso kodu lietošanas tiesibas.3
+            
+              
+              
+            
+          
+3. Nodevu aprekina par katru iso kodu, uz kuru ir pieškirtas vai pieškirtas un pagarinatas numeracijas lietošanas tiesibas, izmantojot šadu formulu:4
+            
+              
+              
+            
+          
+
+Nod =
+L × N × D
+, kur
+
+G
+Nod – nodeva euro;
+L – nodeva par vienu kodu gada
+euro (aprekins 1.pielikuma);
+N – iso kodu skaits, uz kuriem
+elektronisko sakaru komersantam ir pieškirtas vai pieškirtas un
+pagarinatas numeracijas lietošanas tiesibas;
+D – dienu skaits taksacijas
+perioda, kuras elektronisko sakaru komersantam ir pieškirtas
+vai pieškirtas un pagarinatas numeracijas lietošanas tiesibas
+konkretajam isajam kodam;
+G – dienu skaits gada.(Grozits ar MK 24.09.2013.
+noteikumiem Nr.949)
+
+
+4. Nodevu ieskaita valsts pamatbudžeta ienemumos.5
+            
+              
+              
+            
+          
+4.1 Nodevu maksa ar tada maksajumu pakalpojumu sniedzeja starpniecibu, kuram ir tiesibas sniegt maksajumu pakalpojumus Maksajumu pakalpojumu un elektroniskas naudas likuma izpratne.6
+            
+              
+              
+            
+          (MK 24.02.2015. noteikumu Nr.98 redakcija)
+5. Elektronisko sakaru komersants reizi ceturksni lidz ceturksnim sekojoša meneša divdesmitajam datumam iesniedz Valsts ienemumu dienesta deklaraciju (2. pielikums) un lidz ceturksnim sekojoša meneša divdesmit trešajam datumam iemaksa nodevu vienotaja nodoklu konta.7
+            
+              
+              
+            
+          (MK 03.04.2018. noteikumu Nr. 198 redakcija)
+6. Elektronisko sakaru komersants, kas sanem numeracijas lietošanas tiesibas taksacijas perioda, nodevu maksa šo noteikumu 5.punkta minetaja kartiba proporcionali taksacijas periodam, no kura ir pieškirtas numeracijas lietošanas tiesibas.8
+            
+              
+              
+            
+          
+7. No nodevas uz sakotneji noteikto numeracijas lietošanas tiesibu terminu ir atbrivots elektronisko sakaru komersants, kas numeracijas lietošanas tiesibas ir ieguvis izsole.9
+            
+              
+              
+            
+          
+8. Elektronisko sakaru komersants ir atbrivots no nodevas par pieškirtajam numeracijas lietošanas tiesibam uz Eiropas Savienibas elektronisko sakaru saskanoto pakalpojumu kodu 116(XXX) diapazona, kura lietošanas tiesibas pieškir Sabiedrisko pakalpojumu regulešanas komisija, isajiem kodiem 16(XX) diapazona un numuriem "110", "112", "113", "114", "115", "01", "02", "03", "04".10
+            
+              
+              
+            
+          (Grozits ar MK 09.03.2010. noteikumiem Nr.242; MK 13.03.2012. noteikumiem Nr.180; MK 24.02.2015. noteikumiem Nr.98)
+9. Valsts akciju sabiedriba "Elektroniskie sakari" reizi ceturksni lidz tam sekojoša meneša desmitajam datumam no numeracijas datubazes nosuta informaciju Valsts ienemumu dienestam uz elektroniska pasta adresi par tiem elektronisko sakaru komersantiem, kuriem attiecigaja taksacijas perioda ir jaiemaksa nodeva.11
+            
+              
+              
+            
+          (Grozits ar MK 24.02.2015. noteikumiem Nr.98)
+9.1 Lidz 2020. gada 31. decembrim šo noteikumu 8. punkta minetais atbrivojums attiecas ari uz numuriem "8303" un "8345".12
+            
+              
+              
+            
+          (MK 09.06.2020. noteikumu Nr. 368 redakcija)
+10. Noteikumi stajas speka 2009.gada 1.oktobri.13
+            
+              
+              
+            
+          
+Ministru prezidents V.Dombrovskis
+Satiksmes ministra vieta – regionalas attistibas un pašvaldibu lietu ministrs E.Zalans
+1.pielikums
+
+Ministru kabineta 
+
+2009.gada 11.augusta noteikumiem Nr.892
+Numeracijas lietošanas tiesibu ikgadejas valsts nodevas aprekina piemerotie pamatkoeficienti(Pielikums MK 24.02.2015. noteikumu Nr.98 redakcija)
+
+
+Nr.
+p.k.
+
+
+Numeracijas veids – isie kodi
+
+
+Pamatkoeficients pieškirtajam
+numeracijas resursam
+
+
+Pamatlikme,1euro
+
+
+Nodeva par vienu kodu gada
+(L), euro
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5 (3x4)
+
+
+1.
+
+Operatora izveles pakalpojuma kodi (3
+cipari)
+
+8250
+
+
+0,17
+
+
+1402,50
+
+
+2.
+
+Operatora izveles pakalpojuma kodi (4
+cipari)
+
+4250
+
+
+0,17
+
+
+722,50
+
+
+3.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (3 cipari)
+
+62500
+
+
+0,17
+
+
+10625,00
+
+
+4.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (4 cipari)
+
+8250
+
+
+0,17
+
+
+1402,50
+
+
+5.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (82XXX) (5 cipari)
+
+4250
+
+
+0,17
+
+
+722,50
+
+
+6.
+
+Uzzinu dienesta pakalpojuma numuri
+(118X) (4 cipari)
+
+8250
+
+
+0,17
+
+
+1402,50
+
+
+7.
+
+Uzzinu dienesta pakalpojuma numuri
+(1184X) (5 cipari)
+
+4250
+
+
+0,17
+
+
+722,50
+
+Piezime.1 Izstradats, nemot vera koncepcijas "Ikgadeja
+valsts nodeva par radiofrekvencu spektra un numeracijas resursu
+lietošanas tiesibam" (apstiprinata ar Ministru kabineta 2006.
+gada 25. julija rikojumu Nr. 562 "Par koncepciju "Ikgadeja
+valsts nodeva par radiofrekvencu spektra un numeracijas resursu
+lietošanas tiesibam"") 4.4. apakšnodala minetas bazes
+likmes 2. variantu (0,17 euro).
+
+
+2.pielikums 
+Ministru kabineta
+2009.gada 11.augusta noteikumiem Nr.892(Pielikums grozits ar MK 24.09.2013. noteikumiem Nr.949; MK 24.02.2015. noteikumiem Nr.98)
+Numeracijas lietošanas tiesibu ikgadejas valsts nodevas deklaracija
+
+Elektronisko sakaru komersanta
+nosaukums _____________________________________
+
+Juridiska adrese
+
+
+ 
+
+Registracijas kods
+
+
+
+
+
+
+
+
+
+ 
+
+e-pasta adrese
+
+
+
+Talrunis
+
+
+ 
+
+Nodevas samaksas datums
+
+
+
+
+(gads, datums, menesis)
+
+ 
+Pieškirtas
+numeracijas lietošanas tiesibas
+
+Nr.
+p.k.
+
+
+Numeracijas veids – isie kodi
+
+
+Nodeva par vienu kodu gada
+(L), euro
+
+
+Kodu skaits taksacijas perioda
+(N)
+
+
+Pieškiršanas vai anulešanas
+datums
+
+
+Dienu skaits taksacijas perioda,
+kuras ir tiesibas izmantot konkretos numeracijas resursus
+(D)
+
+
+Nodeva par pieškirtajam
+numeracijas lietošanas tiesibam (Nod), euro
+
+
+1
+
+
+2
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+1.
+
+Operatora izveles kods (3
+cipari)
+
+1402,50
+
+ 
+ 
+ 
+ 
+
+2.
+
+Operatora izveles kods (4
+cipari)
+
+722,50
+
+ 
+ 
+ 
+ 
+
+3.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (3 cipari)
+
+10625,00
+
+ 
+ 
+ 
+ 
+
+4.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (4 cipari)
+
+1402,50
+
+ 
+ 
+ 
+ 
+
+5.
+
+Publisko telefonu tiklu operatoru
+pakalpojumu kodi (82XXX) (5 cipari)
+
+722,50
+
+ 
+ 
+ 
+ 
+
+6.
+
+Uzzinu dienesta pakalpojuma numuri
+(118X) (4 cipari)
+
+1402,50
+
+ 
+ 
+ 
+ 
+
+7.
+
+Uzzinu dienesta pakalpojuma numuri
+(1184X) (5 cipari)
+
+722,50
+
+ 
+ 
+ 
+ 
+
+ 
+
+KOPSUMMA
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Apstiprinu nodevas aprekinu
+
+Elektronisko sakaru komersants
+
+
+
+
+
+
+(vards, uzvards un paraksts*)
+
+
+
+(datums*)
+
+Piezime.
+* Dokumenta rekvizitus
+“paraksts” un “datums” neaizpilda, ja elektroniskais
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+Satiksmes ministra vieta – regionalas attistibas un pašvaldibu lietu ministrs E.Zalans

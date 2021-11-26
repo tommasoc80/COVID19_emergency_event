@@ -1,0 +1,18 @@
+Arrêté du 10 août 2020 modifiant l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé
+Le ministre des solidarités et de la santé,Vu la directive (UE) 2015/1535 du Parlement européen et du Conseil du 9 septembre 2015 prévoyant une procédure d'information dans le domaine des réglementations techniques et des règles relatives aux services de la société de l'information, notamment la notification n° 2020/503/F ;Vu le code de la santé publique, notamment ses articles L. 3131-1 et L. 3131-16 ;Vu la loi n° 2020-856 du 9 juillet 2020 organisant la sortie de l'état d'urgence sanitaire ;Vu l'arrêté du 10 juillet 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans les territoires sortis de l'état d'urgence sanitaire et dans ceux où il a été prorogé ;Considérant le risque, dans certaines zones, de disponibilité insuffisante de professionnels de santé habilités à réaliser l'examen de « détection du génome du SARS-CoV-2 par RT PCR » inscrit à la nomenclature des actes de biologie médicale pour faire face à la crise sanitaire ; qu'il y a lieu, en conséquence, de compléter la liste des personnes autorisées à participer à la réalisation de cet examen dans des conditions d'encadrement adaptées et de faciliter le recours à ces personnels complémentaires,Arrête :
+Le premier alinéa du IV de l'article 25 de l'arrêté du 10 juillet 2020 susvisé est remplacé par les dispositions suivantes : « IV.-Lorsque les laboratoires de biologie médicale ou les laboratoires mentionnés aux 1° à 4° du I ne disposent pas du nombre de techniciens de laboratoire médical nécessaire à la réalisation de l'examen de “ détection du génome du SARS-CoV-2 par RT PCR ”, sont autorisées, dans le respect des dispositions du code de la santé publique, et notamment de son article L. 6211-7, à participer à la réalisation de la phase analytique de cet examen au sein de ces laboratoires sous la responsabilité du biologiste médical et après avoir suivi une formation dispensée par un biologiste médical du laboratoire :
+-les personnes possédant un diplôme dans le domaine de la biologie moléculaire ou justifiant d'une expérience professionnelle d'au moins un an dans ce domaine ;-les personnes possédant l'un des diplômes mentionnés en annexe du présent arrêté, encadrées par un technicien de laboratoire médical ».
+Le présent arrêté sera publié au Journal officiel de la République française.
+ANNEXE AU IV DE L'ARTICLE 25
+Liste des diplômes mentionnés au IV de l'article 25 : Brevet de technicien supérieur :
+-chimie ;-métiers de l'eau ;-qualité industries alimentaires et bio-industrie ;-biophysique de laboratoire.
+Diplôme Universitaire de Technologie :
+-génie biologique, option agro alimentaire ;-génie de l'environnement.
+Licences professionnelles :
+-bioanalytique et expérimentale ;-bioindustries et technologie.
+Licences :
+-sciences de la vie ;-sciences de la vie et de la terre ;-sciences pour la santé ;-biologie et santé ;-en sciences de la vie biologique ;-génomique, physiologie et santé.
+Masters :
+-de biologie et santé ;-en biologie de l'environnement.
+Fait le 10 août 2020.
+Olivier Véran

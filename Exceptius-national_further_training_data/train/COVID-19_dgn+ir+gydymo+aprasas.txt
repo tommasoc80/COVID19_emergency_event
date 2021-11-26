@@ -1,0 +1,314 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠO PATVIRTINIMO
+
+2020 m. kovo 16 d. Nr. V-383
+Vilnius
+
+
+Vadovaudamasis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu:
+1. T v i r t i n u Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašą (pridedama). 
+2. P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.
+
+
+
+Sveikatos apsaugos ministras				 				         Aurelijus Veryga
+
+
+PATVIRTINTA
+Lietuvos Respublikos 
+sveikatos apsaugos ministro
+2020 m. kovo 16 d. 
+įsakymu Nr. V-383
+
+SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROJI DALIS
+
+1. Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašas (toliau – Aprašas) nustato reikalavimus sveikatos priežiūros įstaigoms (toliau – SPĮ), sveikatos priežiūros specialistams, kurie įtaria, diagnozuoja ir gydo COVID-19 ligą (koronaviruso infekciją) (toliau – COVID-19 liga) suaugusiems, COVID-19 ligos diagnostikos ir gydymo reikalavimus ir kriterijus, kada pacientas laikomas pasveikusiu. 
+2. Aprašas taikomas:
+2.1. įtariant COVID-19 ligą, koduojamą kodu Z03.8 Stebėjimas dėl kitų įtariamų ligų ir būklių (nepatvirtintas ligos atvejis);
+2.2. diagnozuojant ir gydant COVID-19 ligą, koduojamą specialiosios paskirties kodu U07.1 Koronaviruso COVID-19 sukelta ūmi kvėpavimo takų (respiracinė) liga (patvirtintas ligos atvejis) (jei reikia, papildomai gali būti nurodomi ir kiti ligų ar sveikatos sutrikimų kodai);
+2.3. tiriant asmenis, turėjusius sąlytį su tikėtinu ar patvirtintu COVID-19 ligos atveju, koduojant kodu Z20.8 Kontaktas su sergančiaisiais kitomis užkrečiamosiomis ligomis ir jų poveikis.
+3. Pasaulio sveikatos organizacijos duomenimis, 2019 m. gruodžio mėn. išaiškėjo sunkios ūminės pneumonijos Uhano provincijoje (Kinija) atvejai, kurių priežastys buvo susietos su Uhano jūros gėrybių turgumi, kuriame parduodamos žuvys ir kiti gyvūnai. Paaiškėjo, kad minėtą ligą sukėlė iki tol nežinomas koronavirusas, priklausantis koronavirusų šeimai. Viruso genomo sekos analizė parodė, kad identifikuotas virusas yra susijęs su sunkią ūmią kvėpavimo sistemos ligą sukeliančių koronavirusų (CoV) grupe. Yra žinomi septyni CoV, galintys sukelti ligą žmonėms. Keturi (HCoV-229E, HCoV-NL63, HCoV-OC43, HCoV-HKU1) sukelia lengvos eigos ligą,  žmogui pavojingiausi yra trys - SARS-CoV, MERS-CoV ir SARS-CoV-2 - koronavirusai, kurie gali sukelti sunkią ligos formą.
+4. SARS-CoV-2 pirminis šaltinis – laukiniai gyvūnai (šikšnosparniai, kupranugariai, civetai ir kt.) (4). Nuo gyvūnų virusu gali užsikrėsti žmogus, žmogus gali perduoti virusą kitam žmogui. Pagrindinis SARS-CoV-2 plitimo kelias tarp žmonių – per oro lašelius (kosint, čiaudint arba netiesiogiai, liečiant užterštus daiktus ar paviršius). Taip pat virusas plinta per aerozolius, artimą kontaktą ir fekaliniu-oraliniu keliu. Infekuotas žmogus kitą žmogų užkrėsti gali sirgdamas arba dar neturėdamas klinikinių ligos simptomų. Manoma, kad vienas infekuotas asmuo gali užkrėsti daugiau nei 2 sveikus asmenis.
+5. Inkubacinis ligos periodas nuo užsikrėtimo iki ligos simptomų pasireiškimo paprastai trunka nuo 2 iki 14 dienų. 
+6. Apraše vartojamos sąvokos ir jų apibrėžtys: 
+6.1. AAP – asmeninės apsaugos priemonės;
+6.2. AST – asparagininė transaminazė;
+6.3. ALT – alanininė transaminazė;
+6.4. BAL – brochoalveolinis lavažas;
+6.5. BKT – bendras kraujo tyrimas;
+6.6. CoV – koronavirusų grupė;
+6.7. COVID-19 liga – tai SARS-CoV-2 sukelta ūmi infekcija, kuriai būdingas karščiavimas, kosulys, dusulys, ūminis respiracinio distreso sindromas ir kt.;
+6.8. CRAP – nuolatinis teigiamas oro slėgis;
+6.9. CRB – C reaktyvusis baltymas;
+6.10. DPV – dirbtinė plaučių ventiliacija;
+6.11. EKG – elektrokardiograma;
+6.12. KT – kompiuterinė tomografija;
+6.13. MERS-CoV – Artimųjų Rytų respiracinį sindromą sukeliantis koronavirusas;
+6.14. Patvirtintas COVID-19 ligos atvejis – asmuo, kuriam laboratoriniais tyrimais patvirtinta COVID-19 infekcija, nepriklausomai nuo to, ar yra klinikinių simptomų;
+6.15. PEEP – teigiamas slėgis iškvėpimo pabaigoje;
+6.16. PGR – Polimerazės grandininė reakcija;
+6.17. SARS-CoV – sunkų ūmų respiracinį susirgimą sukeliantis koronavirusas;
+6.18. SpO2 – pulsinė oksimetrija;
+6.19. ŪRDS – ūminis respiracinio distreso sindromas;
+6.20. Sąvokos „Įtariamas COVID-19 ligos (koronaviruso infekcijos) atvejis“ ir „Sąlytį turėjęs asmuo“ suprantamos taip, kaip nurodyta Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams;
+6.21. Kitos sąvokos suprantamos kaip kituose priežiūros paslaugų teikimą reglamentuojančiuose teisės aktuose.
+
+II SKYRIUS
+PASLAUGŲ TEIKIMAS ĮTARIAMAM COVID-19 LIGOS ATVEJUI
+
+7. Pacientas, kuriam įtariama COVID-19 liga, stacionarizuojamas SPĮ esančioje izoliacinėje palatoje, kurioje turi būti atskiras sanitarinis mazgas. Prieš palatą gali būti priešboksis, palatoje – neigiamas slėgis. Pacientui uždedama medicininė kaukė.
+8. Pacientas, kuriam įtariama COVID-19 liga, izoliacinėje palatoje stacionarizuojamas vienas. 
+9. Apžiūrėdamas pacientą, sveikatos priežiūros specialistas dėvi AAP, pacientas – medicininę kaukę. 
+10. Minimalus sveikatos priežiūros specialisto AAP sąrašas:
+10.1. FFP2 arba FFP3 respiratorius (su vožtuvais ar versija be vožtuvų);
+10.2. akiniai arba veido skydelis;
+10.3. vandeniui atsparus chalatas ilgomis rankovėmis; 
+10.4. pirštinės;
+11. AAP apsirengimo ir nusirengimo rekomendacijos pateiktos Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams. SPĮ vadovas organizuoja sveikatos priežiūros specialistų apmokymą tinkamai apsirengti ir nusirengti AAP.
+12. Teikiant paslaugas pacientams, kuriems įtariama ar patvirtinta COVID-19 liga, turi būti užtikrinami Lietuvos higienos normoje HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai”, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatyti infekcijų kontrolės reikalavimai ir Infekcijų kontrolės rekomendacijos, skirtos SPĮ, kurios skelbiamos Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.
+13. Jeigu laboratoriniais metodais nenustatomas COVID-19 ligos sukėlėjas ir nenustatomas kitos ligos sukėlėjas, pacientas, priklausomai nuo jo sveikatos būklės, gali būti išrašomas gydytis  ambulatoriškai vadovaujantis Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ar turėjusių sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklėmis, patvirtintomis Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ar turėjusių sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių patvirtinimo“ (toliau – Izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklės). Izoliavimas namuose ar kitoje gyvenamojoje vietoje šiam asmeniui taikomas 14 dienų nuo paskutinės sąlyčio su sergančiuoju COVID-19 liga dienos arba paskutinės keliavimo ar buvimo teritorijose, kur vyksta COVID-19 ligos vietinis plitimas ar plitimas visuomenėje, dienos. 
+
+III SKYRIUS
+COVID-19 LIGOS KLINIKINIAI SINDROMAI
+
+14. COVID-19 liga gali pasireikšti lengva, sunkia ir kritiškai sunkia ligos forma. 
+15. Dažniausiai pasireiškiantys simptomai yra karščiavimas (83 – 98 proc.), kosulys (46 – 82 proc.) ir dusulys (iki 31 proc.). Kiti COVID-19 ligai būdingi simptomai / sindromai yra raumenų skausmas, bendras silpnumas, sloga, gerklės skausmas, pneumonija, širdies ritmo sutrikimai, ūminis inkstų pažeidimas, ŪRDS, sepsis, septinis šokas. 
+16. Sunkios ligos formos rizikos veiksniai – vyresnis amžius (> 60 m.), lėtinės ligos (cukrinis diabetas, širdies ir kraujagyslių, kvėpavimo takų ir kt.).
+17. Pagal COVID-19 ligos simptomus ir paciento būklę skiriami klinikiniai sindromai pateikiami 1 lentelėje. 
+
+1. lentelė. COVID-19 ligos klinikiniai sindromai ir juos apibūdinantys požymiai. 
+
+Eil. Nr.
+Klinikinis sindromas
+COVID-19 ligos simptomai ir paciento būklę apibūdinantys požymiai
+1. 
+Lengva COVID-19 ligos forma
+Nespecifiniai simptomai – karščiavimas, kosulys, gerklės skausmas, nosies užburkimas, silpnumas, raumenų skausmas. Retais atvejais galimas pykinimas, vėmimas, viduriavimas. Vyresniems ir imunosupresiškiems pacientams simptomai gali būti atipiniai. 
+2. 
+Pneumonija
+Pneumonija, nesant sunkios pneumonijos požymių ir gydymo deguonimi poreikio.
+3. 
+Sunki pneumonija
+Karščiavimas arba yra įtariama kvėpavimo takų infekcija ir yra bent vienas iš šių požymių: kvėpavimo dažnis >30 k/min, apsunkintas kvėpavimas, arba nustatoma SpO2<93 proc. kvėpuojant oru.
+4. 
+ŪRDS
+Nauji simptomai ar būklės blogėjimas atsirandantys per 1 sav. nuo ligos pradžios.
+Krūtinės ląstos radiologiniuose tyrimuose (rentgenogramoje, KT tyrimo vaizde, plaučių ultragarsinio tyrimo vaizde) – abipusiai pritemimai, nepaaiškinama hipervolemija, skilčių ar viso plaučio atelektazės, židininiai infiltraciniai pokyčiai.
+Pakitimų plaučiuose sąlygotas kvėpavimo nepakankamumas, nepaaiškinamas širdies nepakankamumu ar hipervolemija. Rekomenduojamas echokardiografijos tyrimas, kad paneigti hidrostatinę edemos priežastį, jeigu jai nėra aiškaus rizikos veiksnio.
+ŪRDS klasifikacija pagal oksigenaciją:
+Lengvas: 200 mmHg < PaO2 / FiO2  ≤ 300 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O, arba netaikant ventiliacijos);
+Vidutinis: 100 mmHg < PaO2  / FiO2  ≤ 200 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O, arba netaikant ventiliacijos);
+Sunkus: PaO2 / FiO2 ≤ 100 mmHg (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O, arba netaikant ventiliacijos);
+Kai nėra PaO2 duomenų, SpO2 / FiO2 ≤ 315, rodo, kad gali būti ŪRDS (ir netaikant ventiliacijos).
+5. 
+Sepsis
+Gyvybei pavojinga organų disfunkcija, kurią sukelia neadekvati organizmo reakcija į įtariamą ar patvirtintą infekciją.
+Sunki infekcijos eiga  nustatoma remiantis qSOFA kriterijais (bent du iš trijų paminėtų): arterinė hipotenzija (sistolinis kraujospūdis ≤ 100 mmHg, sąmonės sutrikimas (pagal Glazgo komos skalę < 15 balų), tachipnėja (kvėpavimo dažnis ≥ 22 k/min.).
+Organų disfunkcijos (kraujotakos, kvėpavimo, inkstų, kepenų, kraujodaros, centrinės nervų sistemos) nustatomos remiantis SOFA (nuolatinio organų nepakankamumo vertinimo) skalės kriterijais. 
+Organų disfunkcijos požymiai: pakitusi sąmonės būklė, pasunkėjęs kvėpavimas, tachipnėja, žema deguonies saturacija, sumažėjęs šlapimo išsiskyrimas, tachikardija, silpnas pulsas, šaltos galūnės ar žemas kraujospūdis, odos marmuruotumas ar laboratorinių rodiklių pakyčiai: koagulopatija, trombocitopenija, acidozė, hiperlaktatemija arba hiperbilirubinemija.
+6.
+Septinis šokas
+Išliekanti hipotenzija, nepaisant infuzoterapija koreguotos hipovolemijos, vazopresorių poreikis, siekiant išlaikyti vidurinį kraujospūdį ≥65 mmHg ir  laktato koncentracija kraujyje > 2 mmol/l.
+
+IV SKYRIUS
+COVID-19 ligos DIAGNOSTIKOS TVARKA
+
+18. COVID-19 ligos diagnostikai taikomi tyrimo metodai pateikiami 2 lentelėje.
+
+2 lentelė. COVID-19 ligos diagnostikai taikomi tyrimai.
+
+Eil. Nr. 
+Reikalingi atlikti tyrimai
+Tyrimų atlikimo sąlygos
+1. 
+BKT
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos. Vertinama leukopenija / leukocitozė, limfopenija.
+2. 
+CRB
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+3. 
+Molekulinis SARS-CoV-2 viruso tyrimas 
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+Tiriamoji medžiaga – nosiaryklės sekretas arba skrepliai arba trachėjos aspiratas arba bronchoalveolinis lavažas.
+4.
+Elektrolitai, kreatininas, ALT, AST
+Atliekama gydytojo nuožiūra, vertinant būklės sunkumą ir kitų ligų įtaką bendrai būklei.
+5.
+Radiologiniai krūtinės ląstos tyrimai
+Krūtinės ląstos rentgenografinis tyrimas ir (ar) krūtinės ląstos KT tyrimas.
+6.
+Du kraujo pasėliai
+Įtariant bakterinę infekciją ar sepsį.
+7.
+Prokalcitoninas, laktatas, bilirubinas, koaguliograma
+Įtariant sepsį.
+8.
+Tyrimai diferencinei diagnostikai, kitoms infekcijoms nustatyti
+Pagal klinikines ir (ar) epidemiologines indikacijas:
+greitasis molekulinis gripo testas;
+kitų respiracinių virusų (gripo, respiracinio sincitinio viruso, paragripo, adenoviruso, metapneumoviruso ir kt.) daugybinis PGR testas;
+mikoplazmų ir (ar) chlamidijų serologiniai tyrimai;
+skreplių, trachėjos aspirato, BAL pasėliai;
+Legionella pneumophilla šlapimo antigeno testas.
+
+19. Atlikdamas COVID-19 ligos diagnostikai skirtus veiksmus sveikatos priežiūros specialistas naudoja Aprašo 10 punkte nurodytas AAP. 
+
+V SKYRIUS
+PACIENTO, KURIAM DIAGNOZUOTA COVID-19 LIGA, GYDYMO TVARKA
+
+20. Pacientas, kuriam diagnozuota COVID-19 liga gydomas SPĮ, nurodytuose Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 4 d įsakyme Nr. V-281 „Dėl  Sveikatos priežiūros paslaugų dėl koronaviruso (COVID-19) organizavimo tvarkos aprašo patvirtinimo“.
+21. Asmens sveikatos priežiūros paslaugas dėl COVID-19 ligos teikia komanda, susidedanti iš:
+21.1. infekcinių ligų gydytojo;
+21.2. bendrosios praktikos slaugytojo.
+22. Reanimacijos ir intensyviosios terapijos paslaugų suaugusiesiems teikimą organizuoja ir vykdo gydytojas anesteziologas reanimatologas.
+23. Prireikus (priklausomai nuo COVID-19 ligos formos, gretutinių paciento ligų ir kt.), pasitelkiami kitų profesinių kvalifikacijų gydytojai. 
+24. Esant lokaliam SARS-CoV-2 viruso plitimui visuomenėje, asmens sveikatos priežiūros paslaugoms dėl COVID-19 ligos teikti pasitelkiami kitų profesinių kvalifikacijų gydytojai, kurie pacientams teikia būtinąją medicinos pagalbą, taip pat atlieka simptominį gydymą, stebi paciento bendrą sveikatos būklę, prireikus priima sprendimus dėl reikalingų asmens sveikatos priežiūros paslaugų, atlieka kitas funkcijas, nustatytas atitinkamoje medicinos normoje. Infekcinių ligų gydytojas turi teisę instruktuoti ir metodiškai vadovauti kitų profesinių kvalifikacijų gydytojams. 
+25. Stacionarinis gydymas skiriamas visiems pacientams, kuriems diagnozuota COVID-19 liga, išskyrus Aprašo 26 punkte nurodytus atvejus.
+26. SARS-CoV-2 virusui pradėjus plisti visuomenėje, pacientas, kuriam diagnozuota lengva COVID-19 ligos forma, gali būti išleidžiamas gydytis ambulatoriškai, jeigu jis turi galimybę būti izoliuotas namuose ar kitose gyvenamose patalpose, taip, kaip nustatyta Izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklėmis. Pacientui suteikiama informacija kaip sekti sveikatos būklę ir kur kreiptis, jei sveikatos būklė pablogės. 
+27. Stacionarines asmens sveikatos priežiūros paslaugas teikiančioje SPĮ pacientas, kuriam diagnozuota  COVID-19 liga, gali būti gydomas kartu su kitais pacientais, kuriems diagnozuota ta pati liga, toje pačioje izoliacinėje palatoje su atskiru sanitariniu mazgu.
+28. Pacientui, kuriam diagnozuota COVID-19 liga, taikomi gydymo metodai nurodyti 3 lentelėje. 
+
+3 lentelė. COVID-19 ligos gydymo metodai.
+
+Eil. Nr. 
+Gydymo metodas
+Sekami paciento sveikatos būklės parametrai ir gydymo metodų taikymo sąlygos
+1. 
+Palaikomasis gydymas:
+
+1.1.
+Gyvybinių paciento rodiklių sekimas (dažnis - priklausomai nuo ligos sunkumo formos), bet ne rečiau kaip kas 4 val.
+Širdies susitraukimų dažnis
+Arterinis kraujo spaudimas
+Kvėpavimo dažnis
+Pulsinė oksimetrija (SpO2)
+Kūno temperatūra
+1.2.
+Deguonies terapija 
+Nedelsiant skiriama pacientams, kuriems pasireiškia sunki kvėpavimo takų infekcija su ŪRDS, hipoksemija ar šoku.
+Deguonies terapijos tikslas suaugusiems – 94-96 proc.
+1.3. 
+Skysčių skyrimas
+Užtikrinti skysčių, elektrolitų balansą.
+Intraveninę infuzoterapiją skirti atsargiai, siekiant išvengti skysčių pertekliaus organizme, galinčios pabloginti kvėpavimo funkciją, oksigenaciją ir sukelti plaučių edemą. 
+1.4. 
+Antipiretikai
+Esant indikacijų.
+1.5. 
+Stresinių opų profilaktika
+Esant indikacijų – protonų siurblių inhibitoriai arba histamino receptorių blokatoriai.
+1.6.
+Tromboembolijų profilaktika
+Esant indikacijų – mažos molekulinės masės heparinas.
+
+Kortikosteroidai
+Esant indikacijų (septinis šokas, lėtinės obstrukcinės plaučių ligos paūmėjimas ar kt.).
+2.
+Specifinis gydymas:
+
+2.1.
+Antivirusiniai medikamentai
+Šiuo metu specifinio COVID-19 ligos gydymo nėra.
+2.2.
+Lopinaviras ar ritonaviras 
+Chlorokvinas 
+Remdesiviras
+Alfa interferono inhaliacijos
+Inozino acedobeno domepranolis ir kt.
+Gali būti skiriami kaip eksperimentinis gydymas ir gydymas pagal neregistruotą indikaciją SPĮ gydytojų konsiliumo, į kurio sudėtį įeina gydytojas anesteziologas-reanimatologas, infekcinių ligų gydytojas, gydytojas pulmonologas ir prireikus kitų profesinių kvalifikacijų gydytojai, sprendimu, esant paciento ar jo atstovo raštiškam sutikimui ir SPĮ etikos komiteto leidimui.
+3.
+Antibiotikoterapija:
+
+3.1.
+Lengva COVID-19 ligos forma  arba
+pneumonija be sunkios pneumonijos požymių
+Vengti neracionalaus ir nepagrįsto antibiotikų skyrimo.
+3.2.
+Sunki pneumonija ir (ar) antrinės bakterinės pneumonijos (visuomenėje įgytos, hospitalinės) požymiai
+Antibiotikoterapija parenkama pagal numanomą sukėlėją ir jo jautrumą antibiotikams pagal SPĮ vadovo  patvirtintą antibakterinės terapijos protokolą ir (ar) suaugusiųjų pneumonijos diagnostikos ir gydymo gaires.
+3.3.
+Įtariama ar patvirtinta COVID-19 liga ir ŪRDS
+Įtariama ar patvirtinta COVID-19 liga ir sepsis, septinis šokas
+Empirinė antibiotikoterapija pradedama per 1 val. 
+
+4.
+Patvirtinta ar tikėtina gripo infekcija
+Oseltamiviras
+5.
+Kritinių būklių valdymas:
+
+5.1.
+Sepsis, septinis šokas
+Gydymas pagal SPĮ patvirtintą protokolą.
+5.2.
+ŪRDS
+Gydymas pagal SPĮ patvirtintą protokolą.
+
+29. Nėščiosios, kuriai diagnozuota COVID-19 liga, gimdymo būdas parenkamas individualiai. Maitindama kūdikį gimdyvė turi naudoti AAP.
+30. Pacientas gydomas SPĮ Reanimacijos ir intensyviosios terapijos padalinyje, kai:
+30.1. hipoksemija, SpO2 < 93 proc. (be deguonies terapijos);
+30.2. hipoksemijos koregavimui reikalinga deguonies terapija (≥ 4 l/min);
+30.3. pacientui reikalingas gydymas dirbtine plaučių ventiliacija;
+30.4. išsivysto šokas (ūminis kraujotakos nepakankamumas);
+30.5. išsivysto ūminis inkstų pažeidimas;
+30.6. atsiranda kitų organų sistemų funkcijos sutrikimai.
+30.7. pacientas priklauso didelės rizikos grupei (amžius > 60 metų, yra sunki lėtinė plaučių ar širdies liga, serga cukriniu diabetu, gydomu insulinu, imunodeficito būklė). 
+31. Reanimacijos ir intensyviosios terapijos padalinyje turi būti šios medicinos priemonės (prietaisai):
+31.1. trachėjos intubacijos rinkinys;
+31.2. centrinės venos kateterizavimo rinkinys.
+32. Reanimacijos ir intensyviosios terapijos padalinyje taikomos priemonės kvėpavimo funkcijoms užtikrinti:
+32.1. deguonies terapija per nosines kaniules ar nesandarią kaukę;
+32.2. invazinė dirbtinė plaučių ventiliacija (per endotrachėjinį vamzdelį);
+32.3. ekstrakorporinė membraninė oksigenacija (ECMO) (jei yra galimybė).
+33. Dėl rizikos į aplinką pasklisti infekuotam aerozoliui nerekomenduojama naudoti arba galima naudoti ribotą laiką (jei tai būtina ar nėra tinkamesnių metodų):
+33.1. didelės tėkmės deguonies kaniulių (HFNC);
+33.2. medikamentų inhaliavimo per nebulizerį;
+33.3. neinvazinės ventiliacijos per sandarią kaukę (CPAP / BiPAP);
+33.4. bronchoskopijos, virškinimo trakto endoskopijos.
+34. Ūminiam plaučio pažeidimui, ŪRDS gydyti naudojama:
+34.1. skysčių infuzijos į veną ribojanti taktika, išvengiant hipervolemijos ir kardiogeninės plaučių edemos;
+34.2. empirinis antibiotikų skyrimas, įtarus ar patvirtinus bakterinę infekciją;
+34.3. plaučius tausojančios ventiliacijos metodika;
+34.4. neuroraumeninė blokada raumenų relaksantais;
+34.5. sedacija medikamentais;
+34.6. alveolių atvėrimo metodikos;
+34.7. kūno padėties keitimas (guldant ant pilvo);
+34.8. ekstrakorporinė memebraninė oksigenacija (ECMO);
+34.9. steroidai gali būti skirti sepsinį šoką gydant vazopresoriaus infuzija, sunkaus ŪRDS atveju.
+35. Reikalavimai endotrachėjinei intubacijai:
+35.1. iš anksto numatytos indikacijos invazinei dirbtinei plaučių ventiliacijai, nedelsti sunkėjant hipoksemijai;
+35.2. adekvati sedacija ir preoksigenacija prieš laringoskopiją (mažinti ventiliacijos „maišas-kaukė” poreikį);
+35.3. videolaringoskopija su atskiru ekranu (didesnis atstumas iki paciento kvėpavimo takų);
+35.4. sudėtingiems kvėpavimo takams valdyti skirtas rinkinys; jei nustatomi sudėtingi kvėpavimo takai, intubaciją atlikti videobronchoskopu;
+35.5. kapnometrija endotrachėjinio vamzdelio tinkamai padėčiai patvirtinti (alternatyva – ultragarsinė metodika).
+36. Dirbtinės plaučių ventiliacijos reikalavimai:
+36.1. šilumą ir drėgmę sulaikantys (HME) filtrai įkvėpimo ir iškvėpimo kontūre bei jungtyje tarp kontūro ir intubacinio vamzdelio;
+36.2. uždaros sistemos sekretui išsiurbti per vamzdelį; jei nebūtina, neatlikti sekreto iš kvėpavimo takų išsiurbimo, naudojant atvirą sekretui išsiurbti metodiką, atjungiant ventiliacijos kontūrą nuo intubacinio vamzdelio;
+36.3. slėgis intubacinio vamzdelio balionėlyje < 25-30 cmH2O;
+36.4. plaučius tausojančios ventiliacijos metodika (parenkant optimalius įpūtimo tūrius, išvengiant didelių įpūtimo slėgių (maksimalaus, plato, varomojo), optimalus PEEP, vengti hiperoksijos);
+36.5. automatinės ventiliacijos metodika (jei yra galimybė), prietaisui adaptuojant ventiliacijos nustatymus, siekiant pacientui optimalių oksigenacijos ir ventiliacijos tikslų;
+36.6. pacientui atjungti nuo ventiliatoriaus geriau naudoti slėgio padedančios ventiliacijos (PSV) metodiką, o ne T tipo sistemą.
+37. Atliekant COVID-19 ligos gydymui skirtus veiksmus sveikatos priežiūros specialistas naudoja Aprašo 10 punkte nurodytas AAP.
+
+VI SKYRIUS
+KRITERIJAI, KURIUOS ATITINKANTIS PACIENTAS LAIKOMAS PASVEIKUSIU
+
+38. Jei pacientas nekarščiuoja  72 val., hemodinamiškai stabilus, gali tęsti gydymą antibiotikais per os (jeigu reikia), stebima teigiama pakitimų, nustatomų rentgenologiniu tyrimu, dinamika (jeigu yra indikacija kartoti), nėra lėtinių ligų paūmėjimo ir galima paciento izoliacija namuose laikantis Izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių, pacientas gali būti išrašytas gydytis ambulatoriškai. 
+39. Pacientas laikomas pasveikusiu, kai du kartus iš eilės su 24 val. intervalu iš paciento nosiaryklės paimtuose tepinėliuose nerandama SARS-CoV-2 viruso (tiriant PGR metodu). Tepinėliai turi būti imami ne anksčiau kaip praėjus 7 dienoms nuo pirmojo teigiamo tepinėlio ir (ar) ligos simptomų pradžios arba ne anksčiau kaip po 3 dienų pasibaigus karščiavimui (nenaudojant antipiretikų). Asmeniui, kuris atitinka šio punkto sąlygas, dar taikomas izoliavimas namuose 14 dienų. 
+
+VII SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+40. Pranešimas apie įtariamą ir (ar) nustatytą COVID-19 ligos atvejį teikiamas Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gruodžio 24 d. įsakymu Nr. 673 „Dėl Privalomojo epidemiologinio registravimo objektų registravimo ir informacijos apie juos teikimo tvarkos aprašo patvirtinimo“ nustatyta tvarka.
+41. Pacientams maistas tiekiamas vienkartiniuose induose, jei yra galimybė, perduodamas ligoniams per atskirą įstiklintą lentyną, esančią tarp priešboksio ir palatos.
+42. Vienkartiniai indai su maisto likučiais išmetami į infekuotas atliekas, kurios turi būti tvarkomos, tvarkomi ASPĮ vadovo nustatyta tvarka pagal Lietuvos higienos normoje HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2013  m. liepos 18 d. įsakymu Nr. V-706 „Dėl Lietuvos higienos normos HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“ patvirtinimo“, nustatytus medicininių atliekų tvarkymo reikalavimus.
+43. Paslaugos  pagal Aprašą SPĮ teikiamos vadovaujantis SPĮ vadovo patvirtintais protokolais ir SPĮ vadovo  nustatyta tvarka.
+________________ 

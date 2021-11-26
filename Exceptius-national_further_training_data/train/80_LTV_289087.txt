@@ -1,0 +1,3123 @@
+Tiesibu akts: 
+	    		speka esošs
+	    	Attelota redakcija: 12.02.2021. - ... / Speka esoša
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    Ministru kabineta noteikumi Nr. 108Riga 2017. gada 28. februari (prot. Nr. 10 25. §)
+Publisko elektronisko iepirkumu noteikumi
+Izdoti saskana ar Publisko iepirkumu likuma 9. pantadivdesmit otras dalas 1., 2. un 3. punktu, 17. panta divpadsmito dalu,39. panta trešo dalu un 42. panta trispadsmito dalu, Aizsardzibas undrošibas jomas iepirkumu likuma 44. panta trispadsmito dalu,Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 44. pantatrešo dalu un 48. panta cetrpadsmito dalu un Publiskas un privataspartneribas likuma 19. panta trešo dalu un 37. panta trispadsmito dalu(MK 03.04.2018. noteikumu Nr. 201 redakcija)  
+1. Visparigie jautajumi
+1. Noteikumi nosaka:1.1. informacijas sistemu, kura saskana ar Publisko iepirkumu likuma 9. panta devitas dalas 1. punktu, 42. panta devito un 9.1 dalu, Aizsardzibas un drošibas jomas iepirkumu likuma 44. panta sesto dalu, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. panta trispadsmito dalu un Publiskas un privatas partneribas likuma 37. panta trispadsmito dalu iegustama informacija, lai parbauditu, vai pretendents nav izsledzams no dalibas iepirkuma vai koncesijas procedura un vai kandidats vai pretendents nav izsledzams no dalibas iepirkuma procedura;1.2. Publisko iepirkumu likuma 9. panta devitas dalas 1. punkta, 42. panta devitas dalas 1. punkta, Aizsardzibas un drošibas jomas iepirkumu likuma 44. panta sestas dalas 1. punkta, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. panta trispadsmitas dalas 1. punkta un Publiskas un privatas partneribas likuma 37. panta devitas dalas 1. punkta parbaudamas informacijas apstrades merki un apjomu;1.3. tos normativos aktus un to pantus, kuri atbilst Publisko iepirkumu likuma 42. panta pirmaja dala, Aizsardzibas un drošibas jomas iepirkumu likuma 44. panta pirmaja dala, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. panta pirmaja dala, ka ari Publiskas un privatas partneribas likuma 37. panta pirmaja dala noteiktajiem kandidatu un pretendentu izslegšanas gadijumiem un par kuros paredzetajiem parkapumiem un noziedzigajiem nodarijumiem veicama parbaude šo noteikumu 2.7. apakšpunkta minetaja sistema;1.4. kartibu, kada šo noteikumu 2.7. apakšpunkta mineta sistema sanem un apstrada informaciju no šo noteikumu 15. punkta mineto iestažu uzturetajam informacijas sistemam (registriem), ka ari sistemas uzturešanas un izmantošanas kartibu;1.5. centralizeti ieperkamo precu un pakalpojumu grupas un centralizeto iepirkumu institucijas (1. pielikums), ka ari to sniegto pakalpojumu izmantošanas nosacijumus;1.6. prasibas un standartus sistemam, kas tiek izmantotas piedavajumu un pieteikumu iesniegšanai.2
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; MK 12.06.2018. noteikumiem Nr. 335)
+2. Noteikumos lietoti šadi termini:2.1. e-iepirkumu sistema – Valsts regionalas attistibas agenturas (turpmak – agentura) parzina esoša valsts informacijas sistema timeklvietne www.eis.gov.lv, kas sastav no e-izzinu, e-pasutijumu, e-konkursu un e-izsolu apakšsistemam;2.2. e-iepirkumu sistemas dalibnieks – e-iepirkumu sistema registrets pasutitajs, sabiedrisko pakalpojumu sniedzejs vai piegadatajs, kuram ir administrators, e-iepirkumu sistemas apakšsistemu lietotaji un registreti identifikacijas riki;2.3. administrators – e-iepirkumu sistemas dalibnieka darbinieks, kas pilnvarots e-iepirkumu sistemas dalibnieka varda rikoties e-iepirkumu sistema, izveidot un aktivizet e-iepirkumu sistemas apakšsistemu lietotajus, ka ari veikt citas e-iepirkumu sistemas piekluves vietu lietošanas noteikumos paredzetas darbibas;2.4. apakšsistemas lietotajs – e-iepirkumu sistemas dalibnieka darbinieks, kas pilnvarots e-iepirkumu sistemas dalibnieka varda rikoties attiecigaja e-iepirkumu sistemas apakšsistema;2.5. piekluves vieta – timekli uztureta saskarne, kas nodrošina piekluvi e-iepirkumu sistemas apakšsistemu funkcionalitatei;2.6. piekluves vietas lietošanas noteikumi – agenturas ka e-iepirkumu sistemas uzturetaja izstradati sistemas lietošanas noteikumi;2.7. e-izzinu apakšsistema – e-iepirkumu sistemas apakšsistema, kura, izmantojot valsts informaciju sistemu savietotaju, tiek apkopotas zinas no registriem;2.8. e-izzina – elektroniska izzina, kura elektroniska veida apkopota registros pieejama informacija, lai parbauditu kandidata vai pretendenta atbilstibu prasibam, kas minetas Publisko iepirkumu likuma 9. panta astotas dalas 1., 2., 4. un 5. punkta, 42. panta pirmas dalas 1., 2., 3., 6., 7., 12., 13. un 14. punkta un otras dalas 2. punkta, Aizsardzibas un drošibas jomas iepirkumu likuma 44. panta pirmas dalas 1., 4., 5., 6. un 7. punkta, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. panta pirmas dalas 1., 2., 3., 6. un 7. punkta un otras dalas 2. punkta, ka ari Publiskas un privatas partneribas likuma 37. panta pirmas dalas 1., 2., 3., 5. un 6. punkta un otras dalas 2. punkta;2.9. registrs – informacijas sistema, kura apstradato informaciju izmanto e-izzinu sagatavošanai atbilstoši Publisko iepirkumu likuma, Aizsardzibas un drošibas jomas iepirkumu likuma, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma un Publiskas un privatas partneribas likuma noteiktajam merkim;2.10. e-izzinas pieprasitajs – pasutitajs, sabiedrisko pakalpojumu sniedzejs, publiskais partneris vai publiska partnera parstavis, kas iepirkuma, iepirkuma proceduras vai koncesijas proceduras ietvaros iegust informaciju par kandidatiem vai pretendentiem, vai piegadatajs, kas iegust informaciju par sevi;2.11. e-izzinu apakšsistemas lietotajs – e-iepirkumu sistemas dalibnieka darbinieks, kurš e-izzinas pieprasitaja varda pieprasa un sanem e-izzinas;2.12. e-izzinu sanemšanas infrastruktura – šo noteikumu 2.7. apakšpunkta noraditaja apakšsistema un 10. punkta minetaja piekluves vieta izmantoto tehnologisko risinajumu kopums, kas nodrošina e-izzinu sanemšanu;2.13. parbaudama persona – persona, par kuru ir pieprasitas zinas no registriem;2.14. e-pasutijumu apakšsistema – e-iepirkumu sistemas apakšsistema, kas pasutitajiem un sabiedrisko pakalpojumu sniedzejiem nodrošina centralizetu elektronisku e-pasutijumu apakšsistema piedavato precu un pakalpojumu iegadi;2.15. precu vai pakalpojumu grupa – šo noteikumu 1. pielikuma noradita saraksta precu un pakalpojumu grupas vai apakšgrupas ietilpstošu precu vai pakalpojumu kopa, kas izvietota e-pasutijumu apakšsistema;2.16. e-iepirkumu process – darbibu kopums, kuru rezultata pasutitajs vai sabiedrisko pakalpojumu sniedzejs un piegadatajs, izmantojot e-pasutijumu apakšsistemu, var noslegt publisku piegades vai pakalpojuma darijumu;2.17. e-pasutijumu apakšsistemas lietotajs – e-iepirkumu sistemas dalibnieka darbinieks, kurš parstav pasutitaju, sabiedrisko pakalpojumu sniedzeju vai piegadataju e-iepirkumu procesa ietvaros un pasutitaja vai sabiedrisko pakalpojumu sniedzeja varda veido un apstiprina vai piegadataja varda apstiprina e-pasutijumu apakšsistema ieklauto precu vai pakalpojumu pirkuma pieprasijumus, pasutitaja vai sabiedrisko pakalpojumu sniedzeja varda pienem preces vai pakalpojumus un veic darbibas, ko atlauj visparigas vienošanas vai dinamiskas iepirkumu sistemas nosacijumi, veidojot datubaze saistošus ierakstus par precu vai pakalpojumu pasutijuma statusu, precu piegadem un kvalitati, ka ari veic citas e-pasutijumu sistemas lietošanas noteikumos paredzetas darbibas;2.18. nozares eksperts – publiskas personas norikota persona, kurai ir pieškirtas tiesibas stradat e-pasutijumu apakšsistema un parraudzit sistema veiktos darijumus attiecigas publiskas personas kompetence ietilpstošas precu vai pakalpojumu grupas;2.19. e-konkursu apakšsistema – e-iepirkumu sistemas apakšsistema, kas pasutitajiem, sabiedrisko pakalpojumu sniedzejiem un publiskajiem partneriem nodrošina iepirkumu, metu konkursu un iepirkuma vai koncesijas proceduru rikošanu, pieteikumus, metus un piedavajumus iesniedzot elektroniski;2.20. iepirkumu uzraugs – persona, kurai ir pieškirtas tiesibas stradat e-konkursu apakšsistema un pieklut iepirkumu un iepirkuma proceduru dokumentacijai, ka ari iesniegtajiem pieteikumiem un piedavajumiem un kuru norikojusi publiska persona, kam likuma noteiktas tiesibas tieši pieklut informacijas sistemas esošiem datiem un iepirkuma proceduram.3
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; MK 12.06.2018. noteikumiem Nr. 335; MK 16.07.2019. noteikumiem Nr. 351)
+3. Agentura, istenojot e-iepirkumu sistemas parzina un turetaja funkcijas:3.1. uztur e-iepirkumu sistemu ar tas apakšsistemam;3.2. registre pasutitajus, sabiedrisko pakalpojumu sniedzejus, publiskos partnerus, nozares ekspertus, iepirkumu uzraugus un piegadatajus e-iepirkumu sistema;3.3. nodrošina atbalstu e-iepirkumu sistemas dalibniekiem;3.4. nodrošina apmacibas e-pasutijumu apakšsistemas lietotajiem un interaktivu apmacibu risinajumu e-konkursu apakšsistemas lietotajiem;3.5. nodrošina e-iepirkumu sistemas (iznemot registru) un tai nepieciešamo informacijas un tehnisko resursu uzturešanu un drošibas parvaldibu, ieverojot normativos aktus par valsts informacijas sistemam un tam noteiktajam visparejam tehniskas, funkcionalitates un drošibas prasibam;3.6. nodrošina piekluves vietu lietošanas noteikumu izstradi un publicešanu attiecigas piekluves vietas timeklvietne;3.7. nodrošina piekluves vietu lietošanas noteikumos veikto grozijumu publicešanu attiecigas piekluves vietas timeklvietne 10 darbdienas pirms to speka stašanas;3.8. nodrošina pasutitaju un sabiedrisko pakalpojumu sniedzeju iepirkumu planu publicešanas iespejas e-konkursu apakšsistema;3.9. nodrošina precu piegades un pakalpojumu sniegšanas darijumu tiesisko pamatu e-pasutijumu apakšsistema e-iepirkumu sistema registretiem pasutitajiem un sabiedrisko pakalpojumu sniedzejiem, veidojot dinamiskas iepirkumu sistemas vai sledzot visparigas vienošanas ar piegadatajiem, kas agenturas ka centralizeto iepirkumu institucijas rikotas centralizetas iepirkuma proceduras ietvaros ir ieguvuši tiesibas piedalities e-iepirkumu procesa ka precu piegadataji un pakalpojumu sniedzeji e-pasutijumu apakšsistema;3.10. apkopo un publice timeklvietne www.eis.gov.lv un Latvijas atverto datu portala https://data.gov.lv detalizetu informaciju par e-pasutijumu apakšsistema veiktajiem darijumiem, noradot vismaz darijuma pasutitaju, piegadataju un darijuma apjomu un priekšmetu;3.11. informe pasutitajus un sabiedrisko pakalpojumu sniedzejus par tirgu esošo piegadataju piedavatajam precem un pakalpojumiem (ja piegadataji šadas zinas agenturai ir snieguši), apkopo informaciju par e-pasutijumu apakšsistema nepieciešamajam precem un pakalpojumiem un, izvertejot nepieciešamibu, agenturas rikoto kartejo centralizeto iepirkumu proceduru tehniskajas specifikacijas ieklauj prasibas precem un pakalpojumiem, kas ietilpst šo noteikumu 1. pielikuma minetaja precu un pakalpojumu grupu saraksta, ja ir pieejama informacija, ka pieprasita prece vai pakalpojums jau tiek izmantots publiskaja parvalde vai pieprasijums par konkreto preci vai pakalpojumu sanemts no vismaz divam publiskajam personam;3.12. konsulte un atbalsta to precu vai pakalpojumu iegadi, kas uz agenturas ka centralizeto iepirkumu institucijas rikoto centralizeto iepirkuma proceduru pamata ieklauti šo noteikumu 1. pielikuma minetaja precu un pakalpojumu grupu saraksta, ka ari uzrauga precu vai pakalpojumu iegades procesu agenturas slegto visparigo vienošanos ietvaros;3.13. sniedz tehnisko atbalstu precu un pakalpojumu izvietošanai e-pasutijumu apakšsistema tam centralizeto iepirkumu institucijam, kuras, ieverojot agenturas e-pasutijumu sistemai izstradatas tehniskas specifikacijas veidnes, darijumu noteikumus un e-pasutijumu sistemas darbibas principus, veikušas iepirkuma proceduras, lai nodrošinatu šo noteikumu 1. pielikuma minetaja saraksta attiecigajam centralizeto iepirkumu institucijam noteikto precu un pakalpojumu pieejamibu e-pasutijumu apakšsistema;3.14. izverte un sniedz atzinumu par privatpersonas pieteikumu un piedavajumu iesniegšanas tiešsaistes sistemas atbilstibu šo noteikumu 5. nodala minetajam drošibas un tehniskajam prasibam;3.15. izlases kartiba veic atbilstibas un kvalitates parbaudes precem un pakalpojumiem, kas agenturas noslegto visparigo vienošanos ietvaros piedavati e-pasutijumu apakšsistema vai piegadati e-pasutijumu apakšsistema slegtajos darijumos, un privato tiesibu joma piemero piegadatajiem visparigo vienošanos ietvaros paredzetos ierobežojumus vai soda sankcijas par visparigas vienošanas noteikumu parkapumiem.4
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; MK 16.07.2019. noteikumiem Nr. 351; MK 30.06.2020. noteikumiem Nr. 429)
+2. Pasutitaju, sabiedrisko pakalpojumu sniedzeju un piegadataju registracija e-iepirkumu sistema, piekluve e-iepirkumu sistemai un e-iepirkumu sistemas dalibnieka tiesibas un pienakumi
+4. E-iepirkumu sistema registre un e-iepirkumu sistemas apakšsistemu lietošanas tiesibas noteikta apjoma pieškir:4.1. šadiem pasutitajiem:4.1.1. personai, kurai saskana ar Publisko iepirkumu likumu, Aizsardzibas un drošibas jomas iepirkumu likumu vai normativo aktu, kas atbilst Eiropas Savienibas tiesibam publisko iepirkumu joma, ir pasutitaja statuss, lai iegutu e-izzinas, iegadatos e-pasutijumu apakšsistema pieejamas preces vai pakalpojumus, rikotu elektroniskas iepirkuma proceduras vai izsoles;4.1.2. personai, kurai saskana ar Sabiedrisko pakalpojumu sniedzeju iepirkumu likumu vai normativo aktu, kas atbilst Eiropas Savienibas tiesibam publisko iepirkumu joma, ir sabiedrisko pakalpojumu sniedzeja statuss, lai iegutu e-izzinas, pec savas izveles iegadatos e-pasutijumu apakšsistema pieejamas preces vai pakalpojumus vai rikotu elektroniskas iepirkuma proceduras vai izsoles;4.1.3. personai, kura Publisko iepirkumu likuma 6. panta pirmaja dala noteiktaja gadijuma finansejuma sanemeja statusa veic iepirkuma proceduru, konkretas iepirkuma proceduras vajadzibam, lai iegutu e-izzinas vai pec savas izveles iegadatos e-pasutijumu apakšsistema pieejamas preces vai pakalpojumus vai rikotu elektroniskus iepirkumus, elektroniskas iepirkuma proceduras vai izsoles;4.1.4. personai, kura Publisko iepirkumu likuma 7. panta pirmaja dala noteiktaja gadijuma finansejuma sanemeja statusa veic iepirkuma proceduru, konkretas iepirkuma proceduras vajadzibam, lai pec savas izveles iegadatos e-pasutijumu apakšsistema pieejamas preces vai pakalpojumus vai rikotu elektroniskus iepirkumus, elektroniskas iepirkuma proceduras vai izsoles;4.1.5. personai, kurai saskana ar Publiskas un privatas partneribas likumu ir publiska partnera vai, ja publiskais partneris sistema nav registrejams, publiska partnera parstavja statuss, lai iegutu e-izzinas un rikotu elektroniskas koncesijas proceduras;4.1.6. arstniecibas iestažu registra registretam arstniecibas iestadem, lai Covid-19 infekcijas izplatibas parvaldibas likuma noteiktaja gadijuma iegadatos e-pasutijumu apakšsistema pieejamas preces;4.2. piegadatajam, lai tas iegutu e-izzinu par sevi, pieklutu elektroniski izsludinatajam iepirkuma vai koncesijas proceduram (tai skaita agenturas un citu centralizeto iepirkumu instituciju rikotajam centralizetajam iepirkuma proceduram precu vai pakalpojumu piedavašanai e-pasutijumu apakšsistema), iepirkumiem, metu konkursiem vai izsolem;4.3. nozares ekspertiem, lai kontroletu to kompetence esošo iepirkumu procesu, iegustot zinas par precem un pakalpojumiem, kas iegadatas ar e-pasutijumu apakšsistemas palidzibu šo noteikumu 1. pielikuma minetajas precu un pakalpojumu grupas, ka ari lai pieklutu e-pasutijumu sistema veikto darijumu statistikai;4.4. iepirkumu uzraugiem, lai apskates režima pieklutu e-konkursu apakšsistema rikotiem iepirkumiem un iepirkuma proceduram, ka ari iesniegtajiem pieteikumiem un piedavajumiem.5
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; MK 16.07.2019. noteikumiem Nr. 351; MK 04.02.2021. noteikumiem Nr. 80)
+5. Lai izmantotu e-iepirkumu sistemas apakšsistemas, šo noteikumu 4. punkta minetas personas klust par e-iepirkumu sistemas dalibniekiem un uztur aktivus dalibniekam nepieciešamo apakšsistemu lietotajus.6
+            
+              
+              
+            
+          
+6. Lai iegutu e-iepirkumu sistemas dalibnieka statusu:6.1. šo noteikumu 4.1. un 4.2. apakšpunkta minetas personas agentura iesniedz e-iepirkumu sistemas dalibnieka registracijas pieteikumu un sakotneja administratora pilnvarojumu (2. pielikums), ka ari e-iepirkumu sistemas dalibnieka sakotneja pilnvarota administratora apliecinajumu (3. pielikums) vai, ja šo noteikumu 4.2. apakšpunkta minetas personas parstavim pieejami Valsts informacijas sistemu savietotaja vienotas piekluves risinajuma atbalstiti identifikacijas lidzekli, veic dalibnieka pašregistraciju tiešsaiste e-iepirkumu sistemas vietne;6.2. par šo noteikumu 4.3. apakšpunkta mineto personu publiska persona iesniedz e-iepirkumu sistemas nozares eksperta pieteikumu (4. pielikums) un e-iepirkumu sistemas nozares eksperta apliecinajumu (4.1 pielikums);6.3. par šo noteikumu 4.4. apakšpunkta mineto personu publiska persona iesniedz e-iepirkumu sistemas iepirkumu uzrauga pieteikumu (4.2 pielikums) un iepirkumu uzrauga apliecinajumu (4.3 pielikums).7
+            
+              
+              
+            
+          (MK 16.07.2019. noteikumu Nr. 351 redakcija)
+7. Agentura triju darbdienu laika no šo noteikumu 6. punkta mineto dokumentu sanemšanas izskata tos un registre e-iepirkumu sistemas dalibnieku e-iepirkumu sistema, ka ari pieškir administratoram tiesibas lietot e-iepirkumu sistemu ar nepieciešamajam apakšsistemam un izsniedz sakotnejas pieejas rekvizitus.8
+            
+              
+              
+            
+          
+8. Ja e-iepirkumu sistemas dalibniekam nav administratora vai administrators ir zaudejis tiesibas izmantot e-iepirkumu sistemu un tas apakšsistemas, e-iepirkumu sistemas dalibnieks par to rakstveida informe agenturu, vienlaikus iesniedzot šo noteikumu 6.1. apakšpunkta mineto sakotneja pilnvarota administratora apliecinajumu.9
+            
+              
+              
+            
+          (Grozits ar MK 03.04.2018. noteikumiem Nr. 201)
+9. Ja e-iepirkumu sistemas dalibnieks tiek likvidets vai reorganizets, pats dalibnieks, ta tiesibu un saistibu parnemejs vai augstaka iestade nekavejoties par to rakstveida informe agenturu. Agentura triju darbdienu laika izsledz e-iepirkumu sistemas dalibnieku no e-iepirkumu sistemas.10
+            
+              
+              
+            
+          
+10. E-iepirkumu sistema un tas apakšsistemas ir pieejamas timeklvietne https://www.eis.gov.lv (e-izzinu apakšsistemai papildus ir iespejams pieklut, izmantojot Vienotas pašvaldibu sistemas vienotas darba vietas piekluves vietu timeklvietne http://visvaris.lv).11
+            
+              
+              
+            
+          
+11. Lai pieklutu e-iepirkumu sistemas apakšsistemam, e-iepirkumu sistemas dalibnieka lietotajs elektroniski identificejas izveletaja e-iepirkumu sistemas piekluves vieta, kura atbilstoši identifikacijas datiem attelo informacijas laukus par e-iepirkumu sistemas dalibnieku un e-iepirkumu sistemas lietotaju.12
+            
+              
+              
+            
+          
+12. E-iepirkumu sistemas dalibnieks:12.1. atbild par ta administratora un e-iepirkumu sistemas apakšsistemu lietotaju darbibam sistema;12.2. informe administratoru un e-iepirkumu sistemas apakšsistemu lietotajus par fizisko personu datu apstradi un datu apstrades merki un iepazistina e-iepirkumu sistemas apakšsistemu lietotajus ar sistemas lietošanas noteikumiem (pieejami timeklvietne www.eis.gov.lv);12.3. nodrošina, ka administrators un ta izveidotie e-iepirkumu sistemas apakšsistemu lietotaji rakstveida apnemas saglabat un nelikumigi neizpaust personas datus;12.4. nodrošina, ka e-iepirkumu sistemas piekluves vietas izmanto tikai dalibnieka pilnvaroti lietotaji, kuri rakstveida apnemušies glabat un nelikumigi neizpaust e-iepirkumu sistemas lietošanas procesa sanemtos personas datus;12.5. attiecigas informacijas sistemas piekluves vietas lietošanas noteikumos noteiktaja kartiba zino agenturai, ja rodas aizdomas, ka lietotaju identifikacijas dati kluvuši zinami trešajam personam.13
+            
+              
+              
+            
+          
+13. Agentura bloke e-iepirkumu sistemas lietotaja piekluves tiesibas e-iepirkumu sistemai, ja:13.1. lietotajs ir parkapis šo noteikumu vai piekluves vietu lietošanas noteikumu prasibas;13.2. lietotajs ir radijis drošibas apdraudejumu e-iepirkumu sistemai vai kadai no tas apakšsistemam;13.3. lietotaja identifikacijas dati kluvuši zinami trešajam personam.14
+            
+              
+              
+            
+          
+3. Informacijas iegušana e-izzinu apakšsistema kandidatu un pretendentu parbaudei
+3.1. E-izzinu pieejamibas nosacijumi e-izzinu apakšsistema
+14. Informacijas iegušanai, lai parbauditu, vai kandidats vai pretendents nav izsledzams no dalibas iepirkuma procedura, ka ari vai pretendents nav izsledzams no dalibas iepirkuma vai koncesijas procedura, e-izzinas pieprasitajs izmanto e-izzinu apakšsistemu, kas nodrošina registru sniegto datu apkopošanu un nodošanu e-izzinu pieprasitajiem.15
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262)
+15. E-izzinu sagatavošanai nepieciešamo informaciju e-izzinu apakšsistema sniedz šadu registru parzini, kuri uztur attiecigo registru informacijas un tehnisko resursu funkcionalitati un nodrošina informacijas apriti:15.1. Iekšlietu ministrijas Informacijas centrs (Sodu registrs);15.2. Uznemumu registrs (Uznemumu registra informacijas sistema);15.3. Valsts ienemumu dienests (Nodoklu (nodevu) paradnieku datubaze);15.4. Latvijas Republikas pašvaldibas (Nekustamo ipašumu nodoklu administrešanas sistema).16
+            
+              
+              
+            
+          
+16. Registra parzinis:16.1. sniedz attiecigaja registra esošas zinas atbilstoši pieprasijumam un nodrošina sniegtas informacijas pareizibu;16.2. nodrošina registra informacijas un tehniskos resursus, kuri nepieciešami integracijai ar e-izzinu sistemu un e-izzinu iegušanas procesam.17
+            
+              
+              
+            
+          
+17. E-izzinu iegušanas procesa:17.1. e-izzinas pieprasitajs, e-izzinu sanemšanai izmantojot piekluves vietas, ir tiesigs šo noteikumu 26. un 27. punkta minetaja apjoma pieklut registros esošajam zinam, nesledzot vienošanos ar registru parziniem;17.2. registru parzini un agentura sadarbojas saskana ar šiem noteikumiem, nesledzot savstarpeju vienošanos.18
+            
+              
+              
+            
+          
+3.2. E-izzinu apakšsistemas izmantošana
+18. Ja e-izzinas pieprasitajs ir pasutitajs, sabiedrisko pakalpojumu sniedzejs vai publiskais partneris, lai sanemtu e-izzinu, e-izzinas pieprasitaja lietotajs, kas veicis elektronisko identifikaciju izveletaja e-izzinu sistemas piekluves vieta, veic šadas darbibas:18.1. izveloties e-izzinas pieprasišanas riku, aizpilda informacijas laukus par iepirkumu vai iepirkuma vai koncesijas proceduru, kuras ietvaros tiek pieprasita e-izzina, noradot šadu informaciju:18.1.1. iepirkuma identifikacijas numurs;18.1.2. tiesibu akts un konkreta tiesibu akta norma, uz kuras pamata tiek veikta parbaude;18.2. norada vienu vai vairakus registrus, kuros veicama parbaude, ka ari izvelas parbaudei smagos profesionalas darbibas parkapumus, kuri ka izslegšanas iemesls bija noraditi pazinojuma par ligumu vai koncesiju vai iepirkuma vai koncesijas proceduras dokumentos;18.3. atlasa attieciga iepirkuma vai iepirkuma vai koncesijas proceduras pretendentus, kandidatus vai citas Publisko iepirkumu likuma 9. panta astotas dalas 4. punkta vai 42. panta pirmas dalas 9., 10. un 11. punkta, Aizsardzibas un drošibas jomas iepirkumu likuma 44. panta pirmas dalas 9. punkta, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. panta pirmas dalas 9., 10. un 11. punkta vai Publiskas un privatas partneribas likuma 37. panta pirmas dalas 9., 10. un 11. punkta minetas ar pretendentu vai kandidatu saistitas personas šada kartiba:18.3.1. aizpilda informacijas laukus par personam, noradot šadas zinas: 18.3.1.1. personas veids (fiziska vai juridiska persona); 18.3.1.2. registracijas numurs juridiskai personai vai individualajam komersantam, personas kods fiziskai personai; 18.3.1.3. personas dalibas veids attiecigaja publiskaja iepirkuma vai koncesijas procedura (pretendents vai kandidats; persona, uz kuras iespejam pretendents vai kandidats balstas, lai apliecinatu, ka ta kvalifikacija atbilst pazinojuma par ligumu vai koncesiju vai iepirkuma vai koncesijas proceduras dokumentos noteiktajam prasibam; apakšuznemejs, kura veicamo buvdarbu vai sniedzamo pakalpojumu vertiba ir vismaz 10 procenti no kopejas iepirkuma vai koncesijas liguma vertibas; personalsabiedribas biedrs, ja kandidats vai pretendents ir personalsabiedriba);18.3.2. ierosina parbaudamo personu identificešanu pec šo noteikumu 18.3.1.1. un 18.3.1.2. apakšpunkta noraditas informacijas, lai sistema tiktu attelots: 18.3.2.1. fiziskas personas vards un uzvards vai pazinojums, ka persona ar šadu personas kodu nav registreta Iedzivotaju registra vai ir mirusi; 18.3.2.2. juridiskas personas, zemnieku vai zvejnieku saimniecibas vai individuala komersanta nosaukums vai pazinojums, ka persona ar šadu registracijas numuru Uznemumu registra nav registreta;18.4. parbauda, vai sistema ieklauta pareiza informacija par e-izzinas pieprasitaju un lietotaju, ka ari parbauda e-izzinas pieprasijuma ieklautos datus;18.5. ierosina zinu pieprasišanu registros vai nosuta informaciju uz elektroniska pasta adresi eis@vraa.gov.lv, ja tiek konstateta sistema ieklautas informacijas neatbilstiba.19
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201)
+19. Ja e-izzinu pieprasa piegadatajs, e-izzinas pieprasitaja lietotajs, kas veicis elektronisko identifikaciju izveletaja e-izzinu apakšsistemas piekluves vieta, veic šadas darbibas:19.1. izvelas tiesibu aktu un konkretu tiesibu akta normu, uz kuras pamata tiek veikta parbaude;19.2. izvelas vienu vai vairakus registrus, kuros veicama parbaude, ka ari, ja nepieciešams, izvelas tos smagos profesionalas darbibas parkapumus, par kuru esibu veicama parbaude;19.3. norada savu dalibas veidu publiskaja iepirkuma vai koncesijas procedura (pretendents vai kandidats; persona, uz kuras iespejam pretendents vai kandidats balstas, lai apliecinatu, ka ta kvalifikacija atbilst pazinojuma par ligumu vai koncesiju vai iepirkuma vai koncesijas proceduras dokumentos noteiktajam prasibam; apakšuznemejs, kura veicamo buvdarbu vai sniedzamo pakalpojumu vertiba ir vismaz 10 procenti no kopejas iepirkuma vai koncesijas liguma vertibas; personalsabiedribas biedrs, ja kandidats vai pretendents ir personalsabiedriba). Ja e-izzina paredzeta iesniegšanai arvalsti rikota iepirkuma, no e-izzinu sistema pieejamajam valodam izvelas e-izzinai nepieciešamo svešvalodu;19.4. ierosina parbaudamas personas identificešanu, lai sistema tiktu attelots:19.4.1. fiziskas personas vards un uzvards vai pazinojums, ka persona ar šadu personas kodu nav registreta Iedzivotaju registra vai ir mirusi;19.4.2. juridiskas personas, zemnieku vai zvejnieku saimniecibas vai individuala komersanta nosaukums vai pazinojums, ka persona ar šadu registracijas numuru Uznemumu registra nav registreta;19.5. parbauda, vai sistema ieklauta pareiza informacija par e-izzinas pieprasitaju un lietotaju, ka ari parbauda e-izzinas pieprasijuma ieklautos datus;19.6. ierosina zinu pieprasišanu registros vai nosuta informaciju uz elektroniska pasta adresi eis@vraa.gov.lv, ja tiek konstateta sistema ieklautas informacijas neatbilstiba.20
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; grozijums 19.3. apakšpunkta, kas paredz e-izzinas pieprasitaja darbibu – no e-izzinu sistema pieejamajam valodam izveleties e-izzinai nepieciešamo svešvalodu, ja e-izzina paredzeta iesniegšanai arvalsti rikota iepirkuma –, stajas speka 01.01.2019., sk. 79.1 punktu)
+20. E-izzinu sanemšanas infrastruktura ne velak ka 24 stundu laika pec šo noteikumu 18. un 19. punkta minetaja kartiba ierosinata e-izzinas pieprasijuma sagatavo un e-izzinu pieprasišanai izmantotaja piekluves vieta attelo:20.1. e-izzinu, kas sagatavota atbilstoši šo noteikumu:20.1.1. 5., 6., 7. vai 8. pielikuma noteiktajai veidlapai, ietverot taja registros pieejamo informaciju;20.1.2. 9. pielikuma noteiktajai veidlapai, ietverot taja registros pieejamo informaciju vai pazinojumu par attieciga registra nepieejamibu vai zinu neesibu;20.2. pazinojumu par registru nepieejamibu vai zinu neesibu, kas sagatavots atbilstoši šo noteikumu 10. vai 11. pielikuma noteiktajai veidlapai.21
+            
+              
+              
+            
+          
+21. Pazinojumu par šo noteikumu 20. punkta mineto zinu pieejamibu e-izzinas pieprasitajs sanem noraditaja elektroniska pasta adrese un e-izzinu sistemas piekluves vieta.22
+            
+              
+              
+            
+          
+22. Ja šo noteikumu 20. punkta minetaja termina e-izzina registra nepieejamibas del nav sanemta, e-izzinas pieprasitajs e-izzinu pieprasa atkartoti no e-izzinu sistemas vai nepieciešamo informaciju pieprasa iesniegt registra parzinim.23
+            
+              
+              
+            
+          
+23. E-izzinas pieprasitaja lietotajs e-izzinu var lejupladet un saglabat elektroniskaja datu neseja vai izdrukat, ja šadas izdrukas paredz publisko iepirkumu jomu regulejošie normativie akti.24
+            
+              
+              
+            
+          
+24. Par e-izzina sniegtaja informacija konstatetam kludam e-izzinas pieprasitajs rakstveida informe ta registra parzini, uz kura sniegto zinu pamata attieciga informacijas dala ir sagatavota.25
+            
+              
+              
+            
+          
+25. Iepirkumu uzraudzibas birojs savu funkciju veikšanai ir tiesigs pieklut e-izzinu pieprasišanas vesturiskajiem datiem.26
+            
+              
+              
+            
+          
+3.3. Informacijas parbaudes merkis un apjoms
+26. E-izzinas pieprasitajs:26.1. ja tas ir pasutitajs, sabiedrisko pakalpojumu sniedzejs vai publiskais partneris, kas velas parbaudit, vai kandidats vai pretendents nav izsledzams no dalibas iepirkuma vai koncesijas procedura saskana ar Publisko iepirkumu likuma 42. pantu, Aizsardzibas un drošibas jomas iepirkumu likuma 44. pantu, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. pantu vai Publiskas un privatas partneribas likuma 37. pantu, no registriem pieprasa informaciju par Latvija registretu vai pastavigi dzivojošu:26.1.1. pretendentu vai kandidatu;26.1.2. pretendenta vai kandidata valdes vai padomes locekli, parstavettiesigo personu, prokuristu vai personu, kura ir pilnvarota parstavet pretendentu vai kandidatu darbibas, kas saistitas ar filiali;26.1.3. personalsabiedribas biedru, ja kandidats vai pretendents ir personalsabiedriba;26.1.4. pretendenta noradito apakšuznemeju, kura veicamo buvdarbu vai sniedzamo pakalpojumu vertiba ir vismaz 10 procenti no kopejas iepirkuma vai koncesijas liguma vertibas;26.1.5. personu, uz kuras iespejam pretendents vai kandidats balstas, lai apliecinatu, ka ta kvalifikacija atbilst pazinojuma par ligumu vai koncesiju vai iepirkuma vai koncesijas proceduras dokumentos noteiktajam prasibam, ka ari minetas personas valdes vai padomes locekli, parstavettiesigo personu, prokuristu vai personu, kura ir pilnvarota parstavet šo personu, uz kuras iespejam pretendents vai kandidats balstas, lai apliecinatu, ka ta kvalifikacija atbilst pazinojuma par ligumu vai koncesiju vai iepirkuma vai koncesijas proceduras dokumentos noteiktajam prasibam darbibas, kas saistitas ar filiali;26.2. ja tas ir pasutitajs, kas velas parbaudit, vai pretendents nav izsledzams no dalibas iepirkuma saskana ar Publisko iepirkumu likuma 9. panta astotas dalas 1., 2., 4. un 5. punktu, no registriem pieprasa informaciju par Latvija registretu vai pastavigi dzivojošu:26.2.1. pretendentu vai kandidatu;26.2.2. personalsabiedribas biedru, ja pretendents ir personalsabiedriba;26.2.3. personu, uz kuras iespejam pretendents balstas, lai apliecinatu, ka ta kvalifikacija atbilst pazinojuma par planoto ligumu vai iepirkuma dokumentos noteiktajam prasibam.27
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201; MK 12.06.2018. noteikumiem Nr. 335)
+27. E-izzinas pieprasitajs, ja tas ir Latvija registrets vai pastavigi dzivojošs piegadatajs, kas velas parbaudit, vai tas nav izsledzams no dalibas:27.1. iepirkuma procedura saskana ar Publisko iepirkumu likuma 42. pantu, Aizsardzibas un drošibas jomas iepirkumu likuma 44. pantu, Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma 48. pantu vai Publiskas un privatas partneribas likuma 37. pantu no registriem pieprasa informaciju par sevi, savu Latvija registreto vai pastavigi dzivojošo valdes vai padomes locekli, parstavettiesigo personu, prokuristu vai personu, kura ir pilnvarota parstavet piegadataju darbibas, kas saistitas ar filiali;27.2. iepirkuma saskana ar Publisko iepirkumu likuma 9. panta astoto dalu, no registriem pieprasa informaciju par sevi.28
+            
+              
+              
+            
+          (Grozits ar MK 16.05.2017. noteikumiem Nr. 262; MK 03.04.2018. noteikumiem Nr. 201)
+28. E-izzinas sagatavošanai atbilstoši šo noteikumu 26. un 27. punkta noteiktajam merkim:28.1. Iekšlietu ministrijas Informacijas centrs (Sodu registrs) sniedz zinas par šo noteikumu 12. pielikuma minetajiem parkapumiem, tai skaita par smagajiem profesionalas darbibas parkapumiem, kuri bija noraditi parbaudei;28.2. Uznemumu registrs sniedz aktualas zinas par:28.2.1. maksatnespejas procesu;28.2.2. saimnieciskas darbibas apturešanu;28.2.3. likvidaciju;28.2.4. registracijas valsti;28.3. Valsts ienemumu dienests sniedz zinas par ta administreto nodoklu paradu kopsummu;28.4. Latvijas Republikas pašvaldibas sniedz zinas par to administreto nodoklu samaksu.29
+            
+              
+              
+            
+          (Grozits ar MK 12.06.2018. noteikumiem Nr. 335; MK 30.06.2020. noteikumiem Nr. 429)
+3.4. Kartiba, kada e-izzinu apakšsistema sanem un apstrada informaciju
+29. E-izzinu sagatavošanai nepieciešamas informacijas apstrade ir iesaistiti registru parzini un agentura. Registru parzini nodrošina e-izzinu apakšsistemas pakalpju darbibai nepieciešamas informacijas pieejamibu, savukart agentura nodrošina valsts informaciju sistemu savietotaja un piekluves vietu darbibu.30
+            
+              
+              
+            
+          
+30. E-izzinu sagatavošanai nepieciešamas informacijas sniedzeji ir registru parzini, tai skaita Pilsonibas un migracijas lietu parvalde, kas sniedz Iedzivotaju registra zinas fizisko personu identificešanai.31
+            
+              
+              
+            
+          
+31. E-izzinu sistema šo noteikumu 18.3.2. un 19.4. apakšpunkta minetaja kartiba ierosinata parbaudamo personu identificešana notiek, izmantojot informacijas sistemu pakalpes:31.1. nosaukumu iegust no Uznemumu registra pec registracijas numura, ja parbaudama persona ir juridiska persona, zemnieku vai zvejnieku saimnieciba vai individualais komersants;31.2. personas vardu, uzvardu un statusu (vai persona ir dziva vai mirusi) iegust no Pilsonibas un migracijas lietu parvaldes Iedzivotaju registra pec personas koda, ja parbaudama persona ir fiziska persona.32
+            
+              
+              
+            
+          
+32. Pec šo noteikumu 18.5. un 19.6. apakšpunkta minetaja kartiba ierosinatas zinu pieprasišanas, lai iegutu nepieciešamo informaciju par parbaudamo personu, izmantojot informacijas sistemu pakalpes, notiek šada datu apmaina ar registriem:32.1. Uznemumu registra:32.1.1. ja parbaudama persona ir juridiska persona, pec registracijas numura iegust zinas par to fizisko personu vardiem, uzvardiem un personas kodiem (ja personai nav personas koda – pec dzimšanas datuma, personu apliecinoša dokumenta numura un izdošanas datuma, valsts un institucijas, kas dokumentu izdevusi), kuras saistitas ar parbaudamo personu (parbaudamas personas valdes vai padomes locekli, parstavettiesigas personas, prokuristi, ka ari personas, kuras ir pilnvarotas parstavet parbaudamas personas darbibas, kas saistitas ar filiali);32.1.2. ja parbaudama persona ir juridiska persona, pec registracijas numura iegust zinas par parbaudamas personas maksatnespejas procesiem, saimnieciskas darbibas apturešanu un likvidaciju (datumi, procesu apraksti) un ipašnieku vai kapitala dalu ipašnieku (turetaju) registracijas valsti;32.1.3. ja parbaudama persona ir fiziska persona vai individualais komersants, pec personas koda vai registracijas numura iegust zinas par parbaudamas personas maksatnespejas procesu (datums, procesa apraksts);32.1.4. ja parbaudama persona ir individualais komersants, pec registracijas numura iegust zinas par parbaudamas personas maksatnespejas procesu (datums, procesa apraksts);32.2. Iekšlietu ministrijas Informacijas centra Sodu registra pec personas koda (fiziskam personam) vai registracijas numura (juridiskam personam) iegust zinas par:32.2.1. parbaudamas personas izdaritajiem parkapumiem (tiesibu akta nosaukums un šo noteikumu 12. pielikuma noradita parkapta tiesibu norma, ka ari parkapta tiesibu norma, kas attiecas uz profesionalas darbibas parkapumiem, kuri bija noraditi parbaudei);32.2.2. katras šo noteikumu 32.1.1. apakšpunkta minetaja kartiba identificetas ar parbaudamo personu saistitas fiziskas personas izdaritajiem parkapumiem (tiesibu akta nosaukums un šo noteikumu 12. pielikuma noradita parkapta tiesibu norma);32.3. Valsts ienemumu dienesta pec nodoklu maksataju registracijas koda iegust zinas par parbaudamas personas nodoklu samaksu (parada aprekina datums, parada kopsummas apjoms, valuta, kura ir aprekinats parads);32.4. pašvaldibas pec personas koda (fiziskam personam) vai registracijas numura (juridiskam personam) iegust zinas par parbaudamas personas nodoklu samaksu (parada aprekina datums, parada apjoms, valuta, kura ir aprekinats parads).33
+            
+              
+              
+            
+          (Grozits ar MK 12.06.2018. noteikumiem Nr. 335; MK 30.06.2020. noteikumiem Nr. 429)
+33. E-izzinu sagatavošanai nepieciešamo aktualo zinu pieejamibu registru parzini nodrošina:33.1. nodoklu administrešanas jomu regulejošajos tiesibu aktos noteiktajos zinu aktualizacijas datumos – par Valsts ienemumu dienesta administreto nodoklu paradu kopsummu;33.2. vienlaikus ar registros uzkrajamo zinu izmainam – par Iekšlietu ministrijas Informacijas centra Sodu registra, Uznemumu registra vai Pilsonibas un migracijas lietu parvaldes datubaze esošajam zinam, ka ari pašvaldibu datubazes esošajam zinam par nekustama ipašuma nodokla paradu aprekinu.34
+            
+              
+              
+            
+          
+34. Pec šo noteikumu 32. punkta minetas informacijas iegušanas vai pec šo noteikumu 20. punkta mineta termina beigam e-izzinu apakšsistema partrauc zinu iegušanas procesu no registriem un sagatavo e-izzinu, par to pazinojot e-izzinas pieprasitajam.35
+            
+              
+              
+            
+          
+35. Šo noteikumu 31. un 32. punkta mineto informacijas sistemu pakalpju detalizeti apraksti, kas ietver vismaz pakalpes nosaukumu, pakalpes pieprasijuma ieklauto datu uzskaitijumu, pakalpes darbibas rezultata ieklauto datu uzskaitijumu un kludu apstradi, ir publiceti e-izzinu apakšsistemas informacijas sistemu pakalpju kataloga.36
+            
+              
+              
+            
+          
+4. Centralizeta elektroniska precu un pakalpojumu iegade
+4.1. Precu un pakalpojumu pieejamibas nodrošinašana e-pasutijumu apakšsistema
+36. E-iepirkumu sistema registrets pasutitajs, ka ari sabiedrisko pakalpojumu sniedzejs, kas izvelejies pievienoties e-iepirkumu sistemai, ar centralizeto iepirkumu institucijas starpniecibu e-pasutijumu apakšsistema iegadajas šo noteikumu 1. pielikuma ietvertas preces vai pakalpojumus.37
+            
+              
+              
+            
+          
+37. E-pasutijumu apakšsistema precu un pakalpojumu iegadei nodrošina elektronisku darijumu slegšanu starp e-iepirkumu sistema registretiem pasutitajiem vai sabiedrisko pakalpojumu sniedzejiem un piegadatajiem, kuri centralizetas iepirkuma proceduras ietvaros ieklauti dinamiskaja iepirkumu sistema vai ieguvuši tiesibas slegt visparigo vienošanos ka precu piegadataji vai pakalpojumu sniedzeji e-iepirkumu sistema registretiem pasutitajiem.38
+            
+              
+              
+            
+          (Grozits ar MK 03.04.2018. noteikumiem Nr. 201)
+4.2. Precu un pakalpojumu iegades nosacijumi
+38. E-pasutijumu apakšsistema nodrošina precu un pakalpojumu izveli atbilstoši attiecigajai precu vai pakalpojumu grupai noteiktajam precu vai pakalpojumu tehniskajam specifikacijam un atlasito precu un pakalpojumu iegadi par e-pasutijumu apakšsistema pieejamajam zemakajam cenam.39
+            
+              
+              
+            
+          
+39. Ja pasutitaja vai sabiedrisko pakalpojumu sniedzeja atlasito precu piegadei vai pakalpojumu izpildei nepieciešams konkretizet preces raksturlielumus vai pakalpojuma izpildes nosacijumus, e-pasutijumu apakšsistema nosuta visiem aktivajiem piegadatajiem pazinojumu par pasutijumu, nosakot ne mazak ka vienu darbdienu piedavajuma sagatavošanai atbilstoši attiecigas precu vai pakalpojumu grupas ipatnibam un cenas noteikšanai, izmantojot solišanu ar lejupejošu soli.40
+            
+              
+              
+            
+          
+40. Lai nodrošinatu pec iespejas efektivaku pasutitaja vai sabiedrisko pakalpojumu sniedzeja lidzeklu izmantošanu, pasutitajs un sabiedrisko pakalpojumu sniedzejs darijumus e-pasutijumu apakšsistema plano, pec iespejas apvienojot tos viena pasutijuma precu vai pakalpojumu grupas ietvaros. Ja e-pasutijumu apakšsistema visparigas vienošanas ietvaros izveidots pasutijums, kura atlasito precu vai pakalpojumu summa vienas precu vai pakalpojumu grupas ietvaros ir vienada ar Publisko iepirkumu likuma 9. panta pirmaja dala noteikto ligumcenu piegades vai pakalpojuma ligumiem vai parsniedz to, e-pasutijumu apakšsistema nosuta visiem aktivajiem piegadatajiem pazinojumu par pasutijumu, nosakot ne mazak ka tris darbdienas piedavajuma sagatavošanai un ipaši izdevigu cenu noteikšanai, izmantojot solišanu ar lejupejošu soli.41
+            
+              
+              
+            
+          (Grozits ar MK 03.04.2018. noteikumiem Nr. 201; sk. 79.2 punktu)
+41. Šo noteikumu 40. punkta mineta piedavajuma sagatavošanai paredzeto precu vai pakalpojumu ligumcenas robežvertibu e-pasutijumu apakšsistema centralizeto iepirkumu institucija var samazinat atbilstoši attiecigas precu vai pakalpojumu grupas ipatnibam, ja šada iespeja attiecigajai grupai paredzeta centralizeto iepirkumu institucijas rikotas centralizetas iepirkuma proceduras dokumentacija.42
+            
+              
+              
+            
+          
+42. Ja e-pasutijumu apakšsistema izveidots šo noteikumu 39. vai 40. punkta minetais pasutijums, lidz esoša pasutijuma rezultatam e-pasutijumu apakšsistema nepielauj jauna šada pasutijuma izveidi attiecigas precu vai pakalpojumu grupas ietvaros.43
+            
+              
+              
+            
+          
+43. Šo noteikumu 39. un 40. punkta mineto pasutijumu pasutitajs vai sabiedrisko pakalpojumu sniedzejs var izbeigt, ja:43.1. izteiktie cenu piedavajumi parsniedz pasutitaja vai sabiedrisko pakalpojumu sniedzeja noradito darijumam paredzeto maksimalo finanšu lidzeklu apjomu un e-pasutijumu apakšsistema pieejamas cenas samazinašanas iespejas nav bijušas lietderigas;43.2. pasutitajs vai sabiedrisko pakalpojumu sniedzejs, veicot pasutijumu, ir noradijis pamatotus priekšnosacijumus darijuma noslegšanai vai ta noslegšanai pilna pasutijuma apjoma, kas nav iestajušies;43.3. darijumu nav iespejams noslegt objektivu apstaklu del, kas iestajušies pec pasutijuma izveides.44
+            
+              
+              
+            
+          
+44. Ja nepieciešams nodrošinat ieperkamo precu vai pakalpojumu savstarpejo saderibu, pasutitajs vai sabiedrisko pakalpojumu sniedzejs, pamatojot nepieciešamibu, konkretajam pasutijumam e-pasutijumu apakšsistema var izveleties nosacijumu, ka darijums piegadatajam pieškirams nedalita pasutijuma apjoma vai noteikta pasutijuma dala darijuma vienam piegadatajam pieškirama nedalita apjoma, ja šada iespeja attiecigajai precu vai pakalpojumu grupai paredzeta centralizeto iepirkumu institucijas rikotas centralizetas iepirkuma proceduras dokumentacija.45
+            
+              
+              
+            
+          
+44.1 Veidojot šo noteikumu 39. punkta mineto pasutijumu, pasutitajs vai sabiedrisko pakalpojumu sniedzejs precu vai pakalpojumu pirkuma pieprasijumam pievieno detalizetu informaciju par darijuma izpildi (darba uzdevumu, izpildes aprakstu un citu darijuma izpildei butisku informaciju).46
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+44.2 Veidojot šo noteikumu 44. punkta mineto pasutijumu vai tadu pasutijumu, kura ieklauto preci vai pakalpojumu attiecigas precu vai pakalpojumu grupas ietvaros piedava tikai viens piegadatajs vai kura tehniska specifikacija ir saistita ar konkretu ražotaju vai tirdzniecibas marku, pasutitajs vai sabiedrisko pakalpojumu sniedzejs precu vai pakalpojumu pirkuma pieprasijumam pievieno esošas situacijas aprakstu, paskaidro, kapec nav iespejami alternativi risinajumi, un pamato šadas preces vai pakalpojuma iegades nepieciešamibu vai ieperkamo precu vai pakalpojumu savstarpejas saderibas nepieciešamibu, jo ipaši saistiba ar esoša risinajuma aizstašanas iespejamajam izmaksam un to samerigumu un iegustama risinajuma uzturešanu un ekspluataciju. Šaja punkta mineta informacija e-iepirkumu sistema ir pieejama visiem aktivajiem attiecigas precu vai pakalpojumu grupas piegadatajiem ne mazak ka tris darbdienas pec e-pasutijumu apakšsistemas nosutita pazinojuma par pasutijumu.47
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+44.3 Pasutitajs vai sabiedrisko pakalpojumu sniedzejs pakalpojuma iegadei ir tiesigs izveidot šo noteikumu 39., 44. vai 44.2 punkta mineto pasutijumu, ja darijuma summa bez pievienotas vertibas nodokla neparsniedz 1 000 000 euro.48
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+4.3. Centralizeto iepirkumu instituciju sniegto pakalpojumu izmantošanas nosacijumi(Apakšnodala MK 30.06.2020. noteikumu Nr. 429 redakcija)
+44.4 Centralizeto iepirkumu institucija partrauc e-pasutijumu apakšsistema veidotu pasutijumu, ja ir konstatets jebkurš no šadiem gadijumiem:44.4 1. šo noteikumu 39., 44. vai 44.2 punkta minetajam pasutijumam nav pievienoti šo noteikumu 44.1 vai 44.2 punkta noteiktie dokumenti vai tie nesatur attiecigajos punktos noteikto informaciju;44.4 2. ir parkapti vai nav izpilditi visparigas vienošanas obligatie nosacijumi un konkretaja pasutijuma stadija attiecigos trukumus noverst nav iespejams.49
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+44.5 Centralizeto iepirkumu institucijai ir pienakums parbaudit šo noteikumu 44.4 punkta minetos nosacijumus vismaz šados gadijumos:44.5 1. darijuma summa bez pievienotas vertibas nodokla parsniedz Publisko iepirkumu likuma 8. panta ceturtaja dala noteikto ligumcenu piegades vai pakalpojuma ligumiem;44.5 2. pasutijums izveidots par tadas preces vai pakalpojuma iegadi, par kuru iepriekš jau ir bijis izveidots pasutijums, kuru centralizeto iepirkumu institucija partraukusi, jo konstateta neatbilstiba šo noteikumu vai konkretas visparigas vienošanas prasibam.50
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+5. Prasibas informacijas sistemam, kas tiek izmantotas elektroniskai iepirkumu un iepirkumu proceduru rikošanai
+5.1. Informacijas sistemas elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai
+45. Pieteikumu un piedavajumu elektroniskai sanemšanai pasutitajs izmanto e-konkursu apakšsistemu vai citas tiešsaistes informacijas sistemas, kuras paredzetas elektroniskai pieteikumu un piedavajumu sanemšanai un kuru izmantošana pasutitajam ir bez maksas.51
+            
+              
+              
+            
+          
+46. Piegadatajs pieteikumu un piedavajumu elektroniskai iesniegšanai izmanto e-konkursu apakšsistemu vai citas tiešsaistes informacijas sistemas, kuras paredzetas elektroniskai pieteikumu un piedavajumu iesniegšanai.52
+            
+              
+              
+            
+          
+47. Privatpersonas pieteikumu un piedavajumu elektroniskai iesniegšanai un sanemšanai var izmantot pieteikumu un piedavajumu iesniegšanas tiešsaistes sistemu, ja agentura ir izsniegusi atzinumu, kas apliecina, ka privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema (tai skaita visi ar sistemu saistitie un sistemu apkalpojošie komponenti) atbilst šis nodalas drošibas un tehniskajam prasibam un attieciga privatpersona ar agenturu ir noslegusi vienošanos par valsts informacijas sistemu savietotaja saskarnes izmantošanu sistemas produkcijas vide.53
+            
+              
+              
+            
+          
+48. Privatpersona, kas organize un vada pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemas darbibu, ir atbildiga par tas izveidi, ieviešanu, uzturešanu, izmantošanu, izmainu veikšanu un likvidešanu atbilstoši šis nodalas prasibam.54
+            
+              
+              
+            
+          
+5.2. Privatpersonas izveidotas informacijas sistemas registrešana elektroniskai pieteikumu un piedavajumu iesniegšanai
+49. Lai organizetu pieteikumu vai piedavajumu elektronisku iesniegšanu un sanemšanu, izmantojot privatpersonas izveidotu pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemu, persona, kura mineta šo noteikumu 48. punkta, iesniedz agentura iesniegumu privatpersonas pieteikumu un piedavajumu iesniegšanas tiešsaistes sistemas atbilstibas atzinuma sanemšanai, ka ari šadu informaciju, ja ta pedejo 12 menešu laika nav sniegta:49.1. zinas par iesniedzeju (juridiskai personai – nosaukums, registracijas numurs, kontakttalrunis un e-pasta adrese; fiziskai personai – vards, uzvards, personas kods, kontakttalrunis un elektroniska pasta adrese);49.2. zinas par sistemas tehnisko specifikaciju, kas ietver vismaz:49.2.1. datortikla sleguma shemu izmantojamajam iekartam un serveriem;49.2.2. serveru datu glabašanas iekartu un tikla iekartu sarakstu, noradot modelu nosaukumus;49.2.3. izmantojamas programmaturas sarakstu ar versijam;49.2.4. iekartu atrašanas vietas adresi;49.3. zinas par sistemas drošibas politiku, drošibas un lietošanas noteikumus;49.4. proceduru aprakstu, kas paredz risku novertejuma veikšanu un dokumentešanu vismaz šada apjoma:49.4.1. sistemas darbibas joma;49.4.2. identificeto risku ietekme uz sistemas darbibu, tai skaita novertejot risku iestašanas varbutibu, materialos un nematerialos zaudejumus, ietekmi uz sistemas pieejamibu, datu konfidencialitati;49.4.3. ja noticis informacijas sistemas drošibas incidents: 49.4.3.1. pasakumi un nepieciešamie uzlabojumi, lai noverstu šadus drošibas incidentus; 49.4.3.2. aizsardzibas lidzekli, kas tiks izmantoti, ja drošibas incidenti atkartosies; 49.4.3.3. nenoverstie riski;49.5. zinas par sakotnejo risku analizi, kas veikta saskana ar šo noteikumu 49.4. apakšpunkta mineto proceduru;49.6. visu tiešsaistes sistemas pirmkodu, kurš radits vai mainits, veidojot informacijas sistemu vai tas komponentus (piemeram, lietojumus, kas var tikt darbinati uz galiekartas);49.7. iekšeja audita zinojumu, kura izverteta privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemas atbilstiba šis nodalas prasibam;49.8. šo noteikumu 48. punkta minetas personas apliecinajumu, ka privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema atbilst šis nodalas prasibam;49.9. servera vai serveru globala timekla protokola (turpmak – IP) adresi vai adreses (un citas sleguma izveidošanai nepieciešamas zinas), no kuram privatpersonas pieteikumu un piedavajumu iesniegšanas tiešsaistes sistema nodos iesniegtos pieteikumus vai piedavajumus e-konkursu apakšsistemai, izmantojot šo noteikumu 72. punkta mineto timekla saskarni;49.10.  timeklvietnes adresi (domena vards, domena nosaukuma sistemas adrese vai adreses, IP adrese vai adreses), kura atrodas privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema.55
+            
+              
+              
+            
+          
+50. Agentura izskata šo noteikumu 49. punkta mineto iesniegumu un tam pievienoto informaciju un Administrativa procesa likuma noteiktaja kartiba un termina sagatavo atzinumu, noradot, vai privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema atbilst šis nodalas drošibas un tehniskajam prasibam.56
+            
+              
+              
+            
+          
+51. Ja tiek pienemts lemums izsniegt atzinumu par atbilstibu šis nodalas drošibas un tehniskajam prasibam, agentura, ja nepieciešams, pieprasa aktualizet IP adresi vai adreses (un citas sleguma izveidošanai nepieciešamas zinas) un sledz vienošanos par valsts informacijas sistemu savietotaja saskarnes izmantošanu produkcijas vide.57
+            
+              
+              
+            
+          
+52. Agentura 20 darbdienu laika pec šo noteikumu 51. punkta minetas vienošanas noslegšanas pieškir privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemai piekluvi šo noteikumu 72. punkta minetajai timekla saskarnei, lai nodotu iesniegtos pieteikumus vai piedavajumus e-konkursu apakšsistemai.58
+            
+              
+              
+            
+          
+53. Agenturai attieciba uz privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemu ir šadas tiesibas:53.1. veikt informacijas sistemas drošibas auditu vai parbaudi, tai skaita visa sistemas dzives cikla laika veidota vai mainita pirmkoda parbaudi;53.2. pienemt lemumu par atbilstibas atzinuma anulešanu, ja drošibas audita vai parbaudes laika tiek konstatets, ka informacijas sistema neatbilst šis nodalas prasibam;53.3. pienemt lemumu par atbilstibas atzinuma anulešanu, neveicot drošibas auditu vai parbaudi, ja tiek konstateta informacijas sistemas neatbilstiba šis nodalas prasibam.59
+            
+              
+              
+            
+          
+54. Šo noteikumu 53.2. un 53.3. apakšpunkta mineto lemumu var parsudzet tiesa Administrativa procesa likuma noteiktaja kartiba.60
+            
+              
+              
+            
+          
+55. Privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemas darbiba tiek aptureta ar šo noteikumu 53.2. vai 53.3. apakšpunkta mineta lemuma pienemšanas dienu un tai tiek bloketa piekluve šo noteikumu 72. punkta minetajai saskarnei.61
+            
+              
+              
+            
+          
+56. Ja privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema ir noticis drošibas incidents, persona, kas mineta šo noteikumu 48. punkta, nekavejoties, bet ne velak ka 24 stundu laika par to informe agenturu.62
+            
+              
+              
+            
+          
+5.3. Elektroniskai pieteikumu un piedavajumu iesniegšanai izmantojamo informacijas sistemu drošibas prasibas
+57. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka sistema atbilst normativajiem aktiem par informacijas sistemu minimalas drošibas prasibam, ka ari šis nodalas prasibam.63
+            
+              
+              
+            
+          
+58. Agentura valsts informacijas sistemas drošibas audita ietvaros veic e-konkursu apakšsistemas auditu atbilstoši šo noteikumu prasibam un iegutos audita datus glaba tadu pašu terminu, kadu tiek glabatas e-konkursu apakšsistema esošas zinas, uz kuru pamata audits veikts.64
+            
+              
+              
+            
+          (MK 03.04.2018. noteikumu Nr. 201 redakcija)
+59. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojama informacijas sistema atbilst šadam drošibas prasibam:59.1. datu apstradi informacijas sistema veic atbilstoši normativajiem aktiem par fizisko personu datu aizsardzibu;59.2. informacijas sistemu drošibas un organizatorisko parvaldibu veic saskana ar Latvijas nacionalo standartu LVS: ISO/IEC 27001:2014 L "Informacijas tehnologija. Drošibas panemieni. Informacijas drošibas parvaldibas sistemas. Prasibas";59.3. informacijas sistemas vajadzibam izstrada vismaz šadus dokumentus:59.3.1. risku novertejumu un akcepteto risku sarakstu;59.3.2. informacijas sistemu drošibas politiku un noteikumus;59.4. informacijas sistema ir risinajums, kas nodrošina, lai tiktu sanemta informacija par drošibas uzlabojumiem un jaunu apdraudejumu noveršanu, ka ari šadas informacijas sanemšanas apraksts (procedura);59.5. saskana ar šo noteikumu 59.3.1. apakšpunktu tiek istenotas vismaz šadas drošibas kontroles un parvaldibas:59.5.1. risku novertejums;59.5.2. fiziska un vides drošiba, ka ari datortiklu drošiba;59.5.3. cilvekresursu drošiba;59.5.4. sazinas un operaciju parvaldiba;59.5.5. standarta piekluves kontrolu parvaldiba;59.5.6. informacijas sistemu iegade, izveidošana, uzturešana un likvidešana;59.5.7. informacijas drošibas starpgadijumu un pakalpojumu nepartrauktibas parvaldiba;59.5.8. pasakumi, kas veicami, lai labotu un mazinatu informacijas sistemu ievainojamibu, kuras del varetu notikt apstradato datu iznicinašana, nejauša zaudešana, izmainišana, neatlauta izpaušana vai piekluve;59.5.9. atbilstiba elektronisko iepirkumu procesu regulejošo normativo aktu prasibam.65
+            
+              
+              
+            
+          
+5.4. Elektroniskai pieteikumu un piedavajumu iesniegšanai izmantojamo informacijas sistemu lietotnu drošibas prasibas
+60. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka sistema ir aizsargata pret ievainojumiem un launpratigu izmantošanu saskana ar labo praksi un atbilst vismaz šadam prasibam:60.1. tiek nodrošinata aizsardziba pret launpratigu datu ievadi (piemeram, standartizetas vaicajuma valodas ievadišana (SQL injection), paplašinamas iezimešanas valodas noteiktas sintakses ievadišana (XML Xpath injection), operetajsistemas komandu ievadišana):60.1.1. veicot visu no arpuses sanemto datu parbaudi, tai skaita parbaudot fiziskas personas ievaditos datus;60.1.2. veicot ievaddatu parbaudi vismaz servera puse (lietotne, kas darbojas uz servera);60.1.3. ja tiek izmantoti jebkadi interpretejami pieprasijumi, piemeram, standartizetas vaicajuma valodas (SQL) teikumi, veicot ievaddatu nodališanu no komandas vai vaicajuma;60.2. tiek nodrošinata aizsardziba pret starpvietnu šifrešanas kludam (XSS):60.2.1. parbaudot visus uz parlukprogrammu nosutitos datus;60.2.2. pienacigi šifrejot visus parlukprogramma paradamos datus;60.3. tiek nodrošinata droša identificešanas un sesiju parvaldiba:60.3.1. nepielaujot iespeju identifikacijas datus uzminet vai parrakstit nepietiekamu lietotaja konta parvaldibas funkciju del;60.3.2. nepielaujot jebkadu sesijas datu, tai skaita identifikatoru, atklašanu vienotaja resursu vietradi (URL);60.3.3. aizsargajot sesijas identifikatorus pret sesijas fiksacijas uzbrukumiem;60.3.4. nodrošinot sesiju noilguma funkcionalitati;60.3.5. identifikacijas datu un sesiju informacijas nosutišanai izmantojot tikai transporta slana drošibu (TLS);60.3.6. veidojot paroles no vismaz deviniem simboliem, vienlaikus parole izmantojot vismaz vienu latinu alfabeta lielo burtu, latinu alfabeta mazo burtu, ciparu un specialo simbolu, ja administratora saskarnei netiek izmantota divu faktoru identifikacija;60.4. piekluve resursiem ar tiešo atsauci tiek istenota ta, lai parbaude par tiesibam pieklut resursam tiek veikta pirms informacijas nosutišanas;60.5. tiek nodrošinata aizsardziba pret starpvietnu pieprasijumu viltošanu (XSRF);60.6. tiek ieveroti šadi sistemas programmaturas drošibas nosacijumi:60.6.1. visiem programmaturas komponentiem tiek izmantotas pedejas produkcijas videi paredzetas versijas, tai skaita operetajsistemai, timekla vai lietotnes serverim, datubazu parvaldibas sistemai, lietotnem un visam kodu bibliotekam;60.6.2. nav uzstaditi vai ir atspejoti nevajadzigi operetajsistemas, timekla vai lietotnes servera un datubazes parvaldibas sistemas pakalpojumi;60.6.3. kludu apstrade publiskos kludu pazinojumos nepielauj neizpaužamu zinu attelošanu;60.6.4. drošibas iestatijumi izstrades ietvaros un bibliotekas ir konfigureti saskana ar labo praksi (piemeram, atverta timekla lietotnu drošibas projekta vadlinijam);60.7. tiek istenotas šadas datu šifrešanas prasibas:60.7.1. personas dati tiek šifreti un saglabati elektroniska formata;60.7.2. šifre vai izmanto pienacigu transporta slana aizsardzibu (Transport Layer Protection), tai skaita sistemas piekluvei izmanto aktuala hiperteksta drošas parsutišanas protokola (HTTPS) versiju, izmantojot speka esošus sertifikatus, kas ir piesaistiti sistemas domenam;60.7.3. tiek izmantoti tehnologiski aktuali šifrešanas algoritmi un šifrešanas atslegas, kas ir drošas pret neatlautu atšifrešanu, ja ta veikta, izmantojot publiski pieejamas iekartas;60.7.4. saglabajot paroles datubaze, tas jauc ar standarta jaucejsummas algoritmu, kas ir drošs pret neatlautu atkodešanu, ja ta veikta, izmantojot publiski pieejamas iekartas;60.7.5. visas paroles un šifrešanas atslegas tiek pienacigi aizsargatas;60.8. katrai jaunai sistemas globala timekla adresei (URL) ir nodrošinata piekluves kontrole, kas parbauda tiesibas pieklut resursam, to atverot;60.9. nodrošinata aizsardziba pret neatlautu novirzišanu vai parvirzišanu no sistemas.66
+            
+              
+              
+            
+          
+61. Ja privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema izmanto ar citam sistemam kopigas iekartas, operetajsistemu vai datubazes parvaldibas sistemu, persona, kas organize un vada sistemas darbibu, to atspogulo risku novertejuma un istenotajos risku noveršanas pasakumos.67
+            
+              
+              
+            
+          
+62. Persona, kas organize un vada sistemas darbibu, piekluvi informacijas sistemas administrešanas tehnologisko procesu un parvaldibas funkcionalitatei nodrošina tikai tam personam, kuram sistema esoša informacija atbilstoša apjoma nepieciešama darba pienakumu veikšanai.68
+            
+              
+              
+            
+          
+63. Persona, kura apkalpo elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamo informacijas sistemu, ievero konfidencialitates prasibas attieciba uz datiem, kuri nonak šis personas riciba, veicot darba pienakumus. Konfidencialitates prasibas nosaka minetas personas darba liguma vai amata apraksta. Ja informacijas sistemu apkalpo treša persona, konfidencialitates prasibas nosaka dokumenta, ar kuru nodibina šadas tiesiskas attiecibas.69
+            
+              
+              
+            
+          
+64. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka tiek veidoti un aizsargati datu dublikati (rezerves kopijas), izmantojot tehnologiski aktualu šifrešanas algoritmu un atslegas.70
+            
+              
+              
+            
+          
+65. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka negrozita un pieradama veida tiek uzkrata un uzglabata vismaz šada informacija:65.1. datums un laiks, kad sistemas administrators ir piesledzies un atsledzies no informacijas sistemas;65.2. datums un laiks, kad ir veikta datu dublešana (datu rezerves kopešana);65.3. datums un laiks, kad informacijas sistema ir veiktas izmainas vai programmaturas atjauninašana.71
+            
+              
+              
+            
+          
+66. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas administratoram ir pienakums regulari parbaudit sistemas audita žurnalus, lai noverstu drošibas incidentus.72
+            
+              
+              
+            
+          
+5.5. Elektroniskai pieteikumu un piedavajumu iesniegšanai izmantojamo informacijas sistemu infrastrukturas drošibas prasibas
+67. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka tiek ieverotas vismaz šadas sistemas drošibas prasibas:67.1. tiek veikta piekluves kontrole informacijas sistemas izmitinašanas telpam, un visi apmeklejumi tiek registreti audita žurnala;67.2. dublejamo datu neseji ir aizsargati pret zadzibu;67.3. informacijas sistemas serveri ir ievietoti slegta statne.73
+            
+              
+              
+            
+          
+68. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka sistema ir izmitinata uz servera vai serveriem, kuri fiziski atrodas Latvijas Republikas jurisdikcija esoša teritorija, ir savienoti ar timekli un nodaliti ar ugunsmuri aizsargata lokala tikla perimetra tikla (DMZ).74
+            
+              
+              
+            
+          
+69. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas ugunsmura programmatura atbilst vismaz šadam prasibam:69.1. programmaturas versija ir atjaunota;69.2. programmatura parbauda un registre visu sanemto un nosutamo datu plusmu no lokala tikla perimetra tikla (DMZ);69.3. programmatura atlauj piekluvi tikai tadam datu plusmam, kas nepieciešamas informacijas sistemas darbibai vai parvaldibai.75
+            
+              
+              
+            
+          
+70. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojama informacijas sistema atrodas pienacigi aizsargata, no testešanas un izstrades sistemam nodalita tikla segmenta.76
+            
+              
+              
+            
+          
+71. Persona, kas organize un vada elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojamas informacijas sistemas darbibu, nodrošina, ka attieciba uz serveriem un to operetajsistemam ir ieverotas vismaz šadas drošibas un aizsardzibas prasibas:71.1. ir istenotas šo noteikumu 60.6. apakšpunkta minetas prasibas;71.2. lietotnes ir spejigas darboties, izmantojot viszemako attiecigajam funkcijam nepieciešamo tiesibu komplektu;71.3. operetajsistemu un izmantojamo lietotnu atjauninajumi un labojumi, ka ari pretvirusu programmaturas atjauninajumi tiek uzstaditi, tiklidz tie kluvuši pieejami.77
+            
+              
+              
+            
+          
+5.6. Elektroniskai pieteikumu un piedavajumu iesniegšanai izmantojamo informacijas sistemu tehniskas prasibas
+72. Privatpersonas pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema sadarbojas ar e-konkursu apakšsistemu, izmantojot valsts informacijas sistemu savietotaja saskarni. Saskarnes datu apmainas strukturu agentura paplašinamas iezimešanas valodas (XML) shemas veida publice valsts informacijas sistemu savietotaja paplašinamas iezimešanas valodas (XML) shemu kataloga, ieverojot valsts informacijas sistemu savietotaja noteiktas vadlinijas.78
+            
+              
+              
+            
+          
+73. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojama informacijas sistema nodrošina vismaz šadas prasibas attieciba uz pieteikumu un piedavajumu apstradi:73.1. visiem ieinteresetajiem piegadatajiem ir pieejama informacija par specifikacijam, kas attiecas uz piedavajumu un pieteikumu elektronisku iesniegšanu, kodešanu un laika registraciju;73.2. tiek izmantots sistema iestradats paraksta riks, kas nodrošina elektroniska dokumenta parakstitaja identitates apstiprinašanu, vai elektroniskais paraksts, kas atbilst normativajiem aktiem par elektronisko dokumentu un elektroniska paraksta statusu;73.3. var precizi noteikt datumu un laiku, kad iesniedzami pieteikumi un piedavajumi, ka ari plani un projekti;73.4. informacijas sistema ir iestradats risinajums, kas nodrošina, ka lidz pieteikumu vai piedavajumu iesniegšanas termina beigam (vai iesniegto pieteikumu vai piedavajumu nodošanai e-konkursu apakšsistemai, ja iesniegšanai tiek izmantota privatpersonas tiešsaistes sistema) neviens nevar pieklut iesniegtajai informacijai;73.5. var precizi noteikt datumu un laiku, kad informacijas sistema iesniegtie pieteikumi vai piedavajumi nodoti e-konkursu apakšsistemai, ja iesniegšanai tiek izmantota privatpersonas tiešsaistes sistema;73.6. iesniedzejs jebkura bridi lidz pieteikumu vai piedavajumu iesniegšanas termina beigam var atsaukt vai mainit pieteikumu vai piedavajumu;73.7. ir iespejams atklat, ja kads ir parkapis šo noteikumu 73.4. apakšpunkta mineto aizliegumu.79
+            
+              
+              
+            
+          
+74. Elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai izmantojama informacijas sistema nodrošina vismaz šadas prasibas attieciba uz iepirkumu un iepirkuma proceduru apstradi:74.1. vienas iepirkuma proceduras ietvaros attiecigas proceduras elektroniskaja profila ir iespejams savstarpeji nodalit vismaz kvalifikacijas, tehniska piedavajuma, finanšu piedavajuma un saimnieciski izdevigako piedavajumu vertešanas sagatavošanas un apstrades sadalas;74.2. ir paredzeta iespeja iepirkuma vai iepirkuma proceduras dokumentaciju (tai skaita pretendentu un kandidatu atlases prasibas struktureta veida Eiropas vienota iepirkuma proceduras dokumenta integretai iesniegšanai vai zinu strukturetai augšupieladei) sagatavot elektroniski ar sistema iestradatiem rikiem;74.3. ir iespejams sagatavot, saglabat un atkartoti izmantot iepirkuma vai iepirkuma proceduras elektroniskas sagataves un paraugus;74.4. ir nodrošinata iepirkuma un iepirkuma proceduras norises gaitas kontrole un liegumi izmainit iepirkuma vai iepirkuma proceduras profila pievienotos pasutitaja (iepirkuma komisijas) apstiprinatos dokumentus (iepirkuma komisijas sežu protokolus, iepirkuma proceduras nolikumu u. tml.);74.5. ir paredzeta iespeja pievienot un uzglabat iepirkuma vai iepirkuma proceduras rezultata noslegtos ligumus un ar ligumu izpildi saistitos dokumentus.80
+            
+              
+              
+            
+          (Grozits ar MK 03.04.2018. noteikumiem Nr. 201; 74.2. apakšpunkta minetais nosacijums par iespeju pretendentu un kandidatu atlases prasibas veidot struktureta veida Eiropas vienota iepirkuma proceduras dokumenta integretai iesniegšanai vai zinu strukturetai augšupieladei stajas speka 01.01.2019., sk. 79.3 punktu)
+75. Lai nodrošinatu sadarbibu ar e-konkursu apakšsistemu, privatpersonas tiešsaistes informacijas sistema, kas tiek izmantota elektroniskai pieteikumu un piedavajumu iesniegšanai un sanemšanai, atbilst šadam prasibam:75.1. sistema atbalsta pakalpju (web-servisu) izmantošanu;75.2. sistemas saskarne atbilst valsts informacijas sistemu savietotaja saskarnu izmantošanas vadlinijam un ir saderiga ar valsts informacijas sistemu savietotaja publiceto e-konkursu apakšsistemas piedavajumu iesniegšanas pakalpi;75.3. sistemas saskarnei ir veiksmigi veikti drošibas un funkcionalitates testi.81
+            
+              
+              
+            
+          
+76. Šo noteikumu 48. punkta mineta privatpersona, kas organize un vada pieteikumu un piedavajumu iesniegšanas un sanemšanas tiešsaistes sistemas darbibu, nepiedalas ka kandidats vai pretendents tajos iepirkumos vai iepirkuma proceduras, kas rikotas attiecigas privatpersonas piedavajumu iesniegšanas un sanemšanas tiešsaistes sistema.82
+            
+              
+              
+            
+          
+6. Nosleguma jautajumi
+77. Šo noteikumu prasibas, kas attiecas uz iepirkuma proceduram, kuras tiek rikotas uz Sabiedrisko pakalpojumu sniedzeju iepirkumu likuma pamata, piemerojamas no 2017. gada 1. aprila.83
+            
+              
+              
+            
+          
+78. Šo noteikumu 8. pielikuma mineta izzina, uzradot taja ari profesionalas darbibas parkapumus, tiek sagatavota no 2017. gada 1. augusta.84
+            
+              
+              
+            
+          
+79. E-iepirkumu sistema registrets pasutitajs ir tiesigs iegadaties šo noteikumu 1. pielikuma minetaja precu un pakalpojumu grupu saraksta neietvertas preces vai pakalpojumus, kas pieejami e-pasutijumu apakšsistema, lidz to visparigo vienošanos darbibas termina beigam, kuras:79.1. ir noslegtas par šo precu un pakalpojumu piedavašanu e-pasutijumu apakšsistema pirms šo noteikumu speka stašanas;79.2. tiks noslegtas par šo precu un pakalpojumu piedavašanu e-pasutijumu apakšsistema iepirkuma proceduras, kas uzsaktas pirms šo noteikumu speka stašanas.85
+            
+              
+              
+            
+          
+79.1 Grozijums šo noteikumu 19.3. apakšpunkta, kas paredz e-izzinas pieprasitaja darbibu – no e-izzinu sistema pieejamajam valodam izveleties e-izzinai nepieciešamo svešvalodu, ja e-izzina paredzeta iesniegšanai arvalsti rikota iepirkuma –, stajas speka 2019. gada 1. janvari.86
+            
+              
+              
+            
+          (MK 03.04.2018. noteikumu Nr. 201 redakcija)
+79.2 Grozijumi šo noteikumu 40. punkta, ar kuriem nosaka minimalo ligumcenu e-pasutijumu apakšsistema visparigas vienošanas ietvaros izveidotam pasutijumam, par kuru e-pasutijumu apakšsistema nosuta visiem aktivajiem piegadatajiem pazinojumu, neattiecas uz tadu visparigo vienošanos, kas e-pasutijumu apakšsistemas vajadzibam noslegta to iepirkuma proceduru ietvaros, kas uzsaktas pirms šo grozijumu speka stašanas.87
+            
+              
+              
+            
+          (MK 03.04.2018. noteikumu Nr. 201 redakcija)
+79.3 Šo noteikumu 74.2. apakšpunkta minetais nosacijums par iespeju pretendentu un kandidatu atlases prasibas veidot struktureta veida Eiropas vienota iepirkuma proceduras dokumenta integretai iesniegšanai vai zinu strukturetai augšupieladei stajas speka 2019. gada 1. janvari.88
+            
+              
+              
+            
+          (MK 03.04.2018. noteikumu Nr. 201 redakcija)
+79.4 (Svitrots ar MK 16.07.2019. noteikumiem Nr. 351)89
+            
+              
+              
+            
+          
+79.5 Grozijumi šo noteikumu 12. pielikuma 1. un 3. punkta, kas paredz papildinat parbaudamas tiesibu normas ar Darba likuma, likuma "Par nodokliem un nodevam" un Imigracijas likuma pantiem, stajas speka 2020. gada 1. julija.90
+            
+              
+              
+            
+          (MK 30.06.2020. noteikumu Nr. 429 redakcija)
+80. Noteikumi stajas speka 2017. gada 1. marta.91
+            
+              
+              
+            
+          
+Ministru prezidents Maris KucinskisVides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+1. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108
+Precu un pakalpojumu grupas un tam piesaistitas centralizeto iepirkumu institucijas(Pielikums MK 03.04.2018. noteikumu Nr. 201 redakcija, kas grozits ar MK 04.02.2021. noteikumiem Nr. 80)
+1. Biroja papirs un kancelejas preces, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi Valsts regionalas attistibas agentura (turpmak – agentura):1.1. dokumentu uzglabašanas preces;1.2. biroja papirs un papira preces;1.3. rakstamgalda piederumi;1.4. datu neseji un datortehnikas tiramie piederumi;1.5. prezentaciju un biroja piederumi.2. Datortehnika un datortehnikas uzstadišana, par ko centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:2.1. galda datori (darbstacijas);2.2. planšetdatori;2.3. portativie datori;2.4. monitori;2.5. nepartrauktas barošanas avoti;2.6. datortehnikas uzstadišana.3. Demonstracijas iekartas un demonstracijas iekartu uzstadišana, par ko centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:3.1. interaktivas tafeles un ekrani;3.2. interaktivo tafelu un ekranu uzstadišana;3.3. audioiekartas, videoiekartas un fotoiekartas;3.4. demonstracijas iekartu papildierices un piederumi.4. Drukas un kopešanas iekartas, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:4.1. digitalas kopešanas iekartas;4.2. daudzfunkcionalas lazerdrukas iekartas;4.3. daudzfunkcionalas tintes drukas iekartas;4.4. lazerdrukas iekartas;4.5. tintes drukas iekartas;4.6. platformata drukas iekartas;4.7. specializetas drukas iekartas.5. Drukas iekartu piederumi, par kuriem centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:5.1. toneri;5.2. tintes kasetnes;5.3. citi piederumi.6. Mebeles, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:6.1. biroja un apmekletaju kresli;6.2. biroja komplektejamas mebeles;6.3. izglitibas iestažu mebeles;6.4. metala mebeles.7. Programmatura, programmaturas noma un programmaturas izmantošanas apmacibas, par ko centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:7.1. biroja programmatura;7.2. operetajsistemas programmatura;7.3. programmaturas izmantošanas apmacibu kursi;7.4. serveru standarta programmatura un tas atbalsts.8. Saimniecibas preces, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:8.1. papira higienas preces;8.2. sadzives kimija;8.3. telpu uzturešanas un uzkopšanas preces.9. Servertehnika un datu glabatavas, ka ari servertehnikas un datu glabatavu uzstadišana, par ko centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura:9.1. standarta serverstatne ievietojamie serveri un serveru statnes;9.2. komutatori;9.3. asmenserveri un asmenserveru statnes;9.4. datu glabatavas;9.5. nepartrauktas barošanas avoti;9.6. servertehnikas un datu glabatavu uzstadišana un konfigurešana.10. Veselibas apdrošinašanas pakalpojumi, par kuriem centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura.11. Partikas preces, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi agentura.12. Medikamenti, medicinas preces, mediciniskas ierices un individualas aizsardzibas lidzekli (tai skaita dezinfekcijas lidzekli), par kuriem centralizeto publisko iepirkuma proceduru vai proceduras rikojusi Veselibas ministrija, ieverojot agenturas e-pasutijumu sistemai izstradatas tehniskas specifikacijas veidnes un darijumu noteikumus.13. Civilstavokla aktu registracijas veidlapas, par kuram centralizeto publisko iepirkuma proceduru vai proceduras rikojusi Tieslietu ministrija, ieverojot agenturas e-pasutijumu sistemai izstradatas tehniskas specifikacijas veidnes un darijumu noteikumus.
+2. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas dalibnieka registracijas pieteikums un sakotneja administratora pilnvarojums
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+ 
+(dalibnieka nosaukums)
+ko parstav
+ 
+ valdes
+loceklis
+ valdes
+priekšsedetajs
+
+pilnvarota persona
+
+prokurists
+ 
+ 
+ cits
+parstavibas pamats
+ 
+ 
+ 
+ 
+(noradit citu
+parstavibas pamatu vai amatu)
+ 
+ 
+ 
+ 
+ 
+(dalibnieka parstavja
+vards un uzvards)
+ 
+parakstot šo registracijas pieteikumu:
+¦ piekrit pievienoties e-iepirkumu sistemai un iegut
+e-iepirkumu sistemas dalibnieka statusu (noradit tikai vienu
+dalibas veidu e-iepirkumu sistema):
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<U+25CB> piegadatajs (mikro
+uznemums)
+<U+25CB> piegadatajs (videjais
+uznemums)
+ 
+ 
+ 
+<U+25CB> piegadatajs (mazais
+uznemums)
+<U+25CB> piegadatajs (lielais
+uznemums)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<U+25CB> pasutitajs
+ 
+ 
+ 
+ 
+ 
+(noradit pasutitaja
+veidu)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(noradit pasutitaja
+augstaku instituciju vai pašvaldibu (ja attiecinams))
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¦ apnemas e-iepirkumu sistema un tas apakšsistemas ar
+sistema pieejamajiem paraksta rikiem, kas nodrošina lietotaja
+identitates apstiprinašanu, veiktas darbibas, veidotos
+dokumentus un slegtos darijumus atzit par saistošiem un
+parakstitiem ar dalibniekam juridiski saistošu parakstu;
+¦ apnemas ieverot e-iepirkumu sistemas lietošanas
+noteikumus katrai e-iepirkumu sistemas apakšsistemai, kuru
+dalibnieks izmantos, piesaistito dokumentu un tiesisko darijumu
+(tostarp e-pasutijumu apakšsistema speka esošo dinamisko
+iepirkumu sistemu un visparigo vienošanos) nosacijumus, ka
+ari citas e-iepirkumu sistemas dalibniekiem izvirzitas
+prasibas;
+¦ sakotneja
+administratora statusa pilnvaro
+ 
+ 
+(administratora vards un
+uzvards)
+Papildus identifikacijas iespeja sakotnejam administratoram
+(atzimet, ja nepieciešams):
+ 
+ 
+ 
+
+vienota piekluve*
+(nepieciešams personas
+kods):  -
+
+ 
+* administratora
+identifikacijas veids e-iepirkumu sistema ar Valsts
+informacijas sistemu savietotaja vienotas pieteikšanas
+risinajumu (Latvija.lv vienotas pieteikšanas modulis,
+piemeram, e-paraksts) papildus e-iepirkumu sistemas definetajai
+piekluvei – parolei un kodu kartei.
+ 
+Dalibnieka rekviziti:
+identifikacijas numura veids
+un numurs (noradit tikai vienu, velams PVN maksataja,
+numuru):
+ 
+<U+25CB> PVN maksataja Nr.
+ 
+ 
+ 
+(noradit PVN maksataja
+numuru)
+ 
+<U+25CB> Cits numura veids
+ 
+ 
+ 
+ 
+ 
+(noradit numura
+veidu)
+ 
+(noradit citu
+identifikacijas numuru)
+ 
+
+ 
+dalibnieka
+kontaktinformacija un bankas konta numurs:
+ 
+juridiska adrese
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-pasts
+ 
+talruna numurs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+banka
+ 
+konta numurs
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Dalibnieka parstavis
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+3. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas dalibnieka pilnvarota administratora apliecinajums
+
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+Parakstot šo dokumentu, e-iepirkumu sistemas dalibnieka
+ 
+(e-iepirkumu sistemas dalibnieka
+nosaukums)
+pilnvarotais
+administrators
+ 
+ 
+(pilnvarota administratora
+vards un uzvards)
+¦ apliecina, ka ir iepazinies un apnemas ieverot e-iepirkumu
+sistemas lietošanas noteikumus katrai e-iepirkumu sistemas
+apakšsistemai, kuru tas izmantos, piesaistito dokumentu un
+tiesisko darijumu (tostarp e-pasutijumu apakšsistema speka
+esošo dinamisko iepirkumu sistemu un visparigo vienošanos)
+nosacijumus, ka ari citas e-iepirkumu sistemas dalibniekiem
+izvirzitas prasibas;
+¦ apliecina, ka ir informets par ta personas datu apstradi
+e-iepirkumu sistemas ietvaros, kuras merkis ir nodrošinat
+identifikaciju sistema un e-iepirkumu sistemas lietotaju
+kontaktinformaciju;
+¦ apliecina, ka saglabas un nelikumigi neizpaudis personas
+datus;
+¦ apnemas nodrošinat, ka ta izveidotie e-iepirkumu
+sistemas lietotaji rakstveida apliecinas, ka saglabas un
+nelikumigi neizpaudis personas datus.
+Kontaktinformacija:
+ 
+ 
+ 
+Administratora e-pasts
+ 
+ 
+ 
+ 
+ 
+Administratora talruna
+Nr.
+ 
+ 
+ 
+ 
+ 
+
+ 
+Pilnvarotais administrators
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+ 
+
+
+4. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas nozares eksperta pieteikums
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+ 
+(nozari uzraugošas publiskas
+personas nosaukums)
+ko parstav
+ 
+ valdes
+loceklis
+ valdes
+priekšsedetajs
+
+pilnvarota persona
+
+prokurists
+ 
+ 
+ cits
+parstavibas pamats
+ 
+ 
+ 
+ 
+(noradit citu
+parstavibas pamatu vai amatu)
+ 
+ 
+ 
+ 
+ 
+(nozari uzraugošas
+publiskas personas parstavja vards un uzvards)
+ 
+
+ 
+nozares eksperta statusa
+noriko
+ 
+ 
+(nozares eksperta vards un
+uzvards)
+šadas precu un pakalpojumu grupas (atzimet
+nepieciešamas grupas):
+ Biroja
+papirs un kancelejas preces
+
+Civilstavokla aktu registracijas veidlapas
+ Drukas
+iekartu piederumi
+ Drukas
+un kopešanas iekartas
+
+Datortehnika un datortehnikas uzstadišana
+
+Demonstracijas iekartas un demonstracijas iekartu
+uzstadišana
+
+Programmatura, programmaturas noma un programmaturas
+izmantošanas apmacibas
+
+Servertehnika un datu glabatavas, ka ari servertehnikas un datu
+glabatavu uzstadišana
+
+Medikamenti un medicinas preces
+
+Veselibas apdrošinašanas pakalpojumi
+
+Partikas preces
+
+Mebeles
+
+Saimniecibas preces
+ Cita
+e-pasutijumu apakšsistema pieejama precu vai pakalpojumu
+grupa (noradit grupu):
+ 
+ 
+ 
+ 
+(precu vai pakalpojumu
+grupas nosaukums)
+ 
+Papildu identifikacijas iespeja nozares ekspertam
+(atzimet, ja nepieciešams):
+ 
+ 
+ 
+
+vienota piekluve*
+(nepieciešams personas
+kods):  -
+
+ 
+* nozares eksperta
+identifikacijas veids e-iepirkumu sistema ar Valsts
+informacijas sistemu savietotaja vienotas pieteikšanas
+risinajumu (Latvija.lv vienotas pieteikšanas modulis,
+piemeram, e-paraksts) papildus e-iepirkumu sistemas definetajai
+piekluvei – parolei un kodu kartei.
+ 
+
+ 
+Nozari uzraugošas publiskas personas
+parstavis
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+4.1 pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas nozares eksperta apliecinajums
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+Parakstot šo dokumentu, nozari uzraugošas publiskas
+personas
+ 
+(nozari uzraugošas publiskas
+personas nosaukums)
+norikotais nozares
+eksperts
+ 
+ 
+(nozares eksperta vards un
+uzvards)
+¦ apliecina, ka ir iepazinies un apnemas ieverot e-iepirkumu
+sistemas lietošanas noteikumus katrai e-iepirkumu sistemas
+apakšsistemai, kuru tas izmantos, piesaistito dokumentu
+nosacijumus, ka ari citas e-iepirkumu sistemas dalibniekiem
+izvirzitas prasibas;
+¦ apliecina, ka ir informets par ta personas datu apstradi
+e-iepirkumu sistemas ietvaros, kuras merkis ir nodrošinat
+identifikaciju sistema un e-iepirkumu sistemas lietotaju
+kontaktinformaciju;
+¦ apliecina, ka saglabas un nelikumigi neizpaudis personas
+datus;
+¦ apliecina, ka e-iepirkumu sistema un tas apakšsistemas
+pieškirto tiesibu ietvaros iegus tikai tas zinas, kas
+nepieciešamas nozares eksperta funkciju veikšanai nozari
+uzraugošas publiskas personas kompetence ietilpstošajas
+precu un pakalpojumu grupas;
+¦ apliecina, ka saglabas un nelikumigi neizpaudis zinas,
+kas, veicot nozares eksperta funkcijas, iegutas e-iepirkumu
+sistema un tas apakšsistemas.
+Kontaktinformacija:
+ 
+ 
+ 
+Nozares eksperta e-pasts
+ 
+ 
+ 
+ 
+ 
+Nozares eksperta talruna
+Nr.
+ 
+ 
+ 
+ 
+ 
+
+ 
+Nozares eksperts
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+4.2 pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas iepirkumu uzrauga pieteikums
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+ 
+(iepirkumus uzraugošas publiskas
+personas nosaukums)
+ko parstav
+ 
+ valdes
+loceklis
+ valdes
+priekšsedetajs
+
+pilnvarota persona
+
+prokurists
+ 
+ 
+ cits
+parstavibas pamats
+ 
+ 
+ 
+ 
+(noradit citu
+parstavibas pamatu vai amatu)
+ 
+ 
+ 
+ 
+ 
+(iepirkumus uzraugošas
+publiskas personas parstavja vards un uzvards)
+ 
+pamatojoties uz šadu arejo tiesibu aktu, kura noteiktas
+tiesibas tieši un nepastarpinati pieklut iepirkuma
+proceduram un tajas esošajai informacijai:
+ 
+(arejais tiesibu akts un
+atbilstoša tiesibu akta norma)
+iepirkumu uzrauga statusa
+noriko
+ 
+ 
+(iepirkumu uzrauga vards
+un uzvards)
+Papildu identifikacijas iespeja iepirkumu uzraugam
+(atzimet, ja nepieciešams):
+ 
+ 
+ 
+
+vienota piekluve*
+(nepieciešams personas
+kods):  -
+
+ 
+* iepirkumu uzrauga
+identifikacijas veids e-iepirkumu sistema ar Valsts
+informacijas sistemu savietotaja vienotas pieteikšanas
+risinajumu (Latvija.lv vienotas pieteikšanas modulis,
+piemeram, e-paraksts) papildus e-iepirkumu sistemas definetajai
+piekluvei – parolei un kodu kartei.
+ 
+
+ 
+Iepirkumus uzraugošas publiskas
+personas parstavis
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+4.3 pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija)
+E-iepirkumu sistemas iepirkumu uzrauga apliecinajums
+
+ 
+ 
+ 
+ 
+(vieta)
+ 
+(datums)
+ 
+Parakstot šo dokumentu, iepirkumus uzraugošas publiskas
+personas
+ 
+(iepirkumus uzraugošas publiskas
+personas nosaukums)
+norikotais iepirkumu
+uzraugs
+ 
+ 
+(iepirkumu uzrauga vards
+un uzvards)
+¦ apliecina, ka ir iepazinies un apnemas ieverot e-iepirkumu
+sistemas lietošanas noteikumus katrai e-iepirkumu sistemas
+apakšsistemai, kuru tas izmantos, piesaistito dokumentu
+nosacijumus, ka ari citas e-iepirkumu sistemas dalibniekiem
+izvirzitas prasibas;
+¦ apliecina, ka ir informets par ta personas datu apstradi
+e-iepirkumu sistemas ietvaros, kuras merkis ir nodrošinat
+identifikaciju sistema un e-iepirkumu sistemas lietotaju
+kontaktinformaciju;
+¦ apliecina, ka saglabas un nelikumigi neizpaudis personas
+datus;
+¦ apliecina, ka e-iepirkumu sistema un tas apakšsistemas
+pieškirto tiesibu ietvaros iegus tikai tas zinas, kas
+nepieciešamas iepirkumu uzrauga funkciju veikšanai iepirkumus
+uzraugošas publiskas personas kompetence ietilpstošajos
+iepirkumos un iepirkuma proceduras;
+¦ apliecina, ka saglabas un nelikumigi neizpaudis zinas,
+kas, veicot iepirkumu uzrauga funkcijas, iegutas e-iepirkumu
+sistema un tas apakšsistemas.
+Kontaktinformacija:
+ 
+ 
+ 
+Iepirkumu uzrauga e-pasts
+ 
+ 
+ 
+ 
+ 
+Iepirkumu uzrauga talruna Nr.
+ 
+ 
+ 
+ 
+ 
+
+ 
+Iepirkumu uzraugs
+ 
+ 
+ 
+ 
+(vards un uzvards)
+ 
+(paraksts)
+Piezime. Dokumenta rekvizitu "paraksts" neaizpilda, ja
+dokuments ir sagatavots atbilstoši normativajiem aktiem par
+elektronisko dokumentu noformešanu.
+
+
+5. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 12.06.2018. noteikumu Nr. 335 redakcija)
+
+
+<datums>
+
+E-IZZINApar likvidacijas un maksatnespejas procesiem,
+saimnieciskas darbibas apturešanu vai registracijas
+valsti
+
+Serija URN Nr. <Transakcijas numurs> -
+<Dokumenta numurs>
+Parbaudamas personas dati: <juridiskajam personam:
+«juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Uznemumu registra ir šadi dati par parbaudamas personas
+maksatnespejas procesu <Juridiskajam personam:
+likvidaciju vai apturetu saimniecisko darbibu>.
+<datums un apraksts>.
+Latvijas Republika Uznemumu registra registretai
+parbaudamai personai saistiba ar arzonas1 fakta
+noteikšanu <dati nav pieejami (nepieciešama informacija
+arpus e-izzinu apakšsistemas pieprasama no parbaudamas
+personas).>/<nav datu par arvalstis registretam
+juridiskam personam, kas ir vairak neka 25 procentu kapitala
+dalu (akciju) ipašnieki (turetaji).>/<ir šadi
+dati par arvalstis registretam juridiskam
+personam:>
+
+Personas statuss
+
+Registracijas valsts
+Persona, kuras filiale registreta
+Latvijas Republika
+<valsts>
+Vairak neka 25 procentu kapitala
+dalu ipašnieks vai turetajs
+<valsts>
+Piezime. 1 To zemu nodoklu vai beznodoklu
+valstu vai teritoriju saraksts, kuras nav uzskatamas par arzonu
+Publisko iepirkumu likuma 1. panta
+3.1 punkta izpratne, pieejams Iepirkumu
+uzraudzibas biroja timeklvietne.
+Informacijas pieprasijuma pamatojums:
+<likums><likuma pants>.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+Ja informacija, kas par kandidatu
+vai pretendentu ieguta no datubazes vai no citiem avotiem,
+neatbilst faktiskajai situacijai, attiecigais kandidats vai
+pretendents ir tiesigs iesniegt pasutitajam izzinu vai citu
+dokumentu par attiecigo faktu.
+
+
+
+6. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums MK 12.06.2018. noteikumu Nr. 335 redakcija)
+
+
+<datums>
+
+E-IZZINApar likvidacijas un maksatnespejas procesiem,
+saimnieciskas darbibas apturešanu vai registracijas
+valsti
+
+Serija URA Nr. <Transakcijas numurs> -
+<Dokumenta numurs>
+Parbaudamas personas dati: <juridiskajam personam:
+«juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Uznemumu registra nav aktualo datu par parbaudamas
+personas maksatnespejas procesu <Juridiskajam personam:
+likvidaciju vai apturetu saimniecisko darbibu>.
+Latvijas Republika Uznemumu registra registretai
+parbaudamai personai saistiba ar arzonas1 fakta
+noteikšanu <dati nav pieejami (nepieciešama informacija
+arpus e-izzinu apakšsistemas pieprasama no parbaudamas
+personas).>/<nav datu par arvalstis registretam
+juridiskam personam, kas ir vairak neka 25 procentu kapitala
+dalu (akciju) ipašnieki (turetaji).>/<ir šadi
+dati par arvalstis registretam juridiskam
+personam:>
+
+Personas statuss
+
+Registracijas valsts
+Persona, kuras filiale registreta
+Latvijas Republika
+<valsts>
+Vairak neka 25 procentu kapitala
+dalu ipašnieks vai turetajs
+<valsts>
+Piezime. 1 To zemu nodoklu vai beznodoklu
+valstu vai teritoriju saraksts, kuras nav uzskatamas par arzonu
+Publisko iepirkumu likuma 1. panta
+3.1 punkta izpratne, pieejams Iepirkumu
+uzraudzibas biroja timeklvietne.
+Informacijas pieprasijuma pamatojums:
+<likums><likuma pants>.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+Ja informacija, kas par kandidatu
+vai pretendentu ieguta no datubazes vai no citiem avotiem,
+neatbilst faktiskajai situacijai, attiecigais kandidats vai
+pretendents ir tiesigs iesniegt pasutitajam izzinu vai citu
+dokumentu par attiecigo faktu.
+
+
+
+Vides aizsardzibas un regionalas attistibas ministrijas iesniegtaja redakcija7. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums grozits ar MK 30.06.2020. noteikumiem Nr. 429)
+
+<datums>
+E-IZZINApar iepirkumus regulejošajos normativajos aktos
+paredzetajiem parkapumiem
+Serija SRA Nr. <Transakcijas numurs> -
+<Dokumenta numurs>
+Persona, par kuru Latvijas Republikas Iekšlietu ministrijas
+Informacijas centra Sodu registra ir apkopotas zinas par
+tiesibu aktu parkapumiem: <juridiskajam personam:
+«juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Personai nav tadu tiesibu aktu <(tai skaita
+profesionalas darbibas*)> parkapumu (vai ir konkurences
+tiesibu parkapums, bet par sadarbibu iecietibas programmas
+ietvaros persona ir atbrivota no naudas soda vai naudas sods
+samazinats), par kuriem kandidats vai pretendents izsledzams no
+dalibas iepirkuma procedura, vai kompetentas institucijas
+lemums, prokurora priekšraksts par sodu (neattiecas uz
+profesionalas darbibas parkapumiem) vai tiesas spriedums par
+tiesibu aktu parkapumiem, par kuriem kandidats vai pretendents
+butu izsledzams no dalibas iepirkuma procedura, nav stajies
+speka un nav kluvis neapstridams un neparsudzams vai ari
+tiesibu aktu parkapumiem ir iestajies iepirkumus regulejošos
+tiesibu aktos paredzetais noilgums.
+<*Tiesibu normas, kuras attiecas uz profesionalas
+darbibas parkapumiem un kuras e-izzinas pieprasitajs bija
+noradijis parbaudei: <*viens vai vairaki tiesibu akti
+<likums pants/dala/punkts>>
+Informacijas pieprasijuma pamatojums: <likums>
+<likuma pants>.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+Ja informacija, kas par kandidatu
+vai pretendentu ieguta no datubazes vai no citiem avotiem,
+neatbilst faktiskajai situacijai, attiecigais kandidats vai
+pretendents ir tiesigs iesniegt pasutitajam izzinu vai citu
+dokumentu par attiecigo faktu.
+
+
+Vides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+Vides aizsardzibas un regionalas attistibas ministrijas iesniegtaja redakcija
+8. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108(Pielikums grozits ar MK 30.06.2020. noteikumiem Nr. 429)
+
+<datums>
+E-IZZINApar iepirkumus regulejošajos normativajos aktos
+paredzetajiem parkapumiem
+Serija SRN Nr. <Transakcijas numurs> -
+<Dokumenta numurs>
+Persona, par kuru Latvijas Republikas Iekšlietu ministrijas
+Informacijas centra Sodu registra ir apkopotas zinas par
+tiesibu aktu parkapumiem: <juridiskajam personam:
+«juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Personas tiesibu aktu parkapumi (iznemot konkurences
+tiesibu parkapumus, kuros par sadarbibu iecietibas programmas
+ietvaros persona ir atbrivota no naudas soda vai naudas sods
+samazinats), par kuriem kompetentas institucijas lemums,
+prokurora priekšraksts par sodu (neattiecas uz profesionalas
+darbibas parkapumiem) vai tiesas spriedums stajies speka un
+kluvis neapstridams un neparsudzams un par kuriem nav
+iestajies iepirkumus regulejošos tiesibu aktos paredzetais
+noilgums:
+Parkapumi, kas ir pamats
+izslegšanai no dalibas iepirkuma vai iepirkuma procedura
+Tiesibu akts
+Tiesibu akta norma
+<likuma
+nosaukums>
+
+<Pants/dala/punkts>
+
+<likuma
+nosaukums>
+
+<Pants/dala/punkts>
+
+ 
+Profesionalas darbibas
+parkapumi*
+
+Tiesibu normas, kuras e-izzinas pieprasitajs bija noradijis
+parbaudei: <viens vai vairaki tiesibu akti <likums
+pants/dala/punkts>>
+Tiesibu akts
+Tiesibu akta norma
+<likuma
+nosaukums>
+
+<Pants/dala/punkts>
+
+<likuma
+nosaukums>
+
+<Pants/dala/punkts>
+
+*
+Pasutitajs profesionalas darbibas parkapumus ir tiesigs
+nem vera tikai tad, ja šie parkapumi, ka kandidata vai
+pretendenta izslegšanas iemesls no turpmakas dalibas iepirkuma
+procedura, ir bijuši noraditi pazinojuma par ligumu vai
+iepirkuma proceduras dokumentos.
+Informacijas pieprasijuma pamatojums:
+<likums><likuma pants>.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+Ja informacija, kas par kandidatu
+vai pretendentu ieguta no datubazes vai no citiem avotiem,
+neatbilst faktiskajai situacijai, attiecigais kandidats vai
+pretendents ir tiesigs iesniegt pasutitajam izzinu vai citu
+dokumentu par attiecigo faktu.
+
+
+Vides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+Vides aizsardzibas un regionalas attistibas ministrijas iesniegtaja redakcija
+9. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108
+
+<datums>
+E-IZZINApar nodoklu nomaksas statusu
+Serija NO Nr. <Transakcijas numurs> - <Dokumenta
+numurs>
+Persona, par kuru ir apkopotas zinas par nodoklu samaksu:
+<juridiskajam personam: «juridiskas personas
+nosaukums», registracijas Nr. «juridiskas personas
+registracijas numurs» vai fiziskajam personam: «fiziskas
+personas vards un uzvards» personas kods «fiziskas personas
+kods»>.
+Personas nodoklu samaksas statuss valsts un pašvaldibu
+nodoklu administracijas:
+Nr. p.k.
+Nodoklu administracijas nosaukums
+Datu aktualizacijas datums registra
+Zinu sanemšanas datums un laiks
+Nodoklu parads (EUR)
+1
+Valsts ienemumu dienests
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+2
+Adažu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+3
+Aglonas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+4
+
+Aizkraukles novada pašvaldiba
+
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+5
+Aizputes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+6
+Aknistes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+7
+Alojas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+8
+Alsungas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+9
+Aluksnes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+10
+Amatas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+11
+Apes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+12
+Auces novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+13
+Babites novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+14
+Baldones novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+15
+Baltinavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+16
+Balvu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+17
+Bauskas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+18
+Beverinas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+19
+Brocenu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+20
+Burtnieku novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+21
+Carnikavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+22
+Cesu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+23
+Cesvaines novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+24
+Ciblas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+25
+Dagdas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+26
+Daugavpils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+27
+Daugavpils pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+28
+Dobeles novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+29
+Dundagas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+30
+Durbes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+31
+Engures novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+32
+Erglu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+33
+Garkalnes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+34
+Grobinas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+35
+Gulbenes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+36
+Iecavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+37
+Ikškiles novada dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+38
+Ilukstes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+39
+Incukalna novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+40
+Jaunjelgavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+41
+Jaunpiebalgas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+42
+Jaunpils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+43
+Jekabpils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+44
+Jekabpils pilsetas pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+45
+Jelgavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+46
+Jelgavas pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+47
+Jurmalas pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+48
+Kandavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+49
+Karsavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+50
+Keguma novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+51
+Kekavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+52
+Kocenu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+53
+Kokneses novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+54
+Kraslavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+55
+Krimuldas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+56
+Krustpils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+57
+Kuldigas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+58
+Lielvardes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+59
+Liepajas pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+60
+Ligatnes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+61
+Limbažu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+62
+Livanu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+63
+Lubanas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+64
+Ludzas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+65
+Madonas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+66
+Malpils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+67
+Marupes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+68
+Mazsalacas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+69
+Mersraga novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+70
+Naukšenu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+71
+Neretas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+72
+Nicas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+73
+Ogres novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+74
+Olaines novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+75
+Ozolnieku novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+76
+Pargaujas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+77
+Pavilostas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+78
+Plavinu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+79
+Preilu novada dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+80
+Priekules novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+81
+Priekulu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+82
+Raunas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+83
+Rezeknes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+84
+Rezeknes pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+85
+Riebinu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+86
+Rigas pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+87
+Rojas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+88
+Ropažu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+89
+Rucavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+90
+Rugaju novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+91
+Rujienas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+92
+Rundales novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+93
+Salacgrivas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+94
+Salas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+95
+Salaspils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+96
+Saldus novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+97
+Saulkrastu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+98
+Sejas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+99
+Siguldas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+100
+Skriveru novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+101
+Skrundas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+102
+Smiltenes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+103
+Stopinu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+104
+Strencu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+105
+Talsu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+106
+Tervetes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+107
+Tukuma novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+108
+Vainodes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+109
+Valkas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+110
+Valmieras pilsetas pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+111
+Varaklanu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+112
+Varkavas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+113
+Vecpiebalgas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+114
+Vecumnieku novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+115
+Ventspils novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+116
+Ventspils pilsetas dome
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+117
+Viesites novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+118
+Vilakas novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+119
+Vilanu novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+120
+Zilupes novada pašvaldiba
+
+<datums>
+<Datums
+un laiks>
+
+<Parada apjoms vai pazinojums, ka zinas nav sanemtas (ar
+noradi atkartoti pieprasit informaciju no sistemas vai
+attieciga registra parzina) vai pazinojums, ka zinas par
+attiecigo personu registra netiek uzkratas>
+
+Nodoklu paradu
+kopsumma (<administraciju skaits, no kuram ir sanemtas
+zinas> no 120 nodoklu administracijam):
+
+
+<Paradu kopsumma>
+Informacijas pieprasijuma pamatojums: <likums>
+<likuma pants>.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+Ja informacija, kas par kandidatu
+vai pretendentu ieguta no datubazes vai no citiem avotiem,
+neatbilst faktiskajai situacijai, attiecigais kandidats vai
+pretendents ir tiesigs iesniegt pasutitajam izzinu vai citu
+dokumentu par attiecigo faktu.
+
+
+Vides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+Vides aizsardzibas un regionalas attistibas ministrijas iesniegtaja redakcija
+10. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108
+
+<Datums>
+PAZINOJUMSpar registra nepieejamibu
+Serija NZ Nr.<VISS transakcijas numurs>
+Persona, par kuru ir pieprasitas zinas: <juridiskajam
+personam: «juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Zinas no <registra nosaukums genitiva>
+e-izzinas sagatavošanai par <izzinas nosaukums>
+nav sanemtas.
+Veiciet atkartotu elektroniskas izzinas pieprasišanu vai
+pieprasiet nepieciešamo informaciju iesniegt attiecigajam
+registra parzinim.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-Izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+
+
+Vides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+Vides aizsardzibas un regionalas attistibas ministrijas iesniegtaja redakcija
+11. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108
+
+<Datums>
+PAZINOJUMSpar zinu neesibu registra
+Serija NA Nr. <VISS transakcijas numurs>
+Persona, par kuru ir pieprasitas zinas: <juridiskajam
+personam: «juridiskas personas nosaukums», registracijas Nr.
+«juridiskas personas registracijas numurs» vai fiziskajam
+personam: «fiziskas personas vards un uzvards» personas kods
+«fiziskas personas kods»>.
+Zinas <registra nosaukums lokativa> par šo
+personu netiek uzkratas vai ari šo personu registra pec
+pieprasijuma noraditas informacijas nav iespejams
+identificet.
+Izzina sagatavota
+elektroniski un deriga bez paraksta
+E-izzinas autentiskuma parbaudes kods: <7 simbolu
+kods>
+
+
+Vides aizsardzibas unregionalas attistibas ministrs Kaspars Gerhards
+12. pielikums
+Ministru kabineta
+2017. gada 28. februara
+noteikumiem Nr. 108
+Sodu registra parbaudamas tiesibu normas e-izzinas vajadzibam(Pielikums MK 16.07.2019. noteikumu Nr. 351 redakcija, kas grozita ar MK 30.06.2020. noteikumiem Nr. 429; grozijumi 1. un 3. punkta, kas paredz papildinat parbaudamas tiesibu normas ar Darba likuma, likuma "Par nodokliem un nodevam" un Imigracijas likuma pantiem, stajas speka 01.07.2020., sk. noteikumu 79.5 punktu)
+
+1. Parbaudamas tiesibu normas attieciba uz pretendentu,
+kandidatu, personalsabiedribas biedru (ja kandidats vai
+pretendents ir personalsabiedriba) un personu, uz kuras
+iespejam pretendents vai kandidats balstas, lai apliecinatu,
+ka ta kvalifikacija atbilst pazinojuma par ligumu vai
+iepirkuma proceduras dokumentos noteiktajam prasibam
+
+Tiesibu akts
+
+Tiesibu akta norma
+Parbaudes periods (meneši)
+Kriminallikums
+
+79.1 pants
+36
+
+79.2 pants
+
+79.3 pants
+
+79.4 pants
+
+79.5 pants
+
+79.6 pants
+88.
+pants
+
+88.1 pants
+
+88.2 pants
+
+88.3 pants
+
+89.1 pants
+
+154.1 pants
+177.
+pants
+
+177.1 pants
+178.
+pants
+179.
+pants
+184.
+panta treša dala
+
+190.1 pants
+195.
+pants
+198.
+pants
+199.
+pants
+218.
+pants
+320.
+pants
+321.
+pants
+322.
+pants
+323.
+pants
+326.
+pants
+
+326.1 pants
+
+326.2 pants
+
+326.3 pants
+
+Konkurences likums
+11.
+panta pirma dala (tostarp jebkurš no minetas dalas
+apakšpunktiem), ja horizontalo kartela vienošanos ka
+izslegšanas pamatu no iepirkuma proceduras ir noradijusi
+Konkurences padome
+12
+Latvijas Administrativo parkapumu kodekss*
+
+Vienlaikus konstateti parkapumi: 41. panta otra dala
+un 159.8 panta septita dala
+12
+
+189.2 panta treša dala
+36
+
+Darba likums,
+likums "Par nodokliem un nodevam"
+
+
+Vienlaikus konstateti parkapumi: Darba likuma 158. pants
+un likuma "Par nodokliem un nodevam" 142. pants
+12
+
+Imigracijas likums
+
+68.4 pants
+36
+
+Piezime. * Tiek piemerots par parkapumiem, kuri
+izdariti lidz 2020. gada 1. julijam, bet kuru soda
+izpilde un sodamibas dzešana notiek saskana ar
+Administrativas atbildibas likumu.
+
+2. Parbaudamas tiesibu normas attieciba uz ša pielikuma
+1. punkta mineto personu valdes vai padomes locekli,
+parstavettiesigo personu, prokuristu vai personu, kura ir
+pilnvarota parstavet šis personas darbibas, kas saistitas
+ar filiali
+Tiesibu akts
+Tiesibu akta norma
+Parbaudes periods (meneši)
+
+Kriminallikums
+79.1
+pants
+36
+79.2
+pants
+79.3
+pants
+79.4
+pants
+79.5
+pants
+79.6
+pants
+88. pants
+88.1
+pants
+88.2
+pants
+88.3
+pants
+89.1
+pants
+154.1
+pants
+177. pants
+177.1
+pants
+178. pants
+179. pants
+184. panta treša
+dala
+190.1
+pants
+195. pants
+198. pants
+199. pants
+218. pants
+320. pants
+321. pants
+322. pants
+323. pants
+326. pants
+326.1
+pants
+326.2
+pants
+326.3
+pants
+3. Parbaudamas tiesibu normas attieciba uz
+pretendenta noradito apakšuznemeju, kura veicamo buvdarbu
+vai sniedzamo pakalpojumu vertiba ir vismaz 10 procenti no
+kopejas iepirkuma liguma vertibas
+Tiesibu akts
+Tiesibu akta norma
+Parbaudes periods (meneši)
+
+Konkurences likums
+11.
+panta pirma dala (tostarp jebkurš no minetas dalas
+apakšpunktiem), ja horizontalo kartela vienošanos ka
+izslegšanas pamatu no iepirkuma proceduras ir noradijusi
+Konkurences padome
+12
+Latvijas Administrativo parkapumu
+kodekss*
+
+Vienlaikus konstateti parkapumi: 41. panta otra dala
+un 159.8 panta septita dala
+12
+
+189.2 panta treša dala
+36
+
+Darba likums,
+likums "Par nodokliem un nodevam"
+
+
+Vienlaikus konstateti parkapumi: Darba likuma 158. pants
+un likuma "Par nodokliem un nodevam" 142. pants
+12
+
+Imigracijas likums
+
+68.4 pants
+36
+
+Piezime. * Tiek piemerots par parkapumiem, kuri
+izdariti lidz 2020. gada 1. julijam, bet kuru soda
+izpilde un sodamibas dzešana notiek saskana ar
+Administrativas atbildibas likumu.

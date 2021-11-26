@@ -1,0 +1,80 @@
+2020 No. 855
+ENVIRONMENTAL PROTECTION
+
+The Offshore Chemicals and Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Coronavirus) (Amendment) Regulations 2020
+Made12th August 2020
+Laid before Parliament14th August 2020
+Coming into force5th September 2020
+The Secretary of State has consulted the persons required to be consulted by section 2(4) of the Pollution Prevention and Control Act 1999(1) and makes these Regulations in exercise of the powers conferred by section 2 and section 7(9) of that Act.
+
+PART 1
+Citation and commencement
+1.  These Regulations may be cited as the Offshore Chemicals and Offshore Petroleum Activities (Oil Pollution Prevention and Control) (Coronavirus) (Amendment) Regulations 2020 and come into force on 5th September 2020.
+
+PART 2
+Amendment to the Offshore Chemicals Regulations 2002
+2.  The Offshore Chemicals Regulations 2002(2) are amended as follows.
+
+3.  After regulation 7, insert—
+
+“Coronavirus: temporary modifications
+7A.—(1) This regulation applies—
+
+(a)where the effects of coronavirus, including any restrictions on movement, mean that it is not reasonably practicable for the public to inspect copies of documents at a specified address within the United Kingdom; and
+(b)the date is not later than the end of the period of 12 months beginning with the day on which this regulation comes into force.
+(2) Where paragraph (1) applies, regulation 7 has effect as if—
+
+(a)in paragraph (1)—
+(i)for sub-paragraph (a), there were substituted—
+“(a)for a period of not less than four weeks immediately following the publication (or last publication, where it is published in more than one newspaper or on more than one occasion) of the notice referred to in sub-paragraph (d), publish a copy of the permit application on a website accessible to the public where the public can view and download information placed upon it;”;
+(ii)in sub-paragraph (d)—
+(aa)for sub-paragraph (ii), there were substituted—
+“(ii)gives the website address referred to in sub-paragraph (a) where the permit application can be viewed;”; and
+(bb)for sub-paragraph (iii), there were substituted—
+“(iii)states that a copy of the permit application may be obtained free of charge from the address referred to in sub-paragraph (b) by post or electronically; and”; and
+(iii)in paragraph (e), after “appeared”, there were inserted “and the address of the website referred to in sub-paragraph (a);
+(b)paragraph (3)(b) were omitted; and
+(c)paragraphs (1)(b), (1)(c) and (3) did not require the permit applicant to make copies of the permit application available for collection in person.
+(3) In this regulation, “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).”.
+
+PART 3
+Amendment to the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005
+4.  The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005(3) are amended as follows.
+
+5.  After regulation 5A, insert—
+
+“Coronavirus: temporary modifications
+5B.—(1) This regulation applies—
+
+(a)where the effects of coronavirus, including any restrictions on movement, mean that it is not reasonably practicable for the public to inspect copies of documents at a specified address within the United Kingdom; and
+(b)the date is not later than the end of the period of 12 months beginning with the day on which this regulation comes into force.
+(2) Where paragraph (1) applies, regulation 5A has effect as if—
+
+(a)in paragraph (1), for sub-paragraph (a), there were substituted—
+“(a)publish a copy of the application on a website accessible to the public where the public can view and download information placed upon it; and”;
+(b)in paragraph (2)—
+(i)for sub-paragraph (b), there were substituted “gives the address of the website referred to in sub-paragraph (a)”; and
+(ii)in sub-paragraph (c), the words “and specifies the amount of any payment required in accordance with paragraph (4)” were omitted; and
+(c)in paragraph (4)—
+(i)for sub-paragraph (a), there were substituted—
+“(a)must supply a copy free of charge as soon as reasonably practicable by post or electronically”; and
+(ii)sub-paragraph (b) were omitted.
+(3) In this regulation, “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).”.
+
+Kwasi KwartengMinister of StateDepartment for Business, Energy and Industrial Strategy
+12th August 2020
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations make temporary modifications to the Offshore Chemicals Regulations 2002 (S.I. 2002/1355) (“the 2002 Regulations”) and the Offshore Petroleum Activities (Oil and Pollution Prevention and Control) Regulations 2005 (S.I. 2005/2055) (“the 2005 Regulations”).
+
+The 2002 Regulations set out various requirements for obtaining a permit to allow an operator to use and discharge chemicals. The 2005 Regulations provide that, in order for operators of offshore installations to discharge oil into relevant waters, a permit must be granted to them. Both sets of regulations set out the procedures to be followed when making a permit application.
+
+The modifications made by these Regulations disapply the requirement for applicants for such permits to make copies of relevant documents available for public inspection at an address in the United Kingdom where the effects of coronavirus mean that is not reasonably practicable for the public to inspect them. They provide that copies of documents do not need to be made available to be obtained in person in these circumstances and that copies of the application for consent must be accessible on a public website or supplied by post free of charge or provided electronically where requested, during this period. The modifications will lapse 12 months after the Regulations come into force.
+
+An impact assessment has not been produced for this instrument as this is a temporary, emergency measure and no significant impact on business, charities, voluntary bodies or the public sector is foreseen.
+
+(1)1999 c. 24. Relevant amendments to section 2 are made by S.I. 2013/755.
+(2)S.I. 2002/1355. Relevant amendments are made by S.I. 2016/912.
+(3)S.I. 2005/2055. Regulation 5A was inserted by S.I. 2011/983 and amended by S.I. 2016/912.

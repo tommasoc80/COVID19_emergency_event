@@ -1,0 +1,148 @@
+
+
+
+
+
+
+Lietuvos Respublikos Vyriausybė
+
+nutarimas
+DĖL PRIEMONĖS „SUBSIDIJOS NUO COVID-19 NUKENTĖJUSIOMS įmonėms“ lėšų skyrimo IR ADMINISTRAVIMO TVARKOS APRAŠO patvirtinimo 
+
+2021 m. sausio 15 d. Nr. 24
+Vilnius
+
+Atsižvelgdama į Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 4 d. nutarimo Nr. 1226 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ 6 punktą ir Subsidijų nuo COVID-19 nukentėjusioms įmonėms koncepciją, kuriai pritarta Lietuvos Respublikos Vyriausybės 2020 m. gruodžio 30 d. pasitarimo sprendimu (pasitarimo protokolas Nr. 59), Lietuvos Respublikos Vyriausybė nutaria:
+1. Patvirtinti Priemonės „Subsidijos nuo COVID-19 nukentėjusioms įmonėms“ lėšų skyrimo ir administravimo tvarkos aprašą (pridedama).
+2. Įgalioti Lietuvos Respublikos ekonomikos ir inovacijų ministrą tvirtinti: 
+2.1. nuo COVID-19 nukentėjusios savarankiškos įmonės subsidijos paraiškos formą;
+2.2. nuo COVID-19 nukentėjusios nesavarankiškos įmonės subsidijos paraiškos formą.
+
+
+
+
+Ministrė Pirmininkė	              Ingrida Šimonytė
+
+
+
+Ekonomikos ir inovacijų ministrė	              Aušrinė Armonaitė	
+
+PATVIRTINTA Lietuvos Respublikos Vyriausybės 2021 m. sausio 15 d.nutarimu Nr. 24  
+
+
+PRIEMONĖS „SUBSIDIJOS NUO COVID-19 NUKENTĖJUSIOMS įmonėms“ lėšų skyrimo IR administravimo TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Priemonės „Subsidijos nuo COVID-19 nukentėjusioms įmonėms“ lėšų skyrimo ir administravimo tvarkos aprašas (toliau – Aprašas) nustato sąlygas, kurias atitinkančios nuo  COVID-19 nukentėjusios įmonės gali kreiptis dėl negrąžinamosios subsidijos (toliau – subsidija) pagal Priemonę „Subsidijos nuo COVID-19 nukentėjusioms įmonėms“ (toliau – Priemonė), subsidijų pareiškėjams skyrimo ir administravimo tvarką, reikalavimus subsidijai ir jos panaudojimui, taip pat įgyvendinant Priemonę dalyvaujančių institucijų funkcijas.
+2. Visa informacija apie galimybę gauti subsidijas teikiama interneto svetainėse www.eimin.lt, www.vmi.lt ir www.lvpa.lt.
+3. Aprašas yra parengtas, atsižvelgiant į: 
+3.1. 2020 m. kovo 20 d. Europos Komisijos komunikato „Laikinoji valstybės pagalbos priemonių, skirtų ekonomikai remti reaguojant į dabartinį COVID-19 protrūkį, sistema“ su paskutiniais pakeitimais, padarytais 2020 m. spalio 13 d. Europos Komisijos komunikatu (toliau – Komunikatas), 3.1 skirsnį ir bendrąsias nuostatas;
+3.2. 2020 m. gruodžio 22 d. Europos Komisijos sprendimu Nr. C(2020) 9618 patvirtintą Valstybės pagalbos schemą „SA.60308 (2020/N) – Lietuva COVID-19: subsidijos įmonėms“ ir 2021 m. sausio 14 d. Europos Komisijos sprendimu Nr. C(2021) 274 patvirtintą Valstybės pagalbos schemą „SA. 60977 (2021/N) – Lietuva – SA.60308 COVID-19: subsidijos įmonėms“ pakeitimas“ (toliau kartu – valstybės pagalbos schema).
+4. Apraše vartojamos sąvokos:
+4.1. Įmonė – ekonominę veiklą vykdantis juridinis asmuo (išskyrus valstybės ir savivaldybių įmones ir įmones, kuriose 25 procentus (kultūros sektoriaus įmonių atveju – 50 procentų) ir daugiau įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba 25 procentus (kultūros sektoriaus įmonių atveju – 50 procentų) ir daugiau įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ar kitu pagrindu) atskirai arba kartu turi valstybė ir (ar) savivaldybė), kurio metinės pajamos 2019 m. neviršijo 50 000 000 Eur (penkiasdešimt milijonų eurų) arba turto balansinė vertė 2019 m. gruodžio 31 d. neviršijo 43 000 000 Eur (keturiasdešimt trijų milijonų eurų). Vertinant metinių pajamų ir turto balansinės vertės ribas, įtraukiami atitinkami su juridiniu asmeniu susijusių ir Lietuvoje veikiančių įmonių duomenys.
+4.2. Kultūros sektoriaus įmonė – įmonė, kurios vykdoma pagrindinė ūkinė veikla priskiriama šioms Lietuvos statistikos departamento generalinio direktoriaus įsakymu tvirtinamo Ekonominės veiklos rūšių klasifikatoriaus (EVRK 2 red.) grupėms: 90.01 „Scenos pastatymų veikla“ ir 90.02 „Scenos pastatymams būdingų paslaugų veikla“.
+4.3. Sunkumų patirianti įmonė – kaip ši sąvoka apibrėžta 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. liepos 2 d. Komisijos reglamentu (ES) 2020/972, 2 straipsnio 18 punkte.
+4.4. Viena įmonė suprantama kaip susijusios įmonės, apibrėžtos Reglamento (ES)  Nr. 651/2014  I priedo 3 straipsnio 3 dalyje. 
+5. Kitos Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Aprašo 3 punkte nurodytuose Europos Sąjungos teisės aktuose ir Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme.
+6. Lietuvos Respublikos ekonomikos ir inovacijų ministerija (toliau – Ministerija), Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos  (toliau – VMI), viešoji įstaiga Lietuvos verslo paramos agentūra (toliau – LVPA), Lietuvos Respublikos konkurencijos taryba ir Nacionalinis bendrųjų funkcijų centras (toliau – NBFC) dalyvauja įgyvendinant Priemonę ir atlieka Aprašo IV ir V skyriuose nustatytas funkcijas. 
+7. Pagal Priemonę teikiamo finansavimo forma – negrąžinamoji subsidija. Vienam pareiškėjui, atitinkančiam Aprašo 14 punkte nurodytas sąlygas, subsidija pagal Aprašą gali būti skiriama vieną kartą. 
+8. Pagal Aprašą iš valstybės biudžeto lėšų skiriamos subsidijos, kurių bendra suma – 150 000 000 Eur (šimtas penkiasdešimt milijonų eurų).
+9. Pagal Priemonę Aprašo IV skyriuje nustatyta tvarka VMI interneto svetainėje www.vmi.lt skelbiami du kvietimai įmonėms teikti subsidijų paraiškas (toliau – kvietimai). Pagal pirmajį kvietimą, skirtą savarankiškoms įmonėms, pateiktoms subsidijų paraiškoms tenkinti skiriama iki 50 000 000 Eur (penkiasdešimt milijonų eurų), pagal antrąjį kvietimą, skirtą savarankiškų įmonių apibrėžimo, pateikto Smulkiojo ir vidutinio verslo plėtros įstatyme, neatitinkančių įmonių (toliau – nesavarankiškos įmonės) pateiktoms subsidijų paraiškoms tenkinti, skiriama iki 100 000 000 Eur (šimto milijonų eurų). 
+Ministerija, įvertinusi pateiktų subsidijų paraiškų skaičių ir pagal jas skirtų subsidijų dydį, po 2021 m. balandžio 1 d. gali kvietimams numatytas lėšas perskirstyti tarp kvietimų.
+10. Subsidijų paraiškų atranka Aprašo V skyriuje nustatyta tvarka bus atliekama tęstinės atrankos būdu. Tęstinė subsidijų paraiškų atranka pagal Priemonę atliekama nuolat kvietime nurodytu subsidijų paraiškų teikimo laikotarpiu, gautos subsidijų paraiškos vertinamos ir reikalavimus atitinkantiems pareiškėjams subsidijos skiriamos atsižvelgiant į subsidijų paraiškų pateikimo datą ir nelaukiant kvietime nurodyto subsidijų paraiškų teikimo termino pabaigos. 
+11. Priemonės tikslas – padėti įmonei įveikti koronaviruso (COVID-19) sukeltas neigiamas pasekmes ir išsaugoti įmonės likvidumą.
+12. Pagal Aprašą remiama veikla – įmonės veikla, kuri skatinama skiriant subsidiją įmonės apyvartinėms lėšoms (likvidumui išsaugoti).
+13. Pagal Aprašą skiriama subsidija yra valstybės pagalba, teikiama laikantis valstybės pagalbos schemos ir Komunikato nuostatų.
+
+II SKYRIUS
+REIKALAVIMAI PAREIŠKĖJAMS
+
+14. Pagal Aprašą galimi pareiškėjai yra nuo COVID-19 nukentėjusios įmonės, atitinkančios vieną iš šių sąlygų: 
+14.1. Įmonės, kurių ūkinės veiklos vidutinė vieno mėnesio apyvarta Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 4 d. nutarimo Nr. 1226 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ (toliau – Nutarimas Nr. 1226) 6.1 papunktyje nustatytu laikotarpiu sumažėjo ne mažiau kaip 30 procentų. Ši sąlyga nustatoma, remiantis VMI pateiktose mėnesinėse pridėtinės vertės mokesčio (toliau – PVM) deklaracijose (formose FR0600), patvirtintose Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko įsakymu (toliau – mėnesinė PVM deklaracija (forma FR0600), deklaruotais duomenimis (informacija), o teikiantiems kitokias nei mėnesines PVM deklaracijas (formas FR0600) – remiantis duomenimis (informacija), kurie būtų nurodomi mėnesinėse PVM deklaracijose (formose FR0600), jeigu jos būtų teikiamos, arba neprivalantiems teikti PVM deklaracijų – remiantis bendromis Lietuvos Respublikos pelno mokesčio įstatymo nuostatomis ir pareiškėjo teikiamoje subsidijų paraiškoje deklaruotais (patvirtintais) duomenimis (informacija).
+14.2. Nuo 2019 m. lapkričio 1 d. iki 2020 m. lapkričio 30 d. įsteigtos, tačiau Nutarimo  Nr. 1226 6.1 papunktyje nustatytu laikotarpiu pajamų negavusios įmonės, kurių vykdoma pagrindinė ūkinė veikla yra įtraukta į Lietuvos Respublikos ekonomikos ir inovacijų ministro ir Lietuvos Respublikos socialinės apsaugos ir darbo ministro įsakymu patvirtintą sąrašą, į kurį įtraukiamos Nutarimu Nr. 1226 ribojamos ūkinės veiklos, taip pat tos veiklos, kurios yra ribojamos netiesiogiai ir kurių įtraukimui į sąrašą yra pritarusi Vyriausybė. 
+15. VMI pagal Juridinių asmenų registro, VMI ir Lietuvos statistikos departamento duomenis turi įvertinti, ar pareiškėjas atitinka Aprašo 4.1 papunktyje nurodytą įmonės apibrėžtį.
+16. Subsidija gali būti skiriama pareiškėjams, veikiantiems visose srityse, išskyrus žemės ūkio, žuvininkystės, akvakultūros sritis, kredito ir finansų įstaigas. Jeigu nors viena įmonės vykdoma ūkinė veikla priskiriama išvardytoms sritims, įmonei subsidija nėra teikiama. 
+17. Subsidija pareiškėjui gali būti skiriama, jei:
+17.1. pas pareiškėją 2021 m. sausio 1 d. ir subsidijų paraiškos pateikimo mėnesio pirmą dieną, jei paraiška pateikta po 2021 m. sausio mėn., dirbo bent vienas darbuotojas (fizinis asmuo, dirbantis pagal darbo sutartį už atlyginimą, individualiosios įmonės savininkas arba individualiosios įmonės savininko paskirtas individualiosios įmonės vadovas, kai su juo sudaroma civilinė sutartis, mažosios bendrijos vadovas arba mažosios bendrijos atstovas, tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrieji nariai (fiziniai asmenys). Į dirbančių darbuotojų skaičių neįskaičiuojamos moterys, kurioms suteiktos nėštumo ir gimdymo atostogos, taip pat asmenys, kuriems suteiktos atostogos vaikui prižiūrėti, kol jam sueis treji metai);
+17.2. pareiškėjas iki 2020 m. sausio 31 d. yra sumokėjęs ir (arba) įskaitęs bent dalį už 2019 metų mokestinį laikotarpį deklaruotos mėnesinėje pajamų mokesčio deklaracijoje (formoje GPM313), patvirtintoje Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko įsakymu, nuo A klasei priskiriamų pajamų (toliau – A klasei priskiriamos pajamos) mokėtinos gyventojų pajamų mokesčio sumos (toliau – GPM) į valstybės ir savivaldybės biudžetus (netaikoma pareiškėjams, nurodytiems Aprašo 14.2 papunktyje);
+17.3. pareiškėjas subsidijų paraiškos pateikimo dieną ir tinkamų finansuoti pareiškėjų sąrašų, nustatytų Aprašo 41 punkte, sudarymo dieną nėra reorganizuojamas, dalyvaujantis reorganizavime, pertvarkomas, dalyvaujantis atskyrime, bankrutuojantis, bankrutavęs, likviduojamas, likviduojamas dėl bankroto, likviduotas, jungiamas peržengiant vienos valstybės ribas, dalyvaujantis jungimesi peržengiant vienos valstybės ribas; 
+17.4. pareiškėjas subsidijų paraiškos pateikimo dieną ir tinkamų finansuoti pareiškėjų sąrašų, nustatytų Aprašo 41 punkte, sudarymo dieną atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnyje;
+17.5. pareiškėjo, kuris yra Lietuvos Respublikoje neregistruotas juridinis asmuo ar organizacija, nuolatinė buveinė įregistruota Mokesčių mokėtojų registre, vadovaujantis Mokesčių mokėtojų registro nuostatais, patvirtintais Lietuvos Respublikos Vyriausybės 2000 m. rugsėjo 6 d. nutarimu Nr. 1059 „Dėl Mokesčių mokėtojų registro įsteigimo ir jo nuostatų patvirtinimo“;
+17.6. pareiškėjas teisės aktų nustatyta tvarka yra pateikęs Juridinių asmenų registrui metinių finansinių ataskaitų už 2019 metus rinkinį. Jeigu pareiškėjas yra susijęs su kitomis Lietuvoje veikiančiomis įmonėmis, jos teisės aktų nustatyta tvarka taip pat turi būti pateikusios Juridinių asmenų registrui metinių finansinių ataskaitų už 2019 metus rinkinį. Tais atvejais, kai pareiškėjo ar su juo susijusios įmonės finansiniai metai neatitinka kalendorinių metų, Juridinių asmenų registrui turi būti pateiktas paskutinių pasibaigusių finansinių metų ataskaitų rinkinys.
+18. Pagal Aprašą subsidija nėra teikiama pareiškėjui, kuris 2019 m. gruodžio 31 d. jau buvo laikomas sunkumų patiriančia įmone, išskyrus tuos atvejus, jei įmonė yra labai maža ir maža, kaip apibrėžta Reglamento I priedo 2 straipsnyje, ir jai nėra taikoma kolektyvinė nemokumo procedūra ir nėra suteikta sanavimo ir restruktūrizavimo pagalba, kaip ji suprantama Komisijos komunikate „Gairės dėl valstybės pagalbos sunkumų patiriančioms ne finansų įmonėms sanuoti ir restruktūrizuoti“. 
+19. LVPA pagal Juridinių asmenų registro duomenis turi įvertinti, ar pareiškėjas laikomas sunkumų patiriančia įmone, taip pat ar įmonė yra labai maža ir maža.
+20. Pagal Aprašą subsidija nėra skiriama pareiškėjui, kuris nėra sugrąžinęs anksčiau gautos valstybės pagalbos, Europos Komisijos sprendimu pripažintos neteisėta ir nesuderinama su vidaus rinka. 
+
+III SKYRIUS
+REIKALAVIMAI SUBSIDIJAI IR JOS PANAUDOJIMUI
+
+21. Didžiausias galimos skirti subsidijos dydis:
+21.1. Aprašo 14.1 papunktyje nustatytas sąlygas atitinkantiems pareiškėjams:
+21.1.1. kai pareiškėjo 2019 metais nuo A klasei priskiriamų pajamų sumokėta ir (arba) įskaityta GPM suma (visa ar jos dalis), kuri padengė 2019 metų mokestinio laikotarpio GPM prievolę, siekia daugiau kaip 2 000 Eur, subsidijos suma sudaro 25 proc. nuo sumokėtos ir (arba) įskaitytos GPM sumos (visos ar jos dalies), kuri padengė 2019 metų mokestinio laikotarpio GPM prievolę; vertinami iki 2020 m. sausio 31 d. atlikti mokėjimai ir (arba) įskaitymai;
+21.1.2. kai pareiškėjo 2019 metais nuo A klasei priskiriamų pajamų sumokėta ir (arba) įskaityta GPM suma (visa ar jos dalis), kuri padengė 2019 metų mokestinio laikotarpio GPM prievolę, yra ne didesnė kaip 2 000 Eur (du tūkstančiai eurų), skiriama 500 Eur (penkių šimtų eurų) subsidija; vertinami iki 2020 m. sausio 31 d. atlikti mokėjimai ir (arba) įskaitymai.
+21.2. Aprašo 14.2 papunktyje nustatytas sąlygas atitinkantiems pareiškėjams skiriama 500 Eur (penkių šimtų eurų) subsidijos suma. 
+22. Subsidija gali būti skiriama ne vėliau kaip iki 2021 m. birželio 30 d.
+23. Vadovaujantis Aprašo nuostatomis, suteikta valstybės pagalba skiriant subsidiją gali būti sumuojama, kaip nustatyta Komunikato 20 punkte.
+24. Subsidija neskiriama arba atitinkamai mažinamas jos dydis, jei bendra vienai įmonei teikiamos valstybės pagalbos pagal Komunikatą (subsidijų, dotacijų, mokesčių lengvatų forma), įskaitant ir apskaičiuotą pagal Aprašą skiriamą subsidiją, suma viršytų 800 000 Eur (aštuonis šimtus tūkstančių eurų).
+25. Skirtos subsidijos įmonė negali naudoti dividendams išsimokėti, kapitalui išmokant lėšas pareiškėjo dalyviams mažinti, savoms akcijoms supirkti ar kitokiems mokėjimams iš kapitalo pareiškėjo dalyviams atlikti, taip pat paskoloms pareiškėjo dalyviams grąžinti arba suteikti. 
+
+IV SKYRIUS
+KVIETIMAS TEIKTI SUBSIDIJŲ PARAIŠKAS
+
+26. Pareiškėjai subsidijų paraiškas gali teikti pagal VMI interneto svetainėje www.vmi.lt paskelbtus kvietimus.
+27. VMI kvietimus interneto svetainėje www.vmi.lt paskelbia ne anksčiau kaip po 2 darbo dienų nuo šio Aprašo įsigaliojimo dienos ir ne vėliau kaip iki 2021 m. kovo 1 dienos. Kvietimas nesavarankiškoms įmonėms skelbiamas po to, kai paskelbiamas kvietimas savarankiškoms įmonėms. 
+28. Kvietimai galioja iki kvietimuose nurodytos dienos, kuri negali būti vėlesnė kaip 2021 m. birželio 1 diena, bet ne ilgiau, nei pakanka kiekvienam iš kvietimų numatytų lėšų paskirstyti pagal gautas subsidijų paraiškas. VMI interneto svetainėje www.vmi.lt skelbia apie kvietimo galiojimo pabaigą. Suderinusi su Ministerija, VMI sustabdo kvietimą teikti subsidijų paraiškas anksčiau, nei kvietimuose nurodyta jo galiojimo diena, jeigu pagal Ministerijos priimtus sprendimus dėl subsidijos skyrimo ir pateiktas naujas subsidijų paraiškas paskirta ir prašomų skirti subsidijų suma viršija visą subsidijų paraiškoms finansuoti bendrai skirtą lėšų sumą, ir apie tai tą pačią dieną paskelbia interneto svetainėje www.vmi.lt. 
+Sustabdytas kvietimas atnaujinamas, jeigu kvietimui skiriama papildomų lėšų jas perskirsčius pagal Aprašo 9 punktą. VMI atnaujintą kvietimą paskelbia interneto svetainėje www.vmi.lt per 1 darbo dieną nuo lėšų perskirstymo.
+29. Savarankiškos įmonės, siekdamos gauti subsidiją, VMI „Mano VMI“ autorizuotų paslaugų srityje, kurios adresas https://www.vmi.lt/manovmi (toliau – „Mano VMI“), turi užpildyti ir pateikti nuo COVID-19 nukentėjusios savarankiškos įmonės subsidijos paraiškos formą (toliau – savarankiškos įmonės paraiška).
+30. Nesavarankiškos įmonės, siekdamos gauti subsidiją, turi užpildyti nuo COVID-19 nukentėjusios nesavarankiškos įmonės subsidijos paraiškos formą (toliau – nesavarankiškos įmonės paraiška) ir pateikti ją per Elektroninio deklaravimo sistemą. Tuo atveju, jeigu pareiškėjas nesavarankiškos įmonės paraiškoje nurodo, kad yra susijęs su užsienio juridiniu asmeniu, kartu su nesavarankiškos įmonės paraiška šiame punkte nustatyta tvarka turi pateikti šio užsienio juridinio asmens finansinių ataskaitų už 2019 metus rinkinius ar juos atitinkančius finansinius duomenis.
+31. Subsidijų paraiškos pildomos lietuvių kalba ir gali būti tikslinamos iki tinkamų finansuoti pareiškėjų sąrašų, nustatytų Aprašo 41 punkte, sudarymo dienos. Jeigu subsidijų paraiška tikslinama, subsidijų paraiškos pateikimo data yra laikoma paskutinės patikslintos subsidijų paraiškos pateikimo data. 
+Teikiant subsidijų paraišką pareiškėjo pateikti asmens duomenys, t. y. teisę teikti subsidijų paraišką turinčio asmens vardas, pavardė, tvarkomi Aprašo 57 punkte nustatyta tvarka.
+32. Subsidijų paraiška prilyginama įmonės įsipareigojimams, kurių įmonė privalo laikytis, jai skyrus subsidiją.
+
+V SKYRIUS
+SUBSIDIJŲ PARAIŠKŲ VERTINIMAS
+
+33. VMI, gavusi subsidijų paraišką, nedelsdama, bet ne vėliau kaip per 5 darbo dienas, išskyrus Aprašo 35 punkte nurodytą atvejį, įvertina, ar pareiškėjas atitinka Aprašo 14.1 arba 14.2 papunkčiuose, 15, 16 ir 17 punktuose nustatytus reikalavimus, ir apskaičiuoja galimos skirti subsidijos dydį. 
+34. Jeigu Aprašo 14.1 papunktyje nurodytą sąlygą VMI įvertina, remdamasi subsidijų paraiškoje deklaruota prognozuojamais duomenimis (informacija), VMI atitiktį Aprašo 14.1 papunkčio sąlygai patikrina pakartotinai, remdamasi pareiškėjo teisės aktų nustatyta tvarka ir terminais VMI pateiktose mėnesinio laikotarpio PVM deklaracijose (formos FR0600) deklaruotais duomenimis (informacija). Jeigu VMI nustato, kad, remiantis VMI pateiktose mėnesinio laikotarpio PVM deklaracijose (formose FR0600) deklaruotais duomenimis (informacija), pareiškėjas neatitinka Aprašo 14.1 papunktyje nustatyto reikalavimo, pareiškėjas gautą subsidiją turi grąžinti Aprašo 51–54 punktuose nustatyta tvarka.   
+35. Taikydama subsidijų paraiškų pagrįstumo kontrolę, VMI turi teisę paprašyti mėnesinio laikotarpio PVM deklaracijų (formų FR0600) neteikiančio pareiškėjo ne vėliau kaip per 5 darbo dienas pateikti papildomus duomenis (informaciją), kurie pagrindžia subsidijų paraiškoje pateiktus duomenis (informaciją). Gavusi šiuos duomenis (informaciją) ir juos pagrindžiančius dokumentus, VMI ne vėliau kaip per 5 darbo dienas įvertina, ar subsidijų paraišką pateikęs pareiškėjas atitinka Aprašo 14.1 papunktyje nustatytus reikalavimus, ir apskaičiuoja galimos skirti subsidijos dydį. Jeigu per nustatytą terminą pareiškėjas pagrindžiančių duomenų (informacijos) nepateikia, VMI subsidijų paraiškos netenkina ir apie tai ne vėliau kaip per 3 darbo dienas nuo pagrindžiantiems duomenims (informacijai) pateikti nustatyto termino pabaigos informuoja pareiškėją per „Mano VMI“.
+36. VMI informaciją apie Aprašo 33 ir 35 punktuose nustatyta tvarka įvertintus pareiškėjus, atitinkančius Aprašo 14.1 arba 14.2 papunkčiuose, 15, 16 ir 17 punktuose nustatytus reikalavimus, ne vėliau kaip per 1 darbo dieną pateikia LVPA. 
+37. LVPA per 3 darbo dienas įvertina pareiškėjo atitiktį Komunikato ir valstybės pagalbos schemos reikalavimams, Aprašo 18 ir 19 punktuose nustatytiems reikalavimams, nustato, ar skyrus subsidiją nebūtų viršyta didžiausia leistina valstybės pagalbos suma, nustatyta Aprašo 24 punkte, skaičiuojant valstybės pagalbą vienai įmonei, kaip ji apibrėžta Aprašo 4.4 papunktyje. 
+LVPA pareiškėjo atitiktį šiame punkte nustatytiems reikalavimams įvertina per 10 darbo dienų, jei tokiam vertinimui būtina naudoti kitų informacinių sistemų (registrų) duomenis.
+38. Konkurencijos taryba, kai LVPA kreipiasi į ją su prašymu, nedelsdama, bet ne vėliau kaip per 1 darbo dieną pateikia LVPA prašomus Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro duomenis, reikalingus pareiškėjams įvertinti dėl valstybės pagalbos teikimo. 
+39. LVPA, įvertinusi pareiškėjų atitiktį Aprašo 37 punkte nustatytiems reikalavimams, nedelsdama, bet ne vėliau kaip per 1 darbo dieną pateikia VMI informaciją apie įvertintus pareiškėjus ir nurodo, kuriems pareiškėjams gali būti teikiama valstybės pagalba ir kokio dydžio valstybės pagalba gali būti skiriama kiekvienam iš pareiškėjų. 
+40. Pareiškėjų, kuriems valstybės pagalba negali būti teikiama, subsidijų paraiškos netenkinamos. VMI apie savo sprendimą netenkinti subsidijų paraiškos informuoja pareiškėją per „Mano VMI“ ne vėliau kaip per 3 darbo dienas nuo informacijos apie pareiškėją gavimo iš LVPA dienos. 
+41.	VMI ne rečiau kaip kartą per savaitę sudaro ir Ministerijai teikia tinkamų finansuoti pareiškėjų sąrašus. Tinkamų finansuoti pareiškėjų sąraše nurodomi šie duomenys:
+41.1.	pareiškėjo juridinio asmens kodas;
+41.2.	pareiškėjo pavadinimas;
+41.3.	sąskaitos, į kurią bus pervedama subsidija, numeris;
+41.4.	sumokėta (įskaityta) GPM suma, kuri padengė 2019 metų mokestinio laikotarpio GPM prievolę (vertinami mokėjimai ir (arba) įskaitymai, atlikti iki 2020 m. sausio 31 d.);
+41.5.	LVPA nurodytas galimas teikti pareiškėjui valstybės pagalbos dydis;
+41.6.	konkrečiam pareiškėjui apskaičiuotos galimos subsidijos suma. Jei ši suma didesnė kaip Aprašo 41.5 papunktyje nurodyta suma, tuomet ji mažinama iki Aprašo 41.5 papunktyje nurodytos sumos.
+42.	Paskutinį suformuotą tinkamų finansuoti pareiškėjų sąrašą VMI pateikia Ministerijai ne vėliau kaip iki 2021 m. birželio 21 dienos. 
+43. Sprendimą dėl subsidijos skyrimo ne vėliau kaip per 3 darbo dienas nuo tinkamų finansuoti pareiškėjų sąrašo gavimo dienos priima Lietuvos Respublikos ekonomikos ir inovacijų ministras. Sprendimas dėl subsidijos skyrimo įforminamas ekonomikos ir inovacijų ministro įsakymu.
+44. Ekonomikos ir inovacijų ministrui priėmus sprendimą dėl subsidijos skyrimo, informacija dėl subsidijų skyrimo nedelsiant, bet ne vėliau kaip per 1 darbo dieną nuo sprendimo įsigaliojimo pateikiama LVPA, Konkurencijos tarybai, NBFC ir VMI. 
+VMI nedelsdama, bet ne vėliau kaip per 1 darbo dieną nuo informacijos gavimo dienos apie ekonomikos ir inovacijų ministro priimtą sprendimą dėl subsidijos skyrimo informuoja pareiškėją per „Mano VMI“.
+45. NBFC subsidiją nedelsdamas, bet ne vėliau kaip per 3 darbo dienas nuo sprendimo dėl subsidijos skyrimo įsigaliojimo dienos perveda pareiškėjui į subsidijų paraiškoje nurodytą sąskaitą.
+46. Pareiškėjas, gavęs subsidiją, bet norintis jos atsisakyti, apie tai raštu turi informuoti Ministeriją ir grąžinti gautą subsidiją į Ministerijos sąskaitą, iš kurios gauta subsidija, ne vėliau kaip per 5 darbo dienas nuo informavimo apie subsidijos atsisakymą dienos. Apie gautus pranešimus ir atliktus grąžinimus Ministerija informuoja VMI ir Konkurencijos tarybą.
+47.	Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatuose, patvirtintuose Lietuvos Respublikos Vyriausybės 2005 m. sausio 19 d. nutarimu Nr. 35 „Dėl Suteiktos valstybės pagalbos ir nereikšmingos (de minimis) pagalbos registro nuostatų patvirtinimo“, nustatyta tvarka duomenis apie suteiktą valstybės pagalbą LVPA teikia Konkurencijos tarybai. 
+
+VI SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+48. Už subsidijų paraiškoje ir kartu su subsidijų paraiška pateiktos informacijos (duomenų) teisingumą atsako pareiškėjas. 
+49.	VMI ir LVPA iki 2021 m. gruodžio 1 d. atlieka atrankines pareiškėjų, kuriems skirtos subsidijos, patikras, siekdama įvertinti subsidijų paraiškoje pateiktos informacijos (duomenų), dokumentų tinkamumą pagal valstybės registruose ir informacinėse sistemose esančius ar kitus subsidijų skyrimo ir panaudojimo teisėtumui nustatyti svarbius duomenis. 
+Jei naujos aplinkybės ar informacija (duomenys), galėjusi ar galinti turėti įtakos subsidijų paraiškos vertinimui, subsidijos skyrimui ir panaudojimo teisėtumui, paaiškėja po 2021 m. gruodžio 1 d., VMI ir LVPA turi teisę pakartotinai patikrinti subsidijų paraiškoje pateiktos informacijos (duomenų) ir dokumentų tinkamumą. 
+50.	VMI ir (ar) LVPA nustačius, kad pareiškėjas pateikė neteisingą, neišsamią ar netikslią informaciją (duomenis) ir subsidijų paraiškos pateikimo momentu neatitiko Aprašo 14, 16–18 ir 20 punktuose nustatytų reikalavimų, arba nustačius, kad subsidija panaudota dividendams išsimokėti, kapitalui išmokant lėšas pareiškėjo dalyviams mažinti, savoms akcijoms supirkti ar kitokiems mokėjimams iš kapitalo pareiškėjo dalyviams atlikti, taip pat paskoloms pareiškėjo dalyviams grąžinti, arba gavus informacijos iš pareiškėjo per „Mano VMI“ dėl skirtos subsidijos atsisakymo, apie tai informuojama Ministerija. Ekonomikos ir inovacijų ministras ne vėliau kaip per 14 dienų nuo informacijos ir pagrindžiančių dokumentų iš VMI ir (ar) LVPA gavimo dienos priima sprendimą dėl subsidijos grąžinimo, dalinio grąžinimo ar perskaičiavimo, apie kurį pareiškėjas informuojamas per „Mano VMI“ ne vėliau kaip per 3 darbo dienas.
+51.	Ekonomikos ir inovacijų ministro sprendime dėl subsidijos grąžinimo, dalinio grąžinimo ar perskaičiavimo pareiškėjui nustatomas 90 kalendorinių dienų terminas subsidijai ar jos daliai grąžinti. 
+52.	Pareiškėjui praleidus subsidijos ar jos dalies grąžinimo terminą, Ministerija apie tai informuoja VMI, kuri ne vėliau kaip per 30 kalendorinių dienų po sprendime nustatyto termino pabaigos inicijuoja subsidijos ar jos dalies ir mokėtinų delspinigių ir palūkanų išieškojimą.
+53.	Ekonomikos ir inovacijų ministrui priėmus sprendimą dėl subsidijos ar jos dalies grąžinimo, subsidija ar jos dalis, taip pat su ja susiję delspinigiai ir palūkanos turi būti grąžinami bankiniu pavedimu į Ministerijos sąskaitą, iš kurios buvo pervesta subsidija.
+54. Vadovaudamasi Komunikato 88 punkto nuostatomis, Ministerija ne vėliau kaip per 12 mėnesių nuo valstybės pagalbos suteikimo dienos pagal Reglamento (ES) Nr. 651/2014 III priedo reikalavimus Europos Komisijos Valstybės pagalbos skaidrumo svetainėje https://webgate.ec.europa.eu/competition/transparency/ paskelbia informaciją apie suteiktą valstybės pagalbą, viršijančią 100 000 eurų.
+55.	Visi su subsidija susiję teisės aktai, dokumentai, informacija (duomenys) turi būti saugomi Lietuvos Respublikos teisės aktuose ir Komunikate nustatyta tvarka ir terminais.
+56.	Jei nustatoma, kad pareiškėjas pateikė neteisingą informaciją ir (ar) dokumentus, ir (ar) sąmoningai nuslėpė informaciją, turinčią reikšmės sprendimo dėl subsidijos skyrimo priėmimui, pareiškėjas privalo grąžinti visą neteisėtai gautą finansavimą su palūkanomis, kaip nustatyta 2015 m. liepos 13 d. Tarybos reglamente (ES) 2015/1589, nustatančiame išsamias Sutarties dėl Europos Sąjungos veikimo 108 straipsnio taikymo taisykles.  
+57. Pareiškėjų pateikti asmens duomenys tvarkomi, vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). Asmens duomenų tvarkymo tikslas – apskaičiuoti, skirti ir administruoti subsidiją. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka.
+
+––––––––––––––––––––
+
+

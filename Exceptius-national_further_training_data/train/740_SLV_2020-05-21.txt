@@ -1,0 +1,256 @@
+Uredba o metodologiji za ocenjevanje škode, pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo
+2020-05-21
+Opozorilo: Neuradno precišceno besedilo predpisa predstavlja
+zgolj informativni delovni pripomocek, glede katerega organ ne jamci
+odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Uredbe o metodologiji za
+ocenjevanje škode, pogojih in postopku dodelitve javnih sredstev iz tocke b)
+drugega odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev
+epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo
+obsega:
+
+-       
+Uredbo o metodologiji za ocenjevanje škode, pogojih in postopku dodelitve
+javnih sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih
+ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za
+državljane in gospodarstvo (Uradni list RS, št. 74/20 z dne 21. 5. 2020),
+
+-       
+Uredbo o spremembah in dopolnitvi Uredbe o metodologiji za ocenjevanje
+škode, pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega
+odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije
+COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list
+RS, št. 96/20 z dne 8. 7. 2020).
+
+UREDBA
+
+o metodologiji za ocenjevanje škode, pogojih in
+postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a clena
+Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih
+posledic za državljane in gospodarstvo
+
+(neuradno precišceno besedilo št. 1)
+
+1. clen
+
+(vsebina uredbe)
+
+S to uredbo se dolocajo metodologija, po kateri se ocenjuje
+škoda, ki jo je podjetjem povzrocila epidemija COVID-19, pogoji in postopek
+dodelitve sredstev proracuna Republike Slovenije na podlagi tocke b) drugega
+odstavka 20.a clena Zakona o interventnih ukrepih za zajezitev epidemije
+COVID-19 in omilitev njenih posledic za državljane in gospodarstvo (Uradni list
+RS, št. 49/20 in 61/20; v nadaljnjem besedilu: ZIUZEOP).
+
+2. clen
+
+(opredelitev škode)
+
+Škoda, ki je podjetjem nastala kot posledica epidemije
+COVID-19 (v nadaljnjem besedilu: škoda), se dokazuje kot škoda, ki nastane
+podjetjem zaradi zmanjšanja dobicka iz poslovanja (v nadaljnjem besedilu: EBIT),
+ali kot škoda, ki nastane zaradi dodatnih stroškov podjetja.
+
+3. clen
+
+(metodologija dolocitve škode zaradi zmanjšanja dobicka iz
+poslovanja)
+
+(1) Dobicek iz poslovanja se izracuna na podlagi podatkov iz
+izkaza poslovnega izida, katerega vsebina je opredeljena s Prilogo 2 Navodila o
+predložitvi letnih in zakljucnih porocil ter drugih podatkov poslovnih
+subjektov (Uradni list RS, št. 86/16 in 76/17), po naslednji formuli:
+
+EBIT= KDP – PO,
+
+pri cemer so:
+
+EBIT=    dobicek iz poslovanja (AOP 151),
+
+KDP =   kosmati donos iz poslovanja (AOP
+126),
+
+PO =      poslovni odhodki (AOP 127).
+
+(2) Od vrednosti KDP iz prejšnjega odstavka se odštejejo
+prejeta javna sredstva za nadomestilo plac in oprostitev prispevkov iz 28. in
+33. clena ZIUZEOP.
+
+(3) Škoda kot posledica zmanjšanja EBIT se izracuna tako, da
+se na podlagi podatkov iz izkaza poslovnega izida ali drugega dokazila za
+obdobje zadnjih dvanajstih mesecev pred epidemijo COVID-19 izracuna mesecno
+povprecje EBIT in nato od povprecne vrednosti odšteje znesek doseženega EBIT v
+posameznem mesecu za obdobje iz 20. clena ZIUZEOP.
+
+(4) Ce je podjetje pred epidemijo COVID-19 na trgu poslovalo
+manj kot dvanajst mesecev, se škoda zaradi zmanjšanja EBIT izracuna tako, da se
+na podlagi podatkov iz izkaza poslovnega izida ali drugega dokazila za obdobje
+poslovanja podjetja izracuna mesecno povprecje EBIT in nato od povprecne
+vrednosti odšteje znesek doseženega EBIT v posameznem mesecu za obdobje iz 20.
+clena ZIUZEOP.
+
+(5) Podjetjem, ki imajo sezonsko naravo dela, se mesecno
+povprecje EBIT iz tretjega odstavka tega clena izracuna za enako obdobje
+preteklega leta glede na obdobje iz 20. clena ZIUZEOP. Šteje se, da ima
+podjetje sezonsko naravo dela, ce je v vsakem od zadnjih treh zaporednih
+poslovnih let mesecni prihodek vsaj v enem mesecu za vec kot 25% odstopal od
+povprecnih mesecnih prihodkov v celem letu. O sezonski naravi dela poda izjavo
+zastopnik podjetja.
+
+4. clen
+
+(metodologija dolocitve škode zaradi dodatnih stroškov)
+
+(1) Škoda zaradi dodatnih stroškov se doloci kot vsota zneska
+izplacanega kriznega dodatka v skladu z drugim do cetrtim odstavkom 33. clena
+ZIUZEOP in zneska dodatnih stroškov, nastalih izkljucno zaradi zagotavljanja
+zajezitve in omejitve posledic epidemije v skladu z navodili in priporocili
+Nacionalnega inštituta za javno zdravje za varno izvajanje posameznih
+dejavnosti. Upoštevajo se le dodatni stroški, nastali v obdobju iz 20. clena
+ZIUZEOP.
+
+(2) Od višine škode iz prejšnjega odstavka se odšteje
+presežek cistih prihodkov od prodaje. Presežek cistih prihodkov od prodaje se
+ugotovi tako, da se od doseženih cistih prihodkov od prodaje v obdobju iz 20.
+clena ZIUZEOP odšteje doseženi cisti prihodek od prodaje v enakem obdobju
+preteklega leta.
+
+(3) Škodo zaradi dodatnih stroškov iz prvega odstavka tega
+clena podjetje dokazuje na podlagi knjigovodskih listin in obracuna davcnega
+odtegljaja od dohodkov iz delovnega razmerja.
+
+5. clen
+
+(višina in pogoji dodelitve javnih sredstev)
+
+(1) Vsota javnih sredstev, prejetih na podlagi 28. in 33.
+clena ZIUZEOP, drugih javnih sredstev za odpravo posledic škode iz državnega
+proracuna in obcinskih proracunov ter zneska, ki ga je podjetje za isto škodo
+prejelo iz naslova zavarovanja, sodnega postopka, arbitraže ali drugega vira,
+ne sme presegati nastale škode zaradi epidemije.
+
+(2) Ce višina ocenjene škode, po odštetju drugih prejetih
+javnih sredstev za odpravo posledic škode iz državnega proracuna in obcinskih
+proracunov ter zneska, ki ga je podjetje za isto škodo prejelo iz naslova
+zavarovanja, sodnega postopka, arbitraže ali drugega vira, preseže skupni
+znesek nadomestil place in oprostitve prispevkov iz 28. in 33. clena ZIUZEOP,
+se javna sredstva dodelijo le v višini skupnega zneska nadomestil place in
+oprostitve prispevkov iz 28. in 33. clena ZIUZEOP.
+
+(3) Ce je višina ocenjene škode, po odštetju drugih prejetih
+javnih sredstev za odpravo posledic škode iz državnega proracuna in obcinskih
+proracunov ter zneska, ki ga je podjetje za isto škodo prejelo iz naslova
+zavarovanja, sodnega postopka, arbitraže ali drugega vira, manjša od skupnega
+zneska nadomestil place in oprostitve prispevkov iz 28. in 33. clena ZIUZEOP,
+se javna sredstva dodelijo le v višini ocenjene škode.
+
+(4) Skupni znesek javnih sredstev za nadomestila place in
+oprostitev prispevkov iz 28. in 33. clena ZIUZEOP, ki se financirajo tudi iz
+drugih javnih virov, ne sme preseci omejitev, dolocenih z ZIUZEOP.
+
+6. clen
+
+(postopek ugotavljanja upravicene višine dodeljenih javnih
+sredstev)
+
+(1) Vlogo za ugotavljanje upravicene višine dodeljenih javnih
+sredstev iz 28. in 33. clena ZIUZEOP podjetje pošlje ministrstvu, pristojnemu
+za delo, do 31. avgusta 2020. Podjetje mora vlogi priložiti naslednja dokazila:
+
+-       
+pravilno izpolnjen Obrazec za oceno škode, ki je kot Priloga 1 sestavni
+del te uredbe, z ustreznimi dokazili (izkaz poslovnega izida, knjigovodske
+listine, obracun davcnega odtegljaja in drugo),
+
+-       
+izjavo, koliko javnih sredstev je prejelo za namen odprave posledic
+škode,
+
+-       
+izjavo, koliko drugih javnih sredstev je prejelo za nadomestila place in
+oprostitve prispevkov za iste delavce,
+
+-       
+kopije zavarovalnih polic za zavarovanje izpada prihodka oziroma v
+primeru, da podjetje ni zavarovano za izpad prihodka, ožigosano in podpisano
+izjavo direktorja ali druge pooblašcene osebe o tem, da podjetje ni bilo
+zavarovano za namene izpada prihodka oziroma za namene, ki pokrivajo tak izpad,
+
+-       
+kopije dokazil sodnih postopkov, arbitraže ali drugih virov za kritje
+škode, oziroma ožigosano in podpisano izjavo direktorja ali druge pooblašcene
+osebe o tem, da podjetje ni udeleženo v navedenih postopkih.
+
+(2) Postopek ugotavljanja upravicene višine dodeljenih javnih
+sredstev iz 28. in 33. clena ZIUZEOP se zacne na podlagi sklepa ministrstva,
+pristojnega za delo. Ministrstvo, pristojno za delo, preveri pravilnosti
+ocenjene škode po metodologiji iz 3. ali 4. clena te uredbe ter ugotovi
+upravicenost prejetega zneska javnih sredstev iz 28. in 33. clena ZIUZEOP v
+skladu s 5. clenom te uredbe.
+
+(3) Ministrstvo, pristojno za finance, ministrstvu,
+pristojnemu za delo, v okviru svojih nalog svetovanja upravljavcem pomoci, v
+skladu z Zakonom o spremljanju državnih pomoci, poda mnenje o pravilnosti
+ocenjene škode in mnenje o višini upravicene državne pomoci. Za ta namen
+ministrstvo, pristojno za delo, ministrstvu, pristojnemu za finance, posreduje
+dokumente iz prvega odstavka tega clena.
+
+(4) Ce podjetje ministrstvu, pristojnemu za delo, ne
+posreduje vloge v roku iz prvega odstavka tega clena, se šteje, da mu škoda ni
+nastala.
+
+(5) Ministrstvo, pristojno za delo, izda odlocbo o upraviceni
+višini dodeljenih javnih sredstev.
+
+(6) Ce ministrstvo, pristojno za delo, ugotovi, da škoda ni
+bila pravilno ocenjena oziroma je podjetje prejelo nadomestila plac in
+oprostitev prispevkov iz 28. in 33. clena ZIUZEOP v nasprotju s 5. clenom te
+uredbe, v odlocbi iz prejšnjega odstavka doloci rok za vracilo prekomerno
+prejetih javnih sredstev. Po poteku roka za placilo do placila se podjetju
+obracunavajo zakonske zamudne obresti po Zakonu o predpisani obrestni meri
+zamudnih obresti (Uradni list RS, št. 11/07 – uradno precišceno besedilo).
+
+
+
+
+
+Priloga
+1: Obrazec za oceno škode
+
+
+
+
+
+Uredba o metodologiji za ocenjevanje škode,
+pogojih in postopku dodelitve javnih sredstev iz tocke b) drugega odstavka 20.a
+clena Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev
+njenih posledic za državljane in gospodarstvo (Uradni list RS, št. 74/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+7. clen
+
+(zacetek veljavnosti)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.
+
+
+
+
+
+Uredba o spremembah in dopolnitvi Uredbe o
+metodologiji za ocenjevanje škode, pogojih in postopku dodelitve javnih
+sredstev iz tocke b) drugega odstavka 20.a clena Zakona o interventnih ukrepih
+za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in
+gospodarstvo (Uradni list RS, št. 96/20) vsebuje naslednjo koncno dolocbo:
+
+»KONCNA DOLOCBA
+
+6. clen
+
+(zacetek veljavnosti)
+
+Ta uredba zacne veljati naslednji dan po objavi v Uradnem
+listu Republike Slovenije.«.

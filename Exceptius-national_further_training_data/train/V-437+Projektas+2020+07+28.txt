@@ -1,0 +1,29 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS –  VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVAS
+
+SPRENDIMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO – VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVO 2020 M. KOVO 18 D. SPRENDIMO NR. V-437 „DĖL LABORATORINIŲ TYRIMŲ DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS UŽSAKYMŲ IR ATSAKYMŲ PATEIKIMO Į ELEKTRONINĘ SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACINĘ SISTEMĄ“ PAKEITIMO
+
+2020 m. liepos 28 d. Nr. V-1725
+Vilnius
+
+P a k e i č i u Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. kovo 18 d. sprendimą Nr. V-437 „Dėl laboratorinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos užsakymų ir atsakymų pateikimo į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą“ ir jį išdėstau nauja redakcija:
+
+„LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS –  VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVAS
+
+DĖL LABORATORINIŲ TYRIMŲ DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS UŽSAKYMŲ IR ATSAKYMŲ PATEIKIMO Į ELEKTRONINĘ SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACINĘ SISTEMĄ
+
+Vadovaudamasis Lietuvos Respublikos civilinės saugos įstatymo 15 straipsnio 2 dalies 4 punktu, Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“, Valstybiniu ekstremaliųjų situacijų valdymo planu, patvirtintu Lietuvos Respublikos Vyriausybės 2010 m. spalio 20 d. nutarimu Nr. 1503 „Dėl Valstybinio ekstremaliųjų situacijų valdymo plano patvirtinimo“, Lietuvos Respublikos Ministro Pirmininko 2020 m. vasario 27 d. potvarkiu Nr. 43 „Dėl valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo paskyrimo“ bei atsižvelgdamas į Pasaulio sveikatos organizacijos rekomendacijas ir siekdamas tinkamai valdyti Lietuvos Respublikos valstybės lygio ekstremaliosios situacijos visoje šalyje dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmes ir siekdamas užtikrinti sklandų laboratorinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos užsakymų ir atsakymų gavimą, nusprendžiu nustatyti, kad:
+1. Visi laboratorinių tyrimų užsakymai dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos pateikiami į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (toliau – ESPBI IS) forma E200.
+2. Visi laboratorinių tyrimų atsakymai dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos pateikiami į ESPBI IS forma E200-a. Esant laikiniems ESPBI IS sutrikimams:
+2.1 mobiliuosiuose punktuose paimtų ėminių tyrimų atsakymai pateikiami į sistemą Hybrid LAB;
+2.2 kitų ėminių tyrimų atsakymai pateikiami forma 200/a tyrimą užsakiusiai asmens sveikatos priežiūros įstaigai;
+2.3 teigiami laboratorinių tyrimų atsakymai dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos pateikiami Nacionaliniam visuomenės sveikatos centrui prie sveikatos apsaugos ministerijos elektroniniu paštu info@nvsc.lt.
+3. Asmens sveikatos priežiūros įstaigos, kurios teikia mokamas ėminių COVID-19 ligos (koronaviruso infekcijos) nustatymo laboratoriniams tyrimams atlikti paėmimo ir šių tyrimų atlikimo paslaugas, teikiant formą E200 į ESPBI IS lauke „Registracijos kodas“ turi nurodyti, kad tai yra mokamas tyrimas, tyrimui suteikiant kodą, kuris prasidėtų taip: „Mokamas-xxxxx“.“
+
+
+
+Teisingumo ministras, pavaduojantis sveikatos
+apsaugos ministrą – valstybės lygio
+ekstremaliosios situacijos valstybės operacijų vadovą	 Elvinas Jankevičius

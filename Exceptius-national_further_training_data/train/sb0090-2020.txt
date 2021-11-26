@@ -1,0 +1,1002 @@
+Ročník 2020
+SBÍRKA ZÁKONŮ
+ČESKÁ REPUBLIKA
+
+
+
+Částka 90
+Rozeslána dne 13. května 2020
+Cena Kč 53,-
+
+
+
+
+OB S A H:
+	•	Zákon o pravomoci Policie České republiky a obecní policie postihovat porušení krizových opatření a mimořádných opatření nařízených v souvislosti s prokázáním výskytu koronaviru SARS CoV-2 na území České republiky
+	•	Nařízení vlády, kterým se mění nařízení vlády č. 41/2017 Sb., o údajích centrálního registru administrativních budov
+	•	Sdělení Ministerstva financí o vydání výměru MF č. 04/2020, kterým se mění seznam zboží s regulovanými cenami vydaný výměrem MF č. 01/2020
+	•	Sdělení Ministerstva vnitra o vyhlášení nových voleb do zastupitelstva obce
+243
+ZÁKON ze dne 10. května 2020
+o pravomoci Policie Č eské republiky a obecní policie postihovat poru š ení krizových opat ř ení a mimo ř ádných opat ř ení na ř ízených v souvislosti s prokázáním výskytu koronaviru SARS CoV-2 na území České republiky
+
+
+Parlament se usnesl na tomto zákoně České republiky:
+§1 Předmět úpravy
+Tento zákon upravuje pravomoc orgánu Policie České republiky a strážníka obecní policie projednat příkazem na místě vybrané přestupky podle zákona o ochran ě ve ř ejného zdraví a krizového zákona, které postihují porušení povinností stanovených krizovými opatřeními a mimořádnými opatřeními nařízenými z důvodu ohrožení zdraví v souvislosti s prokázáním výskytu koronaviru ozna č ovaného jako SARS CoV-2 na území České republiky.
+§2 Zvláštní ustanovení o ukládání pokuty p ř íkazem na míst ě
+(1) Orgán Policie České republiky a strážník obecní policie může příkazem na místě uložit pokutu za přestupek podle § 92n odst. 1 písm. b) zákona o ochran ě ve ř ejného zdraví, pokud byl spáchán nesplněním povinnosti uložené mimořádným opatřením vydaným v souvislosti s prokázáním výskytu koronaviru označovaného jako SARS CoV-2 na území České republiky.
+(2) Orgán Policie České republiky a strážník obecní policie může příkazem na místě uložit pokutu za přestupek podle § 34 odst. 1 písm. a) krizového zákona, pokud byl spáchán porušením povinnosti strpět omezení vyplývající z krizového opatření stanoveného v souvislosti s prokázáním výskytu koro- naviru označovaného jako SARS CoV-2 na území České republiky.
+§3
+Účinnost
+Tento zákon nabývá účinnosti dnem jeho vyhlášení.
+
+
+Vondráček v. r. Zeman v. r.
+Babiš v. r.
+244
+NAŘÍZENÍ VLÁDY ze dne 27. dubna 2020, kterým se mění nařízení vlády č. 41/2017 Sb., o údajích centrálního registru administrativních budov
+Vláda nařizuje podle § 65 odst. 2 zákona č. 219/ /2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 51/ /2016 Sb.:
+Čl. I
+Nařízení vlády č. 41/2017 Sb., o údajích centrálního registru administrativních budov, se mění takto:
+	•	V § 4 odst. 4 a v § 6 odst. 1 a 2 se slovo „neveřejný“ zrušuje.
+	•	V § 7 se slovo „neveřejném“ zrušuje.
+Vláda nařizuje podle § 65 odst. 2 zákona č. 219/ /2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění zákona č. 51/ /2016 Sb.:
+Čl. I
+Nařízení vlády č. 41/2017 Sb., o údajích centrálního registru administrativních budov, se mění takto:
+	•	V § 4 odst. 4 a v § 6 odst. 1 a 2 se slovo „neveřejný“ zrušuje.
+	•	V § 7 se slovo „neveřejném“ zrušuje.
+	•	V příloze č. 1 se v textu odkazu č. 3 slova „neveřejném a veřejném“ zrušují.
+	•	V příloze č. 2 se v textu odkazu č. 4 slova „neveřejném a veřejném“ zrušují.
+	•	V příloze č. 2 části „Vysvětlení zkratek“ se slova „Registr územní identifikace, adres“ nahrazují slovy „Registr územní identifikace, adres a nemovitostí“.
+	•	Příloha č. 3 zní:
+	•	V příloze č. 1 se v textu odkazu č. 3 slova „neveřejném a veřejném“ zrušují.
+	•	V příloze č. 2 se v textu odkazu č. 4 slova „neveřejném a veřejném“ zrušují.
+	•	V příloze č. 2 části „Vysvětlení zkratek“ se slova „Registr územní identifikace, adres“ nahrazují slovy „Registr územní identifikace, adres a nemovitostí“.
+	•	Příloha č. 3 zní:
+„Příloha č. 3 k nařízení vlády č. 41/2017 Sb.
+Aplikace Objekt
+
+Povinné vlastnic
+i pole pro tví
+Datový typ
+Sledované hodnoty centrálního registru administrativních budov
+Státní
+Nestátní1)
+
+Objekt
+
+
+Evidenční číslo objektu Sl
+Ne
+Ne
+číslo
+Poznámka
+Ne
+Ne
+textové pole
+Pořizovací cena objektu
+Ano
+Ne
+číslo
+Provedena pasportizace objektu
+Ano
+Ne
+ano/ne
+Hlavní stavba
+Ano
+Ano
+ano/ne
+Příznak adresy areálu
+Ano
+Ano
+ano/ne
+Areál
+Ano
+Ano
+odkaz
+Druh objektu
+Ano
+Ano
+číselník
+Účel užití objektu
+Ano
+Ano
+číselník
+Kontaktní údaje
+
+
+Jméno
+Ano
+Ano
+textové pole
+Příjmení
+Ano
+Ano
+textové pole
+
+E-mailová adresa
+Ano
+Ano
+textové pole
+Telefonní číslo
+Ano
+Ano
+číslo
+Geografické členění
+
+
+Obec
+Ano
+Ano
+číselník
+Adresa (možnost více adres)
+
+
+Ulice
+Ano
+Ano
+textové pole
+Číslo popisné/bez čísla popisného
+Ano
+Ano
+číslo/text
+Číslo orientační
+Ano
+Ano
+číslo
+Číslo evidenční
+Ano
+Ano
+číslo
+Obec
+Ano
+Ano
+textové pole
+Část obce
+Ne
+Ne
+textové pole
+Stát
+Ne
+Ne
+textové pole
+PSČ
+Ano
+Ano
+číslo
+Ověřeno
+Ano
+Ano
+ano/ne
+Datum ověření
+Ano
+Ano
+datum
+Poznámka k adrese
+Ne
+Ne
+textové pole
+GPS souřadnice
+Ano
+Ano
+číslo
+Pozemky
+
+
+Pozemky
+Ano
+Ne2)
+odkaz
+Podlaží
+
+
+Podlaží
+Ne
+Ne
+odkaz
+Prostor
+
+
+Prostor
+Ne
+Ne
+odkaz
+Jednotky
+
+
+Jednotky
+Ano
+Ne
+odkaz
+Katastr
+
+
+Katastrální údaje
+
+
+Obec
+Ano
+Ano
+číselník
+Část obce
+Ano
+Ano
+číselník
+Katastrální území
+Ano
+Ano
+číselník
+Číslo objektu (číslo popisné/číslo evidenční) dle RÚIAN
+Ano
+Ano
+číslo
+Číslo objektu (číslo popisné/číslo evidenční) dle Sl
+Ano
+Ano
+číslo
+Typ stavby dle RÚIAN
+Ano
+Ano
+číselník
+Typ stavby dle Sl
+Ano
+Ano
+číselník
+Způsob využití stavby dle RÚIAN
+Ano
+Ano
+číselník
+Způsob využití stavby dle Sl
+Ano
+Ano
+číselník
+List vlastnictví dle KN
+Ano
+Ano
+číslo
+Pozemek2)
+Ne
+Ne
+odkaz
+Jiná omezení
+Ne
+Ne
+číselník
+Ochranné pásmo
+Ne
+Ne
+číselník
+Poznámka k ochrannému pásmu
+Ne
+Ne
+textové pole
+Stavba podléhá zápisu do KN
+Ano
+Ano
+číselník
+Poznámka ke katastrálním údajům
+Ne
+Ne
+textové pole
+Datum posledního ověření v KN
+Ano
+Ano
+datum
+Údaje o vlastnictví
+
+
+
+Vlastnictví
+Ano
+Ano
+číselník
+Soulad vlastnictví (stavba/pozemek)
+Ano
+Ne
+číselník
+Nabývací tituly dle Sl
+
+
+Nabývací tituly dle Sl
+Ne
+Ne
+číselník
+Seznam subjektů dle KN
+
+
+Název
+Převzato z ISKN
+
+Typ práva
+Převzato z ISKN
+
+Podíl
+Převzato z ISKN
+
+Seznam subjektů dle Sl
+
+
+Typ subjektu
+Ano
+Ano
+číselník
+Subjekt
+Ano
+Ano
+odkaz
+Typ práva
+Ano
+Ano
+číselník
+Podílové spoluvlastnictví dle Sl
+Ano
+Ne
+číslo
+Využití
+
+
+Využití
+
+
+Kapacita kancelářských ploch (max. počet osob)
+Ano
+Ne
+číslo
+Počet nadzemních podlaží
+Ano
+Ne
+číslo
+Počet podzemních podlaží
+Ano
+Ne
+číslo
+Obestavěný prostor dle ČSN (m3)
+Ano
+Ne
+číslo
+Užitná plocha celkem
+Ano
+Ne
+číslo
+Počet kanceláří
+Ano
+Ne
+číslo
+Kancelářská plocha celkem
+Ano
+Ne
+číslo
+Kancelářská plocha využitá
+Ano
+Ne
+číslo
+Kancelářská plocha nevyužitá (prázdné kanceláře)
+Ano
+Ne
+číslo
+Skutečný počet osob
+Ne
+Ne
+číslo
+Počet bytů u objektů s byty
+Ano
+Ne
+číslo
+Plocha bytů celkem
+Ano
+Ne
+číslo
+Plocha bytů u objektů s byty využitá
+Ano
+Ne
+číslo
+Plocha bytů u objektů s byty nevyužitá
+Ano
+Ne
+číslo
+Plocha ostatní celkem
+Ano
+Ne
+číslo
+Plocha ostatní využitá
+Ano
+Ne
+číslo
+Plocha ostatní nevyužitá
+Ano
+Ne
+číslo
+Evidence
+
+
+Údaje o zařazení do evidence
+
+
+Důvod zařazení
+Ano
+Ano
+číselník
+Způsob nového nabytí/užívání
+Ano
+Ano
+číselník
+Údaje o změně příslušnosti hospodařit
+
+
+Důvod změny
+Ano
+Ne
+textové pole
+Datum změny
+Ano
+Ne
+datum
+Usnesení/rozhodnutí vlády/VDK/RDK
+Ne
+Ne
+odkaz
+Údaje o vyřazení z evidence
+
+
+Důvod vyřazení
+Ano
+Ano
+číselník
+Datum vyřazení
+Ano
+Ano
+datum
+Usnesení/rozhodnutí vlády/VDK/RDK
+Ano
+Ano
+odkaz
+Realizační cena
+Ano
+Ne
+číslo
+
+Komentář
+Ne
+Ne
+textové pole
+Údaje o nabyvateli
+
+
+Subjekt/Nabyvatel typ
+Ano
+Ne
+číselník
+Nabyvatel
+Ano
+Ne
+odkaz
+Typ nabyvatele
+Ano
+Ne
+číselník
+Způsob realizace
+Ano
+Ne
+číselník
+Podíl
+Ano
+Ne
+textové pole
+Pasportizace
+
+
+Vybavenost
+
+
+EZS
+Ano
+Ne
+číselník
+EZS - popis
+Ne
+Ne
+textové pole
+PCO
+Ano
+Ne
+číselník
+PCO - popis
+Ne
+Ne
+textové pole
+EPS
+Ano
+Ne
+číselník
+EPS - popis
+Ne
+Ne
+textové pole
+Garáže
+Ano
+Ne
+číselník
+Popis
+Ne
+Ne
+textové pole
+Počet míst
+Ano
+Ne
+číslo
+Parkovací stání
+Ano
+Ne
+číselník
+Popis
+Ne
+Ne
+textové pole
+Počet míst
+Ano
+Ne
+číslo
+Bezpečnostní služba
+Ne
+Ne
+číselník
+Bezpečnostní služba - popis
+Ne
+Ne
+textové pole
+Dostupnost
+
+
+Bezbariérový přístup
+Ano
+Ne
+ano/ne
+Popis
+Ne
+Ne
+textové pole
+Záplavová oblast
+Ano
+Ne
+ano/ne
+Poloha objektu
+Ano
+Ne
+číselník
+Prvek kritické infrastruktury
+Ano
+Ne
+číselník
+Docházková vzdálenost na veřejnou dopravu
+Ano
+Ne
+číslo
+Popis
+Ne
+Ne
+textové pole
+Technické údaje
+
+
+Rok výstavby objektu
+Ano
+Ne
+textové pole
+Datum poslední kolaudace objektu
+Ano
+Ne
+datum
+Popis poslední kolaudace
+Ne
+Ne
+textové pole
+Datum poslední pasportizace
+Ano
+Ne
+datum
+Proveden energetický audit
+Ano
+Ne
+ano/ne
+Datum provedení energetického auditu
+Ano
+Ne
+datum
+Energetický štítek budovy
+Ano
+Ne
+číselník
+Datum získání PENB
+Ano
+Ne
+datum
+Energeticky vztažná plocha (m2)
+Ano
+Ne
+číslo
+Obálka budovy
+Ano
+Ne
+číselník
+Vytápění
+Ano
+Ne
+číselník
+Chlazení
+Ano
+Ne
+číselník
+Větrání
+Ano
+Ne
+číselník
+
+Úprava vlhkosti
+Ano
+Ne
+číselník
+Teplá voda
+Ano
+Ne
+číselník
+Osvětlení
+Ano
+Ne
+číselník
+Doporučení energetického auditu
+Ne
+Ne
+textové pole
+Radonové riziko
+Ano
+Ne
+číselník
+Objekt obsahuje azbest
+Ano
+Ne
+číselník
+Elektřina 230V
+Ano
+Ne
+číselník
+Elektřina 400V
+Ano
+Ne
+číselník
+ICT rozvod
+Ano
+Ne
+číselník
+Datové připojení
+Ano
+Ne
+číselník
+Klimatizace
+Ano
+Ne
+číselník
+Konstrukce objektu
+Ano
+Ne
+číselník
+Vytápění - provedení
+Ano
+Ne
+číselník
+Vytápění - popis
+Ne
+Ne
+textové pole
+Ohřev teplé vody - provedení
+Ano
+Ne
+číselník
+Ohřev teplé vody - popis
+Ne
+Ne
+textové pole
+Kuchyně
+Ano
+Ne
+číselník
+Vnitřní hygienické vybavení, včetně WC
+Ne
+Ne
+číselník
+Výtahy - provedení
+Ano
+Ne
+číselník
+Výtahy - počet
+Ano
+Ne
+číslo
+Výtahy - popis
+Ne
+Ne
+textové pole
+Prvky vybavení
+
+
+Prvky vybavení
+
+
+Seznam prvků vybavení
+Ano
+Ne
+odkaz
+Ekonomika
+
+
+Ekonomické údaje
+
+
+Ekonomické údaje
+Ano
+Ano
+odkaz
+URD
+
+
+URD
+
+
+Usnesení/rozhodnutí vlády/VDK/RDK
+Ano
+Ano
+odkaz
+Právní vztahy
+
+
+Právní vztahy
+Ano
+Ano
+odkaz
+Spotřeba
+
+
+Spotřeba
+
+
+Roční spotřeba elektřiny (kWh)
+Ano
+Ne
+číslo
+Roční spotřeba plynu (m3)
+Ano
+Ne
+číslo
+Roční spotřeba studené vody (m3)
+Ano
+Ne
+číslo
+Roční spotřeba teplé vody (m3)
+Ano
+Ne
+číslo
+Roční spotřeba tepla (GJ)
+Ano
+Ne
+číslo
+Rok
+Ano
+Ne
+číslo
+Nepotřebnost3)
+
+
+Údaje o nepotřebnosti
+
+
+Rozhodnutí
+Ano
+Ne
+číselník
+Nabídnutí
+Ano
+Ne
+číselník
+Předáno k rozhodnutí RDK/VDK/vládě
+Ano
+Ne
+číselník
+
+Zájemce o nepotřebný majetek + datum
+Ne
+Ne
+textové pole
+Zveřejnění
+Ano
+Ne
+číselník
+Adresa pro podání nabídky - číslo popisné
+Ano
+Ne
+textové pole
+Adresa pro podání nabídky - ulice
+Ano
+Ne
+textové pole
+Adresa pro podání nabídky - město/obec
+Ano
+Ne
+textové pole
+Adresa pro podání nabídky - PSČ
+Ano
+Ne
+textové pole
+Doba pronájmu do
+Ne
+Ne
+textové pole
+Datum nabídnutí nepotřebného majetku
+Ano
+Ne
+datum
+Datum zveřejnění majetku od
+Ano
+Ne
+datum
+Datum zveřejnění majetku do
+Ano
+Ne
+datum
+Odkaz na nabídku I
+Ne
+Ne
+textové pole
+Odkaz na nabídku II
+Ne
+Ne
+textové pole
+Poznámka k nabídce
+Ne
+Ne
+textové pole
+Kontaktní osoba, která nabídku řeší - jméno
+Ano
+Ne
+textové pole
+Kontaktní osoba, která nabídku řeší - příjmení
+Ano
+Ne
+textové pole
+Kontaktní osoba, která nabídku řeší - e-mail
+Ano
+Ne
+textové pole
+Kontaktní osoba, která nabídku řeší - telefon
+Ano
+Ne
+textové pole
+Vlastnický podíl
+Ano
+Ne
+textové pole
+Fyzická prohlídka *
+
+
+Datum provedení fyzické prohlídky
+Ne
+Ne
+datum
+Zjištěn rozdíl mezi evidovaným a skutečným stavem
+Ne
+Ne
+textové pole
+Datum provedení záznamu o odstranění rozdílu/doplnění chybějících údajů
+Ne
+Ne
+datum
+Poznámka
+Ne
+Ne
+textové pole
+Přílohy
+Přílohy
+Přílohy tvoří zejména kopie projektové dokumentace, PENB, listinné dokumenty a fotografie vztahující se k objektu. Povolená velikost jedné přílohy je maximálně 10 MB. V případě, kdy má příloha větší velikost než 10 MB, rozdělí se do více samostatných souborů o velikosti nepřesahující 10 MB. Povolený typ formátu přílohy je následující: pdf, zip, txt, doc, docx, dwg, gif, jpg, csv, xls, xlsx, ppt, xml, xsl, bmp, html, png, pptx, cfr.
+
+	•	Zahrnuje též státní vlastnictví s právem hospodařit státní organizace, která není v působnosti zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů.
+	•	Pozemek se v tomto poli doplňuje pouze v případě, že objekt nemá číslo popisné nebo číslo evidenční.
+Vysvětlení zkratek:
+ČSN - Česká technická norma
+EPS - Elektrická požární signalizace
+EZS - Elektronický zabezpečovací systém
+ISKN - Informační systém katastru nemovitostí
+KN - Katastr nemovitostí
+PCO - Pult centralizované ochrany
+PENB - Průkaz energetické náročnosti budovy
+RDK- Regionální dislokační komise
+RÚIAN - Registr územní identifikace, adres a nemovitostí
+Sl - Státní instituce (organizační složky státu nebo státní organizace v působnosti zákona č. 219/2000 Sb., o majetku České republiky a jejím vystupování v právních vztazích, ve znění pozdějších předpisů)
+URD - Usnesení/Rozhodnutí/Doporučení
+VDK - Vládní dislokační komise“.
+Čl. II
+Účinnost
+7. V přílohách č. 4 až 6 se v textech odkazů č. 2	Toto nařízení nabývá účinnosti dnem 1. čer-
+slova „neveřejném a veřejném“ zrušují.	vence 2020.
+Předseda vlády:
+Ing. Babiš v. r.
+Místopředsedkyně vlády a ministryně financí:
+JUDr. Schillerová, Ph.D., v. r.
+245
+SDĚLENÍ
+Ministerstva financí
+ze dne 7. května 2020 o vydání vým ě ru MF č . 04/2020, kterým se m ě ní seznam zbo ž í s regulovanými cenami vydaný výměrem MF č. 01/2020
+Ministerstvo financí podle ustanovení § 10 zákona č. 526/1990 Sb., o cenách, ve znění pozdějších předpisů, sděluje, že dne 20. dubna 2020 vydalo výměr MF č. 04/2020, kterým se mění seznam zboží s regulovanými cenami vydaný vým ě rem MF č . 01/2020.
+Výměr byl publikován v Cenovém věstníku částka 6/2020 dne 22. dubna 2020 a nabyl účinnosti 22. dubna 2020.
+Ministryně financí:
+JUDr. Schillerová, Ph.D., v. r.
+246
+SDĚLENÍ Ministerstva vnitra ze dne 12. května 2020 o vyhlá š ení nových voleb do zastupitelstva obce
+Ministr vnitra podle § 58 odst. 4 zákona č. 491/2001 Sb., o volbách do zastupitelstev obcí a o změně některých zákonů, ve znění pozdějších předpisů, vyhlašuje na den 19. září 2020 nové volby do zastupitelstva obce:
+obec
+okres
+kraj
+Dlažkovice
+Litoměřice
+Ústecký
+
+Ministr:
+Hamáček v. r.
+Strana 1820
+Sbírka zákonů 2020
+Částka 90
+
+
+Částka 90
+Sbírka zákonů 2020
+Strana 1821
+
+
+Strana 1822
+Sbírka zákonů 2020
+Částka 90
+
+
+Částka 90
+Sbírka zákonů 2020
+Strana 1823
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vydává a tiskne: Tiskárna Ministerstva vnitra, p. o., Bartůňkova 4, pošt. schr. 10, 149 01 Praha 415, telefon: 272 927 011, fax: 974 887 395 - Redakce: Ministerstvo vnitra, nám. Hrdinů 1634/3, pošt. schr. 155/SB, 140 21 Praha 4, telefon: 974 817 289, fax: 974 816 871 - Administrace: písemné objednávky předplatného, změny adres a počtu odebíraných výtisků - Walstead Moraviapress s.r.o., U Póny 3061, 69002 Břeclav, tel.: 516205175, e-mail: sbirky@walstead-moraviapress.com. Roční předplatné se stanovuje za dodávku kompletního ročníku včetně rejstříku z předcházejícího roku a je od předplatitelů vybíráno formou záloh ve výši oznámené ve Sbírce zákonů. Závěrečné vyúčtování se provádí po dodání kompletního ročníku na základěpočtu skutečněvydanýchčástek (první záloha na rok 2020 činí 6 000,- Kč) - Vychází podle potřeby- Distribuce: Walstead Moraviapress s. r. o., U Póny 3061, 690 02 Břeclav, celoroční předplatné a objednávky jednotlivých částek (dobírky) - 516 205 175, objednávky - knihkupci - 516 205 175, e-mail - sbirky@walstead-moraviapress.com. Internetová prodejna: www.sbirkyzakonu.cz - Drobný prodej - Brno: Ing. Jiří Hrazdil, Vranovská 16, Vydavatelství a nakladatelství Aleš Čeněk, Obchodní galerie IBC (2. patro), Příkop 6; Cheb: EFREX, s. r. o., Karlova 31; Chomutov: DDD Knihkupectví - Antikvariát, Ruská 85; Kadaň: Knihařství - Přibíková, J. Švermy 14; Liberec: Podještědské knihkupectví, Moskevská 28; Olomouc: Zdeněk Chumchal - Knihkupectví Tycho, Ostružnická 3; Pardubice: ABONO s.r.o., Sportovců 1121; Plzeň: Vydavatelství a nakladatelství Aleš Čeněk, nám. Českých bratří 8; Praha 3: Vydavatelství a nakladatelství Aleš Čeněk, Řipská 23; Praha 4: Tiskárna Ministerstva vnitra, Bartůňkova 4; Praha 9: DOVOZ TISKU SUWECO CZ, Klečákova 347; Praha 10: BMSS START, s. r. o., Vinohradská 190, MONITOR CZ, s. r. o., Třebohostická 5, tel.: 283 872 605; Ústí nad Labem: PNS Grosso s. r. o., Havířská 327, tel.: 475 259 032, fax: 475 259 029, KARTOON, s. r. o., Klíšská 3392/37 -vazby sbírek tel. a fax: 475 501 773, e-mail: kartoon@kartoon.cz; Zábřeh: Mgr. Ivana Patková, Žižkova 45; Žatec: Jindřich Procházka, Bezděkov 89 - Vazby Sbírek, tel.: 415 712 904. Distribuční podmínky předplatného: jednotlivé částky jsou expedovány neprodleně po dodání z tiskárny. Objednávky nového předplatného jsou vyřizovány do 15 dnů a pravidelné dodávky jsou zahajovány od nejbližší částky po ověření úhrady předplatného nebo jeho zálohy. Částky vyšlé v době od zaevidování předplatného do jeho úhrady jsou doposílány jednorázově. Změny adres a počtu odebíraných výtisků jsou prováděny do 15 dnů. Reklamace: informace na tel. čísle 516 205 175. Podávání novinových zásilek povoleno Českou poštou, s. p., Odštěpný závod Jižní Morava Ředitelství v Brně č. j. P/2-4463/95 ze dne 8. 11. 1995.

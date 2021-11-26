@@ -1,0 +1,198 @@
+﻿Ordinanza
+sul sistema di tracciamento della prossimità
+per il coronavirus SARS-CoV-2
+(OSTP)
+818.101.25
+del 24 giugno 2020 (Stato 25 giugno 2020)
+Il Consiglio federale svizzero,
+visto l'articolo 60a capoverso 7 della legge del 28 settembre 2012* 1
+sulle epidemie (LEp),
+ordina:
+Art. 1 Oggetto
+La presente ordinanza disciplina i dettagli dell'organizzazione, dell'esercizio e del
+trattamento dei dati del sistema di tracciamento della prossimità per il coronavirus
+SARS-CoV-2 (sistema TP) di cui all'articolo 60a LEp.
+Art. 2 Struttura
+1	Il sistema TP include i seguenti componenti:
+a.	un sistema di gestione dei dati relativi alla prossimità (sistema GP), costitui-
+to da un'applicazione installata dai partecipanti sul proprio telefono cellulare
+(app SwissCovid) e da un back end (back end GP);
+b.	un sistema di gestione dei codici di attivazione delle informazioni (sistema
+di gestione dei codici), costituito da un front end basato sulla rete e da un
+back end.
+2	Il back end GP e il sistema di gestione dei codici sono gestiti come server centrali
+dall'Ufficio federale della sanità pubblica (UFSP).
+Art. 3 Volontarietà
+1	L'installazione e l'utilizzazione dell'app SwissCovid sono volontarie.
+2	I partecipanti che sono stati potenzialmente esposti al coronavirus sono informati
+soltanto con il consenso esplicito della persona infetta.
+RU 2020 2553
+1 RS 818.101
+1
+818.101.25
+Lotta contro le malattie
+Art. 4 Organo federale responsabile
+L'UFSP è l'organo federale responsabile degli aspetti legali di protezione dei dati di
+tutti i componenti del sistema TP.
+Art. 5 Modalità di funzionamento di base
+1	Nel funzionamento di base il back end GP mette a disposizione delle app
+SwissCovid il suo contenuto mediante procedura di richiamo. Il contenuto consiste
+in un elenco con i seguenti dati:
+a.	le chiavi private dei partecipanti infetti che erano di attualità nel periodo in
+cui altri partecipanti erano potenzialmente esposti al coronavirus (periodo ri-
+levante);
+b.	la data di ogni chiave.
+2	Mediante l'utilizzazione di un'interfaccia verso il sistema operativo del telefono
+cellulare, l'app SwissCovid adempie le seguenti funzioni:
+a.	genera almeno una volta al giorno una nuova chiave privata che non permet-
+te di risalire all'app SwissCovid, al telefono cellulare e al partecipante;
+b.	scambia un codice d'identificazione che cambia almeno una volta ogni
+mezz'ora con tutte le app compatibili che si trovano entro la portata di Blue-
+tooth. Il codice d'identificazione è ricavato dalla chiave privata attualmente
+in uso, ma non può essere ricondotto a questa chiave e non permette di risali-
+re all'app SwissCovid, al telefono cellulare e al partecipante;
+c.	memorizza i codici d'identificazione ricevuti, la potenza del segnale, la data
+e la durata stimata della prossimità;
+d.	richiama periodicamente dal back end GP l'elenco delle chiavi private dei
+partecipanti contagiati e controlla se i loro codici d'identificazione memoriz-
+zati localmente sono stati generati con una chiave privata dell'elenco;
+e.	se riscontra che almeno uno dei codici di identificazione memorizzati local-
+mente è stato generato con una delle chiavi private dell'elenco e se sono
+soddisfatte le condizioni di prossimità di cui all'allegato, l'app SwissCovid
+invia l'informazione; la distanza della prossimità è stimata in base alla po-
+tenza del segnale ricevuto.
+3	Le funzioni dei sistemi operativi utilizzate tramite l'interfaccia devono adempiere
+le prescrizioni di cui all'articolo 60a LEp e alla presente ordinanza; è fatta salva la
+disposizione sul codice sorgente di cui all'articolo 60a capoverso 5 lettera e LEp.
+L'UFSP si assicura che queste prescrizioni siano rispettate, in particolare richieden-
+do le necessarie garanzie.
+4	Il dipartimento federale dell'interno (DFI) aggiorna l'allegato secondo lo stato
+attuale della scienza.
+2
+Sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2. O
+818.101.25
+Art. 6 Modalità di funzionamento dopo un'infezione
+1	Se un'infezione è confermata, lo specialista avente diritto di accesso genera nel
+sistema di gestione dei codici un codice di attivazione univoco e limitato nel tempo.
+Registra inoltre nel sistema di gestione dei codici la data in cui si sono manifestati i
+primi sintomi o, se la persona infetta non presenta sintomi, la data in cui è stato
+effettuato il test.
+2	Lo specialista comunica il codice di attivazione alla persona infetta. Quest'ultima
+lo può immettere nella sua app SwissCovid.
+3	Il back end del sistema di gestione dei codici conferma all'app SwissCovid la
+validità del codice immesso. Dalla data immessa dallo specialista sottrae due giorni.
+La data risultante vale come data d'inizio del periodo rilevante. Il back end del
+sistema di gestione dei codici trasmette questa data all'app SwissCovid della persona
+infetta.
+4	L'app SwissCovid della persona infetta trasmette al back end GP le chiavi private
+che erano di attualità nel periodo rilevante unitamente alla data corrispondente.
+5	Il back end GP inserisce nel suo elenco le chiavi private ricevute unitamente alle
+date corrispondenti.
+6	Dopo la trasmissione delle chiavi private, l'app SwissCovid genera una nuova
+chiave privata. Da quest'ultima non è possibile risalire a precedenti chiavi private.
+Art. 7 Contenuto dell'informazione
+1	L'informazione include:
+a.	l'informazione che il partecipante è stato potenzialmente esposto al corona-
+virus;
+b.	l'indicazione del giorno in cui lo è stato per l'ultima volta;
+c.	l'informazione che l'UFSP gestisce una linea di consulenza telefonica gra-
+tuita;
+d.	le raccomandazioni di comportamento dell'UFSP.
+2	Il sistema TP non dà istruzioni ai partecipanti.
+Art. 8	Contenuto del sistema di gestione dei codici
+1 Il sistema di gestione dei codici contiene i seguenti dati:
+a. i codici di attivazione;
+b. la data in cui si sono manifestati i primi sintomi o, se la persona infetta non
+presenta sintomi, la data in cui è stato effettuato il test;
+c.	la data di distruzione dei dati di cui alle lettere a e b.
+2 Questi dati non permettono di risalire ai partecipanti.
+3
+818.101.25
+Lotta contro le malattie
+Art. 9 Diritti di accesso al sistema di gestione dei codici
+1 Sono autorizzate a rilasciare il codice di attivazione le seguenti persone:
+a. i medici cantonali;
+b. il medico in capo dell'esercito;
+c.	altri collaboratori dei servizi medici cantonali o del servizio medico militare
+dell'esercito;
+d.	i terzi incaricati dai servizi medici cantonali o dal servizio medico militare
+dell'esercito;
+e.	il medico curante e i suoi assistenti.
+2 La registrazione nel sistema di gestione dei codici avviene mediante il sistema
+centrale di accesso e autorizzazione dell'Amministrazione federale per le applica-
+zioni di rete. Sono applicabili le disposizioni dell'ordinanza del 19 ottobre 20162 sui
+sistemi di gestione delle identità e sui servizi di elenchi della Confederazione.
+3	L'UFSP concede e amministra i diritti di accesso al sistema di gestione dei codici.
+Può autorizzare i medici cantonali e il medico in capo dell'esercito o singoli loro
+assistenti a concedere i diritti di accesso ad assistenti.
+Art. 10 Prestazioni di terzi
+1 L'UFSP può incaricare terzi di mettere a disposizione delle app SwissCovid me-
+diante procedura di richiamo l'elenco dei dati necessari per le informazioni.
+2 Può conferire a terzi la concessione dei diritti di accesso al sistema di gestione dei
+codici. I terzi incaricati devono garantire un controllo affidabile e giuridicamente
+corretto delle autorizzazioni degli specialisti.
+3	I terzi incaricati devono impegnarsi contrattualmente a rispettare le prescrizioni
+dell'articolo 60a LEp e della presente ordinanza; è fatta salva la disposizione sul
+codice sorgente di cui all'articolo 60a capoverso 5 lettera e LEp. L'UFSP controlla
+il rispetto delle prescrizioni.
+Art. 11 Registro degli accessi
+1 Alla memorizzazione e all'analisi dei registri degli accessi al back end GP e al
+sistema di gestione dei codici, nonché all'elenco di cui all'articolo 10 capoverso 1
+sono applicabili gli articoli 57i-57q della legge del 21 marzo 19973 sull'organiz-
+zazione del Governo e dell'Amministrazione e l'ordinanza del 22 febbraio 20124 sul
+trattamento di dati personali derivanti dall'utilizzazione dell'infrastruttura elettronica
+della Confederazione.
+2	Oltre a questi registri e alla registrazione delle prossimità, il sistema TP non tiene
+registri delle attività del front end del sistema di gestione dei codici e delle app
+SwissCovid.
+2	RS 172.010.59
+3	RS 172.010
+4	RS 172.010.442
+4
+Sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2. O
+818.101.25
+Art. 12	Comunicazione per scopi statistici
+L'UFSP mette periodicamente a disposizione dell'Ufficio federale di statistica
+(UST) per valutazioni statistiche la raccolta dei dati disponibili in quel momento nei
+due back end in forma completamente anonimizzata.
+Art. 13	Distruzione dei dati
+1 I dati del sistema GP sono distrutti sia sul telefono cellulare sia nel back end GP
+14 giorni dopo la loro registrazione.
+2 I dati del sistema di gestione dei codici sono distrutti 24 ore dopo la loro registra-
+zione.
+3	I dati dei registri di terzi incaricati ai sensi dell'articolo 10 capoverso 1 sono di-
+strutti 7 giorni dopo la loro registrazione.
+4	Per il rimanente, la distruzione dei dati dei registri è retta dall'articolo 4 capover-
+so 1 lettera b dell'ordinanza del 22 febbraio 20125 sul trattamento di dati personali
+derivanti dall'utilizzazione dell'infrastruttura elettronica della Confederazione.
+5	Anche i dati messi a disposizione dell'UST sono distrutti conformemente al pre-
+sente articolo.
+Art. 14	Controllo del codice sorgente
+1 L'UFSP pubblica i dati necessari per controllare se i programmi leggibili dalle
+macchine di tutti i componenti del sistema TP sono stati creati sulla base del codice
+sorgente pubblico.
+2 Effettua il controllo anche in modo autonomo.
+Art. 15 Disattivazione dell'app SwissCovid e rapporto
+1 Al momento dell'abrogazione della presente ordinanza, l'UFSP disattiva l'app
+SwissCovid e chiede ai partecipanti di disinstallarla dal loro telefono cellulare.
+2 Entro sei mesi dall'abrogazione l'UFSP fa rapporto al Consiglio federale.
+Art. 16 Abrogazione di un altro atto normativo
+L'ordinanza COVID-19 test pilota di tracciamento di prossimità del 13 maggio
+20206 è abrogata.
+Art. 17 Entrata in vigore e durata di validità
+La presente ordinanza entra in vigore il 25 giugno 2020 alle ore 00.00 e si applica
+fino al 30 giugno 2022.
+5 RS 172.010.442
+6 [RU 2020 1589]
+5
+818.101.25
+Lotta contro le malattie
+Allegato
+(art. 5 cpv. 2 lett. e, nonché 4)
+Condizioni di prossimità epidemiologiche
+Le condizioni di prossimità epidemiologiche sono soddisfatte se:
+a. vi è stata una prossimità fisica di 1,5 metri o meno con il telefono cellulare
+di almeno un partecipante infetto;
+b. la somma della durata di tutte le prossimità secondo la lettera a raggiunge o
+supera i 15 minuti in una giornata.
+6

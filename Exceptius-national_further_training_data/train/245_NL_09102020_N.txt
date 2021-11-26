@@ -1,0 +1,169 @@
+Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden,
+Prins van Oranje-Nassau, enz. enz. enz.
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Alzo Wij in overweging genomen hebben, dat het wenselijk is dat
+wettelijke waarborgen worden opgenomen ter voorkoming van misbruik
+van een bij de bestrijding van de epidemie van covid-19 mogelijk in te
+zetten notificatieapplicatie dan wel van enig ander vergelijkbaar digitaal
+middel;
+Zo is het, dat Wij, de Afdeling advisering van de Raad van State
+gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+ARTIKEL I
+De Wet publieke gezondheid wordt als volgt gewijzigd:
+A
+Na artikel 6c wordt een artikel ingevoegd, luidende:
+Artikel 6d
+1. In het kader van de taak van Onze Minister, bedoeld in artikel 3, eerste
+lid en artikel 7, eerste lid, en voorts ter ondersteuning van de bron- en
+contactopsporing, bedoeld in artikel 6, eerste lid, onder c, ter bestrijding
+van de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2 kan
+een notificatieapplicatie worden ingezet waarmee vroegtijdig zicht kan
+worden verkregen op een mogelijke infectie met dat virus door bij te
+houden welke gebruikers in elkaars nabijheid zijn geweest en hen in
+voorkomende gevallen te waarschuwen over een mogelijke infectie met
+het virus. Voor zover noodzakelijk kunnen Onze Minister en de gemeentelijke gezondheidsdiensten bij het beheer en de toepassing van deze
+notificatieapplicatie persoonsgegevens verwerken, waaronder persoonsgegevens over de gezondheid als bedoeld in artikel 9 van de Algemene
+verordening gegevensbescherming. 
+
+2. In het kader van de notificatieapplicatie worden uitsluitend de
+volgende gegevens verwerkt:
+1° gepseudonimiseerde codes waarmee de nabijheid van gebruikers
+wordt bijgehouden en gebruikers in voorkomende gevallen worden
+gewaarschuwd voor een mogelijke infectie met het virus;
+2° het pseudo mac-adres van gebruikers;
+3° de duur van de nabijheid van gebruikers;
+4° de afstand waarbinnen gebruikers in elkaars nabijheid waren;
+5° de weging van het risico dat de betreffende gebruiker mogelijk
+geïnfecteerd is met het virus;
+6° het ip-adres van gebruikers;
+7° de eerste dag waarop een met het virus geïnfecteerde gebruiker
+ziekteverschijnselen vertoonde, en
+8° een validatiecode die wordt uitgewisseld met de betreffende
+gemeentelijke gezondheidsdienst zodat wordt gewaarborgd dat alleen de
+notificatieapplicatie van een daadwerkelijk met het virus geïnfecteerde
+gebruiker andere gebruikers kan waarschuwen over een mogelijke infectie
+met het virus.
+3. De in het kader van de notificatieapplicatie verwerkte persoonsgegevens:
+a. worden niet langer bewaard dan noodzakelijk is om gebruikers in
+voorkomende gevallen te kunnen waarschuwen over een mogelijke
+infectie met het virus en worden vervolgens onmiddellijk vernietigd;
+b. zijn beveiligd tegen verlies en onrechtmatige verwerking, en
+c. worden niet voor andere doeleinden gebruikt dan de bestrijding van
+de epidemie van covid-19, veroorzaakt door het virus SARS-CoV-2.
+4. Onze Minister draagt zorg voor de inrichting en het beheer van de
+notificatieapplicatie.
+5. Onze Minister is verwerkingsverantwoordelijke in de zin van artikel 4
+van de Algemene verordening gegevensbescherming voor de verwerking
+van persoonsgegevens in het kader van de notificatieapplicatie.
+6. In afwijking van het derde lid is voor de toepassing van de artikelen
+12 tot en met 23 en 33 van de Algemene verordening gegevensbescherming de verwerkingsverantwoordelijke de gemeentelijke gezondheidsdienst van de verblijfplaats van betrokkene. De gemeentelijke
+gezondheidsdienst beslist binnen een maand op een verzoek van
+betrokkene betreffende de uitoefening van zijn rechten op grond van de
+Algemene verordening gegevensbescherming.
+7. Onze Minister maakt ten minste de volgende informatie toegankelijk
+voor de betrokkene:
+a. de wijze waarop betrokkene bij de gemeentelijke gezondheidsdienst
+van zijn verblijfplaats een beroep kan doen op zijn rechten op grond van
+de artikelen 12 tot en met 23 en 33 van de Algemene verordening
+gegevensbescherming;
+b. de contactgegevens van de gemeentelijke gezondheidsdienst van de
+verblijfplaats van betrokkene;
+c. de wijze waarop betrokkene een klacht kan indienen bij de Autoriteit
+Persoonsgegevens;
+d. de wijze van verwerking van gegevens in het kader van de notificatieapplicatie in beknopte en toegankelijke vorm en in duidelijke en
+eenvoudige taal.
+8. Het is verboden een ander te verplichten tot het gebruik van de
+notificatieapplicatie dan wel enig ander vergelijkbaar digitaal middel.
+Onder dit verbod valt in ieder geval het gebruik van de applicatie of het
+middel, het delen van informatie daarvan, of het meedelen van het al dan
+niet hebben ontvangen van notificaties daarvan, als voorwaarde te stellen
+voor de toegang tot een gebouw of voorziening, het uitoefenen van
+arbeid, het gebruik maken van een dienst, de deelname aan enige vorm
+van intermenselijk contact, of het verkrijgen van enig voordeel. 
+
+9. De in het kader van de notificatieapplicatie verwerkte gegevens
+kunnen worden uitgewisseld met andere lidstaten van de Europese Unie
+die een vergelijkbare notificatieapplicatie gebruiken indien deze uitwisseling bijdraagt aan het doel vroegtijdig zicht te kunnen verkrijgen op een
+mogelijke infectie met het virus door bij te houden welke gebruikers in
+elkaars nabijheid zijn geweest en hen in voorkomende gevallen te
+waarschuwen over een mogelijke infectie met het virus.
+10. Bij algemene maatregel van bestuur wordt in ieder geval de
+verwerkingsverantwoordelijke aangewezen voor de te onderscheiden
+delen van de gegevensverwerking die met toepassing van het negende lid
+plaatsvindt. De voordracht voor deze algemene maatregel van bestuur
+wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide
+Kamers van de Staten-Generaal is overgelegd.
+11. Onze Minister draagt ervoor zorg dat het in het tweede lid,
+onderdeel 6, bedoelde ip-adres van gebruikers zo snel mogelijk wordt
+gescheiden van de overige gegevens. Teneinde herleidbaarheid uit te
+sluiten is het verboden dit gegeven voorts aan andere gegevens,
+waaronder de gegevens bedoeld in het tweede lid, te koppelen.
+B
+In paragraaf 1 van hoofdstuk VII wordt na artikel 64 een artikel
+ingevoegd, luidende:
+Artikel 64bis
+1. Met het toezicht op de naleving van artikel 6d, achtste lid, zijn voorts
+belast de bij besluit van Onze Minister aangewezen ambtenaren. Indien de
+aanwijzing ambtenaren betreft, ressorterende onder een ander ministerie
+dan dat van Onze Minister, wordt het besluit genomen in overeenstemming met Onze Minister die het mede aangaat.
+2. De ambtenaren belast met het toezicht op de naleving van artikel 6d,
+achtste lid, verstrekken elkaar uit eigen beweging en desgevraagd de
+gegevens, waaronder persoonsgegevens over de gezondheid als bedoeld
+in artikel 9 van de Algemene verordening gegevensbescherming, die van
+belang zijn voor de uitoefening van hun toezichthoudende taak.
+3. Met de opsporing van het in artikel 67a strafbaar gestelde feit zijn,
+onverminderd artikel 141 van het Wetboek van Strafvordering en
+artikel 184 van het Wetboek van Strafvordering BES, belast de door Onze
+Minister in overeenstemming met Onze Minister van Justitie en Veiligheid
+aangewezen ambtenaren. Indien de aanwijzing ambtenaren betreft,
+ressorterende onder een ander ministerie dan dat van Onze Minister of
+van Onze Minister van Justitie en Veiligheid, wordt het besluit genomen in
+overeenstemming met Onze Minister die het mede aangaat.
+4. De ambtenaren bedoeld in het tweede lid zijn tevens belast met de
+opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met
+182 en 184 van het Wetboek van Strafrecht dan wel de artikelen 185 tot en
+met 188 en 190 van het Wetboek van Strafrecht BES, voor zover deze
+feiten betrekking hebben op een bevel, vordering of handeling, gedaan of
+ondernomen door henzelf.
+5. Van een besluit als bedoeld in het eerste lid en tweede lid wordt
+mededeling gedaan door plaatsing in de Staatscourant.
+C
+In paragraaf 2 van hoofdstuk VII wordt na artikel 67 een artikel
+ingevoegd, luidende: 
+
+Artikel 67a
+1. Met een hechtenis van ten hoogste zes maanden of een geldboete
+van de derde categorie wordt gestraft degene die handelt in strijd met
+artikel 6d, achtste lid.
+2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
+ARTIKEL II
+1. Met ingang van drie maanden na het tijdstip van inwerkingtreding
+van deze wet vervallen artikel 6d, artikel 64bis en artikel 67a van de Wet
+publieke gezondheid.
+2. Bij koninklijk besluit kan voor de in het eerste lid genoemde
+bepalingen of onderdelen daarvan worden bepaald dat zij op een eerder
+tijdstip vervallen.
+3. Bij koninklijk besluit kan voor de in het eerste lid genoemde
+bepalingen of onderdelen daarvan worden bepaald dat zij op een later
+tijdstip vervallen, met dien verstande dat dit tijdstip steeds ten hoogste
+drie maanden na het tijdstip ligt waarop die bepalingen of onderdelen
+zouden vervallen.
+4. De voordracht voor het koninklijk besluit als bedoeld in het tweede of
+derde lid, wordt niet eerder gedaan dan een week nadat het ontwerp aan
+beide Kamers van de Staten-Generaal is overgelegd.
+ARTIKEL III
+Deze wet treedt in werking met ingang van de dag na de datum van
+uitgifte van het Staatsblad waarin zij wordt geplaatst.
+ARTIKEL IV
+Deze wet wordt aangehaald als Tijdelijke wet notificatieapplicatie
+covid-19.
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en
+dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks
+aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+Gegeven te ’s-Gravenhage, 6 oktober 2020
+Willem-Alexander
+De Minister van Volksgezondheid, Welzijn en Sport,
+H.M. de Jonge
+Uitgegeven de negende oktober 2020
+De Minister van Justitie en Veiligheid,
+F.B.J. Grapperhaus

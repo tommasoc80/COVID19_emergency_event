@@ -1,0 +1,24 @@
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS 
+VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVAS
+
+SPRENDIMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 
+VALSTYBĖS LYGIO EKSTREMALIOSIOS SITUACIJOS VALSTYBĖS OPERACIJŲ VADOVO 2020 M. KOVO 18 D. SPRENDIMO NR. V-437 „DĖL LABORATORINIŲ TYRIMŲ DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS UŽSAKYMŲ IR ATSAKYMŲ PATEIKIMO Į ELEKTRONINĘ SVEIKATOS PASLAUGŲ IR BENDRADARBIAVIMO INFRASTRUKTŪROS INFORMACINĘ SISTEMĄ“ PAKEITIMO
+
+2020 m. gruodžio 18 d. Nr. V-2937
+Vilnius
+
+
+P a k e i č i u Lietuvos Respublikos sveikatos apsaugos ministro, valstybės lygio ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. kovo 18 d. sprendimą Nr. V-437 „Dėl laboratorinių tyrimų dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos užsakymų ir atsakymų pateikimo į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą“:
+1.	Pakeičiu 1 punktą ir jį išdėstau taip:
+„1. Visi laboratorinių tyrimų užsakymai dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (toliau – ESPBI IS) forma E200 pateikiami ne vėliau, nei ėminys išsiunčiamas į laboratoriją.“
+2.	Pakeičiu 2 punkto pirmąją pastraipą ir ją išdėstau taip:
+„2. Visi laboratorinių tyrimų atsakymai dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos pateikiami į ESPBI IS forma E200-a ir pasirašomi per 24 val. nuo ėminių gavimo, pirmenybę teikiant teigiamų rezultatų suvedimui. Esant laikiniems ESPBI IS sutrikimams:“.
+3.	Pakeičiu 3 punktą ir jį išdėstau taip:
+„3. Asmens sveikatos priežiūros įstaigos, kurios teikia mokamas ėminių COVID-19 ligos (koronaviruso infekcijos) nustatymo laboratoriniams tyrimams atlikti paėmimo ir šių tyrimų atlikimo paslaugas, užregistravusios paciento apsilankymą laboratoriniam tyrimui dėl COVID-19 ligos (koronaviruso infekcijos) diagnostikos, privalo į ESPBI IS pateikti paciento telefono numerį ir  teikdamos formą E200 į ESPBI IS lauke „Registracijos kodas“ nurodyti, kad tai yra mokamas tyrimas, tyrimui suteikiant kodą, kuris prasidėtų taip: „Mokamas-xxxxx“.“
+
+
+
+Sveikatos apsaugos ministras, valstybės lygio
+ekstremaliosios situacijos valstybės operacijų vadovas	Arūnas Dulkys

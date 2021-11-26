@@ -1,0 +1,213 @@
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 16 D. ĮSAKYMO NR. V-390 „DĖL TEPINĖLIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2020 m. balandžio 1 d. Nr. V-675
+Vilnius
+
+
+Pakeičiu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymą Nr. V-390 „Dėl tepinėlių iš paciento nosiaryklės ir ryklės paėmimo mobiliuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašo patvirtinimo“ ir jį išdėstau nauja redakcija:
+
+„LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL TEPINĖLIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO
+
+1.	T v i r t i n u Tepinėlių iš paciento nosiaryklės ir ryklės paėmimo mobiliuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašą (pridedama). 
+2.	P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.“
+
+
+
+Sveikatos apsaugos ministras	Aurelijus Veryga
+
+PATVIRTINTA
+Lietuvos Respublikos sveikatos apsaugos ministro 
+2020 m. kovo 16 d. įsakymu Nr. V-390
+(Lietuvos Respublikos sveikatos apsaugos ministro 
+2020 m. balandžio 1 d. įsakymo Nr. V- 675 redakcija)
+
+
+TEPINĖLIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Tepinėlių iš paciento nosiaryklės ir ryklės paėmimo mobiliuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašas (toliau – Aprašas) nustato mobilios laboratorinių tyrimų paėmimo komandos (toliau – mobilaus punkto komanda) paslaugos, apimančios tepinėlio iš asmens nosiaryklės ir ryklės paėmimą COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti (toliau – Paslauga) mobiliuose punktuose, vykdymo tvarką.
+2. Paslauga priskiriama būtinajai medicinos pagalbai.
+3. Aprašas privalomas:
+3.1. savivaldybių administracijoms;
+3.2. ambulatorines ir (ar) stacionarines asmens sveikatos priežiūros paslaugas teikiančioms savivaldybių pavaldumo įstaigoms, kurioms savivaldybių administracijų sprendimais yra priskirta teikti Paslaugas (toliau – ASPĮ) mobiliuose punktuose;
+3.3. greitosios medicinos pagalbos (toliau – GMP) paslaugas teikiančioms įstaigoms;
+3.4. laboratorinės diagnostikos paslaugas teikiančioms įstaigoms, atliekančioms COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus (toliau – laboratorija);
+3.5. Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos (toliau – NVSC);
+3.6. Karštosios linijos konsultantams;
+3.7. pacientui ir jį atvežusiam asmeniui.
+4. Paciento asmens duomenys surinkti Aprašo nustatyta tvarka tvarkomi vykdant COVID-19 ligos (koronaviruso infekcijos) diagnostikos, paimant tepinėlius iš nosiaryklės ir ryklės mobiliuose punktuose, tikslu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų.
+5. Mobili komanda paciento duomenis saugo ne ilgiau kaip iki valstybės lygio ekstremalios situacijos visoje šalyje dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmės atšaukimo. NVSC, GMP, laboratorija ir šeimos gydytojas paciento duomenis saugo ne ilgiau nei tai numatyta jų veiklą reglamentuojančiuose teisės aktuose.
+6. Šiame Apraše vartojamos sąvokos:
+6.1. mobilus punktas – Paslaugai teikti apskrities centre savivaldybės administracijos paskirtoje vietoje (aikštė, automobilių stovėjimo aikštelė) veikianti Aprašo 3.2 papunktyje nurodytos ASPĮ palapinė ir (ar) specialiosios paskirties transporto priemonė su patogiu privažiavimu ir išvažiavimu;
+6.2. pacientas – asmuo, atitinkantis įtariamo COVID–19 ligos (koronaviruso infekcijos) atvejo apibrėžimą, skelbiamą Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams;
+6.3. Karštoji linija – trumpuoju telefono numeriu 1808 teikiama konsultacinė pagalba pacientui, kuriam buvo diagnozuota COVID-19 liga (koronavirusinė infekcija) arba pasireiškė bent vienas ūmiai kvėpavimo takų infekcijai būdingas simptomas – staiga prasidėjęs karščiavimas, kosulys, pasunkėjęs kvėpavimas, dusulys;
+6.4. mobili brigada – mobilaus punkto komanda, trumpai Paslaugą teikianti ne mobiliajame punkte;
+6.5.Kitos Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose sveikatos priežiūros paslaugų teikimą reglamentuojančiuose teisės aktuose.
+
+II SKYRIUS
+PASLAUGŲ TEIKIMĄ ORGANIZUOJANTYS MOBILŪS PUNKTAI IR JŲ APTARNAUJAMOS SAVIVALDYBĖS
+
+
+7. Mobilūs punktai įrengiami Vilniaus miesto, Kauno miesto, Klaipėdos miesto, Panevėžio miesto, Šiaulių miesto, Utenos rajono, Alytaus miesto, Telšių rajono, Tauragės rajono, Marijampolės savivaldybių teritorijose. Esant poreikiui, mobilūs punktai gali būti steigiami ir kitose savivaldybėse. Esant poreikiui savivaldybėse gali būti steigiamos mobilios brigados.
+8. Pagrindiniai reikalavimai mobilaus punkto veiklos teritorijai:
+8.1.  aplink mobilaus punkto vietą neturi būti gyvenamųjų namų, turgaus, parduotuvių, asmens sveikatos priežiūros įstaigų, autobusų stotelių ir kt. masinių žmonių susibūrimo vietų;
+8.2.  parinktos teritorijos dydis turi būti toks, kad patogiai, nesutrikdant automobilių eismo, galėtų privažiuoti ir laukti eilėje ne mažiau kaip 30 automobilių;
+8.3. teritorija turi būti tokia, kad prireikus, patogiai galėtų privažiuoti ir išvažiuoti GMP automobilis (nestovėdamas bendroje eilėje).
+9. Aprašo 7 punkte išvardytose savivaldybėse įrengtų mobilių punktų aptarnaujamos savivaldybės:
+
+Eil. Nr.
+Mobilaus punkto buvimo vieta
+Mobilaus punkto aptarnaujamos kitos savivaldybės
+1.
+Vilniaus miesto savivaldybė 
+Elektrėnų savivaldybė
+Vilniaus miesto savivaldybė
+Šalčininkų rajono savivaldybė
+Širvintų rajono savivaldybė
+Švenčionių rajono savivaldybė
+Trakų rajono savivaldybė
+Ukmergės rajono savivaldybė
+Vilniaus rajono savivaldybė
+2.
+Kauno miesto savivaldybė
+Birštono savivaldybė
+Jonavos rajono savivaldybė
+Kaišiadorių rajono savivaldybė
+Kauno miesto savivaldybė
+Kauno rajono savivaldybė
+Kėdainių rajono savivaldybė
+Prienų rajono savivaldybė
+Raseinių rajono savivaldybė
+3.
+Klaipėdos miesto savivaldybė
+Klaipėdos miesto savivaldybė
+Klaipėdos rajono savivaldybė
+Kretingos rajono savivaldybė
+Neringos savivaldybė
+Palangos miesto savivaldybė
+Šilutės rajono savivaldybė
+Skuodo rajono savivaldybė
+4.
+Šiaulių miesto savivaldybė
+Akmenės rajono savivaldybė
+Joniškio rajono savivaldybė
+Kelmės rajono savivaldybė
+Pakruojo rajono savivaldybė
+Radviliškio rajono savivaldybė
+Šiaulių miesto savivaldybė
+Šiaulių rajono savivaldybė
+5.
+Panevėžio miesto savivaldybė
+Panevėžio miesto savivaldybė
+Panevėžio rajono savivaldybė
+Kupiškio rajono savivaldybė
+Pasvalio rajono savivaldybė
+Rokiškio rajono savivaldybė
+Biržų rajono savivaldybė
+6.
+Marijampolės savivaldybė
+Kalvarijos savivaldybė
+Kazlų rūdos savivaldybė
+Marijampolės savivaldybė
+Šakių rajono savivaldybė
+Vilkaviškio rajono savivaldybė
+7.
+Tauragės rajono  savivaldybė
+Jurbarko rajono savivaldybė
+Pagėgių savivaldybė
+Šilalės rajono savivaldybė
+Tauragės rajono savivaldybė
+8.
+Telšių rajono savivaldybė 
+Mažeikių rajono savivaldybė
+Plungės rajono savivaldybė
+Rietavo savivaldybė
+Telšių rajono savivaldybė
+9.
+Alytaus miesto savivaldybė
+Alytaus miesto savivaldybė
+Alytaus rajono savivaldybė
+Druskininkų savivaldybė
+Lazdijų rajono savivaldybė
+Varėnos rajono savivaldybė
+10.
+Utenos rajono savivaldybė
+Anykščių rajono savivaldybė
+Ignalinos rajono savivaldybė
+Molėtų rajono savivaldybė
+Utenos rajono savivaldybė
+Visagino savivaldybė
+Zarasų rajono savivaldybė
+
+III SKYRIUS
+PASLAUGOS TEIKIMO ORGANIZAVIMAS
+
+10. Paslauga teikiama mobiliame punkte, kuriame turi būti:
+10.1. priemonės ėminiui paciento nosiaryklės ir ryklės COVID-19 ligos (koronavirusinės infekcijos) ištyrimui (vienam pacientui reikalingi 2 sterilūs tamponai (specialios priemonės su transportine virusologine terpe), mėgintuvėlis su transportine terpe);
+10.2. sandarūs plastikiniai maišeliai su absorbuojančia medžiaga antrinė ėminio pakuotė);
+10.3. kartoninė dėžė mėgintuvėliams su ėminiais sudėti (tretinė pakuotė), nenuplaunamas rašiklis;
+10.4. rankų ir paviršių dezinfekcijai skirtos dezinfekcinės medžiagos, daugkartinio naudojimo pirštinės – valymo, dezinfekcijos darbams;
+10.5.  vienkartinių pirštinių dėžė; 
+10.6.  nedidelis lengvai dezinfekuojamas staliukas;
+10.7.  uždaromas konteineris su neperšlampamu maišu užterštoms medicininėms atliekoms;
+10.8.  du šaltkrepšiai (vienas skirtas mėgintuvėliams su švariomis terpėmis, kitas – mėgintuvėliams su ėminiais);
+10.9.  vieta mobilaus punkto komandai atsisėsti;
+10.10. ne mažiau kaip po vieną atsarginį asmens apsaugos priemonių komplektą kiekvienai mobilaus punkto komandai ir ne mažiau kaip 1 atsarginį asmens apsaugos priemonių komplektą pamainai.
+11. Mobilaus punkto darbo laikas nuo 8:00 iki 20:00 val. Esant poreikiui mobilus punktas gali dirbi 24 val.
+12. Dėl mobilių punktų skaičiaus sprendžia savivaldybės administracija. Mobilaus punkto darbo laiku užtikrinamas ne mažiau kaip trijų komandų darbas. Viena komanda be pertraukos dirba ne ilgiau kaip keturias valandas.
+13. Paslaugą teikia mobilaus punkto komanda, kurią sudaro:
+13.1. bendrosios praktikos slaugytojas ar kitas sveikatos priežiūros specialistas, kuris pagal Lietuvos medicinos normoje nurodytą kompetenciją turi teisę paimti ėminius;
+13.2. mobilaus punkto komandos koordinatorius;
+13.3. mobilaus punkto komandos padėjėjas.
+14. Mobilaus punkto komandos nariai turi dėvėti šias asmenines apsaugos priemones:
+14.1. neperšlampamą kombinezoną su gobtuvu ar neperšlampamą chalatą ilgomis rankovėmis su vienkartine kepuraite, antbačius;
+14.2. vienkartines medicinines pirštines;
+14.3. akinius tinkančius dėvėti su respiratoriumi arba veido skydelį;
+14.4. respiratorių FFP2 arba FFP3;
+14.5. ASP apsirengimo ir nusirengimo tvarka, respiratorių FFP2 ir FFP3 sandarumo patikrinimo rekomendacijos pateiktos adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.
+15. Paslauga teikiama šia tvarka:
+15.1. pacientas, pasireiškus ūmiai kvėpavimo takų infekcijai būdingiems ligos simptomams – staiga prasidėjus bent vienam iš šių simptomų: karščiavimui, kosuliui ar apsunkintam kvėpavimui, skambina į Karštąją liniją trumpuoju telefono numeriu 1808. Siekiant užtikrinti Aprašo 15.3 papunkčio įgyvendinimą, pokalbis įrašomas. Pacientas konsultuojamas pagal specialų struktūrizuotą skaitmeninį algoritmą, pritaikytą priimti ir apdoroti iškvietimus, nustatyti reikiamą pagalbos lygį ir rekomendacijas;
+15.2. Karštosios linijos konsultantas, įvertinęs paciento pateiktus duomenis, priima sprendimą, ar skambinantį pacientą tikslinga ištirti dėl COVID – 19 ligos (koronaviruso infekcijos);
+15.3. Įvertinęs paciento pateiktą pirminę informaciją ir nusprendęs, kad pacientą reikia ištirti, Karštosios linijos konsultantas surenka šią informaciją: paciento vardą, pavardę, savivaldybę, iš kurios skambina pacientas, asmens kodą, mobiliojo telefono numerį, ar pacientas gali asmenine transporto priemone atvykti pats ar būti atvežtas kito asmens į mobilų punktą. Jeigu pacientas kreipiasi į Karštąją liniją po kelionės užsienyje, ar turėjęs sąlytį su sergančiuoju, konsultantas supažindina pacientą su Sutikimo būti izoliuotam namuose ar kitoje gyvenamojoje vietoje / paskirtoje asmens sveikatos priežiūros įstaigoje / savivaldybės administracijos numatytose patalpose, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“, turiniu (toliau – Sutikimas) ir gauna paciento sutikimą izoliuotis namuose ar kitoje gyvenamojoje vietoje. Kiekvienam skambinačiam pacientui nurodoma, atvykus į mobilų punktą, nelipti iš automobilio ir neatidaryti lango, kol nebus nurodyta kitaip, instruktuojama kaip bus vykdoma tepinėlio paėmimo procedūra. Taip pat nurodoma vykstant į mobilų punktą pasiimti asmens tapatybę patvirtinantį dokumentą.
+15.4. Karštosios linijos konsultantas užregistruoja pacientą registracijos sistemoje Hybrid LAB, nurodydamas jo vardą, pavardę, savivaldybę, iš kurios atvyks, asmens kodą, mobilaus telefono numerį, požymį, kad gali / negali atvykti savo automobiliu, atvykimo į mobilų punktą laiką ir adresą.
+15.5. Karštoji linija  informuoja pacientą trumpąja žinute į paciento nurodytą mobilaus telefono numerį apie laiką ir adresą, kuriuo pacientas turi atvykti. 
+15.6. pacientas atvyksta į mobilų punktą;
+15.7. prie automobilio prieina mobilaus punkto komandos padėjėjas ir paprašo paciento prie automobilio lango pridėti mobilų telefoną ir parodyti gautą registracijos žinutę bei asmens tapatybę patvirtinantį dokumentą, bendrosios praktikos slaugytojas ar kitas sveikatos priežiūros specialistas užpildo užsakymą SARS-CoV-2 (COVID-19) diagnostiniams tyrimams per Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (ESPB IS), formą E200. Nesant galimybės šį užsakymą užpildyti prieš paimant ėminį, užsakymas pildomas jį paėmus. Šiame punkte nurodytą užsakymą pildęs mobilaus punkto komandos narys privalo užtikrinti, kad visi užsakymai būtų pateikti užbaigti ir pasirašyti kvalifikuotu elektroniniu parašu;
+15.8. prie paciento, sėdinčio automobilyje, prieina kitas mobilaus punkto komandos narys, kuris paima tepinėlius iš nosiaryklės ir ryklės. Ėminys paimamas ir supakuojamas transportavimui pagal Ėminių, dėl COVID-19 ligos (koronaviruso infekcijos) ištyrimo, paėmimo ir transportavimo tvarką pateiktą adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.
+15.9. pacientui nurodoma:
+15.9.1.  po ėminio paėmimo grįžti į namus ir laukti tyrimo atsakymo. Jeigu pacientas grįžo iš užsienio ar turėjo kontaktą su patvirtintu COVID-19, jam primenama, kad jis turi laikytis izoliacijos ir izoliuotis namuose 14 dienų po paskutinės atvykimo į Lietuvą dienos ar po paskutinės sąlyčio su sergančiuoju COVID-19 liga (koronaviruso infekcija) dienos. Jei asmeniui esančiam izoliacijoje pasireiškia ūmios viršutinės kvėpavimo takų infekcijos simptomai ir atlikto tyrimo rezultatas neigiamas, jam tęsiama izoliacija (iš viso 14 dienų po paskutinės atvykimo į Lietuvą dienos ar po paskutinės sąlyčio su sergančiuoju COVID-19 liga (koronaviruso infekcija) dienos).
+15.9.2. Jei asmuo nebuvo išvykęs iš Lietuvos ar neturėjo sąlyčio su sergančiuoju COVID-19 liga (koronaviruso infekcija), jis turi izoliuotis namuose kol bus gautas tyrimo atsakymas – jei atsakymas neigiamas, pacientas turi būti nukreipiamas šeimos gydytojo konsultacijai. Šeimos gydytojo sprendimu paciento gydymas tęsiamas, kol pacientas pasveiksta; jei atsakymas teigiamas - asmens sveikatos priežiūros paslaugos teikiamos vadovaujantis Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymu Nr. V-383 „Dėl Suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašo patvirtinimo“;
+15.9.3. nustačius poreikį pacientą hospitalizuoti, kviečiama GMP ir pacientas transportuojamas į asmens sveikatos priežiūros įstaigą vadovaujantis Sveikatos priežiūros paslaugų dėl koronaviruso (COVID-19) organizavimo tvarkos aprašu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 4 d. įsakymu Nr. V-281 „Dėl Sveikatos priežiūros paslaugų dėl koronaviruso (COVID-19) organizavimo tvarkos aprašo patvirtinimo“;
+15.10. mobilaus punkto komandos nariai, kontaktavę su pacientu, nusiima pirštines, jas išmeta į neperšlampamą maišą užterštoms medicininėms atliekoms, esantį uždarame konteineryje, ir dezinfekuoja rankas. Prieš imant ėminį kitam pacientui, užsimaunama nauja pirštinių pora. Kitos asmens apsaugos priemonės nekeičiamos, jei nebuvo užterštos paciento sekretais;
+15.11. kiekvienas mobilaus punkto komandos narys, ėmęs ėminius iš pacientų, baigęs pamainą, mobiliame punkte saugiai nusirengia / nusiima asmenines apsaugos priemones, sudeda jas į infekuotų medicininių atliekų konteinerį, nusiplauna ir dezinfekuoja rankas;
+15.12. maišai su infekuotomis medicininėmis atliekomis, įskaitant mobilios komandos slaugytojo asmeninės apsaugos priemones, tvarkomos (utilizuojamos) vadovaujantis Asmens sveikatos priežiūros įstaigos (ASPĮ) vadovo nustatyta infekcijų kontrolės tvarka pagal Lietuvos higienos normoje HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2013  m. liepos 18 d. įsakymu Nr. V-706 „Dėl Lietuvos higienos normos HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“ patvirtinimo“, nustatytus medicininių atliekų tvarkymo reikalavimus. 
+15.13. savivaldybių administracijos organizuoja ėminių pristatymą į laboratoriją;
+15.14. Informavimo apie ėminių rezultatus tvarka:
+15.14.1. Laboratorija suveda tyrimų atsakymus į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (ESPB IS), formą E200-a;
+15.14.2. Informacija apie tyrimų rezultatus per ESPBI IS perduodama į Karštosios linijos informacinę sistemą;
+15.14.3. Informacija apie tyrimų rezultatus per ESPBI IS perduodama į NVSC informacinę sistemą;
+15.14.4. Informacija apie tyrimų rezultatus per ESPBI IS pranešimo forma perduodama paciento šeimos gydytojui;
+15.14.5. Karštoji linija, gavusi neigiamus tyrimų rezultatus (nenustatyta SARS-CoV-2 viruso RNR), informuoja pacientus apie neigiamą tyrimo rezultatą trumpąją žinute į paciento Aprašo 15.3 papunktyje nustatyta tvarka pateiktą mobilaus telefono numerį;
+15.14.6. Karštoji linija, gavusi teigiamus tyrimų rezultatus (nustatyta SARS-CoV-2 viruso RNR):
+15.14.6.1. informuoja pacientus apie tyrimo rezultatus telefono pokalbiu ir sprendžia dėl tolimesnių veiksmų, vadovaudamasi Lietuvos Respublikos sveikatos apsaugos ministro – valstybės lygios ekstremaliosios situacijos valstybės operacijų vadovo 2020 m. kovo 24 d. sprendimu Nr. V-513 „Dėl gydytojų konsultacinės linijos, skirtos covid-19 liga (koronaviruso infekcija) sergantiems pacientams ir sveikatos priežiūros specialistams, organizavimo“;
+15.14.6.2. pateikia pacientų kontaktinius duomenis į NVSC informacinę sistemą epidemiologiniam tyrimui atlikti.
+15.15. paslaugų teikimą organizuojančios savivaldybės administracija privalo užtikrinti viešąją tvarką mobilaus punkto veiklos teritorijoje, prireikus, pasitelkdama policiją;
+15.16. pacientams, atvykusiems į mobilų punktą kitaip, nei nurodyta Apraše (be Karštosios linijos nurodymo), Paslauga neteikiama, jiems nurodoma kreiptis į Karštąją liniją.
+
+IV SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+16. Mobilūs punktai privalo užtikrinti Lietuvos higienos normoje HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatytus infekcijų kontrolės reikalavimus.
+17. Apraše reglamentuojamas Tepinėlių iš paciento nosiaryklės ir ryklės paėmimo mobiliuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo algoritmas pateikiamas Aprašo priede.
+
+________________
+

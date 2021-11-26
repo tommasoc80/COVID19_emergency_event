@@ -1,0 +1,109 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 16  D. ĮSAKYMO NR. V-390 „DĖL TEPINĖLIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2020 m.  lapkričio 23 d. Nr. V-2694
+Vilnius
+
+
+Pakeičiu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymą  Nr.  V-390 „Dėl tepinėlių iš paciento nosiaryklės ir ryklės paėmimo mobiliuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašo patvirtinimo“ ir jį išdėstau nauja redakcija:
+
+„LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL ĖMINIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO
+
+1.	T v i r t i n u Ėminių iš paciento nosiaryklės ir ryklės paėmimo mobiliuosiuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašą (pridedama). 
+2.	P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.“
+
+
+
+Laikinai einantis sveikatos apsaugos ministro pareigas	Aurelijus Veryga
+
+
+PATVIRTINTA
+Lietuvos Respublikos sveikatos apsaugos ministro 
+2020 m. kovo 16 d. įsakymu Nr. V-390
+(Lietuvos Respublikos sveikatos apsaugos ministro 
+2020 m. lapkričio 23 d. įsakymo Nr. V-2694
+redakcija)
+
+
+ĖMINIŲ IŠ PACIENTO NOSIARYKLĖS IR RYKLĖS PAĖMIMO MOBILIUOSIUOSE PUNKTUOSE COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIAMS TYRIMAMS ATLIKTI ORGANIZAVIMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Ėminių iš paciento nosiaryklės ir ryklės paėmimo mobiliuosiuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašas (toliau – Aprašas) nustato ėminių iš paciento nosiaryklės ir ryklės COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams (toliau – tyrimas) atlikti paėmimo mobiliuosiuose punktuose ir ištyrimo paslaugos organizavimo tvarką.
+2. Ėminių iš paciento nosiaryklės ir ryklės tyrimams atlikti paėmimo mobiliuosiuose punktuose ir ištyrimo paslaugos teikiamos asmenims (toliau – pacientas):
+2.1.  kuriems pasireiškia vienas ar keli ūminės viršutinių kvėpavimo takų virusinės infekcijos simptomų (kosulys, karščiavimas, gerklės skausmas, nosies užburkimas, silpnumas, galvos skausmas, raumenų skausmas, pasunkėjęs kvėpavimas) ir (ar) bent vienas iš specifinių COVID-19 ligos (koronaviruso infekcijos) simptomų (staigus uoslės ir (ar) skonio praradimas ar susilpnėjimas, retais atvejais pykinimas, vėmimas, viduriavimas);
+2.2. kuriems privalomai išsitirti nurodo Nacionalinio visuomenės sveikatos centro prie Sveikatos apsaugos ministerijos (toliau – NVSC) darbuotojas, atliekantis epidemiologinį tyrimą;
+2.3. kurie serga COVID-19 liga (koronaviruso infekcija) ir kuriuos šeimos gydytojas siunčia atlikti tyrimo dėl izoliacijos nutraukimo anksčiau nei nustatyta Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos apraše, patvirtintame Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymu Nr. V-383 „Dėl Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašo patvirtinimo“;
+2.4. turėjusiems sąlytį su sergančiuoju COVID-19 liga, kuriems tyrimas atliekamas dėl izoliacijos nutraukimo pagal Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisykles, patvirtintas Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“.
+3. Paciento asmens duomenys, surinkti Aprašo nustatyta tvarka, tvarkomi COVID-19 ligos (koronaviruso infekcijos) diagnostikos tikslu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų.
+4. Apraše vartojamos sąvokos ir jų apibrėžtys:
+4.1. Mobilusis punktas – vieta asmens sveikatos priežiūros įstaigos (toliau – ASPĮ) patalpose arba ASPĮ įrengtame laikinajame statinyje (palapinėje, vagonėlyje ir kt.), kurioje imami ėminiai iš paciento nosiaryklės ir ryklės  COVID-19 ligos (koronaviruso infekcijos) tyrimams atlikti.
+4.2. Karštoji linija 1808 – trumpasis telefono numeris 1808, kuriuo registruojami asmenys tyrimams į mobilius punktus ir (ar) jiems teikiama  informacija saviizoliacijos ir kitais COVID-19 ligos (koronaviruso infekcijos) prevencijos klausimais.
+4.3. Kitos Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose sveikatos priežiūros paslaugų teikimą reglamentuojančiuose teisės aktuose.
+
+II SKYRIUS
+BENDROSIOS ĖMINIŲ PAĖMIMO IR IŠTYRIMO PASLAUGOS ORGANIZAVIMO NUOSTATOS
+
+5. Mobilusis punktas gali būti steigiamas ASPĮ, turinčioje pirminės ambulatorinės asmens sveikatos priežiūros paslaugų teikimo licenciją.
+6. Ėminių ištyrimas atliekamas ASPĮ, turinčioje asmens sveikatos priežiūros licenciją teikti laboratorinės diagnostikos paslaugas ir atlikti SARS-CoV-2 RNR nustatymą tikralaikės PGR metodu, arba atitinkančioje COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo valstybės lygio ekstremaliosios situacijos laikotarpiu tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. birželio 16 d. įsakymu Nr. V-1483 „Dėl COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo valstybės lygio ekstremaliosios situacijos laikotarpiu“, reikalavimus.
+Ėminį paėmusi ASPĮ jo ištyrimą gali atlikti pati, jei atitinka šio punkto pirmojoje pastraipoje nustatytus reikalavimus, arba sudaryti sutartį dėl ėminių ištyrimo su kita ASPĮ, turinčia asmens sveikatos priežiūros licenciją teikti šio punkto pirmojoje pastraipoje nurodytas laboratorinės diagnostikos paslaugas.
+7. Mobiliojo punkto darbo laikas turi būti užtikrinamas atsižvelgiant į besikreipiančių pacientų srautus. 
+8. Pacientų registracijos į mobilųjį punktą tvarka:
+8.1. Aprašo 2.1 papunktyje nurodytas pacientas registruojasi atlikti tyrimą per Karštąją liniją 1808;
+8.2. Aprašo 2.2 papunktyje nurodytas pacientas:
+8.2.1.  gavęs trumpąją SMS žinutę iš NVSC apie privalomą izoliaciją, jei sutinka atlikti tyrimą, NVSC specialistų registruojamas atlikti tyrimo į mobilųjį punktą; 
+8.2.2. sąlytį turėjęs asmuo, su kuriuo NVSC specialistai nesusisiekė arba kuris negavo trumposios SMS žinutės, pildo NVSC interneto tinklalapyje pateiktą anketą (https://nvsc.lrv.lt/salyti-turejusiu). Jeigu jis sutinka atlikti tyrimą, NVSC specialistai jį registruoja atlikti tyrimo į mobilųjį punktą;
+8.3. Aprašo 2.3 ar 2.4 papunktyje nurodyti pacientai:
+8.3.1. kreipiasi į šeimos gydytoją, kuris įvertinęs paciento sveikatos būklę ir nustatęs, kad pacientas atitinka Aprašo 2.3 ar 2.4 papunkčiuose nurodytus kriterijus, Elektroninėje sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinėje sistemoje (toliau – ESPB IS) užpildo siuntimą COVID-19 ligos (koronaviruso infekcijos) diagnostikos paslaugai gauti – laboratorinio tyrimo užsakymo formą E200 (toliau – forma E200);
+8.3.2. atlikti tyrimo registruojasi per Karštąją liniją 1808.
+
+III SKYRIUS
+ĖMINIŲ PAĖMIMO ORGANIZAVIMO TVARKA
+
+9. Minimalūs mobiliojo punkto reikalavimai: 
+9.1. vidaus ar lauko patalpa turi turėti atskirus įėjimą ir išėjimą;
+9.2. ant patalpos durų turi būti nurodyta patalpos paskirtis ir pacientų priėmimo tvarka;
+9.3. ėminį paimti turi ne mažiau kaip 2 specialistų komanda. Viena komanda be pertraukos gali dirbti ne ilgiau kaip 4 valandas.
+10. Ėminių paėmimo vietoje turi būti:
+10.1. priemonės ėminiui iš paciento nosiaryklės ir ryklės paimti (vienam pacientui reikalingi 3 sterilūs tamponai (specialios priemonės su transportine virusologine terpe), mėgintuvėlis su transportine terpe);
+10.2. sandarūs plastikiniai maišeliai su absorbuojančia medžiaga (antrinė ėminio pakuotė);
+10.3. kartoninė dėžė mėgintuvėliams su ėminiais sudėti (tretinė pakuotė), nenuplaunamas rašiklis;
+10.4. rankų ir paviršių dezinfekcijai skirtos dezinfekcinės medžiagos, daugkartinio naudojimo pirštinės valymo ir dezinfekcijos darbams;
+10.5. dėžė vienkartinių pirštinių (ne mažiau kaip100 vnt. porų); 
+10.6. nedidelis lengvai dezinfekuojamas staliukas;
+10.7. uždaromas konteineris su neperšlampamu maišu užterštoms medicininėms atliekoms;
+10.8. du šaltkrepšiai arba šaldytuvai (vienas skirtas mėgintuvėliams su švariomis terpėmis, kitas – mėgintuvėliams su ėminiais);
+10.9. ne mažiau kaip po 1 atsarginį asmens apsaugos priemonių (toliau – AAP) komplektą kiekvienai darbuotojų komandai ir ne mažiau kaip po 1 atsarginį AAP komplektą pamainai; 
+10.10. vienkartinių servetėlių dėžė nosies sekretui išpūsti;
+10.11. liežuvio prispaudiklių;
+10.12. vieta specialistų komandai atsisėsti.
+11. Ėminių paėmimas atliekamas šia tvarka:
+11.1. pacientas atvyksta į mobilųjį punktą jam paskirtu laiku (ne anksčiau nei 10 min. iki paskirto laiko). Į patalpą pacientai įleidžiami po vieną. Prie paciento prieina specialistų komandos narys ir paprašo paciento parodyti gautą Karštosios linijos 1808 arba NVSC registracijos žinutę ir pateikti asmens tapatybę patvirtinantį dokumentą;
+11.2. ESPB IS užpildoma forma E200. Nesant galimybės formos E200 užpildyti prieš paimant ėminį, ji pildoma paėmus ėminį. Formą E200 pildęs komandos narys privalo užtikrinti, kad visos formos E200 būtų pateiktos užbaigtos ir pasirašytos kvalifikuotu elektroniniu parašu;
+11.3. prie paciento prieina kitas specialistų komandos narys ir paima ėminius iš paciento nosiaryklės ir ryklės. Ėminys paimamas ir supakuojamas transportuoti;
+11.4. pacientui nurodoma po ėminio paėmimo grįžti į namus ir laukti tyrimo atsakymo. Jam primenama, kad jis turi izoliuotis namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose, kol bus gautas tyrimo atsakymas; 
+11.5. specialistų komandos nariai, kontaktavę su pacientu, nusimauna pirštines, jas išmeta į infekuotoms medicininėms atliekoms skirtą neperšlampamą maišą, esantį uždarame infekuotų medicininių atliekų konteineryje, ir dezinfekuoja rankas. Prieš imant ėminį kitam pacientui, užsimaunama nauja pirštinių pora prieš tai dezinfekavus rankas. Kitos AAP nekeičiamos, jei nebuvo užterštos paciento sekretais; 
+11.6. kiekvienas specialistų komandos narys, baigęs pamainą, saugiai nusirengia / nusiima AAP, sudeda jas į infekuotų medicininių atliekų konteinerį, nusiplauna ir dezinfekuoja rankas;
+11.7. maišai su infekuotomis medicininėmis atliekomis tvarkomi vadovaujantis ASPĮ vadovo nustatyta infekcijų kontrolės tvarka pagal Lietuvos higienos normoje HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2013    m. liepos 18 d. įsakymu Nr. V-706 „Dėl Lietuvos higienos normos HN 66:2013 „Medicininių atliekų tvarkymo saugos reikalavimai“ patvirtinimo“, nustatytus medicininių atliekų tvarkymo reikalavimus.
+12. Ėminiai į laboratoriją pristatomi kartu su informacija apie ėminį (skaitmeniniu formatu ir (arba) popierinėje formoje), kurią sudaro: ėminio Nr., paciento vardas ir pavardė, asmens kodas arba Elektroninės sveikatos istorijos numeris, ėminio paėmimo data, ėminį paėmęs mobilusis punktas, ėminį paėmusio mobiliojo punkto kontaktinio asmens, į kurį galima būtų kreiptis dėl papildomos informacijos, duomenys (vardas, pavardė, telefono Nr., el. paštas). Šiame punkte nurodyti asmens duomenys tvarkomi paimtų ėminių tyrimų atlikimo ir tyrimų rezultatų teikimo į ESPB IS tikslais. 
+
+
+IV SKYRIUS
+INFORMAVIMO APIE ĖMINIŲ IŠTYRIMO REZULTATUS TVARKA
+
+13.	Laboratorija ėminių ištyrimo rezultatus suveda į ESPB IS Laboratorinio tyrimo rezultatų (duomenų) protokolo formą E200-a. 
+14. Informacija apie ėminių tyrimų rezultatus per ESPBI IS perduodama į Karštosios linijos 1808 informacinę sistemą, NVSC informacinę sistemą ir paciento šeimos gydytojui (pranešimo forma).
+15. Karštoji linija 1808, gavusi tyrimų rezultatus, trumpąja žinute į paciento registravimosi metu pateiktą mobiliojo telefono numerį informuoja pacientus apie:
+15.1. neigiamus tyrimo rezultatus (nenustatyta SARS-CoV-2 viruso RNR) – kad testo rezultatas yra neigiamas;
+15.2. teigiamus tyrimo rezultatus (nustatyta SARS-CoV-2 viruso RNR) – kad testo rezultatas yra ESPBI IS. 
+16. Karštoji linija 1808 telefonu apie teigiamus tyrimo rezultatus informuoja 60 metų ir vyresnius pacientus bei užsienio šalių piliečius, kurie nėra nuolatiniai Lietuvos gyventojai, ir juos konsultuoja dėl tolesnių veiksmų.
+________________
+

@@ -1,0 +1,860 @@
+Beleidsregels van de Raad van Bestuur van Zorginstituut Nederland van 17 december 2020 (kenmerk 2020046606), voor de afhandeling van verzoeken van zorgverzekeraars om een extra bijdrage in verband met de coronapandemie 2020 en 2021
+De Raad van Bestuur van Zorginstituut Nederland,
+
+gelet op artikel 33, vijfde lid, in samenhang met artikel 32, vijfde lid, en artikel 34, vierde lid, van de Zorgverzekeringswet;
+
+Besluit:
+
+Artikel 1
+Deze beleidsregels verstaan, in aanvulling op de Zorgverzekeringswet, het Besluit zorgverzekering en de Regeling zorgverzekering, onder:
+
+−catastrofebijdrage: bijdrage als bedoeld in artikel 33, tweede lid, van de Zvw;
+
+−coronapandemie: pandemie ten gevolge van het SARS-CoV-2 virus die een catastrofe is als bedoeld in artikel 33, eerste lid, van de Zvw;
+
+−coronakosten: kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van de coronapandemie;
+
+−prestatie continuïteitsbijdrage: kosten die voldoen aan de voorwaarden, voorschriften en beperkingen voor de continuïteitsbijdragen als gesteld in de Prestatiebeschrijvingbeschikking continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus van de NZa (TB/REG-20656-01);
+
+−COVID-19: de ziekte die door het virus SARS-CoV-2 veroorzaakt wordt;
+
+−COVID-patiënten: verzekerden die COVID-19 hebben of waarvoor de medische verdenking bestaat dat zij COVID-19 hebben;
+
+−COVID-zorg: zorg die aan COVID-patiënten geboden wordt voor de behandeling van COVID-19 of voor het herstel van COVID-19;
+
+−Handboek informatie Zorgverzekeringswet: het Handboek informatie Zorgverzekeringswet voor de jaren 2020, 2021, 2022, 2023, 2024 en 2025;
+
+−NZa: de Nederlandse Zorgautoriteit, genoemd in artikel 3 van de Wet marktordening gezondheidszorg;
+
+−prestatie meerkosten: kosten die voldoen aan de voorwaarden, voorschriften en beperkingen voor de meerkosten als gesteld in de Prestatiebeschrijvingbeschikking continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus van de NZa (TB/REG-20656-01);
+
+−Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg: de Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg voor de jaren 2020, 2021, 2022, 2023, 2024 en 2025.
+
+−verwachte catastrofeschadelast: de catastrofeschadelast bedoeld in artikel 6.6.2 van de Regeling zorgverzekering;
+
+−verwachte grondslag: de grondslag bedoeld in artikel 6.6.2 van de Regeling zorgverzekering;
+
+−verzoek: verzoek van een zorgverzekeraar voor een extra bijdrage in verband met de coronapandemie;
+
+−werkelijke catastrofeschadelast: de catastrofeschadelast bedoeld in artikel 6.6.5 van de Regeling zorgverzekering;
+
+−werkelijke grondslag: de grondslag bedoeld in artikel 6.6.5 van de Regeling Zorgverzekering;
+
+−Wmg: Wet marktordening gezondheidszorg;
+
+−ZN: Zorgverzekeraars Nederland;
+
+−Zorginstituut: Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet;
+
+−Zvw: Zorgverzekeringswet.
+
+Artikel 2
+1.In overeenstemming met artikel 6.6.5, tweede lid, van de Regeling zorgverzekering bestaan de coronakosten uit:
+
+a.reguliere directe kosten voor COVID-zorg voor COVID-patiënten, welke kosten bepaald zijn met de declaratiecodes en de rekenregels die zijn opgenomen in bijlage 1 bij deze beleidsregels;
+
+b.de toeslagen op reguliere tarieven in verband met verhoogde kosten als gevolg van de coronapandemie, welke kosten berekend zijn met de declaratiecodes voor de toeslagen die zijn opgenomen in bijlage 2 bij deze beleidsregels;
+
+c.de indirecte meerkosten op grond van de prestatie meerkosten indien aan de volgende twee vereisten is voldaan:
+
+−de zorgverzekeraar en de zorgaanbieder hebben voor die kosten een schriftelijke afspraak gemaakt, de kosten hebben alleen betrekking op de basisverzekering en de zorgverzekeraar heeft de kosten werkelijk betaald overeenkomstig die schriftelijke afspraak; en
+
+−de hoogte van de indirecte meerkosten is plausibel.
+
+2a.Aan de plausibiliteitstoets is voldaan als ZN voor een sector afspraken heeft gemaakt over de vergoeding van de indirecte meerkosten (zogenaamde landelijke afspraken) en de NZa deze afspraken plausibel heeft gevonden, waarbij de NZa rekening kan houden met alle bijzondere omstandigheden als gevolg van de coronapandemie.
+
+2b.Aan de plausibiliteitstoets is voldaan als ZN voor een sector afspraken heeft gemaakt over (aanvullende) specifieke vergoedingen van de indirecte meerkosten (zogenaamde landelijke afspraken) die achteraf vastgesteld worden, waarbij:
+
+−de NZa het door ZN uitgewerkte uniforme proces voor toekenning van deze vergoedingen adequaat vindt, én
+
+−de zorgverzekeraar kan aantonen, dat het vooraf door de NZa adequaat bevonden proces, bij de toekenning van de vergoedingen ook daadwerkelijk is gevolgd.
+
+De NZa kan bij de beoordeling of het proces adequaat is, rekening houden met alle bijzondere omstandigheden als gevolg van de coronapandemie.
+
+2c.Indien een zorgverzekeraar de landelijke afspraken niet heeft gevolgd dan is de vergoeding alleen plausibel als de zorgverzekeraar aan de NZa kan aantonen dat deze vergoeding gebaseerd is op de werkelijke kosten.
+
+3.De in het eerste lid, onder a en b genoemde kosten worden op de voor de risicoverevening gebruikelijke manier toegerekend aan het jaar 2020 of 2021.
+
+4.De in het eerste lid, onder c genoemde kosten worden op basis van de schriftelijke afspraak tussen de zorgverzekeraar en de zorgaanbieder toegerekend aan het jaar 2020 of 2021.
+
+5.Het Zorginstituut zal tweemaal bezien of bijlage 1 en 2 met extra codes en rekenregels uitgebreid moet worden. Van een wijziging van de tabel wordt melding gemaakt in de Staatscourant. De gewijzigde tabel wordt gepubliceerd op de website van het Zorginstituut.
+
+Artikel 3
+In overeenstemming met artikel 6.6.5, derde lid, van de Regeling zorgverzekering komen de volgende kosten niet in aanmerking voor een catastrofebijdrage:
+
+a.Kosten voor de continuïteitsbijdrage;
+
+b.Kosten waarvoor de zorgverzekeraar compensatie krijgt ten laste van de rijksbegroting bedoeld in artikel 2.1 van de Comptabiliteitswet 2016, zoals de kosten op grond van artikel 2.29a, vijfde lid, van de Regeling zorgverzekering voor het doorbetalen van de niet-geleverde zorg ten laste van het Zvw-pgb;
+
+c.Kosten die voor rekening van verzekerden zijn gekomen op grond van het verplicht eigen risico.
+
+Artikel 4
+Het Zorginstituut kent een zorgverzekeraar op zijn verzoek een voorlopige catastrofebijdrage toe in verband met de verwachte catastrofeschadelast.
+
+Artikel 5
+De wijze van berekenen van de hoogte van de voorlopige catastrofebijdrage is bepaald in artikel 6.6.2 van de Regeling zorgverzekering.
+
+Artikel 6
+1.Een verzoek wordt bij het Zorginstituut ingediend met gebruikmaking van het daartoe vastgestelde formulier, zoals bekend gemaakt op de website van het Zorginstituut www.zorginstituutnederland.nl.
+
+2.Het verzoek wordt uiterlijk op 31 december 2021 ingediend.
+
+3.Indien het verzoek wordt ingediend na 31 december 2021 kent het Zorginstituut een lagere catastrofebijdrage toe, tenzij redelijkerwijs niet kan worden geoordeeld dat de zorgverzekeraar in verzuim is geweest.
+
+4.De korting op de catastrofebijdrage bedraagt:
+
+−10% indien het verzoek wordt ingediend op of na 1 januari 2022 maar voor 1 april 2022;
+
+−25% indien het verzoek wordt ingediend op of na 1 april 2022 maar voor 1 juli 2022;
+
+−50% indien het verzoek wordt ingediend op of na 1 juli 2022 maar voor 1 oktober 2022;
+
+−75% indien het verzoek wordt ingediend op of na 1 oktober 2022 maar voor 1 januari 2023.
+
+5.In overeenstemming met artikel 6.6.2, vijfde lid, van de Regeling zorgverzekering, kent het Zorginstituut een voorlopige catastrofebijdrage van nihil toe indien het verzoek wordt ingediend op of na 1 januari 2023.
+
+Artikel 7
+1.Het verzoek bevat een schatting van de verwachte catastrofeschadelast van de zorgverzekeraar in verband met de coronapandemie.
+
+2.Bij het verzoek wordt een onderscheid gemaakt tussen:
+
+a.reguliere directe kosten voor COVID-zorg voor COVID-patiënten;
+
+b.toeslagen op reguliere tarieven in verband met verhoogde kosten als gevolg van de coronapandemie;
+
+c.indirecte meerkosten op grond van de prestatie meerkosten.
+
+3.Bij het verzoek wordt tevens een onderscheid gemaakt tussen kosten voor het jaar 2020 en 2021.
+
+4.Het verzoek bevat een betaalschema dat is afgestemd op de verwachte betalingen van de zorgverzekeraar aan de zorgaanbieders.
+
+Artikel 8
+1.Het Zorginstituut beslist binnen acht weken nadat het volledig ingevulde formulier is ontvangen op het verzoek om een voorlopige catastrofebijdrage.
+
+2.Indien het Zorginstituut niet binnen acht weken op het verzoek kan beslissen, deelt het Zorginstituut dit binnen die termijn mee aan de zorgverzekeraar, onder vermelding van de termijn waarbinnen wel op het verzoek wordt beslist.
+
+3.In spoedeisende gevallen kent het Zorginstituut op verzoek van een zorgverzekeraar een voorschot toe.
+
+Artikel 9
+Bij het besluit tot toekenning van een voorlopige catastrofebijdrage neemt het Zorginstituut een betaalschema op, rekening houdend met het betaalschema van de zorgverzekeraar.
+
+Artikel 10
+1.In aanvulling op artikel 33, derde lid, van de Zvw en de artikelen 6.6.4 en 7.2, onder d, van de Regeling zorgverzekering, regelt het Zorginstituut in de Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg welke gegevens zorgverzekeraars op welk moment dienen aan te leveren over de gerealiseerde coronakosten ten behoeve van de definitieve vaststelling van de catastrofebijdrage.
+
+2.Het Zorginstituut specificeert deze gegevens nader in het Handboek informatie Zorgverzekeringswet.
+
+Artikel 11
+1.Het Zorginstituut stelt de catastrofebijdrage definitief vast aan de hand van de werkelijke catastrofeschadelast.
+
+2.Het Zorginstituut houdt bij de vaststelling van de werkelijke catastrofeschadelast rekening met het deel van de reguliere directe kosten dat voor rekening van de verzekerden komt op grond van het verplicht eigen risico van verzekerden. Indien dit deel niet rechtstreeks uit de administratie van de zorgverzekeraar is te bepalen accepteert het Zorginstituut daarbij een bepaling van het verplicht eigen risico voor COVID-zorg zoals gespecificeerd in het derde lid.
+
+3.Een zorgverzekeraar kan het verplicht eigen risico voor COVID-zorg per verzekerde bepalen door eerst op het jaarlijks verplichte eigen risico van maximaal € 385 het verplichte eigen risico op basis van de kosten van de reguliere zorg van die verzekerde in mindering te brengen. Bij de kosten van de reguliere zorg blijven de kosten van de prestaties waarvoor geen verplicht eigen risico geldt buiten beschouwing. Als het maximum dan nog niet is bereikt, is het restant het verplicht eigen risico op de kosten voor COVID-zorg.
+
+4.Het Zorginstituut stelt de werkelijke catastrofeschadelast vast aan de hand van de gegevens over de gerealiseerde coronakosten zoals zorgverzekeraars die hebben aangeleverd op grond van de Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg en het Handboek informatie Zorgverzekeringswet.
+
+5.Bij de vaststelling van de werkelijke catastrofeschadelast wordt gecontroleerd of er een assurance-rapport is van de accountant van de zorgverzekeraar over deze kosten conform het accountantsprotocol van de NZa daarover.
+
+6.Het Zorginstituut verwerkt bij de definitieve vaststelling de correcties van de NZa op de opgaven van zorgverzekeraars over de gerealiseerde coronakosten.
+
+7.Indien de NZa een deel van de in artikel 2, eerste lid, onder c bedoelde kosten niet geaccordeerd heeft, laat het Zorginstituut die kosten bij de definitieve vaststelling buiten beschouwing.
+
+Artikel 12
+1.Het Zorginstituut stelt uiterlijk op 1 april 2025 de catastrofebijdrage definitief vast aan de hand van de werkelijke catastrofeschadelast.
+
+2.Het Zorginstituut specificeert daarbij welk deel van de catastrofebijdrage is bestemd voor 2020 en 2021 aan de hand van de werkelijke catastrofeschadelast voor die jaren.
+
+3.De wijze van berekenen van de hoogte van de definitief vast te stellen catastrofebijdrage is bepaald in artikel 6.6.5, vierde lid van de Regeling zorgverzekering.
+
+4.De op grond van artikel 4 toegekende voorlopige catastrofebijdrage wordt verrekend met de definitieve catastrofebijdrage.
+
+Artikel 13
+1.Indien het verzoek, bedoeld in artikel 6 van deze beleidsregels, is ingediend op of na 1 januari 2022 stelt het Zorginstituut de definitieve catastrofebijdrage lager vast, tenzij redelijkerwijs niet kan worden geoordeeld dat de zorgverzekeraar in verzuim is geweest.
+
+2.Artikel 6, vierde lid, is van overeenkomstige toepassing.
+
+3.In overeenstemming met artikel 6.6.5, vijfde lid, van de Regeling zorgverzekering stelt het Zorginstituut de definitieve catastrofebijdrage vast op nihil indien het verzoek is ingediend op of na 1 januari 2023.
+
+Artikel 14
+1.De zorgverzekeraar en het Zorginstituut zijn over en weer rente verschuldigd over het verschil tussen de toegekende voorlopige catastrofebijdrage en de definitieve catastrofebijdrage aan de hand van het betaalschema dat in de toekenningsbeschikking is opgenomen.
+
+2.De periode waarover rente berekend wordt, vangt aan op 1 januari 2022 en eindigt op de datum dat het Zorginstituut de catastrofebijdrage definitief vaststelt.
+
+3.Voor het rentepercentage gaat het Zorginstituut uit van het gemiddelde van de maandrentes van het Euro Interbank Offered Rate (Euribortarief) voor driemaands termijngelden zonder onderpand. Voor de laatste kalendermaand vóór de vaststelling gaat het Zorginstituut uit van de rente over de voorafgaande kalendermaand.
+
+4.Indien de situatie zich voordoet dat het in deze paragraaf bedoelde Euribortarief niet meer kan worden toegepast, zal een zoveel als mogelijk overeenkomstig tarief worden gehanteerd.
+
+5.De rente betreft een samengestelde rente en wordt op maandbasis berekend.
+
+Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
+
+6.De rente wordt bij de definitieve vaststelling van de catastrofebijdrage berekend en verrekend met de definitieve catastrofebijdrage.
+
+Artikel 15
+Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst, en werken terug tot en met 1 januari 2020. De beleidsregels vervallen met ingang van 1 januari 2026.
+
+Artikel 16
+Deze beleidsregels worden aangehaald als: Beleidsregels catastrofebijdrage coronapandemie 2020 en 2021.
+
+Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
+
+Voorzitter Raad van Bestuur
+S. Wijma
+Goedgekeurd door de Minister van Medische Zorg bij brief van 24 december 2020, kenmerk 1805195-216530-Z.
+
+BIJLAGENBijlage 1: overzicht van reguliere declaratiecodes en rekenregels
+kostenrubriek
+
+code
+
+declaratiecode
+
+type declaratiecode
+
+voorwaarden
+
+periode
+
+rekenregel
+
+01 HUISARTSENZORG en MDZ
+
+ 	 	 	 	 	 
+Bijzondere betalingen
+
+503
+
+ 	 	 	 	 
+Avond-, nacht- en weekenddiensten
+
+504
+
+12300, 12301, 12302
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Inschrijftarieven
+
+505
+
+ 	 	 	 	 
+Consulttarieven
+
+506
+
+12001, 12002, 12003, 12010, 12011, 13034
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+12111, 12112, 12113, 12117, 12118
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012 de verrichtingcode mag niet worden ingebracht als deze in de drie maanden voorafgaand aan de COVID-periode bij dezelfde patiënt is gedeclareerd
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Overige tarieven
+
+507
+
+12401
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Multidisciplinaire zorg
+
+510
+
+ 	 	 	 	 
+Resultaatbeloning en zorgvernieuwing huisartsen
+
+515
+
+31280, 31281, 31282
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012 de verrichtingcode mag niet worden ingebracht als deze in de drie maanden voorafgaand aan de COVID-periode bij dezelfde patiënt is gedeclareerd
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Resultaatbeloning en zorgvernieuwing MDZ
+
+516
+
+ 	 	 	 	 
+ 	 	 	 	 	 	 
+06 MEDISCH SPECIALISTISCHE ZORG
+
+ 	 	 	 	 	 
+Kosten specialisten mondziekten en kaakchirurgie
+
+545
+
+ 	 	 	 	 
+Overige kosten ziekenhuiszorg en curatieve zorg
+
+610
+
+ 	 	 	 	 
+Overige zorgproducten
+
+611
+
+ 	 	 	 	 
+Kosten addons – Dure geneesmiddelen
+
+612.1
+
+ 	 	 	 	 
+Kosten add-ons – IC
+
+612.2
+
+190129, 190130, 190131, 190132, 190133, 190156, 190157, 190158
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2
+
+periode van opname tot en met ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Integrale kosten van DBC-zorgproduct gereguleerde segment
+
+613.1
+
+14E006, 14E074, 14E083, 14E084, 14E094, 14E248, 14E256
+
+declaratiecode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2
+
+periode van opname tot en met ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+14D729, 14D730, 14D731, 14D761, 14D762, 14D763, 14D764, 14D765, 14D766, 14D767, 14D768, 14D769, 14D770, 14D771, 14D772, 14D773, 14D774, 14D803, 14D838, 14E489, 14E490
+
+declaratiecode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2
+
+periode tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Integrale kosten DBC-zorgproduct vrije segment
+
+615.1
+
+15E758, 15E759, 15E760, 15E762, 15E867, 15E868, 15E869
+
+declaratiecode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2
+
+periode van opname tot en met ontslag uit ziekenhuis alleen bij declaratiecodes 15E758, 15E759, 15E760 voor het leveren van COVID-zorg in (long)revalidatiecentra geldt als aanvullende periode: tot en met 7 dagen na ontslag uit het ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Integrale kosten extramuraal werkende specialisten
+
+619
+
+ 	 	 	 	 
+ 	 	 	 	 	 	 
+07 PARAMEDISCHE ZORG
+
+ 	 	 	 	 	 
+Kosten fysiotherapie
+
+620
+
+9363
+
+DCSPH-code
+
+geen aanvullende voorwaarden
+
+ 	
+‘declaratiecode’ opnemen
+
+Kosten oefentherapie Mensendieck/Cesar
+
+621
+
+9363
+
+DCSPH-code
+
+geen aanvullende voorwaarden
+
+ 	
+‘declaratiecode’ opnemen
+
+Kosten logopedie
+
+623
+
+9500
+
+ICIDH-code
+
+geen aanvullende voorwaarden
+
+ 	
+‘declaratiecode’ opnemen
+
+Kosten ergotherapie
+
+624
+
+5020, 5021, 5022, 5023, 5024, 5025, 5026, 5027, 5028, 5029, 5030, 5031, 5032, 5033, 5034, 5035, 5036, 5037, 5038, 5039, 5040, 5041, 5042, 5043, 5044, 5045, 5046, 5047 65079, 65080, 65081, 65082, 65083, 65084, 65085, 65086, 65087, 65088, 65089, 65090, 65091, 65092, 65101, 65102, 65103, 65104, 65105, 65106, 65107, 65108, 65109, 65110, 65111, 65112, 65113, 65114
+
+verrichtingcode
+
+geen aanvullende voorwaarden
+
+ 	
+‘declaratiecode’ opnemen
+
+Kosten dieetadvisering
+
+625
+
+6107, 6108, 6109, 6110, 6111, 6112, 6113, 6114, 6115, 6116, 6117, 6118, 6119, 6120, 6121, 6122, 6123, 6124, 6125, 6126, 6127, 6128 65093, 65094, 65095, 65096, 65097, 65098, 65099, 65100, 65115, 65116, 65117, 65118, 65119, 65120, 65121, 65122
+
+verrichtingcode
+
+geen aanvullende voorwaarden
+
+ 	
+‘declaratiecode’ opnemen
+
+Gecombineerde Leefstijl Interventie (GLI)
+
+626
+
+ 	 	 	 	 
+ 	 	 	 	 	 	 
+08 HULPMIDDELENZORG
+
+ 	 	 	 	 	 
+Hulpmiddelenzorg
+
+640
+
+2021, 2956, 24000, 031812, 031813, 04023700, 04023705, 15327612, 16231422
+
+verrichtingcode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2 of corona cohortverpleging A0012
+
+periode van 7 dagen voor opname tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+ 	 	 	 	 	 	 
+11 GRZ, ELV EN GZSP
+
+ 	 	 	 	 	 
+Geriatrische Revalidatiezorg (GRZ)
+
+670
+
+14E390, 14E394, 14E397, 14E479, 14E480, 14E481, 14E482, 14E483, 14E484, 14E485, 14E486, 14E487, 14E488, 14E520, 14E521, 14E525, 14E526, 14E527
+
+Declaratiecode
+
+bij hoofddiagnose ICD-10 U07.1 of U07.2
+
+periode tot en met 7 dagen na ontslag uit ziekenhuis
+
+selecteren als ‘declaratiecode’ aan ‘voorwaarden’ voldoet en binnen de gespecificeerde ‘periode’ valt
+
+Eerstelijnsverblijf (ELV)
+
+671
+
+A0012
+
+verrichtingcode
+
+geen aanvullende voorwaarden
+
+ 	
+’declaratiecode’ opnemen
+
+Geneeskundige Zorg Specifieke Patiëntgroepen (GZSP)
+
+672
+
+ 	 	 	 	 
+Kostenrubriek: rubrieken zoals beschreven in kostenverzamelstaat en handboek
+
+Code: code bijbehorend bij kostenrubriek
+
+Declaratiecode: op te nemen codes
+
+Type declaratiecode: geeft aan om welk type code het gaat (bijv.: DCSPH code / verrichtingcode / ICIDHcode)
+
+Voorwaarden: voorwaarden die zijn gesteld bij de inbreng van de declaratiecode
+
+Periode: periode waarbinnen declaratiecode mag worden toegepast
+
+Rekenregel: toepassen van declaratiecode in combinatie met eventuele voorwaarde en/of periode
+
+Voor gehele bijlage 1 geldt dat alleen basisverzekering zorg mag worden opgenomen
+
+Gebruikte afkortingen:
+
+ICD-10 = Internationale statistische classificatie van ziekten en met gezondheid verbandhoudende problemen – Tiende Revisie
+
+U07.1 = COVID-19, virus geïdentificeerd
+
+U07.2 = COVID-19, virus niet geïdentificeerd
+
+Leesvoorbeeld
+
+Een patiënt is in het ziekenhuis opgenomen geweest van 21 december tot en met 4 januari met hoofddiagnose ICD-10 U07.2.
+
+Deze patiënt krijgt op 8 januari een POH-GGZ consult van langer dan 20 minuten bij de huisarts.
+
+Dit is de eerste keer dat de patiënt een POH-GGZ consult ontvangt.
+
+Bij declaratiegegevens van deze patiënt behoren de volgende details:
+
+Verrichtingcode: 12111
+
+Hoofddiagnose: ICD-10 U07.2
+
+Periode opname t/m ontslag: 21 december t/m 4 januari
+
+COVID-periode: 14 december t/m 11 januari
+
+Is de verrichtingcode in de afgelopen drie maanden voorafgaand aan de COVID-periode bij dezelfde patiënt is gedeclareerd?: nee
+
+Verrichtingcode 12111 betreft COVID-zorg en moet worden geselecteerd, aangezien de patiënt als hoofddiagnose ICD-10 U07.2 had, het consult heeft plaatsgevonden binnen de gestelde COVID-periode, de verrichtingcode in de bijlage 1 is opgenomen én in de afgelopen drie maanden voorafgaand aan de COVID-periode niet eerder is gedeclareerd.
+
+Bijlage 2: overzicht van declaratiecodes in verband met toeslagen in verband met verhoogde kosten als gevolg van de coronapandemie
+Werkelijk in rekening gebrachte individuele toeslagen ter dekking van meerkosten vanwege COVID
+kostenrubriek
+
+code
+
+declaratiecode (= verrichtingcode)
+
+type declaratie
+
+TB Nza
+
+voorwaarden
+
+periode
+
+rekenregel
+
+01 HUISARTSENZORG en MDZ
+
+ 	 	 	 	 	 	 
+ 	
+801
+
+11701
+
+Moduletarief Incidentele compensatie meerkosten en omzetderving Coronacrisis
+
+TB/REG-20622-04
+
+eenmalig tarief per ingeschreven verzekerde, waarvan een fractie van 0,225 ten laste van de CR komt
+
+1-4-2020 t/m 30-06-2020
+
+selecteren als ‘declaratiecode’ binnen de gespecificeerde ‘periode’ van TB NZa valt, vermenigvuldigd met 0,225.
+
+ 	
+801
+
+31180
+
+Meerkosten coronalocatie overdag
+
+TB/REG-20622-04
+
+eenmalig tarief per ingeschreven verzekerde
+
+ 	
+’declaratiecode’ opnemen
+
+ 	 	 	 	 	 	 	 
+04 MONDZORG
+
+ 	 	 	 	 	 	 
+ 	
+804
+
+C88
+
+Toeslag extra kosten SARS-CoV-2
+
+TB/REG-20600-03
+
+uitsluitend declaraties ten laste van de basisverzekering
+
+1-8-2020 t/m 31-10-2020
+
+selecteren als ‘declaratiecode’ binnen de ‘periode’ van TB NZa valt.
+
+ 	
+804
+
+F902A
+
+Toeslag extra kosten SARS-CoV-2, voor patiënten, niet vallend onder F902B en/of F902C
+
+TB/REG-20601-02
+
+uitsluitend declaraties ten laste van de basisverzekering
+
+1-8-2020 t/m 31-10-2020
+
+selecteren als ‘declaratiecode’ binnen de ‘periode’ van TB NZa valt.
+
+ 	
+804
+
+F902B
+
+Toeslag extra kosten SARS-CoV-2, voor patiënten met een in ernst met schisis vergelijkbare afwijking(en)
+
+TB/REG-20601-02
+
+uitsluitend declaraties ten laste van de basisverzekering
+
+1-8-2020 t/m 31-10-2020
+
+selecteren als ‘declaratiecode’ binnen de ‘periode’ van TB NZa valt.
+
+ 	
+804
+
+F902C
+
+Toeslag extra kosten SARS-CoV-2, voor patiënten met een cheilo-/gnatho-/palatoschisis
+
+TB/REG-20601-02
+
+uitsluitend declaraties ten laste van de basisverzekering
+
+1-8-2020 t/m 31-10-2020
+
+selecteren als ‘declaratiecode’ binnen de ‘periode’ van TB NZa valt.
+
+Kostenrubriek: rubrieken zoals beschreven in kostenverzamelstaat en handboek van Zorginstituut Nederland
+
+Code: code voor meerkosten Corona behorend bij kostenrubriek
+
+Declaratiecode: op te nemen verrichtingcodes
+
+Type declaratie: toelichting op declaratiecode
+
+Voorwaarden: voorwaarden die zijn gesteld bij de inbreng van de declaratiecode
+
+TB Nza: Prestatie- en tariefbeschikking van de NZa
+
+Periode: periode waarbinnen declaratiecode mag worden toegepast
+
+Rekenregel: toepassen van declaratiecode in combinatie met eventuele voorwaarde en/of periode
+
+Voor gehele bijlage geldt dat alleen basisverzekering zorg mag worden opgenomen
+
+Gebruikte afkortingen:
+
+CR = Catastroferegeling
+
+NZa = Nederlandse Zorgautoriteit
+
+TOELICHTING
+Op 11 maart 2020 heeft de Wereldgezondheidsorganisatie (Wgo) verklaard dat er sprake is van een pandemie als gevolg van de verspreiding van het coronavirus. Vanaf dat moment is er sprake van een catastrofe als bedoeld in artikel 33, eerste lid, van de Zorgverzekeringswet (Zvw). Op grond van artikel 33, tweede lid, van de Zvw kent Zorginstituut Nederland (het Zorginstituut) aan zorgverzekeraars op verzoek een extra bijdrage toe, naast de al toegekende bijdrage voor dat catastrofejaar. In de Regeling zorgverzekering zijn in hoofdstuk 6, paragraaf 6, aanvullende bepalingen opgenomen over de toekenning van een extra bijdrage.
+
+In deze beleidsregels geeft het Zorginstituut weer op welke wijze het de beslissing over de toekenning van een dergelijke bijdrage neemt. Het Zorginstituut heeft met deze beleidsregels de administratieve uitvoering voor zorgverzekeraars geprobeerd zo licht mogelijk te maken.
+
+Het uitgangspunt is dat een zorgverzekeraar op basis van zijn verwachte catastrofeschadelast een verzoek indient bij het Zorginstituut. Op basis van dat verzoek zal het Zorginstituut een beslissing nemen over de toekenning van een extra bijdrage naast de vereveningsbijdrage.
+
+Deze catastrofebijdrage is uitsluitend bestemd voor de kosten voor de op grond van de zorgverzekeringen verzekerde zorg of andere diensten ten gevolge van de coronapandemie. De meerkosten voor COVID-19 die een zorgaanbieder bij de zorgverzekeraar in rekening brengt, kunnen alleen ten laste van de Zvw worden gebracht voor zover het op grond van de zorgverzekeringen verzekerde zorg betreft en niet op andere wijze wordt vergoed. Zorg die onder de aanvullende verzekering valt of waarvoor een verzekerde niet verzekerd is, kan niet ten laste van de Zvw gebracht worden.
+
+De bijdrage wordt op grond van artikel 39, derde lid, onder a, van de Zvw uitgekeerd uit het Zorgverzekeringsfonds. De coronakosten worden niet betrokken bij de vaststelling van de vereveningsbijdragen voor de risicoverevening.
+
+Indien een zorgverzekeraar geen verzoek indient voor een bijdrage op grond van de catastroferegeling komen de coronakosten ten laste van de zorgverzekeraar.
+
+Regels NZa
+De NZa heeft in verband met de coronapandemie algemene, aanvullende regels opgesteld:
+
+–de Regeling continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 (Stcrt. 2020, 25466);
+
+–de Beleidsregel continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus (BR/REG-20157);
+
+–de Prestatiebeschrijvingbeschikking continuïteitsbijdrage en meerkosten in verband met de uitbraak van het SARS-CoV-2 virus (TB/REG-20656-01).
+
+Deze algemene, aanvullende regels zien op de meerkosten die zorgaanbieders moeten maken in verband met de coronapandemie en op de continuïteitsbijdrage die zorgverzekeraars aan zorgaanbieders betalen voor de continuïteit van de zorg. Met deze aanvullende regels kunnen zorgaanbieders rechtmatig een tarief in rekening brengen voor de meerkosten in verband met de coronapandemie en voor de continuïteitsbijdragen. Hierdoor kunnen zorgverzekeraars de meerkosten als zorgkosten verantwoorden. De continuïteitsbijdragen vallen niet onder de catastroferegeling. Deze kosten vallen onder de reguliere risicoverevening voor zover voldaan is aan de voorwaarden uit de regelgeving van de NZa én voor zover die betrekking hebben op de zorg uit de basisverzekering.
+
+Voor zover een zorgverzekeraar een verzoek wil indienen voor een catastrofebijdrage zal de toepasselijke regelgeving van de NZa in acht moeten zijn genomen.
+
+Toezicht door de NZa
+De verantwoordingen van zorgverzekeraars van de coronakosten vallen onder het reguliere toezicht van de NZa.
+
+Speciale aandacht gaat uit naar de onderbouwing van de hoogte van de indirecte meerkosten (artikel 2, eerste lid, onder c). Een bijdrage voor de indirecte meerkosten die zorgverzekeraars aan zorgaanbieders hebben betaald behoort tot de catastrofeschadelast indien aan twee vereisten is voldaan. Het eerste vereiste is dat de zorgverzekeraar en de zorgaanbieder:
+
+a.een contract over de indirecte meerkosten hebben gesloten;
+
+b.de bijdrage voor de indirecte meerkosten alleen bestemd is voor de basisverzekering; en
+
+c.de verzekeraar de bijdrage daadwerkelijk aan de zorgaanbieder betaald heeft.
+
+Het tweede vereiste is dat de hoogte van de bijdrage voor de indirecte meerkosten plausibel is. Voor de vergoeding van de indirecte meerkosten (zogenaamde landelijke afspraken) is aan de plausibiliteitstoets voldaan als:
+
+a.ZN voor een sector afspraken heeft gemaakt over de vergoeding van de indirecte meerkosten (zogenaamde landelijke afspraken); en
+
+b.de NZa deze afspraken plausibel heeft gevonden.
+
+Voor de vergoeding van de (aanvullende) specifieke vergoedingen van de indirecte meerkosten die achteraf vastgesteld worden (onder andere hardheidsclausule afspraken en afspraken in de GGZ) is aan de plausibiliteitstoets voldaan als:
+
+a.de NZa het door ZN uitgewerkte uniforme proces voor toekenning van deze vergoedingen adequaat vindt, én
+
+b.de zorgverzekeraar kan aantonen, dat het vooraf door de NZa adequaat bevonden proces, bij de toekenning van de vergoedingen ook daadwerkelijk is gevolgd.
+
+De NZa kan bij de beoordeling van die afspraken rekening houden met alle bijzondere omstandigheden als gevolg van de coronapandemie, zoals het feit dat de coronapandemie de zorgaanbieders overvallen heeft waardoor er geen tijd was om van tevoren een adequate registratie in te richten en de tijdsdruk waaronder afspraken over de vergoeding tot stand zijn gekomen teneinde zorgaanbieders comfort te geven over de extra kosten als gevolg van de coronapandemie. Bij de beoordeling van de plausibiliteit van de afspraken door de NZa gaat het om de plausibiliteit van het geheel aan landelijke afspraken voor een sector voor de gehele periode van de coronapandemie, dat wil zeggen voor 2020 en 2021.
+
+Indien een zorgverzekeraar met zorgaanbieders andere aanvullende afspraken heeft gemaakt dan zal de zorgverzekeraar aan de NZa moeten aantonen dat deze vergoeding is gebaseerd op de werkelijke kosten.
+
+Andere afspraken kunnen zien op:
+
+–afspraken over de hoogte van de meerkosten voor een sector waarvoor geen landelijke afspraken zijn gemaakt;
+
+–afspraken over de hoogte van de meerkosten tussen een zorgverzekeraar die de landelijke afspraken niet onderschrijft en de relevante zorgaanbieders.
+
+Correcties door de NZa
+Indien de NZa correcties aanbrengt op de opgaven van zorgverzekeraars op de gerealiseerde coronakosten, wijzigt het Zorginstituut de catastrofebijdrage. De korting betreft alleen het deel dat de NZa gecorrigeerd heeft.
+
+Indien de NZa een deel van de in artikel 2, eerste lid, onder c, bedoelde kosten niet geaccordeerd heeft, laat het Zorginstituut die kosten bij de definitieve vaststelling buiten beschouwing.
+
+Continuïteitsbijdrage
+
+Zorgverzekeraars hebben met zorgaanbieders afspraken gemaakt over een zogenaamde continuïteitsbijdrage aan zorgaanbieders. Deze continuïteitsbijdrage valt niet onder de catastrofeschadelast en wordt daarom buiten de catastroferegeling gehouden.
+
+ArtikelsgewijsArtikel 1
+In dit artikel zijn de belangrijkste begripsbepalingen in aanvulling op de Zorgverzekeringswet en de Regeling zorgverzekering opgenomen.
+
+Artikel 2
+In dit artikel zijn de coronakosten nader gespecificeerd. Op grond van artikel 6.6.2, tweede lid, en 6.6.5, tweede lid, van de Regeling zorgverzekering heeft het Zorginstituut in bijlage 1 declaratiecodes en de rekenregels opgenomen voor de directe coronakosten. Het vertrekpunt voor deze bijlage is een voorstel over de directe coronakosten van ZN aan het Zorginstituut. Het Zorginstituut heeft de declaratiecodes en de rekenregels ter toetsing voorgelegd aan een interne werkgroep van medische experts en experts op het gebied van de riscoverevening en fondsbeheer. Daarnaast heeft een controle-expert van de NZa aan dit overleg deelgenomen. Deze werkgroep heeft getoetst of de voorstellen redelijkerwijs een direct gevolg zijn van COVID-19. Bijlage 2 met de toeslagen op reguliere tarieven in verband met verhoogde kosten als gevolg van de coronapandemie is gebaseerd op de codes die de NZa heeft opgenomen in haar beleidsregels en tarief- en prestatiebeschikkingen.
+
+Het Zorginstituut zal tweemaal bezien of de bijlagen 1 en 2 aangevuld moeten worden met declaratiecodes of rekenregels. Het Zorginstituut zal daarvoor een werkwijze hanteren die vergelijkbaar is met de hiervoor beschreven werkwijze.
+
+In verband met het flankerend beleid voor de risicoverevening is het van belang dat het Zorginstituut weet aan welk jaar (2020 of 2021) de coronakosten moeten worden toegerekend. Dat is in het tweede en derde lid van dit artikel bepaald. Voor de toerekening van de indirecte meerkosten naar 2020 of 2021 is bepalend wat daarover in de schriftelijke afspraak tussen zorgverzekeraar en zorgaanbieder is vastgelegd.
+
+Artikel 3
+Dit artikel is opgenomen om dubbele bekostiging te voorkomen. Daarom kunnen bepaalde kosten niet als catastrofeschadelast worden opgevoerd. Dat betreft de hiervoor al genoemde continuïteitsbijdrage en de kosten waarvoor de zorgverzekeraar compensatie krijgt ten laste van de rijksbegroting bedoeld in artikel 2.1 van de Comptabiliteitswet 2016, zoals de kosten op grond van artikel 2.29a, vijfde, van de Regeling zorgverzekering voor het doorbetalen van de niet-geleverde zorg ten laste van het Zvw-pgb. In het artikel is gekozen voor een algemene formulering, met een duidelijke specificatie voor de kosten van niet-geleverde zorg ten laste van het Zvw-pgb. Mochten zorgverzekeraars in de loop van de coronapandemie nog voor andere kosten rechtstreekse bijdragen op grond van de rijksbegroting ontvangen, dan zijn die kosten ook uitgesloten. Het Zorginstituut zal zorgverzekeraars in dat geval bij afzonderlijke brief informeren over de rechtstreeks aan zorgverzekeraars toegekende andere vergoedingen voor kosten die daardoor niet meer meetellen bij de catastrofeschadelast.
+
+Artikel 4
+Het Zorginstituut kent alleen een catastrofebijdrage toe aan een zorgverzekeraar die daar om heeft verzocht.
+
+Artikel 5
+De hoogte van de toe te kennen bijdrage is afhankelijk van de grootte van de catastrofeschadelast ten opzichte van grondslag, zoals bepaald in artikel 6.6.2 van de Regeling zorgverzekering:
+
+–Bij een verwachte catastrofeschadelast van minder dan 4% van de verwachte grondslag is de bijdrage nihil.
+
+–Bij een verwachte catastrofeschadelast van meer dan 4% en minder dan 10% van de verwachte grondslag bedraagt de bijdrage het verschil tussen de verwachte catastrofeschadelast en 4% van de verwachte grondslag, vermenigvuldigd met 5/3.
+
+–Bij een verwachte catastrofeschadelast van 10% of meer en niet meer dan 20% van de verwachte grondslag bedraagt de bijdrage de verwachte catastrofeschadelast.
+
+–Bij een verwachte catastrofeschadelast van meer dan 20% van de verwachte grondslag, bedraagt de bijdrage 20% van de verwachte grondslag.
+
+Bij de toekenning baseert het Zorginstituut zich op de verwachte catastrofeschadelast.
+
+Artikel 6
+Het Zorginstituut stelt een formulier op dat zorgverzekeraars kunnen gebruiken voor het indienen van het verzoek. Vanwege de samenhang van de catastroferegeling met de risicoverevening is het van belang dat het Zorginstituut tijdig weet welke zorgverzekeraars een verzoek voor de catastroferegeling willen indienen. Het verzoek wordt uiterlijk 31 december 2021 ingediend. Indien het verzoek later wordt ingediend zal het Zorginstituut een lagere bijdrage vaststellen, tenzij de late indiening verschoonbaar is. De bijdrage voor een verzoek dat wordt ingediend na 31 december 2022 wordt op nihil vastgesteld.
+
+Artikel 7
+Het Zorginstituut beslist over de toekenning van de voorlopige catastrofebijdrage op basis van de verwachte catastrofelast. Daarom wordt de zorgverzekeraar gevraagd een schatting (inclusief toelichting) te maken van de verwachte kosten van de zorgverzekeraar in verband met de coronapandemie. Zorgverzekeraars kunnen op verschillende momenten een verzoek indienen voor een catastrofebijdrage. Begin 2021 is nog niet bekend hoe de coronapandemie in 2021 zal verlopen. Een zorgverzekeraar die begin 2021 een verzoek indient, heeft daarom bij de schatting van de verwachte catastrofeschadelast met meer onzekerheden te maken dan een zorgverzekeraar die eind 2021 een verzoek indient. Omdat bij de vaststelling van de definitieve catastrofebijdrage de voorlopige catastrofebijdrage wordt verrekend, volstaat bij het verzoek een schatting met een toelichting.
+
+In verband met de administratieve verwerking, de uitvoering van de risicoverevening en de controle op de juistheid van de gegevens is het van belang dat er een onderscheid gemaakt wordt tussen de reguliere directe kosten voor COVID-zorg voor COVID-patiënten, de kosten voor toeslagen op reguliere tarieven in verband met verhoogde kosten als gevolg van de coronapandemie en de indirecte meerkosten op grond van de prestatie meerkosten. Hierbij wordt een onderscheid gemaakt tussen kosten voor 2020 en 2021. Bij het verzoek kan dit een ruwe schatting zijn.
+
+In het verzoek nemen zorgverzekeraars ook een verwachting van hun betalingen aan zorgaanbieders op. Dat schema zal het Zorginstituut gebruiken voor het vaststellen van het betaalschema in de toekenningsbeschikking.
+
+Artikel 8
+Dit artikel regelt de beslistermijn. Op grond van artikel 4:13 van de Algemene wet bestuursrecht zal het Zorginstituut binnen een redelijke termijn moeten beslissen. In de regel zal een beslissing binnen acht weken passend zijn, als het formulier volledig is ingevuld. Indien het niet mogelijk is om binnen acht weken te beslissen zal het Zorginstituut de zorgverzekeraar daarvan binnen acht weken op de hoogte stellen en daarbij een nieuwe termijn noemen waarbinnen op de aanvraag wordt beslist. In spoedeisende gevallen kan het Zorginstituut een voorschot op de continuïteitsbijdrage toekennen.
+
+Artikel 9
+Bij het besluit tot toekenning van een voorlopige catastrofebijdrage neemt het Zorginstituut een betaalschema op, rekening houdend met het betaalschema van de zorgverzekeraar.
+
+Artikel 10
+Om de catastrofebijdrage goed te kunnen berekenen per zorgverzekeraar per jaar heeft het Zorginstituut gegevens van zorgverzekeraars nodig. Het Zorginstituut zal daarom de Regeling structurele aanlevering gegevens Zorgverzekeringswet en Wet langdurige zorg voor de jaren 2020 tot en met 2025 aanpassen zodat zorgverzekeraars weten welke gegevens zij op welk moment over de gerealiseerde coronakosten moeten aanleveren. Dit wordt nader uitgewerkt in een addendum op het Handboek informatie Zorgverzekeringswet voor de jaren 2020 tot en met 2025.
+
+Het Zorginstituut vraagt de gegevens over de gerealiseerde coronakosten op bij alle zorgverzekeraars, ook als zij geen verzoek hebben ingediend voor een bijdrage op grond van de catastroferegeling.
+
+Artikel 11
+Dit artikel bepaalt hoe het Zorginstituut de werkelijke catastrofeschadelast vaststelt. Tevens wordt in dit artikel geregeld dat het verplicht eigen risico in mindering wordt gebracht op de werkelijke catastrofeschadelast.
+
+Indien een verzekeraar het bedrag van het verplicht eigen risico voor COVID-zorg niet rechtstreeks uit de administratie kan afleiden, is in het derde lid een alternatieve bepaling opgenomen. Het verplicht eigen risico voor COVID-zorg kan nooit hoger zijn dan de voor COVID-zorg gemaakte kosten.
+
+De gegevens op basis waarvan de werkelijke catastrofeschadelast wordt vastgesteld worden opgevraagd als aanvulling op de reguliere uitvraag bij zorgverzekeraars voor de risicoverevening. Dit vermindert de aanvullende administratieve lasten en bevordert de samenhang met de risicoverevening en de controle op de gegevens.
+
+Verder wordt bij de vaststelling van de werkelijke catastrofeschadelast gecontroleerd of er een assurance-rapport is van de accountant van de zorgverzekeraar over deze gerealiseerde kosten is conform het accountantsprotocol van de NZa daarover.
+
+Eventuele correcties van de NZa op de opgaven van zorgverzekeraars worden door het Zorginstituut verwerkt bij de vaststelling van de werkelijke catastrofeschadelast. Indien de NZa een deel van de in artikel 2, eerste lid, onder c, bedoelde kosten niet geaccordeerd heeft, laat het Zorginstituut die kosten bij de definitieve vaststelling buiten beschouwing.
+
+Artikel 12
+Dit artikel bepaalt wanneer en op welke wijze het Zorginstituut de definitieve bijdrage vaststelt. Op grond van artikel 34 van de Zvw stelt het Zorginstituut uiterlijk op 1 april in 2025 de bijdrage definitief vast aan de hand van de werkelijke catastrofeschadelast. Het Zorginstituut zal de catastrofebijdrage definitief vaststellen als ook de vereveningsbijdrage voor het jaar 2021 definitief is vastgesteld. Bij de vaststelling van de definitieve bijdrage wordt de op grond van artikel 4 toegekende bijdrage verrekend. De hoogte van de definitieve bijdrage is afhankelijk van de grootte van de werkelijke catastrofeschadelast ten opzichte van de werkelijke grondslag, zoals bepaald in artikel 6.6.5 van de Regeling zorgverzekering.
+
+–Bij een werkelijke catastrofeschadelast van minder dan 4% van de werkelijke grondslag is de bijdrage nihil;
+
+–Bij een werkelijke catastrofeschadelast van meer dan 4% en minder dan 10% van de werkelijke grondslag bedraagt de bijdrage het verschil tussen de werkelijke catastrofeschadelast en 4% van de werkelijke grondslag, vermenigvuldigd met 5/3;
+
+–Bij een werkelijke catastrofeschadelast van 10% of meer en niet meer dan 20% van de werkelijke grondslag bedraagt de bijdrage de werkelijke catastrofeschadelast;
+
+–Bij een werkelijke catastrofeschadelast van meer dan 20% van de werkelijke grondslag, bedraagt de bijdrage 20% van de werkelijke grondslag.
+
+Bij de definitieve vaststelling baseert het Zorginstituut zich op de werkelijke catastrofeschadelast, uitgesplitst naar 2020 en 2021.
+
+Artikel 13
+Dit artikel regelt dat het Zorginstituut de definitieve bijdrage lager vaststelt indien het verzoek, bedoeld in artikel 6 van deze beleidsregels, na 31 december 2021 is ingediend. Als de te late indiening verschoonbaar is, zal het Zorginstituut de bijdrage niet lager vaststellen.
+
+Artikel 14
+Over het verschil tussen de toegekende bijdrage en de definitieve bijdrage zijn de zorgverzekeraar en het Zorginstituut over en weer rente verschuldigd. De renteberekening sluit aan bij de renteberekening voor de riscoverevening. Het belangrijkste verschil betreft het betaalschema. Op grond van de catastroferegeling is het betaalschema afgestemd op de betalingsverplichtingen van de individuele zorgverzekeraar en in de beleidsregels voor de risicoverevening is een betaalschema opgenomen dat gelijkluidend is voor elke zorgverzekeraar.
+
+Artikel 15
+De beleidsregel kent terugwerkende kracht omdat zorgaanbieders al voor de inwerkingtreding coronakosten hebben gemaakt. Gekozen is voor terugwerkende kracht tot en met 1 januari 2020, omdat de Regeling zorgverzekering uitgaat van hele kalenderjaren.
+
+Artikel 16
+Dit artikel bevat de citeertitel.
+
+Bijlagen
+Op grond van artikel 6.6.2, tweede lid en artikel 6.6.5, tweede lid, van de Regeling zorgverzekering heeft het Zorginstituut voor de berekening van de catastrofeschadelast een overzicht gemaakt van de prestatiebeschrijvingen voor de zorg of andere diensten in verband met COVID-19 welke zorg op grond van de zorgverzekeringen zijn verzekerd. Bijlage 1 bevat een overzicht van reguliere declaratiecodes en rekenregels. Bijlage 2 bevat een overzicht van declaratiecodes in verband met toeslagen in verband met verhoogde kosten als gevolg van de coronapandemie, waarvoor de NZa een aparte prestatiecode heeft vastgesteld.
+
+Voorzitter Raad van Bestuur
+S. Wijma
+

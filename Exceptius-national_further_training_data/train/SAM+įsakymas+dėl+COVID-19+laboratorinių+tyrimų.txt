@@ -1,0 +1,37 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIŲ TYRIMŲ ATLIKIMO NE ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ LABORATORIJOSE KARANTINO LAIKOTARPIU
+
+2020 m. kovo 24 d. Nr. V-520
+Vilnius
+
+
+Vadovaudamasis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 8 straipsniu, įgyvendindamas Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. birželio 13 d. įsakymą Nr. 278 „Dėl Pavojingų ir ypač pavojingų užkrečiamųjų ligų, dėl kurių ligoniai, asmenys, įtariami, kad serga pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, asmenys, turėję sąlytį, ar šių ligų sukėlėjų nešiotojai turi būti hospitalizuojami, izoliuojami, tiriami ir (ar) gydomi privalomai, sąrašo patvirtinimo“ ir atsižvelgdamas į tai, kad Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta valstybės lygio ekstremalioji situacija visoje šalyje dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmės ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas visoje Lietuvos Respublikos teritorijoje:
+1.	T v i r t i n u  COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo ne asmens sveikatos priežiūros įstaigų laboratorijose karantino laikotarpiu tvarkos aprašą (pridedama).
+2.	P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.
+
+
+
+Sveikatos apsaugos ministras			             Aurelijus Veryga
+
+PATVIRTINTA
+Lietuvos Respublikos
+sveikatos apsaugos ministro
+2020 m. kovo 24 d. įsakymu Nr. V-520
+
+COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) LABORATORINIŲ TYRIMŲ ATLIKIMO NE ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ LABORATORIJOSE KARANTINO LAIKOTARPIU TVARKOS APRAŠAS
+
+1. COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo ne asmens sveikatos priežiūros įstaigų laboratorijose karantino laikotarpiu tvarkos aprašas (toliau – Aprašas) nustato reikalavimus COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų (toliau – laboratoriniai tyrimai) atlikimui, kai jie atliekami ne asmens sveikatos priežiūros įstaigų, turinčių teisę teikti laboratorinės diagnostikos paslaugą, laboratorijose ir laboratorinių tyrimų atlikimo karantino laikotarpiu tvarką.
+2. Atlikti molekulinės diagnostikos tyrimus dėl SARS-CoV-2 (2019-nCoV) RNR nustatymo tikralaikės PGR metodu (toliau – COVID-19 ligos (koronaviruso infekcijos) laboratorinis tyrimas) turi teisę laboratorijos:
+2.1. atitinkančios Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“, patvirtintos Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatytų infekcijų kontrolės reikalavimus ir / ar turi būti sukurta, įdiegta ir palaikoma kokybės vadybos sistema, atitinkanti standarto EN ISO/IEC 17025 „Tyrimo, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ nurodytus reikalavimus (toliau – Standartas EN ISO/IEC 17025);
+2.2. užtikrinančios, kad naudojamos medicinos priemonės (prietaisai), kiti prietaisai ir pildoma medicininė dokumentacija turi atitiktį Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 5 d. įsakyme Nr. V-998 „Dėl asmens sveikatos priežiūros įstaigų laboratorijų veiklos vertinimo“ nurodytiems reikalavimams ir / ar turi būti sukurta, įdiegta ir palaikoma kokybės vadybos sistema, atitinkanti Standarto EN ISO/IEC 17025 nurodytus reikalavimus;
+2.3. kai jų validumą atlikti COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus įvertina Nacionalinė visuomenės sveikatos priežiūros laboratorija (toliau – NVSPL).
+3. NVSPL įvertina laboratorijų validumą atlikti COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus (pateikiant 1 tikrai teigiamą ir 1 tikrai neigiamą ėminius).
+4. Laboratorijos, atitinkančios Aprašo 2 punkto reikalavimus:
+4.1. teikia informaciją apie atliktus tyrimus Lietuvos Respublikos sveikatos apsaugos ministerijai ir NVSPL (apie gautus teigiamus COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus ir apie visus atliktus tyrimus dėl COVID-19 ligos (koronaviruso infekcijos);
+4.2. paskiria asmenis, atsakingus už bendradarbiavimą su NVSPL, organizuojant, koordinuojant ir valdant ėminių COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti srautus;
+4.3. laboratorinius tyrimus vykdo tik pagal nustatytą su NVSPL bendradarbiavimo tvarką / sutartį ir nevykdo ėminių paėmimo iš paciento ar asmenų COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti.
+________________

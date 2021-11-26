@@ -1,0 +1,376 @@
+﻿Verordnung
+über Massnahmen zur Bekämpfung
+des Coronavirus (Covid-19) im Bereich
+des internationalen Personenverkehrs
+(Covid-19-Verordnung Massnahmen im Bereich des internationalen
+Personenverkehrs)
+vom 27. Januar 2021 (Stand am 22. Februar 2021)
+Der Schweizerische Bundesrat,
+gestützt auf Artikel 41 Absätze 1 und 3 des Epidemiengesetzes vom 28. September
+20121 (EpG),
+verordnet:
+1.	Abschnitt: Zweck und Gegenstand
+Art. 1
+1	Diese Verordnung soll der Verhinderung der Ausbreitung des Coronavirus Sars-
+CoV-2 dienen.
+2	Dazu regelt sie für Personen, die aus einem Staat oder Gebiet mit erhöhtem Anste-
+ckungsrisiko in die Schweiz einreisen:
+a.	die Erhebung von Kontaktdaten;
+b.	die Pflicht zur Quarantäne und den Vollzug der Quarantäne;
+c.	die Testung.
+3	Zudem regelt sie die Erhebung von Kontaktdaten für Personen, die mit Bahn, Bus,
+Schiff oder Flugzeug aus einem Staat oder Gebiet ohne erhöhtes Ansteckungsrisiko
+in die Schweiz einreisen.
+2.	Abschnitt: Staat oder Gebiet mit erhöhtem Ansteckungsrisiko
+Art. 2
+1	In einem Staat oder Gebiet liegt ein erhöhtes Risiko einer Ansteckung mit Sars-
+CoV-2 vor, wenn mindestens eine der folgenden Voraussetzungen erfüllt ist:
+AS 2021 61
+1 SR 818.101
+1
+818.101.27
+Krankheitsbekämpfung
+a.	Im betreffenden Staat oder Gebiet ist eine Mutation des Coronavirus Sars-
+CoV-2 nachgewiesen worden, von der im Vergleich zu der in der Schweiz
+verbreiteten Virusform eine höhere Gefahr der Ansteckung oder eines
+schweren Krankheitsverlaufs ausgeht.
+b.	Die Zahl der Neuinfektionen pro 100 000 Personen ist im betreffenden Staat
+oder Gebiet in den letzten 14 Tagen um mehr als 60 höher als in der
+Schweiz, und diese Zahl ist nicht auf einzelne Ereignisse oder örtlich eng
+begrenzte Fälle zurückzuführen.
+c.	Die verfügbaren Informationen aus dem betreffenden Staat oder Gebiet er-
+lauben keine verlässliche Einschätzung der Risikolage, und es bestehen
+Hinweise auf ein erhöhtes Übertragungsrisiko im betreffenden Staat oder
+Gebiet.
+d.	In den letzten vier Wochen sind wiederholt infizierte Personen in die
+Schweiz eingereist, die sich im betreffenden Staat oder Gebiet aufgehalten
+haben.
+2	Die Listen der Staaten oder Gebiete mit erhöhtem Ansteckungsrisiko werden in
+Anhang 1 aufgeführt.
+3	Das Eidgenössische Departement des Innern (EDI) führt den Anhang nach Rück-
+sprache mit dem Eidgenössischen Justiz- und Polizeidepartement (EJPD), dem
+Eidgenössischen Finanzdepartement (EFD) und dem Eidgenössischen Departement
+für auswärtige Angelegenheiten (EDA) laufend nach.
+4	Gebiete an der Grenze zur Schweiz, mit denen ein enger wirtschaftlicher, gesell-
+schaftlicher und kultureller Austausch stattfindet, können von der Aufnahme in die
+Listen nach Absatz 2 ausgenommen werden, auch wenn sie eine der Voraussetzun-
+gen nach Absatz 1 erfüllen.
+3.	Abschnitt: Erhebung von Kontaktdaten
+Art. 3 Pflichten der einreisenden Personen
+1	Personen, die aus einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko in die
+Schweiz einreisen, müssen ihre Kontaktdaten nach Artikel 49 der Epidemienverord-
+nung vom 29. April 20152 (Kontaktdaten) vor der Einreise wie folgt erfassen:
+a.	elektronisch über die vom Bundesamt für Gesundheit (BAG) zur Verfügung
+gestellte Plattform für die Kontaktdatenerfassung für Reisende3; oder
+b.	auf den vom BAG in Papierform zur Verfügung gestellten Kontaktkarten.
+2 SR 818.101.1
+3 Die Plattform für die Kontaktdatenerfassung für Reisende ist zugänglich unter
+https://swissplf.admin.ch
+2
+818.101.27
+Covid-19-Verordnung
+Massnahmen im Bereich des internationalen Personenverkehrs
+1bis Personen, die nicht mit einem Personenbeförderungsunternehmen nach Artikel 4
+einreisen und ihre Kontaktdaten auf Kontaktkarten erfassen, müssen diese 14 Tage
+aufbewahren.4
+2	Personen, die aus Staaten oder Gebieten ohne erhöhtes Ansteckungsrisiko in die
+Schweiz einreisen, müssen ihre Kontaktdaten elektronisch oder auf Papier nur
+erfassen, wenn die Einreise mit Bahn, Bus, Schiff oder Flugzeug erfolgt.
+3	Ausgenommen von den Pflichten nach den Absätzen 1 und 2 sind Personen, die:
+a.	aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirt-
+schaftlicher, gesellschaftlicher und kultureller Austausch stattfindet;
+b.	im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Per-
+sonen befördern;
+c.	lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der
+Möglichkeit, direkt in ein anderes Land weiterzureisen.5
+Art. 4 Pflichten der Personenbeförderungsunternehmen
+1	Die Unternehmen, die Personen im internationalen Verkehr befördern, stellen
+sicher, dass die einreisenden Personen ihre Kontaktdaten gemäss Artikel 3 Absätze 1
+und 2 erfassen.
+2	Sie stellen die Kontaktdaten nach Artikel 3 Absatz 1 Buchstabe b dem BAG auf
+Anfrage innerhalb von 24 Stunden zur Verfügung.
+3	Sie bewahren diese Kontaktdaten während 14 Tagen auf und vernichten sie an-
+schliessend.
+4	Sie stellen dem BAG auf Anfrage innerhalb von 48 Stunden Listen aller für den
+Folgemonat geplanten grenzüberschreitenden Zugsfahrten, Busfahrten, Schifffahrten
+oder Flüge zur Verfügung.
+5	Sie übermitteln die Kontaktdaten nach Artikel 3 Absatz 1 Buchstabe b sowie die
+Listen nach Absatz 4 über die vom BAG zur Verfügung gestellte Plattform für
+Personenbeförderungsunternehmen6.
+Art. 57
+4
+5
+6
+7
+Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), in Kraft seit 22. Febr. 2021 (AS 2021 94).
+Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), in Kraft seit 22. Febr. 2021 (AS 2021 94).
+Die Plattform für Personenbeförderungsunternehmen ist zugänglich unter
+https://swissplf.admin.ch
+Aufgehoben durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), mit Wirkung seit 22. Febr. 2021 (AS 2021 94).
+3
+818.101.27
+Krankheitsbekämpfung
+Art. 6 Aufgaben des BAG und der Kantone
+1	Das BAG sorgt für die Aufbereitung der Kontaktdaten für den Vollzug der Qua-
+rantäne nach Artikel 7 und für die unverzügliche Weiterleitung der Daten an die für
+die einreisenden Personen zuständigen Kantone.
+2	Sobald es Kenntnis von der Einreise einer mit Sars-CoV-2 infizierten Person
+erhält, ergreift es folgende Massnahmen:
+a.	Es verlangt vom Personenbeförderungsunternehmen die auf Papier erfassten
+Kontaktdaten von Personen, die mit der mit Sars-CoV-2 infizierten Person in
+die Schweiz eingereist sind.
+b.	Es ermittelt aufgrund der elektronisch eingegangen Kontaktdaten und der
+Kontaktdaten nach Buchstabe a die Personen, die einen engen Kontakt zu
+der mit Sars-CoV-2 infizierten Person hatten.
+c.	Es leitet die aufbereiteten Kontaktdaten unverzüglich an die für die einrei-
+senden Personen zuständigen Kantone weiter.
+3	Das BAG kann die Aufgaben nach den Absätzen 1 und 2 Dritten übertragen. Es
+stellt dabei sicher, dass der Datenschutz und die Datensicherheit gewährleistet sind.
+4	Es vernichtet die Daten einen Monat nach der Einreise der betroffenen Personen.
+5	Die Kantone vernichten die Daten einen Monat, nachdem sie diese vom BAG
+erhalten haben.
+4.	Abschnitt:
+Test-, Quarantäne- und Meldepflicht der einreisenden Personen
+Art. 7 Test- und Quarantänepflicht
+1	Folgende Personen müssen nachweisen, dass sie sich innerhalb der letzten 72
+Stunden mit einer molekularbiologischen Analyse auf Sars-CoV-2 haben testen
+lassen und das Ergebnis des Tests negativ ausgefallen ist:
+a.	Personen, die in die Schweiz einreisen und sich zu einem beliebigen Zeit-
+punkt innerhalb von 10 Tagen vor der Einreise in einem Staat oder Gebiet
+mit erhöhtem Ansteckungsrisiko aufgehalten haben;
+b.	Personen, die mit dem Flugzeug aus einem Staat oder Gebiet ohne erhöhtes
+Ansteckungsrisiko in die Schweiz einreisen.
+2	Personen nach Absatz 1 Buchstabe a sind verpflichtet, sich unverzüglich nach der
+Einreise auf direktem Weg in ihre Wohnung oder eine andere geeignete Unterkunft
+zu begeben. Sie müssen sich während 10 Tagen nach ihrer Einreise ständig dort
+aufhalten (Einreisequarantäne).
+3	Personen nach Absatz 1, die bei der Einreise in die Schweiz keinen Test mit nega-
+tivem Ergebnis vorweisen können, müssen sich unverzüglich nach der Einreise und
+nach Absprache mit der zuständigen kantonalen Behörde auf eigene Kosten testen
+lassen:
+4
+818.101.27
+Covid-19-Verordnung
+Massnahmen im Bereich des internationalen Personenverkehrs
+a.	mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
+b.	mit einem Sars-CoV-2-Schnelltest.
+4	Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn
+sie sich auf eigene Kosten mit einer molekularbiologischen Analyse auf Sars-CoV-2
+oder mit einem Sars-CoV-2-Schnelltest testen lassen und das Resultat negativ aus-
+fällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen.8
+5	Personen, die nach Absatz 4 die Einreisequarantäne vorzeitig beenden, müssen bis
+zu dem Zeitpunkt, bis zu dem die Quarantäne nach Absatz 2 gedauert hätte, aus-
+serhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Ab-
+stand von mindestens 1,5 Metern zu anderen Personen einhalten.
+6	Ist die Person über einen Staat oder ein Gebiet ohne erhöhtes Ansteckungsrisiko
+eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in
+diesem Staat oder Gebiet an die Quarantäne nach Absatz 2 anrechnen.
+Art. 8 Ausnahmen von der Test- und Quarantänepflicht
+1	Von der Test- und Quarantänepflicht nach Artikel 7 ausgenommen sind Personen:
+a. deren Tätigkeit in der Schweiz zwingend notwendig ist für die Aufrechter-
+haltung:
+1.	der Funktionsfähigkeit des Gesundheitswesens,
+2.	der öffentlichen Sicherheit und Ordnung,
+3.	der Funktionsfähigkeit von institutionellen Begünstigten im Sinne von
+Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 20079,
+4.	der diplomatischen und konsularischen Beziehungen der Schweiz;
+b. die im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Personen
+oder Güter befördern;
+c.	die aus wichtigen beruflichen oder medizinischen Gründen und ohne Mög-
+lichkeit eines Aufschubs in die Schweiz einreisen;
+d.	die sich aus wichtigen beruflichen oder medizinischen Gründen und ohne
+Möglichkeit eines Aufschubs in einem Staat oder Gebiet mit erhöhtem An-
+steckungsrisiko aufgehalten haben und wieder in die Schweiz einreisen;
+e.	die sich als Transitpassagiere weniger als 24 Stunden in einem Staat oder
+Gebiet mit erhöhtem Ansteckungsrisiko aufgehalten haben;
+f.	die lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und
+der Möglichkeit, direkt in ein anderes Land weiterzureisen;
+8	Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), in Kraft seit 22. Febr. 2021 (AS 2021 94).
+9 SR 192.12
+5
+818.101.27
+Krankheitsbekämpfung
+g.	die nach der Teilnahme an einer Veranstaltung in einem Staat oder Gebiet
+mit erhöhtem Ansteckungsrisiko wieder in die Schweiz einreisen, wenn der
+Nachweis erbracht wird, dass die Teilnahme und der Aufenthalt unter Ein-
+haltung eines spezifischen Schutzkonzepts stattgefunden haben; als Teil-
+nahme an einer Veranstaltung gilt namentlich die in der Regel berufsmässige
+Teilnahme an einem Sportwettkampf oder Kulturanlass oder an einem Fach-
+kongress für Berufsleute;
+h.	die den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate
+vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als
+geheilt gelten.
+1bis Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
+a. Kinder unter 12 Jahren;
+b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie
+aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen
+Nasen-Rachen-Abstrich machen können.10
+2	Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Ab-
+satz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztli-
+chen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzufüh-
+ren sind.
+3	Bei Personen nach Absatz 1 Buchstabe a prüft der Arbeitgeber, ob die zwingende
+Notwendigkeit gegeben ist, und bescheinigt diese.
+4	Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen
+von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
+Art. 9 Meldepflicht
+Wer gemäss dieser Verordnung verpflichtet ist, sich in Einreisequarantäne zu bege-
+ben, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Be-
+hörde melden und die Anweisungen dieser Behörde befolgen.
+4a. Abschnitt:11 Besondere Pflichten der Luftverkehrsunternehmen
+Art. 9a
+1	Die Luftverkehrsunternehmen müssen die Passagiere informieren, dass diese sich
+vor dem Abflug auf Sars-CoV-2 testen lassen müssen und dass sie zum Flugzeug
+nur zugelassen werden, wenn sie ein negatives Testergebnis vorweisen können.
+10	Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), in Kraft seit 22. Febr. 2021 (AS 2021 94).
+11	Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines
+negativen Testergebnisses), in Kraft seit 22. Febr. 2021 (AS 2021 94).
+6
+818.101.27
+Covid-19-Verordnung
+Massnahmen im Bereich des internationalen Personenverkehrs
+2	Sie müssen vor dem Abflug überprüfen, ob ein negatives Testergebnis vorliegt, das
+auf einem Verfahren beruht, das dem Stand von Wissenschaft und Technik ent-
+spricht. Dabei gilt, dass die Probeentnahme für:
+a. eine molekularbiologische Analyse auf Sars-CoV-2 nicht vor mehr als
+72 Stunden durchgeführt wurde;
+b. einen immunologischen Sars-CoV-2-Schnelltest nicht vor mehr als 24 Stun-
+den durchgeführt wurde.
+3	Das Dokument mit dem Testergebnis muss folgende Angaben enthalten:
+a. Name, Vorname und Geburtsdatum der getesteten Person;
+b. Datum und Zeit der Probeentnahme;
+c.	die Art der Testung nach Absatz 2 Buchstabe a oder b;
+d.	das Testergebnis selber.
+4	Die Luftverkehrsunternehmen müssen Passagieren, die kein negatives Testergebnis
+nach Absatz 2 nachweisen können, den Zutritt zum Flugzeug verweigern.
+5	Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Tester-
+gebnisses befördern:
+a. Kinder unter zwölf Jahren;
+b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie
+aus medizinischen Gründen dringend in die Schweiz transportiert werden
+müssen;
+c.	Personen, die das Schweizer Bürgerrecht oder einen von der Schweiz ausge-
+stellten Aufenthaltstitel besitzen und keine Möglichkeit haben, sich innert
+nützlicher Frist oder mit vernünftigem Aufwand auf Sars-CoV-2 testen zu
+lassen; die fehlende Möglichkeit muss mit einer Selbstdeklaration bestätigt
+werden;
+d.	Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen,
+ohne diesen vor der Weiterreise zu verlassen;
+e.	Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie
+sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit
+Sars-CoV-2 angesteckt haben und dass sie als geheilt gelten;
+f.	Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie
+aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen
+Nasen-Rachen-Abstrich machen können.
+7
+818.101.27
+Krankheitsbekämpfung
+5.	Abschnitt:
+Kontrollen und Meldungen durch Grenzkontrollbehörden
+Art. 10
+1	Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder
+Gebieten mit erhöhtem Ansteckungsrisiko risikobasiert kontrollieren. Sie prüfen
+dabei:
+a. das Vorliegen eines negativen Testergebnisses gemäss Artikel 7 Absatz 1;
+b. die Erfassung der Kontaktdaten gemäss Artikel 3 Absatz 1.
+2	Kann die kontrollierte Person das negative Testergebnis oder die Erfassung der
+Kontaktdaten nicht nachweisen, so erstattet die Grenzkontrollbehörde der zuständi-
+gen kantonalen Behörde Meldung. Die Meldung umfasst Angaben zur eingereisten
+Person, zu Zeit und Ort der Kontrolle, zum angegebenen geplanten Aufenthaltsort in
+der Schweiz sowie das Kontrollergebnis.
+3	Die Grenzkontrollbehörden können Ordnungsbussen erheben.
+6.	Abschnitt: Schlussbestimmungen
+Art. 11	Aufhebung und Änderung anderer Erlasse
+1 Die Covid-19-Verordnung Massnahmen im Bereich des internationalen Personen-
+verkehrs vom 2. Juli 202012 wird aufgehoben.
+2 Die Änderung anderer Erlasse ist in Anhang 2 geregelt.
+Art. 12 Inkrafttreten
+Diese Verordnung tritt am 8. Februar 2021 in Kraft.
+12	[AS 2020 2737, 3549, 3699, 4513, 6399, 2021 43]
+8
+818.101.27
+Covid-19-Verordnung
+Massnahmen im Bereich des internationalen Personenverkehrs
+Anhang 113
+(Art. 2 Abs. 2)
+Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko14
+1.	Staaten und Gebiete
+Albanien
+Andorra
+Bahrain
+Brasilien
+Estland
+Irland
+Israel
+Kolumbien
+Lettland
+Libanon
+Litauen
+Malta
+Monaco
+Montenegro
+Königreich der Niederlande
+Panama
+Portugal
+San Marino
+Schweden
+Serbien
+Seychellen
+Slowakei
+Slowenien
+Spanien
+St. Lucia
+13	Fassung gemäss Ziff. I der V des EDI vom 10. Febr. 2021, in Kraft seit 22. Febr. 2021
+(AS 2021 89).
+14	Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete
+ein, auch wenn diese nicht separat aufgeführt sind.
+9
+818.101.27
+Krankheitsbekämpfung
+St. Vincent und die Grenadinen
+Südafrika
+Tschechien
+Vereinigte Arabische Emirate
+Vereinigtes Königreich
+Vereinigte Staaten von Amerika
+2.	Gebiete der Nachbarstaaten
+Gebiete in Deutschland:
+-	Land Brandenburg
+-	Land Sachsen-Anhalt
+-	Land Thüringen
+Gebiete in Frankreich:
+-	Region Centre-Val de Loire
+-	Region Hauts-de-France
+-	Region Île de France
+-	Region Normandie
+-	Region Nouvelle-Aquitaine
+-	Region Occitanie
+-	Region Pays de la Loire
+-	Region Provence-Alpes-Côte d'Azur
+Gebiete in Italien:
+-	Region Apulien
+-	Region Emilia Romagna
+-	Region Friaul / Julisch Venetien
+-	Region Marken
+-	Region Umbrien
+Gebiete in Österreich:
+-	Land Salzburg
+10
+818.101.27
+Covid-19-Verordnung
+Massnahmen im Bereich des internationalen Personenverkehrs
+Anhang 2
+(Art. 11 Abs. 2)
+Änderung anderer Erlasse
+Die nachstehenden Erlasse werden wie folgt geändert:
+...15
+15 Die Änderungen können unter AS 2021 61 konsultiert werden.
+11
+818.101.27
+Krankheitsbekämpfung
+12

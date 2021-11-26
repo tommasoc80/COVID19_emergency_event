@@ -1,0 +1,525 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 4  D. ĮSAKYMO NR. V-281 „DĖL SVEIKATOS PRIEŽIŪROS PASLAUGŲ DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) ORGANIZAVIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO 
+
+2020 m. lapkričio 27 d. Nr. V-2749
+Vilnius
+
+
+P a k e i č i u  Sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 4 d. įsakymu Nr. V-281 „Dėl Sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašo patvirtinimo“, ir jį išdėstau nauja redakcija (pridedama).
+
+
+
+Laikinai einantis sveikatos apsaugos ministro pareigas                                              Aurelijus Veryga 
+
+
+PATVIRTINTA
+Lietuvos Respublikos sveikatos apsaugos ministro 
+2020 m. kovo 4 d. įsakymu Nr. V-281
+(Lietuvos Respublikos sveikatos apsaugos ministro  2020 m. lapkričio 27 d. įsakymo Nr. V-2749 redakcija)
+
+SVEIKATOS PRIEŽIŪROS PASLAUGŲ DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) ORGANIZAVIMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. Sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašas (toliau – Aprašas) nustato asmens sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) (toliau – COVID-19) teikimo organizavimo koordinavimo ir organizavimo tvarką, pagrindines stacionarines paslaugas teikiančias asmens sveikatos priežiūros įstaigas (toliau – ASPĮ), paslaugų teikimą organizuojančias ASPĮ, jų veikimo teritoriją ir funkcijas. 
+2. Šiame Apraše vartojamos sąvokos:
+2.1. Paslaugų dėl COVID-19 organizavimas – veikla, skirta tinkamam paslaugų organizavimui ir pacientų, kuriems diagnozuota COVID-19 liga, pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM) žymima kodu U07.1 COVID-19 liga, virusas nustatytas (patvirtintas ligos atvejis), ir (arba) kuriems yra įtariama COVID-19 liga, pagal TLK-10-AM žymima kodu U07.2 COVID-19 liga, virusas nenustatytas, arba Z03.8 Stebėjimas dėl kitų įtariamų ligų ir būklių, arba Z20.8 Kontaktas su sergančiaisiais kitomis užkrečiamosiomis ligomis ir jų poveikis (nepatvirtintas ligos atvejis), srautų valdymui užtikrinti.
+2.2. Pagrindinė stacionarines asmens sveikatos priežiūros paslaugas teikianti ASPĮ (toliau  – pagrindinė ASPĮ) – stacionarines asmens sveikatos priežiūros paslaugas teikianti ASPĮ, kurioje yra infekcinėmis ligomis sergantiems pacientams gydyti skirtas padalinys.
+2.3. Paslaugų teikimą organizuojanti ASPĮ (toliau – paslaugų teikimą organizuojanti ASPĮ)  – tretinio lygio stacionarines asmens sveikatos priežiūros paslaugas teikianti ASPĮ, organizuojanti ir koordinuojanti paslaugų teikimą nustatytoje veikimo teritorijoje.
+3. Asmens sveikatos priežiūros paslaugos, suteiktos Aprašo 2.1 papunktyje nurodytais atvejais, prilyginamos būtinajai medicinos pagalbai.  
+
+II SKYRIUS
+PAGRINDINĖS ASPĮ, JŲ VEIKIMO TERITORIJA IR FUNKCIJOS
+
+4. Pagrindinės ASPĮ:
+4.1. VšĮ Vilniaus universiteto ligoninė Santaros klinikos;
+4.2. Lietuvos sveikatos mokslų universiteto Kauno ligoninė; 
+4.3. VšĮ Klaipėdos universitetinė ligoninė;
+4.4. VšĮ Respublikinė Šiaulių ligoninė;
+4.5. VšĮ Respublikinė Panevėžio ligoninė.
+5. Pagrindinės ASPĮ teikia paslaugas atitinkamo regiono pacientams.
+6. Pagrindinių ASPĮ funkcijos – diagnostikos ir gydymo paslaugų pacientams, kuriems įtariama ir (ar) diagnozuota COVID-19, teikimas Aprašo nustatyta tvarka.
+
+
+
+
+III SKYRIUS
+PASLAUGŲ TEIKIMO ORGANIZAVIMO KOORDINAVIMAS, PASLAUGŲ TEIKIMĄ ORGANIZUOJANČIOS ASPĮ, JŲ VEIKIMO TERITORIJA IR FUNKCIJOS
+
+7. Paslaugų teikimą organizuojančių ASPĮ paslaugų dėl COVID-19 teikimą koordinuoja valstybės lygio ekstremaliosios situacijos operacijų vadovo sprendimu paskirtas paslaugų teikimą organizuojančių ASPĮ veiklos koordinatorius (toliau – koordinatorius). Koordinatorius paslaugų dėl COVID-19 teikimą organizuoja bendradarbiaudamas su savivaldybių merais ir savivaldybių administracijų direktoriais. Koordinatoriaus protokoliniai nurodymai privalomi paslaugų teikimą organizuojančioms ASPĮ ir jų veikimo teritorijoje esančioms ASPĮ (išskyrus atvejus, kai įstatymai nustato kitaip). 
+8. Paslaugų teikimą organizuojančios ASPĮ:
+8.1. VšĮ Vilniaus universiteto ligoninė Santaros klinikos;
+8.2. Lietuvos sveikatos universiteto ligoninė Kauno klinikos;
+8.3. VšĮ Klaipėdos universitetinė ligoninė;
+8.4. VšĮ Respublikinė Šiaulių ligoninė;
+8.5. VšĮ Respublikinė Panevėžio ligoninė.
+9. Paslaugų teikimą organizuojančių ASPĮ veikimo teritorija ir ASPĮ, kuriose organizuojamas paslaugų teikimas, nurodytos lentelėje:
+
+Eil. Nr.
+Paslaugų teikimą organizuojanti ASPĮ  
+Veikimo teritorija ir ASPĮ, kuriose organizuojamas paslaugų teikimas
+1.
+Lietuvos sveikatos mokslų universiteto ligoninė Kauno klinikos
+
+1. Kauno apskritis:
+1.1. Lietuvos sveikatos mokslų universiteto Kauno ligoninė;
+1.2. VšĮ Kėdainių ligoninė;
+1.3. VšĮ Jonavos ligoninė;
+1.4. VšĮ Raseinių ligoninė;
+1.5. VšĮ Prienų ligoninė;
+1.6. VšĮ Kaišiadorių ligoninė.
+2. Marijampolės apskritis:
+2.1. VšĮ Marijampolės ligoninė;
+2.2. VšĮ Vilkaviškio ligoninė;
+2.3. VšĮ Šakių ligoninė.
+3. Tauragės apskritis:
+3.1. VšĮ Jurbarko ligoninė.
+2.
+VšĮ Vilniaus universiteto ligoninė Santaros klinikos
+
+1. Vilniaus apskritis:
+1.1. Nacionalinis vėžio institutas;
+1.2. VšĮ Vilniaus universiteto ligoninė Žalgirio klinika;
+1.3. VšĮ Vilniaus miesto klinikinė ligoninė;
+1.4. VšĮ Respublikinė Vilniaus universitetinė ligoninė; 
+1.5. VšĮ Respublikinė Vilniaus psichiatrijos ligoninė;
+1.6. VšĮ Vilniaus gimdymo namai;
+1.7. VšĮ M. Marcinkevičiaus ligoninė;
+1.8. VšĮ Vilniaus miesto psichikos sveikatos centras;
+1.9. Lietuvos Respublikos vidaus reikalų ministerijos Medicinos centras;
+1.10. VšĮ Ukmergės ligoninė;
+1.11. VšĮ Trakų ligoninė;
+1.12. VšĮ Švenčionių rajono ligoninė;
+1.13. VšĮ Šalčininkų rajono savivaldybės ligoninė;
+1.14. VšĮ Elektrėnų ligoninė.
+2. Alytaus apskritis:
+2.1. VšĮ Alytaus apskrities S. Kudirkos ligoninė;
+2.2. VšĮ Druskininkų ligoninė;
+2.3. VšĮ Varėnos ligoninė;
+2.4. VšĮ Lazdijų ligoninė.
+3.
+VšĮ Klaipėdos universitetinė ligoninė
+
+1. Klaipėdos apskritis: 
+1.1. VšĮ Klaipėdos vaikų ligoninė;
+1.2.	 VšĮ Respublikinė Klaipėdos ligoninė;
+1.3.	VšĮ Klaipėdos jūrininkų ligoninė;
+1.4.	VšĮ Šilutės ligoninė;
+1.5. Kretingos rajono savivaldybės VšĮ Kretingos ligoninė;
+1.6.	 Klaipėdos rajono savivaldybės VšĮ Gargždų ligoninė.
+2. Tauragės apskritis:
+2.1. VšĮ Tauragės ligoninė;
+2.2. VšĮ Šilalės rajono ligoninė.
+4.
+VšĮ Respublikinė Šiaulių ligoninė
+1. Šiaulių apskritis:
+1.1. VšĮ Kelmės ligoninė;
+1.2. VšĮ Radviliškio ligoninė;
+1.3. VšĮ Joniškio ligoninė;
+1.4. VšĮ Pakruojo ligoninė;
+1.5. VšĮ Naujosios Akmenės ligoninė.
+2. Telšių apskritis:
+2.1. VšĮ Mažeikių ligoninė;
+2.2.	VšĮ Regioninė Telšių ligoninė;
+2.3.	VšĮ Plungės rajono savivaldybės ligoninė.
+5.
+VšĮ Respublikinė Panevėžio ligoninė
+1. Panevėžio apskritis:
+1.1. VšĮ Rokiškio rajono ligoninė;
+1.2. VšĮ Pasvalio ligoninė;
+1.3. VšĮ Biržų ligoninė;
+1.4. VšĮ Kupiškio ligoninė;
+1.5. VšĮ Rokiškio psichiatrijos ligoninė.
+2. Utenos apskritis:
+2.1. VšĮ Utenos ligoninė;
+2.2. VšĮ Visagino ligoninė;
+2.3. VšĮ Anykščių rajono savivaldybės ligoninė;
+2.4. Zarasų rajono savivaldybės VšĮ Zarasų ligoninė;
+2.5. VšĮ Ignalinos rajono ligoninė;
+2.6. VšĮ Molėtų ligoninė.
+
+10. Paslaugų teikimą organizuojančios ASPĮ funkcijos:
+10.1. koordinatoriaus pavedimų vykdymas visais klausimais, susijusiais su sveikatos priežiūros paslaugų dėl COVID-19 teikimo organizavimu;
+10.2. suderinus su koordinatoriumi, paslaugų teikimo jos veikimo teritorijoje organizavimas ir koordinavimas ir suderintų nurodymų veikimo teritorijoje esančioms ASPĮ davimas;
+10.3. priimtų sprendimų įgyvendinimo stebėsena veikimo teritorijoje ir informacijos pateikimas koordinatoriui;
+10.4. veikimo teritorijoje esančių ASPĮ konsultavimas ir metodinis vadovavimas joms;
+10.5. pacientų srautų valdymas (nukreipimas, sprendimų dėl pacientų perkėlimo į veikimo teritorijoje esančias ASPĮ priėmimas ir kt.) veikimo teritorijoje, prireikus derinimas su koordinatoriumi; 
+10.6. suderinus su koordinatoriumi, klausimų, susijusių su personalo srautų valdymu, pasitelkimu, sprendimas;
+10.7. veikimo teritorijoje esančių palaikomojo gydymo ir slaugos ligoninių konsultavimas ir metodinis vadovavimas joms; 
+10.8. veikimo teritorijoje esančioje savivaldybėje paskelbus karantino režimą, kitų toje savivaldybėje esančių ir asmens sveikatos priežiūros paslaugas teikiančių įstaigų konsultavimas ir metodinis vadovavimas joms;
+10.9. pagal poreikį mobiliųjų sveikatos priežiūros specialistų brigadų asmens sveikatos priežiūros ir socialinės globos įstaigoms konsultuoti ir teikti paslaugas dėl COVID-19 pacientų sveikatos būklės organizavimas; 
+10.10. bendradarbiavimas su paslaugas teikiančiomis ASPĮ, kitomis įstaigomis, įmonėmis, organizacijomis, siekiant optimizuoti paslaugų koordinavimo ir organizavimo procesą, problemų identifikavimas ir jų sprendimas;
+10.11. iš valstybės rezervo gautų asmeninių apsaugos priemonių, diagnostikai ir gydymui reikalingų medicinos priemonių paskirstymo veikimo teritorijoje esančioms ASPĮ organizavimas;
+10.12. ne rečiau kaip kartą per savaitę pasitarimų su veikimo teritorijoje esančiomis ASPĮ,  dalyvaujant koordinatoriui ir Sveikatos apsaugos ministerijos atstovui, organizavimas;
+10.13. iš Sveikatos apsaugos ministerijos gautos informacijos sklaida ir informacijos teikimas Sveikatos apsaugos ministerijai; 
+10.14. su paslaugų teikimo organizavimu, teikimu, rezultatais susijusių ataskaitų formavimas ir teikimas informacijos koordinatoriui ir Sveikatos apsaugos ministerijai;
+10.15. kitų funkcijų, susijusių su paslaugų teikimo organizavimu, koordinavimu ir pacientų srautų valdymu, vykdymas. 
+
+IV SKYRIUS
+SVEIKATOS PRIEŽIŪROS PASLAUGŲ ORGANIZAVIMAS
+
+11. Paslaugų teikimą organizuojančioje ASPĮ jos vadovo įsakymu sudaroma komanda paslaugų teikimui paslaugų teikimą organizuojančios ASPĮ veikimo teritorijoje koordinuoti ir stebėti (toliau  – komanda).
+12. Komanda sudaroma iš ne mažiau kaip 5 paslaugų teikimą organizuojančios ASPĮ asmenų, tarp kurių privalo būti:
+12.1. administracijos atstovas;
+12.2. gydytojas anesteziologas-reanimatologas;
+12.3. infekcijų kontrolės specialistas ir (ar) gydytojas epidemiologas;
+12.4. vyriausiasis slaugos koordinatorius;
+12.5. informacijos sklaidą koordinuojantis asmuo. 
+13. Į komandą įtraukiamas greitosios medicinos pagalbos paslaugas teikiančios ASPĮ                   (toliau – GMP) atstovas, gali būti įtraukti ir kiti paslaugų teikimą organizuojančios ASPĮ ir kitų įstaigų atstovai.
+14. Komandos funkcijos:
+14.1. su koordinatoriumi parengti paslaugų teikimą organizuojančios ASPĮ veikimo teritorijos sveikatos priežiūros paslaugų teikimo COVID-19 sergantiems pacientams planą, kuris priklausomai nuo epidemiologinės situacijos operatyviai atnaujinamas; 
+14.2. koordinatoriaus nurodytais terminais teikti nustatytos struktūros ir formos informaciją apie paslaugų teikimą organizuojančios ASPĮ veikimo teritorijoje esančią situaciją, esant problemų – informuoti apie priemones, kurių imtasi joms spręsti, teikti siūlymus ir kt. koordinatoriui;
+14.3. suderinus su koordinatoriumi vykdyti kitus organizacinius veiksmus, susijusius su sveikatos priežiūros paslaugų paslaugų teikimą organizuojančios ASPĮ veikimo teritorijoje organizavimu, koordinavimu, informacijos sklaida ir kt. Jeigu organizacinių veiksmų, susijusių sveikatos priežiūros paslaugų paslaugų teikimą organizuojančios ASPĮ veikimo teritorijoje organizavimu, veiksmai dėl objektyvių priežasčių negali būti suderinti iš anksto, informacija apie atliktus veiksmus koordinatoriui pateikiama nedelsiant, kai tik tai galima padaryti.  
+15. Asmens sveikatos priežiūros paslaugų COVID-19 sergantiems pacientams teikimas ir lovų, skirtų COVID-19 pacientams gydyti plėtra organizuojama vadovaujantis Aprašo 1 priede nurodyta strategija.
+16. Mobiliosios sveikatos priežiūros specialistų brigados socialinės globos įstaigoms konsultuoti ir teikti paslaugas dėl COVID-19 pacientų sveikatos būklės organizuojamos tokia tvarka:
+16.1. esant protrūkiui socialinės globos įstaigoje, pirmiausiai paciento sveikatos būklę įvertina šeimos gydytojas, prie kurio yra prisirašęs socialinės globos įstaigos gyventojas, prireikus bendrosios praktikos slaugytojas ir (ar) kitas sveikatos priežiūros specialistas. Šeimos gydytojas, įtaręs, kad pacientą dėl sveikatos būklės būtina hospitalizuoti, telefonu konsultuojasi su arčiausiai socialinės globos įstaigos esančios stacionarinės ASPĮ (išskyrus pagrindinę ASPĮ), kurioje yra galimybė taikyti deguonies terapiją, atstovu ir (ar) kviečia šios stacionarinės ASPĮ mobiliąją sveikatos priežiūros specialistų brigadą, susidedančią iš terapinio profilio gydytojo specialisto ir bendrosios praktikos slaugytojo, konsultuoti dėl paciento sveikatos būklės ir stacionarinio gydymo poreikio. Jeigu pacientui reikalinga deguonies terapija, toliau gydyti jis pervežamas į artimiausią stacionarinę ASPĮ (išskyrus pagrindinę ASPĮ), kurioje yra galimybė taikyti deguonies terapiją. Jeigu nustatoma, kad pacientas serga kritiškai sunkia COVID-19 ligos forma, jis pervežamas gydyti į pagrindinę ASPĮ;
+16.2. kai dėl objektyvių priežasčių arčiausiai socialinės globos įstaigos esanti stacionarinė ASPĮ negali organizuoti mobiliosios sveikatos priežiūros specialistų brigados konsultuoti ir teikti paslaugas dėl COVID-19 pacientų sveikatos būklės (pvz., izoliacijoje yra sveikatos priežiūros specialistai ir kt.), mobiliąją sveikatos priežiūros specialistų brigadą organizuoja paslaugų teikimą organizuojanti ASPĮ Skubios konsultacinės sveikatos priežiūros pagalbos organizavimo ir apmokėjimo tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2008 m. spalio 23 d. įsakymu Nr. V-39 „Dėl Skubios konsultacinės sveikatos priežiūros pagalbos organizavimo ir apmokėjimo tvarkos aprašo patvirtinimo“ (toliau – įsakymas Nr. 39), nustatyta tvarka. 
+17. Mobiliosios sveikatos priežiūros specialistų brigados ASPĮ konsultuoti ir teikti paslaugas dėl COVID-19 pacientų sveikatos būklės organizuojamos tokia tvarka:
+17.1. esant protrūkiui ASPĮ, pirmiausiai paciento sveikatos būklę įvertina tos ASPĮ sveikatos priežiūros specialistas, įtaręs, kad pacientui dėl sveikatos būklės reikalinga deguonies terapija, jis telefonu konsultuojasi su arčiausiai ASPĮ esančios stacionarinės ASPĮ (išskyrus pagrindinę ASPĮ), kurioje yra galimybė taikyti deguonies terapiją, atstovu ir (ar) kviečia šios stacionarinės ASPĮ mobiliąją sveikatos priežiūros specialistų brigadą, susidedančią iš terapinio profilio gydytojo specialisto ir bendrosios praktikos slaugytojo, konsultuoti dėl paciento sveikatos būklės. Jeigu pacientui reikalinga deguonies terapija, toliau gydyti jis pervežamas į artimiausią stacionarinę ASPĮ (išskyrus pagrindinę ASPĮ), kurioje yra galimybė taikyti deguonies terapiją. Jeigu nustatoma, kad pacientas serga kritiškai sunkia COVID-19 ligos forma, jis pervežamas gydyti į pagrindinę ASPĮ;
+17.2. kai dėl objektyvių priežasčių arčiausiai ASPĮ esanti stacionarinė ASPĮ negali organizuoti mobiliosios sveikatos priežiūros specialistų brigados konsultuoti ir teikti paslaugas dėl COVID-19 pacientų sveikatos būklės (pvz., izoliacijoje yra sveikatos priežiūros specialistai ir kt.), mobiliąją sveikatos priežiūros specialistų brigadą organizuoja paslaugų teikimą organizuojanti ASPĮ įsakymo Nr. 39 nustatyta tvarka.
+18. ASPĮ, valdydama personalo srautus, organizuoja sveikatos priežiūros specialistų darbą, atsižvelgdama į saugių darbo vietų užtikrinimą, darbuotojų rizikos grupes. 
+19. ASPĮ, kuri teikia asmens sveikatos priežiūros paslaugos ne tik pacientams, kuriems diagnozuota COVID-19, suplanuoja ir atskiria zonas pacientams, kuriems diagnozuota COVID-19, ir pacientams, sergantiems kitomis ligomis. Dirbti šiose zonose sudaromos atskiros sveikatos priežiūros specialistų ir kito ASPĮ personalo komandos ir pamainos, kurios tarpusavyje nekontaktuoja.
+20. GMP paslaugos teikiant sveikatos priežiūros paslaugas dėl COVID-19 organizuojamos vadovaujantis Greitosios medicinos pagalbos paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 9 d. įsakymu Nr. V-314 „Dėl Greitosios medicinos pagalbos paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašo patvirtinimo“, bei kitais teisės aktais, reglamentuojančiais greitosios medicinos pagalbos paslaugų teikimą.
+21. Pagrindinių ASPĮ infekcinių ligų padaliniuose Aprašo 2.1 papunktyje nurodytiems pacientams paslaugas teikia atitinkamai infekcinių ligų gydytojas arba vaikų infekcinių ligų gydytojas,  arba vaikų ligų gydytojas, dirbdami kartu su kitais gydytojais specialistais ir bendrosios praktikos slaugytojais. Esant dideliam pacientų srautui, pasitelkiami kitų profesinių kvalifikacijų gydytojai, kurie pacientams teikia būtinąją medicinos pagalbą vadovaudamiesi Būtinosios medicinos pagalbos teikimo tvarkos ir masto aprašu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. balandžio 8 d. įsakymu Nr. V-208 „Dėl Būtinosios medicinos pagalbos teikimo tvarkos ir masto aprašo patvirtinimo“ (toliau  – įsakymas Nr. V-208), taip pat atlieka simptominį gydymą, stebi paciento bendrą sveikatos būklę, prireikus priima sprendimus dėl reikalingų asmens sveikatos priežiūros paslaugų, atlieka kitas funkcijas, nustatytas Lietuvos medicinos normoje                    MN 7:1995 „Medicinos gydytojas. Funkcijos, pareigos, teisės, kompetencija ir atsakomybė“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 1995 m. įsakymu Nr. 217 „Dėl Lietuvos medicinos normos MN 7:1995 „Medicinos gydytojas. Funkcijos, pareigos, teisės, kompetencija ir atsakomybė“ patvirtinimo“ (toliau – MN 7:1995) ir atitinkamoje sveikatos priežiūros specialisto medicinos normoje. Infekcinių ligų gydytojas, vaikų infekcinių ligų gydytojas ir vaikų ligų gydytojas turi teisę instruktuoti ir metodiškai vadovauti kitų profesinių kvalifikacijų gydytojams. Reanimacijos ir intensyviosios terapijos paslaugų suaugusiesiems ir (ar) vaikams teikimą organizuoja ir vykdo atitinkamai gydytojas anesteziologas reanimatologas ir vaikų intensyviosios terapijos gydytojas. 
+22. ASPĮ, kuriose nėra infekcinių ligų padalinio, paslaugas pacientams teikia gydytojai, kurie, vadovaudamiesi įsakymu Nr. V-208, teikia būtinąją medicinos pagalbą, taip pat atlieka simptominį gydymą, stebi paciento bendrą sveikatos būklę, prireikus priima sprendimus dėl reikalingų asmens sveikatos priežiūros paslaugų ir atlieka kitas funkcijas, nustatytas MN 7:1995 ir atitinkamoje sveikatos priežiūros specialisto medicinos normoje. ASPĮ, kuriose nėra infekcinių ligų padalinio, paslaugos pacientams teikiamos vadovaujantis pagrindinių ASPĮ infekcinių ligų gydytojų ar vaikų infekcinių ligų, ar vaikų ligų gydytojų ir paslaugų teikimą organizuojančių ASPĮ metodiniais nurodymais.
+23. Sveikatos priežiūros paslaugoms dėl COVID-19 teikti reikalingos asmeninės apsaugos priemonės (toliau – AAP), diagnostikai ir gydymui reikalingos medicinos priemonės naudojamos iš tos ASPĮ, kurioje pacientai gydomi, išteklių. ASPĮ turi imtis visų veiksmų, kad reikalingų priemonių kiekis būtų pakankamas. Prireikus komandos sprendimu medicinos įranga gali būti iš vienos ASPĮ perkeliama į kitą.
+24. Paslaugų teikimą organizuojanti ASPĮ iš valstybės ir kitų rezervų gautas AAP paskirsto veikimo teritorijoje esančioms ASPĮ. Dėl ASPĮ, kurioms paskirstomos AAP, prioritetinės eilės ir AAP kiekio sprendžia komanda, tai aptarusi su veikimo teritorijoje esančiomis ASPĮ ir vadovaudamasi Aprašo 25 punkte nurodytais kriterijais. Paslaugų teikimą organizuojanti ASPĮ ne vėliau kaip per vieną dieną nuo AAP gavimo perduoda ASPĮ ir ne vėliau kaip per vieną dieną nuo AAP perdavimo Sveikatos apsaugos ministerijai pateikia  ASPĮ, kurioms paskirstytos AAP, sąrašą, nurodydama, kokios AAP ir koks jų kiekis perduotas. 
+25. AAP paskirstymo kriterijai:
+25.1. bendras sveikatos priežiūros specialistų skaičius ASPĮ;
+25.2. nustatytų COVID-19 atvejų ir teiktų sveikatos priežiūros paslaugų dėl COVID-19 skaičius ASPĮ;
+25.3. užimtų lovų skaičius ASPĮ;
+25.4. turimas AAP likutis ASPĮ. 
+26. ASPĮ pildo formą Nr. 003/a „Gydymo stacionare ligos istorija“, nurodytą Lietuvos Respublikos sveikatos apsaugos ministro 1999 m. lapkričio 29 d. įsakyme  Nr. 515 „Dėl sveikatos priežiūros įstaigų veiklos apskaitos ir atskaitomybės tvarkos“, ir (ar) formą Nr. 025/a „Ambulatorinės asmens sveikatos istorija“, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2014 m. sausio 27 d. įsakymu Nr. V-120 „Dėl Privalomų sveikatos statistikos apskaitos ir kitų tipinių formų bei privalomų sveikatos statistikos ataskaitų formų patvirtinimo“, ir kitas formas pagal poreikį.
+
+V SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+27. Paslaugų teikimą organizuojančios ASPĮ ir Aprašo 8 punkte nurodytos ASPĮ, kuriose gydomi COVID-19 pacientai, ne rečiau kaip kartą per parą į Valstybės duomenų valdysenos informacinę sistemą teikia informaciją apie COVID-19 pacientams gydyti skirtų lovų skaičių ir jų užimtumą. 
+________________
+
+Sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašo 
+1 priedas
+
+ASMENS SVEIKATOS PRIEŽIŪROS PASLAUGŲ TEIKIMO IR COVID-19 LIGA (KORONAVIRUSO INFEKCIJA) SERGANČIŲ  PACIENTŲ GYDYMUI SKIRTŲ LOVŲ PLĖTROS STRATEGIJA
+
+	Asmens sveikatos priežiūros paslaugų teikimo ir COVID-19 liga (koronaviruso infekcija)    (toliau – COVID-19) sergančių pacientų gydymui skirtų lovų plėtra organizuojama vadovaujantis  šiais principais: 
+1. Neatidėliotinos asmens sveikatos priežiūros paslaugos, kurių nesuteikus jam atsirastų būtinosios medicinos pagalbos poreikis arba labai pablogėtų jo būklė, teikiamos pagal toje ASPĮ teikiamų asmens sveikatos priežiūros paslaugų profilius.
+	2. Specializuotas vieno profilio paslaugas teikiančios ASPĮ paslaugas teikia pagal teikiamų paslaugų profilį.
+3.	Pacientai sergantys COVID-19 liga (koronaviruso infekcija) gydomi pagrindinėse, paslaugų teikimą organizuojančiose ir kitose ASPĮ atsižvelgiant į ligos sunkumo formą:
+3.1.	pacientai, sergantys lengvos formos COVID-19, gydomi ambulatoriškai; 
+3.2.	pacientai, kuriems taikant deguonies terapiją kvėpavimo nepakankamumas yra kompensuotas arba taikoma deguonies terapija yra pakankama ir nereikalingi šio priedo 3.3 papunktyje nurodyti kvėpavimo nepakankamumo gydymo metodai, gydomi stacionarinėje ASPĮ, turinčioje lovų, aprūpintų deguonies tiekimo įranga. Pagrindinėse ASPĮ ir paslaugų teikimą organizuojančiose ASPĮ šie pacientai gydomi tik esant objektyvių priežasčių;
+3.3.	kritiškai sunkios formos pacientai, kuriems taikoma neinvazinė ventiliacija ir (ar) dirbtinė plaučių ventiliacija (toliau – DVP), ir (ar) reikalingos reanimacijos ir intensyviosios terapijos paslaugos, ir (ar) kuriems reikalinga ilgalaikė (2–3 sav.) DPV, gydomi pagrindinėse ASPĮ ir (ar) paslaugų teikimą organizuojančiose ASPĮ;
+3.4.	pasikeitus COVID-19 ligos sunkumo formai, pacientai išleidžiami gydytis ambulatoriškai arba pervežami į atitinkamą  ASPĮ, nurodytą Aprašo priedo 3.2–3.3 papunkčiuose.
+4.	Šio priedo 3.2 papunktyje nurodyta ASPĮ turi atitikti visus šiuos kriterijus: 
+4.1.	 yra ne mažiau kaip 25 lovos su deguonies tiekimo įranga;
+4.2.	yra ne mažiau kaip 5 lovos pacientams izoliuoti (kol laukiamas COVID-19 tyrimų atsakymas);
+4.3.	yra ne mažiau kaip 2 reanimacijos ir intensyvios terapijos lovos su DPV aparatais COVID-19 pacientams gydyti;
+4.4.	turi reikiamą personalą (gydytojus, slaugytojus, slaugytojų padėjėjus), kuris užtikrina Aprašo 4.1-4.3 papunkčiuose nurodytos infrastruktūros (lovų) tinkamą funkcionavimą.
+5.	Tais atvejais, kai pacientas dėl sveikatos būklės ar kitų objektyvių priežasčių negali būti perkeltas į 4 punkte nurodytą ASPĮ, jis perkeliamas į kitą ASPĮ, galinčią suteikti pacientui reikalingas sveikatos priežiūros paslaugas.
+6.	COVID-19 pacientams gydyti naudojama ASPĮ infrastruktūra, skirta planinėms paslaugoms teikti, atitinkamai mažinant planinių paslaugų apimtis.
+7.	Tais atvejais, kai ASPĮ yra gydomi 1–5 COVID-19 sergantys pacientai, siekiant koncentruoti asmens sveikatos priežiūros paslaugų teikimą ir racionaliai naudoti išteklius, jie perkeliami gydytis į kitą paslaugų teikimą organizuojančios ASPĮ nurodytą jos veikimo teritorijoje esančią ASPĮ, išskyrus atvejus, kai dėl objektyvių priežasčių perkelti pacientų neįmanoma arba netikslinga. 
+8.	Kai pacientą reikia pervežti iš vienos ASPĮ į kitą, jis pervežamas tos ASPĮ, kurioje pacientas tuo metu yra, transportu arba prireikus pasitelkiama GMP. 
+9.	Paslaugų teikimą organizuojančių ASPĮ parengtas ir su koordinatoriumi suderintas  COVID-19 pacientams gydyti skirtų lovų planas (toliau – lovų planas), nurodytas Aprašo 2 priede, persvarstomas ne rečiau kaip vieną kartą per savaitę ir, atsižvelgiant į prognozuojamą stacionare gydomų pacientų skaičių,  prireikus patikslinamas. Lovų planu privalo vadovautis Aprašo 8 punkte nurodytos ASPĮ.
+10.	Planuojant reanimacijos ir intensyvios terapijos lovų skaičiaus padidinimą, pirmiausia jų skaičius turėtų būti didinamas pagrindinėse ir (ar) paslaugų teikimą organizuojančiose ASPĮ (rekomenduojama 2/3 – 3/4 lovų su DPV aparatais) ir vienoje ar keliose arčiausiai jų esančiose kitose ASPĮ.  
+11.	Esant didesniam reanimacijos ir intensyvios terapijos lovų skaičiaus poreikiui, sprendžiama dėl laikinų ligoninių įrengimo pagal geografinį poreikį, atsižvelgiant į infrastruktūros ir  deguonies / suspausto oro tiekimo sistemų diegimo galimybes.
+__________
+
+Sveikatos priežiūros paslaugų dėl COVID-19 ligos (koronaviruso infekcijos) organizavimo tvarkos aprašo 
+2 priedas
+
+COVID-19 LIGA (KORONAVIRUSO INFEKCIJA) PACIENTAMS SKIRTŲ LOVŲ PLANAS
+
+Eil. Nr.
+Regionas ir asmens sveikatos priežiūros įstaigos
+Lovų su deguonies teikimu skaičius (ne mažiau kaip)
+Reanimacijos intensyvios terapijos ir (ar) lovų su DPV aparatais skaičius (ne mažiau kaip)
+Lovų be deguonies tiekimo skaičius 
+Lovų plėtra
+1. 
+Vilniaus regionas
+
+
+
+
+1.1.
+VšĮ Vilniaus universiteto ligoninė Santaros klinikos
+132
+50
+Pagal poreikį.
+Užimtumo vertinimas kasdien.
+Plėtra vykdoma atsisakant planinių paslaugų teikimo.
+
+1.2.
+VšĮ Vilniaus miesto klinikinė ligoninė
+190
+6
+
+
+1.3.
+VšĮ Ukmergės ligoninė 
+58
+7
+
+
+1.4.
+VšĮ Alytaus S. Kudirkos ligoninė
+70
+6
+
+
+1.5.
+VšĮ Respublikinė Vilniaus universitetinė ligoninė
+20
+4
+
+
+1.6.
+VšĮ Druskininkų ligoninė
+30
+-
+
+
+
+Iš viso regione
+500
+73
+
+
+2.
+Kauno regionas
+
+
+
+
+2.1.
+Lietuvos sveikatos mokslų universiteto Kauno ligoninė
+190
+16
+Pagal poreikį.
+Užimtumo vertinimas kasdien.
+Plėtra vykdoma atsisakant planinių paslaugų teikimo.
+
+2.2.
+Lietuvos sveikatos mokslų universiteto Kauno klinikos
+20
+20
+
+
+2.3.
+VšĮ Kėdainių ligoninė
+50
+2
+
+
+2.4.
+VšĮ Jonavos ligoninė
+25
+2
+
+
+2.5.
+VšĮ Prienų ligoninė
+25
+2
+
+
+2.6.
+VšĮ Marijampolės ligoninė
+50
+4
+
+
+2.7.
+VšĮ Jurbarko ligoninė
+30
+4
+
+
+
+Iš viso regione
+390
+50
+
+
+3.
+Klaipėdos regionas
+
+
+
+
+3.1.
+VšĮ Klaipėdos universitetinė ligoninė
+175
+15
+Pagal poreikį.
+Užimtumo vertinimas kasdien.
+Plėtra vykdoma atsisakant planinių paslaugų teikimo.
+
+3.2.
+VšĮ Respublikinė Klaipėdos ligoninė
+85
+8
+
+
+3.3.
+VšĮ Klaipėdos jūrininkų ligoninė
+55
+8
+
+
+3.4.
+VšĮ Klaipėdos vaikų ligoninė
+40
+6
+
+
+3.5.
+VšĮ Tauragės ligoninė
+80
+8
+
+
+3.6.
+VšĮ Šilutės ligoninė
+40
+6
+
+
+3.7.
+VšĮ Šilalės ligoninė
+40
+1
+
+
+3.8.
+VšĮ Kretingos ligoninė
+29
+2
+
+
+3.9.
+VšĮ Gargždų ligoninė
+12
+1
+
+
+
+Iš viso regione
+556
+55
+
+
+4.
+Šiaulių regionas
+
+
+
+
+4.1.
+VšĮ Respublikinė Šiaulių ligoninė
+106
+32
+Pagal poreikį.
+Užimtumo vertinimas kasdien.
+Plėtra vykdoma atsisakant planinių paslaugų teikimo.
+4.2.
+VšĮ Mažeikių ligoninė
+40
+3
+
+
+4.3.
+VšĮ Regioninė Telšių ligoninė
+25
+
+
+
+4.4.
+VšĮ Plungės ligoninė
+8
+
+
+
+4.5.
+VšĮ Radviliškio ligoninė
+9
+
+
+
+4.6.
+VšĮ Kelmės ligoninė
+10
+
+
+
+
+Iš viso regione
+198
+35
+
+
+5.
+Panevėžio regionas
+
+
+
+
+5.1.
+VšĮ Respublikinė Panevėžio ligoninė
+142
+14
+Pagal poreikį.
+Užimtumo vertinimas kasdien.
+Plėtra vykdoma atsisakant planinių paslaugų teikimo.
+
+5.2.
+VšĮ Utenos ligoninė
+25
+2
+
+
+5.3.
+VšĮ Rokiškio r. ligoninė
+8
+1
+
+
+5.4.
+VšĮ Molėtų ligoninė
+13
+4
+
+
+5.5.
+VšĮ Visagino ligoninė
+10
+-
+
+
+5.6.
+VšĮ Kupiškio ligoninė
+7
+1
+
+
+
+Iš viso regione
+205
+22
+
+
+
+Iš viso
+1 849
+235
+
+
+
+
+___________

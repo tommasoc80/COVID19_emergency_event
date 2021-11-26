@@ -1,0 +1,57 @@
+Anuncio de formalización de contratos de: Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia. Objeto: Servicio de apoyo al centro de mando y control COVID-19. Expediente: 202009PJ0008.
+2020
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia.
+          1.2) Número de identificación fiscal: 
+          S2827001E.
+          1.3) Dirección: 
+          Paseo del Prado, 18-20.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28014.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.11) Correo electrónico: 
+          sgadmfin@mscbs.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=Wsq6rCfTdDurz3GQd5r6SQ%3D%3D
+        
+      2. Lugar principal de prestación de los servicios:
+      ES300.
+      3. Descripción de la licitación:
+      Servicio de apoyo al centro de mando y control COVID-19 (CPV: 75130000).
+      4. Ofertas recibidas: 
+      
+        4.1) Número de ofertas recibidas: 
+          1.
+        
+      5. Adjudicatarios: 
+      
+        5.1) Nombre: 
+          Telefónica Soluciones de Informática y Comunicaciones de España S.A.U.
+          5.2) Número de identificación fiscal: 
+          A78053147.
+          5.3) Dirección: 
+          Ronda de la Comunicación s/n .
+          5.4) Localidad: 
+          Madrid .
+          5.6) Código postal: 
+          28050.
+          5.7) País: 
+          España.
+        
+      6. Valor de las ofertas: 
+      
+        6.1) Valor de la oferta seleccionada: 
+          436.800,00 euros.
+        
+    Madrid, 14 de octubre de 2020.- Directora General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia, Patricia Lacruz Gimeno.

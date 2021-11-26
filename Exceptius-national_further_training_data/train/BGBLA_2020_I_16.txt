@@ -1,0 +1,549 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2020	Ausgegeben am 21. März 2020	Teil I
+16. Bundesgesetz:	2. COVID-19-Gesetz
+	(NR: GP XXVII IA 397/A AB 112 S. 19. BR: AB 10288 S. 904.)
+16. Bundesgesetz, mit dem das Telekommunikationsgesetz 2003, das Bundesgesetz über besondere Förderungen von kleinen und mittleren Unternehmen (KMU-Förderungsgesetz), das Arbeitslosenversicherungsgesetz, das Arbeitsmarktpolitik-Finanzierungsgesetz, das Arbeitsmarktservicegesetz, das Arbeitsverfassungsgesetz, das Gleichbehandlungsgesetz, das Arbeitsvertragsrechts-Anpassungsgesetz, das Allgemeine bürgerliche Gesetzbuch, das Gebührengesetz 1957, das Tabaksteuergesetz 1995, die Bundesabgabenordnung, das Zivildienstgesetzes 1986, das Verwaltungsgerichtshofgesetz 1985, das Verfassungsgerichtshofgesetz 1953, das Bundes-Verfassungsgesetz, das Bauarbeiter-Urlaubs- und Abfertigungsgesetz, die Exekutionsordnung, die Insolvenzordnung, die Strafprozessordnung 1975, das Finanzstrafgesetz, das COVID-19-Maßnahmengesetz, das Zustellgesetz, das Künstler-Sozialversicherungsfondsgesetz, das Beamten-Dienstrechtsgesetz 1979, das Vertragsbedienstetengesetz 1948, das Heeresdisziplinargesetz 2014, das Epidemiegesetz 1950, das Ärztegesetz 1998, das Sanitätergesetz, das Gesundheits- und Krankenpflegegesetz, das MTD-Gesetz, das Bundesgesetz über Krankenanstalten und Kuranstalten, das Medizinproduktegesetz, das Apothekengesetz, das Gesundheitstelematikgesetz 2012, das Suchtmittelgesetz, das Allgemeine Sozialversicherungsgesetz und das Pflegefondsgesetz geändert sowie ein Bundesgesetz über die Festlegung von Fristen für Eignungs-, Aufnahme- und Auswahlverfahren an Universitäten, Pädagogischen Hochschulen, Einrichtungen zur Durchführung von Fachhochschul-Studiengängen, Fachhochschulen und Privatuniversitäten für das Studienjahr 2020/21, ein Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 im Verwaltungsverfahren, im Verfahren der Verwaltungsgerichte sowie im Verfahren des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes, ein Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz, ein Bundesgesetz betreffend besondere Maßnahmen im Gesellschaftsrecht aufgrund von COVID-19 (Gesellschaftsrechtliches COVID-19-Gesetz – COVID-19-GesG) und ein Bundesgesetz über die Errichtung eines Härtefallfonds (Härtefallfondsgesetz) erlassen werden (2. COVID-19-Gesetz)
+Der Nationalrat hat beschlossen:
+Artikel 1
+Änderung des Telekommunikationsgesetzes 2003
+Das Telekommunikationsgesetz 2003, BGBl. I Nr. 70/2003, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 111/2018, wird wie folgt geändert:
+1. Im Inhaltsverzeichnis wird nach dem Eintrag zu § 98 folgender Eintrag eingefügt:
+	„§ 98a	Öffentliches Warnsystem“
+2. Nach § 98 wird folgender § 98a samt Überschrift eingefügt:
+„Öffentliches Warnsystem
+§ 98a. (1) Die Bundesregierung oder ein gemäß Abs. 4 ermächtigtes Organ hat Anbieter von mobilen Kommunikationsdiensten zu verpflichten, Endnutzern über SMS öffentliche Warnungen vor drohenden oder sich ausbreitenden größeren Notfällen und Katastrophen oder damit im Zusammenhang stehende Aufrufe zu übermitteln. Solche öffentliche Warnungen sind nach Maßgabe des erteilten Auftrages bundesweit oder regional eingeschränkt zu übermitteln. Sofern dies mit der Verarbeitung von Stammdaten möglich ist, darf ein solcher Auftrag auch nur eine Auswahl bestimmter Personengruppen umfassen. Bei der Auferlegung der Verpflichtung ist auf die technischen Möglichkeiten der Anbieter Bedacht zu nehmen.
+(2) Öffentliche Warnungen nach Abs. 1 müssen von Endnutzern, einschließlich Roamingkunden, leicht empfangen werden können und haben für diese kostenlos zu sein, sofern dies wirtschaftlich und technisch zumutbar und mit den einschlägigen Datenschutzbestimmungen vereinbar ist.
+(3) Der Auftrag hat die Rechtsgrundlage für die Warnung sowie eine allfällige Delegation gemäß Abs. 4 zu benennen und bedarf keiner besonderen Form und ist vom Auftraggeber zu dokumentieren. Zur Durchführung des Auftrages darf der Betreiber die dafür erforderlichen Stamm- und Standortdaten verarbeiten, soweit dies ausschließlich für die zielgerichtete Information der betreffenden Nutzer im Sinne des Abs. 1 erforderlich ist. Folgt der Betreiber dem Auftrag nicht, hat die für den der Warnung zugrundeliegenden Anlassfall sachlich zuständige oberste Behörde diesen durch Bescheid zu erteilen.
+(4) Wenn die Art der in Abs. 1 genannten Notfälle oder Katastrophen es erfordert, kann die Bundesregierung auch ein anderes bundesstaatliches Organ zur Erteilung der Aufträge nach Abs. 1 ermächtigen.
+(5) Die Bundesregierung oder das gemäß Absatz 4 beauftrage Organ, hat unverzüglich die Rundfunk- und Telekom Regulierungs-GmbH zu informieren. Diese hat alle gemäß Absatz 1 erfolgten Warnungen, unmittelbar auf einer öffentlich zugänglichen Internetseite in Volltext inklusive Empfängerkreis zu veröffentlichen.“
+3. Nach § 109 Abs. 3 Z 17 wird folgende Z 17a eingefügt:
+	„17a.	entgegen § 98a Warnungen nicht oder nicht auftragsgemäß übermittelt;“
+4. Nach § 137 Abs. 13 wird folgender Abs. 14 angefügt:
+„(14) § 98a und § 109 Abs. 3 Z 17a treten am 16. März 2020 in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.“
+Artikel 2
+Änderung des Bundesgesetzes über besondere Förderungen von kleinen und mittleren Unternehmen (KMU-Förderungsgesetz)
+Das KMU-Förderungsgesetz, BGBl. Nr. 432/1996 zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 87/2017 idF BGBl. I Nr. 27/2019, wird wie folgt geändert:
+1. In § 1 Abs. 1 wird die Wortfolge „des Bundesministers für wirtschaftliche Angelegenheiten“ durch die Wortfolge „der Bundesministerin für Digitalisierung und Wirtschaftsstandort bzw. der Bundesministerin für Landwirtschaft, Regionen und Tourismus“ ersetzt.
+2. In § 3 Abs. 1 wird die Wortfolge „der Bundesminister für wirtschaftliche Angelegenheiten“ durch die Wortfolge „die jeweils zuständige Bundesministerin“ ersetzt.
+3. In § 5 Abs. 1 wird die Wortfolge „dem Bundesminister für Wissenschaft, Forschung und Wirtschaft zu, der“ durch die Wortfolge „der Bundesministerin für Digitalisierung und Wirtschaftsstandort – in Angelegenheiten der KMU der Tourismus- und Freizeitwirtschaft der Bundesministerin für Landwirtschaft, Regionen und Tourismus – zu, die“ ersetzt. Die Wortfolge „vom Bundesminister für Wissenschaft, Forschung und Wirtschaft“ wird durch die Wortfolge „von der jeweils zuständigen Bundesministerin“ ersetzt.
+4. Nach § 7 Abs. 2 wird folgender § 7 Abs. 2a eingefügt:
+„(2a) Als Maßnahme im Zusammenhang mit der Bewältigung der COVID-19 Krisensituation wird der Bundesminister für Finanzen in Abweichung von § 7 Abs. 2 für den Zeitraum von drei Monaten ermächtigt durch Verordnung das Gesamtobligo anzupassen. Dies hat im Falle der AWS im Einvernehmen mit der Bundesministerin für Wirtschaft und Digitalisierung und der Bundesministerin für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie und zu erfolgen; im Falle der ÖHT im Einvernehmen mit der Bundesministerin für Landwirtschaft, Regionen und Tourismus zu erfolgen.“
+5. § 7a entfällt.
+6. In § 10 Abs. 1 wird die Wortfolge „der Bundesminister für Wissenschaft, Forschung und Wirtschaft“ durch die Wortfolge „die Bundesministerin für Digitalisierung und Wirtschaftsstandort – in Angelegenheiten der KMU der Tourismus- und Freizeitwirtschaft die Bundesministerin für Landwirtschaft, Regionen und Tourismus –“ und die Wortfolge „dieser im Einvernehmen“ durch die Wortfolge „diese im Einvernehmen“ ersetzt.
+7. In § 10 Abs. 2 entfällt die Zitierung „§ 7a,“.
+8. Nach § 10 Abs. 11 wird folgender Abs. 12 angefügt:
+„(12) § 1 Abs. 1, § 3 Abs. 1, § 5 Abs. 1, § 7 Abs. 2a und § 10 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit dem der Kundmachung folgenden Tag in Kraft. § 7a tritt mit dem Ablauf des Tags der Kundmachung außer Kraft. Bestehende aufgrund des § 7a übernommene Bundeshaftungen bleiben unberührt.“
+Artikel 3
+Änderung des Arbeitslosenversicherungsgesetzes
+Das Arbeitslosenversicherungsgesetz 1977 (AlVG), BGBl. Nr. 609/1977, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 100/2018, wird wie folgt geändert:
+1. Dem § 82 wird folgender Abs. 5 angefügt:
+„(5) Unterbrechungen des Dienstverhältnisses von Beschäftigten, die sich in Altersteilzeit befinden, zwischen dem 15. März 2020 bis höchstens 30. September 2020 als Folge von Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (BGBl. I Nr. 12/2020) schaden der vereinbarten Altersteilzeit (Teilpension) der §§ 27, 27a nicht, wenn das Dienstverhältnis danach entsprechend der wiederauflebenden Altersteilzeitvereinbarung fortgesetzt wird. Entgegenstehende Bestimmungen der §§ 27, 27a bleiben unangewendet. Das Höchstausmaß der Altersteilzeit erhöht sich dadurch nicht.“
+2. Dem § 79 wird folgender Abs. 165 angefügt:
+„(165) § 82 Abs. 5 in der Fassung des BGBl. I Nr. 16/2020 tritt mit 15. März 2020 in Kraft.“
+Artikel 4
+Änderung des Arbeitsmarktpolitik-Finanzierungsgesetzes
+Das Arbeitsmarktpolitik-Finanzierungsgesetz (AMPFG), BGBl. Nr. 315/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 12/2020, wird wie folgt geändert:
+1. Dem § 10 wird folgender Abs. 72 angefügt:
+„(72) § 13 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit 20. März 2020 in Kraft.“
+2. § 13 Abs. 1 letzter Satz lautet:
+„Die Obergrenze beträgt im Jahr 2020 bis zu 400 Mio. €.“
+Artikel 5
+Änderung des Arbeitsmarktservicegesetzes
+Das Arbeitsmarktservicegesetz, BGBl. Nr. 313/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 12/2020, wird wie folgt geändert:
+1. § 37b Abs. 7 dritter Satz lautet:
+„Abweichend von Abs. 3 sind durch die Beihilfe auch die auf Grund der besonderen Beitragsgrundlage erhöhten Aufwendungen des Dienstgebers für die Beiträge zur Sozialversicherung abzugelten.“
+2. § 78 wird folgender Abs. 38 angefügt:
+„(38) § 37b Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt rückwirkend mit 1. März 2020 in Kraft und mit 31. Dezember 2020 außer Kraft.“
+3. § 79 wird folgender Abs. 3 angefügt:
+„(3) § 37b Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 12/2020 tritt rückwirkend mit 1. März 2020 außer Kraft.“
+Artikel 6
+Änderung des Arbeitsverfassungsgesetzes
+Das Arbeitsverfassungsgesetz, BGBl. Nr. 22/1974, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2017, wird wie folgt geändert:
+1. § 170 samt Überschrift lautet:
+„Bestimmungen in Zusammenhang mit COVID-19
+§ 170. (1) Die Tätigkeitsdauer von Organen der betrieblichen Interessenvertretung nach diesem Gesetz sowie der Behindertenvertrauenspersonen nach § 22a BEinstG, die im Zeitraum von 16. März 2020 bis 30. April 2020 endet, verlängert sich bis zur Konstituierung eines entsprechenden Organs der betrieblichen Interessenvertretung, das nach dem 30. April 2020 unter Einhaltung der dafür vorgesehenen Fristen gewählt worden ist.
+(2) Der Fortlauf einer am 16. März 2020 laufenden oder nach diesem Tag zu laufen beginnenden Frist nach §§ 105 Abs. 4 oder 107 wird bis 30. April 2020 gehemmt.
+(3) Betriebsvereinbarungen nach § 97 Abs. 1 Z 13 in Zusammenhang mit der Corona-Kurzarbeit können auch Regelungen zum Verbrauch des Urlaubs, ausgenommen Urlaub aus dem laufenden Urlaubsjahr, und von Zeitguthaben treffen.
+(4) Die Regelungen der Abs. 1 bis 3 gelten sinngemäß für Arbeitnehmer, die den Landarbeitsordnungen der Bundesländer und in Vorarlberg dem Land- und Forstarbeitsgesetz sowie dem Land- und Forstarbeiter-Dienstrechtsgesetz BGBl. Nr. 280/1980 unterliegen, die zum Zeitpunkt des Gesetzes in Kraft sind.“
+2. Dem § 264 wird folgender Abs. 33 angefügt:
+„(33) § 170 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. Dauert die COVID-19 Krisensituation über den 30. April 2020 hinaus an, so hat die Bundesministerin für Arbeit, Familie und Jugend durch Verordnung den in § 170 Abs. 1 und 2 festgesetzten Endtermin 30. April 2020 zu verlängern, nicht jedoch über den 31. Dezember 2020 hinaus.“
+Artikel 7
+Änderung des Gleichbehandlungsgesetzes
+Das Gleichbehandlungsgesetz, BGBl. I Nr. 66/2004, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 40/2017, wird wie folgt geändert:
+1. Nach § 59 wird folgender § 60 samt Überschrift eingefügt:
+„Bestimmungen in Zusammenhang mit COVID-19
+§ 60. Der Fortlauf einer am 16. März 2020 laufenden oder nach diesem Tag zu laufen beginnenden 14-tägigen Frist nach §§ 15 Abs. 1a oder 29 Abs. 1a wird bis 30. April 2020 gehemmt. Dies gilt sinngemäß auch für Arbeitnehmer, die den Landarbeitsordnungen der Bundesländer und in Vorarlberg dem Land- und Forstarbeitsgesetz sowie dem Land- und Forstarbeiter-Dienstrechtsgesetz BGBl. Nr. 280/1980 unterliegen, die zum Zeitpunkt des Gesetzes in Kraft sind.“
+2. Dem § 63 wird folgender Abs. 11 angefügt:
+„(11) § 60 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. Dauert die COVID-19 Krisensituation über den 30. April 2020 hinaus an, so hat die Bundesministerin für Arbeit, Familie und Jugend durch Verordnung den in § 60 festgesetzten Endtermin 30. April 2020 zu verlängern, nicht jedoch über den 31. Dezember 2020 hinaus.“
+Artikel 8
+Änderung des Arbeitsvertragsrechts-Anpassungsgesetzes
+Das Arbeitsvertragsrechts-Anpassungsgesetz, BGBl. Nr. 459/1993, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 12/2020, wird wie folgt geändert:
+1. Der bisherige § 18b erhält die Absatzbezeichnung „(1)“ und lautet wie folgt:
+„(1) Werden Einrichtungen auf Grund behördlicher Maßnahmen teilweise oder vollständig geschlossen und hat ein Arbeitnehmer, dessen Arbeitsleistung nicht für die Aufrechterhaltung des Betriebes erforderlich ist, keinen Anspruch auf Dienstfreistellung zur Betreuung seines Kindes, kann der Arbeitgeber dem Arbeitnehmer eine Sonderbetreuungszeit im Ausmaß von bis zu drei Wochen, ab dem Zeitpunkt der behördlichen Schließung von Lehranstalten und Kinderbetreuungseinrichtungen, für die Betreuung von Kindern bis zum vollendeten 14. Lebensjahr, für die eine Betreuungspflicht besteht, gewähren. Dasselbe gilt, wenn eine Betreuungspflicht für Menschen mit Behinderungen besteht, die in einer Einrichtung der Behindertenhilfe oder einer Lehranstalt für Menschen mit Behinderungen bzw. einer höher bildenden Schule betreut oder unterrichtet werden, und diese Einrichtung oder Lehranstalt bzw. höher bildende Schule auf Grund behördlicher Maßnahmen teilweise oder vollständig geschlossen wird. Arbeitgeber haben Anspruch auf Vergütung von einem Drittel des in der Sonderbetreuungszeit an die Arbeitnehmer gezahlten Entgelts durch den Bund. Der Anspruch auf Vergütung nach dem ersten Satz ist mit der monatlichen Höchstbeitragsgrundlage nach dem Allgemeinen Sozialversicherungsgesetz, BGBl. Nr. 189/1955, gedeckelt und binnen sechs Wochen vom Tage der Aufhebung der behördlichen Maßnahmen bei der Buchhaltungsagentur gelten zu machen. Die Regelung gilt auch für Arbeitnehmer, die den Landarbeitsordnungen der Bundesländer und in Vorarlberg dem Land- und Forstarbeitsgesetz sowie dem Land- und Forstarbeiter-Dienstrechtsgesetz BGBl. Nr. 280/1980 unterliegen, die zum Zeitpunkt des Inkrafttretens dieses Gesetzes in Kraft sind.“
+2. Nach § 18b Abs. 1 wird folgender Abs. 2 angefügt:
+„(2) Der Fortlauf von laufenden gesetzlichen, kollektivvertraglichen und vertraglichen Verjährungs- und Verfallfristen betreffend Ansprüche aus dem Arbeitsverhältnis, die am 16. März 2020 läuft oder nach diesem Tag zu laufen beginnt, wird bis 30. April 2020 gehemmt. Dies gilt auch für Arbeitnehmer, die den Landarbeitsordnungen der Bundesländer und in Vorarlberg dem Land- und Forstarbeitsgesetz sowie dem Land- und Forstarbeiter-Dienstrechtsgesetz BGBl. Nr. 280/1980 unterliegen, die zum Zeitpunkt des Gesetzes in Kraft sind.“
+3. Dem § 19 Abs. 1 wird folgende Z 44 angefügt:
+	„44.	§ 18b in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft. Dauert die COVID-19 Krisensituation über den 30. April 2020 hinaus an, so hat die Bundesministerin für Arbeit, Familie und Jugend durch Verordnung den in § 18b Abs. 2 festgesetzten Endtermin 30. April 2020 zu verlängern, nicht jedoch über den 31. Dezember 2020 hinaus.“
+Artikel 9
+Bundesgesetz über die Festlegung von Fristen für Eignungs-, Aufnahme- und Auswahlverfahren an Universitäten, Pädagogischen Hochschulen, Einrichtungen zur Durchführung von Fachhochschul-Studiengängen, Fachhochschulen und Privatuniversitäten für das Studienjahr 2020/21
+§ 1. (1) In Abweichung zu den Bestimmungen des Universitätsgesetzes 2002, BGBl. I Nr. 120/2002, des Hochschulgesetzes 2005, BGBl. I Nr. 30/2006, des Fachhochschul-Studiengesetzes, BGBl. Nr. 340/1993 und des Privatuniversitätengesetzes, BGBl. I Nr. 74/2011, kann der Bundesminister für Bildung, Wissenschaft und Forschung für Eignungs-, Aufnahme- und Auswahlverfahren gemäß Abs. 2 für das Studienjahr 2020/21 durch Verordnung nähere Regelungen, insbesondere betreffend die Festlegung einheitlicher Termine und Fristen, erlassen.
+(2) Dieses Bundesgesetz ist auf jene Eignungs-, Aufnahme- und Auswahlverfahren anzuwenden,
+	1.	die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes noch nicht abgeschlossen sind, oder
+	2.	mit deren Durchführung zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes noch nicht begonnen worden ist.
+§ 2. Dieses Bundesgesetz tritt mit dem Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft und tritt mit 31. Dezember 2021 außer Kraft.
+Artikel 10
+Änderung des Allgemeinen bürgerlichen Gesetzbuchs
+Das Allgemeine bürgerliche Gesetzbuch – ABGB, JGS Nr. 946/1811, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019, wird wie folgt geändert:
+1. In § 1155 werden an den Abs. 2 folgende Abs. 3 und Abs. 4 angefügt:
+„(3) Maßnahmen auf Grundlage des COVID-19-Maßnahmengesetzes, BGBl. Nr. 12/2020, die zum Verbot oder zu Einschränkungen des Betretens von Betrieben führen, gelten als Umstände im Sinne des Abs. 1. Arbeitnehmer, deren Dienstleistungen aufgrund solcher Maßnahmen nicht zustande kommen, sind verpflichtet, auf Verlangen des Arbeitgebers in dieser Zeit Urlaubs- und Zeitguthaben zu verbrauchen.
+(4) Für den Verbrauch gemäß Abs. 3 gilt:
+	1.	Urlaubsansprüche aus dem laufenden Urlaubsjahr müssen nur im Ausmaß von bis zu 2 Wochen verbraucht werden.
+	2.	Von der Verbrauchspflicht sind weiters ausgenommen solche Zeitguthaben, die auf der durch kollektive Rechtsquellen geregelten Umwandlung von Geldansprüchen beruhen.
+	3.	Insgesamt müssen nicht mehr als 8 Wochen an Urlaubs- und Zeitguthaben verbraucht werden.“
+2. In § 1503 wird folgender Abs. 14 angefügt:
+„(14) § 1155 Abs. 3 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020, treten rückwirkend mit dem 15. März 2020 in Kraft und mit 31. Dezember 2020 außer Kraft.“
+Artikel 11
+Änderung des Gebührengesetzes 1957
+Das Gebührengesetz, BGBl. Nr. 267/1957, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2019, wird wie folgt geändert:
+1. In § 35 wird folgender Abs. 8 angefügt:
+„(8) Schriften und Amtshandlungen, die mittelbar oder unmittelbar aufgrund der erforderlichen Maßnahmen im Zusammenhang mit der Bewältigung der COVID-19 Krisensituation erfolgen, sind von den Gebühren und Bundesverwaltungsabgaben befreit.“
+2. In § 37 wird nach Abs. 40 folgender Abs. 41 angefügt:
+„(41) § 35 Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020, tritt mit 1. März 2020 in Kraft und mit 31. Dezember 2020 außer Kraft.“
+Artikel 12
+Änderung des Tabaksteuergesetzes 1995
+Das Tabaksteuergesetz 1995, BGBl. Nr. 704/1994, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2019, wird wie folgt geändert:
+1. § 4 Abs. 1 Z 1 lautet:
+	„1.	für Zigaretten
+	a)	wenn die Tabaksteuerschuld nach dem 31. März 2018 und vor dem 1. Oktober 2020 entsteht, 37,5% des Kleinverkaufspreises (§ 5) und 58 Euro je 1 000 Stück;
+	b)	wenn die Tabaksteuerschuld nach dem 30. September 2020 und vor dem 1. April 2021 entsteht, 36% des Kleinverkaufspreises und 63 Euro je 1 000 Stück;
+	c)	wenn die Tabaksteuerschuld nach dem 31. März 2021 und vor dem 1. April 2022 entsteht, 34,5% des Kleinverkaufspreises und 68 Euro je 1 000 Stück;
+	d)	wenn die Tabaksteuerschuld nach dem 31. März 2022 entsteht, 33% des Kleinverkaufspreises und 73 Euro je 1 000 Stück;“
+2. § 4 Abs. 1 Z 3 lautet:
+	„3.	für Feinschnitt
+	a)	wenn die Tabaksteuerschuld nach dem 31. März 2018 und vor dem 1. Oktober 2020 entsteht, 56% des Kleinverkaufspreises, mindestens aber 110 Euro je Kilogramm;
+	b)	wenn die Tabaksteuerschuld nach dem 30. September 2020 und vor dem 1. April 2021 entsteht, 56% des Kleinverkaufspreises, mindestens aber 120 Euro je Kilogramm;
+	c)	wenn die Tabaksteuerschuld nach dem 31. März 2021 und vor dem 1. April 2022 entsteht, 56% des Kleinverkaufspreises, mindestens aber 130 Euro je Kilogramm;
+	d)	wenn die Tabaksteuerschuld nach dem 31. März 2022 entsteht, 56% des Kleinverkaufspreises, mindestens aber 140 Euro je Kilogramm;“
+3. § 4 Abs. 1 Z 5 lautet:
+	„5.	für Tabak zum Erhitzen
+	a)	wenn die Tabaksteuerschuld nach dem 31. März 2019 und vor dem 1. Oktober 2020 entsteht, 110 Euro je Kilogramm Tabak;
+	b)	wenn die Tabaksteuerschuld nach dem 30. September 2020 und vor dem 1. April 2021 entsteht, 123 Euro je Kilogramm Tabak;
+	c)	wenn die Tabaksteuerschuld nach dem 31. März 2021 und vor dem 1. April 2022 entsteht, 136 Euro je Kilogramm Tabak;
+	d)	wenn die Tabaksteuerschuld nach dem 31. März 2022 entsteht, 149 Euro je Kilogramm Tabak.“
+4. § 4 Abs. 3 lautet:
+„(3) Liegt die Tabaksteuerbelastung je 1 000 Stück Zigaretten einer Preisklasse unter 98% der gesamten Tabaksteuerbelastung der Zigaretten des gewichteten Durchschnittspreises (Abs. 4) oder unter 123 Euro je 1 000 Stück Zigaretten, so beträgt die Tabaksteuer für diese Preisklasse 98% der gesamten Tabaksteuerbelastung der Zigaretten des gewichteten Durchschnittspreises, mindestens jedoch 123 Euro je 1 000 Stück. Abs. 7 letzter Satz ist anzuwenden.“
+5. Mit 1. Oktober 2020 tritt in § 4 Abs. 3 an die Stelle des Betrags „123 Euro“ jeweils der Betrag „150 Euro“.
+6. Nach § 44s wird folgender § 44t eingefügt:
+„§ 44t. § 4 Abs. 1 Z 1, 3 und 5 und § 4 Abs. 3, jeweils in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020, treten mit 1. April 2020 in Kraft.“
+Artikel 13
+Änderung der Bundesabgabenordnung
+Die Bundesabgabenordnung, BGBl. Nr. 194/1961, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2019 und durch die Kundmachung BGBl. I Nr. 2/2020, wird wie folgt geändert:
+Nach § 323b werden folgende § 323c und § 323d samt Überschriften eingefügt:
+„Sonderregelungen aufgrund der Maßnahmen zur Bekämpfung von COVID-19
+§ 323c. (1) In anhängigen behördlichen Verfahren der Abgabenbehörden werden alle im ordentlichen Rechtsmittelverfahren (7. Abschnitt Unterabschnitt A) vorgesehenen Fristen, deren fristauslösendes Ereignis in die Zeit nach dem 16. März 2020 fällt, sowie Fristen, die bis zum 16. März noch nicht abgelaufen sind, bis zum Ablauf des 30. April 2020 unterbrochen. Sie beginnen mit 1. Mai 2020 neu zu laufen.
+(2) Die Abgabenbehörde kann jedoch im jeweiligen Verfahren aussprechen, dass eine Frist nicht für die in Abs. 1 festgelegte Dauer unterbrochen wird. Diesfalls hat sie gleichzeitig eine neue angemessene Frist festzusetzen.
+(3) Nach Abs. 2 ist nur vorzugehen, wenn nach sorgfältiger Abwägung aller Umstände die Fortsetzung des Verfahrens zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Partei dringend geboten ist und nicht das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie der Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes die Einzelinteressen überwiegen.
+(4) Wenn aufgrund von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, die Bewegungsfreiheit oder der zwischenmenschliche Kontakt eingeschränkt sind, sind mündliche Verhandlungen und Vernehmungen mit Ausnahme von audiovisuellen Vernehmungen nur durchzuführen, soweit dies zur Aufrechterhaltung einer geordneten Rechtspflege unbedingt erforderlich ist. Gleiches gilt für den mündlichen Verkehr zwischen den Behörden und den Beteiligten einschließlich der Entgegennahme mündlicher Anbringen sowie mit sonstigen Personen im Rahmen der Durchführung des Verfahrens. Ist die Durchführung einer Vernehmung oder einer mündlichen Verhandlung unbedingt erforderlich, so kann sie auch in Abwesenheit aller anderen Beteiligten unter Verwendung geeigneter technischer Kommunikationsmittel durchgeführt werden.
+(5) Der Bundesminister für Finanzen wird ermächtigt, durch Verordnung bis längstens 31. Dezember 2020
+	1.	die in Abs. 1 angeordnete allgemeine Unterbrechung von Fristen zu verlängern oder weitere allgemeine Ausnahmen von der Unterbrechung vorzusehen, soweit dies zur Verhütung und Bekämpfung der Verbreitung von COVID-19 erforderlich ist;
+	2.	weitere Bestimmungen vorzusehen, die den Einfluss der Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, auf den Lauf von Fristen und die Einhaltung von Terminen für anhängige oder noch anhängig zu machende ordentliche Rechtsmittelverfahren regeln. Er kann betreffend das ordentliche Rechtsmittelverfahren insbesondere die Unterbrechung, die Hemmung, die Verlängerung oder die Verkürzung von Fristen anordnen, Säumnisfolgen bei Nichteinhaltung von Terminen ausschließen sowie bestimmen, ob und auf welche Weise verfahrensrechtliche Rechtsnachteile, die durch die Versäumung von Fristen oder Terminen eintreten können, hintangehalten und bereits eingetretene wieder beseitigt werden. Dabei sind die Interessen an der Fortsetzung dieser Verfahren, insbesondere die Abwehr eines erheblichen und unwiederbringlichen Schadens von den Verfahrensparteien, einerseits und das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie am Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes andererseits gegeneinander abzuwägen.
+Unterbrechung von Verfahren
+§ 323d. Für Landes- und Gemeindeabgaben gilt Folgendes: Hört infolge des Auftretens und der Verbreitung von COVID-19 die Tätigkeit einer Behörde auf, hat die sachlich in Betracht kommende Oberbehörde auf Antrag eines Beteiligten eine andere sachlich zuständige Behörde desselben Landes zur Entscheidung der Sache zu bestimmen, wenn während der Unterbrechung gemäß § 323c Verfahrenshandlungen vorzunehmen sind, die zur Abwehr eines erheblichen und unwiederbringlichen Schadens eines Beteiligten dringend geboten sind.“
+Artikel 14
+Änderung des Zivildienstgesetzes 1986
+Das Zivildienstgesetz 1986-ZDG, BGBl. Nr. 679/1986, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 107/2018, wird wie folgt geändert:
+1. In § 4 Abs. 1 wird folgender Satz als Schlussteil angefügt:
+„Die Anzahl der gemäß § 21 Abs. 1 zugewiesenen außerordentlichen Zivildienstleistenden ist auf die Anzahl der in den Z 2 und 4 genannten Zivildienstplätze nicht anzurechnen.“
+2. § 8a Abs. 3 wird folgender Satz angefügt:
+„Abweichend von § 22 Abs. 1 Verwaltungsgerichtsverfahrensgesetz kann einer Beschwerde gegen eine solche Anweisung jedoch aufgrund zwingenden öffentlichen Interesses eine aufschiebende Wirkung nicht zuerkannt werden.“
+3. § 21 Abs. 1 wird folgender Satz angefügt:
+„Hinsichtlich der Zuweisung von Zivildienstleistenden an Rechtsträger sowie die Anweisung Zivildienstleistender durch Rechtsträger gilt § 8a sinngemäß.“
+4. § 21 werden folgende Absätze 5 bis 8 angefügt:
+„(5) Die Bundesministerin für Landwirtschaft, Regionen und Tourismus kann durch Verordnung für die Dauer des außerordentlichen Zivildienstes zur Sicherung der Aufrechterhaltung der kritischen Infrastruktur und der Daseinsvorsorge weitere Dienstleistungsgebiete bestimmen, in denen die Mitwirkung von Zivildienstleistenden vorgesehen werden kann.
+(6) Entgegen § 4 Abs. 2 Z 3 können auch sonstige juristische Personen, die auf Gewinn berechnet sind und ihre Geschäftsleitung oder ihren Sitz im Inland haben, anerkannt werden. Diese Anerkennung ist jedenfalls mit der Dauer des außerordentlichen Zivildienstes befristet. Solchermaßen anerkannte Rechtsträger haben dem Bund vollen Kostenersatz für den Einsatz der Zivildienstleistenden zu erstatten. Ein solcher Anerkennungsbescheid gilt als Bescheid im Sinne des § 57 Abs. 1 AVG.
+(7) Bescheide gemäß § 18 gelten für die Dauer des außerordentlichen Zivildienstes als Bescheide im Sinne des § 57 Abs. 1 AVG (unaufschiebbare Maßnahmen).
+(8) Die Dienstzeit-Verordnung für Zivildienstleistende-DZ-V, BGBl. Nr. 678/1988, gilt auch für den außerordentlichen Zivildienst.“
+4a. § 28 werden folgende Abs. 6 bis 11 angefügt:
+„(6) Für die Dauer des außerordentlichen Zivildienstes sind anstelle der in den Absätzen 1 bis 5 sowie der in § 8a und § 21 Abs. 4 festgelegten Regelungen die in den Absätzen 7 bis 11 festgelegten Regelungen anzuwenden.
+(7) Die Zivildienstserviceagentur kann sich für die administrative Abwicklung der Zuweisung von Zivildienstleistenden gemäß § 21 eines anerkannten Rechtsträgers oder, falls es besondere Umstände notwendig machen, auch mehrerer anerkannter Rechtsträger bedienen. Die Zivildienstserviceagentur hat Zivildienstleistende gemäß § 21 einem solchen anerkannten Rechtsträger zuzuweisen.
+(8) Ein mit der administrativen Abwicklung betrauter Rechtsträger, dem Zivildienstleistende gemäß § 21 zugewiesen worden sind, hat den Bedarf für eine weitere Zuweisung zu erheben und entsprechend dem gemeldeten Bedarf Zivildienstleistende an andere anerkannte Rechtsträger zuzuweisen, um deren Bedarf zu decken. Die weitere Dienstleistung bei einer Einrichtung des mit der administrativen Abwicklung betrauten Rechtsträgers ist zulässig.
+(9) Mit der Zuweisung an einen anderen anerkannten Rechtsträger, der zugewiesene Zivildienstleistende gemäß § 21 nur in eigenen anerkannten Einrichtungen zur Dienstleistung heranziehen darf, gehen alle Pflichten und Rechte betreffend die Zivildienstleistenden gemäß § 21 auf den anderen anerkannten Rechtsträger über.
+(10) Die Zivildienstserviceagentur hat dem Zivildienstleistenden gemäß § 21 die Pauschalvergütung gemäß § 25a (bestehend aus der Grundvergütung sowie dem Zuschlag zur Grundvergütung) sowie die Entschädigung oder Fortzahlung der Dienstbezüge gemäß § 34b Abs. 1 auszuzahlen.
+(11) Die Beiträge für Kranken- und Unfallversicherung im Umfang der nach dem Allgemeinen Sozialversicherungsgesetz-ASVG, BGBl. Nr. 189/1955, vorgesehenen Leistungen sind von dem mit der administrativen Abwicklung betrauten Rechtsträger zu entrichten. Der mit der administrativen Abwicklung betraute Rechtsträger gilt diesbezüglich als Dienstgeber im Sinne des § 33 ASVG und hat die An- und Abmeldungen der Zivildienstleistenden gemäß § 21 vorzunehmen.“
+5. § 34b Abs. 2 lautet:
+„(2) Auf die Entschädigung und die Fortzahlung der Dienstbezüge sind die Bestimmung des 6. Hauptstückes des HGG 2001 sowie dessen §§ 50, 51 Abs. 1, 54 Abs. 1 bis 5 und 55 anzuwenden. Dabei tritt an die Stelle der in § 44 Abs. 2 Z 1 HGG 2001 genannten militärischen Dienststelle die Zivildienstserviceagentur.“
+6. Nach § 76 wird folgender § 76a angefügt:
+„§ 76a. § 4 Abs. 1, § 8a Abs. 3, § 21 Abs. 1 letzter Satz und die Abs. 5 bis 8, § 28 Abs. 6 bis 11 und § 34b Abs. 2 in der Fassung BGBl. I Nr. 16/2020 treten mit dem der Kundmachung folgenden Tag in Kraft und mit 31.12.2020 außer Kraft.“
+Artikel 15
+Bundesgesetz über die Errichtung eines Härtefallfonds (Härtefallfondsgesetz)
+Härtefallfonds
+§ 1. (1) Gegenstand des Förderungsprogrammes des Bundes zum Härtefallfonds ist die Schaffung eines Sicherheitsnetzes für Härtefälle bei Ein-Personen-Unternehmen (EPU), freien Dienstnehmern nach §4 Abs. 4 ASVG, Non-Profit-Organisation (NPO) nach §§ 34 bis 47 Bundesabgabenordnung (BAO) sowie Kleinstunternehmen laut Empfehlung 2003/361/EG vom 6. Mai 2003, Amtsblatt Nr. L 124 vom 20/05/2003 S. 0036 - 0041, die durch die rechtlichen und wirtschaftlichen Folgen von COVID-19 verursacht wurden. Die Förderung wird in Form eines Zuschusses gewährt.
+(2) Die Wirtschaftskammer Österreich wickelt das Förderungsprogramm des Bundes zum Härtefallfonds im übertragenen Wirkungsbereich in Bindung an die Weisungen des Vizekanzlers (§ 1), der Bundesministerin für Digitalisierung und Wirtschaftsstandort (§ 1 -3) und der Bundesministerin für Landwirtschaft, Regionen und Tourismus (§ 1 -3) und des Bundesministers für Finanzen (§§ 1 bis 5) ab. Bei widerstreitenden Weisungen ist Einvernehmen herzustellen.
+(3) Die liquiden Mittel werden der Wirtschaftskammer Österreich vor Auszahlung der Förderbeiträge zur Verfügung gestellt. Hierfür werden aus dem COVID-19 Krisenbewältigungsfond maximal eine Milliarde Euro zur Verfügung gestellt.
+(4) Der Bundesminister für Finanzen hat im Einvernehmen mit dem Vizekanzler und der Bundesministerin für Digitalisierung und Wirtschaftsstandort eine Richtlinie für die Abwicklung des Härtefallfonds auf Basis des Bundesgesetzes über besondere Förderungen von kleinen und mittleren Unternehmen (KMU-Förderungsgesetz), zuletzt geändert durch BGBl. I Nr. 87/2017 idF BGBl. I Nr. 27/2019, zu erlassen. In gleicher Weise hat der Bundesminister für Finanzen im Einvernehmen mit dem Vizekanzler und der Bundesministerin für Landwirtschaft, Regionen und Tourismus eine Richtlinie für die Abwicklung des Härtefallfonds für Einkommensausfälle bei land- und forstwirtschaftliche Betrieben zu erlassen. Die Richtlinie hat insbesondere folgende Punkte zu enthalten:
+	1.	Rechtsgrundlagen, Ziele,
+	2.	den Gegenstand der Förderung,
+	3.	Berechnung der Förderhöhe,
+	4.	die persönlichen und sachlichen Voraussetzungen für das Erlangen einer Förderung,
+	5.	das Ausmaß und die Art der Förderung,
+	6.	das Verfahren,
+	a)	Ansuchen (Art, Inhalt und Ausstattung der Unterlagen),
+	b)	Entscheidung,
+	c)	Auszahlungsmodus,
+	d)	Berichtslegung (Kontrollrechte),
+	e)	Einstellung und Rückforderung der Förderung,
+	7.	Geltungsdauer,
+	8.	Evaluierung.
+(5) Der Bundesminister für Finanzen hat dem Budgetausschuss des Nationalrats quartalsweise einen Bericht, in dem sämtliche Maßnahmen, die nach diesem Gesetz ergriffen wurden, detailliert dargestellt sind, vorzulegen. Der Bericht hat insbesondere die finanziellen Auswirkungen der gesetzten Maßnahmen auszuweisen.
+Datenübermittlung zur Abwicklung der Härtefallfonds-Förderung
+§ 2. Die Wirtschaftskammer Österreich hat dem Bundesminister für Finanzen und der Bundesministerin für Digitalisierung und Wirtschaftsstandort nach Abschluss eines Härtefallfonds-Förderungsvertrages die Unternehmensregister-Kennziffer (KUR) oder Steuernummer, den Firmenwortlaut des antragsstellenden Unternehmens, das Datum des Schreibens, mit dem der Fördervertrag zwischen der Wirtschaftskammer mit dem zu fördernden Unternehmen durch die Genehmigung der Hilfe zustande kommt und die Höhe und das Datum des Zuschusses, zu übermitteln.
+§ 2a. Die Wirtschaftskammer Österreich hat dem Bundesminister für Finanzen und der Bundesministerin für Landwirtschaft, Regionen und Tourismus nach Abschluss eines Härtefallfonds-Förderungsvertrages die LFBIS-Nummer oder Steuernummer, Name und Anschrift des Betriebsinhabers, das Datum des Schreibens, mit dem der Fördervertrag zwischen der Wirtschaftskammer Österreich mit dem zu fördernden Unternehmen durch die Genehmigung der Hilfe zustande kommt und die Höhe und das Datum des Zuschusses, zu übermitteln.
+Datenübermittlung zur Prüfung der Härtefallfonds-Förderung
+§ 3. (1) Der Bundesminister für Finanzen und die Sozialversicherung der Selbstständigen hat der Wirtschaftskammer Österreich – unter Beachtung der datenschutzrechtlichen Regelungen – auf ihre Anfrage unter Verwendung einer elektronischen Schnittstelle soweit verfügbar Daten zu übermitteln, die für die Ermittlung des Ausmaßes des Zuschusses notwendig sind.
+(2) Die Bundesministerin für Digitalisierung und Wirtschaftsstandort hat den Wirtschaftskammern die Nutzung der Authentifizierung des Unternehmensserviceportals zu ermöglichen.
+(3) Auf die Daten ist von der Wirtschaftskammer Österreich § 48a BAO sinngemäß anzuwenden. Nicht mehr erforderliche Daten sind zu löschen, sofern diese nicht
+	1.	im Hinblick auf eine Gebarungsprüfung des Rechnungshofes für die Entsprechung einer Auskunftspflicht gemäß §§ 3 und 4 des Rechnungshofgesetzes 1948 RHG, BGBl. Nr. 144/1948 oder
+	2.	im Zusammenhang mit anhängigen Gerichts- oder Verwaltungsverfahren für die Beweisführung von Bedeutung sind.
+Daten gemäß Z 1 sind für die Dauer von sieben Jahren aufzubewahren, Daten gemäß Z 2 solange, als sie für die genannten Verfahren erforderlich sind.
+Einrichtung der Datenübermittlungen
+§ 4. Der Bundesminister für Finanzen und die Sozialversicherung der Selbstständigen haben die technischen Voraussetzungen für die Datenübermittlungen nach den §§ 2 und 3 bis längstens 31.03.2020 zu schaffen.
+§ 5. Die Übermittlung und Verarbeitung der Daten gemäß den §§ 2 und 3 ist nur insoweit zulässig, soweit sie zum Zweck der Prüfung der Richtigkeit der Angaben der Förderungswerber im Rahmen des Härtefonds verhältnismäßig und unbedingt notwendig ist.
+Inkrafttreten
+§ 6. Dieses Bundesgesetz tritt mit dem der Kundmachung folgenden Tag in Kraft und mit 31.12.2022 außer Kraft.
+Vollziehung
+§ 7. Mit der Vollziehung hinsichtlich des § 1 ist der Bundesminister für Finanzen im Einvernehmen mit dem Vizekanzler und der Bundesministerin für Digitalisierung und Wirtschaftsstandort sowie der Bundesministerin für Landwirtschaft, Regionen und Tourismus, hinsichtlich des § 2 der Bundesminister für Finanzen im Einvernehmen mit der Bundesministerin für Digitalisierung und Wirtschaftsstandort, hinsichtlich des § 2a der Bundesminister für Finanzen im Einvernehmen mit der Bundesministerin für Landwirtschaft, Regionen und Tourismus, hinsichtlich des § 3 Abs. 2, die Bundesministerin für Digitalisierung und Wirtschaftsstandort und im Übrigen der Bundesminister für Finanzen betraut.
+Artikel 16
+Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 im Verwaltungsverfahren, im Verfahren der Verwaltungsgerichte sowie im Verfahren des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes
+Unterbrechung von Fristen
+§ 1. (1) In anhängigen behördlichen Verfahren der Verwaltungsbehörden, auf die die Verwaltungsverfahrensgesetze (Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG, BGBl. Nr. 51/1991, Verwaltungsstrafgesetz 1991 – VStG, BGBl. Nr. 52/1991, und Verwaltungsvollstreckungsgesetz 1991 – VVG, BGBl. Nr. 53/1991) anzuwenden sind, werden alle Fristen, deren fristauslösendes Ereignis in die Zeit nach Inkrafttreten dieses Bundesgesetzes fällt, sowie Fristen, die bis zum Inkrafttreten dieses Bundesgesetzes noch nicht abgelaufen sind, bis zum Ablauf des 30. April 2020 unterbrochen. Sie beginnen mit 1. Mai 2020 neu zu laufen. Dies gilt auch für Verjährungsfristen, jedoch nicht für verfassungsgesetzlich festgelegte Höchstfristen und für Fristen nach dem Epidemiegesetz 1950, BGBl. Nr. 186/1950.
+(2) Die Behörde (Art. II Abs. 1 des Einführungsgesetzes zu den Verwaltungsverfahrensgesetzen 2008 – EGVG, BGBl. I Nr. 87/2008) kann jedoch im jeweiligen Verfahren aussprechen, dass eine Frist nicht für die in Abs. 1 festgelegte Dauer unterbrochen wird. Diesfalls hat sie gleichzeitig eine neue angemessene Frist festzusetzen.
+(3) Nach Abs. 2 ist nur vorzugehen, wenn nach sorgfältiger Abwägung aller Umstände die Fortsetzung des Verfahrens zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Partei (§ 8 AVG) dringend geboten ist und nicht das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie der Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes die Einzelinteressen überwiegen.
+Verlängerung von Fristen für die Stellung eines verfahrenseinleitenden Antrages
+§ 2. Die Zeit vom Inkrafttreten dieses Bundesgesetzes bis zum Ablauf des 30. April 2020 wird in die Zeit, in der ein verfahrenseinleitender Antrag (§ 13 Abs. 8 AVG) zu stellen ist, nicht eingerechnet.
+Mündliche Verhandlungen, Vernehmungen und dergleichen, mündlicher Verkehr zwischen Behörden und Beteiligten
+§ 3. Wenn aufgrund von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, die Bewegungsfreiheit oder der zwischenmenschliche Kontakt eingeschränkt ist, sind mündliche Verhandlungen (§§ 40 bis 44 AVG; §§ 43 und 44 VStG), Vernehmungen (§§ 48 bis 51 AVG; § 24 VStG iVm. §§ 48 bis 51 AVG, § 33 VStG) mit Ausnahme von audiovisuellen Vernehmungen (§ 51a AVG; § 24 VStG iVm. § 51a AVG) und dergleichen nur durchzuführen, soweit dies zur Aufrechterhaltung einer geordneten Verwaltungsrechtspflege unbedingt erforderlich ist. Gleiches gilt für den mündlichen Verkehr zwischen den Behörden und den Beteiligten einschließlich der Entgegennahme mündlicher Anbringen sowie mit sonstigen Personen im Rahmen der Durchführung des Verfahrens. Ist die Durchführung einer Vernehmung oder einer mündlichen Verhandlung unbedingt erforderlich, so kann sie auch in Abwesenheit aller anderen Beteiligten unter Verwendung geeigneter technischer Kommunikationsmittel durchgeführt werden.
+Unterbrechung von Verfahren
+§ 4. (1) Hört infolge des Auftretens und der Verbreitung von COVID-19 die Tätigkeit einer Behörde auf, so hat die sachlich in Betracht kommende Oberbehörde dies bekanntzumachen.
+(2) Die sachlich in Betracht kommende Oberbehörde hat auf Antrag eines Beteiligten eine andere sachlich zuständige Behörde desselben Landes zur Entscheidung der Sache zu bestimmen, wenn während der Unterbrechung Verfahrenshandlungen vorzunehmen sind, die zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder Abwehr eines erheblichen und unwiederbringlichen Schadens eines Beteiligten dringend geboten sind.
+Verordnungsermächtigung
+§ 5. Der Bundeskanzler wird ermächtigt, durch Verordnung die in § 1 Abs. 1 angeordnete allgemeine Unterbrechung von Fristen zu verlängern, zu verkürzen oder weitere allgemeine Ausnahmen von der Unterbrechung vorzusehen, soweit dies zur Verhütung und Bekämpfung der Verbreitung von COVID-19 erforderlich ist. Er kann insoweit auch die in § 2 festgelegten Fristen verlängern oder verkürzen und weitere Bestimmungen vorsehen, die den Einfluss der Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, auf den Lauf von Fristen und die Einhaltung von Terminen für anhängige oder noch anhängig zu machende Verfahren regeln. Er kann insbesondere die Unterbrechung, die Hemmung, die Verlängerung oder die Verkürzung von Fristen anordnen, Säumnisfolgen bei Nichteinhaltung von Terminen ausschließen sowie bestimmen, ob und auf welche Weise verfahrensrechtliche Rechtsnachteile, die durch die Versäumung von Fristen oder Terminen eintreten können, hintangehalten und bereits eingetretene wieder beseitigt werden. Dabei sind die Interessen an der Fortsetzung dieser Verfahren, insbesondere der Schutz vor Gefahren für Leib und Leben, Sicherheit und Freiheit der Verfahrensparteien oder die Abwehr eines erheblichen und unwiederbringlichen Schadens von diesen, einerseits und das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie am Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes andererseits gegeneinander abzuwägen.
+Verfahren der Verwaltungsgerichte sowie Verfahren des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes
+§ 6. (1) (Verfassungsbestimmung) Auf das Verfahren der Verwaltungsgerichte sind die §§ 1 bis 5 dann sinngemäß anzuwenden, wenn auf das jeweilige Verfahren zumindest auch das AVG anzuwenden ist. Im Fall des § 4 Abs. 2 hat der Verwaltungsgerichtshof ein anderes sachlich zuständiges Verwaltungsgericht, in Ermangelung eines solchen ein anderes Verwaltungsgericht zu bestimmen.
+(2) Auf das Verfahren des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes sind die §§ 1 bis 3 und 5 sinngemäß anzuwenden.
+Verweisungen
+§ 7. Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+Vollziehung
+§ 8. (1) Mit der Vollziehung dieses Bundesgesetzes mit Ausnahme des § 6 Abs. 1 ist der Bundeskanzler betraut.
+(2) (Verfassungsbestimmung) Mit der Vollziehung des § 6 Abs. 1 ist der Bundeskanzler betraut.
+Inkrafttreten und Außerkrafttreten
+§ 9. (1) Dieses Bundesgesetz mit Ausnahme des § 6 Abs. 1 tritt mit Ablauf des Tages seiner Kundmachung in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.
+(2) (Verfassungsbestimmung) § 6 Abs. 1 tritt mit Ablauf des Tages der Kundmachung dieses Bundesgesetzes in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.
+Artikel 17
+Änderung des Verwaltungsgerichtshofgesetzes 1985
+Das Verwaltungsgerichtshofgesetz 1985, BGBl. Nr. 10/1985, zuletzt geändert durch das Finanz-Organisationsreformgesetz, BGBl. I Nr. 104/2019, wird wie folgt geändert:
+1. In § 10 werden nach Abs. 1 folgende Abs. 1a bis 1d eingefügt:
+„(1a) Der Präsident/Die Präsidentin kann abweichend von § 15 die Beratung und Beschlussfassung der Vollversammlung durch Einholung einer Erklärung der Mitglieder im Umlaufweg ersetzen.
+(1b) Betrifft der Beschluss im Umlaufweg die Geschäftsverteilung, die Geschäftsordnung oder den Tätigkeitsbericht, so hat der Präsident/die Präsidentin als Grundlage einen Beschlussentwurf an die Mitglieder der Vollversammlung zu übermitteln.
+(1c) Betrifft der Beschluss im Umlaufweg Dreiervorschläge für die Ernennung von Mitgliedern, so hat der Präsident/die Präsidentin den Bericht der zur Vorbereitung der Beratung bestellten Berichter/Berichterinnen und der Mitberichter/Mitberichterinnen (§ 10 Abs. 2 erster Satz der Geschäftsordnung des Verwaltungsgerichtshofes, BGBl. II Nr. 1/2014, in der Fassung der Änderung der Geschäftsordnung des Verwaltungsgerichtshofes, BGBl. II Nr. 43/2018) an die Mitglieder der Vollversammlung zu übermitteln.
+(1d) Die Abgabe der Erklärung nach Abs. 1a hat schriftlich oder mit E-Mail an eine vom Präsidenten/von der Präsidentin bestimmte E-Mail-Adresse bis zu einem vom Präsidenten/von der Präsidentin zu bestimmenden Zeitpunkt zu erfolgen, wobei eine Erklärung gültig ist, wenn sie bis zu diesem Zeitpunkt einlangt. Der Beschlussentwurf, der Bericht und die Mitberichte sollen nach Möglichkeit zwei Wochen vor diesem Zeitpunkt an alle Mitglieder des Gerichtshofes übermittelt werden. Diese können schriftliche Berichte und Anträge verfassen und verteilen lassen. Ein Antrag gilt im Umlaufweg als beschlossen, wenn sich mehr als zwei Drittel der Mitglieder an der Beschlussfassung im Umlaufweg beteiligt haben und der Antrag mehr als die Hälfte der Stimmen auf sich vereinigt.“
+2. In § 15 wird nach Abs. 4 folgender Abs. 5 angefügt:
+„(5) Der Vorsitzende kann die Beratung und Beschlussfassung auch in Rechtssachen, in denen der Fünfersenat (§ 11 Abs. 1) entscheidet, durch Einholung der Zustimmung der anderen Mitglieder des Fünfersenates im Umlaufweg ersetzen, wenn keines dieser Mitglieder widerspricht.“
+3. In § 64 und § 65 Abs. 1 erster Satz wird der Ausdruck „§ 341 Abs. 4 des Bundesvergabegesetzes 2006 – BVergG 2006, BGBl. I Nr. 17/2006; § 142 Abs. 4 des Bundesvergabegesetzes Verteidigung und Sicherheit 2012 – BVergGVS 2012, BGBl. I Nr. 10/2012“ jeweils durch den Ausdruck „§ 373 Abs. 5 des Bundesvergabegesetzes 2018 – BVergG 2018, BGBl. I Nr. 65/2018; § 142 Abs. 4 des Bundesvergabegesetzes Verteidigung und Sicherheit 2012 – BVergGVS 2012, BGBl. I Nr. 10/2012; § 116 Abs. 5 des Bundesvergabegesetzes Konzessionen 2018 – BVergGKonz 2018, BGBl. I Nr. 65/2018“ ersetzt.
+4. In § 65 Abs. 3 Z 3 wird der Ausdruck „§ 341 Abs. 4 BVergG 2006 oder § 142 Abs. 4 BVergGVS 2012“ durch den Ausdruck „§ 373 Abs. 5 BVergG 2018, § 142 Abs. 4 BVergGVS 2012 oder § 116 Abs. 5 BVergGKonz 2018“ ersetzt.
+5. In § 79 wird nach Abs. 19 folgender Abs. 20 angefügt:
+„(20) § 10 Abs. 1a bis 1d und § 15 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft. § 64 und § 65 Abs. 1 erster Satz und Abs. 3 Z 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.“
+Artikel 18
+Änderung des Verfassungsgerichtshofgesetzes 1953
+Das Verfassungsgerichtshofgesetz 1953, BGBl. Nr. 85/1953, zuletzt geändert durch das Finanz-Organisationsreformgesetz, BGBl. I Nr. 104/2019, wird wie folgt geändert:
+1. In § 7 wird nach Abs. 2 folgender Abs. 3 angefügt:
+„(3) Sofern der Verfassungsgerichtshof im Fall außergewöhnlicher Verhältnisse nicht in angemessener Frist zusammentreten kann, kann der Vorsitzende die Beratung und Beschlussfassung im Umlaufweg oder mit Mitteln der Telekommunikation durchführen. Die Durchführung der Beratung und Beschlussfassung im Umlaufweg oder mit Mitteln der Telekommunikation bedarf der Zustimmung von neun Stimmführern, in den Fällen des Abs. 2 der Zustimmung von vier Stimmführern. Der Vorsitzende hat die Durchführung des Verfahrens der Beratung und Beschlussfassung im Umlaufweg spätestens eine Woche vor ihrem Beginn unter Angabe der zu beratenden Rechtssachen allen Mitgliedern mitzuteilen. Die näheren Bestimmungen sind in der Geschäftsordnung (§ 14) zu treffen.“
+2. Nach § 59 wird folgender § 60 angefügt:
+„§ 60. Auf Antrag der zuständigen obersten Verwaltungsbehörde des Bundes bzw. des Landes kann der Verfassungsgerichtshof die in einem aufhebenden Erkenntnis bestimmte Frist gemäß Art. 139 Abs. 5 B‑VG erstrecken, wenn im Fall außergewöhnlicher Verhältnisse aus rechtlichen oder tatsächlichen Gründen nicht rechtzeitig eine neue Verordnung erlassen werden kann. Die nach Art. 139 Abs. 5 B‑VG im Falle, dass gesetzliche Vorkehrungen erforderlich sind, zulässige Frist darf dadurch nicht überschritten werden. Der Verfassungsgerichtshof entscheidet in nichtöffentlicher Sitzung durch Beschluss.“
+3. Nach § 64 wird folgender § 64a angefügt:
+„§ 64a. Auf Antrag der Bundesregierung bzw. der Landesregierung kann der Verfassungsgerichtshof die in einem aufhebenden Erkenntnis bestimmte Frist gemäß Art. 140 Abs. 5 B‑VG erstrecken, wenn im Fall außergewöhnlicher Verhältnisse ein neues Gesetz aus rechtlichen oder tatsächlichen Gründen nicht rechtzeitig erlassen werden kann. Die nach Art. 140 Abs. 5 B‑VG zulässige Frist darf dadurch nicht überschritten werden. Der Verfassungsgerichtshof entscheidet in nichtöffentlicher Sitzung durch Beschluss.“
+4. In § 94 wird nach Abs. 34 folgender Abs. 35 angefügt:
+„(35) § 7 Abs. 3, § 60 und § 64a in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.“
+Artikel 19
+(Verfassungsbestimmung)
+Änderung des Bundes-Verfassungsgesetzes
+Das Bundes-Verfassungsgesetz – B-VG, BGBl. Nr. 1/1930, zuletzt geändert durch das Bundesverfassungsgesetz BGBl. I Nr. 57/2019, wird wie folgt geändert:
+1. Art. 69 Abs. 3 lautet:
+„(3) Die Bundesregierung fasst ihre Beschlüsse einstimmig. Eine Beschlussfassung im Umlaufweg oder in einer Videokonferenz ist zulässig. Tritt die Bundesregierung in persönlicher Anwesenheit ihrer Mitglieder zusammen, ist sie beschlussfähig, wenn mehr als die Hälfte ihrer Mitglieder anwesend ist.“
+2. Art. 69 Abs. 3 lautet:
+„(3) Die Bundesregierung fasst ihre Beschlüsse einstimmig. Eine Beschlussfassung im Umlaufweg ist zulässig. Tritt die Bundesregierung in persönlicher Anwesenheit ihrer Mitglieder zusammen, ist sie beschlussfähig, wenn mehr als die Hälfte ihrer Mitglieder anwesend ist.“
+3. Dem Art. 151 wird folgender Abs. 65 angefügt:
+„(65) Art. 69 Abs. 3 in der Fassung der Z 1 des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft. Art. 69 Abs. 3 in der Fassung der Z 2 des genannten Bundesgesetzes tritt mit 1. Jänner 2021 in Kraft.“
+Artikel 20
+Änderung des Bauarbeiter-Urlaubs- und Abfertigungsgesetzes
+Das Bauarbeiter-Urlaubs- und Abfertigungsgesetz – BUAG, BGBl. Nr. 414/1972, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2019 wird wie folgt geändert:
+1. Nach § 39 wird folgender § 39a samt Überschrift eingefügt:
+„Bestimmungen in Zusammenhang mit COVID-19
+§ 39a. (1) Abweichend von § 21a Abs. 2 sind für Zeiträume mit einer Wochenarbeitszeit von null Stunden im Rahmen einer COVID-19-Kurzarbeit von 1. April 2020 bis 30. Juni 2020 keine Zuschläge für den Sachbereich der Urlaubsregelung zu entrichten.
+(2) Abweichend von den §§ 13k Abs. 1, 13o und 21 Abs. 2 sind im Zeitraum von 16. März 2020 bis 15. Mai 2020 keine Zuschläge zu entrichten.“
+2. Dem § 40 wird folgender Abs. 39 angefügt:
+„(39) § 39a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft.“
+Artikel 21
+Bundesgesetz betreffend Begleitmaßnahmen zu COVID-19 in der Justiz
+I. Hauptstück
+Verfahren in bürgerlichen Rechtssachen
+Unterbrechung von Fristen
+§ 1. (1) In gerichtlichen Verfahren werden alle verfahrensrechtlichen Fristen, deren fristauslösendes Ereignis in die Zeit nach Inkrafttreten dieses Bundesgesetzes fällt, sowie verfahrensrechtliche Fristen, die bis zum Inkrafttreten dieses Bundesgesetzes noch nicht abgelaufen sind, bis zum Ablauf des 30. April 2020 unterbrochen. Sie beginnen mit 1. Mai 2020 neu zu laufen. Dies gilt nicht für Verfahren, in denen das Gericht über die Rechtmäßigkeit eines aufrechten Freiheitsentzuges nach dem Unterbringungsgesetz, BGBl. Nr. 155/1990, nach dem Heimaufenthaltsgesetz, BGBl. I Nr. 11/2004, nach dem Tuberkulosegesetz, BGBl. Nr. 127/1968, oder nach dem Epidemiegesetz 1950, BGBl. Nr. 186/1950, entscheidet, sowie für Leistungsfristen.
+(2) Das Gericht kann jedoch im jeweiligen Verfahren aussprechen, dass eine Frist nicht für die in Abs. 1 festgelegte Dauer unterbrochen wird. Diesfalls hat es gleichzeitig eine neue angemessene Frist festzusetzen. Dieser Beschluss kann nicht angefochten werden.
+(3) Nach Abs. 2 ist nur vorzugehen, wenn nach sorgfältiger Abwägung aller Umstände die Fortsetzung des Verfahrens zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Verfahrenspartei dringend geboten ist und nicht das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie der Schutz der Aufrechterhaltung eines geordneten Gerichtsbetriebes die Einzelinteressen überwiegen.
+Hemmung von Fristen für die Anrufung des Gerichts
+§ 2. Die Zeit vom Inkrafttreten dieses Bundesgesetzes bis zum Ablauf des 30. April 2020 wird in die Zeit, in der bei einem Gericht eine Klage oder ein Antrag zu erheben oder eine Erklärung abzugeben ist, nicht eingerechnet.
+Anhörungen, mündliche Verhandlungen, Vollzugsaufträge, Protokollaranbringen und Zustellungen
+§ 3. Wenn aufgrund von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, die Bewegungsfreiheit oder der zwischenmenschliche Kontakt eingeschränkt ist, sind Anhörungen und mündliche Verhandlungen nur abzuhalten, wenn die Voraussetzungen des § 1 Abs. 3 vorliegen. Gleiches gilt für die Erteilung und Durchführung von Vollzugsaufträgen sowie für die Protokollierung mündlichen Anbringens. Ist die Vornahme einer Anhörung einer Partei oder die Durchführung einer mündlichen Verhandlung unbedingt erforderlich, so kann sie auch ohne persönliche Anwesenheit aller Beteiligten unter Verwendung geeigneter technischer Kommunikationsmittel vorgenommen bzw. durchgeführt werden. Es sind nur solche gerichtlichen Erledigungen abzufertigen, deren Zustellung zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Verfahrenspartei dringend geboten sind. Zustellungen, die unter Verwendung des elektronischen Rechtsverkehrs erfolgen, sind weiterhin vorzunehmen.
+Einstellung der Tätigkeit eines Gerichts
+§ 4. (1) Hört infolge des Auftretens und der Verbreitung von COVID-19 die Tätigkeit eines Gerichts auf (§ 161 ZPO, § 25 Abs. 1 Z 5 AußStrG), so hat die Bundesministerin für Justiz diesen Umstand auf der Website des Bundesministeriums für Justiz www.justiz.gv.at bekanntzumachen.
+(2) Das übergeordnete Oberlandesgericht hat auf Antrag einer Partei ein anderes Gericht tunlichst gleicher Gattung zur Verhandlung und Entscheidung der Rechtssache zu bestimmen, wenn während der Unterbrechung Verfahrenshandlungen vorzunehmen sind, die zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Verfahrenspartei dringend geboten sind. Wenn dies erforderlich oder zweckmäßig ist, kann auch ein Gericht, das im Sprengel eines anderen Oberlandesgerichts liegt, bestimmt werden. In einem solchen Fall oder wenn das übergeordnete Oberlandesgericht seine Tätigkeit eingestellt hat, ist der Oberste Gerichtshof für die Bestimmung eines anderen Gerichts zuständig.
+Mahnung nach der Insolvenzordnung
+§ 5. Eine schriftliche Mahnung einer nach dem Inkrafttreten dieser Bestimmung fällig gewordenen Verbindlichkeit, die ab dem Inkrafttreten dieses Bundesgesetzes bis zum Ablauf des 30. April 2020 abgesendet wird, führt nicht zum Verzug nach § 156a Abs. 1 IO.
+Zusammenschlussanmeldungen nach dem Kartellgesetz 2005
+§ 6. Für Zusammenschlussanmeldungen (§ 9 KartG 2005), die vor dem 30. April 2020 bei der Bundeswettbewerbsbehörde einlangen, läuft die Frist für den Prüfungsantrag nach § 11 KartG 2005 ab dem 1. Mai 2020. Für Prüfungsanträge, die im Zeitpunkt des Inkrafttretens dieses Gesetzes beim Kartellgericht anhängig sind oder bis zum Ablauf des 30. April 2020 anhängig gemacht werden, läuft die Entscheidungsfrist nach § 14 KartG 2005 ab dem 1. Mai 2020.
+Unterhaltsvorschüsse
+§ 7. In der Zeit vom Inkrafttreten dieses Bundesgesetzes bis zum Ablauf des 30. April 2020 sind Titelvorschüsse nach § 3 UVG auch dann zu gewähren, wenn das Kind keinen entsprechenden Exekutionsantrag bei Gericht einbringt. Solche Vorschüsse sind abweichend von § 8 UVG längstens für ein halbes Jahr zu gewähren.
+Verordnungsermächtigung
+§ 8. (1) Die Bundesministerin für Justiz wird ermächtigt, durch Verordnung die in § 1 Abs. 1 angeordnete allgemeine Unterbrechung von Fristen zu verlängern, soweit dies zur Verhütung und Bekämpfung der Verbreitung von COVID-19 erforderlich ist. Sie ist auch ermächtigt, soweit dies für den Schutz vor Gefahren für Leib und Leben, Sicherheit und Freiheit der Verfahrensparteien oder für die Abwehr eines erheblichen und unwiederbringlichen Schadens für diese erforderlich ist, weitere Ausnahmen von den in § 1 Abs. 1 angeordneten Ausnahmen vorzusehen. Sie kann insoweit auch die in §§ 2, 5, 6 und 7 festgelegten Fristen oder Termine verlängern und weitere Bestimmungen vorsehen, die den Einfluss der Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, auf den Lauf von Fristen und die Einhaltung von Terminen für anhängige oder noch anhängig zu machende gerichtliche Verfahren regeln. Sie kann insbesondere die Unterbrechung, die Hemmung oder die Verlängerung von Fristen anordnen, Säumnisfolgen bei Nichteinhaltung von Terminen ausschließen sowie bestimmen, ob und auf welche Weise verfahrensrechtliche Rechtsnachteile, die durch die Versäumung von Fristen oder Terminen eintreten können, hintangehalten und bereits eingetretene wieder beseitigt werden. Dabei sind die Interessen an der Fortsetzung dieser Verfahren, insbesondere der Schutz vor Gefahren für Leib und Leben, Sicherheit und Freiheit der Verfahrensparteien oder die Abwehr eines erheblichen und unwiederbringlichen Schadens von diesen, einerseits und das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie am Schutz der Aufrechterhaltung eines geordneten Gerichtsbetriebes andererseits gegeneinander abzuwägen.
+(2) Sie wird weiters ermächtigt, durch Verordnung für die Dauer von bestehenden Einschränkungen der Bewegungsfreiheit aufgrund von COVID-19, für Eingaben an das Gericht besondere Formen oder Örtlichkeiten der Einbringung vorzusehen.
+II. Hauptstück
+Verfahren in Strafsachen
+Besondere Vorkehrungen in Strafsachen
+§ 9. In Strafsachen kann die Bundesministerin für Justiz für die Dauer von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 nach dem Bundesgesetz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (COVID-19-Maßnahmengesetz), BGBl. I Nr. 12/2020, getroffen wurden, über die Fälle des § 183 StPO hinaus die Zuständigkeit einer anderen als der nach § 183 Abs. 1 StPO zuständigen Justizanstalt anordnen, ohne dass nach § 183 Abs. 2 letzter Satz, Abs. 3 und 4 erster Halbsatz StPO vorgegangen werden müsste, und darüber hinaus durch Verordnung anordnen, dass
+	1.	ein wichtiger Grund für die Bestimmung der Zuständigkeit nach § 28 der Strafprozeßordnung (StPO), BGBl. Nr. 631/1975, oder für eine Delegierung nach § 39 StPO vorliegt;
+	2.	Zustellungen, Ladungen und Aufforderungen nach § 83 Abs. 1 bis 4 StPO nur in Fällen angeordnet werden dürfen, in denen der Beschuldigte in Haft angehalten wird;
+	3.	die Fristen nach § 88 Abs. 1, § 106 Abs. 3, § 108a, § 276a, § 284 Abs. 1 und 2, § 285 Abs. 1, § 294 Abs. 1, § 466 Abs. 1 und 2 und § 467 Abs. 1 StPO für die Dauer der angeordneten Betretungsverbote unterbrochen werden;
+	4.	Haftverhandlungen nicht stattzufinden haben und die Entscheidung über die Fortdauer der Untersuchungshaft oder vorläufigen Anhaltung nach § 175 Abs. 4 zweiter Satz StPO zu ergehen hat;
+	5.	der Besuchsverkehr (§ 188 Abs. 1 StPO) für die Dauer der angeordneten Betretungsverbote auf telefonische Kontakte beschränkt wird oder sonstige Beschränkungen des Verkehrs mit der Außenwelt vorgesehen werden;
+	6.	Zeiten aufgrund solcher Maßnahmen, die den Zahlungspflichtigen mittelbar oder unmittelbar in seinem Erwerbsleben betreffen, nach § 200 Abs. 2 letzter Satz und § 409a Abs. 3 StPO nicht eingerechnet werden;
+	7.	in die in § 201 Abs. 1 StPO geregelten Fristen Zeiten nicht eingerechnet werden, in denen eine Leistungserbringung auf Grund solcher Maßnahmen nicht möglich ist.
+III. Hauptstück
+Besondere Vorkehrungen im Anwendungsbereich des Strafvollzugsgesetzes
+§ 10. Für den Anwendungsbereich des Strafvollzugsgesetzes (StVG), BGBl. Nr. 144/1969, kann die Bundesministerin für Justiz durch Verordnung Verfügungen in sinngemäßer Anwendung des I. Hauptstück dieses Bundesgesetzes treffen sowie anordnen, dass
+	1.	eine Anordnung des Strafvollzugs nach § 3 Abs. 2 erster Satz für die Dauer der vorläufigen Maßnahmen nach dem COVID-19-Maßnahmengesetz, BGBl. I Nr. 12/2020, unterbleibt;
+	2.	ein Aufschub nach § 3a Abs. 4 nicht zu widerrufen ist, wenn gemeinnützige Leistungen wegen der aufrechten Maßnahmen zur Verhinderung der Verbreitung von COVID-19 nicht erbracht werden konnten;
+	3.	mit COVID-19 infizierte Personen oder solche, die wegen Kontakts mit infizierten Personen unter Quarantäne stehen, gemäß § 5 und § 133 als vollzugsuntauglich gelten;
+	4.	der Strafvollzug unter den Voraussetzungen des § 6 Abs. 1 in den von dessen Z 1 erfassten Freiheitstrafen für die Dauer der vorläufigen Maßnahmen nach dem Bundesgesetz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (COVID-19-Maßnahmengesetz) als aufgeschoben gilt;
+	5.	der Besuchsverkehr (§ 93) für die Dauer der vorläufigen Maßnahmen nach dem COVID-19-Maßnahmengesetz auf telefonische Kontakte beschränkt wird oder sonstige Beschränkungen des Verkehrs mit der Außenwelt vorgesehen werden;
+	6.	die Frist für den Wiederantritt der Strafe nach § 99 Abs. 3, § 99a Abs. 2 und 147 Abs. 2 sowie der Maßnahme nach § 166 Z 2 für die Dauer der vorläufigen Maßnahmen nach dem COVID-19-Maßnahmengesetz unterbrochen wird;
+	7.	eine Anhörung nach § 152a StVG unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen ist, wenn dies zur Eindämmung der Verbreitung von COVID-19 erforderlich erscheint;
+	8.	ein Widerruf nach § 156c Abs. 2 nicht anzuordnen ist, wenn wegen der vorläufigen Maßnahmen nach dem COVID-19-Maßnahmengesetz eine Arbeitsverrichtung nicht möglich ist.
+IV. Hauptstück
+Beratungen und Abstimmungen
+§ 11. In allen Angelegenheiten, die von den ordentlichen Gerichten oder vom Bundesverwaltungsgericht in nicht öffentlicher Sitzung zu entscheiden sind, kann der Vorsitzende die Beratung und Abstimmung im Umlaufweg anordnen. Auf Antrag nur eines Senatsmitglieds ist eine Senatssitzung anzuberaumen.
+V. Hauptstück
+Inkrafttreten und Außerkrafttreten
+§ 12. Dieses Bundesgesetz tritt mit Ablauf des Tages der Kundmachung in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.
+Artikel 22
+Änderung der Insolvenzordnung
+Die Insolvenzordnung, RGBl. Nr. 337/1914, zuletzt geändert durch das Zivilrechts- und Zivilverfahrensrechts-Änderungsgesetz 2019, BGBl. I Nr. 38/2019, wird wie folgt geändert:
+In § 69 Abs. 2a wird nach dem Wort „Erdbeben“ die Wendung „Epidemie, Pandemie“ eingefügt.
+Artikel 23
+Änderung der Exekutionsordnung
+Die Exekutionsordnung, RGBl. Nr. 79/1896, zuletzt geändert durch das Gewaltschutzgesetz 2019, BGBl. I Nr. 105/2019, wird wie folgt geändert.
+In § 200b Abs. 1 wird nach dem Wort „Erdbeben“ die Wendung „Epidemie, Pandemie“ eingefügt.
+Artikel 24
+Änderung der Strafprozessordnung 1975
+Die Strafprozessordnung 1975 BGBl. Nr. 631/1975, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 14/2020 wird wie folgt geändert:
+1. In § 174 Abs. 1 wird im zweiten Satz nach der Wendung „notwendig erscheint“ ein Beistrich eingefügt.
+2. In § 239 wird im dritten Satz nach der Wendung „angehalten werden“ ein Beistrich eingefügt.
+3. In § 286 wird nach dem Abs. 1 folgender Abs. 1a eingefügt:
+„(1a) In den in § 174 Abs. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs. 4 vorgegangen werden.“
+4. In § 471 wird nach der Wendung „286 Abs. 1“ wird die Wendung „und 1a“ eingefügt.
+5. Dem § 514 wird folgender Abs. 43 angefügt:
+„(43) § 174 Abs. 1, § 239, § 286 Abs. 1a und § 471 treten mit dem der Kundmachung des bezeichneten Bundesgesetzes folgenden Tag in Kraft.“
+Artikel 25
+Änderung des Finanzstrafgesetzes
+Das Finanzstrafgesetz, BGBl. Nr. 129/1958, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2019, wird wie folgt geändert:
+Nach § 265 wird folgender § 265a samt Überschrift eingefügt:
+„Sonderregelungen aufgrund der Maßnahmen zur Bekämpfung von COVID-19
+§ 265a. (1) Der Lauf der Einspruchsfrist (§ 145 Abs. 1), der Rechtsmittelfrist (§ 150 Abs. 2) sowie der Frist zur Anmeldung einer Beschwerde (§ 150 Abs. 4) wird jeweils unterbrochen, wenn die Frist mit Ablauf des 16. März 2020 noch nicht abgelaufen war oder der Beginn des Fristenlaufs in die Zeit von 16. März 2020 bis zum Ablauf des 30. April 2020 fällt. Die genannten Fristen beginnen mit 1. Mai 2020 neu zu laufen.
+(2) Die Finanzstrafbehörde kann jedoch im jeweiligen Verfahren aussprechen, dass eine Frist nicht für die in Abs. 1 festgelegte Dauer unterbrochen wird. Diesfalls hat sie gleichzeitig eine neue angemessene Frist festzusetzen.
+(3) Nach Abs. 2 ist nur vorzugehen, wenn nach sorgfältiger Abwägung aller Umstände die Fortsetzung des Verfahrens zur Abwendung einer Gefahr für Leib und Leben, Sicherheit und Freiheit oder zur Abwehr eines erheblichen und unwiederbringlichen Schadens einer Partei dringend geboten ist und nicht das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie der Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes die Einzelinteressen überwiegen.
+(4) Wenn aufgrund von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, die Bewegungsfreiheit oder der zwischenmenschliche Kontakt eingeschränkt sind, sind mündliche Vernehmungen mit Ausnahme von audiovisuellen Vernehmungen nur durchzuführen, soweit dies zur Aufrechterhaltung einer geordneten Finanzstrafrechtspflege unbedingt erforderlich ist. Gleiches gilt für den mündlichen Verkehr zwischen den Behörden und den im Finanzstrafverfahren beteiligten Personen einschließlich der Entgegennahme mündlicher Anbringen sowie mit sonstigen Personen im Rahmen der Durchführung des Finanzstrafverfahrens. Ist die Durchführung einer Vernehmung oder einer mündlichen Verhandlung unbedingt erforderlich, so kann sie auch in Abwesenheit aller anderen Beteiligten unter Verwendung geeigneter technischer Kommunikationsmittel durchgeführt werden.
+(5) Der Bundesminister für Finanzen wird ermächtigt, durch Verordnung bis längstens 31. Dezember 2020
+	1.	die in Abs. 1 angeordnete allgemeine Unterbrechung von Fristen zu verlängern oder weitere allgemeine Ausnahmen von der Unterbrechung vorzusehen, soweit dies zur Verhütung und Bekämpfung der Verbreitung von COVID-19 erforderlich ist;
+	2.	weitere Bestimmungen vorzusehen, die den Einfluss der Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 getroffen werden, auf den Lauf von Fristen und die Einhaltung von Terminen für anhängige oder noch anhängig zu machende ordentliche Rechtsmittelverfahren regeln. Er kann betreffend das ordentliche Rechtsmittelverfahren insbesondere die Unterbrechung, die Hemmung, die Verlängerung oder die Verkürzung von Fristen anordnen, Säumnisfolgen bei Nichteinhaltung von Terminen ausschließen sowie bestimmen, ob und auf welche Weise verfahrensrechtliche Rechtsnachteile, die durch die Versäumung von Fristen oder Terminen eintreten können, hintangehalten und bereits eingetretene wieder beseitigt werden. Dabei sind die Interessen an der Fortsetzung dieser Verfahren, insbesondere die Abwehr eines erheblichen und unwiederbringlichen Schadens von den Verfahrensparteien, einerseits und das Interesse der Allgemeinheit an der Verhütung und Bekämpfung der Verbreitung von COVID-19 sowie am Schutz der Aufrechterhaltung eines geordneten Verwaltungsbetriebes andererseits gegeneinander abzuwägen.“
+Artikel 26
+Änderung des COVID-19-Maßnahmengesetzes
+Das COVID-19-Maßnahmengesetz, BGBl. I Nr. 12/2020, wird wie folgt geändert:
+1. Die Überschrift zu § 1 lautet:
+„Betreten von Betriebsstätten zum Zweck des Erwerbs von Waren und Dienstleistungen sowie Arbeitsorte“
+2. In § 1 wird nach der Wortfolge „Waren und Dienstleistungen“ die Wortfolge „oder Arbeitsorte im Sinne des § 2 Abs. 3 ArbeitnehmerInnenschutzgesetz“ eingefügt.
+3. § 4 Abs. 2 lautet:
+„(2) Hat der Bundesminister gemäß § 1 eine Verordnung erlassen, gelangen die Bestimmungen des Epidemiegesetzes 1950, BGBl. Nr. 186/1950, betreffend die Schließung von Betriebsstätten im Rahmen des Anwendungsbereichs dieser Verordnung nicht zur Anwendung.“
+4. In § 4 wird nach Abs. 1 folgender Abs. 1a eingefügt:
+„(1a) Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt rückwirkend mit 16. März 2020 in Kraft.“
+Artikel 27
+Änderung des Zustellgesetzes
+Das Zustellgesetz – ZustG, BGBl. Nr. 200/1982, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 104/2018, wird wie folgt geändert:
+1. Nach § 26 wird folgender § 26a samt Überschrift eingefügt:
+„Zustellrechtliche Begleitmaßnahmen zu COVID-19
+§ 26a. Solange die Fristen gemäß § 1 Abs. 1 des Bundesgesetzes betreffend Begleitmaßnahmen zu COVID-19 in der Justiz, BGBl. I Nr. 16/2020, oder die Fristen gemäß § 1 Abs. 1 des Bundesgesetzes betreffend Begleitmaßnahmen zu COVID-19 im Verwaltungsverfahren, im Verfahren der Verwaltungsgerichte sowie im Verfahren des Verwaltungsgerichtshofes und des Verfassungsgerichtshofes, BGBl. I Nr. 16/2020, unterbrochen sind, gelten für die Zustellung mit Zustellnachweis der von Gerichten bzw. von Verwaltungsbehörden zu übermittelnden Dokumente sowie die durch die Gerichte bzw. die Verwaltungsbehörden vorzunehmende Zustellung von Dokumenten ausländischer Behörden (§ 1) folgende Erleichterungen:
+	1.	Das Dokument wird dem Empfänger zugestellt, indem es in die für die Abgabestelle bestimmte Abgabeeinrichtung (§ 17 Abs. 2) eingelegt oder an der Abgabestelle zurückgelassen wird; die Zustellung gilt in diesem Zeitpunkt als bewirkt. Soweit dies ohne Gefährdung der Gesundheit des Zustellers möglich ist, ist der Empfänger durch schriftliche, mündliche oder telefonische Mitteilung an ihn selbst oder an Personen, von denen angenommen werden kann, dass sie mit dem Empfänger in Verbindung treten können, von der Zustellung zu verständigen. Die Zustellung wird nicht bewirkt, wenn sich ergibt, dass der Empfänger wegen Abwesenheit von der Abgabestelle nicht rechtzeitig vom Zustellvorgang Kenntnis erlangen konnte, doch wird die Zustellung mit dem der Rückkehr an die Abgabestelle folgenden Tag wirksam.
+	2.	Ist das Dokument anderen Personen als dem Empfänger zuzustellen oder kann es diesen zugestellt werden (§ 13 Abs. 1 zweiter Satz und Abs. 2 bis 4 und §§ 14 bis 16), ist Z 1 sinngemäß anzuwenden.
+	3.	Die Zustellung, die Form der Verständigung von der Zustellung sowie gegebenenfalls die Gründe, aus denen eine Verständigung nicht möglich war, sind vom Zusteller auf dem Zustellnachweis (Zustellschein, Rückschein) zu beurkunden. Der Zustellnachweis ist dem Absender unverzüglich zu übersenden; § 22 Abs. 2 ist nicht anzuwenden. § 22 Abs. 4 ist mit der Maßgabe anzuwenden, dass die elektronische Beurkundung anstatt durch den Übernehmer durch den Zusteller zu erfolgen hat.“
+2. Dem § 40 wird folgender Abs. 13 angefügt:
+„(13) § 26a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.“
+Artikel 28
+Änderung des Künstler-Sozialversicherungsfondsgesetzes
+Das Künstler-Sozialversicherungsfondsgesetz – K-SVFG, BGBl. I Nr. 131/2000, zuletzt geändert durch BGBl. I Nr. 100/2018, wird wie folgt geändert:
+1. Nach § 25c Abs. 3 wird folgender Abs. 3a eingefügt:
+„(3a) Zur Abfederung von Einnahmenausfällen anlässlich des Ausbruchs von COVID-19 kann der Fonds im Kalenderjahr 2020 zusätzlich bis zu 5.000.000 Euro an Beihilfen gewähren. Für die Gewährung dieser Beihilfen sind Richtlinien unter sinngemäßer Anwendung von § 25b zu erlassen. Diese Richtlinien können vorsehen, dass neben Künstlerinnen und Künstlern im Sinne des § 2 Beihilfen auch an Kulturvermittlerinnen und Kulturvermittler aus diesem Grund gewährt werden können. Weiters kann in den Richtlinien auch ein vereinfachtes Entscheidungsverfahren geregelt werden, das neben dem vom Fonds bestimmten Mitglied die Einbindung eines weiteren in den Richtlinien bestimmten Mitglieds vorsieht.“
+Artikel 29
+Änderung des Beamten-Dienstrechtsgesetzes 1979
+Das Beamten-Dienstrechtsgesetz 1979 – BDG 1979, BGBl. Nr. 333/1979, zuletzt geändert durch die 3. Dienstrechts-Novelle 2019, BGBl. I Nr. 112/2019, wird wie folgt geändert:
+1. In § 68 wird nach Abs. 1 folgender Abs. 1a eingefügt:
+„(1a) Abweichend von Abs. 1 kann zur Verfolgung öffentlicher Interessen für den nicht verfallenen Erholungsurlaub aus vorangegangenen Kalenderjahren im Umfang von maximal zwei Wochen der Verbrauch durch kalendermäßige Festsetzung angeordnet werden, sofern die Beamtin oder der Beamte dienstfähig ist und der Dienstbetrieb für einen mindestens sechs Werktage andauernden Zeitraum erheblich eingeschränkt ist. Für Beamtinnen und Beamte, die in einem Kalenderjahr aufgrund von angeordneten Urlaubssperren oder aus anderen gerechtfertigten Gründen der Verbrauch des Erholungsurlaubes eingeschränkt oder nicht möglich war, ist diese dienstgeberseitige Anordnungsmöglichkeit unzulässig.“
+2. In § 243 Abs. 1 wird das Wort „Juni“ durch das Wort „September“ und das Wort „Juli“ durch das Wort „Oktober“ ersetzt.
+3. In § 243 Abs. 2 wird das Wort „Mai“ durch das Wort „August“ ersetzt.
+4. In § 243 Abs. 4 wird die Wortfolge „31. März“ durch die Wortfolge „30. Juni“ und das Wort „Mai“ durch das Wort „August“ ersetzt.
+5. In § 284 wird nach dem Abs. 104 folgender Abs. 105 angefügt:
+„(105) § 68 Abs. 1a in der Fassung BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft und mit 31.12.2020 außer Kraft.“
+Artikel 30
+Änderung des Vertragsbedienstetengesetzes 1948
+Das Vertragsbedienstetengesetz 1948, BGBl. Nr. 86/1948, zuletzt geändert durch die 3. Dienstrechts-Novelle 2019, BGBl. I Nr. 112/2019, wird wie folgt geändert:
+1. In § 27e wird nach Abs. 1 folgender Abs. 1a eingefügt:
+„(1a) Abweichend von Abs. 1 kann zur Verfolgung öffentlicher Interessen für den nicht verfallenen Erholungsurlaub aus vorangegangenen Kalenderjahren im Umfang von maximal zwei Wochen der Verbrauch durch kalendermäßige Festsetzung angeordnet werden, sofern die oder der Vertragsbedienstete dienstfähig ist und der Dienstbetrieb für einen mindestens sechs Werktage andauernden Zeitraum erheblich eingeschränkt ist. Für Vertragsbedienstete, denen in einem Kalenderjahr aufgrund von angeordneten Urlaubssperren oder aus anderen gerechtfertigten Gründen der Verbrauch des Erholungsurlaubes nicht möglich war, ist diese dienstgeberseitige Anordnungsmöglichkeit unzulässig.“
+2. In § 100 wird nach dem Abs. 90 folgender Abs. 91 angefügt:
+„(91) § 27e Abs. 1a in der Fassung BGBl. I Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft und mit 31.12.2020 außer Kraft.“
+Artikel 31
+Änderung des Heeresdisziplinargesetzes 2014
+Das Heeresdisziplinargesetz 2014 – HDG 2014, BGBl. I Nr. 2/2014, zuletzt geändert durch das Wehrrechtsänderungsgesetz 2019 – WRÄG 2019, BGBl. I Nr. 102/2019, wird wie folgt geändert:
+In § 90 Abs. 3 wird das Wort „Juni“ jeweils durch das Wort „September“ und das Wort „Juli“ durch das Wort „Oktober“ ersetzt.
+Artikel 32
+Bundesgesetz betreffend besondere Maßnahmen im Gesellschaftsrecht aufgrund von COVID-19 (Gesellschaftsrechtliches COVID-19-Gesetz – COVID-19-GesG)
+§ 1. (1) Für die Dauer von Maßnahmen, die zur Verhinderung der Verbreitung von COVID-19 nach dem COVID-19-Maßnahmengesetz, BGBl. I Nr. 13/2020, getroffen werden, können Versammlungen von Gesellschaftern und Organmitgliedern einer Kapitalgesellschaft, einer Personengesellschaft, einer Genossenschaft, einer Privatstiftung oder eines Vereins, eines Versicherungsvereins auf Gegenseitigkeit oder eines kleinen Versicherungsvereins nach Maßgabe der Verordnung gemäß Abs. 2 auch ohne physische Anwesenheit der Teilnehmer durchgeführt werden.
+(2) Die Bundesministerin für Justiz wird ermächtigt, durch Verordnung nähere Regelungen betreffend die Durchführung der in Abs. 1 genannten Versammlungen zu treffen, die eine vergleichbare Qualität der Willensbildung gewährleisten.
+§ 2. Abweichend von § 104 Abs. 1 AktG muss die ordentliche Hauptversammlung einer Aktiengesellschaft innerhalb der ersten zwölf Monate des Geschäftsjahrs der betreffenden Gesellschaft stattfinden.
+§ 3. Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz betraut.
+§ 4. Dieses Bundesgesetz tritt mit Ablauf des Tages der Kundmachung in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.
+Artikel 33
+Änderung des Epidemiegesetzes 1950
+Das Epidemiegesetz 1950, BGBl. Nr. 186/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 37/2018 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020 wird wie folgt geändert:
+1. In § 4 Abs. 1 wird nach der Wortfolge „und § 2 Abs. 2,“ die Wortfolge „§ 28c,“ eingefügt.
+2. In § 4 Abs. 3 wird nach der Wortfolge „und § 2 Abs. 2,“ die Wortfolge „§ 28c,“ eingefügt.
+3. Nach § 28a werden folgende §§ 28b und 28c samt Überschriften eingefügt:
+„Maßnahmen im Rahmen einer Pandemie
+§ 28b. (1) Nationale IGV-Anlaufstelle im Sinne der Internationalen Gesundheitsvorschriften, BGBl. III Nr. 98/2008, ist das für das Gesundheitswesen zuständige Bundesministerium (Art. 4 Abs. 1 und 2 IGV).
+(2) Die Entscheidung, welche Informationen die nationale IGV-Anlaufstelle an die Weltgesundheitsorganisation (im Folgenden: WHO) weiterleitet und an welche Behörden Informationen weitergeleitet werden, die von der WHO an die nationale IGV-Anlaufstelle übermittelt werden, trifft der für das Gesundheitswesen zuständige Bundesminister.
+(3) Die Bezirksverwaltungsbehörden und Landeshauptmänner stellen dem für das Gesundheitswesen zuständigen Bundesministerium umgehend alle ihnen vorliegenden Informationen zur Verfügung, die für Mitteilungen an die WHO im Sinne der Art. 6 bis 12 und 19 Buchstabe c IGV erforderlich sind.
+(4) Soweit dies zur Erfüllung der Verpflichtungen aus den IGV erforderlich ist, sind Bezirksverwaltungsbehörden und Landeshauptmänner berechtigt, im Rahmen des Abs. 3 auch personenbezogene Informationen zu übermitteln und ist der für das Gesundheitswesen zuständige Bundesminister berechtigt, personenbezogene Informationen an Bezirksverwaltungsbehörden, Landeshauptmänner, die WHO und zuständige Behörden im Ausland zu übermitteln.
+Naturwissenschaftliche, insbesondere veterinärmedizinische Einrichtungen nach § 2 Abs. 2 Z 1 Ärztegesetz 1998
+§ 28c. (1) Die Einrichtungen sind verpflichtet, vor Aufnahme ihrer Tätigkeit für den Menschen dies dem Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz zu melden. Diese Meldungen sind den Bezirksverwaltungsbehörden zur Kenntnis zu bringen.
+(2) Die Einrichtungen unterliegen der Meldepflicht nach §§ 2 und 3 dieses Bundesgesetzes.
+(3) Die Meldung hat gemäß der Verordnung des Bundesministers für Gesundheit betreffend elektronische Labormeldung in das Register anzeigepflichtiger Krankheiten, BGBl. II Nr. 184/2013, zu erfolgen. Solange dies technisch nicht möglich ist, kann die Meldung auch schriftlich, mündlich oder telefonisch erfolgen, wobei sie nach mündlicher oder telefonischer Meldung schriftlich zu wiederholen ist.“
+Artikel 34
+Änderung des Ärztegesetzes 1998
+Das Ärztegesetz 1998, BGBl. I Nr. 169/1998, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. In § 2 Abs. 2 Z 1 wird der Strichpunkt durch einen Beistrich ersetzt und die Wortfolge „ausgenommen Untersuchungen, die im Rahmen einer Pandemie durch naturwissenschaftliche, insbesondere veterinärmedizinische Einrichtungen, durchgeführt werden;“ angefügt.
+2. In § 31 Abs. 3 Z 5 entfällt die Wortfolge „klinischer Sonderfächer im Hinblick auf notwendige Impfungen“.
+3. Nach § 36a wird folgender § 36b samt Überschrift eingefügt:
+„Ärztliche Tätigkeit im Rahmen einer Pandemie
+§ 36b. (1) Ärztinnen/Ärzte dürfen, ungeachtet eines allfälligen Mangels der im § 4 angegebenen Erfordernisse, den ärztlichen Beruf im Inland im Rahmen einer Pandemie nur in Zusammenarbeit mit im Inland zur selbständigen Berufsausübung berechtigten Ärztinnen/Ärzten für Allgemeinmedizin oder Fachärztinnen/Fachärzten ausüben.
+(2) Tätigkeiten gemäß Abs. 1 sind vor Aufnahme der Tätigkeit der Österreichischen Ärztekammer zu melden.
+(3) Ärztinnen/Ärzte gemäß Abs. 1 unterliegen bei ihrer Tätigkeit im Inland den im Geltungsbereich dieses Bundesgesetzes geltenden Berufspflichten und Disziplinarvorschriften. Verstößt eine ausländische Ärztin/ein ausländischer Arzt gemäß Abs. 1 gegen diese Pflichten, so hat die Österreichische Ärztekammer unverzüglich auch die zuständige Behörde ihres/seines Herkunftsstaates zu unterrichten.
+(4) Sämtliche Fristen auf Grundlage des Ärztegesetzes 1998 im Zusammenhang mit der ärztlichen Aus-, Fort- und Weiterbildung sowie ärztlichen Berufsausübung werden für die Dauer einer Pandemie ausgesetzt.“
+Artikel 35
+Änderung des Sanitätergesetzes
+Das Sanitätergesetz, BGBl. I Nr. 30/2002, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. In § 9 Abs. 1 wird nach Z 3 folgende Z 3a eingefügt:
+	„3a.	Durchführung von Abstrichen aus Nase und Rachen zu diagnostischen Zwecken im Kontext insbesondere einer Pandemie,“
+2. Dem § 14 wird folgender Abs. 4 angefügt:
+„(4) Bei einer Pandemie ist die erfolgreiche Absolvierung des Berufsmoduls nicht Voraussetzung für die berufsmäßige Ausübung von Tätigkeiten des Sanitäters.“
+3. Dem § 26 wird folgender Abs. 4 angefügt:
+„(4) Abs. 1 Z 1 und 2 und Abs. 3 gelten nicht für den Einsatz von Sanitätern bei einer Pandemie.“
+4. Dem § 43 wird folgender Abs. 3 angefügt:
+„(3) Bei einer Pandemie ist die erfolgreiche Absolvierung des Berufsmoduls nicht Voraussetzung für die berufsmäßige Ausübung von Tätigkeiten des Sanitäters.“
+Artikel 36
+Änderung des Gesundheits- und Krankenpflegegesetzes
+Das Gesundheits- und Krankenpflegegesetz, BGBl. I Nr. 108/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. Dem § 3a wird folgender Abs. 7 angefügt:
+„(7) Für die Dauer einer Pandemie dürfen für unterstützende Tätigkeiten bei der Basisversorgung auch Personen herangezogen werden, die weder zur Ausübung eines Gesundheits- und Krankenpflegeberufs noch das Ausbildungsmodul gemäß Abs. 1 Z 1 absolviert haben. Abs. 6 ist auch für diese Fälle anzuwenden.“
+2. Dem § 27 wird folgender Abs. 3 angefügt:
+„(3) Für die Dauer einer Pandemie dürfen für Tätigkeiten des gehobenen Dienstes für Gesundheits- und Krankenpflege auch Personen, die nicht in das Gesundheitsberuferegister eingetragen sind, herangezogen werden, wenn diese
+	1.	einen Qualifikationsnachweis gemäß § 28 erbringen oder
+	2.	ihr im Ausland erworbener Qualifikationsnachweis gemäß §§ 28a ff anerkannt bzw. nostrifiziert wurde, auch wenn allfällig vorgeschriebene Ausgleichsmaßnahmen oder Ergänzungsausbildungen noch nicht absolviert worden sind.“
+3. Der Text des § 85 erhält die Absatzbezeichnung „(1)“; folgender Abs. 2 wird angefügt:
+„(2) Für die Dauer einer Pandemie dürfen für Tätigkeiten der Pflegeassistenzberufe auch Personen, die nicht in das Gesundheitsberuferegister eingetragen sind, herangezogen werden, wenn diese
+	1.	einen Qualifikationsnachweis gemäß § 86 erbringen oder
+	2.	ihr im Ausland erworbener Qualifikationsnachweis gemäß §§ 87 ff anerkannt bzw. nostrifiziert wurde, auch wenn allfällig vorgeschriebene Ausgleichsmaßnahmen oder Ergänzungsausbildungen noch nicht absolviert worden sind.“
+Artikel 37
+Änderung des MTD-Gesetzes
+Das Bundesgesetz über die Regelung der gehobenen medizinisch-technischen Dienste (MTD-Gesetz), BGBl. Nr. 460/1992, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. Dem § 3 wird folgender Abs. 7 angefügt:
+„(7) Für die Dauer einer Pandemie dürfen für Tätigkeiten eines gehobenen medizinisch-technischen Dienstes auch Personen, die nicht in das Gesundheitsberuferegister eingetragen sind, herangezogen werden, wenn diese
+	1.	einen im Inland erworbenen Qualifikationsnachweis gemäß Abs. 1 Z 3, Abs. 3 Z 1 oder Abs. 4 erbringen oder
+	2.	ihr im Ausland erworbener Qualifikationsnachweis gemäß Abs. 3 Z 2, 2a oder 3 anerkannt bzw. nostrifiziert wurde, auch wenn allfällig vorgeschriebene Ausgleichsmaßnahmen oder Ergänzungsausbildungen noch nicht absolviert worden sind.“
+2. Dem § 4 wird folgender Abs. 5 angefügt:
+„(5) Für die Dauer einer Pandemie dürfen Personen, die zur Ausübung des medizinisch-technischen Laboratoriumsdienstes berechtigt sind, die im Zusammenhang mit der Pandemie anfallenden Laboratoriumsmethoden auch ohne ärztliche Anordnung durchführen. Weiters dürfen für die Dauer einer Pandemie Personen, die ein naturwissenschaftliches oder ein veterinärmedizinisches Studium erfolgreich abgeschlossen haben, für diese Tätigkeiten herangezogen werden.“
+Artikel 38
+Änderung des Bundesgesetzes über Krankenanstalten und Kuranstalten
+Das Bundesgesetz über Krankenanstalten und Kuranstalten, BGBl. Nr. 1/1957, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 14/2019 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+Der Punkt am Ende von § 2 Abs. 2 lit. f wird durch einen Beistrich ersetzt und folgende lit. g angefügt (Grundsatzbestimmung):
+	„g)	medizinische Versorgungseinrichtungen für an COVID-19 Erkrankte und Krankheitsverdächtige für die Dauer der Pandemie.“
+Artikel 39
+Änderung des Medizinproduktegesetzes
+Das Medizinproduktegesetz, BGBl. Nr. 657/1996, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 100/2018 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+Nach § 113 wird folgender § 113a samt Überschrift eingefügt:
+„Sonderbestimmungen im Zusammenhang mit Krisensituationen
+§ 113a. (1) Im Falle einer Katastrophe, Epidemie, Pandemie, terroristischen Bedrohung, kriegerischen Auseinandersetzung oder sonstigen Krisensituation hat der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz, wenn die notwendige Versorgung der Bevölkerung sonst ernstlich und erheblich gefährdet wäre, durch Verordnung Ausnahmen vom II., IV. und V. Hauptstück sowie vom VI. Hauptstück 1. und 2. Abschnitt dieses Bundesgesetzes und der entsprechenden auf Grund dieses Bundesgesetzes erlassenen Verordnungen zu treffen, soweit und solange dies auf Grund der besonderen Situation erforderlich ist und der Schutz des Lebens und der Gesundheit von Mensch und Tier gewahrt bleibt.
+(2) Im Falle einer Katastrophe, Epidemie, Pandemie, terroristischen Bedrohung, kriegerischen Auseinandersetzung oder sonstigen Krisensituation kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz, wenn die notwendige Versorgung der Bevölkerung sonst ernstlich und erheblich gefährdet wäre, durch Verordnung Regelungen über Versorgungs- und Bereitstellungsverpflichtungen für Hersteller, Bevollmächtigte und Abgabestellen von Medizinprodukten erlassen, wenn und solange dies auf Grund der besonderen Situation erforderlich ist.
+(3) Eine Verordnung gemäß Abs. 1 oder Abs. 2 gilt höchstens für sechs Monate.“
+Artikel 40
+Änderung des Apothekengesetzes
+Das Apothekengesetz, RGBl. Nr. 5/1907, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 59/2018 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+Nach § 8 Abs. 8 wird folgender Abs. 9 eingefügt:
+„(9) Wenn es aufgrund von Krisensituationen erforderlich ist, kann die Bezirksverwaltungsbehörde durch Verordnung oder auf Antrag für einen begrenzten Zeitraum abweichende Regelungen über Betriebszeiten und Notfallbereitschaften vorsehen.“
+Artikel 41
+Änderung des Gesundheitstelematikgesetzes 2012
+Das Gesundheitstelematikgesetz 2012, BGBl. I Nr. 111/2012, zuletzt geändert durch das Sozialversicherungs-Organisationsgesetz – SV-OG, BGBl. I Nr. 100/2018, und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. In § 26 wird folgender Abs. 8 angefügt:
+„(8) § 27 Abs. 12a, Abs. 12b, Abs. 13, Abs. 14, Abs. 14a, Abs. 14b, Abs. 14c und Abs. 16 in der Fassung des Bundesgesetzes BGBl. I. Nr. 16/2020 tritt mit dem der Kundmachung folgenden Tag in Kraft.“
+2. In § 27 werden nach Abs. 12 folgende Abs. 12a und 12b eingefügt:
+„(12a) Die Übermittlung von Gesundheitsdaten und genetischen Daten darf gemäß Abs. 16 per Fax (Abs. 12) auch unter der Voraussetzung des Abs. 10 Z 4 erfolgen.
+(12b) Die Übermittlung von Gesundheitsdaten und genetischen Daten darf gemäß Abs. 16 unter den Voraussetzungen des Abs. 10 ungeachtet des § 6 auch per E-Mail erfolgen. Abs. 12 gilt sinngemäß.“
+3. In § 27 Abs. 13 wird nach der Wort- und Zeichenfolge „und 12“ die Wort- und Zeichenfolge „bis 12b“ eingefügt.
+4. In § 27 Abs. 14 wird jeweils nach der Wort- und Zeichenfolge „oder 12“ die Wort- und Zeichenfolge „bis 12b“ eingefügt.
+5. In § 27 werden nach Abs. 14 folgende Abs. 14a bis 14c eingefügt:
+„(14a) Die erleichterten Bedingungen nach Abs. 10 oder 12 bis 12b gelten gemäß Abs. 16 auch bei der Übermittlung von Gesundheitsdaten und genetischen Daten durch einen Gesundheitsdiensteanbieter an die betroffene oder eine von ihr bekannt gegebene Person.
+(14b) Die Überprüfung der Identität der betroffenen Personen (§ 4 Abs. 3, § 18 Abs. 4) darf gemäß Abs. 16 anhand des Namens und der Sozialversicherungsnummer der betroffenen Person und gemäß § 19 Abs. 2 Z 1 erfolgen.
+(14c) Im Fall eines gültigen Widerspruchs gegen die Teilnahme an ELGA gemäß § 15 Abs. 2 und § 16 Abs. 2 Z 2 dürfen Verordnungen (§ 13 Abs. 3) per Fax oder E-Mail an die von der betroffenen oder der von ihr ermächtigten Person bekannt gegebenen Apotheke übermittelt werden.“
+6. In § 27 wird nach Abs. 15 folgende Abs. 16 angefügt:
+„(16) Die Abs. 12a und 12b sowie die Abs. 14a bis 14c gelten nur im Rahmen der Bekämpfung der Ausbreitung des Erregers SARS-CoV-2 (COVID-19) und sind ab Außerkrafttreten des Bundesgesetzes betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19 (COVID-19-Maßnahmengesetz), BGBl. I Nr. 12/2020, nicht mehr anzuwenden.“
+Artikel 42
+Änderung des Suchtmittelgesetzes
+Das Suchtmittelgesetz – SMG, BGBl. I Nr. 112/1997, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 100/2018 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. In § 8a wird folgender Abs. 1c eingefügt:
+„(1c) Dauerverschreibungen nach Abs. 1a gelten, zur Entlastung des amtsärztlichen Dienstes unter Bezugnahme auf die Umsetzung des COVID-19-Maßnahmengesetzes, BGBl. I Nr. 12/2020, zur Verhinderung der Verbreitung von COVID-19 und zur Sicherstellung der Opioid-Substitutionsbehandlung, als vidiert, wenn die substituierende Ärztin/der substituierende Arzt den Vermerk „Vidierung nicht erforderlich“ auf der Dauerverschreibung anbringt. Der Vermerk ist von der substituierenden Ärztin/dem substituierenden Arzt zu unterfertigen und mit der Stampiglie der Ärztin/des Arztes zu versehen. Voraussetzung ist, dass der behandelnden Ärztin/dem behandelnden Arzt keine Hinweise auf eine Mehrfachbehandlung der Patientin/des Patienten mit Substitutionsmitteln vorliegen.“
+2. Dem § 10 wird folgender Abs. 3 angefügt:
+„(3) Während der Geltung des COVID-19-Maßnahmengesetzes, BGBl. I Nr. 12/2020, kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz mit Verordnung Regelungen treffen, die die Aufrechterhaltung der Opioid-Substitutionstherapie sicherstellen und dabei das Risiko einer Ansteckung der Patientinnen und Patienten, substituierenden Ärztinnen und Ärzten, Amtsärztinnen und Amtsärzten sowie des Apothekenpersonals mit dem Virus minimieren.“
+3. Dem § 47 wird folgender Abs. 20 angefügt:
+„(20) Die §§ 8a Abs. 1c und 10 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten mit Ablauf des Tages der Kundmachung in Kraft und mit Ablauf des 31. Dezember 2020 außer Kraft.“
+Artikel 43
+Änderung des Allgemeinen Sozialversicherungsgesetzes
+Das Allgemeine Sozialversicherungsgesetz – ASVG, BGBl. Nr. 189/1955, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 105/2019, die Kundmachung BGBl. I Nr. 5/2020 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. Dem § 80a wird folgender Abs. 9 angefügt:
+„(9) Der Bund leistet aus Mitteln des COVID-19-Krisenbewältigungsfonds für das Geschäftsjahr 2020 der Österreichischen Gesundheitskasse einen Betrag von 60 Millionen Euro.“
+2. Nach § 732 wird folgender § 733 samt Überschrift angefügt:
+„Beitragsrechtliche Erleichterungen für Dienstgeber/innen auf Grund der Coronavirus-Pandemie
+§ 733. (1) Für die mit Betretungsverbot belegten Unternehmungen nach der Verordnung BGBl. II Nr. 96/2020 in der jeweils geltenden Fassung und für die nach § 20 des Epidemiegesetzes 1950, BGBl. Nr. 186/1950, in Verbindung mit der Verordnung BGBl. II Nr. 74/2020 von Betriebsbeschränkungen oder Schließungen betroffenen Unternehmen sind die Beiträge für die Beitragszeiträume Februar, März und April 2020 verzugszinsenfrei zu stunden.
+(2) Für nicht von Abs. 1 erfasste Unternehmungen können die Beiträge für die Beitragszeiträume Februar, März und April 2020 auf Antrag verzugszinsenfrei gestundet werden, wenn glaubhaft gemacht wird, dass diese Beiträge wegen der Coronavirus-Pandemie aus Gründen der Unternehmensliquidität nicht entrichtet werden können.
+(3) In den Kalendermonaten März, April und Mai 2020 sind
+	1.	bereits fällige Beiträge abweichend von § 64 nicht einzutreiben;
+	2.	keine Insolvenzanträge nach der Insolvenzordnung (§ 65) wegen der Nichtentrichtung bereits fälliger Beiträge zu stellen.
+(4) In den Kalendermonaten März, April und Mai 2020 sind abweichend von § 114 Abs. 1 Z 2 bis 6 keine Säumniszuschläge vorzuschreiben.
+(5) Für Unternehmungen nach Abs. 1 sind für die Beitragszeiträume Februar, März und April 2020 die von den Dienstgeber/inne/n zu entrichtenden Beiträge nach dem Betrieblichen Mitarbeiter- und Selbständigenvorsorgegesetz (BMSVG), BGBl. I Nr. 100/2002, oder nach den Landarbeitsordnungen, in Vorarlberg nach dem Land- und Forstarbeitsgesetz, verzugszinsenfrei zu stunden. Für nicht von Abs. 1 erfasste Unternehmungen können die von den Dienstgeber/inne/n zu entrichtenden Beiträge im Sinne des ersten Satzes verzugszinsenfrei gestundet werden, wenn glaubhaft gemacht wird, dass diese Beiträge wegen der Coronavirus-Pandemie aus Gründen der Unternehmensliquidität nicht entrichtet werden können. § 27 Abs. 8 BMSVG ist hinsichtlich dieser Beitragszeiträume nicht anzuwenden.
+(6) Die Abs. 1 bis 5 sind auch auf den von § 30a B-KUVG erfassten Personenkreis anzuwenden.
+(7) Der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz kann bei Fortdauer der Coronavirus-Pandemie die in den Abs. 1 bis 5 genannten Zeiträume durch Verordnung um bis zu drei Kalendermonate (Beitragszeiträume) verlängern.“
+Artikel 44
+Änderung des Pflegefondsgesetzes
+Das Bundesgesetz, mit dem ein Pflegefonds eingerichtet und ein Zweckzuschuss an die Länder zur Sicherung und zum bedarfsgerechten Aus- und Aufbau des Betreuungs- und Pflegedienstleistungsangebotes in der Langzeitpflege für die Jahre 2011 bis 2021 gewährt wird (Pflegefondsgesetz – PFG), BGBl. I Nr. 57/2011, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 22/2017 und die Bundesministeriengesetz-Novelle 2020, BGBl. I Nr. 8/2020, wird wie folgt geändert:
+1. In § 2 wird nach Abs. 2a folgender Abs. 2b eingefügt:
+„(2b) Im Falle einer Pandemie kann den Ländern nach Maßgabe der aus dem Krisenfonds zur Verfügung stehenden Mitteln als Beitrag für die Finanzierung von außerordentlichen Belastungen und der durch den Wegfall von Betreuungsstrukturen notwendigen Maßnahmen, insbesondere für Ersatzbetreuungseinrichtungen sowie Clearingstellen, ein zweckgebundener Zuschuss zur Verfügung gestellt werden. Die Vergabe des Zweckzuschusses erfolgt durch den Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz im Einvernehmen mit dem Bundesminister für Finanzen. § 2 Abs. 1 findet keine Anwendung. Die Auszahlung des Zweckzuschusses kann von weiteren Bedingungen abhängig gemacht werden und zu einem anderen Zeitpunkt als im § 6 festgelegt erfolgen, sofern dies zweckmäßig ist.“
+2. In § 2 Abs. 3 wird die Wortfolge „(Abs. 2 und Abs. 2a)“ durch die Wortfolge „(Abs. 2, 2a und 2b)“ ersetzt.
+3. Dem §7 Abs. 3 wird folgender Satz angefügt:
+„Dies gilt sinngemäß auch für die Abrechnung des Zweckzuschusses nach § 2 Abs. 2b.“
+Van der Bellen
+Kurz

@@ -1,0 +1,213 @@
+The Minister for Health, in exercise of the powers conferred on him by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Finance, the Minister for Justice and Equality, the Minister for Culture, Heritage and the Gaeltacht, the Minister for Transport, Tourism and Sport and the Minister for Business, Enterprise and Innovation,
+
+hereby makes the following regulations:
+
+Citation and commencement
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A – Temporary Restrictions) (Covid-19) (No. 4) (Amendment) (No. 2) Regulations 2020.
+
+(2) These Regulations shall come into operation on the 16th day of September 2020.
+
+Operation of Regulations
+
+2. These Regulations shall remain in operation until the 5th day of October 2020.
+
+Amendment of Health Act 1947 (Section 31A – Temporary Restrictions) (Covid-19) (No. 4) Regulations 2020
+
+3. The Health Act 1947 (Section 31A – Temporary Restrictions) (Covid-19) (No. 4) Regulations 2020 (S.I. No. 326 of 2020) are amended –
+
+(a) in Regulation 4 -
+
+(i) by the insertion of the following definitions:
+
+“ ‘Act of 2001’ means the Local Government Act 2001 (No. 37 of 2001);
+
+‘county’ has the same meaning as it has in section 10 (amended by section 12 of the Local Government Reform Act 2014 (No. 1 of 2014)) of the Act of 2001, being a Local Government Area that is listed as a County in Schedule 5 to that Act;
+
+‘County of Dublin’ shall be interpreted in accordance with Regulation 4A;
+
+‘relevant county’ means a county that is –
+
+(a) listed in the Schedule, and
+
+(b) located in a relevant geographical location;”, and
+
+(ii) by the deletion of the definition of “relevant venue”,
+
+(b) by the insertion of the following Regulation after Regulation 4:
+
+“Local Government Areas for purposes of Regulations
+
+4A. In these Regulations, “County of Dublin” means the following Local Government Areas within the meaning of the Act of 2001:
+
+(a) Dún Laoghaire-Rathdown;
+
+(b) Fingal;
+
+(c) South Dublin;
+
+(d) Dublin City,
+
+and the said Local Government Areas shall, for the purposes of these Regulations, be deemed to be a single county.”,
+
+(c) by the substitution of the following Regulation for Regulation 5:
+
+“Restriction on events in private dwellings
+
+5. (1) Subject to Regulation 5A, a person shall not organise, or cause to be organised, an event to be held in a private dwelling other than in accordance with paragraph (2).
+
+(2) A person may organise, or cause to be organised, an event to be held in a private dwelling for social or recreational reasons where the person takes all reasonable steps to ensure that the persons attending, or proposed to attend, the event (for whatever reason) -
+
+(a) reside in no more than 3 different households, not including the private dwelling and, subject to paragraph (3), do not exceed 6 in number, or
+
+(b) reside in no more than one other household, not including the private dwelling.
+
+(3) For the purposes of paragraph (2), in reckoning the number of households in which persons at an event in a private dwelling reside -
+
+(a) subject to subparagraph (b), an applicable person whose place of residence is the private dwelling shall be excluded,
+
+(b) a person who is not ordinarily resident in the State, regardless of his or her place of residence, shall be included, and
+
+(c) where the event is attended by –
+
+(i) a person who has not attained the age of 18 years (in this paragraph referred to as a “child”), and
+
+(ii) a parent or guardian of such a child, who does not ordinarily reside with that child,
+
+the parent or guardian, as the case may be, and the child shall be deemed to reside in the same household.”,
+
+(d) by the insertion of the following Regulation after Regulation 5:
+
+“Restriction on events in private dwellings where dwellings located in relevant county
+
+5A. (1) A person shall not organise, or cause to be organised, an event to be held in a private dwelling that is located in a relevant county other than in accordance with paragraph (2).
+
+(2) A person may organise, or cause to be organised, an event to be held in a private dwelling for social or recreational reasons where the person takes all reasonable steps to ensure that the persons attending, or proposed to attend, the event (for whatever reason) reside in no more than one other household, not including the private dwelling.
+
+(3) For the purposes of paragraph (2), in reckoning the number of households in which persons at an event in a private dwelling reside -
+
+(a) subject to subparagraph (b), an applicable person whose place of residence is the private dwelling shall be excluded,
+
+(b) a person who is not ordinarily resident in the State, regardless of his or her place of residence, shall be included, and
+
+(c) where the event is attended by –
+
+(i) a person who has not attained the age of 18 years (in this paragraph referred to as a “child”), and
+
+(ii) a parent or guardian of such a child, who does not ordinarily reside with that child,
+
+the parent or guardian, as the case may be, and the child shall be deemed to reside in the same household.”,
+
+(e) by the substitution of the following Regulation for Regulation 6:
+
+“Restriction on certain events
+
+6. (1) Subject to Regulation 8 and paragraph (2), a person shall not organise, or cause to be organised, a relevant event other than in accordance with paragraph (3).
+
+(2) A person shall not organise, or cause to be organised, a relevant event in a relevant county unless the person takes all reasonable steps to ensure that the event is attended, or proposed to be attended –
+
+(a) in the case of a relevant event held, or to be held, indoors, by no more than 50 persons, or
+
+(b) in the case of a relevant event held outdoors, in a relevant venue or otherwise, by no more than 100 persons.
+
+(3) A person may organise a relevant event where the person takes all reasonable steps to ensure that the number of persons attending, or proposed to attend, the event does not exceed-
+
+(a) in the case of a relevant event held, or to be held, indoors, 50,
+
+(b) in the case of a relevant event held, or to be held, outdoors and in a place other than a relevant venue, 100, or
+
+(c) in the case of a relevant event held, or to be held, outdoors and in a relevant venue, 200.
+
+(4) For the purposes of this Regulation, in reckoning the number of persons attending a relevant event, no account shall be taken of persons so attending in a professional capacity, in the course of their employment, or in fulfilment of a contract for services.
+
+(5) Paragraphs (1) and (2) are penal provisions for the purposes of section 31A of the Act of 1947.
+
+(6) In this Regulation,
+
+‘relevant event’ means an event held, or to be held, in a relevant geographical location for social, recreational, exercise, cultural, entertainment or community reasons, but does not include –
+
+(i) an event to be held in a private dwelling,
+
+(ii) a wedding reception,
+
+(iii) a sporting event, or
+
+(iv) a training event, and
+
+‘relevant venue’ means a stadium, arena, grandstand or other like venue that would, but for the restrictions on attendance at events provided for by these Regulations, be capable of accommodating, whether by fixed outdoor seating or by fixed standing areas, at least 5,000 spectators.”,
+
+(f) by the deletion of Regulation 7,
+
+(g) in Regulation 8-
+
+(i) by the deletion of “(for whatever reason)” in paragraph (2),
+
+(ii) by the deletion of paragraph (3), and
+
+(iii) by the insertion of the following paragraph after paragraph (3):
+
+“(4) For the purposes of this Regulation, in reckoning the number of persons attending a wedding reception, no account shall be taken of persons so attending in a professional capacity, in the course of their employment, or in fulfilment of a contract for services.”,
+
+(h) in Regulation (9) -
+
+(i) by the substitution of the following paragraph for paragraph (1):
+
+“(1) Subject to paragraph (1A), a person shall not organise, or cause to be organised, a sporting event unless the person takes all reasonable steps to ensure that the event is attended, or proposed to be attended, only by –
+
+(a) necessary persons, and
+
+(b) in the case of a sporting event held, or to be held –
+
+(i) indoors, by no more than 50 other persons who are not necessary persons,
+
+(ii) outdoors, other than in a relevant sporting venue, by no more than 100 other persons who are not necessary persons, or
+
+(iii) outdoors, in a relevant sporting venue, by no more than 200 other persons who are not necessary persons.”,
+
+(ii) by the insertion of the following paragraph after paragraph (1):
+
+“(1A) A person shall not organise, or cause to be organised, a sporting event in a relevant county unless the person takes all reasonable steps to ensure that the event is attended, or proposed to be attended –
+
+(a) in the case of a sporting event held, or to be held, indoors, only by necessary persons and by no more than 50 other persons who are not necessary persons, or
+
+(b) in the case of a sporting event held outdoors, in a relevant sporting venue or otherwise, only by necessary persons and by no more than 100 other persons who are not necessary persons.”, and
+
+(iii) in paragraph (2)-
+
+(I) by the insertion of the following definition:
+
+“ ‘relevant sporting venue’ means a stadium, arena, grandstand or other like venue that would, but for the restrictions on attendance at sporting events provided for by this Regulation, be capable of accommodating, whether by fixed outdoor seating or by fixed standing areas, at least 5,000 spectators;”, and
+
+(II) in the definition of “necessary person”, by the insertion of the following subparagraph after subparagraph (f):
+
+“(fa) a person engaged by the organiser of the sporting event as a steward, whether in a remunerated or voluntary capacity, to implement crowd control, compliance with public health guidance and other safety measures;”, and
+
+(III) in the definition of “sporting event”, by the substitution of the following subparagraph for subparagraph (c):
+
+“(c) not a training event;”,
+
+(i) in Regulation 10(3)(c), by the substitution of “at senior, under 20 or minor level, or for the senior club championship” for “at senior or minor level”, and
+
+(j) by the insertion of the Schedule set out in the Schedule to these Regulations.
+
+SCHEDULE
+
+Regulation 3(a)(i)
+
+Relevant Counties
+
+The County of Dublin
+
+/images/ls
+
+GIVEN under the Official Seal of the Minister for Health,
+
+16 September, 2020.
+
+COLM DESMOND,
+
+A person authorised under section 15 of the Ministers and Secretaries Act 1924 to authenticate the seal of the Minister for Health.

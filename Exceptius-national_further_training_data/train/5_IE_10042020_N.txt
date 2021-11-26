@@ -1,0 +1,514 @@
+The Minister for Health, in exercise of the powers conferred on him by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Finance, the Minister for Public Expenditure and Reform and the Minister for Justice and Equality,
+
+hereby makes the following regulations:
+
+Citation and commencement
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A -Temporary Restrictions) (Covid-19) Regulations 2020.
+
+(2) These Regulations shall come into operation on the 8th day of April 2020.
+
+Operation of Regulations
+
+2. These Regulations shall remain in operation until the 12th day of April 2020.
+
+Definitions
+
+3. In these Regulations -
+
+“Act of 1947” means the Health Act 1947 (No. 28 of 1947);
+
+“applicable person” means a person whose place of residence is located within a relevant geographical location;
+
+“child” means a person who has not yet attained the age of 18 years;
+
+“essential retail outlet” means a retail outlet specified in Schedule 1;
+
+“essential service” means a service specified in Schedule 2;
+
+“local authority” means a local authority within the meaning of section 2 of the Local Government Act 2001 (No. 37 of 2001);
+
+“place of residence”, in relation to an applicable person, means -
+
+(a) the premises that comprise the person’s home, or
+
+(b) if the person does not have a home or is not residing in his or her home, such other premises, if any, at which he or she is currently residing, whether on a permanent or temporary basis;
+
+“relevant geographical location” means a geographical location to which an affected areas order applies;
+
+“vulnerable person” means -
+
+(a) a person who normally requires assistance in carrying out his or her daily activities,
+
+(b) a person who, although not normally requiring assistance in carrying out his or her daily activities, requires such assistance because he or she is -
+
+(i) particularly susceptible to the risk posed to health by Covid-19, or
+
+(ii) not in a position to leave his or her place of residence due to reasons related to the spread of Covid-19 or otherwise, or
+
+(c) a child.
+
+Restriction of movement of applicable persons
+
+4. (1) An applicable person shall not leave his or her place of residence without reasonable excuse.
+
+(2) Without prejudice to the generality of what constitutes a reasonable excuse for the purposes of paragraph (1), such reasonable excuse includes an applicable person leaving his or her place of residence (in this paragraph referred to as the “relevant residence”) to -
+
+(a) provide, or assist in the provision of, an essential service, whether for remuneration or not,
+
+(b) go to an essential retail outlet for the purpose of obtaining items (including food, beverages, fuel, medicinal products, medical devices or appliances, other medical or health supplies or products, essential items for the health and welfare of animals, or supplies for the essential upkeep and functioning of the relevant residence), or accessing services provided in the outlet, for the applicable person or any other person residing in the relevant residence,
+
+(c) go to an essential retail outlet for the purpose of obtaining items (including food, beverages, fuel, medicinal products, medical devices or appliances, other medical or health supplies or products, essential items for the health and welfare of animals, or supplies for the essential upkeep and functioning of the place of residence of a vulnerable person), or accessing services provided in the outlet, for a vulnerable person,
+
+(d) obtain money for -
+
+(i) the applicable person,
+
+(ii) any other person residing in the relevant residence, or
+
+(iii) a vulnerable person,
+
+(e) attend a medical appointment or accompany, to a medical appointment, any other person residing in the relevant residence or a vulnerable person,
+
+(f) seek essential medical, health or emergency dental assistance for -
+
+(i) the applicable person,
+
+(ii) any other person residing in the relevant residence, or
+
+(iii) a vulnerable person,
+
+(g) donate blood or accompany any other person residing in the relevant residence to donate blood,
+
+(h) seek veterinary assistance,
+
+(i) exercise, either alone or with other persons residing in the relevant residence, within a 2 kilometre radius of that residence,
+
+(j) attend to vital family matters (including to provide care to vulnerable persons),
+
+(k) attend the funeral of -
+
+(i) another person who resided in the relevant residence before his or her death, or
+
+(ii) a close family member of the applicable person,
+
+(l) fulfil a legal obligation (including attending court, satisfying bail conditions, or participating in ongoing legal proceedings), attend a court office where required, initiate emergency legal proceedings or execute essential legal documents,
+
+(m) access an essential service, or assist any other person residing in the relevant residence or a vulnerable person to access an essential service, where the access is immediately required and the applicable person, other person residing in the relevant residence or vulnerable person, as the case may be, cannot access the service concerned from the person’s place of residence,
+
+(n) if the applicable person is a parent or guardian of a child, or a person having a right of access to a child, give effect to arrangements for access to the child by -
+
+(i) the applicable person, or
+
+(ii) another person who is -
+
+(I) a parent or guardian of the child, or
+
+(II) a person having a right of access to the child,
+
+(o) in the case of a minister of religion or priest (or any equivalent thereof in any religion) -
+
+(i) lead worship or services remotely through the use of information and communications technology,
+
+(ii) minister to the sick, or
+
+(iii) conduct funeral services,
+
+(p) move to another residence where, in all the circumstances of the case, such movement is reasonably necessary, or
+
+(q) provide emergency assistance, avoid injury or illness, or escape a risk of harm, whether to the applicable person or another person.
+
+(3) Paragraph (1) is a penal provision for the purposes of section 31A of the Act of 1947.
+
+Restrictions on events
+
+5. (1) A person shall not -
+
+(a) hold an event in a relevant geographical area unless -
+
+(i) the event is a relevant event, and
+
+(ii) the number of participants in the event is limited to not more than is reasonably necessary having regard to the nature of the purposes for which the event is held,
+
+or
+
+(b) participate in an event in a relevant geographical area unless -
+
+(i) the event is a relevant event, and
+
+(ii) the person is a relevant participant.
+
+(2) Paragraph (1) is a penal provision for the purposes of section 31A of the Act of 1947.
+
+(3) In this Regulation -
+
+“relevant event” means an event held for the purposes of any matter which falls within any subparagraph of Regulation 4(2);
+
+“relevant participant”, in relation to a relevant event, means a person who participates in the event in order to engage in any activity required to be undertaken for the purposes for which the event is held.
+
+SCHEDULE 1
+
+Regulation 3
+
+ESSENTIAL RETAIL OUTLETS
+
+1. Outlets selling food or beverages on a takeaway basis, or newspapers, whether on a retail or wholesale basis and whether in a non-specialised or specialised outlet.
+
+2. Outlets selling products necessary for the essential upkeep and functioning of places of residence and businesses, whether on a retail or wholesale basis.
+
+3. Pharmacies, chemists and retailers or wholesalers providing pharmaceuticals or pharmaceutical or dispensing services, whether on a retail or wholesale basis.
+
+4. Outlets selling health, medical or orthopaedic goods in a specialised outlet, whether on a retail or wholesale basis.
+
+5. Fuel service stations and heating fuel providers.
+
+6. Outlets selling essential items for the health and welfare of animals (including animal feed and veterinary medicinal products, pet food, animal bedding and animal supplies), whether on a retail or wholesale basis.
+
+7. Laundries and drycleaners.
+
+8. Banks, post offices and credit unions.
+
+9. Outlets selling safety supplies (including work-wear apparel, footwear and personal protective equipment), whether on a retail or wholesale basis.
+
+10. Hardware outlets, builders’ merchants and outlets that provide, whether on a retail or wholesale basis -
+
+(a) hardware products necessary for home and business maintenance,
+
+(b) sanitation and farm equipment, or
+
+(c) supplies and tools essential for gardening, farming or agriculture purposes.
+
+11. The following outlets insofar as they offer services on an emergency basis only:
+
+(a) optician and optometrist outlets;
+
+(b) outlets providing hearing test services or selling hearing aids and appliances;
+
+(c) outlets providing for the repair of mechanically propelled vehicles or for the repair of bicycles and any related facilities (including tyre sales and repairs);
+
+(d) outlets selling office products and services for businesses or for applicable persons working from their respective places of residence, whether on a retail or wholesale basis;
+
+(e) outlets providing electrical, information and communications technology and telephone sales, repair and maintenance services for places of residence and businesses.
+
+SCHEDULE 2
+
+Regulation 3
+
+ESSENTIAL SERVICES
+
+Agriculture, horticulture, forestry, fishing, animal welfare and related services
+
+1. The following services relating to agriculture, horticulture, forestry, fishing, animal welfare and related services:
+
+(a) farming;
+
+(b) farm labour;
+
+(c) farm relief services;
+
+(d) crop and animal production;
+
+(e) fishing for commercial purposes;
+
+(f) aquaculture and fish farming;
+
+(g) horticulture;
+
+(h) forestry;
+
+(i) veterinary, animal welfare and related services;
+
+(j) the provision of support services relating to any of the services specified in subparagraphs (a) to (i) (including artificial insemination and animal disposal).
+
+Manufacturing
+
+2. The following services relating to manufacturing:
+
+(a) the manufacture, production or processing of food and beverage products;
+
+(b) the manufacture, production or processing of animal feeds;
+
+(c) the manufacture of work-wear apparel, personal protective equipment or footwear;
+
+(d) the manufacture of wood pulp, paper and paperboard;
+
+(e) the operation of sawmills and the processing of wood and cork;
+
+(f) the printing and reproduction of newspapers and other media services;
+
+(g) the distillation of coke and refined petroleum products;
+
+(h) the refining of alumina;
+
+(i) the manufacture of chemicals and chemical products;
+
+(j) the manufacture of pharmaceutical products and preparations;
+
+(k) the manufacture of products necessary for the supply chain of essential services;
+
+(l) the manufacture of computers, electronic and optical products (including semi-conductors);
+
+(m) the manufacture of electrical equipment, machinery and other equipment (including agricultural and forestry machinery);
+
+(n) the manufacture of medical devices or appliances;
+
+(o) the manufacture of medicinal, health, dental and other personal hygiene products, equipment, appliances and supplies.
+
+Supply, repair and installation of machinery and equipment
+
+3. The following services relating to the supply, repair and installation of machinery and equipment:
+
+(a) the supply, repair and installation of machinery and equipment (including mechanically propelled vehicles, industrial machinery and equipment) for essential services;
+
+(b) the repair of mechanically propelled vehicles or the repair of bicycles and related facilities on an emergency call-out basis.
+
+Electricity, gas, water, sewage and waste management
+
+4. The following services relating to electricity, gas, water, sewage and waste management:
+
+(a) the generation, transmission, supply and distribution of electric power;
+
+(b) the extraction and distribution of gas;
+
+(c) the collection, treatment and supply of water;
+
+(d) the collection, treatment and disposal of sewage or wastewater;
+
+(e) the collection of waste, remediation activities and other waste management treatment and disposal activities (including the operation of landfill sites, waste transfer stations, waste processing centres and recycling facilities or waste recovery).
+
+Construction and development
+
+5. The following services relating to construction and development:
+
+(a) the construction or development of essential health and related projects relevant to preventing, limiting, minimising or slowing the spread of Covid-19;
+
+(b) the repair, maintenance and construction of critical road, rail and utility infrastructure;
+
+(c) the supply and delivery of essential or emergency maintenance and repair services to businesses and places of residence (including electrical, gas, plumbing, glazing and roofing services) on an emergency call-out basis.
+
+Wholesale and retail trade
+
+6. The following services relating to wholesale and retail trade:
+
+(a) the operation of essential retail outlets;
+
+(b) wholesale and distribution services necessary for ensuring the availability for sale of food, beverages, fuel, medicinal products, medical devices or appliances, other medical or health supplies or products, essential items for the health and welfare of animals, or supplies for the essential upkeep and functioning of a place of residence;
+
+(c) the operation of automated teller machines and related services.
+
+Transport, storage and communications
+
+7. The following services relating to transport, storage and communications:
+
+(a) the provision of land transport, including bus, rail and taxi services;
+
+(b) road, rail, sea and air freight;
+
+(c) the provision of sea and air passenger services;
+
+(d) the operation of ports, harbours and airports;
+
+(e) the operation of lighthouses;
+
+(f) warehousing and support activities (including cargo-handling, postal and courier activities) for the transportation of goods;
+
+(g) the control and critical maintenance of the transport infrastructure network (including roads);
+
+(h) any service required for the safe provision of a service specified in subparagraphs (a) to (g).
+
+Accommodation and food services
+
+8. The following services relating to accommodation and food services provision:
+
+(a) the operation of hotels or similar accommodation services providing essential accommodation (including accommodation for homeless persons and persons in direct provision, persons who are unable to reside in their usual place of residence due to reasons related to the spread of Covid-19 or otherwise or persons who require such accommodation for the purposes of any matter which falls within any subparagraph of Regulation 4(2)) and related services;
+
+(b) food and beverage service activities for supply to a business engaged in an essential service;
+
+(c) the provision of food or beverage takeaway or delivery services.
+
+Information and communications
+
+9. The following services relating to information and communications:
+
+(a) the production and publication of newspapers, journals and periodicals and the distribution of those publications, whether in hardcopy or digital format;
+
+(b) the production of television and radio programmes, video, sound, digital or other electronic content and the broadcast or publication of the same to the public or a portion of the public;
+
+(c) the provision of services necessary to deliver and support wired telecommunication activities and satellite telecommunication activities and other communications activities (including internet and cloud providers);
+
+(d) the provision of data centre services and related services.
+
+Financial and legal activities
+
+10. The following services relating to financial and legal activities:
+
+(a) financial, insurance and banking services (including post office and credit union services) provided by a financial services provider;
+
+(b) accounting services or audit services;
+
+(c) legal services provided by practising barristers or practising solicitors.
+
+Professional, scientific and technical activities
+
+11. The following services relating to professional, scientific and technical activities:
+
+(a) the provision of engineering, technical testing activities and analysis (including the performance of physical, chemical and other analytical testing of materials and products);
+
+(b) the provision of scientific research and development services;
+
+(c) regulation, inspection and certification services, in accordance with law, of a particular sector by a body created by statute for that purpose.
+
+Rental and leasing activities
+
+12. The provision of a service for the rental or leasing of mechanically propelled vehicles or bicycles.
+
+Administrative and support activities
+
+13. The following services relating to administrative and support activities:
+
+(a) payroll and payment services necessary for the operation of undertakings and bodies;
+
+(b) employment placement and human resources services associated with the recruitment and deployment of workers engaged in the provision of essential services;
+
+(c) data processing, website hosting and related activities;
+
+(d) security activities to assist in either or both of the following:
+
+(i) the delivery of essential services;
+
+(ii) the securing of premises closed to the public;
+
+(e) funeral, burial and related services;
+
+(f) business support services (including information and communications technology support and sales, repair and maintenance for information and communications technology and telephones) where such services are necessary to support -
+
+(i) any other essential service,
+
+(ii) a person working from their place of residence where the business concerned is being operated from a place of residence, or
+
+(iii) a business that is not an essential service, to the extent required to maintain that business in operation or to minimise any delay in the business resuming operation after these Regulations have ceased to be in operation;
+
+(g) where such services are necessary to support any other essential service:
+
+(i) the cleaning of buildings;
+
+(ii) industrial cleaning activities;
+
+(iii) the provision of key third party supports other than those referred to in paragraph (f) provided under contract to a person providing an essential service.
+
+Public administration, emergency services and defence
+
+14. The following services relating to public administration, emergency services and defence:
+
+(a) the performance by the Garda Síochána, including members and civilian staff of the Garda Síochána, of its functions under the Garda Síochána Act 2005 (No. 20 of 2005);
+
+(b) public order, rescue and emergency services (including fire, coastguard, lifeboat, mountain rescue and ambulance services);
+
+(c) the performance by the Defence Forces of the functions conferred on them by or under any enactment;
+
+(d) emergency call answering services;
+
+(e) services to enable the administration of justice;
+
+(f) prison services and child detention services;
+
+(g) cyber-security services;
+
+(h) the provision of social protection benefits;
+
+(i) regulatory processes and certification required to ensure supply chains, safety of food, beverages, medicinal products, medical devices or appliances, other medical or health supplies or products, and general process safety;
+
+(j) the operation and maintenance of botanical gardens, parks, forests and nature reserves;
+
+(k) services relating to the deaths and funerals of persons;
+
+(l) chaplaincy services;
+
+(m) services provided or functions performed by an office holder appointed under any enactment or under the Constitution, or members of either House of the Oireachtas, the European Parliament or a local authority;
+
+(n) services provided under the Child Care Act 1991 (No. 17 of 1991);
+
+(o) adoption services under the Adoption Act 2010 (No. 21 of 2010);
+
+(p) services provided to victims;
+
+(q) services, including regulation services, provided by, and activities of, the Central Bank of Ireland, the Investor Compensation Company DAC (otherwise known as the Investor Compensation Company Limited) and the National Treasury Management Agency;
+
+(r) any other service provided, or function performed, by a public body (within the meaning of the Data Sharing and Governance Act 2019 (No. 5 of 2019)), where the provision of the service or performance of the function is necessary to support or manage -
+
+(i) other essential services, or
+
+(ii) the response of the State to the spread of Covid-19.
+
+Human health and social work activities
+
+15. The following services relating to human health and social work activities:
+
+(a) hospital services;
+
+(b) therapy services provided by a member of a designated profession within the meaning of section 3 of the Health and Social Care Professionals Act 2005 (No. 27 of 2005);
+
+(c) services relating to public health, including services relating to -
+
+(i) the identification, tracing and contacting of persons who have been in contact with persons who have been diagnosed, or are suspected of having been infected, with Covid-19, and
+
+(ii) the testing of persons for Covid-19;
+
+(d) laboratory services;
+
+(e) drug treatment and addiction services;
+
+(f) hospice services;
+
+(g) pharmacy services;
+
+(h) primary care and general and specialist medical practice activities;
+
+(i) emergency dental services;
+
+(j) blood donation and related services;
+
+(k) tissue or organ donation and related services;
+
+(l) residential care services (including nursing care, mental health and substance abuse services, services for elderly persons and persons with disabilities) and children’s residential services;
+
+(m) homecare, home help and other health services in the community;
+
+(n) social work and social care services, (including disability services, mental health services, child protection and welfare services, domestic, sexual and gender-based violence services) and homeless services including homeless outreach services;
+
+(o) paramedical, ambulance and pre-hospital care services;
+
+(p) services provided by minor injury units;
+
+(q) maternity services;
+
+(r) health and social work services;
+
+(s) food safety and environmental services;
+
+(t) the care of children for persons providing essential services, where such care is in the person’s place of residence.
+
+Community and voluntary services
+
+16. The following services relating to community and voluntary services:
+
+(a) services not otherwise specified in this Schedule, provided by community and voluntary workers, as part of a publicly commissioned service, deployed to assist in the delivery of essential services;
+
+(b) volunteer services operating under the local authority emergency management framework in accordance with public health guidance.
+
+Diplomatic missions and consular affairs
+
+17. The provision of services essential to the functioning of diplomatic missions and consular posts in the State.
+
+
+GIVEN under the Official Seal of the Minister for Health,
+
+7 April, 2020.
+
+SIMON HARRIS,
+
+Minister for Health.

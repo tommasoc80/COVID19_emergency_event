@@ -1,0 +1,363 @@
+Sklep o makrobonitetnih omejitvah kreditiranja prebivalstva
+2019-10-25
+Opozorilo: Neuradno precišceno besedilo predpisa predstavlja
+zgolj informativni delovni pripomocek, glede katerega organ ne jamci
+odškodninsko ali kako drugace.
+
+Neuradno precišceno besedilo Sklepa o makrobonitetnih
+omejitvah kreditiranja prebivalstva obsega:
+
+-       
+Sklep o makrobonitetnih omejitvah kreditiranja prebivalstva (Uradni list
+RS, št. 64/19 z dne 25. 10. 2019),
+
+-       
+Sklep o spremembi in dopolnitvi Sklepa o makrobonitetnih omejitvah
+kreditiranja prebivalstva (Uradni list RS, št. 75/20 z dne 22. 5. 2020).
+
+SKLEP
+
+o makrobonitetnih omejitvah kreditiranja prebivalstva
+
+(neuradno precišceno besedilo št. 1)
+
+1. SPLOŠNE DOLOCBE
+
+1. clen
+
+(Vsebina in namen sklepa)
+
+(1) Banka Slovenije s ciljem »blažitve in preprecitve
+cezmerne rasti kreditiranja in cezmernega financnega vzvoda« uvaja
+makrobonitetne omejitve kreditiranja prebivalstva.
+
+(2) Sklep doloca tri makrobonitetne instrumente:
+
+(a)   
+najdaljšo dovoljeno dobo odplacila oziroma rocnosti ter delež dovoljenih
+odstopanj (izjem) od najdaljše dovoljene dobe odplacila oziroma rocnosti
+kreditnih pogodb za potrošni namen ob njihovi sklenitvi;
+
+(b)   
+najvišjo dovoljeno vrednost ter delež dovoljenih odstopanj (izjem) od
+najvišje dovoljene vrednosti razmerja med letnim stroškom servisiranja
+celotnega dolga in letnim dohodkom potrošnika ob sklenitvi kreditne pogodbe;
+
+(c)   
+najvišjo priporoceno vrednost razmerja med zneskom kreditne pogodbe za
+stanovanjsko nepremicnino in vrednostjo stanovanjske nepremicnine, s katero je
+kredit zavarovan, ob sklenitvi kreditne pogodbe.
+
+(3) Dolocbe tega sklepa se uporabljajo za banke, hranilnice
+ter podružnice bank držav clanic in podružnice bank tretjih držav v Republiki
+Sloveniji (v nadaljevanju: banke).
+
+(4) Sklep ne posega v pravila glede odgovornosti bank pri
+prevzemanju in upravljanju tveganj. Banke še naprej same dolocajo svojo interno
+politiko prevzemanja in upravljanja tveganj, skladno s Sklepom o ureditvi
+notranjega upravljanja, upravljalnem organu in procesu ocenjevanja ustreznega
+notranjega kapitala za banke in hranilnice (Uradni list RS, št. 73/15, 49/16,
+68/17, 33/18, 81/18 in 45/19).
+
+(5) Kadar se ta sklep sklicuje na dolocbe drugih predpisov,
+se te dolocbe uporabljajo v njihovem vsakokrat veljavnem besedilu.
+
+2. clen
+
+(Opredelitve pojmov)
+
+Za namen tega sklepa veljajo naslednje opredelitve pojmov:
+
+(a)   
+'potrošnik' je fizicna oseba, ki deluje za namene izven svoje
+poklicne ali pridobitne dejavnosti;
+
+(b)   
+'kreditna pogodba' je pogodba, s katero dajalec kredita
+potrošniku da ali obljubi, da mu bo dal kredit v obliki odloga placila,
+posojila ali drugega podobnega financnega dogovora.
+
+(c)   
+'stanovanjska nepremicnina' je nepremicnina, namenjena oziroma
+predvidena za stanovanjsko rabo;
+
+(d)   
+'kreditna pogodba zastanovanjsko nepremicnino' (»stanovanjski
+kredit«) je kreditna pogodba:
+
+- 
+katere terjatev je zavarovana z zastavno pravico na stanovanjski
+nepremicnini v skladu z zakonom, ki ureja stvarnopravna razmerja (»kreditna
+pogodba, zavarovana s stanovanjsko nepremicnino«), ali
+
+- 
+katere namen je pridobiti ali ohraniti lastninsko pravico na obstojeci
+ali nacrtovani stanovanjski nepremicnini (vkljucujoc obnovo).
+
+(e)   
+'kreditna pogodba za potrošni namen' (»potrošniški kredit«)
+jevsaka kreditna pogodba, ki ni kreditna pogodba za stanovanjsko nepremicnino.
+
+(f)    
+'znesek kredita' vkljucuje celoten znesek kredita odobren ob
+sklenitvi kreditne pogodbe. Pri kreditih, ki se izplacujejo v tranšah (npr.
+krediti za nepremicnine v gradnji), se upošteva celoten znesek odobrenega
+kredita, ne glede na to, kdaj je izvedeno izplacilo;
+
+(g)   
+'vrednost stanovanjske nepremicnine' je vrednost stanovanjske
+nepremicnine ocenjena v skladu z zakonom, ki ureja potrošniške kredite. V
+primeru nepremicnine v gradnji ali obnovi se uporabi predvideno vrednost
+nepremicnine po gradnji oziroma obnovi. V primeru predhodnih obremenitev s
+hipotekami na isti nepremicnini se vrednost nepremicnine zmanjša za celotni
+znesek dolga, ki je že zavarovan s hipotekami na tej nepremicnini. V primeru
+enakega vrstnega reda hipotek se vrednost nepremicnine proporcionalno porazdeli
+med dolgove, zavarovane s hipotekami na tej nepremicnini. Za namene tega
+sklepa, vrednost nepremicnine ne upošteva notranjih prilagoditev in nacinov izracuna
+vrednosti nepremicnine, ki se uporabljajo za namene obvladovanja tveganj. Na
+vrednost nepremicnine se ne aplicira odbitkov (ang. haircut);
+
+(h)   
+'LTV (angl. Loan-to value)' je razmerje med zneskom kreditne
+pogodbe za stanovanjsko nepremicnino in vrednostjo stanovanjske nepremicnine, s
+katero je kredit zavarovan, ob sklenitvi kreditne pogodbe;
+
+(i)    
+'celotni dolg potrošnika' se nanaša na celotni dolg potrošnika ob
+sklenitvi kreditne pogodbe. Ta dolg vkljucuje znesek kredita, ki je predmet
+zadevne kreditne pogodbe ter zneske vseh ostalih neporavnanih kreditnih pogodb
+z izjemo dolgov, povezanih s kreditnimi karticami in limiti;
+
+(j)    
+'strošek servisiranja kredita' predstavlja anuiteto ob sklenitvi
+kreditne pogodbe, ki vkljucuje obresti in odplacilo glavnice (razdolžnino). Ne
+glede na dejanski nacin odplacevanja kredita se pri vseh kreditih upošteva
+predpostavka anuitetnega nacina odplacevanja. Pri kreditih, pri katerih se
+obrestna mera tekom njihove življenjske dobe spreminja (npr. promocijska
+obrestna mera v prvih nekaj mesecih odplacila kredita), se anuiteta izracuna na
+podlagi povprecne pogodbene obrestne mere, izracunane ob upoštevanju celotne
+življenjske dobe kredita. Pri kreditih z variabilno obrestno mero se pri
+izracunu povprecne pogodbene obrestne mere predpostavi, da referencna obrestna
+mera ostane nespremenjena skozi življenjsko dobo kredita;
+
+(k)   
+'strošek servisiranja celotnega dolga' je seštevek stroškov
+servisiranj kreditov, ki so všteta v celotni dolg kreditojemalca;
+
+(l)    
+'letni strošek servisiranja celotnega dolga' je seštevek stroškov
+servisiranja celotnega dolga v obdobju enega leta po datumu sklenitve nove
+kreditne pogodbe;
+
+(m) 
+'letni dohodek potrošnika' je dohodek potrošnika v obdobju enega
+leta pred datumom sklenitve nove kreditne pogodbe. Banka upošteva naslednje
+vrste dohodkov: prejemke iz vseh dohodkovnih virov, kot jih opredeljuje zakon o
+dohodnini (dohodki iz delovnega razmerja, dohodki iz dejavnosti, pokojnine,
+prejemki od oddaje nepremicnin, financnih investicij ter drugih virov), razen
+prejemkov enkratne oziroma obcasne narave (npr. jubilejne in izredne nagrade)
+ter prejemkov, ki so v skladu z zakonom, ki ureja izvršbo in zavarovanje
+izvzeti iz izvršbe. Dohodki so zmanjšani za davke in prispevke (npr. prispevki
+za zdravstveno zavarovanje, pokojninsko zavarovanje in socialna zavarovanja)
+ter se upoštevajo pred odštetjem stroškov. Banka lahko izjemoma upošteva
+dohodek v preteklih treh mesecih, preracunan na letno raven, ce kreditojemalec
+pred tem ni bil zaposlen, pri cemer dohodke znacilne za posamezna cetrtletja
+(božicnica, regres ipd.) upošteva le enkrat;
+
+(n)   
+'DSTI (angl. Debt service-to-income)' je razmerje med letnim
+stroškom servisiranja celotnega dolga in letnim dohodkom potrošnika ob
+sklenitvi kreditne pogodbe:
+
+(o)   
+'premostitveni kredit' je kreditna pogodba za stanovanjsko
+nepremicnino, ki ni sklenjena za fiksno obdobje ali pri katerih je treba kredit
+odplacati v 12 mesecih in ki potrošniku služi kot zacasna rešitev glede financiranja
+kredita za nepremicnino, preden sklene drug financni dogovor za nepremicnino.
+Kot premostitveni kredit šteje tudi kreditna pogodba, ki je sklenjena najdlje
+za cas do poteka datuma vezave vloge v banki kreditodajalki in katere
+obveznosti se lahko najkasneje ob poteku kreditne pogodbe v celoti poravnajo iz
+sredstev zadevne vloge.
+
+3. clen
+
+(Izjeme od uporabe sklepa)
+
+Ta sklep se ne uporablja za:
+
+(a)   
+pogodbe o financnem zakupu (lizingi, najemi);
+
+(b)   
+pogodbe, pri katerih so bili izvedeni ukrepi restrukturiranja kot so
+definirani v Uredbi (EU) št. 575/2013 Evropskega parlamenta in Sveta z dne 26.
+junija 2013 o bonitetnih zahtevah za kreditne institucije in investicijska
+podjetja ter o spremembi Uredbe (EU) št. 648/2012 (UL L št. 176 z dne 27.
+junija 2013, str. 1) zadnjic spremenjena z Uredbo (EU) 2019/876 Evropskega
+parlamenta in Sveta z dne 20. maja 2019 o spremembi Uredbe (EU) št. 575/2013 v
+zvezi s kolicnikom financnega vzvoda, kolicnikom neto stabilnega financiranja,
+zahtevami glede kapitala in kvalificiranih obveznosti, kreditnim tveganjem
+nasprotne stranke, tržnim tveganjem, izpostavljenostmi do centralnih nasprotnih
+strank, izpostavljenostmi do kolektivnih naložbenih podjemov, velikimi
+izpostavljenostmi, zahtevami glede porocanja in razkritja ter Uredbe (EU) št.
+648/2012 (UL L 150 z dne 7. junij 2019, str. 1).
+
+2. NAJDALJŠA DOVOLJENA ROCNOST ZA POTROŠNIŠKE KREDITE
+
+4. clen
+
+(Omejitev rocnosti)
+
+(1) Ob sklenitvi nove kreditne pogodbe obdobje trajanja
+kreditne pogodbe oziroma rocnost ne sme presegati 84 mesecev.
+
+(2) Ta clen se ne uporablja za kreditne pogodbe za
+stanovanjsko nepremicnino.
+
+5. clen
+
+(Dovoljena odstopanja)
+
+(1) Ne glede na prejšnji clen sme najdaljšo rocnost presegati
+najvec 15 % novih kreditnih pogodb, pod pogojem, da njihova rocnost ne presega
+120 mesecev.
+
+(2) Dovoljena odstopanja so dolocena na cetrtletni ravni in
+se izracunajo glede na skupen znesek novih kreditnih pogodb, ki so skladne s 4.
+in 6. clenom tega sklepa.
+
+(3) Kreditne pogodbe, ki presegajo omejitev rocnosti iz 4.
+clena tega sklepa, ne smejo biti odobrene z razmerjem DSTI, ki je višje od
+omejitve, dolocene v 6. clenu tega sklepa.
+
+3. NAJVIŠJE DOVOLJENO RAZMERJE DSTI
+
+6. clen
+
+(Omejitev razmerja DSTI)
+
+(1) Ob sklenitvi nove kreditne pogodbe razmerje DSTI ne sme
+preseci:
+
+a)    
+pri potrošnikih z mesecnimi dohodki, ki so nižji od ali enaki 2-kratniku
+minimalne bruto place, kot jo doloca zakon, ki opredeljuje minimalno placo: 50
+% in
+
+b)    
+pri potrošnikih z mesecnimi dohodki, ki so višji od dohodka
+opredeljenega v tocki a): 50 % za del dohodka do vkljucno višine dohodka,
+opredeljenega v tocki a) in 67 % za del dohodka, ki presega dohodek, opredeljen
+v tocki a).
+
+(2) Ne glede na višino dohodka, mora potrošniku po placilu
+vseh obrokov iz naslova kreditnih pogodb vsak mesec ostati najmanj znesek v
+višini 76 % minimalne bruto place, kot jo doloca zakon, ki opredeljuje
+minimalno placo. Ce potrošnik preživlja družinskega clana ali drugo osebo, ki
+jo mora preživljati po zakonu, mu mora ostati tudi znesek v višini prejemka,
+dolocenega za osebo, ki jo preživlja, po merilih, ki jih doloca zakon, ki ureja
+socialno varstvene prejemke, za dodelitev denarne socialne pomoci.
+
+(3) Ce kreditno pogodbo sklene vec potrošnikov, veljata
+dolocili iz prvega in drugega odstavka tega clena za vsakega posebej.
+
+(4) Ta clen se ne uporablja za premostitvene kredite.
+
+7. clen
+
+(Dovoljena odstopanja)
+
+(1) Ne glede na 1. odstavek prejšnjega clena sme najvišje
+razmerje DSTI presegati najvec 10 % novih kreditnih pogodb za stanovanjsko
+nepremicnino in najvec 10 % kreditnih pogodb za potrošni namen pod pogojema, da
+so te kreditne pogodbe skladne z 2. odstavkom prejšnjega clena ter da razmerje
+DSTI teh kreditnih pogodb ne presega 67 %. Kreditne pogodbe za potrošni namen,
+ki presegajo najvišje razmerje DSTI, predpisano v prvem odstavku 6. clena tega
+sklepa, morajo biti skladne s 4. clenom tega sklepa.
+
+(2) Dovoljena odstopanja so dolocena na cetrtletni ravni in
+se izracunajo glede na skupen znesek novih kreditnih pogodb, ki so skladne s 4.
+in 6. clenom tega sklepa.
+
+(3) Ce kreditno pogodbo sklene vec potrošnikov in eden od teh
+ne izpolnjuje omejitev iz 6. clena tega sklepa, se v delež dovoljenih odstopanj
+šteje celoten znesek kreditne pogodbe.
+
+4. PRIPOROCENO NAJVIŠJE RAZMERJE LTV ZA STANOVANJSKE KREDITE
+
+8. clen
+
+(Najvišje priporoceno razmerje LTV)
+
+Priporoca se, da ob sklenitvi nove kreditne pogodbe,
+zavarovane s stanovanjsko nepremicnino, razmerje LTV ne presega 80 %.
+
+
+
+
+
+Sklep o makrobonitetnih omejitvah kreditiranja
+prebivalstva (Uradni list RS, št. 64/19) vsebuje naslednje koncne dolocbe:
+
+»5. KONCNE DOLOCBE
+
+9. clen
+
+(Veljavnost sklepa)
+
+Makrobonitetni ukrepi, doloceni s tem sklepom, veljajo do
+preklica.
+
+10. clen
+
+(Prenehanje veljavnosti
+makrobonitetnega priporocila)
+
+Z uveljavitvijo tega sklepa preneha veljati Makrobonitetno
+priporocilo za podrocje kreditiranja prebivalstva.
+
+11. clen
+
+(Uveljavitev sklepa)
+
+Sklep zacne veljati 1. novembra
+2019.«.
+
+
+
+
+
+Sklep o spremembi in dopolnitvi Sklepa o
+makrobonitetnih omejitvah kreditiranja prebivalstva (Uradni list RS, št. 75/20) spreminja naslov 5. poglavja
+sklepa tako, da se glasi:
+
+»5. PREHODNE IN KONCNE DOLOCBE«;
+
+dodaja 9.a clen sklepu:
+
+»9.a clen
+
+(Upoštevanje dohodkov v
+casu epidemije COVID-19)
+
+(1) Banka lahko pri izracunu letnega dohodka potrošnika
+izkljuci dohodke, ki jih je potrošnik prejel v obdobju, ko je bila na obmocju
+Republike Slovenije razglašena epidemija nalezljive bolezni SARS-CoV-2
+(COVID-19), ce so bili nižji od dohodkov pred razglasitvijo epidemije COVID-19.
+
+(2) Izkljucitev iz prvega odstavka je dopustno opraviti, ko
+banka razpolaga z vsaj enim podatkom o obracunanem in izplacanem dohodku, iz
+katerega izhaja, da je vpliv epidemije na dohodek potrošnika prenehal.
+
+(3) V primeru izracuna letnega dohodka potrošnika v skladu s
+prvim odstavkom tega clena se dohodek iz preostalih razpoložljivih podatkov za
+zadnjih 12 mesecev preracuna na letno raven, pri cemer se redne dohodke
+znacilne za posamezna cetrtletja (božicnica, regres ipd.) upošteva le enkrat.«;
+
+ter vsebuje naslednjo koncno dolocbo:
+
+»2. clen
+
+(Uveljavitev Sklepa)
+
+Ta sklep zacne veljati 1. junija 2020.«.

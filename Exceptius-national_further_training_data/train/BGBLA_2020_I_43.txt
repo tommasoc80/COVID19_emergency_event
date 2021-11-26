@@ -1,0 +1,94 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2020	Ausgegeben am 14. Mai 2020	Teil I
+43. Bundesgesetz:	16. COVID-19-Gesetz
+	(NR: GP XXVII IA 484/A AB 132 S. 27. Einspr. d. BR: 151 BR: 10296 AB 10316 S. 906.; NR: AB 177 S. 30.)
+43. Bundesgesetz, mit dem das Epidemiegesetz 1950 und das Apothekengesetz geändert werden (16. COVID-19-Gesetz)
+Der Nationalrat hat beschlossen:
+Artikel 1
+Änderung des Epidemiegesetzes 1950
+Das Epidemiegesetz 1950, BGBl. 186/1950, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 23/2020, wird wie folgt geändert:
+1. § 4 Abs. 7 3. Satz lautet:
+„Sofern vom für das Veterinärwesen zuständigen Bundesminister gemäß § 3 Abs. 7 des Zoonosengesetzes bzw. vom für das Gesundheitswesen zuständigen Bundesminister gemäß § 5 Abs. 4 dieses Bundesgesetzes ein Sachverständiger zur Abklärung bundesländerübergreifender Zoonosenausbrüche bzw. Ausbruchscluster bestellt wurde, darf dieser alle Daten von Personen im Register, die im Zusammenhang mit diesem Zoonosenausbruch oder Ausbruchscluster stehen können, personenbezogen verarbeiten, soweit dies zur Abklärung dieses Zoonosenausbruchs oder Ausbruchsclusters erforderlich ist. Eine Übermittlung der personenbezogenen Daten an Dritte und eine Datenweiterverarbeitung der personenbezogenen Daten zu anderen Zwecken ist nicht zulässig.“
+2. In § 4a Abs. 5 wird das Wort „und“ vor der Wortfolge „die Österreichische“ durch einen Beistrich ersetzt und nach dem Wort „Ernährungssicherheit“ die Wortfolge „und die Gesundheit Österreich GmbH“ eingefügt.
+3. § 5 wird folgender Abs. 4 angefügt:
+„(4) Der für das Gesundheitswesen zuständige Bundesminister kann Mitarbeiter der Österreichischen Agentur für Gesundheit und Ernährungssicherheit als Sachverständige für die Abklärung von Ausbruchsclustern bestellen, wenn diese mehrere Bundesländer betreffen. Diese sind berechtigt, unter Wahrung der Amtsverschwiegenheit und aller Erfordernisse des Datenschutzes Einsicht in alle Unterlagen zu nehmen, davon Kopien anzufertigen sowie mit den betroffenen Personen einschließlich Kontaktpersonen direkt Kontakt aufzunehmen, soweit dies zur Abklärung des Ausbruchsclusters unbedingt erforderlich ist. Die nach diesem Bundesgesetz zuständigen Behörden der Länder sind verpflichtet, diesen Experten auf Verlangen die zur Besorgung ihrer Aufgaben unbedingt erforderlichen Auskünfte zu erteilen.“
+4. Nach § 5 werden folgende § 5a und § 5b samt Überschriften eingefügt:
+„Durchführung von Screeningprogrammen im Rahmen der Bekämpfung von COVID-19
+§ 5a. (1) Der für das Gesundheitswesen zuständige Bundesminister kann, soweit dies zur Beurteilung der bereits gesetzten Bekämpfungsmaßnahmen, zur Planung der weiteren Bekämpfungsstrategie, zum Schutz bestimmter von der Pandemie besonders betroffener Personengruppen oder zur Sicherung der Funktionsfähigkeit des Gesundheitssystems notwendig ist, Screeningprogramme
+	1.	zur Feststellung von Prävalenz des Vorkommens der Krankheit in der Bevölkerung oder einzelnen Bevölkerungsgruppen;
+	2.	zur Feststellung von besonders betroffenen Gebieten oder Einrichtungen;
+	3.	zum Screening von bestimmten Bevölkerungsgruppen, bei denen aufgrund des bisherigen Krankheitsverlaufes mit einer Infektion gerechnet werden kann;
+	4.	zum Screening von Berufsgruppen, die auf Grund ihrer Tätigkeit einem erhöhten Risiko einer COVID-19_Infektion ausgesetzt sind;
+durchführen. Dazu werden Labortests für den Nachweis des Vorliegens einer Infektion mit SARS-CoV-2 oder Antikörpertests zur Bestätigung einer durchgemachten Infektion oder zum Nachweis einer erworbenen Immunität verwendet. Soweit derartige Programme nur ein Bundesland betreffen, kann der Landeshauptmann mit Zustimmung des Bundesministers entsprechende Screeningprogramme innerhalb des jeweiligen Bundeslandes durchführen.
+(2) Im Rahmen der Screeningprogramme dürfen folgende Datenkategorien verarbeitet werden:
+	1.	Daten zur Identifikation der an einem Screeningprogramm teilnehmenden Person (Name, Geschlecht, Geburtsdatum),
+	2.	Kontaktdaten (Wohnsitz, Telefonnummer, E-Mail-Adresse),
+	3.	Daten zur epidemiologischen Auswertung je nach Ziel des Programms nach § 5a (Region des Aufenthalts, Art der Berufsausübung, Ort der Berufsausübung),
+	4.	eine Probematerialkennung (Proben ID), die eine eindeutige Zuordnung ermöglicht, und
+	5.	Testergebnis.
+(3) Screeningprogramme gemäß Abs. 1 sind unter größtmöglicher Schonung der Privatsphäre der betroffenen Person durchzuführen. Die Teilnahme ist nur mit ausdrücklicher Einwilligung der betroffenen Personen gemäß Art. 9 Abs. 2 lit. a DSGVO zulässig.
+(4) Die inhaltliche Ausgestaltung sowie die Vorgaben für die organisatorische Abwicklung der Programme und die mit deren Durchführung beauftragten Organisationen, sind vom Bundesminister in geeigneter Weise zu veröffentlichen.
+Register für Screeningprogramme
+§ 5b. (1) Der für das Gesundheitswesen zuständige Bundesminister hat als Verantwortlicher (Art. 4 Z 7 DSGVO) ein elektronisches Register zum Zweck der Durchführung von Screeningprogrammen nach § 5a und zum Zweck der Datenübertragung von bestätigten Infektionen mit SARS-CoV-2 in das Register anzeigepflichtiger Krankheiten zu betreiben.
+(2) Bei der Durchführung von Screeningprogrammen nach § 5a ist dafür Sorge zu tragen, dass die daraus gewonnenen Daten im Register für Screeningprogramme verarbeitet werden.
+(3) Im Register werden folgende Datenkategorien verarbeitet:
+	1.	Daten zur Identifikation der an einem Screeningprogramm teilnehmenden Personen (Name, Geschlecht, Geburtsdatum, bereichsspezifisches Personenkennzeichen (§ 9 E-GovG, BGBl. I Nr. 10/2004),
+	2.	Kontaktdaten (Wohnsitz, Telefonnummer, E-Mail-Adresse),
+	3.	Daten zur epidemiologischen Auswertung je nach Ziel des Programms nach § 5a (Region des Aufenthalts, Art der Berufsausübung, Ort der Berufsausübung),
+	3.	eine Probematerialkennung (Proben ID), die eine eindeutige Zuordnung ermöglicht,
+	4.	Testergebnis.
+(4) Bei der Datenverarbeitung gemäß Abs. 1 ist zur Identifikation die Verwendung des Namens und des bereichsspezifischen Personenkennzeichens GH und AS (§ 10 Abs. 2 E‑Government-Gesetz) zulässig. Das bereichsspezifische Personenkennzeichen AS darf nur in verschlüsselter Form verwendet und gespeichert werden. Der direkte Personenbezug (Name und Kontaktdaten) ist vom Verantwortlichen unverzüglich unumkehrbar zu löschen, sobald das Testergebnis vorliegt und im Fall einer bestätigten Infektion mit SARS-CoV-2 die Datenübertragung in das Register anzeigepflichtiger Krankheiten erfolgt ist.
+(5) Die im Register verarbeiteten Daten dürfen ausschließlich zu den in Abs. 1 genannten Zwecken verarbeitet werden. Die Datenarten Namen und Kontaktdaten dürfen im Register ausschließlich zur Gewinnung von Probenmaterial, zur Information der betroffenen Person über das Testergebnis und im Fall einer bestätigten Infektion mit SARS-CoV-2 zur Datenübertragung in das Register anzeigepflichtiger Krankheiten verarbeitet werden.
+(6) Die bereichsspezifischen Personenkennzeichen sind zu löschen, sobald sie für die Zwecke nach Abs. 1 nicht mehr erforderlich sind.
+(7) § 4 Abs. 9, 10 und 12 bis 14 gilt sinngemäß.“
+5. § 6 Abs. 2 lautet:
+„(2) Verordnungen der Bezirksverwaltungsbehörden sind in elektronischer Form auf der Internetseite der Behörde, sofern aber landesgesetzliche Vorschriften betreffend die Kundmachung von Verordnungen der Behörde bestehen, nach diesen Vorschriften kundzumachen; sie können ohne Auswirkung auf die Kundmachung auch in anderer Form bekannt gemacht werden, insbesondere durch Anschlag an der Amtstafel der Behörde oder an der Amtstafel der Gemeinden des betroffenen Gebiets.“
+6. § 15 lautet:
+„§ 15. (1) Sofern und solange dies im Hinblick auf Art und Umfang des Auftretens einer meldepflichtigen Erkrankung zum Schutz vor deren Weiterverbreitung unbedingt erforderlich ist, sind Veranstaltungen, die ein Zusammenströmen größerer Menschenmengen mit sich bringen,
+	1.	zu untersagen, oder
+	2.	an die Einhaltung bestimmter Voraussetzungen oder Auflagen zu binden, oder
+	3.	ist deren Abhaltung auf bestimmte Personen- oder Berufsgruppen einzuschränken.
+(2) Voraussetzungen oder Auflagen gemäß Abs. 1 können je nach epidemiologischen Erfordernissen insbesondere sein:
+	1.	Vorgaben zu Abstandsregeln,
+	2.	Verpflichtungen zum Tragen einer mechanischen Mund-Nasen-Schutzvorrichtung,
+	3.	Beschränkung der Teilnehmerzahl,
+	4.	Anforderungen an das Vorhandensein und die Nutzung von Sanitäreinrichtungen sowie Desinfektionsmitteln.
+(3) Voraussetzungen oder Auflagen im Sinne des Abs. 1 dürfen nicht die Verwendung von Contact -Tracing-Technologien umfassen.
+(4) Beschränkungen auf Personen- oder Berufsgruppen gemäß Abs. 1 Z 3 dürfen nicht auf Geschlecht, ethnische Zugehörigkeit, Alter, Religion, Weltanschauung, sexuelle Orientierung oder auf das Bestehen einer Zuordnung zur COVID-19-Risikogruppe nach § 735 Abs. 1 ASVG abstellen.“
+7. Nach § 27 wird folgender § 27a eingefügt:
+„§ 27a. Sofern es bei Maßnahmen nach diesem Bundesgesetz im Rahmen der Bekämpfung der Ausbreitung des Erregers SARS-CoV-2 erforderlich ist, kann der Landeshauptmann - soweit es sich nicht um Ärzten vorbehaltene Tätigkeiten handelt - auch andere geeignete Personen zur Unterstützung bei Maßnahmen gemäß diesem Bundesgesetz unter Wahrung der Amtsverschwiegenheit und aller Erfordernisse des Datenschutzes bestellen. Deren Handeln ist der Bezirksverwaltungsbehörde zuzurechnen. Jedenfalls als geeignet gelten Personen, die ihren Beruf bzw. die Tätigkeiten des Sanitäters in Einrichtungen gemäß § 23 Sanitätergesetz, BGBl. I Nr. 30/2002, ausüben.“
+8. In § 28c Abs. 1 wird nach dem Wort „Konsumentenschutz“ die Wortfolge „unter Nachweis ihrer fachlichen Eignung“ eingefügt.
+9. In § 28c Abs. 3 entfällt der letzte Satz.
+10. Nach § 28c Abs. 3 werden folgende Abs. 4 und 5 angefügt:
+„(4) Die Einrichtungen sind verpflichtet, bei ihrer Tätigkeit für den Menschen den Stand der Wissenschaft sowie die Vorgaben des Medizinproduktegesetzes und der darauf basierenden Verordnungen einzuhalten.
+(5) Besteht der begründete Verdacht, dass durch eine Einrichtung gegen Abs. 4 verstoßen wird, hat der für das Gesundheitswesen zuständige Bundesminister einer Einrichtung die Tätigkeit für den Menschen zu untersagen, wenn gegen Abs. 4 verstoßen wird und dadurch eine Gefährdung von Menschen zu besorgen ist.“
+11. Nach § 32 Abs. 5 wird folgender Abs. 6 angefügt:
+„(6) Der für das Gesundheitswesen zuständige Bundesminister kann, wenn und soweit dies zur Gewährleistung einer einheitlichen Verwaltungsführung erforderlich ist, durch Verordnung nähere Vorgaben zur Berechnung der Höhe der Entschädigung oder Vergütung des Verdienstentgangs erlassen.“
+12. In § 36 Abs. 1 wird folgende lit. a eingefügt:
+	„a)	die Kosten von Screeningprogrammen nach § 5a;“
+13. In § 36 Abs. 1 lit. m) wird der Punkt durch einen Strichpunkt ersetzt und folgende lit. n) angefügt:
+	„n)	die Kosten für die Beauftragungen nach § 5 Abs. 4 und § 27a.“
+14. In § 43 Abs. 4a werden folgende Sätze angefügt:
+„Erstreckt sich der Anwendungsbereich auf das gesamte Bundesgebiet, so sind Verordnungen vom für das Gesundheitswesen zuständigen Bundesminister zu erlassen. Eine entgegenstehende Verordnung des Landeshauptmanns oder einer Bezirksverwaltungsbehörde tritt mit Rechtswirksamkeit der Verordnung des Bundesministers außer Kraft, sofern darin nicht anderes angeordnet ist.“
+15. § 45 samt Überschrift lautet:
+„Vorkehrungen im militärischen Bereich
+§ 45. Die Durchführung der nach Maßgabe dieses Gesetzes im Bereiche des Bundesheeres und der Heeresverwaltung zu treffenden Vorkehrungen obliegt dem Bundesminister oder der Bundesministerin für Landesverteidigung sowie den zuständigen militärischen Dienststellen. Zu den gedachten Zwecken ist zwischen diesen Stellen und den jeweils zuständigen Gesundheitsbehörden das Einvernehmen zu pflegen.“
+16. § 46 lautet:
+„§ 46. (1) Bescheide gemäß § 7 oder § 17 dieses Bundesgesetzes können für die Dauer der Pandemie mit COVID-19 abweichend von § 62 Abs. 1 Allgemeines Verwaltungsverfahrensgesetz 1991, BGBl. Nr. 51/1991 in der geltenden Fassung, aufgrund eines Verdachts mit der Infektion von SARS-CoV-2 auch telefonisch erlassen werden.
+(2) Die Absonderung endet, wenn die Behörde nicht innerhalb von 48 Stunden einen Bescheid über die Absonderung gemäß § 7 dieses Bundesgesetzes wegen einer Infektion mit SARS-CoV-2 erlässt.
+(3) Der Inhalt und die Verkündung eines telefonischen Bescheides ist zu beurkunden und der Partei zuzustellen.“
+17. § 50 Abs. 7 lautet:
+„(7) § 6 Abs. 2 in der Fassung des 3. COVID-19-Gesetzes, BGBl. I Nr. 23/2020, tritt mit 1. Februar 2020 in Kraft, jedoch ohne Auswirkung auf Verordnungen, die entsprechend seiner früheren Fassung bis zum Ablauf des 4. April 2020 kundgemacht wurden.“
+18. Dem § 50 werden folgende Abs. 9 bis 11 angefügt:
+„(9) § 6 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 43/2020 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft. Verordnungen, die vor dem 5. April entgegen den Bestimmungen dieses Bundesgesetzes kundgemacht wurden, gelten als den Bestimmungen dieses Bundesgesetzes entsprechend kundgemacht, wenn durch die Kundmachung ein zumindest den Bestimmungen dieses Bundesgesetzes entsprechendes Maß an Publizität erreicht wurde. Dies gilt jedenfalls dann, wenn die Verordnung in einem Gesetzblatt oder in einem Amtsblatt eines Landes kundgemacht wurde.
+(10) Die Änderungen in § 4 Abs. 7, § 4a Abs. 5, § 5 Abs. 4, §§ 5a und § 5b samt Überschriften, § 15, § 27a, die Änderungen in § 28c, § 32 Abs. 6, die Änderungen in § 36, § 43 Abs. 4a, § 45 samt Überschrift, § 46 in der Fassung des Bundesgesetzes BGBl. I Nr. 43/2020 treten mit dem der Kundmachung folgenden Tag in Kraft.
+(11) Die §§ 5a, 5b und 46 dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 43/2020 treten mit Ablauf des 31. Dezember 2021 außer Kraft.“
+Artikel 2
+Änderung des Apothekengesetzes
+Das Apothekengesetz, RGBl. Nr. 5/1907, zuletzt geändert durch das Bundesgesetz BGBl. I Nr. 16/2020, wird wie folgt geändert:
+§ 66 wird folgender § 66a samt Überschrift eingefügt:
+„Militärapotheken
+§ 66a. Der Bund betreibt im Vollzugsbereich des Bundesministeriums für Landesverteidigung in unmittelbarem und überwiegendem Zusammenhang mit der Erfüllung der Aufgaben des Bundesheeres gemäß § 2 des Wehrgesetzes 2001 (WG 2001), BGBl. I Nr. 146, Militärapotheken. Die Festlegung der Zahl und der konkreten Orte, an denen Militärapotheken eingerichtet werden, hat durch die Bundesministerin oder den Bundesminister für Landesverteidigung auf Grund militärischer Notwendigkeiten zu erfolgen. Auf Errichtung und Betrieb von Militärapotheken sind die Bestimmungen der §§ 3a Abs. 1, 3b, § 3c, 3d, 3e, 3f, 5, 45a, 66 und 67 dieses Bundesgesetzes anwendbar. Im Falle eines Einsatzes des Bundesheeres gemäß § 2 Abs. 1 lit. a bis d WG 2001 kann von den Bestimmungen dieses Bundesgesetzes zum Zwecke der Aufrechterhaltung der Sanitätsversorgung aus zwingenden Notwendigkeiten abgewichen werden.“
+Vand der Bellen
+Kurz

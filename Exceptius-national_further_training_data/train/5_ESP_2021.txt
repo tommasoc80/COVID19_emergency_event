@@ -1,0 +1,104 @@
+Anuncio de formalización de contratos de: Instituto Nacional de Estadística INE. Objeto: Análisis de la movilidad durante la pandemia por Covid-19 (Estudio de movilidad EM-4) a partir de la base de datos Flux Vision. Expediente: 2021N0060001.
+2021
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Instituto Nacional de Estadística INE.
+          1.2) Número de identificación fiscal: 
+          Q2826039F.
+          1.3) Dirección: 
+          Paseo de la Castellana 183.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28046.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.11) Correo electrónico: 
+          mesacon@ine.es
+          1.12) Dirección principal: 
+          http://www.ine.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=nGgJs0%2B1wXw%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Economía y Hacienda.
+        
+      4. Códigos CPV:
+      64212000 (Servicios de telefonía móvil).
+      5. Lugar principal de prestación de los servicios:
+      ES300.
+      6. Descripción de la licitación:
+      Análisis de la movilidad durante la pandemia por Covid-19 (Estudio de movilidad EM-4) a partir de la base de datos Flux Vision.
+      7. Tipo de procedimiento de adjudicación: 
+      
+        7.1) Tipo: 
+          Negociado sin publicidad.
+          7.2) Justificación: 
+          
+            7.2.1) 
+              Proveedor único por razones técnicas.
+            
+          7.3) Explicación: 
+          El contrato se adjudicará por procedimiento negociado sin publicidad conforme al artículo 168. a). 2º de la LCSP.
+        
+      9. Criterios de adjudicación: 
+      Proposición económica (Ponderación: 100%).
+      10. Fecha de adjudicación: 
+      2 de marzo de 2021.
+      11. Ofertas recibidas: 
+      
+        11.1) Número de ofertas recibidas: 
+          1.
+          11.2) Número de ofertas recibidas de PYMEs: 
+          0.
+        
+      12. Adjudicatarios: 
+      
+        12.1) Nombre: 
+          ORANGE ESPAGNE, S.A.U.
+          12.2) Número de identificación fiscal: 
+          A82009812.
+          12.3) Dirección: 
+          Paseo del Club Deportivo 1 La Finca.
+          12.4) Localidad: 
+          Pozuelo de Alarcón Madrid.
+          12.6) Código postal: 
+          28223.
+          12.7) País: 
+          España.
+        
+      13. Valor de las ofertas: 
+      
+        13.1) Valor de la oferta seleccionada: 
+          257.000,00 euros.
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              Registro Secretaría Mesa Contratación INE.
+              16.1.2) Dirección: 
+              Estebanez Calderón 2.
+              16.1.3) Localidad: 
+              Madrid.
+              16.1.5) Código postal: 
+              28046.
+              16.1.6) País: 
+              España.
+            
+        
+      18. Fecha de envío del anuncio: 
+      13 de abril de 2021.
+    Madrid, 13 de abril de 2021.- El Presidente del INE, Juan Manuel Rodríguez Poo.

@@ -1,0 +1,269 @@
+I, STEPHEN DONNELLY, Minister for Health, in exercise of the powers conferred on me by sections 5 and 31A (inserted by section 10 of the Health (Preservation and Protection and other Emergency Measures in the Public Interest) Act 2020 (No. 1 of 2020)) of the Health Act 1947 (No. 28 of 1947) and -
+
+(a) having regard to the immediate, exceptional and manifest risk posed to human life and public health by the spread of Covid-19 and to the matters specified in subsection (2) of section 31A, and
+
+(b) having consulted with the Minister for Foreign Affairs, the Minister for Justice and the Minister for Transport,
+
+hereby make the following regulations:
+
+Citation, revocation, commencement and operation
+
+1. (1) These Regulations may be cited as the Health Act 1947 (Section 31A - Temporary Requirements) (Covid-19 Passenger Locator Form) Regulations 2021.
+
+(2) The Health Act 1947 (Section 31A - Temporary Requirements) (Covid-19 Passenger Locator Form) Regulations 2020 ( S.I. No. 181 of 2020 ) are revoked.
+
+(3) Subject to paragraph (4), these Regulations shall come into operation on the 6th day of February 2021 and shall have effect for the period beginning on that day and ending on the 9th day of June 2021.
+
+(4) Regulation 5 shall come into operation on the 9th day of February 2021.
+
+Definitions
+
+2. In these Regulations -
+
+“airport” means any of the following airports:
+
+(a) Cork Airport;
+
+(b) Donegal Airport;
+
+(c) Dublin Airport;
+
+(d) Ireland West Airport;
+
+(e) Kerry Airport;
+
+(f) Shannon Airport;
+
+(g) Waterford Airport;
+
+“contact details”, in relation to an international passenger, means his or her telephone number and email address;
+
+“Covid-19 Passenger Locator Form” means the form set out in the Schedule or a form to like effect made available by the Health Service Executive that may be completed electronically;
+
+“international passenger” means a person, other than a child, who arrives in the State after having been in a relevant state in the period of 14 days prior to the date on which he or she so arrives, but does not include -
+
+(a) a person who arrives at a port or airport in the State for the purposes of travelling to another state, and who does not leave the port or airport before so travelling;
+
+(b) an international transport worker who arrives in the State in the course of performing his or her duties;
+
+(c) an aircraft pilot, other aircrew, maritime master or maritime crew who arrives in the State in the course of performing his or her duties;
+
+(d) a person to whom the privileges and immunities conferred by -
+
+(i) the Vienna Convention on Diplomatic Relations done at Vienna on the 18th day of April 1961, or
+
+(ii) the Vienna Convention on Consular Relations done at Vienna on the 24th day of April 1963,
+
+apply in the State;
+
+(e) a person to whom the privileges and immunities conferred by an international agreement or arrangement apply in the State, pursuant to the Diplomatic Relations and Immunities Acts 1967 to 2006 or any other enactment;
+
+“international transport worker” means a person -
+
+(a) who holds a valid annex 3 certificate in accordance with the Communication from the Commission on the implementation of the Green Lanes under the Guidelines for border management measures to protect health and ensure the availability of goods and essential services1 , or
+
+(b) who is a driver of a heavy goods vehicle;
+
+“place of residence”, in relation to an international passenger, means the place in the State or in Northern Ireland at which he or she intends to reside during the relevant period;
+
+“PLF receipt” means a receipt issued electronically by the Health Service Executive, in such form as it may specify, to an international passenger on the completion electronically by the passenger of a Covid-19 Passenger Locator Form;
+
+“port” means any of the following ports:
+
+(a) Cobh in the Port of Cork;
+
+(b) Dublin Port;
+
+(c) Killybegs Harbour;
+
+(d) Port of Cork;
+
+(e) Port of Galway;
+
+(f) Port of Waterford;
+
+(g) Rosslare EuroPort;
+
+“public health information” means public health information or advice relating to Covid-19, including measures for preventing, limiting, minimising or slowing the spread of Covid-19;
+
+“Regulations of 2020” means the Health Act 1947 (Section 31A – Temporary Requirements) (Covid-19 Passenger Locator Form) Regulations 2020 ( S.I. No. 181 of 2020 );
+
+“relevant period” means -
+
+(a) subject to paragraph (b), in relation to an international passenger -
+
+(i) the period of 14 days beginning on the date on which he or she arrives in the State, or
+
+(ii) where the duration of his or her stay in the State is less than 14 days, the period of his or her stay,
+
+or
+
+(b) in the case of an international passenger who travels from the State directly to Northern Ireland, the period of 14 days beginning on the date on which he or she arrives in the State;
+
+“relevant person” has the meaning assigned to it by Regulation 3;
+
+“relevant state” means any state, country, territory, region or other place outside the State, other than Northern Ireland;
+
+“responsible adult” means, in relation to a child who arrives in the State after having been in a relevant state in the period of 14 days prior to the date on which he or she so arrives, an international passenger who is travelling with the child and who is responsible, alone or jointly with another person, for that child for all or part of the journey by which the child arrives in the State.
+
+Relevant persons
+
+3. The following persons (each of whom, in these Regulations, is referred to as a “relevant person”) are specified as relevant persons for the purposes of these Regulations:
+
+(a) officers of the Minister for Justice, being immigration officers appointed by that Minister under section 3 of the Immigration Act 2004 (No. 1 of 2004);
+
+(b) persons appointed by the Health Service Executive under the programme commonly known as the Covid-19 Contact Management Programme;
+
+(c) any officer, employee or agent of the Health Service Executive who is acting in the course of his or her duty as such officer, employee or agent in accordance with Regulation 6(3) or 7;
+
+(d) any agent of the Minister who is acting in the course of his or her duty as such agent in accordance with Regulation 6(3) or 7.
+
+Covid-19 Passenger Locator Form
+
+4. (1) An international passenger shall -
+
+(a) subject to subparagraph (c), on or before his or her arrival in the State -
+
+(i) complete a Covid-19 Passenger Locator Form in respect of himself or herself, and
+
+(ii) subject to paragraph (2), confirm on that form the number of children (if any) in relation to whom the international passenger is a responsible adult,
+
+(b) on arrival in the State at a port or airport, present himself or herself to a relevant person, and -
+
+(i) give the relevant person the Covid-19 Passenger Locator Form completed in accordance with subparagraph (a), or
+
+(ii) where a PLF receipt has been issued to the international passenger, make the PLF receipt available to the relevant person,
+
+or
+
+(c) in the case of arrival in the State other than at a port or airport -
+
+(i) before his or her arrival -
+
+(I) complete a Covid-19 Passenger Locator Form electronically in respect of himself or herself, and
+
+(II) subject to paragraph (2), confirm on that form the number of children (if any) in relation to whom the international passenger is a responsible adult,
+
+(ii) retain the PLF receipt relating to himself or herself for a period of 14 days after so arriving, and
+
+(iii) make the PLF receipt available to a member of the Garda Síochána when requested to do so by such member.
+
+(2) Where the requirement in paragraph (1)(a)(ii) or (1)(c)(i)(II) applies to 2 or more international passengers, in relation to a child, the requirement shall be deemed to be complied with by all such international passengers where one of the international passengers concerned has complied with that requirement.
+
+(3) Where a relevant person suspects, with reasonable cause, that any person in an airport or port who has not completed a Covid-19 Passenger Locator Form is an international passenger, the relevant person may request that person to provide such information or documentation to the relevant person as he or she may reasonably require in order to ascertain whether or not the person is an international passenger.
+
+(4) A person shall comply with a request under paragraph (3).
+
+(5) Paragraphs (1) and (4) are penal provisions for the purpose of section 31A of the Health Act 1947 (No. 28 of 1947).
+
+Obligation on travel organisers
+
+5. (1) A travel organiser, in relation to an international passenger whose arrival in the State it organises, effects or facilitates, shall, when organising or facilitating such travel and, in any event, before the arrival of the international passenger in the State, take reasonable steps to inform that international passenger of his or her obligations under these Regulations.
+
+(2) In this Regulation, “travel organiser” means a person who -
+
+(a) by providing an international passenger with access to or use of a vehicle, organises, effects or facilitates the arrival of the international passenger in the State, and
+
+(b) is -
+
+(i) a body corporate, or
+
+(ii) in relation to a person who organises, effects or facilitates the arrival of the international passenger in the State by providing access to or use of a vehicle on a private and exclusive basis, the owner of such vehicle.
+
+Provision of information to relevant person
+
+6. (1) Where a relevant person or a member of the Garda Síochána considers it necessary to do so, he or she may request an international passenger to provide such information or documentation as may be required in order to verify any particular stated on a Covid-19 Passenger Locator Form or PLF receipt provided by that international passenger.
+
+(2) Where a relevant person or a member of the Garda Síochána suspects, with reasonable cause, that the information provided on a Covid-19 Passenger Locator Form, or stated on a PLF receipt, is inaccurate, incomplete or misleading, he or she may request the international passenger who provided the information to clarify the information, or provide such further information or documentation as the relevant person or member of the Garda Síochána may reasonably require to ensure that the form is completed accurately.
+
+(3) A relevant person may, during a relevant period, request an international passenger -
+
+(a) to confirm that his or her place of residence is the place of residence specified in the Covid-19 Passenger Locator Form, or
+
+(b) where the international passenger has taken up residence in a place other than the place of residence specified in the Covid-19 Passenger Locator Form, to confirm where the international passenger is currently residing.
+
+(4) An international passenger residing in the State shall comply with a request under paragraph (1), (2) or (3).
+
+(5) Subject to paragraph (6), where an international passenger, while residing in the State during a relevant period -
+
+(a) takes up residence in a place other than the place of residence specified in the Covid-19 Passenger Locator Form, or
+
+(b) changes his or her contact details from those provided in the Covid-19 Passenger Locator Form,
+
+such that information provided in the Covid-19 Passenger Locator Form completed by the international passenger is no longer accurate, the international passenger shall make reasonable efforts to provide to a relevant person, in writing, accurate information as to the new place or contact details, or both, as the case may be.
+
+(6) The information that is to be provided in accordance with paragraph (5) shall be provided to a relevant person by an international passenger -
+
+(a) in the case of information specified in paragraph (5)(a), before the international passenger has taken up residence in the new place, or as soon as practicable thereafter, or
+
+(b) in the case of information specified in paragraph (5)(b), as soon as is practicable after the contact details have changed.
+
+(7) Paragraphs (4), (5) and (6) are penal provisions for the purposes of section 31A of the Health Act 1947 .
+
+Provision of public health information to international passengers
+
+7. (1) A relevant person may, during a relevant period, contact an international passenger by way of telephone call, text message or email using the contact details provided in the Covid-19 Passenger Locator Form completed by the international passenger in order to provide the international passenger with public health information relevant to the international passenger concerned or general public health information in relation to Covid-19.
+
+(2) Notwithstanding the generality of paragraph (1), a relevant person may, during a relevant period, contact an international passenger whose place of residence is in Northern Ireland, by way of telephone call, text message or email using the contact details provided in the Covid-19 Passenger Locator Form completed by the international passenger in order to provide the international passenger with public health information relevant to the international passenger concerned.
+
+Data protection
+
+8. (1) Personal data provided on the Covid-19 Passenger Locator Form, or otherwise provided to a relevant person under Regulation 6, may be processed by -
+
+(a) the Minister for Health, the Health Service Executive, and one or more relevant persons, for the purposes of -
+
+(i) recording and verifying information regarding the place of residence of an international passenger for a period of up to 14 days following the arrival in the State of such passenger,
+
+(ii) identifying, tracing and contacting of persons who have been in contact with persons who have been diagnosed, or are suspected of having been infected, with Covid-19,
+
+(iii) recording information regarding the countries that an international passenger has visited in the 14 days before his or her arrival in the State, and
+
+(iv) providing public health information to an international passenger in accordance with Regulation 7,
+
+and
+
+(b) the Garda Síochána, where required for the purposes of the prevention, detection, investigation or prosecution of a criminal offence arising from a contravention of a provision stated to be a penal provision under these Regulations or under the Health Act 1947 (Section 31A - Temporary Restrictions) (Covid-19) (Restrictions upon Travel to the State from Certain States) (No. 4) Regulations 2021 (S.I. No. 44 of 2021).
+
+(2) For the purposes of these Regulations the Minister for Health -
+
+(a) is designated as data controller in relation to personal data processed for the purposes of these Regulations, and
+
+(b) shall put in place appropriate data processing contracts, where necessary, with relevant persons processing personal data under these Regulations.
+
+(3) Subject to paragraph (4), personal data relating to an international passenger collected for the purpose of these Regulations shall be permanently deleted no later than 28 days after the date of arrival specified by the international passenger on a Covid-19 Passenger Locator Form.
+
+(4) Notwithstanding paragraph (3), where personal data collected in accordance with these Regulations are required for the purposes of the prevention, investigation, detection or prosecution of a criminal offence, the data -
+
+(a) may be processed for as long as they are required for such prevention, investigation, detection or prosecution, and
+
+(b) shall be permanently deleted after they are no longer required for such prevention, investigation, detection or prosecution.
+
+(5) Where, immediately before the coming into operation of these Regulations, personal data were being processed in accordance with Regulation 7(4) of the Regulations of 2020, such data shall continue to be processed as if the Regulations of 2020 were still in operation.
+
+(6) In this Regulation -
+
+“General Data Protection Regulation” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)2 ;
+
+“personal data” has the meaning it has in the General Data Protection Regulation;
+
+“processing”, in relation to personal data, has the meaning it has in the General Data Protection Regulation.
+
+Transitional arrangements in relation to Covid-19 Passenger Locator Forms
+
+9. Notwithstanding their revocation by Regulation 1(2), the Regulations of 2020 shall, insofar as they relate to a Covid-19 Passenger Locator Form within the meaning of the Regulations of 2020 that was completed by an international passenger in accordance with those Regulations, continue in operation for the relevant period in respect of the international passenger concerned where he or she -
+
+(a) arrived in the State before the coming into operation of these Regulations, or
+
+(b) arrives in the State during the period beginning on the 6th day of February 2021 and ending on the 10th day of February 2021.
+
+SCHEDULE
+
+Regulation 2
+
+GIVEN under my Official Seal,
+
+5 February, 2021.
+
+STEPHEN DONNELLY,
+
+Minister for Health.

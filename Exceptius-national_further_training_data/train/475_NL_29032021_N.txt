@@ -1,0 +1,610 @@
+Regeling van de Minister voor Medische Zorg van 23 maart 2021, kenmerk 1844382-219694-WJZ, houdende wijziging van de bijlage bij de Regeling maximumprijzen geneesmiddelen in verband met enkele aanpassingen
+De Minister voor Medische Zorg,
+
+Gelet op artikel 2 van de Wet geneesmiddelenprijzen;
+
+Besluit:
+
+ARTIKEL I
+De bijlage behorende bij artikel 1 van de Regeling maximumprijzen geneesmiddelen wordt gewijzigd als volgt:
+
+A
+
+Bij het geneesmiddel waarvan het registratienummer, de artikelnaam en de productgroep gelijk is aan het registratienummer, de artikelnaam, de productgroep in de kolommen A, B respectievelijk C van in de bijlage I bij deze regeling opgenomen tabel, wordt de maximumprijs die gelijk is aan de maximumprijs in kolom D van de in de bijlage bij deze regeling opgenomen tabel, vervangen door de maximumprijs zoals vermeld in kolom E van de bijlage bij deze regeling opgenomen tabel voor de eenheid zoals vermeld in kolom F van de in de bijlage bij deze regeling opgenomen tabel.
+
+B
+
+De in de bijlage II bij deze regeling opgenomen regels vervallen.
+
+ARTIKEL II
+Deze regeling treedt in werking met ingang van 1 april 2021.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister voor Medische Zorg,
+T. van Ark
+
+BIJLAGE I BIJ ARTIKEL I, ONDERDEEL A
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+EU/1/13/850/001
+
+IMNOVID CAPSULE 1MG
+
+POMALIDOMIDE-1-MG-CAPSULE
+
+371,417388
+
+407,131674
+
+STUK
+
+EU/1/13/850/002
+
+IMNOVID CAPSULE 2MG
+
+POMALIDOMIDE-2-MG-CAPSULE
+
+373,351411
+
+409,065696
+
+STUK
+
+EU/1/13/850/003
+
+IMNOVID CAPSULE 3MG
+
+POMALIDOMIDE-3-MG-CAPSULE
+
+375,644895
+
+411,359181
+
+STUK
+
+EU/1/13/850/004
+
+IMNOVID CAPSULE 4MG
+
+POMALIDOMIDE-4-MG-CAPSULE
+
+377,218200
+
+412,932486
+
+STUK
+
+EU/1/13/850/008
+
+IMNOVID CAPSULE 4MG
+
+POMALIDOMIDE-4-MG-CAPSULE
+
+377,218200
+
+412,932486
+
+STUK
+
+BIJLAGE II BIJ ARTIKEL I, ONDERDEEL B
+Registratienummer
+
+Artikelnaam
+
+Productgroep
+
+Maximumprijs
+
+Eenheid
+
+10064
+
+DORMICUM INJVLST 5MG/ML AMPUL 3ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,418351
+
+ML
+
+10064
+
+DORMICUM INJVLST 5MG/ML AMPUL 10ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,418351
+
+ML
+
+100485
+
+MIDAZOLAM ACCORD INJVLST 5MG/ML AMPUL 1ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,418351
+
+ML
+
+100485
+
+MIDAZOLAM ACCORD INJVLST 5MG/ML AMPUL 3ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,418351
+
+ML
+
+100485
+
+MIDAZOLAM ACCORD INJVLST 5MG/ML AMPUL 10ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,418351
+
+ML
+
+22596
+
+MIDAZOLAM AUROBINDO INJVLST 5MG/ML AMPUL 1ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+22596
+
+MIDAZOLAM AUROBINDO INJVLST 5MG/ML AMPUL 10ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+22596
+
+MIDAZOLAM AUROBINDO INJVLST 5MG/ML AMPUL 3ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+126680
+
+MIDAZOLAM KALCEKS INJ/INFVLST 5MG/ML AMPUL 10ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+126680
+
+MIDAZOLAM KALCEKS INJ/INFVLST 5MG/ML AMPUL 1ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+126680
+
+MIDAZOLAM KALCEKS INJ/INFVLST 5MG/ML AMPUL 3ML
+
+MIDAZOLAM-5-MG/ML-INJ.VLOEISTOF AMPUL
+
+0,329293
+
+ML
+
+115333
+
+METHOTREXAAT TEVA INJVLS 25,0MG/1,0ML(25MG/ML)PEN
+
+METHOTREXATE-25-MG/ML-INJ.VLOEISTOF, WWSP
+
+17,297111
+
+ML
+
+117713
+
+INJEXATE INJVLST 15MG/0,3ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+117710
+
+INJEXATE INJVLST 20MG/0,4ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+117711
+
+INJEXATE INJVLST 25MG/0,5ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+117108
+
+METOJECT INJVLST 7,5MG/0,15ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+117109
+
+METOJECT INJVLST 10MG/0,2ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121036//117111
+
+METOJECT INJVLST 15MG/0,3ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122912//117111
+
+METOJECT INJVLST 15MG/0,3ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+125191//117111
+
+METOJECT INJVLST 15MG/0,3ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121034//117113
+
+METOJECT INJVLST 20MG/0,4ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122842//117113
+
+METOJECT INJVLST 20MG/0,4ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+125243//117113
+
+METOJECT INJVLST 20MG/0,4ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121169//117115
+
+METOJECT INJVLST 25MG/0,5ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122038//117115
+
+METOJECT INJVLST 25MG/0,5ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122780//117115
+
+METOJECT INJVLST 25MG/0,5ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+125246//117115
+
+METOJECT INJVLST 25MG/0,5ML (50MG/ML) WWSP
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+111962
+
+METOJECT PEN INJVLST 7,5MG/0,15ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+111963
+
+METOJECT PEN INJVLST 10MG/0,2ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+111965
+
+METOJECT PEN INJVLST 15MG/0,3ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122260//111965
+
+METOJECT PEN INJVLST 15MG/0,3ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122911//111965
+
+METOJECT PEN INJVLST 15MG/0,3ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122027//111966
+
+METOJECT PEN INJVLST 17,5MG/0,35ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122255//111966
+
+METOJECT PEN INJVLST 17,5MG/0,35ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+123600//111966
+
+METOJECT PEN INJVLST 17,5MG/0,35ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+111967
+
+METOJECT PEN INJVLST 20MG/0,4ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121038//111967
+
+METOJECT PEN INJVLST 20MG/0,4ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122259//111967
+
+METOJECT PEN INJVLST 20MG/0,4ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122501//111967
+
+METOJECT PEN INJVLST 20MG/0,4ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121178//111968
+
+METOJECT PEN INJVLST 22,5MG/0,45ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+111969
+
+METOJECT PEN INJVLST 25MG/0,5ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121041//111969
+
+METOJECT PEN INJVLST 25MG/0,5ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122257//111969
+
+METOJECT PEN INJVLST 25MG/0,5ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122505//111969
+
+METOJECT PEN INJVLST 25MG/0,5ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+123700//111969
+
+METOJECT PEN INJVLST 25MG/0,5ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+121039//111971
+
+METOJECT PEN INJVLST 30MG/0,6ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122258//111971
+
+METOJECT PEN INJVLST 30MG/0,6ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+122500//111971
+
+METOJECT PEN INJVLST 30MG/0,6ML (50MG/ML) PEN
+
+METHOTREXATE-50-MG/ML-INJ.VLOEISTOF, WWSP
+
+34,299280
+
+ML
+
+TOELICHTING1. Inhoud regeling
+Op grond van de Wet geneesmiddenprijzen (Wgp) zijn bij ministeriële regeling maximumprijzen voor geneesmiddelen vastgesteld. De laatste wijziging van de Regeling maximumprijzen geneesmiddelen zag op de 48e reguliere herziening van deze regeling, die op 1 april 2021 in werking treedt.
+
+Na publicatie van deze regeling is gebleken dat het voor een aantal geneesmiddelen wenselijk is om geen maximumprijs vast te stellen. Dit betreft in de eerste plaats de 5ml/mg dosering van Midazolam. Het College ter beoordeling van geneesmiddelen (CBG) merkt deze dosering op dit moment aan als kritisch in verband met de inzet van deze dosering voor de behandeling van covid-19 in de extramurale setting. Dit betekent dat het verdwijnen van deze dosering niet wenselijk is en dat er geen, dan wel onvoldoende, alternatieven op de Nederlandse markt beschikbaar zijn. Voor de RVG nummers met de betreffende dosering schrap ik met deze regeling de maximumprijs voor zover deze niet reeds uitgezonderd zijn van een wettelijke maximumprijs door een toegewezen beroep op de Tijdelijke beleidsregel maximumprijzen geneesmiddelen 2021.
+
+In de tweede plaats betreft het de productgroep methotrexaat. Bij de 48ste herijking is voor de eerste keer een maximumprijs vastgesteld voor de productgroep methotrexaat. Een ontvangen zienswijze geeft alsnog aanleiding de wijze van berekening van deze maximumprijs opnieuw te bezien. Hier is meer tijd voor nodig. Daarom schrap ik met deze regeling de maximumprijs voor de betreffende productgroep.
+
+Ten slotte betreft het vier productgroepen voor pomalidomide. Uit een na publicatie van de bijlage ontvangen reactie is gebleken dat de prijs hiervoor onjuist is vastgesteld. Daarom zijn de desbetreffende maximumprijzen gewijzigd.
+
+2. Inwerkingtreding
+Ingevolge het kabinetsbeleid op het gebied van vaste verandermomenten treedt een ministeriële regeling in werking op één van de vier vaste momenten in het jaar, waaronder 1 april, en wordt de regeling ten minste twee maanden daarvoor gepubliceerd. Hierop kunnen uitzonderingen worden gemaakt, onder meer indien sprake is van reparatieregelgeving. Omdat hiervan in dit geval sprake is, wordt afgeweken van de publicatietermijn van twee maanden.
+
+3. Beroepsmogelijkheid
+Degene wiens belang rechtstreeks is betrokken bij deze regeling kan daartegen binnen zes weken na de dag waarop deze regeling in de Staatscourant is geplaatst, beroep instellen bij het College van Beroep voor het bedrijfsleven (CBb), te Den Haag. Het beroepschrift moet zijn ondertekend en dient ten minste te bevatten de naam en adres van de indiener, de dagtekening, de omschrijving van het besluit waartegen het beroep is gericht en de gronden waarop het beroep berust.
+
+Van de indiener van een beroepschrift wordt griffierecht geheven. Nadere informatie over de hoogte van het griffierecht en de wijze van betalen wordt door de griffie van het CBb verstrekt.
+
+De Minister voor Medische Zorg,
+T. van Ark
+

@@ -1,0 +1,368 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. KOVO 16 D. ĮSAKYMO NR. V-383 „DĖL VAIKŲ IR SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠO PATVIRTINIMO“ 
+PAKEITIMO
+
+2020 m. gruodžio 2 d. Nr. V-2781
+Vilnius
+
+
+P a k e i č i u Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašą, patvirtintą  Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymu Nr. V-383 „Dėl Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašo patvirtinimo“, ir jį išdėstau nauja redakcija (pridedama).  
+
+
+
+Laikinai einantis sveikatos apsaugos ministro pareigas	Aurelijus Veryga
+
+
+PATVIRTINTA
+Lietuvos Respublikos 
+sveikatos apsaugos ministro
+2020 m. kovo 16 d. 
+įsakymu Nr. V-383
+(Lietuvos Respublikos sveikatos 
+apsaugos ministro 2020 m. gruodžio 2 d. 
+įsakymo Nr. V-2781redakcija)
+
+VAIKŲ IR SUAUGUSIŲJŲ COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) DIAGNOSTIKOS IR GYDYMO TVARKOS APRAŠAS 
+
+I SKYRIUS
+BENDROJI DALIS
+
+1. Vaikų ir suaugusiųjų COVID-19 ligos (koronaviruso infekcijos) diagnostikos ir gydymo tvarkos aprašas (toliau – Aprašas) nustato reikalavimus asmens sveikatos priežiūros įstaigoms (toliau – ASPĮ), sveikatos priežiūros specialistams, kurie įtaria, diagnozuoja ir gydo COVID-19 ligą (koronaviruso infekciją) (toliau – COVID-19 liga), COVID-19 ligos diagnostikos ir gydymo reikalavimus ir kriterijus, kada pacientas laikomas pasveikusiu. 
+2. Aprašas taikomas:
+2.1. įtariant COVID-19 ligą, pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtojo pataisyto ir papildyto leidimo „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM)  koduojamą kodu Z03.8 Stebėjimas dėl kitų įtariamų ligų ir būklių (nepatvirtintas ligos atvejis);
+2.2. diagnozuojant ir gydant COVID-19 ligą, pagal TLK-10-AM koduojamą specialiosios paskirties kodais J12.8 Kita virusų sukelta pneumonija, U07.1 Koronaviruso COVID-19 sukelta ūmi kvėpavimo takų (respiracinė) liga (patvirtintas ligos atvejis) (jei reikia, papildomai gali būti nurodomi ir kiti ligų ar sveikatos sutrikimų kodai);
+2.3. tiriant asmenis, turėjusius sąlytį su tikėtinu ar patvirtintu COVID-19 ligos atveju, pagal TLK-10-AM koduojamu kodu Z20.8 Kontaktas su sergančiaisiais kitomis užkrečiamosiomis ligomis ir jų poveikis.
+3. Pasaulio sveikatos organizacijos duomenimis, 2019 m. gruodžio mėn. išaiškėjo sunkios ūminės pneumonijos Uhano provincijoje (Kinija) atvejai, kurių priežastys buvo susietos su Uhano jūros gėrybių turgumi, kuriame parduodamos žuvys ir kiti gyvūnai. Paaiškėjo, kad minėtą ligą sukėlė iki tol nežinomas koronavirusas, priklausantis koronavirusų šeimai. Viruso genomo sekos analizė parodė, kad identifikuotas virusas yra susijęs su sunkią ūmią kvėpavimo sistemos ligą sukeliančių koronavirusų (CoV) grupe. Yra žinomi septyni CoV, galintys sukelti ligą žmonėms. Keturi iš jų (HCoV-229E, HCoV-NL63, HCoV-OC43, HCoV-HKU1) sukelia lengvos formos ligą,  žmogui pavojingiausi yra trys – SARS-CoV, MERS-CoV ir SARS-CoV-2 – koronavirusai, kurie gali sukelti sunkią ligos formą.
+4. SARS-CoV-2 pirminis šaltinis – šikšnosparniai. Ar virusas perduodamas tiesiogiai iš šikšnosparnių, ar per tarpinį šeimininką, nėra žinoma. Nuo gyvūnų virusu gali užsikrėsti žmogus, žmogus gali perduoti virusą kitam žmogui. Pagrindinis SARS-CoV-2 plitimo kelias tarp žmonių – per oro lašelius (kosint, čiaudint arba netiesiogiai – liečiant užterštus daiktus ar paviršius). Taip pat virusas plinta per aerozolius, artimą kontaktą. Plitimas fekaliniu-oraliniu keliu nėra aiškus. Infekuotas žmogus kitą žmogų užkrėsti gali sirgdamas arba dar neturėdamas klinikinių ligos simptomų. Manoma, kad vienas infekuotas asmuo gali užkrėsti daugiau nei 2 asmenis.
+5. Inkubacinis ligos periodas nuo užsikrėtimo iki ligos simptomų pasireiškimo trunka nuo 1 iki 14 dienų. 
+6. Apraše vartojamos sąvokos ir jų apibrėžtys: 
+6.1. COVID-19 liga – SARS-CoV-2 viruso sukelta ūminė infekcija, kuriai būdingas karščiavimas, kosulys, dusulys, ūminis respiracinio distreso sindromas ir kt.
+6.2. Patvirtintas COVID-19 ligos atvejis – asmeniui laboratoriniais tyrimais patvirtinta COVID-19 infekcija. 
+6.3. Sąvokos „įtariamas COVID-19 ligos (koronaviruso infekcijos) atvejis“ ir „sąlytį turėjęs asmuo“ suprantamos taip, kaip nurodyta Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams;
+7. Kitos sąvokos suprantamos taip, kaip jos apibrėžtos kituose sveikatos priežiūros paslaugų teikimą reglamentuojančiuose teisės aktuose.
+
+II SKYRIUS
+PASLAUGŲ TEIKIMAS PACIENTUI, KURIAM ĮTARIAMA COVID-19 LIGA 
+
+8. Pacientui, kuriam įtariama COVID-19 liga, atliekamas molekulinis SARS-CoV-2 viruso tyrimas arba greitasis SARS-CoV-2 antigeno (toliau – Ag) testas sveikatos apsaugos ministro nustatyta tvarka. 
+9. Jeigu molekulinis SARS-CoV-2 viruso tyrimas ar SARS-CoV-2 Ag testas atliekami stacionarines asmens sveikatos priežiūros paslaugas teikiančioje ASPĮ (kai nebuvo atliktas kitur), kol negautas tyrimo  atsakymas, pacientas palatoje turi būti vienas.
+10. Apžiūrėdamas pacientą, sveikatos priežiūros specialistas dėvi asmeninės apsaugos priemones (toliau – AAP), pacientas – medicininę kaukę. 
+11. Minimalus sveikatos priežiūros specialisto AAP sąrašas:
+11.1. FFP2 arba FFP3 respiratorius (su vožtuvais ar versija be vožtuvų);
+11.2. akiniai arba veido skydelis;
+11.3. vandeniui atsparus chalatas ilgomis rankovėmis; 
+11.4. pirštinės.
+12. AAP apsirengimo ir nusirengimo rekomendacijos pateiktos Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.  
+ASPĮ vadovas organizuoja sveikatos priežiūros specialistų apmokymą tinkamai apsirengti ir nusirengti AAP.
+13. Teikiant sveikatos priežiūros paslaugas pacientams, kuriems įtariama ar patvirtinta COVID-19 liga, turi būti užtikrinami Lietuvos higienos normoje HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“, patvirtintoje Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatyti infekcijų kontrolės reikalavimai ir ASPĮ skirtos Infekcijų kontrolės rekomendacijos, skelbiamos Lietuvos Respublikos sveikatos apsaugos ministerijos interneto svetainėje adresu http://sam.lrv.lt/lt/news/koronavirusas/informacija-sveikatos-prieziuros-specialistams.
+14. Jeigu, atsižvelgiant į sveikatos būklę, pacientas gali laukti SARS-CoV-2 viruso tyrimo rezultatų namuose ar kitoje gyvenamojoje vietoje, pacientas gali būti išleidžiamas iš ASPĮ. Tokiu atveju jis privalo izoliuotis, vadovaudamasis Asmenų, sergančių COVID-19 liga, asmenų, įtariamų, kad serga COVID-19 liga, ar turėjusių sąlytį su sergančiuoju COVID-19 liga, izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklėmis, patvirtintomis Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ar turėjusių sąlytį su sergančiuoju COVID-19 liga (koronaviruso infekcija), izoliavimo namuose ar kitoje gyvenamojoje vietoje taisyklių patvirtinimo“. Pacientui į izoliacijos vietą vykti visuomeniniu transportu draudžiama. 
+
+III SKYRIUS
+COVID-19 LIGOS KLINIKINIAI SINDROMAI
+
+15. COVID-19 liga gali pasireikšti besimptome, lengva, vidutine, sunkia ir kritiškai sunkia ligos forma.
+16. Dažniausiai pasireiškiantys COVID-19 ligos simptomai yra karščiavimas (>38°C 31–43 proc. atvejų), kosulys (46–82 proc. atvejų) ir dusulys (iki 31 proc. atvejų). Kiti COVID-19 ligai būdingi simptomai (sindromai) yra raumenų skausmas, bendras silpnumas, sloga, gerklės skausmas, kai kuriems pacientams pasitaiko viduriavimas, gali būti uoslės ar skonio praradimas, COVID-19 ligai progresuojant gali išsivystyti pneumonija, širdies ritmo sutrikimai, ūminis inkstų pažeidimas, ūminis respiracinio distreso sindromas (toliau – ŪRDS), sepsis, septinis šokas. 
+17. Sunkios COVID-19 ligos formos rizikos veiksniai – vyresnis amžius (> 65 m.), lėtinės ligos (cukrinis diabetas, širdies ir kraujagyslių, kvėpavimo takų ir kt.).
+18. Pagal COVID-19 ligos simptomus ir paciento būklę skiriami klinikiniai sindromai pateikiami 1 lentelėje. 
+
+1 lentelė. COVID-19 ligos sunkumo formos, klinikiniai sindromai ir jų požymiai
+Eil.
+Nr.
+COVID-19 ligos sunkumo forma
+Klinikinis sindromas
+COVID-19 ligos simptomai ir paciento būklę apibūdinantys  požymiai
+1.
+Besimptomė infekcija
+
+Nėra jokių COVID-19 infekcijos simptomų.
+2.
+Lengva 
+Nekomplikuota viršutinių kvėpavimo takų infekcija
+Nespecifiniai simptomai (karščiavimas, kosulys, gerklės skausmas, bendras silpnumas, galvos, raumenų skausmas, pykinimas, vėmimas, viduriavimas, uoslės ir skonio praradimas), nesant dusulio ar radiologiniais tyrimais nenustatant krūtinės ląstos pakitimų.
+3.
+Vidutinio sunkumo
+Pneumonija
+Suaugusiesiems – pneumonija, nesant sunkios pneumonijos požymių ir gydymo deguonimi poreikio (SpO2 ≥ 94 proc., kvėpuojant aplinkos oru).
+Vaikams – karščiavimas, kosulys ir (ar) pasunkėjęs kvėpavimas bei tachipnėja (iki 2 mėn. amžiaus – kvėpavimo dažnis ≥ 60 k./min, 2–11 mėn. – 50–59 k./min, 1–5 metų amžiaus – 40–49 k./min, vyresniems kaip 5 m. amžiaus > 30 k/min) ir nėra sunkios pneumonijos simptomų.
+4.
+Sunki
+Sunki pneumonija
+Suaugusiesiems ir paaugliams (nuo 10 iki 18 metų amžiaus) – pneumonija, esant bent vienam iš šių požymių:
+	kvėpavimo dažnis > 30 k/min.;
+	SpO2 < 94 proc. kvėpuojant aplinkos oru;
+	PaO2/FiO2<300 mmHg;
+	infiltracija plaučiuose apima > 50 proc. plaučių audinio.
+
+Vaikams (nuo gimimo iki 10 m. amžiaus) – kosulys ar pasunkėjęs kvėpavimas ir yra bent vienas iš šių simptomų: centrinė cianozė arba SpO2<90 proc.; sunkus kvėpavimo sutrikimas (pvz., intensyvus pagalbinių kvėpavimo raumenų darbas, tachipnėja) ir bendri sunkios būklės požymiai: negalėjimas žįsti krūties ar gerti, mieguistumas ar sąmonės sutrikimas arba traukuliai.
+5.
+Kritiškai sunki
+Sepsis
+
+Sepsis suaugusiesiems – gyvybei pavojinga organų disfunkcija, kurią sukelia neadekvati organizmo reakcija į infekciją. Sepsis įtariamas remiantis qSOFA kriterijais (bent dviem iš trijų): arterinė hipotenzija (sistolinis kraujospūdis ≤ 100 mmHg), sąmonės sutrikimas, tachipnėja (kvėpavimo dažnis ≥ 22 k./min). Organų  (kraujotakos, kvėpavimo, inkstų, kepenų, kraujodaros, centrinės nervų sistemos) disfunkcija nustatoma remiantis SOFA (nuolatinio organų nepakankamumo vertinimo) skalės kriterijais https://www.lid.lt/storage/2019/08/infekcines-ligos-nr-1-11-2017-psl-11-12.pdf. 
+Sepsis vaikams – įtariama arba patvirtinta infekcija ir ≥ 2 pagal amžių sisteminio uždegiminio atsako sindromo kriterijai, iš kurių vienas turi būti padidėjusi temperatūra arba padidėjęs leukocitų skaičius.
+
+
+
+Sepsinis šokas
+
+Sepsinis šokas suaugusiesiems – išliekanti hipotenzija, nepaisant infuzoterapija koreguotos hipovolemijos, vazopresorių poreikis, siekiant išlaikyti vidutinį kraujospūdį ≥65 mmHg, ir laktato koncentracija kraujyje > 2 mmol/l.
+Sepsinis šokas vaikams – hipotenzija (sistolinis kraujo spaudimas <5-os procentilės ar >2 SD (standartinis nuokrypis) žemiau amžiaus normos) arba 2 ar 3 iš šių simptomų: sąmonės sutrikimas, tachikardija ar bradikardija (ŠSD<90 k./min. ar >160 k./min kūdikiams; ŠSD <70 k./min ar >150 k./min vaikams); pailgėjęs kapiliarų prisipildymo laikas (>2 sek.) ar vazodiliatacijos epizodai; tachipnėja; marmurinė oda ar petechinis bėrimas; padidėjęs laktato kiekis kraujyje; oligurija; hipertermija ar hipotermija.
+
+
+
+ŪRDS
+
+Suaugusiųjų ŪRDS klasifikacija pagal oksigenaciją (ventiliuojant su PEEP ar CPAP ≥ 5 mmH2O arba netaikant ventiliacijos):
+lengvas: 200 mmHg < PaO2 / FiO2  ≤ 300 mmHg;
+vidutinis: 100 mmHg < PaO2  / FiO2  ≤ 200 mmHg;
+sunkus: PaO2 / FiO2 ≤ 100 mmHg;
+kai nėra PaO2 duomenų, SpO2 / FiO2 ≤ 315 rodo, kad gali būti ŪRDS (ir netaikant ventiliacijos).
+Vaikų ŪRDS klasifikacija pagal oksigenaciją:
+oksigenacijos indekso (OI*) blogėjimas, taikant dirbtinę plaučių ventiliaciją (toliau – DPV):
+lengvas ŪRDS: 4≤OI<8 ar 5≤OSI***<7.5;
+vidutinio sunkumo ŪRDS: 8≤OI<16 ar 7.5≤ OSI<12.3;
+sunkus ŪRDS: OI ≥ 16 ar OSI ≥ 12.3.
+*OI = MAP** x FiO2 x 100/PaO2.
+**MAP – vidutinis slėgis kvėpavimo takuose taikant DPV.
+***OSI (OI naudojant SpO2) =  MAP x FiO2 x 100/SpO2.
+(NIV/CPAP) ≥ 5cm H2O naudojant veido kaukę: PaO2/FiO2 ≤ 300 arba SpO2/FiO2 ≤ 264.
+
+
+
+Daugybinis organų disfunkcijos sindromas (DODS)
+
+Progresuojantis, potencialiai grįžtamas sepsio ir sisteminio atsako į infekciją sukeltas dviejų ir daugiau organų ir jų sistemų pažeidimas ir nepakankamumas, sukeliantis gyvybei grėsmingą homeostazės sutrikimą. 
+
+
+
+IV SKYRIUS
+COVID-19 ligos DIAGNOSTIKOS TVARKA
+
+19. COVID-19 ligos diagnostiniai tyrimai pateikiami 2 lentelėje. Tyrimai kartojami pagal klinikines indikacijas.
+
+2 lentelė. COVID-19 ligos diagnostiniai tyrimai
+Eil. Nr.
+Tyrimo pavadinimas
+Tyrimų atlikimo sąlygos
+1.
+Bendras kraujo tyrimas (BKT)
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos. Vertinama leukopenija / leukocitozė, limfopenija ir kiti rodikliai. 
+2.
+C reaktyvusis baltymas (CRB)
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+3.
+Molekulinis SARS-CoV-2 viruso tyrimas (SARS-CoV-2 PGR) 
+
+
+Greitasis SARS-CoV-2 Ag testas
+Atliekama visiems pacientams, nepriklausomai nuo ligos formos.
+Tiriamoji medžiaga – nosiaryklės sekretas arba skrepliai, arba trachėjos aspiratas, arba bronchoalveolinis lavažas.
+
+Atliekamas sveikatos apsaugos ministro nustatyta tvarka.
+4.
+Elektrolitai, kreatininas, šlapalas, glikemija, alanininė transaminazė (ALT), asparagininė transaminazė (AST), bilirubinas, protrombino laiko nustatymas (SPA/INR), fibrinogenas, D-dimerai, arterinio kraujo dujos 
+Atliekama gydytojo nuožiūra, vertinant būklės sunkumą ir kitų ligų įtaką bendrai būklei.
+5.
+Feritinas, laktatdehidrogenazė (LDH), interleukinas 6 (IL6)
+Atliekama kaip prognostiniai laboratoriniai žymenys, esant galimybei.
+6.
+Troponinas I
+Atliekama gydytojo nuožiūra esant klinikinėms indikacijoms arba kaip prognostinis žymuo.
+7.
+Prokalcitoninas, laktatas
+Atliekama diferencijuojant tarp virusinės ir bakterinės infekcijos, įtariant sepsį.
+8.
+Kraujo pasėlis
+Atliekama įtariant bakterinę infekciją ar sepsį.
+9.
+Elektrokardiograma (EKG)
+Atliekama visiems pacientams
+10.
+Radiologiniai krūtinės ląstos tyrimai
+Atliekama krūtinės ląstos rentgenografinis tyrimas, krūtinės ląstos kompiuterinė tomografija (toliau – KT)  ir (ar) plaučių ultragarsinis tyrimas.
+Atliekami įtariant plaučių emboliją (toliau – PE) – krūtinės ląstos KT pagal PE protokolą.
+
+Vaikams atliekami įtariant pneumoniją ar esant sunkiai paciento būklei.
+
+11.
+Diferencinės diagnostikos tyrimai kitoms infekcijoms nustatyti
+Atliekama pagal klinikines ir (ar) epidemiologines indikacijas:
+tepinėlis iš nosiaryklės dėl gripo PGR metodu;
+dėl kitų respiracinių virusų (gripo, respiracinio sincitinio viruso, paragripo, adenoviruso, metapneumoviruso ir kt.) – daugybinis PGR testas;
+skreplių, trachėjos aspirato, brochoalveolinio lavažo pasėliai;
+Legionella pneumophilla šlapimo antigeno testas.
+
+20. Atlikdamas COVID-19 ligos diagnostikai skirtus veiksmus sveikatos priežiūros specialistas naudoja Aprašo 11 punkte nurodytas AAP. 
+
+V SKYRIUS
+PACIENTO, KURIAM DIAGNOZUOTA COVID-19 LIGA, GYDYMO TVARKA
+
+21. Pacientai, kuriems reikalingas stacionarinis gydymas, stacionarizuojami ASPĮ, nurodytose Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 4 d. įsakyme Nr. V-281 „Dėl  Sveikatos priežiūros paslaugų dėl koronaviruso (COVID-19) organizavimo tvarkos aprašo patvirtinimo“ (toliau – Įsakymas Nr. V-281).
+22. Pagrindinių ASPĮ, nurodytų Įsakyme Nr. V-281, suaugusius pacientus, kuriems diagnozuota COVID-19 liga, gydo infekcinių ligų gydytojas, vaikus,  kuriems diagnozuota COVID-19 liga, – vaikų infekcinių ligų gydytojas arba vaikų ligų gydytojas, prireikus bendradarbiaudami su kitų profesinių kvalifikacijų gydytojais. Kai Lietuvos Respublikos teritorijoje (ar jos dalyje) paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, esant dideliam pacientų srautui, pasitelkiami kitų profesinių kvalifikacijų gydytojai, kaip nustatyta Įsakyme Nr. V-281.
+ASPĮ, kuriose nėra infekcinių ligų padalinio, pacientams, kuriems diagnozuota COVID-19 liga, gydymas organizuojamas vadovaujantis Įsakyme Nr. V-281 nustatyta tvarka.
+23. Reanimacijos ir intensyviosios terapijos paslaugų suaugusiesiems teikimą organizuoja ir paslaugas teikia gydytojas anesteziologas reanimatologas, vaikams – vaikų intensyviosios terapijos gydytojas arba gydytojas anesteziologas reanimatologas. 
+24. Stacionarinis gydymas skiriamas pacientams, kuriems diagnozuota COVID-19 liga ir kurie atitinka šiuos kriterijus:
+24.1. bet kurios amžiaus grupės pacientas atitinka sunkios pneumonijos, ŪRDS, sepsio, sepsinio šoko diagnostikos kriterijus (Aprašo 1 lentelė) ir (ar) COVID-19 liga reikšmingai pablogina paciento būklę dėl gretutinės patologijos, dėl ko neįmanomas ambulatorinis gydymas;
+24.2. vaikui diagnozuota pneumonija (Aprašo 1 lentelė) ir jam reikalingas būklės stebėjimas bei gydymas stacionare, net ir nesant papildomo deguonies poreikio.
+25. Pacientai gydomi ambulatoriškai, kai:
+25.1. pacientui diagnozuota lengva arba vidutinio sunkumo COVID-19 ligos forma, kuri reikšmingai nepablogina paciento būklės dėl gretutinės patologijos, nėra didelės komplikacijų rizikos ir pacientui suteikta informacija, kaip sekti sveikatos būklę ir kur kreiptis, jei sveikatos būklė pablogės;
+25.2. po stacionarinio gydymo gydančio gydytojo sprendimu gydymas gali būti tęsiamas ambulatoriškai prižiūrint šeimos gydytojui,  kai pacientui suteikta informacija, kaip sekti sveikatos būklę ir kur kreiptis, jei sveikatos būklė pablogės. 
+26. Stacionarines asmens sveikatos priežiūros paslaugas teikiančioje ASPĮ pacientas, kuriam diagnozuota  COVID-19 liga, gali būti gydomas toje pačioje palatoje su kitais pacientais, kuriems diagnozuota COVID-19 liga.
+27. Pacientams, kuriems diagnozuota COVID-19 liga, taikomi gydymo metodai nurodyti Aprašo 3 ir 4 lentelėse. 
+
+3 lentelė. COVID-19 ligos gydymas pagal ligos sunkumo formą
+COVID-19 ligos sunkumo forma
+Gydymas
+Lengva arba vidutinio sunkumo,
+nesant deguonies terapijos poreikio 
+Deksametazonas ir remdesiviras neskiriami
+
+Hospitalizuoti pacientai, kuriems reikalinga deguonies terapija mažos tėkmės nosinėmis kaniulėmis ar įprasta veido kauke ar veido kauke su rezervuaru
+Remdesiviras1 
+
+Remdesiviras1 ir deksametazonas2 
+
+Jeigu remdesiviro skirti nėra galimybių, deksametazonas2
+Hospitalizuoti pacientai, kuriems reikalingos didelės tėkmės nosinės kaniulės arba neinvazinė ventiliacija 
+De Deksametazonas2  ir remdesiviras1 
+arba 
+deksametazonas2
+Hospitalizuoti pacientai, kuriems reikalinga DPV arba EKMO 3
+Deksametazonas2
+arba
+deksametazonas2 ir remdesiviras1 neseniai intubuotiems pacientams 
+
+1 Remdesiviro dozavimas ir skyrimo ypatumai:
+Sol. Remdesiviri 200 mg su Sol. Na Cl 0,9 proc. – 250 ml per 120 min. į veną pirmą dieną, 100 mg su Sol. Na Cl 0,9 proc. – 250 ml per 60 min. į veną kitas 4 dienas. 
+Remdesiviro negalima pradėti skirti pacientams, kuriems gydymo pradžioje ALT aktyvumas ≥ 5 kartus viršija viršutinę normos ribą.
+Remdesiviro vartojimą reikia nutraukti pacientams, kuriems:
+gydymo remdesiviru metu ALT aktyvumas ≥ 5 kartus viršija viršutinę normos ribą. Jį galima pradėti skirti iš naujo, kai ALT aktyvumas viršutinę normos ribą viršija < 5 kartus,
+arba
+padidėjus  ALT  aktyvumui  atsiranda ir  kepenų pažeidimo požymių ar simptomų arba didėja konjuguoto
+bilirubino kiekis, šarminės fosfatazės aktyvumas arba tarptautinis normalizuotas santykis (TNS).
+Prieš pradedant gydymą remdesiviru ir jį skiriant reikia vertinti aGFG. Remdesiviro negalima skirti pacientams, kurių aGFG < 30 ml/min.
+Nėščiosioms gydymas remdesiviru turi būti skiriamas tik tais atvejais, kai nauda viršija riziką.
+
+2 Deksametazono dozavimas ir skyrimo ypatumai:
+Dexamethasone 6 mg/d per os arba Dexamethasone sodium phosphate 8 mg į veną iki 10 d. arba iki išrašymo iš stacionaro, atsižvelgiant, kas įvyksta pirmiau. Nesant galimybės skirti deksametazono, skirti prednizoloną, metilprednizoloną ar hidrokortizoną ekvivalentinėmis dozėmis: 40 mg/d. prednizolono, 32 mg/d. metilprednizolono, 160 mg/d. hidrokortizono.
+
+3 Sprendimą dėl remdesiviro skyrimo pacientui, kuriam taikoma  DPV ir EKMO,  priima gydytojas  anesteziologas reanimatologas, pasikonsultavęs su infekcinių ligų gydytoju ar gydytojo pulmonologu. 
+
+4 lentelė. Kiti COVID-19 ligos gydymo metodai
+Eil. Nr. 
+Gydymo metodas
+Sekami paciento sveikatos būklės parametrai ir gydymo metodų taikymo sąlygos
+1. 
+Palaikomasis gydymas:
+
+1.1.
+Gyvybinių pacientų rodiklių sekimas. Rekomenduojama suaugusiems taikyti ankstyvojo perspėjimo skalę (angl. National Early Warning Score (NEWS2)) 
+Širdies susitraukimų dažnis
+Arterinis kraujo spaudimas
+Kvėpavimo dažnis
+Pulsinė oksimetrija (SpO2)
+Kūno temperatūra
+Sąmonės būklė
+1.2.
+Deguonies terapija 
+Nedelsiant skiriama pacientams, kuriems pasireiškia sunki ir kritinė COVID-19 liga. 
+Deguonies terapijos tikslas suaugusiesiems – SpO2 ≥ 94 proc., vaikams – SpO2 ≥ 94 proc.
+1.3. 
+Skysčių skyrimas
+Užtikrinamas skysčių, elektrolitų balansas.
+Intraveninė infuzoterapija skiriama atsargiai, siekiant išvengti skysčių pertekliaus organizme, kuris gali pabloginti kvėpavimo funkciją, oksigenaciją ir sukelti plaučių edemą. 
+Vaikams ribojamas fiziologinis skysčių poreikis iki 75 proc.
+Pirmaeiliai tirpalai skysčių terapijai – kristaloidai. 
+1.4. 
+Antipiretikai
+Esant indikacijų, kai karščiuojama ≥38,5°C. Nėra skirtumo, kokie vaistai skiriami karščiavimui mažinti – NVNU ar paracetamolis.
+1.5. 
+Stresinių opų profilaktika
+Esant indikacijų – protonų siurblių inhibitoriai arba histamino receptorių blokatoriai.
+1.6.
+Tromboembolijų profilaktika
+Mažos molekulinės masės heparinas visiems hospitalizuotiems pacientams. Dozės:
+Nadroparinum calcicum:
+pacientams, sveriantiems > 70 kg:
+5700 anti - Xa TV/0,6ml 1xd. arba
+2850 anti - XaTV/0,3ml 2xd.; 
+pacientams, sveriantiems ≤ 70 kg:
+3800 anti - Xa TV/0,4ml 1xd.
+Kreatinino klirensas < 50 ml/min. – įprastinę dozę pagal kūno svorį reikia mažinti 33–25 proc.
+
+Bemiparinun natricum:
+pacientams, sveriantiems > 60 kg:
+3500 anti - Xa TV/0,2ml 1xd.; 
+pacientams, sveriantiems < 60 kg:
+2500 anti - Xa TV/0,2ml 1xd.
+Sunkus inkstų funkcijos sutrikimas (kreatinino klirensas <30 ml/min.) gali turėti įtakos bemiparino farmakokinetikai.
+
+Pacientams, sergantiems COVID-19 infekcija, įvykus tromboembolinėms komplikacijoms ar esant rimtam tokio įvykio įtarimui ir negalint atlikti vaizdinių tyrimų, turi būti skiriamos standartinės terapinės antikoaguliantų dozės.
+
+3.
+Gydymas antibiotikais
+
+3.1.
+Lengva ir vidutinė COVID-19 ligos forma  
+Vengtina  neracionalaus ir nepagrįsto antibiotikų skyrimo.
+3.2.
+Sunki pneumonija ir (ar) antrinės bakterinės pneumonijos (visuomenėje įgytos, hospitalinės) požymiai
+Gydymas parenkamas pagal numanomą sukėlėją ir jo jautrumą antibiotikams pagal ASPĮ vadovo  patvirtintą antibakterinio gydymo protokolą ir (ar) pneumonijos diagnostikos ir gydymo gaires. 
+Antimikrobinio gydymo skyrimo indikacijos:
+CRB< 20 mg/l – neskirti antibiotikų;
+CRB 20-100 mg/l – antibiotiko skyrimą svarstyti kiekvienu atveju individualiai. 
+Jei CRB >100 mg/l, neutrofilija (>7,5109/l), radiologiniais tyrimais nustatyta bakterinei infekcijai būdingų krūtinės ląstos pakitimų, padidėjusi prokalcitonino koncentracija (>0,5), pacientas serga LOPL ar bronhektazėmis  – tikėtina bakterinė infekcija, skiriamas gydymas  antibiotikais.
+
+4.
+Kiti specifiniai COVID-19 ligos gydymo metodai
+Imuninė pasveikusiųjų nuo COVID-19 ligos plazma ar hiperimuninis  intraveninis imunoglobulinas.
+Gali būti skiriami ASPĮ gydytojų konsiliumo sprendimu, esant paciento ar jo atstovo raštiškam sutikimui. Konsiliumo sudarymo tvarką nustato ASPĮ vadovas. 
+5.
+Antivirusinė terapija
+Patvirtinta ar tikėtina gripo infekcija:
+oseltamiviras 75 mg p/o 2 k/d 5 d. 
+6.
+Kritinių būklių valdymas:
+
+6.1.
+Sepsis, sepsinis šokas
+Gydymas pagal ASPĮ patvirtintą protokolą.
+6.2.
+ŪRDS
+Gydymas pagal ASPĮ patvirtintą protokolą.
+Vaistų dozės koreguojamos pagal kepenų, inkstų funkcijos rodiklius. Vertinama vaistų tarpusavio sąveika.
+
+28. Nėščiosios, kuriai diagnozuota COVID-19 liga, gimdymo būdas parenkamas individualiai. Maitindama kūdikį gimdyvė turi naudoti AAP. 
+29. Sprendimą dėl suaugusių pacientų gydymo ASPĮ reanimacijos ir intensyviosios terapijos padalinyje priima gydytojas anesteziologas reanimatologas. Suaugusieji gydomi ASPĮ reanimacijos ir intensyviosios terapijos padalinyje, kai: 
+29.1. skiriant kvėpavimo funkciją koreguojantį gydymą, nepavyksta pasiekti tikslinių oksigenacijos rodiklių;
+29.2. pacientui reikalingas gydymas dirbtine plaučių ventiliacija;
+29.3. išsivysto šokas;
+29.4. išsivysto kritinė būklė dėl organų sistemų funkcijos sutrikimo.
+30. Vaikai gydomi vaikų intensyviosios terapijos skyriuje, kai:
+30.1. deguonies terapijos poreikis >9 l/min (arba > 60 proc. FiO2), kai SpO2 ar SaO2 < 90–92 proc. (yra didelės tėkmės deguonies, CPAP ar kito neinvazinės ventiliacijos metodo poreikis arba mechaninės ventiliacijos poreikis);
+30.2. progresuojantys klinikiniai kvėpavimo nepakankamumo požymiai ir SpO2 < 92 proc., skiriant > 10 l/min. deguonies;
+30.3. šokas, sepsis, kitų organų nepakankamumas. 
+31. Atlikdamas COVID-19 ligos gydymui skirtus veiksmus sveikatos priežiūros specialistas naudoja Aprašo 11 punkte nurodytas AAP.
+
+VI SKYRIUS
+KRITERIJAI, KURIUOS ATITINKANTIS PACIENTAS LAIKOMAS PASVEIKUSIU
+
+32. Pacientui, sirgusiam lengvos ar vidutinės formos COVID-19 liga, izoliacija gali būti nutraukta po 10 dienų nuo simptomų atsiradimo pradžios, jei pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, ir susilpnėjo kiti COVID-19 ligos simptomai, arba išskirtiniais atvejais šeimos gydytojo sprendimu, atsižvelgiant į paciento sveikatos būklę, anksčiau nei po 10 dienų nuo simptomų atsiradimo pradžios, jei pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, susilpnėjo kiti COVID-19 ligos simptomai ir atlikus SARS-CoV-2 viruso tyrimus PGR metodu du kartus iš eilės ne trumpesniu kaip 24 val. intervalu juose nerandama SARS-CoV-2 viruso. 
+Esant sunkiai arba kritiškai sunkiai COVID-19 ligos formai, paciento izoliaciją galima nutraukti po 20 dienų nuo simptomų atsiradimo pradžios, jei ligos simptomai susilpnėjo ir pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, arba išskirtiniais atvejais gydančio gydytojo sprendimu, atsižvelgiant į paciento sveikatos būklę, anksčiau nei po 20 dienų nuo simptomų atsiradimo pradžios, jei pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, susilpnėjo kiti COVID-19 ligos simptomai ir  atlikus SARS-CoV-2 viruso tyrimus PGR metodu du kartus iš eilės ne trumpesniu kaip 24 val. intervalu juose nerandama SARS-CoV-2 viruso.
+Pacientams, kuriems yra imunosupresija (po parenchiminių organų ar kamieninių kraujodaros ląstelių transplantacijos, ilgalaikis prednizolono vartojimas (20 mg/d >14 d.), chemoterapija, imunoterapija, biologinė terapija, imunosupresantų vartojimas, ŽIV, kai CD4 ląstelių <200/mm3, kitas imunodeficitas), pacientams, kuriems teikiamos palaikomojo gydymo ir slaugos paslaugos, pacientams, kurie dirba palaikomojo gydymo ir slaugos paslaugas teikiančiose įstaigose, pacientams, kurie gyvena socialinės globos įstaigose, pacientams, kurie dirba socialinės globos įstaigose, pacientams, esantiems laisvės atėmimo įstaigose, pacientams, kurie dirba laisvės atėmimo įstaigose, izoliacija gali būti nutraukta po 20 dienų nuo COVID-19 ligos simptomų atsiradimo pradžios, jei pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, ir susilpnėjo kiti COVID-19 ligos simptomai arba išskirtiniais atvejais gydančio gydytojo sprendimu, atsižvelgiant į paciento sveikatos būklę, anksčiau nei po 20 dienų nuo simptomų atsiradimo pradžios, jei pacientas nebekarščiuoja ne mažiau kaip pastarąsias 3 dienas, nevartodamas antipiretikų, susilpnėjo kiti COVID-19 ligos simptomai ir atlikus SARS-CoV-2 viruso tyrimus PGR metodu du kartus iš eilės ne trumpesniu kaip 24 val. intervalu juose nerandama SARS-CoV-2 viruso.
+Pacientams, sirgusiems besimptomės formos COVID-19 liga, izoliacija gali būti nutraukiama po 10 dienų nuo nosiaryklės ir ryklės tepinėlio, kurį ištyrus PGR metodu buvo aptiktas SARS-CoV-2 virusas, paėmimo dienos.
+Pacientas laikomas pasveikusiu gydančio gydytojo sprendimu, bet ne anksčiau nei jam gali būti nutraukiama izoliacija pagal šio Aprašo nuostatas. Pasveikus pacientui nuo COVID-19 ligos, gydytojas ESPBI IS formoje E025 įrašo diagnozę, nurodydamas TKL-10-AM kodą Z86.18 „Buvusios asmeniui kitos infekcinės ir parazitinės ligos“.
+Pasveikus nuo COVID-19 ligos, 3 mėnesių laikotarpiu nuo pirmųjų COVID-19 ligos simptomų atsiradimo dienos, kartoti SARS-CoV-2 viruso tyrimų PGR metodu nerekomenduojama. 
+
+VII SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+33. Pranešimas apie įtariamą ir (ar) nustatytą COVID-19 ligos atvejį teikiamas Nacionaliniam visuomenės sveikatos centrui prie Sveikatos apsaugos ministerijos Lietuvos Respublikos sveikatos apsaugos ministro 2002 m. gruodžio 24 d. įsakymo Nr. 673 „Dėl Privalomojo epidemiologinio registravimo objektų registravimo ir informacijos apie juos teikimo tvarkos aprašo patvirtinimo“ nustatyta tvarka.
+34. Paslaugos  pagal Aprašą ASPĮ teikiamos vadovaujantis ASPĮ vadovo patvirtintais protokolais ir ASPĮ vadovo  nustatyta tvarka.
+________________ 
+

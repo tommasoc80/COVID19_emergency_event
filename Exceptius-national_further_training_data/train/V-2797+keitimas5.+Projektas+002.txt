@@ -1,0 +1,46 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. GRUODŽIO 4 D. ĮSAKYMO NR. V-2797 „DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO TYRIMŲ IR SEROLOGINIŲ TYRIMŲ ATLIKIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2021 m. vasario 12 d. Nr. V-292
+Vilnius
+
+
+P a k e i č i u COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 4 d. įsakymu Nr. V-2797 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo patvirtinimo“:
+1.	Pakeičiu 4.3 papunktį ir jį išdėstau taip:
+„4.3. nosiaryklės ir ryklės ar nosies landos tepinėlių ėminių kaupinių tyrimas SARS-CoV-2 (2019-nCoV) RNR nustatyti tikralaikės PGR metodu (toliau – kaupinių PGR tyrimas), kai ėminiai ėminių paėmimo vietoje:
+4.3.1. imami į atskiras virusologines terpes, laboratorijoje grupuojami lygiomis dalimis ir tiriami kaip vienas ėminys;
+4.3.2. imami ir grupuojami toje pačioje virusologinėje terpėje.“
+2.	Pakeičiu 8 punktą ir jį išdėstau taip:
+„8. Atliekant Aprašo 4.3.1 papunktyje nurodytus kaupinių PGR tyrimus turi būti užtikrinama, kad:
+8.1. tiriami ne didesni nei 5 ėminių kaupiniai;
+8.2. tyrimo jautrumas patikrinamas su konkrečioje laboratorijoje naudojamais reagentais ir įranga;
+8.3. tyrimas atliekamas gryninat RNR (ne tiesioginės PGR principu);
+8.4. rekomenduojama RNR gryninimą atlikti automatizuotai; 
+8.5. jei nustatomas signalas nors viename kanale, tyrimas kartojamas su visais individualiais ėminiais;
+8.6. metodas gali būti taikomas atliekant profilaktinį tyrimą.“
+3.	Papildau 81 punktu:
+„81. Atliekant Aprašo 4.3.2 papunktyje nurodytus kaupinių PGR tyrimus turi būti užtikrinama, kad:
+81.1. tiriami ne didesni nei 7 ėminių kaupiniai;
+81.2. tyrimo jautrumas patikrinamas su konkrečioje laboratorijoje naudojamais reagentais ir įranga;
+81.3. metodas gali būti taikomas atliekant profilaktinį tyrimą uždaroms asmenų grupėms, turinčioms tiesioginį kontaktą su kitais tai pačiai asmenų grupei priklausančiais asmenimis;
+81.4. ėminių grupavimas vykdomas pagal tyrimą atliekančios laboratorijos patvirtintą standartinių veiklos procedūrų aprašymą ir laikantis infekcijų kontrolės reikalavimų.“ 
+4.	Papildau 10.9 papunkčiu:
+„10.9.  Profilaktinio periodinio besimptomių asmenų visuomenėje tyrimo algoritmas (9 priedas).“
+5.	Papildau 9 priedu (pridedama).
+
+
+
+Sveikatos apsaugos ministras	Arūnas Dulkys
+
+COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo 
+9 priedas
+
+Profilaktinio periodinio besimptomių asmenų visuomenėje tyrimo algoritmas
+
+
+
+*Asmuo profilaktiškai netiriamas tokį patį laikotarpį, kokį jam netaikoma izoliacija, vadovaujantis Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių, patvirtintų Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“, 6 priedu.

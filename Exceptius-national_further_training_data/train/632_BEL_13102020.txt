@@ -1,0 +1,120 @@
+13 OCTOBRE 2020. - Accord de coopération d'exécution entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune concernant la ou les applications numériques de traçage des contacts, conformément à l'article 92bis, § 1er, alinéa 3, de la loi spéciale de réformes institutionnelles du 8 août 1980
+
+
+Vu la loi spéciale de réformes institutionnelles du 8 août 1980, article 92bis, § 1er, alinéa 3, inséré par la loi spéciale du 6 janvier 2014;
+Vu l'accord de coopération du 25 août 2020 conclu entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les autorités régionales compétentes ou par les agences compétentes, par les inspections sanitaires et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 sur la base d'une base de données auprès de Sciensano, article 14, § 9;
+Vu l'avis n° 79/2020 de l'Autorité de protection des données, donné le 7 septembre 2020;
+Vu l'avis n° 2020/37 du "Vlaamse Toezichtcommissie voor de verwerking van persoonsgegevens" donné le 14 septembre 2020;
+Vu la notification n° 2020/0546/B à la Commission européenne en application de la directive (UE) 2015/1535 du Parlement européen et du Conseil du 9 septembre 2015 ;
+Considérant qu'en vertu de l'article 92bis, § 1er, alinéa 3, de la loi spéciale de réformes institutionnelles du 8 août 1980, l'accord de coopération, qui a reçu l'assentiment des parlements concernés, peut prévoir que sa mise en oeuvre sera assurée par des accords de coopération d'exécution ayant effet sans que l'assentiment par la loi ou le décret ne soit requis;
+Considérant que les parties aspirent à un fonctionnement effectif de la ou des applications numériques de traçage des contacts d'une manière qui soit la moins invasive possible sur le plan du droit à la protection de la vie privée;
+L'Etat belge, représenté par son gouvernement en la personne d'Alexander De Croo, Premier Ministre, et de Frank Vandenbroucke, Vice-Premier Ministre et Ministre des Affaires sociales et de la Santé publique ;
+La Communauté flamande, représentée par son gouvernement en la personne de Jan Jambon, Ministre-Président du Gouvernement flamand et Ministre flamand de la Politique extérieure, de la Culture, la TI et les Services généraux, et de Wouter Beke, Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté ;
+La Région wallonne, représentée par son gouvernement en la personne de Elio Di Rupo, Ministre-Président du Gouvernement wallon, Christie Morreale, Vice-Présidente du Gouvernement wallon et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale, de l'Egalité des chances et des Droits des femmes, et de Willy BORSUS, Vice-Président de la Wallonie et Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Agriculture, de l'Aménagement du territoire, de l'IFAPME et des Centres de compétence ;
+La Communauté germanophone, représentée par son gouvernement en la personne de Oliver Paasch, Ministre-Président et Ministre des Pouvoirs locaux et des Finances et Antonios Antoniadis, Vice-Ministre-Président et Ministre de la Santé et des Affaires sociales, de l'Aménagement du territoire et du Logement ;
+La Commission communautaire commune, représentée par le Collège réuni en la personne de Rudi Vervoort, Président du Collège réuni et Alain Maron et Elke Van den Brandt, membres ayant la Santé et l'Action sociale dans leurs attributions ;
+Ci-après appelés les parties contractantes,
+Exerçant conjointement leurs compétences propres, conviennent de ce qui suit:
+CHAPITRE Ier. - Définitions
+Article 1er. Aux fins du présent accord, on entend par :
+1° accord de coopération: l' accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano et les centres de contact désignés par les autorités compétentes ou par les agences des entités fédérées, par les services d'inspection d'hygiène et par les équipes mobiles dans le cadre d'un suivi des contacts auprès des personnes (présumées) infectées par le coronavirus COVID-19 se fondant sur une base de données auprès de Sciensano;
+2° Base de données I : la Base de données I visée à l'article 1, § 1, 6° de l'accord de coopération;
+3° Base de données V : la Base de données V visée à l'article 1, § 1, 10° de l'accord de coopération;
+4° Base de données VI: une base de données pour laquelle Sciensano est le responsable du traitement et dans laquelle sont enregistrés, de manière très temporaire, les résultats du test ainsi que le code du test, la date du prélèvement et la date à laquelle l'utilisateur est devenu contagieux, conformément au processus décrit à l'article 2, § 1er, 3° ;
+5° test: un test de dépistage du coronavirus COVID-19 permettant de constater qu'une personne est infectée par le coronavirus COVID-19;
+6° appli: l'application numérique de traçage des contacts CoronAlert, qui est mise à la disposition par les entités fédérées;
+7° clé sécurisée : une clé sécurisée qui, après installation de l'appli, est générée quotidiennement et enregistrée sur le smartphone sur lequel l'appli est installée;
+8° numéro de série temporaire non personnalisé: combinaison aléatoire de uns et de zéros, émise par un smartphone sur lequel l'appli est installée au moyen d'une balise Bluetooth qui se compose d'un chiffre aléatoire et du chiffrement de données anonymes du smartphone, comme la puissance du signal émis;
+9° code d'autorisation: le code d'autorisation anonyme créé par la Base de données VI afin de permettre à l'utilisateur dont le test s'est révélé positif à charger les clés sécurisées dans la Base de données V;
+10° contact à risque: un contact pendant au moins quinze minutes à moins de deux mètres de distance avec une personne infectée; ce contact est établi lorsqu'un numéro de série temporaire non personnalisé correspondant à un numéro de série non personnalisé émis par le smartphone d'un utilisateur infecté est trouvé sur un smartphone;
+11° numéro de test: combinaison aléatoire de uns et de zéros, utilisée pour prouver que les clés sécurisées proviennent d'une appli correcte, à savoir d'une appli authentique Coronalert qui est installée sur le smartphone de l'utilisateur au moment où il demande un test, sans que cette appli ne soit identifiée;
+12° code de test: un code qui se compose de chiffres aléatoires et qui est créé par l'appli lors de la demande d'un test.
+CHAPITRE II. - Généralités
+Art. 2. § 1er. Conformément à l'article 14, § 1er, de l'accord de coopération, l'appli offre les fonctionnalités suivantes et réalise les opérations suivantes:
+1° L'enregistrement, de façon non-personnalisée, des contacts de l'utilisateur de l'appli avec d'autres utilisateurs de l'appli:
+a) chaque appli génère chaque jour une nouvelle clé sécurisée;
+b) la clé sécurisée est uniquement connue sur le smartphone sur lequel l'appli est installée;
+c) sur la base de la clé sécurisée sont générés des numéros de série temporaires non personnalisés;
+d) à une fréquence régulière, tout smartphone sur lequel l'appli est installée émet un numéro de série temporaire non personnalisé en tant que balise Bluetooth; un autre numéro de série temporaire non personnalisé est envoyé, au moins toutes les vingt minutes, afin d'empêcher que ces numéros de série temporaires non personnalisés soient utilisés pour suivre un utilisateur; après la période d'émission, un numéro de série temporaire non personnalisé n'est pas enregistré sur le smartphone qui a envoyé le numéro de série;
+e) chaque smartphone sur lequel l'appli est installée, enregistre les balises Bluetooth contenant les numéros de série temporaires non personnalisés qui sont émises par d'autres smartphones se trouvant à une distance réduite, ainsi que le jour de réception de la balise et la puissance du signal;
+f) les numéros de série temporaires non personnalisés sont conservés sur le smartphone qui les reçoit pendant quatorze jours et sont ensuite supprimés.
+2° La création et la transmission d'un code de test lors de la demande d'un test:
+a) en cas de symptômes ou de risque d'infection au coronavirus COVID-19 et lorsqu' un utilisateur de l'appli se fait tester, la date à laquelle l'utilisateur est probablement devenu contagieux est déterminée; l'appli génère un numéro de test et l'appli calcule le code du test comme une fonction à sens unique du numéro de test et de la date à laquelle l'utilisateur est devenu contagieux;
+b) le code du test ainsi que le numéro d'identification de la sécurité sociale (NISS) sont transmis, à l'initiative de l'utilisateur, par la voie électronique à Sciensano, soit par le médecin qui prescrit le test, au moyen d'un logiciel, soit par le patient au moyen d'une application web et sont enregistrés dans la Base de données I en même temps que la date du prélèvement et la date à laquelle l'utilisateur est devenu contagieux;
+3° La récupération d'un résultat du test:
+a) si un résultat d'un test ou une forte présomption d'infection par le coronavirus COVID-19 est disponible dans la Base de données I, le code du test, la date du prélèvement et la date à laquelle l'utilisateur est devenu contagieux, sont communiqués par la Base de données I à la Base de données VI; après confirmation de la réception de ces données par la Base de données VI, le code du test est supprimé automatiquement de la Base de données I, ce qui rend désormais une connexion impossible entre les données de la Base de données I et les données de l'appli;
+b) l'appli contacte, à des intervalles réguliers, la Base de données VI afin de vérifier si le résultat d'un test ou une forte présomption d'infection par le coronavirus COVID-19 est déjà disponible pour la combinaison du code de test et de la date à laquelle l'utilisateur est devenu contagieux; l'appli peut donc obtenir le résultat d'un test sans que l'utilisateur ne doive être identifié;
+c) après confirmation de la réception du résultat d'un test par l'appli, le résultat du test et les codes de test et données y afférents sont supprimés de la Base de données VI; si le résultat d'un test n'a pas été téléchargé dans les quatorze jours après son enregistrement dans la Base de données VI, le résultat du test et les codes de test et données y afférents sont supprimés de la Base de données VI;
+d) le résultat du test est supprimé de l'appli, au plus tard vingt-quatre heures après qu'il ait été montré à l'utilisateur;
+e) si l'appli n'a pas encore reçu le résultat du test après quatorze jours à compter de la date de création d'un code de test, le numéro du test, le code du test et la date à laquelle l'utilisateur est devenu contagieux sont supprimés de l'appli;
+4° la transmission des clés sécurisées à la Base de données V en cas de résultat de test positif :
+a) après réception d'un résultat de test positif, l'utilisateur peut donner l'autorisation pour charger les clés sécurisées, le numéro de test et la date à laquelle il est devenu contagieux dans la Base de données V;
+b) l'appli ne collecte pas de données de localisation; l'utilisateur peut cependant indiquer volontairement dans l'appli le ou les pays dans lesquels il s'est rendu à une date déterminée afin de pouvoir collaborer avec les applications numériques de traçage des contacts d'autres pays; le cas échéant, les clés sécurisées sont envoyées au pays indiqué par l'utilisateur;
+c) après confirmation de la réception par la Base de données V des données mentionnées sous a) et b), le résultat du test, les clés sécurisées, la liste de pays, le numéro de test, le code de test et la date à laquelle l'utilisateur est devenu contagieux sont supprimés de l'appli;
+d) à des intervalles réguliers, la Base de données V génère, à partir des données mentionnées sous le point 4° a), le numéro de test et elle vérifie s'il existe un code d'autorisation valide pour chaque code de test et chaque date; si toutes les conditions sont remplies, les clés sécurisées sont enregistrées dans la Base de données V;
+e) les clés sécurisées sont supprimées de la Base de données V après quatorze jours à compter de leur réception;
+5° Le dépistage de contacts:
+a) l'appli contacte la Base de données V à des intervalles réguliers et télécharge les clés et les jours contagieux y afférents de l'ensemble des utilisateurs infectés; cette liste est horodatée par la voie numérique de sorte que l'appli puisse vérifier l'authenticité de cette liste au moyen de la clé publique de la Base de données V;
+b) l'appli déchiffre avec ces clés sécurisées les numéros de série temporaires non personnalisés générés par ces clés et vérifie si ces numéros de série sont aussi enregistrés dans l'appli; l'appli calcule, sur la base de la différence de puissance entre le signal émis et le signal reçu, l'atténuation du signal et estime la distance du contact; la durée totale des contacts possibles est calculée sur la base du nombre de numéros de série correspondants; l'appli peut donc vérifier de cette manière si un contact à risque a eu lieu au cours des quatorze derniers jours;
+c) si l'appli détecte un contact à risque, l'appli informe l'utilisateur sur un risque possible d'infection par le coronavirus COVID-19.
+§ 2. L'appli charge, à des intervalles réguliers, des clés fictives dans la base de données V. Préalablement à cela, l'appli envoie plusieurs requêtes fictives à la Base de données VI, qui renvoie des réponses fictives. Les clés fictives n'ont pas de code d'autorisation valable et ne sont donc pas chargées dans la Base de données V. De cette manière, il est impossible de distinguer, sur la base des modèles de communication de l'appli, les utilisateurs infectés des utilisateurs non testés ou non infectés.
+Si moins de dix clés sécurisées ont été chargées en un jour, des clés sécurisées fictives supplémentaires sont ajoutées dans la Base de données V pour en obtenir au total dix.
+CHAPITRE III. - Spécifications techniques et interopérabilité
+Art. 3. L'appli est offerte sur iOS et Android.
+Art. 4. § 1er. L'appli doit:
+1° être simple à installer et à utiliser;
+2° fonctionner avec une consommation de batterie réduite;
+3° être suffisamment précise; cela signifie que l'appli détecte uniquement les contacts d'au moins quinze minutes à une distance de moins de deux mètres comme étant des contacts à risque;
+4° soutenir l'interopérabilité internationale et rendre la partie Bluetooth de l'appli exploitable dans un maximum de pays en rendant cette partie compatible avec les applis utilisées dans la plupart des pays de l'UE.
+§ 2. La Base de données V et la Base de données VI et l'infrastructure utilisée à cet effet doivent:
+1° assurer une bonne performance, être échelonnables en vue d'une utilisation par plusieurs millions de personnes et pouvoir résister à des attaques;
+2° offrir la possibilité d'échanger les clés sécurisées avec d'autres pays au sein de l'UE, et ce directement ou via le Federation Gateway Service de l'UE; les clés sécurisées sont uniquement envoyées au pendant de la Base de données V de ce pays ou de cette région si:
+a) ce pays ou cette région possède une appli de traçage des contacts décentralisée, reconnue par le service sanitaire national ou régional, se composant d'une partie Bluetooth qui est compatible avec l'appli belge;
+b) il y a suffisamment de garanties pour la protection des données, en ce compris une communication sécurisée entre la Base de données V et son pendant;
+c) l'utilisateur de l'appli a indiqué qu'il a visité ce pays ou cette région durant la période au cours de laquelle il était contagieux. S'appliquent à la réception de clés sécurisées provenant d'autres pays ou régions, les conditions a) et b);
+d) la clé sécurisée de l'étranger provient d'un utilisateur qui a indiqué qu'il a visité la Belgique durant la période au cours de laquelle il était contagieux. Après que les clés sécurisées sont arrivées dans la Base de données V ou dans son pendant dans un autre pays ou une autre région, elles sont téléchargées dans les applis du pays ou de la région.
+3° éviter un faux rapportage ou un rapportage incorrect d'infections; le rapportage d'une infection n'est possible qu'après un résultat de test positif ou après une constatation par un médecin d'une présomption sérieuse d'infection par le coronavirus COVID-19;
+4° être conçues de la sorte qu'il ne soit pas possible d'établir de relation entre les messages, comme les clés sécurisées et les résultats de test et les adresses IP des utilisateurs.
+§ 3. L'appli et l'infrastructure du serveur doivent garantir le respect de la vie privée des utilisateurs, doivent être basées sur la minimisation des données et la protection des données dès la conception. Cela signifie notamment que:
+1° aucune donnée de localisation ne peut être collectée;
+2° l'ensemble des communications entre l'appli et les bases de données doivent être chiffrées;
+3° aucune donnée n'est traitée concernant qui est infecté à quel endroit et par quelle personne;
+4° aucune clé sécurisée n'est collectée pour un utilisateur qui n'est pas infecté;
+5° le système sera arrêté et toutes les informations enregistrées seront supprimées au plus tard cinq jours après le jour de la publication de l'arrêté royal proclamant la fin de l'épidémie du coronavirus COVID-19;
+6° lors de l'échange de données avec les Bases de données I et V et avec la Base de données VI, seul le minimum de données peut être échangé pour pouvoir envoyer le résultat du test à l'appli correcte de sorte que le risque d'identification de la personne concernée soit réduit au minimum;
+7° il n'est pas possible d'utiliser le système ou les données pour d'autres finalités.
+§ 4. Le fonctionnement du système prévoit des formalités administratives minimales grâce à une introduction aisée du code du test lors de la demande d'un test.
+CHAPITRE IV. - Obligation d'information
+Art. 5. 1er. Lors de son installation et avant son utilisation, les utilisateurs sont informés sur le fonctionnement de l'appli et son interaction avec les Bases de données I, V et VI.
+A cet effet, seront publiées sur le site www.coronalert.be toutes les informations utiles sur l'appli et les bases de données, en ce compris les fonctionnalités, le fonctionnement, la charte, la déclaration de vie privée et l'analyse d'impact relative à la protection des données. L'appli contient elle-même aussi des références aux informations concernant les fonctionnalités, le fonctionnement et la déclaration de vie privée.
+§ 2. Le code source de l'appli et des programmes de gestion de la Base de données V et de la Base de données VI, en particulier les composants qui génèrent les données pour un test, téléchargent les résultats d'un test, chargent les clés sécurisées et calculent le risque, ainsi que l'interface utilisateur de l'appli, seront rendus publics au moyen d'un lien sur le site internet visé au § 1er, alinéa 1er.
+CHAPITRE V. - Contrôle
+Art. 6. Le fonctionnement et la nécessité de l'appli sont régulièrement contrôlés, évalués et rectifiés sous l'impulsion du Comité interfédéral de testing et tracing qui se compose de représentants d'entités fédérées, de Sciensano, de la Plate-forme eHealth et de deux experts scientifiques. Ce comité peut être soutenu par un groupe de travail interdisciplinaire d'experts scientifiques.
+L'appli fera également l'objet d'un audit de la sécurité de l'information par une instance indépendante de celle qui a développé l'appli, qui permettra notamment de vérifier si cette appli satisfait aux conditions en matière de sécurité de l'information et est conforme à la réglementation en vigueur.
+CHAPITRE VI. - Entrée en vigueur
+Art. 7. Le présent accord entre en vigueur le même jour que l'accord de coopération en exécution duquel il a été conclu.
+Etabli à Bruxelles, en neuf exemplaires, dont chaque partie déclare en avoir reçu un, le 13 octobre 2020.
+Le Premier Ministre,
+A. DE CROO
+Le Vice-Premier Ministre et Ministre des Affaires sociales et de la Santé publique,
+F. VANDENBROUCKE
+Le Ministre-Président du Gouvernement flamand et Ministre flamand de la Politique extérieure, de la Culture, la TI et les Services généraux,
+J. JAMBON
+Le Ministre flamand du Bien-Etre, de la Santé publique, de la Famille et de la Lutte contre la Pauvreté,
+W. BEKE
+Le Ministre-Président du Gouvernement wallon,
+E. DI RUPO
+La Vice-Présidente et Ministre de l'Emploi, de la Formation, de la Santé, de l'Action sociale, de l'Egalité des chances et des Droits des femmes du Gouvernement wallon,
+C. MORREALE
+Le Vice-Président et Ministre de l'Economie, du Commerce extérieur, de la Recherche et de l'Innovation, du Numérique, de l'Agriculture, de l'Aménagement du territoire, de l'IFAPME et des Centres de compétence du Gouvernement wallon,
+W. BORSUS
+Le Ministre-Président, Ministre des Pouvoirs locaux et des Finances du gouvernement de la Communauté Germanophone
+O. PAASCH
+Le Vice-Ministre-Président et Ministre de la Santé et des Affaires sociales, de l'Aménagement du territoire et du Logement de la Communauté germanophone,
+A. ANTONIADIS
+Le Président du Collège réuni de la Commission communautaire commune,
+R. VERVOORT
+Le membre du Collège réuni de la Commission communautaire commune, ayant la Santé et l'Action sociale dans ses attributions
+A. MARON
+Le membre du Collège réuni de la Commission communautaire commune, ayant la Santé et l'Action sociale dans ses attributions
+E. VAN DEN BRANDT

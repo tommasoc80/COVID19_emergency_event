@@ -1,0 +1,316 @@
+2021 No. 102
+PUBLIC HEALTH
+
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021
+Made15th April 2021
+Coming into operationat 4.00 a.m. on 16th April 2021
+The Department of Health(1), makes the following Regulations in exercise of the powers conferred by sections 25B(1)(a) and (2)(e), (f) and (g) and 25F(2) of the Public Health Act (Northern Ireland) 1967(2).
+
+PART 1
+General
+Citation and commencement
+1.—(1) These Regulations may be cited as the Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021.
+
+(2) These Regulations come into operation at 4.00 am on 16th April 2021.
+
+Interpretation
+2.  In these Regulations—
+
+“child” means a person under the age of 18;“the common travel area” has the meaning given in section 1(3) of the Immigration Act 1971(3) (the United Kingdom, the Channel Islands, the Isle of Man and the Republic of Ireland);“coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2),“coronavirus disease” means COVID-19 (the official designation of the disease which can be caused by coronavirus);“defaulting passenger” means a passenger who fails, without reasonable excuse—
+(a)to provide evidence of having provided passenger information when requested to do so by an immigration officer in accordance with regulation 4(7) of the International Travel Regulations,
+(b)to produce a valid notification of a negative test result from a qualifying test when requested to do so by an immigration officer in accordance with regulation 6(6) of the International Travel Regulations,
+(c)to provide evidence of possessing a testing package when requested to do so by an immigration officer in accordance with regulation 8(10) of the International Travel Regulations, and
+(d)to provide evidence of possessing a managed isolation package when requested to do so by an immigration officer in accordance with paragraph 16 of Schedule 7 to the International Travel Regulations;
+“designated port” has the meaning set out in Schedule 7 to the International Travel Regulations;“immigration officer” means a person appointed by the Secretary of State as an immigration officer under paragraph 1 of Schedule 2 to the Immigration Act 1971(4);“the information requirement” means the requirement in regulation 10(1);“International Travel Regulations” means the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021(5);“operator” means the operator of a relevant service;“port” means any port (including a seaport, airport or heliport) in Northern Ireland;“passenger” means a person travelling on a conveyance who is not a member of the conveyance’s crew;“Passenger Locator Form” has the meaning given in regulation 2(1) of the International Travel Regulations;“relevant service” means a commercial transport service carrying passengers to Northern Ireland from outside the common travel area;“required negative notification” means notification of the result of a test for the detection of coronavirus which satisfies paragraph 3 of Schedule 5 to the International Travel Regulations;“the requirement to possess a managed isolation package” means the requirement in Schedule 7 to the International Travel Regulations;“the requirement to possess a testing package” means the requirement in regulation 8 of the International Travel Regulations;“the requirement to possess notification of a negative test result” means the requirement in regulation 6 of the International Travel Regulations;“the requirement to provide information” means the requirement in regulation 4 of the International Travel Regulations;“responsible individual” means an individual who has responsibility for a child, within the meaning of regulation 2(2) of the International Travel Regulations.
+PART 2
+Operator liability in respect of arrivals
+Requirement to ensure passengers have completed a Passenger Locator Form
+3.—(1) An operator must ensure that a passenger who arrives at a port on a relevant service has completed a Passenger Locator Form.
+
+(2) Paragraph (1) does not apply in relation to a passenger—
+
+(a)whom the operator, or a person acting on behalf of the operator, reasonably believes is not required to comply with the requirement to provide information,
+(b)who informs the operator, or a person acting on behalf of the operator, that they have a disability which prevents them from completing a Passenger Locator Form, or
+(c)who is a child, travelling without a responsible individual.
+Requirement to ensure passengers possess notification of negative test result
+4.—(1) An operator must ensure that a passenger who arrives at a port on a relevant service is in possession of a required negative notification.
+
+(2) Paragraph (1) does not apply in relation to a passenger—
+
+(a)whom the operator, or a person acting on behalf of the operator, reasonably believes is not required to comply with the requirement to possess notification of a negative test result or has a reasonable excuse for failing to comply with that requirement,
+(b)who is a child, travelling without a responsible individual, or
+(c)who is a transit passenger who does not have the right to enter the country or territory from which the relevant service departs.
+(3) In this regulation, “transit passenger” means a person who has arrived in the country or territory from which the relevant service departs with the intention of passing through to Northern Ireland without entering that country or territory.
+
+Requirement to ensure passengers possess a testing package
+5.—(1) An operator must ensure that a passenger who arrives at a port on a relevant service has complied with the requirement to possess a testing package.
+
+(2) Paragraph (1) does not apply in relation to a passenger—
+
+(a)whom the operator, or a person acting on behalf of the operator, reasonably believes is not required to comply with the requirement to possess a testing package, or has a reasonable excuse for failing to comply with that requirement,
+(b)who informs the operator, or a person acting on behalf of the operator, that they have a disability which prevents them from possessing a testing package,
+(c)who is a child, travelling without a responsible individual.
+Requirement to ensure passengers possess a managed isolation package
+6.—(1) An operator must ensure that a passenger who arrives at a port on a relevant service has complied with the requirement to possess a managed isolation package (for example, by possessing a booking reference for a managed isolation package).
+
+(2) Paragraph (1) does not apply in relation to a passenger—
+
+(a)whom the operator, or a person acting on behalf of the operator, reasonably believes is not required to comply with the requirement to possess a managed isolation package, or has a reasonable excuse for failing to comply with that requirement,
+(b)who informs the operator, or a person acting on behalf of the operator, that they have a disability which prevents them from possessing a managed isolation package,
+(c)who is a child, travelling without a responsible individual.
+Requirement to ensure that red list arrivals arrive only at designated ports
+7.—(1) An operator must take all reasonable steps to ensure that no red list arrival arrives on a relevant transport service at a port in Northern Ireland which is not a designated port.
+
+(2) Paragraph (1) does not apply where—
+
+(a)it is necessary for the pilot in command of the aircraft to land the aircraft by means of which the transport service is provided at a place in Northern Ireland other than a designated port to secure—
+(i)the safety or security of the aircraft, or
+(ii)the safety or security of any person aboard the aircraft,
+(b)the aircraft is an air ambulance and it is landing otherwise than at a designated port for the purposes of transporting a person for medical treatment,
+(c)the pilot in command of the aircraft is instructed by an authorised person to land the aircraft at a place in Northern Ireland which is not a designated port.
+(3) In this regulation—
+
+“authorised person” means—
+(a)a constable,
+(b)the Civil Aviation Authority,
+(c)the Secretary of State, or
+(d)a person authorised by the Civil Aviation Authority or the Secretary of State under the Air Navigation Order 2016(6),
+“operator”, in relation to a transport service provided by means of an aircraft, has the meaning given in article 4 of the Air Navigation Order 2016,“pilot in command” and “private aircraft” have the meanings given in the Air Navigation Order 2016 (see Schedule 1 to that Order),“red list arrival” has the meaning given in regulation 3 of the International Travel Regulations,“relevant transport service”, in relation to an operator, means a transport service provided by or on behalf of that operator,“transport service” means—
+(a)a relevant service,
+(b)a service (other than a relevant service) which—
+(i)is carrying passengers travelling to Northern Ireland from outside the common travel area (whether for payment or valuable consideration or otherwise) and
+(ii)is provided by means of an aircraft (other than a private aircraft), or
+(c)is a flight which—
+(i)is carrying passengers travelling to Northern Ireland from outside the common travel area (whether for payment or valuable consideration or otherwise), and
+(ii)is provided by means of a private aircraft.
+Offences
+8.—(1) An operator who fails to comply with the requirement in—
+
+(a)regulation 3(1),
+(b)regulation 4(1),
+(c)regulation 5(1),
+(d)regulation 6(1), or
+(e)regulation 7(1),
+commits an offence.
+
+(2) An offence under paragraph (1) is punishable on summary conviction by a fine not exceeding £10,000.
+
+(3) In relation to an offence in paragraph (1)(a), it is a defence for an operator to show that they recorded a unique passenger reference number for the defaulting passenger before that passenger boarded the relevant service.
+
+(4) In relation to the offence in paragraph (1)(b), it is a defence for an operator to show that the defaulting passenger presented a document purporting to be a required negative notification which the operator, or a person acting on behalf of the operator, could not reasonably have been expected to know was not a required negative notification.
+
+(5) In relation to an offence in paragraph (1)(c) or (d), it is a defence for an operator to show that the operator, or a person acting on behalf of the operator, could not reasonably have been expected to know that—
+
+(a)the defaulting passenger had failed to comply with the requirement to possess a testing package or managed isolation package, or
+(b)the information provided by the defaulting passenger in relation to the testing package or managed isolation package was false or incorrect in any respect, or incomplete.
+(6) In relation to the offence in paragraph (1)(e), it is a defence for the operator to show that the operator, or a person acting on behalf of the operator, could not have been reasonably expected to know that a passenger was a red list arrival.
+
+(7) In this regulation, “unique passenger reference number” means a reference number which has been provided by or on behalf of the defaulting passenger and which includes the letters “UKVI” followed immediately by an underscore and thirteen alphanumeric characters.
+
+Power to use and disclose information
+9.—(1) This regulation applies to any person (“P”) who holds information described in paragraph (2) relating to a defaulting passenger (“relevant information”).
+
+(2) The information referred to in paragraph (1) is—
+
+(a)information provided by, or on behalf of, the defaulting passenger by way of explanation for failing to comply with regulation 4, 6, 8, 10 or 14 of the International Travel Regulations,
+(b)information about the steps taken, pursuant to the International Travel Regulations, in relation to the defaulting passenger, including details of any fixed penalty notice issued under those Regulations,
+(c)personal details of the defaulting passenger, including their—
+(i)name,
+(ii)date of birth,
+(iii)passport number, or travel document reference number (as appropriate), issue and expiry dates and issuing authority,
+(iv)home address,
+(v)telephone number,
+(vi)email address,
+(d)journey details of the defaulting passenger, including—
+(i)their time and date of arrival in Northern Ireland,
+(ii)the name of the operator of the relevant service on which they arrived or through which their booking was made,
+(iii)their coach number,
+(iv)the flight number or vessel name,
+(v)the departure and arrival locations of the relevant service.
+(3) P may only use relevant information where it is necessary for the purpose of carrying out a function under these Regulations.
+
+(4) P may only disclose relevant information to another person (“the recipient”) where it is necessary for the recipient to have the relevant information for the purpose of carrying out a function under these Regulations.
+
+(5) This regulation does not limit the circumstances in which information may otherwise lawfully be disclosed under any other enactment or rule of law.
+
+(6) Nothing in this regulation authorises the use or disclosure of personal data where doing so contravenes the data protection legislation.
+
+(7) For the purposes of this regulation “data protection legislation” and “personal data” have the same meanings as in section 3 of the Data Protection Act 2018.
+
+PART 3
+Information to passengers
+Requirement to provide information to passengers at certain times
+10.—(1) Subject to the following provisions of this regulation, an operator must ensure that a passenger who arrives at a port on a relevant service has been provided with the required information contained in the appropriate Part of the Schedule, in the required manner specified in regulation 11, at each of the times specified in paragraph (2).
+
+(2) The times are—
+
+(a)where prior to departure a booking was made for the passenger to travel on the relevant service, before the booking was made,
+(b)where, at least 48 hours prior to the scheduled departure time of the relevant service, a booking was made for the passenger to travel on it, between 24 and 48 hours prior to the scheduled departure time of that service,
+(c)where prior to departure the passenger was checked in to travel on the relevant service, at the time of check-in,
+(d)while the passenger was on board the vessel or aircraft.
+(3) If another person (A) made the booking on behalf of the passenger (whether or not A is also a passenger on the relevant service), the information requirement is to be treated as complied with, as regards the time set out in paragraph (2)(a), if the required information was provided to A in the required manner before the booking was made, along with a written request that A provide that information to the passenger unless A considers that, by virtue of age or mental capacity, the passenger is unlikely to be capable of understanding it.
+
+(4) If another person (B) made the booking on behalf of the passenger (whether or not B is also a passenger on the relevant service), the information requirement is to be treated as complied with, as regards the time set out in paragraph (2)(b), if the required information was provided to B in the required manner between 24 and 48 hours prior to the scheduled departure time of the relevant service, along with a written request that B provide that information to the passenger unless B considers that, by virtue of age or mental capacity, the passenger is unlikely to be capable of understanding it.
+
+(5) If another person (C) checked in on behalf of the passenger (whether or not C is also a passenger on the relevant service), the information requirement is to be treated as complied with, as regards the time set out in paragraph (2)(c), if the required information was provided to C in the required manner at the time of check-in, along with a written request that C provide that information to the passenger unless C considers that, by virtue of age or mental capacity, the passenger is unlikely to be capable of understanding it.
+
+(6) An operator who fails to comply with the information requirement is guilty of an offence.
+
+(7) An offence under paragraph (6) is punishable on summary conviction by a fine not exceeding £10,000.
+
+(8) In relation to the requirement to provide the required information at the time set out in paragraph (2)(a) to (c), it is a defence for the purposes of paragraph (6) if the operator can demonstrate that—
+
+(a)the booking or check-in process was not managed directly by the operator; and
+(b)the operator took reasonable steps to ensure that the person managing the process would provide the required information at that time and in the required manner.
+(9) If, following the coming into operation of any provision which amends the information required to be provided by regulation 11, an operator provides information to a passenger that would have complied with the information requirement but for the coming into operation of that amending provision, it is a defence for the operator to show that it was not reasonably practicable for the amended information to be provided.
+
+(10) This regulation only applies in respect of a passenger who arrives at a port on a relevant service on a vessel, if the vessel is 24 metres or more in length.
+
+Requirement to provide information to passengers in a certain manner
+11.—(1) For the purposes of regulation 10(2)(a), the required information—
+
+(a)in the case of online bookings—
+(i)must be displayed prominently on an operator’s website or mobile application, and
+(ii)is the information specified in Part 1 of the Schedule and a hyperlink to each of the relevant websites,
+(b)in the case of telephone bookings—
+(i)must be provided orally, and
+(ii)is the information specified in Part 1 of the Schedule,
+(c)in the case of in-person bookings—
+(i)must be provided orally or in writing,
+(ii)where provided orally, is the information specified in Part 1 of the Schedule,
+(iii)where provided in writing, is a written notice which informs passengers of the requirements to provide information, to possess notification of a negative test result, to book, pay for and undertake tests, to self-isolate and to comply with managed isolation in accordance with regulations 4, 6, 8, 10 and 14 of the International Travel Regulations.
+(2) For the purposes of regulation 10(2)(b), the required information—
+
+(a)must be provided by text message, push notification, email or orally,
+(b)where provided by text message or push notification, is text which—
+(i)informs passengers of the requirements to provide information in regulation 4 of the International Travel Regulations and that penalties apply for failure to comply with those requirements,
+(ii)includes a hyperlink to https://www.gov.uk/provide-journey-contact-details-before-travel-uk,
+(iii)if the relevant service is one on which passengers are allocated seat numbers, advises passengers to provide their seat number on the Passenger Locator Form,
+(iv)informs passengers of the requirement to possess notification of a negative test result in regulation 6 of the International Travel Regulations,
+(v)informs passengers of the requirement to book, pay for and undertake tests in regulation 8 of the International Travel Regulations,
+(c)where provided by email, is the information specified in Part 1 of the Schedule and a hyperlink to each of the relevant websites,
+(d)where provided orally, is the information specified in Part 1 of the Schedule.
+(3) For the purposes of regulation 10(2)(c)—
+
+(a)in relation to digital check-in, the required information—
+(i)must be displayed prominently on an operator’s website or mobile application,
+(ii)must be provided before a boarding card is issued, and
+(iii)is the information specified in Part 1 of the Schedule and a hyperlink to each of the relevant websites,
+(b)in relation to in-person check-in, the required information—
+(i)must be provided orally or in writing,
+(ii)where provided orally, is the information specified in Part 1 of the Schedule,
+(iii)where provided in writing, is a written notice which informs passengers of the requirements to provide information, to possess notification of a negative test result, to book, pay for and undertake tests, to self-isolate and to comply with managed isolation in accordance with regulations 4, 6, 8, 10 and 14 of the International Travel Regulations.
+(4) For the purposes of regulation 10(2)(d), the required information—
+
+(a)must be provided orally before passengers disembark in Northern Ireland,
+(b)must be provided in English and an officially recognised language of the country of departure if English is not such a language, and
+(c)is the information specified at Part 2 of the Schedule.
+(5) In this regulation “the relevant websites” means—
+
+(a)for the purposes of paragraph (1)(a)(ii)—
+(i)https://www.gov.uk/provide-journey-contact-details-before-travel-uk, and
+(ii)https://www.gov.uk/uk-border-control,
+(iii)https://www.nidirect.gov.uk/articles/coronavirus-covid-19-taking-coronavirus-test-travelling-northern-ireland,
+(b)for the purposes of paragraphs (2)(c) and (3)(a)(iii)—
+(i)https://www.gov.uk/provide-journey-contact-details-before-travel-uk,
+(ii)https://www.nidirect.gov.uk/articles/coronavirus-covid-19-countries-and-territories-exemptions,
+(iii)https://www.gov.uk/uk-border-control, and
+(iv)https://www.nidirect.gov.uk/articles/coronavirus-covid-19-taking-coronavirus-test-travelling-northern-ireland.
+PART 4
+Final provisions
+Review of need for restrictions
+12.  The Department of Health must review the need for the requirements imposed by these Regulations as part of the reviews conducted as required by the International Travel Regulations.
+
+Expiry of these Regulations
+13.—(1) These Regulations expire on 23rd March 2022.
+
+(2) The expiry of these Regulations does not affect the validity of anything done pursuant to these Regulations before they expire.
+
+Revocations
+14.  The following are revoked—
+
+(a)regulation 1 of The Health Protection (Coronavirus, International Travel and Public Health Advice for Persons Travelling to Northern Ireland) (Amendment) Regulations (Northern Ireland) 2020(7),
+(b)The Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) (No. 2) Regulations (Northern Ireland) 2020(8),
+(c)The Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) (No. 2) (Amendment) Regulations (Northern Ireland) 2020(9),
+(d)regulations 1 and 2 and Part 2 of The Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Amendment) Regulations (Northern Ireland) 2021(10).
+Relationship between these Regulations and the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021
+15.  These Regulations have effect, and are deemed to have effect, at the same time as the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021.
+
+Sealed with the Official Seal of the Department of Health on 15th April 2021.
+
+(L.S.)
+
+Robin SwannMinister of Health
+Regulations 10(1) and 11
+SCHEDULE
+PART 1
+The essential information to be given in accordance with regulation 11(1) to (3) is:
+
+ESSENTIAL INFORMATION TO ENTER THE UK
+
+The United Kingdom is taking steps to help stop the spread of COVID-19.
+
+1) All persons (including UK nationals and residents) arriving in the UK from outside the common travel area must provide proof of a negative COVID-19 test taken within 3 days of departure to the UK. For further information please visit: https://www.nidirect.gov.uk/articles/coronavirus-covid-19-taking-coronavirus-test-travelling-northern-ireland.
+
+2) To protect your health and others’, everyone must complete an online passenger locator form before arrival in the United Kingdom.
+
+3) All arrivals from amber list countries must self-isolate for 10 days unless exempt. If you are an arrival from a red list country you must have booked a Managed Isolation Package prior to departure. [For information please visit https://www.nidirect.gov.uk/articles/coronavirus-covid-19-self-isolating]. Check the list of green list, amber list and red list countries immediately before travel and the list of work-related exemptions if travelling for work.
+
+4) Everyone is required to take a coronavirus test on day 2, and arrivals from red list and amber list countries must also take a test on day 8 of their isolation. You must have booked this prior to departure. For information please visit https://www.nidirect.gov.uk/articles/coronavirus-covid-19-international-travel-advice.
+
+5) It is a legal requirement that you wear a face covering on public transport in the UK.
+
+Failure to comply with these measures is a criminal offence and you could be fined. Please visit https://www.gov.uk/uk-border-control for detailed public health advice and requirements for entering the UK
+
+PART 2
+The required information to be given in accordance with regulation 11(4) is:
+
+“The following is a public health message on behalf of the UK’s public health agencies.
+
+Before entering the UK, you must complete a passenger locator form online, regardless of where you are arriving from. You must isolate for the first 10 days after you arrive, unless you are in an exempt category or from a green list country. This is to protect yourself and others. This includes booking a Managed Isolation Package if you have travelled through a red list country in the last 10 days, or booking home tests if you have travelled in any other country.
+
+Visit gov.uk for more information.
+
+The symptoms of coronavirus are a new continuous cough, a high temperature or a loss of, or change in, normal sense of taste or smell. If you experience any of these symptoms, however mild, you are advised to make yourself known to the crew.
+
+Simple measures you can take to help protect yourself and family are:
+
+Wear a mask
+
+Wash your hands
+
+Avoid touching your face with your hands
+
+Practice social distancing
+
+Catch coughs and sneezes in a tissue and dispose of it immediately.”.
+
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations combine the provisions within the Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) (No.2) Regulations (Northern Ireland) 2020 and Part 2 of the Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Amendment) Regulations (Northern Ireland) 2021 along with subsequent amendments to those Regulations.
+
+Part 2 introduces requirements for persons operating commercial transport services (“operators”) for passengers travelling to Northern Ireland from outside the common travel area to ensure that passengers who arrive in Northern Ireland on such services have completed a Passenger Locator Form (regulation 6(1)) and possess notification of a negative test result (regulation 7(1)). Breach of the requirements is an offence (regulation 8(1)).
+
+Upon completion of the Passenger Locator Form, passengers receive a unique passenger reference number from the Home Office. An operator who has recorded a unique passenger reference number in the format used by the Home Office will have a defence to the offence in regulation 8(1)(a) (regulation 8(3)).
+
+Part 3 requires operators to provide certain information to passengers using their services in travelling to Northern Ireland.
+
+Regulation 10 requires operators to ensure that passengers who arrive in Northern Ireland on such services have been provided with certain public health information in the required manner, on four separate occasions. Breach of this requirement is an offence.
+
+Regulation 11 sets out the detail of what this information must contain.
+
+Part 4 revokes the previous Regulations and provide that these Regulations will automatically expire in March 2022. The Regulations must also be regularly reviewed to ensure they are still needed.
+
+An impact assessment has not been completed prior to making these Regulations due to their urgent nature. However a screening exercise will be conducted before the regulations come into operation.
+
+(1)Formerly the Department of Health, Social Services and Public Safety; see 2016 c. 5 (N.I.), s. 1(5)
+(2)1967 c. 36 (N.I.). Part 1A was inserted by section 48 of, and Schedule 18 to, the Coronavirus Act 2020 (c. 7)
+(3)1971 c. 77.
+(4)1971 c. 77. Paragraph 1 was amended by paragraph 3 of Schedule 3 to the Health Protection Agency Act 2004 (c. 17), and by S.I. 1993/1813
+(5)S.R. 2021 No. 99
+(6)S.I. 2016 No. 765
+(7)S.R. 2020 No. 179. Regulation 3 of S.R. 2020 No.179 was revoked by S.R. 2020 No. 215 and regulation 2 of S.R. 2020 No. 179 was revoked by S.R. 2021 No. 99. This revocation revokes the remainder of S.R. 2020 No. 179.
+(8)S.R. 2020 No. 215
+(9)S.R. 2020 No. 325
+(10)S.R. 2021 No. 10. Part 1 of S.R. 2021 No. 10 was revoked by S.R. 2021 No. 99. This revocation revokes the remainder of S.R. 2021 No. 10.

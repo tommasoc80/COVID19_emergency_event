@@ -1,0 +1,372 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. GRUODŽIO 4 D. ĮSAKYMO NR. V-2797 „DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO TYRIMŲ IR SEROLOGINIŲ TYRIMŲ ATLIKIMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2021 m. sausio 25 d. Nr. V-145
+Vilnius
+
+
+P a k e i č i u COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. gruodžio 4 d. įsakymu Nr. V-2797 „Dėl COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašo patvirtinimo“:
+1.	Pakeičiu 4.4 papunktį ir jį išdėstau taip:
+„4.4.	greitasis SARS-CoV-2 antigeno testas ir laboratorijoje atliekamas antigeno tyrimas (toliau – antigeno testas).“
+2.	Pakeičiu 9 punktą ir jį išdėstau taip:
+„9. Antigeno testai gali būti naudojami, kai užtikrinama, kad:
+9.1. testai COVID-19 ligos (koronaviruso infekcijos) simptomų turintiems asmenims atliekami ne vėliau kaip per 5 paras nuo simptomų pradžios, sąlytį su patvirtintu ar įtariamu COVID-19 ligos (koronaviruso infekcijos) atveju turėjusiems asmenims – ne vėliau kaip per 7 paras po turėto sąlyčio;
+9.2. kai antigeno testų rezultatus vertina ir interpretuoja sveikatos priežiūros specialistas;
+9.3. antigeno testų jautrumas turi būti ne mažesnis nei 90 proc. lyginant su PGR tyrimais ėminiams, kurių ciklo slenkstis (angl. cycle threshold) mažiau nei 25, specifiškumas – ne mažesnis nei 99 proc.“
+3.	Pakeičiu 11.1 papunkčio pirmąją pastraipą ir ją išdėstau taip:
+„11.1. diagnostikai kartu su PGR ar greituoju PGR tyrimu COVID-19 ligai (koronaviruso infekcijai) arba serokonversijai patvirtinti:“.
+4.	Papildau 11.4 papunkčiu:
+„11.4. išimčiai iš vakcinacijos programos nustatyti, kaip turimo imuniteto surogatinį žymenį nustatant anti-S, anti-S1 arba anti-RBD IgG;“.
+5.	Papildau 11.5 papunkčiu
+„11.5. išimčiai iš besimptomių asmenų testavimo programos nustatyti, kaip turimo imuniteto žymenį nustatant anti-S, anti-S1 arba anti-RBD IgG;“.
+6.	Papildau 11.6 papunkčiu:
+„11.6. atleidžiant nuo būtinybės izoliuotis, kaip turimo imuniteto žymenį nustatant anti-S, anti-S1 arba anti-RBD IgG.“
+7.	Pakeičiu 13 punktą ir jį išdėstau taip:
+„13. Serologinių tyrimų jautrumas nustatant antikūnus prieš SARS-CoV-2 ne anksčiau nei 14 dienų nuo simptomų pradžios turi būti ne mažesnis nei 90 proc., specifiškumas – ne mažesnis nei 98 proc.“
+8.	Papildau 151 punktu:
+„151. Laboratorijos, atliekančios laboratorijoje atliekamus antigeno tyrimus, turi atitikti Aprašo 5.1 ir 5.2 papunkčiuose nustatytus reikalavimus. Laboratorijoje atliekamų antigeno tyrimų metodai prieš pradedant juos naudoti ir (ar) pasikeitus bent vienam, galinčiam turėti įtakos tyrimo rezultato kokybei, reagentui ar komponentui, turi būti patikrinti (verifikuoti) arba, jei reikia, validuoti kiekvienoje laboratorijoje.“
+9.	Pakeičiu 17 punktą ir jį išdėstau taip:
+„17. Laboratorijos, atliekančios PGR, greituosius PGR, kaupinių PGR ir (ar) laboratorijoje atliekamus antigeno tyrimus, privalo ne rečiau kaip 2 kartus per metus dalyvauti nepriklausomose ir nešališkose išorinio kokybės vertinimo programose, kurių teikėjas atitinka esminius standarto LST ISO/IEC 17043 „Atitikties įvertinimas. Bendrieji tyrimų kokybės tikrinimo reikalavimai“ reikalavimus.“
+10.	Pakeičiu 19 punktą ir jį išdėstau taip:
+„19. Paciento ištyrimą greitaisiais SARS-CoV-2 antigeno testais ir greitaisiais serologiniais antikūnų testais turi teisę atlikti visos asmens sveikatos priežiūros įstaigos, išskyrus teikiančios tik ergoterapijos, kineziterapijos, dietisto praktikos, optometrininko praktikos ir dantų techniko praktikos asmens sveikatos priežiūros paslaugas.“
+11.	Pakeičiu 1 priedą ir jį išdėstau nauja redakcija (pridedama).
+12.	Pakeičiu 2 priedą ir jį išdėstau nauja redakcija (pridedama).
+13.	Pakeičiu 3 priedą ir jį išdėstau nauja redakcija (pridedama).
+14.	Pakeičiu 4 priedą ir jį išdėstau nauja redakcija (pridedama).
+15.	Pakeičiu 5 priedą ir jį išdėstau nauja redakcija (pridedama).
+16.	Pakeičiu 6 priedą ir jį išdėstau nauja redakcija (pridedama).
+17.	Pripažįstu netekusiu galios 7 priedą.
+
+
+
+Sveikatos apsaugos ministras		          Arūnas Dulkys 
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+1 priedas
+
+Simptomų turinčių asmenų tyrimo stacionarines asmens sveikatos priežiūros paslaugas teikiančioje asmens sveikatos priežiūros įstaigoje algoritmas
+ARBA
+ARBA
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+PGR tyrimas
+Greitasis PGR tyrimas 
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+PGR tyrimas arba greitasis PGR tyrimas
+
+ARBA
+ARBA
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+PGR tyrimas
+Greitasis PGR tyrimas 
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+PGR tyrimas arba greitasis PGR tyrimas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+2 priedas
+
+Simptomų turinčių asmenų tyrimo institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas
+
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+
+PGR tyrimas
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+
+PGR tyrimas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+3 priedas
+
+Simptomų turinčių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir mobiliuosiuose punktuose algoritmas
+
+Aktyvi infekcija neaptikta
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+
+PGR tyrimas
+Izoliacija 48 val. ir kartojamas antigenų testas
+testas
+ARBA
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų, kurį galima gydyti ambulatoriškai
+Aktyvi infekcija neaptikta
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Antigenų testas (jei nuo simptomų pradžios praėjo ne daugiau kaip 5 dienos)
+
+PGR tyrimas
+Izoliacija 48 val. ir kartojamas antigenų testas
+testas
+ARBA
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų, kurį galima gydyti ambulatoriškai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+4 priedas
+
+Sąlytį turėjusių besimptomių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas
+
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+PGR arba kaupinių PGR tyrimas 
+
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija ir kartojamas PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+PGR arba kaupinių PGR tyrimas 
+
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija ir kartojamas PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Didelės rizikos sąlytį turėjusių asmenų izoliacija vykdoma vadovaujantis Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklėmis, patvirtintomis Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“.
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+5 priedas
+
+Besimptomių asmenų tyrimo visuomenėje algoritmas
+
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+
+PGR arba kaupinių PGR tyrimas 
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija ir kartojamas PGR arba kaupinių PGR tyrimas arba antigenų testas
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+
+PGR arba kaupinių PGR tyrimas 
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija ir kartojamas PGR arba kaupinių PGR tyrimas arba antigenų testas
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Didelės rizikos sąlytį turėjusių asmenų izoliacija vykdoma vadovaujantis Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklėmis, patvirtintomis Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“.
+
+COVID-19 ligos (koronaviruso
+infekcijos) nustatymo tyrimų ir
+serologinių tyrimų atlikimo
+tvarkos aprašo 
+6 priedas
+
+Profilaktinio besimptomių asmenų institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), ir besimptomių asmens sveikatos priežiūros įstaigų pacientų tyrimo algoritmas
+
+Serologinis tyrimas, kaip turimo imuniteto žymenį nustatant anti-S, anti-S1 arba anti-RBD IgG
+Aktyvi infekcija neaptikta
+Besimptomis asmuo: periodinis prevencinis testavimas 
+Antigenų testas
+PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Asmuo profilaktiškai netiriamas*
+Serologinis tyrimas, kaip turimo imuniteto žymenį nustatant anti-S, anti-S1 arba anti-RBD IgG
+Aktyvi infekcija neaptikta
+Besimptomis asmuo: periodinis prevencinis testavimas 
+Antigenų testas
+PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Asmuo profilaktiškai netiriamas*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Asmuo profilaktiškai netiriamas tokį patį laikotarpį, kokį jam netaikoma izoliacija vadovaujantis Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių 6 priedu, patvirtintu Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 12 d. įsakymu Nr. V-352 „Dėl Asmenų, sergančių COVID-19 liga (koronaviruso infekcija), asmenų, įtariamų, kad serga COVID-19 liga (koronaviruso infekcija), ir asmenų, turėjusių sąlytį, izoliavimo namuose, kitoje gyvenamojoje vietoje ar savivaldybės administracijos numatytose patalpose taisyklių patvirtinimo“.

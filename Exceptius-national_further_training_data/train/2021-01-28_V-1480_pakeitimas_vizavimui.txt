@@ -1,0 +1,31 @@
+
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRO 2020 M. BIRŽELIO 16 D. ĮSAKYMO NR. V-1480 „DĖL ASMENŲ, KURIEMS DIAGNOZUOTA COVID-19 LIGA (KORONAVIRUSO INFEKCIJA), IZOLIUOTŲ NAMUOSE, KITOJE GYVENAMOJOJE VIETOJE, SAVIVALDYBĖS ADMINISTRACIJOS NUMATYTOSE PATALPOSE AR SVEIKATOS PRIEŽIŪROS ĮSTAIGOS, TEIKIANČIOS STACIONARINES MEDICININĖS REABILITACIJOS PASLAUGAS, PATALPOSE, AMBULATORINIO GYDYMO TVARKOS APRAŠO PATVIRTINIMO“ PAKEITIMO
+
+2021 m. vasario 11 d.  Nr. V-275
+Vilnius
+
+P a k e i č i u  Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašą, patvirtintą Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. birželio 16 d. įsakymu Nr. V-1480 „Dėl Asmenų, kuriems diagnozuota COVID-19 liga (koronaviruso infekcija), izoliuotų namuose, kitoje gyvenamojoje vietoje, savivaldybės administracijos numatytose patalpose ar sveikatos priežiūros įstaigos, teikiančios stacionarines medicininės reabilitacijos paslaugas, patalpose, ambulatorinio gydymo tvarkos aprašo patvirtinimo“:  
+1.	Pakeičiu 3.3 papunktį ir jį išdėstau taip:
+„3.3. kai šeimos gydytojas diagnozuoja pacientui COVID-19 ligą (koronaviruso infekciją), jei jam neatliktas SARS-CoV-2 viruso tyrimas, esant aiškiai COVID-19 ligos (koronaviruso infekcijos) klinikai ir epidemiologinei anamnezei (t. y. pacientui pasireiškia COVID-19 ligai (koronaviruso infekcijai) būdingi simptomai per 14 dienų nuo paskutinės sąlyčio su kartu gyvenančiu šeimos nariu ar kitu asmeniu, sergančiu COVID-19 liga (koronaviruso infekcija), kuriam diagnozė patvirtinta atliktus laboratorinį SARS-CoV-2 viruso tyrimą PGR metodu ar greitąjį SARS-CoV-2 antigeno testą ar laboratorijoje atliekamą antigeno tyrimą (toliau – SARS-CoV-2 antigeno testas), dienos).“ 
+2. Pakeičiu 4.1 papunktį ir jį išdėstau taip:
+„4.1. PAASPĮ ar šeimos gydytojas gauna pranešimą apie pacientams atliktus SARS-CoV-2 viruso (tiriant PGR metodu ar atlikus SARS-CoV-2 antigeno testą) tyrimus į ESPBI IS arba šeimos gydytoją ar slaugytoją informuoja pacientas apie jam SARS-CoV-2 viruso tyrimu nustatytą COVID-19 ligą (koronaviruso infekciją), arba Aprašo 3.3 papunktyje nustatytu atveju šeimos gydytojas diagnozuoja COVID-19 ligą (koronaviruso infekciją);“.
+3. Pakeičiu 4.2 papunktį ir jį išdėstau taip:
+„4.2. šeimos gydytojas ar slaugytojas Aprašo 4.1 papunktyje nurodytos informacijos gavimo dieną (jei ši informacija gauta po šeimos gydytojo ar slaugytojo darbo valandų – kitą darbo dieną) patikrina ESPBI IS laboratorijos pateiktą formą E200-a „Laboratorinio tyrimo rezultatų (duomenų) protokolas“ (toliau – forma E200-a). Jei formoje E200-a nurodyta, kad tyrimas teigiamas (tepinėlyje randamas SARS-CoV-2 virusas (tiriant PGR metodu ar atlikus SARS-CoV-2 antigeno testą), šeimos gydytojas ESPBI IS formoje E025 įrašo diagnozę pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM), nurodydamas ligos kodą U07.1 „COVID-19 liga, virusas nustatytas“. 
+Kai šeimos gydytojas diagnozuoja COVID-19 ligą (koronaviruso infekciją) Aprašo 3.3 papunktyje nustatytu atveju, jis tą pačią dieną ESPBI IS formoje E025 įrašo diagnozę pagal TLK-10-AM, nurodydamas ligos kodą U07.2 „COVID-19 liga, virusas nenustatytas“;“.
+4. Pakeičiu 4.8 papunktį ir jį išdėstau taip:
+„4.8. pacientas laikomas pasveikusiu šeimos gydytojo sprendimu, bet ne anksčiau nei jam gali būti nutraukiama izoliacija. Pacientui pasveikus nuo COVID-19 ligos (koronaviruso infekcijos), šeimos gydytojas į ESPBI IS formoje E025 įrašo diagnozę, nurodydamas TKL-10-AM kodą U07.3 „Buvusi asmeniui COVID-19 liga“.
+Pasveikusiam nuo COVID-19 ligos (koronaviruso infekcijos) pacientui, kuriam diagnozė buvo patvirtinta remiantis teigiamu SARS-Co-V2 tyrimo (tiriant PGR metodu ar atlikus SARS-CoV-2 antigeno testą) rezultatu, 90 dienų laikotarpiu nuo pirmųjų COVID-19 ligos (koronaviruso infekcijos) simptomų atsiradimo dienos kartoti SARS-CoV-2 viruso tyrimų PGR metodu ar atlikti SARS-CoV-2 antigeno testo nerekomenduojama;“.
+5. Pakeičiu 4.9.3 papunktį ir jį išdėstau taip:
+„4.9.3. pacientams, sirgusiems besimptomės formos COVID-19 liga (koronaviruso infekcija), po 10 dienų nuo nosiaryklės ir ryklės tepinėlio, kurį ištyrus PGR metodu ar atlikus SARS-CoV-2 antigeno testą buvo aptiktas SARS-CoV-2 virusas, paėmimo dienos.“
+6. Pakeičiu 5.1.1 papunktį ir jį išdėstau taip:
+„5.1.1. elektroninio dokumento lauke „Skyrimo diagnozė“ nurodo TLK-10-AM kodą U07.1 „COVID-19 liga, virusas nustatytas“;“.
+
+
+
+Sveikatos apsaugos ministras				Arūnas Dulkys
+

@@ -1,0 +1,434 @@
+Tiesibu akts: 
+	    		speka esošs
+	    	Attelota redakcija: 01.01.2021. - ... / Speka esoša
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    Ministru kabineta noteikumi Nr.866
+Riga 2008.gada 21.oktobri (prot. Nr.75 11.§)
+Videjas apdrošinašanas iemaksu algas aprekinašanas kartiba bezdarbnieka pabalsta apmera noteikšanai un bezdarbnieka pabalsta un apbedišanas pabalsta pieškiršanas, aprekinašanas un izmaksas kartiba
+Izdoti saskana ar likuma “Par apdrošinašanu bezdarba gadijumam” 8.panta trešo dalu, 13.panta trešo dalu un 16.1 pantu
+I. Visparigais jautajums
+1. Noteikumi nosaka:1.1. kartibu, kada aprekina videjo apdrošinašanas iemaksu algu bezdarbnieka pabalsta apmera noteikšanai;1.2. dokumentus, kas apliecina tiesibas uz bezdarbnieka pabalstu un apbedišanas pabalstu;1.3. kartibu, kada pieškir, aprekina un izmaksa bezdarbnieka pabalstu un apbedišanas pabalstu;1.4. kartibu, kada persona, pamatojoties uz attiecigu tiesas spriedumu, tiesas apstiprinatu izligumu ar darba deveju vai attiecigas valsts parvaldes iestades pienemtu parvaldes lemumu, atlidzina valsts socialas apdrošinašanas nodarbinatibas specialaja budžeta sanemta bezdarbnieka pabalsta summu, ja vinai par labu no darba deveja tiek piedzita atlidziba par darba piespiedu kavejumu attiecigaja bezdarbnieka pabalsta sanemšanas perioda.2
+            
+              
+              
+            
+          (Grozits ar MK 09.02.2016. noteikumiem Nr. 90)
+II. Videjas apdrošinašanas iemaksu algas aprekinašanas kartiba bezdarbnieka pabalsta apmera noteikšanai
+
+2. Videjo apdrošinašanas iemaksu algu bezdarbnieka pabalsta
+apmera noteikšanai aprekina no apdrošinašanas iemaksu algas
+par 12 kalendara menešu periodu, šo periodu beidzot divus
+kalendara menešus pirms ta meneša, kura persona:
+2.1. ieguvusi bezdarbnieka statusu (likuma “Par
+apdrošinašanu bezdarba gadijumam” 5.panta pirmaja dala
+noteiktaja gadijuma). Aprekinam izmanto šadu formulu:
+Vd = (A1 + A2 + .. + A12) : D,
+kur
+Vd – kalendara dienas videja apdrošinašanas iemaksu
+alga;
+A1, A2, .. A12 – apdrošinašanas iemaksu algas summa, kas
+guta likuma “Par apdrošinašanu bezdarba gadijumam” 8.panta
+pirmaja dala noteikta 12 kalendara menešu perioda
+attiecigaja kalendara menesi;
+D – likuma “Par apdrošinašanu bezdarba gadijumam”
+8.panta pirmaja dala noteikta perioda kalendara dienu skaits,
+neieskaitot taja periodu, kura laika persona saskana ar likumu
+“Par valsts socialo apdrošinašanu” nav bijusi paklauta
+apdrošinašanai bezdarba gadijumam;
+2.2. pieprasijusi bezdarbnieka pabalstu (likuma “Par
+apdrošinašanu bezdarba gadijumam” 5.panta otraja dala
+noteiktaja gadijuma). Aprekinam izmanto šadu formulu:
+Vd = (A1 + A2 + .. + A12) : Dm,
+kur
+Vd – kalendara dienas videja apdrošinašanas iemaksu
+alga;
+A1, A2 .. A12 – apdrošinašanas iemaksu algas summa, kas
+guta likuma “Par apdrošinašanu bezdarba gadijumam” 8.panta
+otraja dala noteikta 12 kalendara menešu perioda
+attiecigaja kalendara menesi;
+Dm – likuma “Par apdrošinašanu bezdarba gadijumam”
+8.panta otraja dala noteikta perioda kalendara dienu skaits,
+neieskaitot taja periodu, kura laika persona saskana ar likumu
+“Par valsts socialo apdrošinašanu” nav bijusi paklauta
+apdrošinašanai bezdarba gadijumam;
+2.3. ieguvusi bezdarbnieka statusu (likuma "Par apdrošinašanu
+bezdarba gadijumam" 5. panta pirmaja vai otraja dala
+noteiktaja gadijuma) un kuras apdrošinašanas iemaksu algai,
+kas guta likuma "Par apdrošinašanu bezdarba gadijumam"
+8. panta pirmaja vai otraja dala noteiktaja 12 kalendara
+menešu perioda, attiecigajos kalendara menešos ir
+atškirigi apmeri. Aprekinam izmanto šadu formulu:
+Vd = (
+A1 + A2 + ... + A10
+ ×
+X2) : Dd, kur
+X1
+Vd – kalendara dienas videja apdrošinašanas iemaksu
+alga;
+A1, A2, .. A10 – apdrošinašanas iemaksu algas summa, kas
+guta likuma "Par apdrošinašanu bezdarba gadijumam"
+8. panta pirmaja vai otraja dala noteikta 12 kalendara
+menešu perioda attiecigaja menesi, neieskaitot minetaja
+perioda tos divus menešus, kuros personai bijusi viszemaka un
+visaugstaka apdrošinašanas iemaksu alga, sakot no 12
+kalendara menešu perioda sakuma, ka ari neieskaitot ša
+perioda apdrošinašanas iemaksu algas summa apdrošinašanas
+iemaksu algu, kas guta berna kopšanas atvalinajuma laika,
+grutniecibas un dzemdibu atvalinajuma laika vai laika, kad
+persona ir bijusi atvalinajuma bez darba samaksas
+saglabašanas, kas pieškirts sakara ar nepieciešamibu kopt
+bernu;
+X1 – videjas apdrošinašanas iemaksu algas
+aprekina ieklauto menešu skaits, neieskaitot minetaja
+perioda tos divus menešus, kuros personai bijusi viszemaka un
+visaugstaka apdrošinašanas iemaksu alga;
+X2 – videjas apdrošinašanas iemaksu algas
+aprekina ieklauto menešu skaits;
+Dd – likuma "Par apdrošinašanu bezdarba gadijumam" 8.
+panta pirmaja vai otraja dala noteikta perioda kalendara
+dienu skaits, neieskaitot taja kalendara dienas, kuras persona
+saskana ar likumu "Par valsts socialo apdrošinašanu" nav
+bijusi paklauta apdrošinašanai bezdarba gadijumam, ir bijusi
+berna kopšanas atvalinajuma, grutniecibas un dzemdibu
+atvalinajuma vai atvalinajuma bez darba samaksas
+saglabašanas, kas pieškirts sakara ar nepieciešamibu kopt
+bernu, un 22.5 punkta minetas dienas;
+2.4. ieguvusi bezdarbnieka statusu un kurai videjo
+apdrošinašanas iemaksu algu nosaka likuma "Par apdrošinašanu
+bezdarba gadijumam" 8.panta astotaja dala noteiktaja
+kartiba. Ja apdrošinašanas iemaksu algai noteiktaja 12
+kalendara menešu perioda attiecigajos menešos ir
+atškirigi apmeri, aprekinam izmanto šo noteikumu 2.3.
+apakšpunkta mineto formulu, bet, ja apdrošinašanas iemaksu
+algai noteiktaja 12 kalendara menešu perioda attiecigajos
+menešos ir vienadi apmeri, aprekinam izmanto šadu
+formulu:
+Vd = (A1 + A2 + .. + A12) : Da,
+kur
+Vd – kalendara dienas videja apdrošinašanas iemaksu
+alga;
+A1, A2 .. A12 – apdrošinašanas iemaksu algas summa, kas
+guta likuma "Par apdrošinašanu bezdarba gadijumam" 8.panta
+pirmaja vai otraja dala noteikta 12 kalendara menešu
+perioda attiecigaja menesi, neieskaitot taja apdrošinašanas
+iemaksu algu, kas guta berna kopšanas atvalinajuma laika,
+grutniecibas un dzemdibu atvalinajuma laika vai laika, kad
+persona ir bijusi atvalinajuma bez darba samaksas
+saglabašanas, kas pieškirts sakara ar nepieciešamibu kopt
+bernu;
+Da – likuma "Par apdrošinašanu bezdarba gadijumam" 8.panta
+pirmaja vai otraja dala noteikta perioda kalendara dienu
+skaits, neieskaitot taja kalendara dienas, kuras persona ir
+bijusi berna kopšanas atvalinajuma, grutniecibas un
+dzemdibu atvalinajuma vai atvalinajuma bez darba samaksas
+saglabašanas, kas pieškirts sakara ar nepieciešamibu kopt
+bernu.
+
+(Grozits ar MK 22.10.2009. noteikumiem Nr. 1221; MK 17.01.2012. noteikumiem Nr. 55; MK 09.02.2016. noteikumiem Nr. 90; MK 17.12.2020. noteikumiem Nr. 784)
+3. Personai, kurai valsts socialas apdrošinašanas obligato iemaksu objekts ir sasniedzis attiecigajam kalendara gadam noteikto maksimalo apmeru, aprekinot kalendara dienas videjo apdrošinašanas iemaksu algu, piemero iemaksu algas izlidzinašanu par attieciga parskata gada kalendara menešiem, kuros persona bijusi sociali apdrošinata bezdarba gadijumam, reizinot aprekina ieklaujama attieciga kalendara gada 1/365 dalu no valsts socialas apdrošinašanas obligato iemaksu gada maksimala apmera ar aprekina videjas apdrošinašanas iemaksu algas noteikšanai ieklauta kalendara meneša dienu skaitu, kuras persona ir bijusi paklauta bezdarba apdrošinašanai.3
+            
+              
+              
+            
+          
+4. (Svitrots ar MK 22.12.2009. noteikumiem Nr.1594)4
+            
+              
+              
+            
+          
+III. Bezdarbnieka pabalsta un apbedišanas pabalsta apmera aprekinašana
+5. Bezdarbnieka pabalsta apmeru menesi aprekina par kalendara dienam un proporcionali apdrošinašanas stažam:5
+            
+              
+              
+            
+          
+
+5.1. bezdarbniekam ar
+apdrošinašanas stažu no viena gada lidz deviniem gadiem
+(ieskaitot) – izmantojot šadu formulu:
+Pb = Vd x Dn x 0,5, kur
+Pb – bezdarbnieka pabalsta
+apmers;
+Vd – kalendara dienas
+videja apdrošinašanas iemaksu alga;
+Dn – bezdarba perioda
+kalendara dienu skaits menesi, kas jaapmaksa saskana ar
+normativajiem aktiem;
+5.2. bezdarbniekam ar
+apdrošinašanas stažu no 10 lidz 19 gadiem (ieskaitot)
+– izmantojot šadu formulu:
+Pb = Vd x Dn x 0,55, kur
+Pb – bezdarbnieka pabalsta
+apmers;
+Vd – kalendara dienas
+videja apdrošinašanas iemaksu alga;
+Dn – bezdarba perioda
+kalendara dienu skaits menesi, kas jaapmaksa saskana ar
+normativajiem aktiem;
+5.3. bezdarbniekam ar
+apdrošinašanas stažu no 20 lidz 29 gadiem (ieskaitot)
+– izmantojot šadu formulu:
+Pb = Vd x Dn x 0,6, kur
+Pb – bezdarbnieka pabalsta
+apmers;
+Vd – kalendara dienas
+videja apdrošinašanas iemaksu alga;
+Dn – bezdarba perioda
+kalendara dienu skaits menesi, kas jaapmaksa saskana ar
+normativajiem aktiem;
+5.4. bezdarbniekam ar
+apdrošinašanas stažu 30 gadu un vairak –
+izmantojot šadu formulu:
+Pb = Vd x Dn x 0,65, kur
+Pb – bezdarbnieka pabalsta
+apmers;
+Vd – kalendara dienas
+videja apdrošinašanas iemaksu alga;
+Dn – bezdarba perioda
+kalendara dienu skaits menesi, kas jaapmaksa saskana ar
+normativajiem aktiem;
+5.5. bezdarbniekiem, par kuriem
+pirms bezdarbnieka statusa iegušanas dienas iemaksas bezdarba
+gadijumam ir veiktas tikai no valsts pamatbudžeta, ka ari
+likuma “Par apdrošinašanu bezdarba gadijumam” 5.panta
+trešaja dala noteiktajiem bezdarbniekiem – izmantojot šadu
+formulu:
+ 
+Pb =
+
+Pn x 2 x 0,6 x 12
+x Dn, kur
+ 
+ 365
+Pb – bezdarbnieka
+pabalsta apmers;
+Pn – valsts sociala
+nodrošinajuma pabalsta apmers, kads bezdarbnieka pabalsta
+pieprasišanas diena ir speka Valsts socialo pabalstu likuma
+13. panta pirmas dalas 1. punkta minetajam personam
+(turpmak – valsts sociala nodrošinajuma pabalsts);
+Dn – bezdarba perioda
+kalendara dienu skaits, kas jaapmaksa saskana ar
+normativajiem aktiem.
+
+(Grozits ar MK 17.12.2020. noteikumiem Nr. 784)
+5.1 Ja bezdarbnieka pabalsta sanemšanas laika persona iesniedz papildu apdrošinašanas stažu apliecinošus dokumentus par uzkratiem darba un darbam pielidzinatiem periodiem lidz 1995. gada 31. decembrim, pieškirto bezdarbnieka pabalstu parrekina no pabalsta pieškiršanas dienas, pamatojoties uz pabalsta sanemeja iesniegumu.6
+            
+              
+              
+            
+          (MK 09.02.2016. noteikumu Nr. 90 redakcija)
+6. Apbedišanas pabalsta apmeru bezdarbnieka un bezdarbnieka pabalsta sanemeja naves gadijuma aprekina, izmantojot šadu formulu:
+Pa = Pn x 3, kur
+Pa – apbedišanas pabalsta apmers;
+Pn – valsts sociala nodrošinajuma pabalsta apmers, kads bija speka bezdarbnieka naves diena.7
+            
+              
+              
+            
+          
+IV. Bezdarbnieka pabalsta un apbedišanas pabalsta pieškiršana un izmaksa
+7. Bezdarbnieka pabalsta pieškiršanai bezdarbnieks pec izveles viena no Valsts socialas apdrošinašanas agenturas (turpmak – agentura) nodalam vai Nodarbinatibas valsts agenturas filialem:7.1. iesniedz rakstisku iesniegumu par bezdarbnieka pabalsta pieškiršanu (var izmantot agenturas majaslapa (www.vsaa.lv) ievietoto veidlapu), noradot šadas zinas:7.1.1. pabalsta pieprasitaja: 7.1.1.1. vards, uzvards; 7.1.1.2. personas kods; 7.1.1.3. deklaretas dzivesvietas adrese; 7.1.1.4. talruna numurs vai elektroniska pasta adrese; 7.1.1.5. kreditiestades vai pasta norekinu sistemas konta numurs (21 zime);7.1.2. berna vards, uzvards un personas kods, ja persona pirms bezdarbnieka statusa iegušanas audzinaja bernu ar invaliditati lidz 18 gadu vecumam;7.1.3. informacija par invaliditates noteikšanas terminiem, ja persona pec invaliditates ir atguvusi darbspejas;7.1.4. ja pabalsta pieprasitajs ir bijis nodarbinats cita Eiropas Ekonomikas zonas dalibvalsti, norada šadas zinas: 7.1.4.1. nodarbinatibas valsts un darba deveja nosaukums un adrese; 7.1.4.2. nodarbinatibas sakuma un beigu datums;7.1.5. iesniegumam pievienoto dokumentu saraksts un lapu skaits;7.2. uzrada darba gramatinu (darba liguma gramatinu) un citus socialas apdrošinašanas stažu un veikto apdrošinašanas iemaksu apliecinošus dokumentus (izzinas, darba ligumus un to izpildi apliecinošus dokumentus), ja agenturas riciba nav visas nepieciešamas informacijas par bezdarbnieka apdrošinašanas stažu.8
+            
+              
+              
+            
+          (MK 08.06.2010. noteikumu Nr. 508 redakcija, kas grozita ar MK 09.02.2016. noteikumiem Nr. 90)
+7.1 Pabalsta pieprasitajs ar parakstu apliecina, ka šo noteikumu 7.1.apakšpunkta minetaja iesnieguma noradita informacija ir patiesa.9
+            
+              
+              
+            
+          (MK 08.06.2010. noteikumu Nr.508 redakcija)
+7.2(Svitrots ar MK 09.02.2016. noteikumiem Nr. 90)10
+            
+              
+              
+            
+          
+8. Ja par bezdarbnieku pedejo 12 menešu perioda pirms bezdarbnieka statusa iegušanas iemaksas bezdarba gadijumam nav veiktas vai ir veiktas mazak neka devinus menešus un attieciga persona pieder kadai likuma “Par apdrošinašanu bezdarba gadijumam” 5.panta trešaja dala minetajai bezdarbnieku kategorijai, Veselibas un darbspeju ekspertizes arstu valsts komisija elektroniski iesniedz Valsts socialas apdrošinašanas agentura šo piederibu apliecinošu informaciju.11
+            
+              
+              
+            
+          (MK 22.10.2009. noteikumu Nr.1221 redakcija; punkta jauna redakcija stajas speka 01.01.2010., sk. grozijumu 2.punktu)
+9. Apbedišanas pabalsta pieškiršanai bezdarbnieka un bezdarbnieka pabalsta sanemeja naves gadijuma persona pec izveles viena no agenturas nodalam iesniedz rakstisku iesniegumu par apbedišanas pabalsta pieškiršanu (var izmantot agenturas majaslapa (www.vsaa.lv) ievietoto veidlapu), noradot šadas zinas:
+9.1. pabalsta pieprasitaja:
+9.1.1. vards, uzvards;
+9.1.2. personas kods;
+9.1.3. deklaretas dzivesvietas adrese;
+9.1.4. talruna numurs vai elektroniska pasta adrese;
+9.1.5. kreditiestades vai pasta norekinu sistemas konta numurs (21 zime);
+9.2. miruša bezdarbnieka vai bezdarbnieka pabalsta sanemeja vards, uzvards, personas kods un miršanas datums.12
+            
+              
+              
+            
+          (MK 08.06.2010. noteikumu Nr.508 redakcija)
+9.1 Pabalsta pieprasitajs ar parakstu apliecina, ka šo noteikumu 9.punkta minetaja iesnieguma noradita informacija ir patiesa.13
+            
+              
+              
+            
+          (MK 08.06.2010. noteikumu Nr.508 redakcija)
+9.2(Svitrots ar MK 09.02.2016. noteikumiem Nr. 90)14
+            
+              
+              
+            
+          
+10. Nosakot tiesibas uz bezdarbnieka pabalstu, agenturas nodala parbauda, vai attiecigajai personai ir bezdarbnieka statuss, vai attieciga persona ir bijusi sociali apdrošinata bezdarba gadijumam, vai bezdarbnieka pabalsta pieprasitajs nav sasniedzis likuma “Par valsts pensijam” noteikto valsts vecuma pensijas pieškiršanas vecumu, vai vinš nav invalids – specialas valsts vecuma pensijas sanemejs, vai vinš nesanem izdienas pensiju vai vecuma pensiju pec atvieglotiem noteikumiem, vai slimibas pabalstu.15
+            
+              
+              
+            
+          (Grozits ar MK 22.10.2009. noteikumiem Nr.1221)
+11. Lemumu par bezdarbnieka pabalsta pieškiršanu vai atteikumu pieškirt pabalstu agenturas nodala pienem pec visas pabalsta pieškiršanai nepieciešamas informacijas sanemšanas no Nodarbinatibas valsts agenturas un Valsts ienemumu dienesta. Mineto lemumu agenturas nodala izsniedz (nosuta) bezdarbniekam.16
+            
+              
+              
+            
+          (Grozits ar MK 09.02.2016. noteikumiem Nr. 90)
+12. Likuma “Par apdrošinašanu bezdarba gadijumam” 13.panta pirmas dalas 1.punkta minetaja gadijuma bezdarbnieka pabalstu pieškir no pieprasijuma iesniegšanas dienas un to izmaksa par bezdarba periodu, kura pabalsta pieprasitajs nav darba attiecibas, pec tam, kad ir sanemts Nodarbinatibas valsts agenturas apstiprinajums par to, ka personai ir bezdarbnieka statuss, un no Valsts ienemumu dienesta ir sanemtas darba deveja iesniegtas zinas par to, ka attieciga persona ir zaudejusi darba nemeja statusu.17
+            
+              
+              
+            
+          (Grozits ar MK 22.10.2009. noteikumiem Nr.1221)
+13. Likuma “Par apdrošinašanu bezdarba gadijumam” 13.panta pirmas dalas 2.punkta noteiktaja gadijuma bezdarbnieka pabalstu pieškir no pieprasijuma iesniegšanas dienas, bet ne agrak ka divus menešus pec bezdarbnieka statusa iegušanas dienas. Bezdarbnieka pabalstu izmaksa par to bezdarba periodu, kura pabalsta pieprasitajs nav darba attiecibas. Bezdarbnieka pabalstu sak izmaksat pec tam, kad ir sanemts Nodarbinatibas valsts agenturas apstiprinajums par to, ka personai ir bezdarbnieka statuss, un no Valsts ienemumu dienesta ir sanemtas darba deveja iesniegtas zinas par to, ka attieciga persona ir zaudejusi darba nemeja statusu.18
+            
+              
+              
+            
+          (Grozits ar MK 22.10.2009. noteikumiem Nr.1221)
+14. Bezdarbnieka pabalstu izmaksa saskana ar likuma “Par apdrošinašanu bezdarba gadijumam” 9. un 10.pantu.19
+            
+              
+              
+            
+          
+15. Bezdarbnieka pabalstu izmaksa par iepriekšejo menesi.20
+            
+              
+              
+            
+          
+16. Apbedišanas pabalstu pieškir un izmaksa saskana ar likuma “Par apdrošinašanu bezdarba gadijumam” 12.panta otro un trešo dalu pec tam, kad ir iesniegti visi pabalsta pieškiršanai nepieciešamie dokumenti.21
+            
+              
+              
+            
+          (Grozits ar MK 08.06.2010. noteikumiem Nr.508)
+17. Lemumu par apbedišanas pabalsta pieškiršanu vai atteikumu pieškirt pabalstu agenturas nodala pienem piecu darbdienu laika pec šo noteikumu 16.punkta mineto nosacijumu izpildes.22
+            
+              
+              
+            
+          
+18. Bezdarbnieka pabalstu un apbedišanas pabalstu Valsts socialas apdrošinašanas agentura parskaita pabalsta sanemeja kreditiestades vai PNS (pasta norekinu sistema) konta.23
+            
+              
+              
+            
+          (Grozits ar MK 19.05.2009. noteikumiem Nr.447; grozijums par otra teikuma svitrošanu stajas speka 01.07.2009., skat. grozijumu 2.punktu)
+19. Ja, izpildot attiecigo tiesas spriedumu, tiesas apstiprinatu izligumu ar darba deveju vai attiecigas valsts parvaldes iestades pienemtu parvaldes lemumu, no darba deveja par labu personai tiek piedzita un izmaksata atlidziba par darba piespiedu kavejumu attiecigaja bezdarbnieka pabalsta sanemšanas perioda, persona:19.1. piecu darbdienu laika pec atlidzibas par darba piespiedu kavejumu izmaksas informe par to jebkuru Valsts socialas apdrošinašanas agenturas nodalu;19.2. piecu darbdienu laika pec Valsts socialas apdrošinašanas agenturas pazinojuma par sanemtas bezdarbnieka pabalsta summas atmaksašanu mineto summu parskaita Valsts socialas apdrošinašanas agenturas noraditaja konta.24
+            
+              
+              
+            
+          (Grozits ar MK 09.02.2016. noteikumiem Nr. 90)
+20. Katram pabalsta sanemejam Valsts socialas apdrošinašanas agentura iekarto bezdarbnieka pabalsta sanemeja lietu.25
+            
+              
+              
+            
+          
+V. Nosleguma jautajumi
+21. Atzit par speku zaudejušiem Ministru kabineta 2000.gada 25.janvara noteikumus Nr.32 “Videjas apdrošinašanas iemaksu algas aprekinašanas kartiba bezdarbnieka pabalsta apmera noteikšanai un bezdarbnieka pabalsta un apbedišanas pabalsta pieškiršanas, aprekinašanas un izmaksas kartiba” (Latvijas Vestnesis, 2000, 26./28.nr.; 2001, 27.nr.; 2004, 156.nr.; 2005, 99.nr.).26
+            
+              
+              
+            
+          
+22. Ja šo noteikumu 2.1. un 2.2.apakšpunkta minetajos gadijumos bezdarbnieka pabalsta aprekinašanai tiek nemta vera apdrošinašanas iemaksu alga par periodu lidz 2008.gada 31.decembrim, kalendara dienas videja apdrošinašanas iemaksu alga šaja perioda neparsniedz 1/365 dalu no valsts socialas apdrošinašanas obligato iemaksu objekta gada maksimala apmera pedeja kalendara gada, par kuru ši iemaksu alga aprekinata.27
+            
+              
+              
+            
+          
+22.1 Personai, kura ieguvusi bezdarbnieka statusu lidz 2009.gada 31.decembrim, videjo apdrošinašanas iemaksu algu bezdarbnieka pabalsta apmera noteikšanai aprekina no apdrošinašanas iemaksu algas par sešu kalendara menešu periodu, šo periodu beidzot divus kalendara menešus pirms meneša, kura persona ieguvusi bezdarbnieka statusu.28
+            
+              
+              
+            
+          (MK 22.10.2009. noteikumu Nr.1221 redakcija; punkts stajas speka 01.01.2010., sk. grozijumu 2.punktu)
+22.2 Lidz 2009.gada 31.decembrim personai, kura ieguvusi bezdarbnieka statusu pec 2009.gada 1.novembra un kuras apdrošinašanas iemaksu algai, kas guta likuma “Par apdrošinašanu bezdarba gadijumam” 8.panta pirmaja vai otraja dala noteiktaja sešu kalendara menešu perioda, attiecigajos kalendara menešos ir atškirigi apmeri, videjo apdrošinašanas iemaksu algu aprekina, izmantojot šadu formulu:29
+            
+              
+              
+            
+          
+
+Vd = (
+
+A1 + A2 + A3 + A4
+× 6) : Dd, kur
+4
+Vd – kalendara dienas videja
+apdrošinašanas iemaksu alga;
+A1, A2, A3, A4 – apdrošinašanas
+iemaksu algas summa, kas guta likuma “Par apdrošinašanu
+bezdarba gadijumam” 8.panta pirmaja vai otraja dala
+noteikta sešu kalendara menešu perioda attiecigaja menesi,
+neieskaitot minetaja perioda tos divus menešus, kuros personai
+bijusi viszemaka un visaugstaka apdrošinašanas iemaksu alga,
+sakot no sešu kalendara menešu perioda sakuma;
+Dd – likuma “Par
+apdrošinašanu bezdarba gadijumam” 8.panta pirmaja vai
+otraja dala noteikta perioda kalendara dienu skaits,
+neieskaitot taja periodu, kura laika persona saskana ar likumu
+“Par valsts socialo apdrošinašanu” nav bijusi paklauta
+apdrošinašanai bezdarba gadijumam.
+(MK 22.10.2009. noteikumu
+Nr.1221 redakcija)
+
+
+22.3 Ja bezdarbnieka pabalsts pieškirts pec 2010.gada 1.janvara un laikposma no 2010.gada 1.janvara lidz 2012.gada 31.decembrim saskana ar likuma "Par apdrošinašanu bezdarba gadijumam" 7.pantu noteiktais bezdarbnieka pabalsta apmers viena kalendara diena parsniedz 11,51 latu, pabalsta apmeru viena kalendara diena aprekina, izmantojot šadu formulu:
+Pd = 11,51 + ((Ps - 11,51) x 50 %), kur
+Pd - bezdarbnieka pabalsta apmers viena kalendara diena;
+Ps - šo noteikumu 5.punkta noteiktaja kartiba aprekinata bezdarbnieka pabalsta summa, kas viena kalendara diena parsniedz 11,51 latu.30
+            
+              
+              
+            
+          (MK 22.12.2009. noteikumu Nr.1594 redakcija)
+22.4 Šo noteikumu 2.3.apakšpunktu attieciba uz berna kopšanas atvalinajuma, atvalinajuma bez darba samaksas saglabašanas, kas pieškirts sakara ar nepieciešamibu kopt bernu, vai grutniecibas un dzemdibu atvalinajuma perioda neieskaitišanu videjas apdrošinašanas iemaksu algas aprekina un 2.4.apakšpunktu piemero, ja persona ieguvusi bezdarbnieka statusu pec 2012.gada 1.janvara.31
+            
+              
+              
+            
+          (MK 17.01.2012. noteikumu Nr.55 redakcija)
+22.5 Aprekinot apdrošinatas personas videjo apdrošinašanas iemaksu algu bezdarbnieka pabalsta apmera noteikšanai, videjas apdrošinašanas iemaksu algas aprekina perioda neieskaita kalendara dienas, par kuram persona sanema dikstaves pabalstu, dikstaves palidzibas pabalstu, vecaku pabalsta turpinajumu, slimibas palidzibas pabalstu, atbalstu dikstave esošu darbinieku, pašnodarbinato personu un patentmaksataju atlidzibas kompensešanai.32
+            
+              
+              
+            
+          (MK 17.12.2020. noteikumu Nr. 784 redakcija)
+23. Noteikumi stajas speka 2009.gada 1.janvari.33
+            
+              
+              
+            
+          
+Ministru prezidents I.Godmanis
+Labklajibas ministre I.Purne

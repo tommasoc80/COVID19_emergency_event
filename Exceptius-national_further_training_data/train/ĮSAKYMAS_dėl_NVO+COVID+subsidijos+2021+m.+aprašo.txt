@@ -1,0 +1,162 @@
+
+
+LIETUVOS RESPUBLIKOS  SOCIALINĖS APSAUGOS IR DARBO MINISTRAS
+
+ĮSAKYMAS
+DĖL PAGALBOS NEVYRIAUSYBINĖMS ORGANIZACIJOMS, TEIKIANČIOMS SOCIALINES PASLAUGAS COVID-19 PANDEMIJOS METU, SUBSIDIJOMIS TEIKIMO APRAŠO PATVIRTINIMO
+
+2021 m. sausio 19 d. Nr. A1-47
+Vilnius
+
+
+Įgyvendindama Nevyriausybinių organizacijų ir bendruomeninės veiklos stiprinimo 2021 metų veiksmų plano, patvirtinto Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2020 m. spalio 8 d. įsakymu Nr. A1-950 „Dėl Nevyriausybinių organizacijų ir bendruomeninės veiklos stiprinimo 2021 metų veiksmų plano patvirtinimo“, 1 priedo 1.1.6 papunktyje nurodytą priemonę ir atsižvelgdama į Lietuvos Respublikos Vyriausybės 2020 m. lapkričio 4 d. nutarimą Nr. 1226 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“:
+1. T v i r t i n u  Pagalbos nevyriausybinėms organizacijoms, teikiančioms socialines paslaugas COVID-19 pandemijos metu, subsidijomis teikimo aprašą (pridedama).
+2. P a v e d u  Socialinių paslaugų priežiūros departamentui prie Socialinės apsaugos ir darbo ministerijos įgyvendinti priemonę.
+3. P a v e d u  šio įsakymo vykdymo kontrolę viceministrui pagal veiklos sritį.
+
+
+
+Socialinės apsaugos ir darbo ministrė 		Monika Navickienė
+
+PATVIRTINTA
+Lietuvos Respublikos socialinės 
+apsaugos ir darbo ministro 
+2021 m. sausio 19 d. įsakymu 
+Nr. A1-47
+
+PAGALBOS NEVYRIAUSYBINĖMS ORGANIZACIJOMS, TEIKIANČIOMS SOCIALINES PASLAUGAS COVID-19 PANDEMIJOS METU, SUBSIDIJOMIS TEIKIMO APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1.	Pagalbos nevyriausybinėms organizacijoms, teikiančioms socialines paslaugas COVID-19 pandemijos metu, subsidijomis teikimo aprašas (toliau – Aprašas) nustato reikalavimus, kuriais turi vadovautis nevyriausybinės organizacijos (toliau – NVO), siekdamos gauti subsidiją pagal pagalbos subsidijomis teikimo priemonę (toliau – Pagalbos priemonė), reikalavimus paraiškoms gauti subsidiją ir jų administravimo procedūras.
+2.	Apraše vartojamos sąvokos:
+2.1.	Informacinė sistema – Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos valdoma informacinė paraiškų teikimo, vertinimo ir administravimo sistema, veikianti adresu https://sopas.sppd.lt:8099.
+2.2.	Paraiška gauti subsidiją – NVO, siekiančios gauti subsidiją, informacinėje sistemoje užpildyta ir pateikta paraiškos forma.
+2.3.	Subsidija – valstybės biudžeto lėšos, skiriamos socialines paslaugas teikiančių NVO dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių patirtoms išlaidoms kompensuoti.
+2.4.	Subsidijos naudojimo sutartis – pareiškėjo informacinėje sistemoje užpildyta ir pateikta paraiška, kurioje prašomą finansavimą patvirtino Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kancleris.
+2.5.	Tęstinė atranka – pagal SPPD kvietimą teikti paraiškas gauti subsidiją gaunamų paraiškų atranka, kurios metu sprendimai dėl subsidijų skyrimo priimami atsižvelgiant į paraiškų pateikimo datą ir laiką. Ši atranka, vadovaujantis Aprašu, kvietime nurodytu paraiškų gauti subsidiją teikimo laikotarpiu atliekama nuolat, kol yra Pagalbos priemonei įgyvendinti skirtų lėšų arba kol Lietuvos Respublikos teritorijoje bus atšaukta ekstremali situacija.
+2.6.	Kitos Apraše vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatyme, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos savanoriškos veiklos įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme.
+3.	Pagalbos priemonės įgyvendinimą administruoja Socialinių paslaugų priežiūros departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – SPPD). SPPD kvietimą teikti paraiškas gauti subsidiją pagal Aprašą paskelbia interneto svetainėje www.sppd.lt per penkias darbo dienas nuo Aprašo įsigaliojimo dienos. Kvietimas galioja, kol pagal gautas paraiškas gauti subsidiją bus paskirstyta visa bendrai paraiškoms gauti subsidiją skiriama valstybės biudžeto lėšų suma arba kol Lietuvos Respublikos teritorijoje bus atšaukta ekstremali situacija.
+4.	Pagal šią Pagalbos priemonę teikiamo finansavimo forma yra subsidija.
+5.	Paraiškų gauti subsidiją atranka bus atliekama tęstinės atrankos būdu.
+6.	Pagalbos priemonei įgyvendinti numatyta skirti valstybės biudžeto lėšų suma – 1 000 000 (vienas milijonas) Eur valstybės biudžeto lėšų.
+7.	Pagalbos priemonės tikslas – padėti socialines paslaugas teikiančioms ir šiame Apraše nustatytus kriterijus atitinkančioms NVO užtikrinti visuomenei teikiamų paslaugų tęstinumą, finansuojant NVO dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių patirtas išlaidas.
+8.	Galimi pareiškėjai – Juridinių asmenų registre NVO žymą įregistravusios ir socialines paslaugas teikiančios NVO, kurios atitinka bent vieną kriterijų, nurodytą 8.1 arba 8.2 papunktyje, ir bent vieną kriterijų, nurodytą 8.3 papunktyje:
+8.1.	veikia socialinėje srityje ir:
+8.1.1.	teikia socialines paslaugas pagal valstybės biudžeto lėšų naudojimo sutartį, sudarytą su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Ministerija) ar įstaiga prie Ministerijos, ar Ministerijai pavaldžia biudžetine įstaiga, arba 
+8.1.2.	 teikia socialines paslaugas pagal valstybės biudžeto lėšų naudojimo sutartį, sudarytą su savivaldybe ar savivaldybei pavaldžia įstaiga, arba 
+8.1.3.	yra licencijuota teikti socialinės globos paslaugas arba
+8.1.4.	teikia socialines paslaugas savo lėšomis ir turi Nacionalinės nevyriausybinių organizacijų koalicijos (toliau – Nacionalinė NVO koalicija) rekomendaciją; 
+8.2.	teikia paslaugas / vykdo veiklas, finansuojamas pagal:
+8.2.1.	Ministerijos administruojamas 2014–2020 m. Europos Sąjungos fondų investicijų veiksmų programos priemones;
+8.2.2.	Prieglobsčio, migracijos ir integracijos fondo 2014–2020 m. programą;
+8.2.3.	Europos pagalbos labiausiai skurstantiems asmenims fondo 2014–2020 m. programą; 
+8.3.	dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių:
+8.3.1.	patiria asmeninių apsaugos priemonių įsigijimo išlaidų arba 
+8.3.2.	patiria darbo užmokesčio išlaidų (dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių išaugus socialinių paslaugų poreikiui, darbo krūviui ar pasikeitus teikiamų paslaugų pobūdžiui) arba 
+8.3.3.	patiria savanoriškos veiklos organizavimo, savanorių bei darbuotojų apmokymo išlaidų (dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių išaugus socialinių paslaugų poreikiui ar pakitus teikiamų paslaugų pobūdžiui).
+9.	NVO, kurios 2020 metų arba 2019 metų pajamos yra:
+9.1.	didesnės nei 1 000 (vienas tūkstantis) Eur, bet ne didesnės nei 30 000 (trisdešimt tūkstančių) Eur, mažiausia galima skirti subsidija – 500 (penki šimtai) Eur, didžiausia galima skirti subsidija – 3 000 (trys tūkstančiai) Eur; 
+9.2.	didesnės nei 30 000 (trisdešimt tūkstančių) Eur, mažiausia galima skirti subsidija – 1 001 (vienas tūkstantis vienas) Eur, didžiausia galima skirti subsidija – 6 000 (šeši tūkstančiai) Eur;
+9.3.	didesnės nei 60 000 (šešiasdešimt tūkstančių) Eur, mažiausia galima skirti subsidija – 1 001 (vienas tūkstantis vienas) Eur, didžiausia galima skirti subsidija – 10 000 (dešimt tūkstančių) Eur.
+10.	Subsidijos panaudojimo trukmė – iki 2021 m. gruodžio 31 d. 
+
+II SKYRIUS
+PARAIŠKOS GAUTI SUBSIDIJĄ TURINIO REIKALAVIMAI
+
+11.	Paraiškoje gauti subsidiją turi būti pateikta:
+11.1.	duomenys apie pareiškėją ir NVO vadovą;
+11.2.	pareiškėjo deklaracija (Aprašo 1 priedas);
+11.3.	tikslinės grupės, kurioms pareiškėjas teikia paslaugas, taip pat asmenų, kuriems karantino metu pareiškėjas teikė socialines paslaugas, skaičius;
+11.4.	jeigu prašoma lėšų darbuotojų darbo užmokesčiui, – darbuotojų, teikiančių socialines paslaugas, skaičius ir darbo užmokesčio dydis;
+11.5.	jeigu prašoma lėšų savanoriškai veiklai organizuoti, savanoriams ar darbuotojams apmokyti, – planuojamų pasitelkti savanorių ir mokymuose dalyvausiančių savanorių ar darbuotojų skaičius;
+11.6.	lėšų panaudojimo sąmata (toliau – sąmata), kurioje nurodomos numatomos įsigyti asmeninės apsaugos ir kitos su apsauga nuo COVID-19 ligos (koronaviruso infekcijos) susijusios priemonės, taip pat dėl COVID-19 ligos (koronaviruso infekcijos) pasekmių finansuotinos veiklos, vykdomos pagal Aprašo 12 punkte numatytas sritis, ir joms organizuoti prašomų lėšų dydis;
+11.7.	banko sąskaitos, į kurią bus pervedama subsidija, numeris, banko pavadinimas, banko kodas;
+11.8.	pareiškėjo pateikta papildoma informacija, susijusi su paraiška gauti subsidiją.
+
+III SKYRIUS
+FINANSUOTINOS VEIKLŲ SRITYS
+
+12.	Pagalbos priemone galimos finansuoti veiklų sritys:
+12.1.	kompensuoti dėl COVID-19 pandemijos pasekmių patiriamas išlaidas (dezinfekciniam skysčiui, asmeninėms apsaugos priemonėms ir kitoms su apsauga nuo COVID-19 ligos (koronaviruso infekcijos) susijusioms būtiniausioms priemonėms įsigyti);
+12.2.	padengti darbo užmokestį, jei dėl padidėjusio krūvio įdarbinamas naujas darbuotojas, ar priedą (priemoką), jei šis priedas (priemoka) darbuotojui mokamas už papildomą darbą padidėjusios rizikos sąlygomis ar dėl padidėjusio darbo krūvio, išaugus socialinių paslaugų poreikiui; 
+12.3.	kompensuoti savanorių patirtas ir patiriamas išlaidas arba išlaidas savanoriškai veiklai organizuoti bei savanoriams ar darbuotojams apmokyti (pvz., mokymams, kaip saugiai teikti socialines paslaugas pandemijos metu).
+13.	Paraiškoje gauti subsidiją numatytos veiklos turi būti tiesiogiai susijusios su COVID19 ligos (koronaviruso infekcijos) pasekmių NVO sektoriui mažinimu ir socialinių paslaugų nenutrūkstamo teikimo visuomenei užtikrinimu.
+
+IV SKYRIUS
+PARAIŠKŲ TEIKIMAS
+
+14.	Paraiškos gauti subsidiją teikiamos užpildant paraiškos formą informacinėje sistemoje. 
+15.	Viena NVO gali pateikti tik vieną paraišką subsidijai gauti, išskyrus NVO, atitinkančias Aprašo 9.2 papunkčio reikalavimus. Vienai NVO iš šios Pagalbos priemonės skiriama subsidija negali viršyti didžiausios 10 000 (dešimties tūkstančių) Eur sumos;
+16.	Paraiška, kuriai Ministerijos kanclerio potvarkiu yra patvirtintas finansavimas, prilyginama finansiniam įsipareigojimui dėl subsidijos skyrimo. 
+17.	Siekiant užtikrinti paraiškų vertinimo skaidrumą ir pareiškėjų lygiateisiškumą, pateiktą paraišką taisyti, tikslinti, pildyti ar teikti papildomus dokumentus pareiškėjo iniciatyva negalima.
+18.	Pareiškėjas kartu su paraiška privalo pateikti šių lietuvių kalba surašytų dokumentų (arba jų vertimų) elektronines kopijas:
+18.1.	galiojančios socialinių paslaugų teikimo sutarties kopiją, jei socialinė paslauga teikiama pagal socialinių paslaugų teikimo sutartį, sudarytą su savivaldybe ar savivaldybei pavaldžia įstaiga (jeigu socialinė paslauga teikiama pagal sutartį su Ministerija ar įstaiga prie Ministerijos, ar Ministerijai pavaldžia biudžetine įstaiga, paraiškoje nurodoma konkreti institucija, su kuria tokia sutartis yra sudaryta, nurodant sutarties sudarymo datą bei numerį. Jeigu paslauga teikiama ar veikla vykdoma pagal Aprašo 8.2 papunktyje nurodytas programas ir priemones, nurodoma konkreti priemonė, sutarties sudarymo data ir numeris);
+18.2.	jeigu socialines paslaugas NVO teikia savo lėšomis, ji turi kreiptis į Nacionalinę NVO koaliciją el. paštu nvokoalicija@nisc.lt nurodydama, kuriai nacionalinei skėtinei NVO ji priklauso, kokias socialines paslaugas kuriai tikslinei grupei teikia, ir prašyti pateikti rekomendaciją (ji turi būti pridedama prie Paraiškos); 
+18.3.	viešai Juridinių asmenų registre paskelbtos 2019 m. arba 2020 m. veiklos ir finansinės ataskaitos kopiją (pateikia aktyvią (-ias) nuorodą (-as), leidžiančią (-ias) susipažinti su viešai paskelbtu (-ais) dokumentu (-ais) internete), patvirtinančią, kad pareiškėjo 2019 m. arba 2020 m. pajamos buvo didesnės nei Aprašo 9 punkte numatytos pajamų ribos, atsižvelgiant į prašomos subsidijos sumos dydį;
+18.4.	jeigu pareiškėjas subsidijos prašo remdamasis 2020 m. pajamomis, bet 2020 m. finansinės ir veiklos ataskaitos dar nėra parengtos, pateikia šiuos dokumentus:
+18.4.1.	 2019 m. Juridinių asmenų registre paskelbtos veiklos ir finansinės ataskaitos kopiją (pateikia aktyvią (-ias) nuorodą (-as), leidžiančią (-ias) susipažinti su viešai paskelbtu (-ais) dokumentu (-ais) internete), jeigu NVO veiklą vykdė 2019 m., ir 
+18.4.2.	NVO vadovo ar jo įgalioto asmens pasirašytą patvirtinimą, pagrindžiantį, kad pareiškėjo 2020 m. finansinių metų pajamos buvo didesnės nei Aprašo 9 punkte numatytos pajamų ribos, atsižvelgiant į prašomos subsidijos sumos dydį;
+18.5.	kitų dokumentų, kuriuos, pareiškėjo nuomone, tikslinga pateikti, kopijas.
+19.	Pareiškėjai, teikdami paraiškas, turi teisę gauti informaciją ir konsultacijas su tęstine atranka susijusiais klausimais, kurias SPPD teikia tel. 8 658 82 158 ir 8 658 82 154, el. p. nvosubsidijacovid@sppd.lt. Informacija pareiškėjams teikiama darbo dienomis iki paskutinės paraiškų pateikimo dienos įskaitytinai.
+20.	Paraiškos, pateiktos kitu nei Apraše nurodytu būdu, tęstinės atrankos paraiškų registre neregistruojamos ir nevertinamos. Informacija, kad paraiška gauta ir kad paraiškai suteiktas numeris, SPPD interneto svetainėje paskelbiama per 3 (tris) darbo dienas nuo paraiškos gavimo SPPD dienos. 
+
+
+
+
+
+V SKYRIUS
+ATITIKTIES NUSTATYTIEMS KRITERIJAMS VERTINIMAS, 
+PARAIŠKŲ ATMETIMO TVARKA IR PAGRINDAI
+
+21.	SPPD ne vėliau nei per 4 (keturias) darbo dienas nuo paraiškų gavimo dienos patikrina, ar: 
+21.1.	pareiškėjo užpildyta paraiška (su deklaracija) atitinka Aprašo 11 punkto reikalavimus;
+21.2.	pareiškėjas nėra likviduojamas (pagal viešus Juridinių asmenų registro duomenis);
+21.3.	pareiškėjas pateikė reikalingus Aprašo 18 punkte nurodytus dokumentus;
+21.4.	kartu su paraiška pateikti dokumentai surašyti lietuvių kalba arba pateikti dokumentų, surašytų užsienio kalba, vertimai;
+21.5.	pareiškėjo prašoma skirti subsidijos suma atitinka Aprašo 9 punkto reikalavimus;
+21.6.	tas pats pareiškėjas nėra pateikęs kelių paraiškų.
+22.	Jeigu paraiška neatitinka Apraše nurodytų reikalavimų arba informacija pateikta netinkamai, SPPD kreipiasi į pareiškėją, nurodydamas pareiškėjui pateikti privalomus dokumentus ar paaiškinimus raštu per 2 (dvi) darbo dienas nuo nurodymo gavimo dienos. SPPD prašo pareiškėjo pateikti trūkstamus dokumentus ar informaciją vieną kartą. 
+23.	Nustačius, kad tas pats pareiškėjas pateikė kelias paraiškas, vertinama tik pirmoji pateikta paraiška (išskyrus Aprašo 15 ir 26 punktuose numatytas išimtis). 
+24.	Paraiškos atmetamos, nevertinamos ir subsidija neskiriama, jeigu paraiška ar pareiškėjas atitinka bent vieną iš šių kriterijų:
+24.1.	paraišką pateikė pareiškėjas, kuris nepatenka į Apraše nurodytų subjektų, turinčių teisę į subsidiją, grupę;
+24.2.	pareiškėjas per 2 (dvi) darbo dienas nepateikė visų reikalingų dokumentų ir (ar) prašomos informacijos;
+24.3.	pareiškėjas yra likviduojamas;
+24.4.	pareiškėjas nėra įvykdęs teisės aktuose numatyto įpareigojimo viešai Juridinių asmenų registre pateikti 2019 m. veiklos bei finansinę ataskaitą.
+25.	Įvertinus pareiškėjo bei paraiškos atitiktį nustatytiems kriterijams, šių kriterijų neatitinkančios paraiškos atmetamos. SPPD per 5 (penkias) darbo dienas paraiškoje nurodytu el. pašto adresu informuoja Pareiškėją apie tai, kad paraiška (ar Pareiškėjas) neatitiko nustatytų kriterijų, todėl paraiška gauti subsidiją yra atmetama.
+26.	Jeigu pateikta paraiška buvo atmesta ir nevertinama pareiškėjui laiku nepateikus privalomų dokumentų ar paaiškinimų raštu, po Aprašo 22 punkte numatyto SPPD kreipimosi Pareiškėjas turi teisę informacinėje sistemoje vieną kartą iš naujo teikti patikslintą paraišką gauti subsidiją.
+27.	Atlikus paraiškų atitikties nustatytiems kriterijams vertinimą, sudaromas siūlomų finansuoti pareiškėjų, kurių paraiškos atitiko Apraše nustatytus kriterijus, sąrašas. Kartą per savaitę jis yra teikiamas Ministerijos kancleriui tvirtinti, nurodant teisinį pagrindą skirti subsidiją bei pareiškėjus, kuriems skiriama subsidija, ir prašomų skirti lėšų dalį kiekvienam pareiškėjui.
+28.	Ministerijos kanclerio potvarkyje dėl lėšų subsidijoms skyrimo nurodoma:
+28.1.	finansuotinų pareiškėjų sąrašas, įrašant jų juridinio asmens kodus ir skiriamas sumas;
+28.2.	pavedimas įstaigos vadovui užtikrinti tinkamą Aprašo įgyvendinimą, teikiant subsidijas.
+29.	Subsidijos naudojimo sutartis tarp pareiškėjo ir SPPD laikoma sudaryta nuo to momento, kai Ministerijos kancleris patvirtina skiriamą finansavimą pareiškėjui.
+30.	Ministerijos kancleriui nepatvirtinus prašomo finansavimo, subsidijos naudojimo sutartis laikoma nesudaryta.
+31.	Pareiškėjai paraiškoje nurodytu el. pašto adresu informuojami apie Ministerijos kanclerio priimtą sprendimą skirti subsidiją per 2 (dvi) darbo dienas nuo šio sprendimo priėmimo dienos.
+32.	Informacija apie subsidijos suteikimą per 1 (vieną) darbo dieną nuo Ministerijos kanclerio potvarkio dėl lėšų skyrimo priėmimo dienos paskelbiama SPPD interneto svetainėje.
+
+VI SKYRIUS
+LĖŠŲ SKYRIMAS, ĮSIPAREIGOJIMŲ VYKDYMAS IR KONTROLĖ
+
+33. Lėšos pareiškėjams skiriamos iš valstybės biudžeto Ministerijai patvirtintų asignavimų. Išlaidos laikomos tinkamomis finansuoti, jei jos patirtos ir apmokėtos nuo 2021 m. sausio 1 d. Tinkamos finansuoti išlaidos turi būti pagrįstos išlaidų apmokėjimą pagrindžiančiais dokumentais arba jų kopijomis. Pareiškėjas paslaugas ar prekes turi įsigyti ne didesnėmis nei rinkos kainomis, laikydamasis racionalaus lėšų naudojimo principo.
+34. SPPD Nacionaliniam bendrųjų funkcijų centrui (toliau – Centras) paraiškas dėl Ministerijos kanclerio sprendimu skirtos valstybės biudžeto lėšų sumos pervedimo į pareiškėjo subsidijos naudojimo sutartyje nurodytą sąskaitą pateikia per 3 (tris) darbo dienas nuo Ministerijos kanclerio priimto sprendimo skirti subsidiją ir subsidijos naudojimo sutarties įsigaliojimo dienos. Centras skirtas valstybės biudžeto lėšas pareiškėjui į subsidijos naudojimo sutartyje nurodytą sąskaitą perveda per 9 (devynias) darbo dienas nuo Ministerijos kanclerio priimto sprendimo skirti subsidiją ir subsidijos naudojimo sutarties įsigaliojimo dienos. 
+35. Pareiškėjai atsiskaitymus grynaisiais ir negrynaisiais pinigais privalo vykdyti vadovaudamiesi Civilinio kodekso 6.929 straipsniu ir kitais atsiskaitymus grynaisiais ir negrynaisiais pinigais reguliuojančiais teisės aktais.
+36. Subsidija gali būti naudojama tik sąmatoje nurodytoms veikloms ar išlaidoms finansuoti.
+37. Savanoriškos veiklos organizavimo išlaidos kompensuojamos Savanoriškos veiklos įstatymo ir Savanoriškos veiklos išlaidų kompensavimo sąlygų ir tvarkos aprašo, patvirtinto Lietuvos Respublikos socialinės apsaugos ir darbo ministro 2011 m. liepos 14 d. įsakymu Nr. A1330 „Dėl Savanoriškos veiklos išlaidų kompensavimo sąlygų ir tvarkos aprašo patvirtinimo“, nustatyta tvarka.
+38. Pareiškėjas įsipareigoja:
+38.1. bendradarbiauti su SPPD ir, SPPD ir (arba) Ministerijai paprašius, per nustatytą terminą pateikti visą su subsidija, jos panaudojimu susijusią informaciją subsidijos naudojimo laikotarpiu ir 24 mėnesius po to, kai subsidija baigta naudoti;
+38.2. subsidiją panaudoti iki 2021 m. gruodžio 31 d. Subsidijai skirtas ir pervestas, tačiau nepanaudotas valstybės biudžeto lėšas ne vėliau kaip iki kitų kalendorinių metų sausio 5 d. grąžinti SPPD, jas pervedant į SPPD banko sąskaitą Nr. LT92 7300 0100 0246 5983, mokėjimo paskirties laukelyje nurodant, kurių metų lėšos grąžinamos, programos ir (arba) priemonės kodą, finansavimo šaltinį, valstybės funkciją, ekonominės klasifikacijos straipsnį, grąžinamą sumą;
+38.3. panaudojus subsidiją, per 14 (keturiolika) darbo dienų, bet ne vėliau kaip iki kitų kalendorinių metų sausio 5 d., informacinėje sistemoje pateikti pasirašytą Biudžeto išlaidų sąmatos vykdymo ir patirtų sąnaudų ataskaitą pagal Aprašo 2 priedo formą.
+39. SPPD konsultuoja pareiškėjus subsidijų administravimo klausimais.
+40. Pareiškėjas skirtą subsidiją privalo grąžinti, jei paaiškėja, kad paraiškoje ir (arba) pareiškėjo deklaracijoje buvo pateikta klaidinanti ar melaginga informacija.
+41. SPPD nustačius, kad pareiškėjas skirtą subsidiją panaudojo ne pagal paskirtį, pareiškėjas privalo nepanaudotas ar netikslingai panaudotas subsidijai skirtas lėšas grąžinti SPPD per jo nustatytą laikotarpį.
+42. Negrąžinta subsidija išieškoma Civilinio proceso kodekso nustatyta tvarka. Pareiškėjas praranda teisę teikti projektus ir gauti finansavimą iš visų Ministerijos programų trejus metus nuo teismo sprendimo, kuriuo Ministerijai iš pareiškėjo priteisiama neteisėtai (ne pagal paskirtį) panaudota subsidija, įsiteisėjimo dienos.
+
+VII SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+43. Už paraiškoje gauti subsidiją ir kartu su paraiška pateiktos informacijos teisingumą ir su subsidijos panaudojimu susijusių duomenų tikslumą, teisėtumą, gautų lėšų buhalterinės apskaitos tvarkymą atsako pareiškėjas. Dokumentus, susijusius su subsidija, jos panaudojimu (paraiška, buhalterinės apskaitos dokumentai ir kt.), pareiškėjas privalo tvarkyti ir saugoti dokumentų tvarkymą ir saugojimą reguliuojančių teisės aktų nustatyta tvarka, taip pat SPPD reikalavimu pateikti su subsidijos panaudojimu susijusių dokumentų originalus ir (ar) patvirtintas jų kopijas Aprašo 34 punkte nustatyta tvarka ir terminais.
+44. Ministerija turi teisę atlikti subsidijai skirtų lėšų panaudojimo teisingumo ir tikslingumo auditą.
+45. Ministerija ir SPPD neprisiima atsakomybės, jei dėl paraiškoje nurodytų klaidingų kontaktinių duomenų (adreso, telefono, elektroninio pašto adreso ir kt.) pareiškėjo nepasiekia laiškai arba su pareiškėju negalima susisiekti kitu būdu.
+
+_________________________

@@ -1,0 +1,29 @@
+Regeling van de Minister van Justitie en Veiligheid van 7 juli 2020, nr. 2938939, houdende wijziging van de Regeling aanwijzing computercrisisteams in verband met de tijdelijke wijziging van de Wet bescherming netwerk- en informatiesystemen vanwege de Tweede Verzamelspoedwet COVID-19
+De Minister van Justitie en Veiligheid,
+
+Gelet op artikel 3, zesde lid, van de Wet beveiliging netwerk- en informatiesystemen,
+
+Besluit:
+
+Artikel I
+In artikel 1 van de Regeling aanwijzing computercrisisteams wordt na ‘de artikelen 3, tweede lid, onderdeel c,’ ingevoegd: ‘en zesde lid, onderdeel c,’.
+
+Artikel II
+Deze wijziging treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
+
+Deze wijziging zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister van Justitie en Veiligheid,
+F.B.J. Grapperhaus
+
+TOELICHTING
+Gelet op de uitbraak van COVID-19 moet rekening worden gehouden met (digitale) dreigingen die gedurende deze uitbraak zich specifiek richten op instellingen waar intensive care wordt of kan worden verleend, instellingen die onderzoek verrichten dat gericht is op de diagnostiek van COVID-19, fabrikanten van geneesmiddelen en houders van handelsvergunningen van geneesmiddelen en fabrikanten van medische hulpmiddelen en persoonlijke beschermingsmiddelen (hierna: organisaties). Deze dreiging kan van zodanige aard zijn dat de thans aanwezige (sectorale) computercrisisteams niet berekend zijn op een adequate reactie op die dreiging, met als risico dat de dienstverlening bij deze organisaties wordt belemmerd of zelfs geen doorgang kan vinden. Met het oog hierop is er reden gezien om wettelijk te regelen dat genoemde organisaties, gelet op hun belangrijke rol in relatie tot de uitbraak van COVID-19, gedurende die uitbraak voor de bij digitale dreigingen benodigde ondersteuning, een beroep kunnen doen op het Nationaal Cyber Security Centrum (NCSC), onderdeel van het Ministerie van Justitie en Veiligheid.
+
+Daartoe is in het voorstel voor de Tweede Verzamelspoedwet COVID-19 een tijdelijke wijziging van de Wet beveiliging netwerk- en informatiesystemen (Wbni) opgenomen, die in hoofdzaak met een nieuw vierde en vijfde lid van artikel 3 regelt dat het NCSC tijdelijk de taak heeft om genoemde organisaties over voor hen relevante digitale dreigingen te informeren en adviseren, die organisaties bij te staan bij het treffen van maatregelen om de continuïteit van hun dienstverlening te waarborgen of herstellen, alsook voor die bijstand en advisering analyses en technisch onderzoek te verrichten.
+
+Daarnaast behelst de tijdelijke wijziging van de Wbni nog een toevoeging aan artikel 3 van een nieuw zesde lid, dat in lijn is met het huidige tweede lid, en ertoe strekt het NCSC het ook tot taak te laten hebben om onder meer aan bij ministeriële regeling aangewezen computercrisisteams gegevens te verstrekken die zijn verkregen bij de in het vierde lid bedoelde analyses. Om die verstrekking aan andere computercrisisteams mogelijk te maken, is het in aansluiting op deze wijziging van de Wbni nog wel nodig om in de Regeling aanwijzing computercrisisteams voor de daarin al krachtens andere artikelen in de Wbni aangewezen computercrisisteams, op te nemen dat zij ook krachtens artikel 3, zesde lid, Wbni als zodanig worden aangewezen. Deze wijziging van genoemde Regeling voorziet daarin.
+
+De in de Tweede Verzamelspoedwet COVID-19 opgenomen wijziging van de Wbni is tijdelijk. Deze wijziging zal in beginsel gelden tot 1 december 2020, met de mogelijkheid om die wijziging bij koninklijk besluit met telkens twee maanden later of op een eerder tijdstip dan 1 december 2020 te laten terugdraaien. In lijn hiermee zal de onderhavige wijziging van de Regeling aanwijzing computercrisisteams met ingang van hetzelfde tijdstip moeten worden teruggedraaid en zal de Regeling daartoe op dat moment gewijzigd worden.
+
+De Minister van Justitie en Veiligheid,
+F.B.J. Grapperhaus

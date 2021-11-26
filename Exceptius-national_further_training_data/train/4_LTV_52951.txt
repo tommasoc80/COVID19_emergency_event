@@ -1,0 +1,473 @@
+Tiesibu akts: 
+	    		speka esošs
+	    	Attelota redakcija: 01.07.2020. - ... / Speka esoša
+    
+      
+        
+        Citi ar Covid-19 izplatibas parvaldibu un seku parvarešanu saistiti tiesibu akti pieejami tematiskaja atveruma "Covid-19" un "Covid-19 pašvaldibas". Tiesibu aktu skaidrojumi pieejami LV portala tematiskaja atveruma un žurnala "Jurista Vards" tematiskaja atveruma (bezmaksas brivpieeja).
+        
+        
+      
+      
+    
+    Saeima ir pienemusi un Valsts 
+prezidents izsludina šadu likumu:
+Epidemiologiskas drošibas likums
+I nodala
+Visparigie jautajumi
+1.pants. Likuma lietotie termini Likuma ir lietoti šadi termini:1) bistamas infekcijas slimibas — cilveka infekcijas slimibas un parazitaras slimibas, kas sakara ar to laundabigo klinisko norisi, speju strauji izplatities un efektivu profilakses vai arstniecibas lidzeklu trukumu apdraud sabiedribas veselibu, ka ari var izraisit starptautiskas nozimes arkartas sabiedribas veselibas situaciju;2) cilveku infekcijas slimiba — infekcijas slimibas izraisitaja ierosinata slimiba, kuras izplatišanas var radit epidemiju (turpmak — infekcijas slimiba);3) deratizacija — pasakumu kopums pelveidigo grauzeju iznicinašanai;4) dezinfekcija — pasakumu kopums infekcijas slimibu izraisitaju iznicinašanai;5) dezinsekcija — pasakumu kopums kaitigo posmkaju iznicinašanai;6) epidemija — infekcijas slimibas izplatišanas tados apmeros, kas parsniedz konkretai teritorijai raksturigu saslimstibas limeni, vai ari slimibas paradišanas un intensiva izplatišanas teritorija, kura iepriekš ta nav registreta;7) epidemiologs — persona, kurai ir augstaka mediciniska izglitiba vai augstaka izglitiba sabiedribas veselibas nozare un kura veic epidemiologisko uzraudzibu, plano, organize, koordine un kontrole infekcijas slimibu profilakses un apkarošanas pasakumus un ir šim darbam atbilstoši apmacita;8) epidemiologiska drošiba — profilakses, ari higienas, pretepidemijas, arstniecibas un organizatorisko nosacijumu un pasakumu sistema, kuras merkis ir mazinat sabiedribas veselibas apdraudejumu, ko izraisa infekcijas slimibas un veselibu ietekmejošo vides faktoru kaitiga iedarbiba;9) epidemiologiska izmeklešana — darba metode infekcijas slimibu izraisitaju, avotu, parnešanas faktoru un izplatišanas celu atklašanai, ka ari profilakses un pretepidemijas pasakumu organizešanai;10) epidemiologiska noverošana — regulara epidemiologiskas situacijas parbaude epidemijas perekli infekcijas slimibu inkubacijas perioda vai epidemijas perekla pastavešanas laika;11) epidemiologiska uzraudziba — nepartraukta, dinamiska un kompleksa infekcijas slimibu izplatišanas noverošana, nodrošinot sistematisku epidemiologisko datu vakšanu, analizi, skaidrojumu un izplatišanu, ari infekcijas slimibu epidemiologisko petijumu veikšana, it ipaši tados aspektos, kuri attiecas uz šo slimibu izplatišanos laika, teritorija, iedzivotaju vidu, ka ari inficešanas riska faktoru analizi, ar merki izzinat, prognozet un ietekmet epidemiologisko situaciju, veicot attiecigus profilakses un pretepidemijas pasakumus, ka ari izvertet to efektivitati;12) epizootija — dzivnieku masveida saslimšana ar infekcijas slimibu;13) imunitate — organisma neuznemiba pret infekcijas slimibam;14) infekcijas slimibas avots — cilveka vai dzivnieka organisms vai vides objekts, kura infekcijas slimibas izraisitaji saglabajas, vairojas un izdalas vai var izdalities, radot cilvekiem inficešanas draudus;15) infekcijas slimibu izraisitaji — bakterijas, virusi, riketsijas, spirohetas, hlamidijas, mikoplazmas, senites, vienšuni, helminti, mikroorganismu dalas, toksini un citi biologiskie agenti, kas, ieklustot cilveka organisma, var ierosinat slimibu vai slimibas izraisitaju nesašanu;16) infekcijas slimibas pereklis (ari epidemijas pereklis) — vieta (teritorija), kuras robežas cilveki var inficeties, nonakot saskare ar infekcijas slimibas avotu vai infekcijas slimibas izraisitaju nesataju;17) infektologs — arsts, kurš apguvis akreditetu profesionalo izglitibas programmu infektologija, kas ietver teoretiskas zinašanas par infekcijas slimibu diagnostiku, arstešanu un profilaksi un attiecigas praktiskas iemanas;18) infekcioza persona — persona, kuras organisms satur un izdala vai var izdalit areja vide infekcijas slimibas izraisitajus;19) inficešanas — infekcijas slimibas izraisitaja ieklušana cilveka organisma, ka rezultata rodas dažadas intensitates infekcijas procesa attistibas formas;20) izolešana — pretepidemijas pasakums infekciozo personu noškiršanai no veselam personam, arstešanai un atbilstošu apstaklu nodrošinašanai, lai nepielautu veselu personu inficešanos;21) karantina — ipašs saimniecisko darbibu, sabiedrisko dzivi, arstniecibas, izglitibas, socialas aprupes un citu iestažu darbibu un citadu darbibu ierobežojošs režims, ko nosaka, lai nepielautu bistamo un citu infekcijas slimibu izplatišanos arpus epidemijas perekla robežam;22) kontaktpersona — cilveks, kurš ir bijis tieša vai netieša kontakta ar infekciozu personu vai uzturejies epidemijas perekli un kuram ir bijusi iespeja inficeties;23) laboratoriska parbaude (testešana) — cilveku, dzivnieku vai vides materialu parbaude ar dažadu veidu laboratoriskam metodem infekcijas slimibu izraisitaju klatbutnes tiešai vai netiešai noteikšanai;24) mediciniska noverošana — inficešanas riskam paklauto personu veselibas regulara parbaude infekcijas slimibas inkubacijas perioda;25) pamatotas aizdomas — ar pieradijumiem pamatots secinajums, kuru, balstoties uz specialam darba pienakumu veikšanai nepieciešamam zinašanam epidemiologiskas drošibas un arstniecibas jautajumos, izdara Slimibu profilakses un kontroles centra epidemiologi, Veselibas inspekcijas inspektori, arstniecibas personas vai citas amatpersonas to kompetence esošo pienakumu pildišanas laika;26) pretepidemijas pasakumi (infekcijas slimibu epidemiologiskas kontroles pasakumi) — pasakumu kopums, ieskaitot infekcijas slimibu gadijumu epidemiologisko izmeklešanu, infekcijas slimibu izplatibas apturešanai un to likvidešanai;27) primara mediciniska parbaude — personu aptauja un apskate, lai noteiktu infekcijas slimibas pazimes;28) profilakses pasakumi — pasakumi infekcijas slimibu izcelšanas un izplatišanas noveršanai, cilveku un vides veselibas stiprinašanai (šada nozime jasaprot ari jedzieni "profilakse" un "profilaktisks");29) slimnieks — persona, kas saslimusi ar infekcijas slimibu;30) vakcinacija (potešana) — specifisks profilakses pasakums, lai, ievadot vakcinu, ierosinatu vai uzturetu organisma neuznemibu pret kadu infekcijas slimibu;31) (izslegts ar 19.04.2018. likumu);32) paaugstinata riska subjekts — tiesibu subjekts, kura darbibas veids ir pakalpojumu sniegšana pateretajiem un kura darbibas vai izmantojamo iekartu darbibas del var plaši izplatities infekcijas slimibas vai kura darbiba ir saistita ar veselibu ietekmejošo faktoru kaitigo iedarbibu un kurš ir paklauts epidemiologisko drošibu regulejošo normativo aktu prasibam;33) references laboratorija — noteikta profila akrediteta un pilnvarota laboratorija, kas nodarbojas ar infekcijas slimibu diagnostiku, to izraisitaju noteikšanu un izpeti atbilstoši starptautiski atzitajam testešanas metodem un standartiem, veicina testešanas metožu attistibu valsti;34) zoonoze — infekcijas slimiba, ar kuru slimo gan cilveki, gan dzivnieki;35) pandemija — epidemija, kas skar plašas geografiskas teritorijas vai kontinentus;36) (izslegts ar 23.10.2014. likumu);37) higiena — nosacijumu un praktisku pasakumu kopums, kas nepieciešams, lai samazinatu vai likvidetu vides faktoru (fizikalo, kimisko, biologisko) iespejami kaitigo iedarbibu, garantejot drošu un cilveka veselibai nekaitigu vidi un pakalpojumu sniegšanu.2
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 22.04.2004., 06.04.2006., 07.06.2007., 27.09.2007., 10.04.2008., 12.11.2009., 04.10.2012., 23.10.2014., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+2.pants. Likuma merkis 
+Ša likuma merkis ir reglamentet epidemiologisko drošibu un noteikt valsts instituciju, pašvaldibu, fizisko un juridisko personu tiesibas un pienakumus epidemiologiskas drošibas joma, ka ari noteikt atbildibu par ša likuma parkapšanu.3
+            
+              
+              
+            
+          
+3.pants. Epidemiologiska drošiba (1) Epidemiologiska drošiba ietver:1) pasakumus veseligas vides nodrošinašanai;2) infekcijas slimibu epidemiologisko uzraudzibu, taja skaita:a) infekcijas slimibu registraciju, uzskaiti un saslimstibas analizi,b) cilveku, dzivnieku un vides materialu laboratoriskas parbaudes infekcijas slimibu izraisitaju cirkulacijas noverošanai,c) iedzivotaju imunitates izpeti;3) nodrošinašanu ar imunbiologiskiem preparatiem un iedzivotaju vakcinaciju;4) slimnieku un infekciozo personu atklašanu, uzskaiti, arstešanu un, ja nepieciešams, izolešanu;5) kontaktpersonu noteikšanu, uzskaiti, laboratoriskas parbaudes un medicinisko noverošanu;6) ipašu piesardzibas un ierobežošanas pasakumu noteikšanu, taja skaita profesionalas darbibas un piedališanas macibu procesa ierobežošanu un aizliegšanu, slimniekiem, infekciozajam personam, kontaktpersonam un personam, par kuram ir radušas epidemiologiski pamatotas aizdomas, ka tas ir atradušas paaugstinata inficešanas riska apstaklos;7) infekcijas slimibu pereklu atveselošanas pasakumus, ka ari pasakumus infekcijas slimibu izraisitaju cirkulacijas partraukšanai areja vide;8) sabiedribas veselibas aizsardzibas pasakumus;9) iedzivotaju informešanu par epidemiologisko situaciju un izglitošanu infekcijas slimibu profilakses jautajumos;10) likuma noteikto piespiedu lidzeklu piemerošanu par epidemiologiskas drošibas pasakumu nepildišanu.(2) Ministru kabinets nosaka epidemiologiskas drošibas pasakumus atsevišku infekcijas slimibu izplatibas ierobežošanai.4
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 22.04.2004., 12.11.2009., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+4.pants. Epidemiologiskas drošibas finansejums 
+(1) Epidemiologiskas drošibas pasakumus finanse no Veselibas ministrijai iedalitajiem valsts budžeta lidzekliem saskana ar likumu par valsts attieciga gada budžetu, tas ir, no dotacijas, no visparejiem ienemumiem, ienemumiem par maksas pakalpojumiem un citiem pašu ienemumiem, ka ari no ziedojumiem un davinajumiem.
+(2) Epidemijas vai pandemijas gadijuma, ka ari tadas arkartejas situacijas, kuras draud izraisit epidemiju, finansejumu papildu obligatajai vakcinacijai saskana ar ša likuma 30.panta trešo dalu, ka ari karantinas un citu pasakumu veikšanai pieškir no valsts budžeta arkartejo situaciju noveršanai paredzetajiem lidzekliem saskana ar likumu par valsts attieciga gada budžetu. Šados gadijumos lemumu par finansejuma pieškiršanu pienem Ministru kabinets.
+(3) Epidemijas vai pandemijas un tadu arkartejo situaciju noveršana, kuras draud izraisit epidemiju vai pandemiju, var iesais­tit pašvaldibu lidzeklus, ka ari lidzeklus, kurus ziedojušas citas fiziskas un juridiskas personas.5
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004. un 07.06.2007. likumu, kas stajas speka 11.07.2007.)
+II nodala
+Valsts instituciju un pašvaldibu kompetence 
+epidemiologiskas drošibas joma
+5.pants. Veselibas ministrijas kompetence (1) Veselibas ministrija:1) izstrada un realize valsts politiku infekcijas slimibu profilakse un apkarošana, nodrošina darba koordinaciju un vienotibu šaja joma;2) izstrada normativo aktu projektus par infekcijas slimibu profilaksi un pretepidemijas pasakumu veikšanu;3) (izslegts ar 22.04.2004. likumu);4) koordine infekcijas slimibu apkarošanas un likvidacijas valsts un regionalo programmu izstradašanu;5) arkartejas situacijas vai katastrofas vai to draudu gadijuma iesniedz Ministru kabinetam priekšlikumus epidemijas vai pandemijas izcelšanas draudu noveršanai vai esošas epidemijas apkarošanai;6) kopigi ar Izglitibas un zinatnes ministriju koordine iedzivotaju izglitošanu infekcijas slimibu profilakses joma;7) koordine infekcijas slimibu profilakses un pretepidemijas pasakumos iesaistito dienestu un instituciju darbibu;8) ar paklauto instituciju starpniecibu kontrole arstniecibas, profilakses un pretepidemijas pasakumu kvalitati valsti;9) izdod instrukcijas un ieteikumus atsevišku infekcijas slimibu, to sindromu vai infekcijas slimibu grupu epidemiologiskajai uzraudzibai un profilaksei;10) (izslegts ar 23.10.2014. likumu).(2) Veselibas ministrija var atsevišku tas kompetence esošu jautajumu veikšanu daleji vai pilnigi nodot ministrijas parraudziba un paklautiba esošajam institucijam.(3) Veselibas ministrija un tas parraudziba un paklautiba esošas institucijas sadarbojas ar arvalstu un starptautiskajam veselibas organizacijam epidemiologiskas informacijas apmainas joma.(4) Ministru kabinets nosaka:1) kartibu, kada tiek pieškirts nacionalas references laboratorijas epidemiologiskas drošibas joma statuss;2) nacionalas references laboratorijas epidemiologiskas drošibas joma pienakumus un tiesibas;3) nacionalas references laboratorijas epidemiologiskas drošibas joma statusa anulešanas un darbibas apturešanas kartibu.6
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004., 22.04.2004., 07.06.2007. un 23.10.2014. likumu, kas stajas speka 26.11.2014.)
+6.pants. Veselibas inspekcijas kompetence (1) Veselibas inspekcija ir Veselibas ministrijas padotiba esoša valsts parvaldes iestade, kas darbojas saskana ar Ministru kabineta apstiprinatu nolikumu.(2) Veselibas inspekcija epidemiologiskas drošibas joma kontrole normativajos aktos noteikto profilakses un pretepidemijas prasibu izpildi jebkura objekta Latvijas Republikas teritorija.(3) Veselibas inspekcijas amatpersonam ir tiesibas:1) normativajos aktos noteiktaja kartiba no fiziskajam un juridiskajam personam pieprasit savu uzdevumu veikšanai nepieciešamo informaciju Veselibas inspekcijas kompetence esošajos jautajumos;2) pildot dienesta pienakumus, apmeklet jebkuru objektu Latvijas Republikas teritorija neatkarigi no ta piederibas un normativajos aktos noteiktaja kartiba veikt attieciga objekta vai atsevišku priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturet vai parnest infekcijas slimibu izraisitajus, vai ir saistits ar veselibu ietekmejošo faktoru kaitigo iedarbibu;3) pienemt lemumus par paaugstinata riska subjekta darbibas apturešanu;31) kontrolet obligatas pašizolacijas (majas karantinas) un izolešanas nosacijumu izpildi;4) administrativi sodit vainigas personas par normativo aktu parkapšanu.(4) Veselibas inspekcija noverte vides faktoru ietekmi uz cilveka veselibu, sniedz priekšlikumus cilveka veselibai nekaitigas vides nodrošinašanai un pec pieprasijuma noverte higienas prasibu izpildi, ka ari informe institucijas un iedzivotajus par peldudens kvalitati.(5) Ministru kabinets nosaka apmeru un kartibu, kada maksajama valsts nodeva par šadiem Veselibas inspekcijas sniegtajiem pakalpojumiem:1) par atzinuma par aizsargjoslas saskanošanu ap udens nemšanas vietam sagatavošanu;2)  (izslegts ar 04.10.2012. likumu);3) par atzinuma par udens apgades sistema konstateto apdraudejumu cilveka veselibai un veiktajiem korektivajiem pasakumiem sagatavošanu.7
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 22.04.2004., 27.09.2007., 10.04.2008., 12.11.2009., 01.12.2009., 16.06.2010., 04.10.2012., 23.10.2014. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+7.pants. Slimibu profilakses un kontroles centra kompetence (1) Slimibu profilakses un kontroles centrs:1) (izslegts ar 12.11.2009. likumu);2) plano un koordine infekcijas slimibu profilakses un apkarošanas pasakumus;3) piedalas infekcijas slimibu profilakses un apkarošanas valsts programmu projektu izstradašana un istenošana, ka ari sadarbojas ar arvalstu un starptautiskajam epidemiologiskas uzraudzibas institucijam;4) nodrošina epidemiologisko uzraudzibu, vac, uzkraj un analize datus par:a) cilveku saslimstibu ar infekcijas slimibam, ka ari par kontaktpersonam (slimnieku, infekciozo personu un kontaktpersonu registracija un uzskaite),b) slimnieku, infekciozo personu un kontaktpersonu laboratorisko parbaužu rezultatiem,c) infekcijas slimibu izraisitaju cirkulaciju udenos un citos vides objektos, partikas produktos, ka ari infekcijas slimibu parnesataju vidu,d) iedzivotaju vakcinaciju un imunitati;5) koordine imunizacijas valsts politikas istenošanu, noverte tas efektivitati, plano iedzivotaju vakcinaciju, organize un veic iedzivotaju specifiskas imunitates izpeti;6) veic epidemiologisko izmeklešanu, organize vides objektu un kontaktpersonu laboratorisko parbaudi, organize profilakses un pretepidemijas pasakumus infekcijas slimibu pereklos;7) informe un konsulte ieinteresetas personas, institucijas un iedzivotajus ar plašsazinas lidzeklu starpniecibu, izplata ipašus informativos materialus par infekcijas slimibu profilaksi un apkarošanu, ka ari par epidemiologisko situaciju valsti un bridina par epidemijam arvalstis;8) (izslegts ar 12.11.2009. likumu);9) informe attiecigas kontrolejošas institucijas par ša likuma un citu epidemiologisko drošibu reglamentejošo normativo aktu parkapumiem, ja tie konstateti, veicot epidemiologisko izmeklešanu;10) veic nezinamas izcelsmes apdraudejuma izraisitu saslimšanas gadijumu epidemiologisko izmeklešanu, taja skaita atklaj kontaktpersonas, organize vides objektu un kontaktpersonu laboratorisko parbaudi, ja iespejams, organize profilakses un slimibas izplatibu ierobežojošus pasakumus, ieskaitot kontaktpersonu medicinisko noverošanu un, ja nepieciešams, izolešanu;11) ir tiesigs uz laiku lidz diviem gadiem noteikt no jauna paradijušos bistamu infekcijas slimibu, par kuru ir sanemta Pasaules Veselibas organizacijas Starptautisko veselibas aizsardzibas noteikumu kontaktpunkta informacija. Informacija par no jauna paradijušas bistamas infekcijas slimibas noteikšanu tiek publiceta Slimibu profilakses un kontroles centra timeklvietne un oficialaja izdevuma "Latvijas Vestnesis";12) publice sava timeklvietne to valstu sarakstu, kuras konstateta infekcijas slimibu izplatišanas, taja skaita tadu bistamu infekcijas slimibu izplatišanas, kuras var radit nopietnu sabiedribas veselibas apdraudejumu un uz kuram ir attiecinami ipašie piesardzibas un ierobežošanas pasakumi.(2) Veicot epidemiologisko uzraudzibu vai epidemiologisko izmeklešanu, Slimibu profilakses un kontroles centra epidemiologiem ir tiesibas:1) normativajos aktos noteiktaja kartiba no fiziskajam un juridiskajam personam pieprasit savu uzdevumu veikšanai nepieciešamo informaciju;2) pildot dienesta pienakumus, apmeklet jebkuru objektu Latvijas Republikas teritorija neatkarigi no ta piederibas un normativajos aktos noteiktaja kartiba veikt attieciga objekta vai atsevišku priekšmetu apskati, ja ir pamatotas aizdomas, ka tas var saturet vai parnest infekcijas slimibu izraisitajus.8
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 22.04.2004., 07.06.2007., 12.11.2009., 04.10.2012., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+7.1 pants. Neatliekamas mediciniskas palidzibas dienesta kompetence
+Neatliekamas mediciniskas palidzibas dienests koordine un organize sabiedribas veselibas aizsardzibas pasakumus sabiedribas veselibas apdraudejuma vai katastrofas gadijuma, ka ari citas arkartas situacijas.9
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija ar grozijumiem, kas izdariti ar 16.06.2010. likumu, kas stajas speka 20.07.2010.)
+8.pants. Pašvaldibu kompetence (1) Normativajos aktos noteiktaja kartiba un gadijumos pašvaldibas var pienemt lemumus par pasakumiem epidemiju un to seku noveršanai.(2) Ja draud izplatities infekcija slimiba (iznemot bistamas infekcijas slimibas), pašvaldiba pec Slimibu profilakses un kontroles centra vai Veselibas inspekcijas ieteikuma ir tiesiga pienemt lemumu par karantinas pasakumu noteikšanu pašvaldibas iestades (taja skaita pašvaldibas izglitibas, arstniecibas un socialas aprupes iestades), sabiedrisko pasakumu rikošanu vai peldvietu lietošanas ierobežošanu vai aizliegšanu, ka ari pašvaldibas noteikto karantinas vai citu ierobežojošu pasakumu atcelšanu.10
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 27.09.2007., 12.11.2009., 04.10.2012. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+8.1 pants. Aizsardzibas ministrijas kompetenceEpidemiologiskas drošibas pasakumus attieciba uz Nacionalo brunoto speku personalu un arvalstu brunotajos spekos ietilpstošajam personam, kuras starptautiskas sadarbibas ietvaros uzturas Latvijas Republika, nosaka aizsardzibas ministrs pec saskanošanas ar veselibas ministru.11
+            
+              
+              
+            
+          (05.06.2020. likuma redakcija, kas stajas speka 10.06.2020.)
+III nodala
+Epidemiologiska uzraudziba un epidemiologiska informacija
+9.pants. Epidemiologiskas uzraudzibas finansešana
+(1) (Izslegta ar 07.06.2007. likumu.)
+(2) Epidemiologisko uzraudzibu finanse no valsts budžeta. Tas finansešana var piedalities ari pašvaldibas un citas fiziskas un juridiskas personas.12
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004. un 07.06.2007. likumu, kas stajas speka 11.07.2007.)
+10.pants. Infekcijas slimibu registracija 
+Kartibu, kada registrejami infekcijas slimibu gadijumi, cilveku un dzivnieku inficešanas gadijumi un infekcijas slimibu izraisitaju konstatešanas gadijumi, nosaka Ministru kabinets.13
+            
+              
+              
+            
+          
+11.pants. Epidemiologiskas uzraudzibas statistika (1) Epidemiologiskas uzraudzibas statistikas dati vacami, registrejami un apkopojami saskana ar Statistikas likumu.(2) Epidemiologiskas uzraudzibas statistiku finanse no valsts budžeta.14
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+12.pants. Informacija par infekcijas slimibu izplatibu un epidemiologisko situaciju Latvija 
+(1) Fiziskas un juridiskas personas normativajos aktos noteiktaja kartiba ir tiesigas sanemt no kompetentam valsts institucijam informaciju par infekcijas slimibu izplatibu un epidemiologisko situaciju Latvija.
+(2) Oficialas informacijas sniegšanu, ari Pasaules veselibas organizacijai un Eiropas Savienibas institucijam, par epidemiologisko situaciju Latvija nodrošina Veselibas ministrija vai cita tas pilnvarota institucija.15
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004. un 22.04.2004. likumu, kas stajas speka 02.05.2004.)
+13. pants. Pienakums neizpaust informaciju par infekcijas slimibu gadijumiem(1) Informacija par personam, kuram ir infekcijas slimiba, vinu kontaktpersonam, ka ari par mirušajiem, kuru navi izraisijusi infekcijas slimiba, izmantojama tikai arstniecibas procesa, epidemiologiskaja uzraudziba, profilakses un pretepidemijas pasakumu organizešana un veikšana tada apjoma, kads nepieciešams, lai nepielautu infekcijas slimibas izplatišanos.(2) Atbilstoši šim likumam un pacientu tiesibas regulejošiem normativajiem aktiem ša panta pirmaja dala mineto informaciju ir tiesigas apstradat:1) arstniecibas personas un arstniecibas iestades — infekcijas slimibu arstešanai un pacientu medicinisko parbaužu organizešanai, profilakses un pretepidemijas pasakumu veikšanai;2) Slimibu profilakses un kontroles centra epidemiologi — infekcijas slimibu registrešanai, epidemiologiskas izmeklešanas un uzraudzibas veikšanai, pretepidemijas pasakumu organizešanai;3) Veselibas inspekcija — pretepidemijas pasakumu uzraudzibai un kontrolei;4) citas par pretepidemijas pasakumu veikšanu atbildigas personas — Slimibu profilakses un kontroles centra epidemiologu noteikto profilakses un pretepidemijas pasakumu organizešanai un veikšanai infekcijas slimibas perekli.16
+            
+              
+              
+            
+          (19.04.2018. likuma redakcija ar grozijumiem, kas izdariti ar 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+IV nodala
+Arstniecibas personu tiesibas un 
+pienakumi infekcijas slimibu gadijumos
+14.pants. Arstniecibas personu tiesibas un pienakumi infekcijas slimibu gadijumos (1) Ja arstniecibas persona konstatejusi, ka pacientam ir infekcijas slimiba, vai pastav pamatotas aizdomas par vina inficešanos, arstniecibas personas pienakums ir:1) nekavejoties organizet pacientam medicinisko parbaudi un arstešanu;2) organizet nepieciešamas laboratoriskas parbaudes diagnozes precizešanai;3) pieprasit no pacienta zinas, kas nepieciešamas pretepidemijas pasakumu organizešanai, ari zinas par kontaktpersonam un iespejamiem infekcijas slimibas avotiem;4) registret infekcijas slimibas gadijumu Ministru kabineta noteiktaja kartiba;5) veikt Ministru kabineta noteiktos pretepidemijas pasakumus.(2) Arstniecibas persona nav tiesiga, iznemot citos normativajos aktos paredzetos gadijumus, atteikties veikt pacienta primaro medicinisko parbaudi un nemt materialu laboratoriskai parbaudei, ja tai ir radušas pamatotas aizdomas, ka pacients inficejies ar infekcijas slimibu un var to izplatit.(3) Arstniecibas personas pienakums ir sniegt pacientam neatliekamo medicinisko palidzibu, lidz infektologs vai cita atbilstoši apmacita arstniecibas persona parnem pacienta arstešanu.(4) Ar bistamam infekcijas slimibam saslimušas personas drikst arstet infektologi vai citas arstniecibas personas atbilstoši savai specializacijai, ja nepieciešams — pieaicinot par konsultantiem citus specialistus.(5) (Izslegta ar 23.10.2014. likumu)17
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 06.04.2006., 12.11.2009., 04.10.2012., 23.10.2014. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+V nodala
+Pretepidemijas pasakumi
+15.pants. Nosacijumi pretepidemijas pasakumu veikšanai Pretepidemijas pasakumi veicami, ja tiek konstatets:1) infekcijas slimibas pereklis, apstakli, kuros šads pereklis var izveidoties, vai ir radušas pamatotas aizdomas, ka šads pereklis vai apstakli jau pastav;2) slimnieks vai infekcioza persona, vai persona, par kuru radušas pamatotas aizdomas, ka ta inficejusies ar infekcijas slimibu, vai infekcijas slimibas izraisits naves gadijums.18
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004., 22.04.2004. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+16.pants. Pretepidemijas pasakumu organizešana (1) Epidemiologa iesaistišanas pretepidemijas pasakumu organizešana ir obligata, ja tiek konstateti ša likuma 15.panta minetie nosacijumi un ir sanemta informacija par:1) infekcijas slimibu izraisito sabiedribas veselibas arkartejo situaciju saskana ar normativajiem aktiem par katastrofu medicinas sistemas organizešanu;2) vismaz diviem infekcijas slimibu gadijumiem, ja pastav pamatotas aizdomas, ka šie gadijumi ir savstarpeji saistiti un to celonis ir partika, dzeramais udens vai peldudens un inficešanas notikusi vai ir saistita ar konkreto paaugstinata riska subjektu, pakalpojumu sniegšanu partikas aprite vai piedališanos publiska pasakuma;3) vismaz diviem infekcijas slimibu gadijumiem, kas izplatas ar asinim, ja pastav pamatotas aizdomas, ka šie gadijumi ir savstarpeji saistiti un inficešanas notikusi pakalpojuma sniegšanas laika (iznemot prostituciju jeb seksualo pakalpojumu sniegšanu par maksu);4) gadijumu vai situaciju, kad saskana ar epidemiologisko jomu regulejošiem normativajiem aktiem ir nepieciešama epidemiologa riciba infekcijas slimibu perekli;5) situaciju, ka pastav pamatotas aizdomas par nopietnu sabiedribas veselibas apdraudejumu (strauja un gruti kontrolejama registrejamas infekcijas izplatišanas).(2) (Izslegta ar 30.03.2000. likumu)(3) Pirms epidemiologa iesaistišanas pretepidemijas pasakumu organizešana, ka ari tad, ja ši iesaistišanas nav obligata, arstniecibas personas pienakums ir organizet neatliekamos pretepidemijas pasakumus un pec epidemiologa vai Veselibas inspekcijas inspektora pieprasijuma sniegt tiem informaciju par šiem pasakumiem un citu epidemiologiskas uzraudzibas nodrošinašanai nepieciešamo informaciju.(4) Veselibas inspekcijas inspektoram ir tiesibas grozit, atcelt vai papildinat arstniecibas personas vai epidemiologa noradijumus attieciba uz pretepidemijas pasakumiem.19
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 22.04.2004., 06.04.2006., 27.09.2007., 23.10.2014. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+17.pants. Personu informešana
+Arstniecibas personas pienakums ir informet slimnieku vai infekciozo personu (vai personas, kas veic to aprupi) par infekcijas slimibas izplatišanas celiem un individualas profilakses pasakumiem.20
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+18. pants. Personu tiesibas un pienakumi(1) Personam, kuram ir infekcijas slimibas pazimes vai kuram ir radušas aizdomas par inficešanos, normativajos aktos noteiktaja kartiba ir tiesibas uz:1) medicinisko parbaudi, konsultacijam infekcijas slimibas diagnozes noteikšanai, ari uz anonimam mediciniskam un laboratoriskam parbaudem, ja sabiedribas veselibu neapdraud šis infekcijas slimibas uzliesmojums vai epidemija;2) konfidencialu laboratorisko parbaudi, arstešanu, konsultacijam veselibas jautajumos;3) nepieciešamo pretepidemijas pasakumu veikšanu šo personu dzivesvieta, darba vai uzturešanas vieta.(2) (Izslegta ar 23.10.2014. likumu)(3) Personas pienakums ir nepaklaut citas personas inficešanas riskam.21
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 23.10.2014. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+19.pants. Kontaktpersonu noteikšana, primara mediciniska parbaude, laboratoriska parbaude un mediciniska noverošana(1) Kontaktpersonu noteikšanas, primaras mediciniskas parbaudes, laboratoriskas parbaudes un mediciniskas noverošanas kartibu nosaka Ministru kabinets.(2) Mediciniski noverojamas kontaktpersonas nedrikst izolet un nedrikst ierobežot to parvietošanas brivibu. Arstniecibas persona un epidemiologs var pieprasit, lai persona noteiktos terminos ierodas noraditaja arstniecibas iestade.(21) Bistamas infekcijas slimibas gadijuma mediciniski noverojamai kontaktpersonai atbilstoši Slimibu profilakses un kontroles centra epidemiologa rekomendacijam tiek piedavata brivpratiga pašizolacija (majas karantina) dzivesvieta, uzturešanas vieta vai arstniecibas iestade infekcijas slimibas inkubacijas laika. Sabiedribas veselibas apdraudejuma gadijuma Ministru kabinets ir tiesigs noteikt šadam personam obligatu pašizolaciju (majas karantina) dzivesvieta, uzturešanas vieta vai arstniecibas iestade.(3) Ja mediciniski noverojama kontaktpersona maina dzivesvietu, tas pienakums ir pazinot par to arstniecibas iestadei, kas veic medicinisko noverošanu. Informacija par šo personu nododama attiecigajai arstniecibas iestadei šis personas turpmakaja dzivesvieta mediciniskas noverošanas turpinašanai.(4) (Izslegta ar 12.11.2009. likumu)22
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004., 22.04.2004., 06.04.2006., 07.06.2007., 12.11.2009., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+19.1 pants. Pašizolacijas nosacijumiBistamas infekcijas slimibas gadijuma personai, par kuru ir radušas epidemiologiski pamatotas aizdomas, ka ta ir atradusies paaugstinata inficešanas riska apstaklos, atbilstoši Slimibu profilakses un kontroles centra epidemiologa rekomendacijam tiek piedavata brivpratiga pašizolacija dzivesvieta vai uzturešanas vieta infekcijas slimibas inkubacijas laika. Sabiedribas veselibas apdraudejuma gadijuma Ministru kabinets ir tiesigs noteikt šim personam obligatu pašizolaciju dzivesvieta vai uzturešanas vieta.23
+            
+              
+              
+            
+          (05.06.2020. likuma redakcija, kas stajas speka 10.06.2020.)
+20.pants. Obligata mediciniska un laboratoriska parbaude, izolešana un arstešana (1) Ministru kabinets apstiprina infekcijas slimibu, tai skaita bistamu infekcijas slimibu, sarakstu un nosaka kartibu, kada personas, kuras inficejušas ar kadu no saraksta minetajam infekcijas slimibam vai par kuru inficešanos ir radušas pamatotas aizdomas, vai atseviškas iedzivotaju grupas tiek paklautas obligatajai mediciniskajai un laboratoriskajai parbaudei, izolešanai vai arstešanai.(2) Izolešana veicama personas dzivesvieta, uzturešanas vieta vai arstniecibas iestade.24
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+21.pants. Nosacijumi izolešanai arstniecibas iestade (1) Personu, kura inficejusies ar infekcijas slimibu vai par kuras inficešanos ir radušas pamatotas aizdomas, var izolet arstniecibas iestade tikai tad, ja:1) ši infekcijas slimiba ir ieklauta ša likuma 20.panta pirmaja dala minetaja saraksta;2) izolešana ir nepieciešama, lai noverstu cilveku inficešanos ar infekcijas slimibu, un citi pretepidemijas pasakumi nevar apturet šis slimibas izplatišanos, jo:a) persona nepaklaujas arstniecibas personas noradijumiem attieciba uz arstešanu un noteikta režima ieverošanu,b) persona nav spejiga izpildit arstniecibas personas noradijumus pilna apjoma un noteikta laika,c) personas dzivesvieta vai uzturešanas vieta nav iespejams arstešanas laika nodrošinat nepieciešamos apstaklus, lai nepielautu citu personu inficešanos.(2) Izolešana arstniecibas iestade ir japartrauc, ja persona ievero noteikto režimu un pilda arstniecibas personas noradijumus, ka ari tad, ja vairs nepastav citi šaja panta minetie apstakli.(3) Slimnieks tiek izolets uz laiku, lidz izdalas infekcijas slimibas izraisitaji, iznemot gadijumus, kad arstniecibas persona nosaka citadi.(4) Personu, kura inficejusies ar kadu no ša likuma 20.panta pirmaja dala minetajam infekcijas slimibam vai par kuras inficešanos ir radušas pamatotas aizdomas, saskana ar ša panta pirmaja dala minetajiem nosacijumiem drikst izolet mediciniskas un laboratoriskas parbaudes veikšanai uz laiku, kas nepieciešams šo parbaužu veikšanai. Izolešana šajos gadijumos jaizbeidz, tiklidz tiek sanemti laboratoriskas parbaudes rezultati, kas apliecina, ka izoleta persona nav infekcioza.25
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 23.10.2014., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+22.pants. Piespiedu izolešana arstniecibas iestade, mediciniska un laboratoriska parbaude (1) Ja ir ša likuma 21.panta pirmaja dala minetie nosacijumi, tacu infekcioza persona izvairas no izolešanas, ta izolejama piespiedu karta.(2) Lemumu par personas piespiedu izolešanu Ministru kabineta noteiktaja kartiba pienem Veselibas inspekcijas vaditajs vai vina vietnieki pec arstniecibas personas pieprasijuma. Ša lemuma izpildi kontrole Veselibas inspekcijas inspektori.(3) Veselibas inspekcijas inspektori ir tiesigi izdot rikojumu par ša likuma 19.panta pirmaja dala mineto personu obligato medicinisko un laboratorisko parbaudi.(4) Ja persona atsakas pildit Veselibas inspekcijas vaditaja vai vina vietnieku lemumu par tas izolešanu arstniecibas iestade, mediciniskas un laboratoriskas parbaudes veikšanu, šo personu minetaja iestade piespiedu karta nogada policijas darbinieks arstniecibas personas vai Veselibas inspekcijas inspektora klatbutne. Ja nepieciešams, policija izolešanas vieta nodrošina apsardzi. Policijas darbiniekiem jaievero nepieciešamas individualas epidemiologiskas aizsardzibas prasibas, kuras nosaka arstniecibas persona, epidemiologs vai Veselibas inspekcijas inspektors.26
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 22.04.2004., 27.09.2007. un 23.10.2014. likumu, kas stajas speka 26.11.2014.)
+23.pants. Higieniskais un pretepidemiskais režims arstniecibas iestade
+(1) Higieniska un pretepidemiska režima pamatprasibas arstniecibas iestades, lai nepielautu infekcijas slimibu izplatišanos, nosaka Ministru kabinets.
+(2) Izoletajai personai arstniecibas iestade janodrošina iespeja sazinaties ar citam personam, ja tas nerada infekcijas slimibas izplatišanas draudus.
+(3) Izoleta persona drikst atstat arstniecibas iestades teritoriju vai tas dalu, kas paredzeta personas izolešanai, ka ari nodot sutijumus citam personam tikai ar arstniecibas personas atlauju, ja ši izoleta persona nevar radit inficešanas draudus citam personam. Arstniecibas personai ir tiesibas organizet izoletas personas nododamo sutijumu dezinfekciju.27
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004. un 22.04.2004. likumu, kas stajas speka 02.05.2004. Sk. Parejas noteikumus.)
+24.pants. Fizisko un juridisko personu pienakumi un tiesibas epidemiologiskas izmeklešanas, uzraudzibas un kontroles laika (1) Fiziskas un juridiskas personas nedrikst traucet epidemiologam un Veselibas inspekcijas inspektoram veikt epidemiologisko izmeklešanu, uzraudzibu un kontroli.(2) Fizisko un juridisko personu pienakums ir sniegt epidemiologam un Veselibas inspekcijas inspektoram nepieciešamas zinas.(21) Fiziskajam un juridiskajam personam ir pienakums pildit epidemiologa un pretepidemijas pasakumus veicoša Veselibas inspekcijas inspektora noradijumus, lai noverstu inficešanas risku citu cilveku veselibai. Arstnieciskas manipulacijas fiziskajai personai var veikt ar tas informeto piekrišanu.(3) Fiziskajam un juridiskajam personam ir tiesibas sanemt no epidemiologiskas izmeklešanas veicejiem informaciju par epidemiologiskas izmeklešanas un noverošanas pamatotibu, norisi un rezultatiem.28
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 27.09.2007. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+25.pants. Vides paraugu nemšana laboratoriskajai parbaudei (1) Slimibu profilakses un kontroles centrs, veicot epidemiologisko izmeklešanu, ka ari epidemiologiskas noverošanas laika, bet Veselibas inspekcija, veicot kontroli epidemiologiskas drošibas joma, ir tiesigi nemt paraugus laboratoriskajai parbaudei no jebkuriem vides objektiem, priekšmetiem un partikas produktiem.(2) Ipašniekam, valditajam vai to pilnvarotai personai ir tiesibas organizet paraugu neatkarigu kontrolparbaudi akrediteta vai citadi ekvivalenti noverteta laboratorija. Šaja gadijuma paraugu parbaudes izdevumus sedz ipašnieks vai valditajs.29
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 07.06.2007., 27.09.2007., 12.11.2009. un 04.10.2012. likumu, kas stajas speka 02.11.2012.)
+26.pants. Personu pienakums paklauties epidemiologiskajai izmeklešanai, mediciniskajai un laboratoriskajai parbaudei un mediciniskajai noverošanai Ja par kadu personu radušas pamatotas aizdomas, ka ta ir atradusies ša likuma 15.panta minetajos apstaklos vai inficejusies ar kadu no infekcijas slimibam, šis personas pienakums ir:1) paklauties arstniecibas personas un epidemiologa ieteiktajai mediciniskajai un laboratoriskajai parbaudei un mediciniskajai noverošanai, ka ari nodot nepieciešamos materialus laboratoriskajai parbaudei;2) sniegt arstniecibas personai un epidemiologam pec vinu pieprasijuma:a) informaciju par infekcijas slimibas avotiem, par iespejamas inficešanas laiku, vietu un apstakliem,b) informaciju par personu vai personam, kuras ta vareja inficet,c) citas zinas, kuram ir nozime pretepidemijas pasakumu organizešana un veikšana;3) paklauties Slimibu profilakses un kontroles centra epidemiologa un Veselibas inspekcijas inspektora pieprasijumam parbaudit tas dzivesvietas higieniskos apstaklus un sniegt informaciju par dzivesvietas vai uzturešanas vietas mainu pretepidemijas pasakumus reglamentejošajos normativajos aktos noteiktaja kartiba.30
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 27.09.2007., 12.11.2009. un 04.10.2012. likumu, kas stajas speka 02.11.2012.)
+27.pants. Dezinfekcija, dezinsekcija, deratizacija
+(1) Teritorijas un objektu uzturešana un sakopšana, nodrošinot kaitigo posmkaju un grauzeju iznicinašanu un nepielaujot to ieviešanos, ir teritorijas vai objekta ipašnieka vai vina pilnvarotas personas (ja tada ir) pienakums.
+(2) Ministru kabinets nosaka:
+1) dezinfekcijas, dezinsekcijas un deratizacijas pasakumu veikšanas un finansešanas kartibu infekcijas slimibas perekli;
+2) prasibas attieciba uz profilaktiskas dezinfekcijas, dezinsekcijas un deratizacijas pakalpojumu sniegšanu objekta vai teritorija, ka ari prasibas attieciba uz to darbinieku kvalifikaciju, kuri sniedz minetos pakalpojumus;
+3) prasibas izglitibas iestadei, kura apmaca profilaktiskas dezinfekcijas, dezinsekcijas un deratizacijas pakalpojumu sniedzejus, macibu programmas paraugu un pakalpojumu sniedzeja apliecibas paraugu.31
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+28.pants. Zoonožu profilakse un apkarošanaJa dzivniekam tiek konstateta zoonoze vai ir radušas pamatotas aizdomas, ka šis slimibas izraisitaji atrodas dzivnieka organisma vai areja vide, un ir draudi, ka ar šo slimibu var inficeties ari cilveki, nepieciešamos pretepidemijas pasakumus organize un veic Slimibu profilakses un kontroles centrs, bet dzivnieku saslimšanas gadijumos — Partikas un veterinarais dienests, savstarpeji saskanojot savu darbibu.32
+            
+              
+              
+            
+          (22.04.2004. likuma redakcija ar grozijumiem, kas izdariti ar 12.11.2009., 04.10.2012. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+29.pants. Riciba ar miruša cilveka kermeni, lai noverstu infekcijas slimibas izplatišanos
+Kartibu, kada miruša cilveka kermeni ieved valsti vai izved no tas, ka ari kartibu, kada no infekcijas slimibas miruša cilveka kermeni parvada, glaba, apbedi vai kreme un kada tiek veikta pec slimnieka naves obligata patologanatomiska izmeklešana diagnozes precizešanai, nosaka Ministru kabinets.33
+            
+              
+              
+            
+          (22.04.2004. likuma redakcija, kas stajas speka 02.05.2004.)
+VI nodala
+Vakcinacija un darbs ar infekcijas slimibu izraisitajiem
+30.pants. Vakcinacijas visparigie noteikumi 
+(1) Infekcijas slimibas, pret kuram personas vakcinejamas obligati, ka ari šis vakcinacijas kartibu un vakcinejamo personu loku nosaka Ministru kabinets. Izdevumus par vakcinaciju pret minetajam slimibam sedz no gadskarteja valsts budžeta šim nolukam paredzetajiem lidzekliem.
+(2) Personas, kuras tiek nodarbinatas darbos, kas saistiti ar paaugstinatu inficešanas risku, ka ari audzekni un studenti, kuri macibu vai prakses laika saskaras vai var saskarties ar infekcijas slimibu izraisitajiem, vakcinejami obligati. Infekcijas slimibas, pret kuram veicama vakcinacija, un darbus, kas saistiti ar paaugstinatu inficešanas risku, ka ari vakcinacijas kartibu nosaka Ministru kabinets. Izdevumus, kas saistiti ar šo vakcinaciju, sedz darba devejs vai izglitibas iestade.
+(3) Ja sakusies epidemija vai pandemija vai pastav tas draudi, var izsludinat papildu obligato vakcinaciju Ministru kabineta noteiktaja kartiba.
+(4) Vakcinacijas, kas nav paredzetas ša panta pirmaja un otraja dala, ir brivpratigas, individualas, un visus izdevumus, kas saistiti ar tam, sedz vakcinejama persona vai tas darba devejs, vai citas fiziskas un juridiskas personas. Ministru kabinets nosaka atvieglojumus atseviškam iedzivotaju grupam ar vakcinaciju saistito izdevumu apmaksai.34
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 06.04.2006. un 07.06.2007. likumu, kas stajas speka 11.07.2007.)
+31.pants. Vakcinacijas nosacijumi 
+(1) Vakcinacijai drikst lietot tikai tadas vakcinas, kuras ir ieklautas Latvijas Zalu registra vai kuru izplatišana ir atlauta saskana ar normativajiem aktiem.
+(2) Personas, kas nodarbojas ar vakcinu uzglabašanu un parvadašanu, ir atbildigas par vakcinu drošibas, nekaitiguma un kvalitates saglabašanu atbilstoši normativajiem aktiem par zalu ievešanas, izvešanas un izplatišanas noteikumiem un zalu lieltirgotavu atveršanas un darbibas prasibam.
+(3) Vakcinaciju drikst veikt tikai sertificeta arstniecibas persona.
+(4) Par veikto vakcinaciju ir jaizdara ieraksts vakcinetas personas potešanas pase.
+(5) Ministru kabinets nosaka obligatas minimala nodrošinajuma prasibas vakcinacijas veikšanai.35
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 22.04.2004. un 07.06.2007. likumu, kas stajas speka 11.07.2007.)
+32.pants. Vakcinacijas izraisitas komplikacijas (1) Arstniecibas personai, kura konstatejusi vakcinacijas izraisitas komplikacijas, ir pienakums nekavejoties zinot par to Ministru kabineta noteiktaja kartiba.(2) Vakcinacijas izraisitas komplikacijas izmekle Slimibu profilakses un kontroles centra epidemiologi, bet arstniecibas personu darbibu verte Veselibas inspekcija.36
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004., 22.04.2004., 27.09.2007., 12.11.2009. un 04.10.2012. likumu, kas stajas speka 02.11.2012.)
+33.pants. Darbs ar infekcijas slimibu izraisitajiem 
+(1) Darbu ar infekcijas slimibu izraisitajiem drikst veikt zinatniskajas iestades vai ša darba veikšanai akreditetas vai citadi atzitas iestades, ari laboratorijas.
+(2) Par darbu ar infekcijas slimibu izraisitajiem uzskata:
+1) eksperimentus ar vairotiesspejigiem infekcijas slimibu izraisitajiem;
+2) mikrobiologiskas un serologiskas parbaudes infekcijas slimibu konstatešanai un izdalito izraisitaju izpetei;
+3) infekcijas slimibu izraisitaju likvidešanu;
+4) vairotiesspejigo infekcijas slimibu izraisitaju parvadašanu, uzglabašanu, apmainu;
+5) serumu un vakcinu izgatavošanu.37
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 22.04.2004. likumu, kas stajas speka 02.05.2004.)
+VII nodala
+Profesionalas darbibas nosacijumi 
+epidemiologiskas drošibas garantešanai
+34. pants. Prasibas personam, kuras nodarbinatas ar iespejamu risku citu cilveku veselibai saistitos darbos (1) Personas, kuras tiek nodarbinatas ar iespejamu risku citu cilveku veselibai saistitos darbos, šados darbos (ari macibu prakses laika) aizliegts nodarbinat, ja radušas aizdomas par personas inficešanos ar infekcijas slimibu, bet bistamas infekcijas slimibas gadijuma ar iespejamu risku citu cilveku veselibai saistitos darbos aizliegts nodarbinat ari personas, par kuram ir radušas epidemiologiski pamatotas aizdomas, ka tas ir atradušas paaugstinata inficešanas riska apstaklos, vai personas, kuras Slimibu profilakses un kontroles centra epidemiologs ir noteicis ka kontaktpersonas. Ministru kabinets nosaka:1) darbus, kas saistiti ar iespejamu risku citu cilveku veselibai;2) infekcijas slimibas, ar kuram saslimušas vai inficejušas personas vai personas, par kuram radušas aizdomas, ka tas saslimušas vai inficejušas, aizliegts nodarbinat ar iespejamu risku citu cilveku veselibai saistitos darbos;3) iespejamos infekcijas slimibu simptomus;4) darba deveja un darbinieka pienakumus, ja persona ir saslimusi ar infekcijas slimibu vai inficejusies ar to vai ir aizdomas par personas saslimšanu vai inficešanos ar infekcijas slimibu, ka ari ja par personu ir radušas epidemiologiski pamatotas aizdomas, ka ta ir atradusies paaugstinata inficešanas riska apstaklos, vai personu Slimibu profilakses un kontroles centra epidemiologs ir noteicis ka kontaktpersonu;5) obligato pirmreizejo un periodisko veselibas parbaužu veikšanas kartibu, to personu loku, kuras ir paklautas minetajam veselibas parbaudem, ka ari veselibas parbaužu periodiskumu un apjomu.(2) Izdevumus, kas saistiti ar personas obligato periodisko veselibas parbaudi, sedz darba devejs. Izdevumus, kas saistiti ar obligato pirmreizejo veselibas parbaudi pirms darba tiesisko attiecibu uzsakšanas, pec savstarpejas vienošanas sedz attieciga persona no saviem lidzekliem vai darba devejs.38
+            
+              
+              
+            
+          (19.04.2018. likuma redakcija ar grozijumiem, kas izdariti ar 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+35.pants. Profesionalas darbibas ierobežojumi39
+            
+              
+              
+            
+          (Izslegts ar 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+VIII nodala. 
+Karantina un sabiedribas veselibas aizsardzibas pasakumi(Nodalas nosaukums 12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+36.pants. Karantina bistamo infekcijas slimibu gadijuma(1) Pastavot bistamu infekcijas slimibu izplatišanas draudiem Latvijas Republikas teritorija, Ministru prezidents pec veselibas ministra priekšlikuma izsludina karantinu un ar rikojumu nosaka karantinas režimu. Karantinas režimu atseviška objekta (eka, ražotne u. tml.) ir tiesigs ar rikojumu noteikt veselibas ministrs. Karantinas režimu pec saskanošanas ar veselibas ministru ar rakstveida rikojumu:1) atseviška objekta (arstniecibas iestade, socialas aprupes iestade, izglitibas iestade, ražotne, eka u. tml.) ir tiesigs noteikt iestades vaditajs vai objekta ipašnieks;2) atseviškos Nacionalo brunoto speku objektos Latvijas Republika ir tiesigs noteikt Nacionalo brunoto speku komandieris;3) atseviška ieslodzijuma vieta vai visa ieslodzijuma vietu sistema ir tiesigs noteikt Ieslodzijuma vietu parvaldes priekšnieks;4) islaicigas aizturešanas vieta ir tiesigs noteikt Valsts policijas priekšnieks;5) patveruma mekletaju izmitinašanas centra ir tiesigs noteikt Pilsonibas un migracijas lietu parvaldes priekšnieks;6) aiztureto patveruma mekletaju izmitinašanas telpa (objekta), aiztureto arzemnieku pagaidu turešanas telpa (objekta) vai izmitinašanas centra ir tiesigs noteikt Valsts robežsardzes priekšnieks;7) pašvaldibas iestades (taja skaita pašvaldibas izglitibas, arstniecibas un socialas aprupes iestades) ir tiesiga noteikt attieciga pašvaldiba.(2) Karantina ietver:1) izsludinatas karantinas teritorijas robežas škersošanas ierobežojumus;2) nepieciešamos pretepidemijas pasakumus attieciba uz personam, transportlidzekliem, kas izbrauc no karantinas teritorijas, un izvedamajam kravam, ka ari, ja nepieciešams, — pretepizootijas pasakumus;3) sabiedrisko pasakumu un saimnieciskas darbibas ierobežojumus izsludinataja karantinas teritorija;4) citus pretepidemijas pasakumus, kas mineti šaja likuma un citos normativajos aktos.(3) Karantinas pasakumu koordinacijai tiek izveidota komisija, kuru vada Ministru prezidents vai vina pilnvarots parstavis. Ja karantinu noteicis veselibas ministrs, vinš ari izveido attiecigu komisiju un nosaka tas vaditaju.(4) Karantinu izsludina ar masu sazinas lidzeklu starpniecibu. Masu sazinas lidzeklu pienakums ir sniegt nepieciešamo informaciju noteikta laika un apjoma.(5) Par gadijumiem, kad ar Ministru kabineta rikojumu tiek noteikta karantina, Veselibas ministrija nekavejoties pazino Pasaules veselibas organizacijai.(6) Karantinas pasakumu veikšanu finanse no valsts budžeta.40
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 29.01.2004. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+36.1 pants. Karantina citu infekcijas slimibu gadijumaKarantinas pasakumus citu infekcijas slimibu izplatišanas noveršanai atseviška objekta vai iestade nosaka attiecigas iestades vaditajs pec arstniecibas personas vai epidemiologa priekšlikuma.41
+            
+              
+              
+            
+          (30.03.2000. likuma redakcija ar grozijumiem, kas izdariti ar 16.06.2010. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+36.2 pants. Sabiedribas veselibas aizsardzibas pasakumi
+(1) Sabiedribas veselibas aizsardzibas pasakumi ša likuma izpratne  ir preventivo un reagešanas pasakumu kopums, ko veic valsts un pašvaldibu iestades, ka ari komersanti, lai noverstu vai mazinatu sabiedribas veselibas apdraudejumus sakara ar bistamu infekcijas slimibu, to izraisitaju un toksisko vielu izplatišanas risku, ka ari sakara ar neparastas vai neparedzetas infekcijas vai citas slimibas konstatešanu vai slimibas uzliesmojumu valsts teritorija.
+(2) Kartibu, kada veicami sabiedribas veselibas aizsardzibas pasakumi, nosaka Ministru kabinets.42
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+37.pants. Mediciniski sanitarie pasakumi 43
+            
+              
+              
+            
+          (Izslegts ar 12.11.2009. likumu, kas stajas speka 16.12.2009.)
+VIII1 nodalaPaaugstinata riska subjekta darbibas vai ta sniegta pakalpojuma apturešana(Nodala 10.04.2008. likuma redakcija; nodalas nosaukums 23.10.2014. likuma redakcija, kas stajas speka 26.11.2014.)
+37.1 pants. Darbibas apturešanas subjektiLemumu par paaugstinata riska subjekta darbibas vai ta sniegta pakalpojuma apturešanu, ja ir parkapti epidemiologiskas drošibas jomu regulejošie normativie akti, pienem Veselibas inspekcijas vaditajs un vina vietnieki, ka ari Veselibas inspekcijas kontroles nodalu vaditaji un vinu vietnieki.44
+            
+              
+              
+            
+          (23.10.2014. likuma redakcija, kas stajas speka 26.11.2014.)
+37.2 pants. Darbibas apturešana(1) Ja Veselibas inspekcijas inspektors ir konstatejis epidemiologiskas drošibas jomu regulejošo normativo aktu parkapumu, vinš izsaka rakstveida bridinajumu attiecigajam paaugstinata riska subjektam. Bridinajuma norada visus konstatetos epidemiologiskas drošibas jomu regulejošo normativo aktu parkapumus, dod rekomendacijas un nosaka terminu parkapumu noveršanai.(2) Nemot vera parkapuma faktiskas noveršanas iespejas, bridinajuma ietverto parkapumu noveršanas terminu nosaka ne isaku par:1) diviem gadiem, ja parkapuma noveršanai nepieciešama kapitala celtnieciba;2) sešiem menešiem, ja parkapuma noveršanai nepieciešama eku daleja parbuve vai iekartu kapitalremonts.(3) Parejos gadijumos, kas nav mineti ša panta otraja dala, Veselibas inspekcijas inspektors, nemot vera parkapuma faktiskas noveršanas iespejas, nosaka parkapuma noveršanas terminu no viena lidz trim menešiem.(4) Ja bridinajuma noraditie parkapumi noteiktaja termina netiek noversti, ša likuma 37.1 panta minetas amatpersonas pienem lemumu par paaugstinata riska subjekta darbibas vai ta sniegta pakalpojuma apturešanu.(5) Paaugstinata riska subjekta darbibas apturešanu nodrošina ta ipašnieks vai ipašnieka pilnvarota persona, ja tada ir, piedaloties amatpersonai, kura pienemusi lemumu par darbibas apturešanu, vai tas pilnvarotai amatpersonai. Paaugstinata riska subjekta sniegta pakalpojuma apturešanu nodrošina ipašnieks.(6) Paaugstinata riska subjekta darbibas vai ta sniegta pakalpojuma apturešanu veic ta, lai:1) varetu netrauceti noverst konstatetos parkapumus;2) iespejami samazinatu eku, telpu un iekartu bojašanos meteorologisko apstaklu vai korozijas del;3) iespejami mazak tiktu trauceta citu inženierkomunikaciju, iekartu un iekartu sistemu darbiba.(7) Darbibas vai sniegta pakalpojuma apturešanas kontroli nodrošina amatpersona, kura pienemusi lemumu par darbibas vai pakalpojuma apturešanu, vai tas pilnvarota amatpersona.(8) Paaugstinata riska subjekta darbibu vai ta sniegto pakalpojumu var apturet bez iepriekšeja bridinajuma, ja epidemiologiskas drošibas jomu regulejošo normativo aktu parkapumu del produkcija vai vide var nonakt bistamas vielas vai slimibu izraisitaji vai tiek apdraudeta cilveku un dzivnieku veseliba vai dziviba.(9) Amatpersona, kurai ir tiesibas pienemt ša panta astotaja dala mineto lemumu par paaugstinata riska subjekta darbibas vai ta sniegta pakalpojuma apturešanu, šo lemumu pienem triju darbdienu laika pec tam, kad tai kluvis zinams par ša panta astotaja dala minetajiem normativo aktu parkapumiem, un to izpilda nekavejoties. Citu konstateto epidemiologiskas drošibas jomu regulejošo normativo aktu parkapumu noveršanai nosaka terminu saskana ar ša panta otro un trešo dalu.45
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 23.10.2014. likumu, kas stajas speka 26.11.2014.)
+37.3 pants. Darbibas atjaunošana(1) Par normativo aktu parkapumu noveršanu paaugstinata riska subjekts rakstveida zino amatpersonai, kas pienemusi lemumu par darbibas vai sniegta pakalpojuma apturešanu. Ši amatpersona piecu darbdienu laika pec pazinojuma sanemšanas parbauda, vai parkapumi ir noversti.(2) Ja visi bridinajuma vai lemuma par darbibas vai sniegta pakalpojuma apturešanu minetie parkapumi ir noversti, attieciga amatpersona triju darbdienu laika pec parbaudes veikšanas izsniedz rakstveida atlauju darbibas vai sniegta pakalpojuma atjaunošanai.(3) Ja visi rakstveida bridinajuma vai lemuma par darbibas vai sniegta pakalpojuma apturešanu minetie parkapumi nav noversti, attieciga amatpersona atsaka darbibas vai sniegta pakalpojuma atjaunošanu.46
+            
+              
+              
+            
+          (23.10.2014. likuma redakcija, kas stajas speka 26.11.2014.)
+37.4 pants. Lemumu apstridešana un parsudzešana(1) Iesniegumu, kura tiek apstridets lemums par darbibas vai sniegta pakalpojuma apturešanu bez iepriekšeja bridinajuma izteikšanas, izskata un lemumu pienem 10 darbdienu laika pec iesnieguma sanemšanas.(2) Šaja nodala mineto Veselibas inspekcijas lemumu apstridešana un parsudzešana neaptur to darbibu.47
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 23.10.2014. likumu, kas stajas speka 26.11.2014.)
+VIII2 nodalaAdministrativie parkapumi epidemiologiskas drošibas joma un kompetence administrativo parkapumu procesa(Nodala 24.10.2019. likuma redakcija, kas stajas speka 20.11.2019. Nodala stajas speka 01.07.2020. Sk. Parejas noteikumu 11. punktu)
+37.5 pants. Epidemiologiskas drošibas prasibu parkapšanaPar epidemiologiskas drošibas prasibu parkapšanu, ja tas var radit risku cilveku veselibai, piemero naudas sodu fiziskajai personai no divam lidz cetrsimt naudas soda vienibam, bet juridiskajai personai — no divdesmit astonam lidz tukstoš naudas soda vienibam.48
+            
+              
+              
+            
+          (05.06.2020. likuma redakcija, kas stajas speka 10.06.2020. Pants stajas speka 01.07.2020. Sk. Parejas noteikumu 12. punktu)
+37.6 pants. Kompetence administrativo parkapumu procesaAdministrativa parkapuma procesu par ša likuma 37.5 panta minetajiem parkapumiem veic Veselibas inspekcija.49
+            
+              
+              
+            
+          (24.10.2019. likuma redakcija, kas stajas speka 20.11.2019. Pants stajas speka 01.07.2020. Sk. Parejas noteikumu 11. punktu)
+IX nodala
+Nobeiguma noteikumi
+38.pants. Medicina, kosmetika un parfimerija izmantojamo biologisko materialu kontrole un donoru laboratoriska parbaude(1) Donoru materialus, serumus, citus cilveku un dzivnieku biologiskos materialus, kuri satur infekcijas slimibu izraisitajus vai attieciba uz kuriem ir radušas pamatotas aizdomas par to, nedrikst izmantot medicina, kosmetika un parfimerija.(2) (Izslegta ar 10.04.2008. likumu)(3) (Izslegta ar 10.04.2008. likumu)50
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 29.01.2004., 22.04.2004. un 10.04.2008. likumu, kas stajas speka 13.05.2008.)
+38.1 pants. Higienas prasibas(1) Ministru kabinets nosaka higienas prasibas paaugstinata riska subjektiem, ka ari peldvietam. Attiecigo peldvietu sarakstu nosaka Ministru kabinets.(2) Pirms tadas saimnieciskas darbibas uzsakšanas, kura saistita ar skaistumkopšanas (izmantojot fiziskas, fizikalas un kimiskas metodes), maksliga iedeguma, manikira, pedikira, friziera, publiskas lietošanas pirts, publiskas lietošanas peldbaseinu (turpmak — skaistumkopšanas) un tetovešanas, skarifikacijas, permanenta grima, mikropigmentacijas, pirsinga (turpmak — tetovešanas) pakalpojumu sniegšanu un kurai Ministru kabinets noteicis higienas prasibas, šo pakalpojumu sniedzejs pazino par darbibas uzsakšanu Veselibas inspekcijai. Kartibu, kada pakalpojumu sniedzejs pirms tadas saimnieciskas darbibas uzsakšanas, kura saistita ar skaistumkopšanas un tetovešanas pakalpojumu sniegšanu, zino Veselibas inspekcijai, nosaka Ministru kabinets.(3) Ministru kabinets nosaka:1) prasibas paaugstinata riska subjektu nodarbinato personu kompetencei higienas joma;2) kartibu, kada paaugstinata riska subjektu nodarbinatas personas apmacamas higienas joma;3) prasibas apmacibu programmai higienas joma un apliecibas izsniedzejam, ka ari apliecibas paraugu un tas izsniegšanas kartibu.51
+            
+              
+              
+            
+          (30.03.2000. likuma redakcija ar grozijumiem, kas izdariti ar 07.06.2007., 10.04.2008., 23.10.2014. un 19.04.2018. likumu, kas stajas speka 23.05.2018.)
+39. pants. Parvadajumi un celotaju veseliba(1) Sabiedribas veselibas apdraudejuma gadijuma Ministru kabinets pec veselibas ministra ieteikuma ir tiesigs infekcijas slimibu izplatibas ierobežošanai noteikt šadus ierobežojumus celošanai uz valstim, kas ieklautas Slimibu profilakses un kontroles centra publicetaja to valstu saraksta, kuras konstateta infekcijas slimibu izplatišanas, taja skaita tadu bistamu infekcijas slimibu izplatišanas, kuras var radit nopietnu sabiedribas veselibas apdraudejumu:1) ierobežojumu personu, transportlidzeklu un kravu parvadajumu brivai kustibai pari Latvijas valsts robežai;2) ierobežojumu starptautiska turisma pakalpojumu sniegšanai;3) ierobežojumu un nosacijumus starptautisko gaisa, juras, autobusu un dzelzcela pasažieru parvadajumu pakalpojumu sniegšanai.(2) Sabiedribas veselibas apdraudejuma gadijuma Ministru kabinets pec veselibas ministra ieteikuma ir tiesigs infekcijas slimibu izplatibas ierobežošanai noteikt ierobežojumus un prasibas iekšzemes pasažieru parvadajumu pakalpojumu, ka ari pašparvadajumu pakalpojumu sniegšanai un izmantošanai.(3) Atvasinatam publiskam personam, iestadem, komersantiem, pašnodarbinatajiem, ka ari citam juridiskajam un fiziskajam personam, kuras darbojas starptautiska turisma joma un veic pasažieru parvadajumus, celojumu organizešanas laika ir pienakums pilnigi un objektivi informet klientus par:1) veselibas riska faktoriem teritorijas, kuras tie velas apmeklet, ka ari par infekcijas slimibu izplatibas draudiem un individualajiem piesardzibas pasakumiem, ieskaitot vakcinaciju;2) mediciniskas palidzibas un konsultacijas sanemšanas iespejam pirms celojuma un celojuma laika.52
+            
+              
+              
+            
+          (05.06.2020. likuma redakcija, kas stajas speka 10.06.2020.)
+40.pants. Policijas palidziba (1) Pec Veselibas inspekcijas vai Slimibu profilakses un kontroles centra amatpersonu pieprasijuma policijas iestades sniedz palidzibu arstniecibas personam, ka ari Slimibu profilakses un kontroles centra epidemiologiem un Veselibas inspekcijas inspektoriem, lai nodrošinatu:1) netraucetu epidemiologisko izmeklešanu;2) personu piespiedu izolešanu un apsardzi;3) epidemiologisko drošibu šaja likuma paredzetaja kartiba.(2) Bistamas infekcijas slimibas gadijuma objektos, kuros noteikts karantinas režims, apsardzi nodrošina Valsts policija sadarbiba ar pašvaldibas policiju, iznemot Nacionalo brunoto speku objektus, kuros apsardzi nodrošina Nacionalie brunotie speki, un ieslodzijuma vietas, kuras apsardzi nodrošina Ieslodzijuma vietu parvalde.53
+            
+              
+              
+            
+          (Ar grozijumiem, kas izdariti ar 30.03.2000., 27.09.2007., 12.11.2009., 04.10.2012., 19.04.2018. un 05.06.2020. likumu, kas stajas speka 10.06.2020.)
+41. pants. Zaudejumu atlidzinašanas pienakumsPersonu saukšana pie disciplinaras, administrativas vai kriminalas atbildibas neatbrivo tas no pienakuma atlidzinat ša likuma parkapšanas rezultata nodaritos zaudejumus.54
+            
+              
+              
+            
+          (24.10.2019. likuma redakcija, kas stajas speka 20.11.2019. Panta jauna redakcija stajas speka 01.07.2020. Sk. Parejas noteikumu 11. punktu)
+Parejas noteikumi(30.03.2000. likuma redakcija, kas stajas speka 04.05.2000.)
+1. Lidz Sabiedribas veselibas agenturas izveidošanai tas funkcijas pilda Nacionalais vides veselibas centrs un teritorialie vides veselibas centri sava parzina esošaja teritorija atbilstoši to nolikumiem.55
+            
+              
+              
+            
+          
+2. Lidz 2001.gada 1.janvarim ir speka šadi Ministru kabineta noteikumi, kas izdoti saskana ar Ministru kabineta iekartas likuma 14.panta 3.punktu:
+1) Ministru kabineta 1998.gada 19.maija noteikumi nr.183 "Noteikumi par higienas prasibam slimnicam";
+2) Ministru kabineta 1998.gada 9.junija noteikumi nr.216 "Noteikumi par higienas prasibam pirmsskolas izglitibas iestadem";
+3) Ministru kabineta 1999.gada 13.julija noteikumi nr.255 "Noteikumi par higienas prasibam visparizglitojošam skolam".56
+            
+              
+              
+            
+          
+3. Lidz attiecigu Ministru kabineta noteikumu speka stašanas dienai, bet ne ilgak ka lidz 2005.gada 1.janvarim ir speka Ministru kabineta 2000.gada 14.marta noteikumi Nr.101 "Ar infekcijas slimibu miruša cilveka kermena parvadašanas, glabašanas un apbedišanas kartiba".57
+            
+              
+              
+            
+          (22.04.2004. likuma redakcija, kas stajas speka 02.05.2004.)
+4. Grozijumi likuma 15.panta, 16.panta trešaja dala, 19.panta pirmaja dala, 23.panta pirmaja dala, 31.panta otraja un ceturtaja dala, 32.panta pirmaja dala un 38.panta otraja un trešaja dala stajas speka 2006.gada 1.janvari.58
+            
+              
+              
+            
+          (22.04.2004. likuma redakcija, kas stajas speka 02.05.2004.)
+5. Ministru kabinets lidz 2007.gada 1.janvarim izdod ša likuma 14.panta pirmas dalas 5.punkta minetos noteikumus.59
+            
+              
+              
+            
+          (06.04.2006. likuma redakcija, kas stajas speka 09.05.2006.)
+6. Ministru kabinets lidz 2010.gada 1.maijam izdod ša likuma 27., 35. un 36.2 panta minetos noteikumus.60
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+7. Lidz jaunu Ministru kabineta noteikumu speka stašanas dienai, bet ne ilgak ka lidz 2010.gada 1.maijam ir piemerojami Ministru kabineta 1998.gada 21.julija noteikumi Nr.257 “Mediciniski sanitaro pasakumu veikšanas kartiba bistamu infekcijas slimibu izplatibas noveršanai”, Ministru kabineta 1999.gada 1.junija noteikumi Nr.203 “Dezinfekcijas, dezinsekcijas un deratizacijas pasakumu veikšanas kartiba” un Ministru kabineta 2000.gada 18.oktobra noteikumi Nr.359 “Noteikumi par profesionalo darbibu ierobežojošajam infekcijas slimibam”, ciktal tie nav pretruna ar šo likumu.61
+            
+              
+              
+            
+          (12.11.2009. likuma redakcija, kas stajas speka 16.12.2009.)
+8. Ša likuma 6.panta piektas dalas 3.punkts stajas speka 2011.gada 1.janvari.62
+            
+              
+              
+            
+          (16.06.2010. likuma redakcija, kas stajas speka 20.07.2010.)
+9. Ministru kabinets lidz 2015.gada 1.julijam izdod ša likuma 5.panta ceturtaja dala minetos noteikumus.63
+            
+              
+              
+            
+          (23.10.2014. likuma redakcija, kas stajas speka 26.11.2014.)
+10. Ša likuma 38.1 panta otra dala stajas speka 2016.gada 1.janvari. Pakalpojumu sniedzeji, kas saimniecisko darbibu, kura saistita ar skaistumkopšanas un tetovešanas pakalpojumu sniegšanu, uzsakuši pirms 2016.gada 1.janvara, pazino par to Veselibas inspekcijai lidz 2016.gada 1.martam ša likuma 38.1 panta otraja dala noteiktaja kartiba.64
+            
+              
+              
+            
+          (23.10.2014. likuma redakcija, kas stajas speka 26.11.2014.)
+11. Ša likuma VIII2 nodala un 41. panta jauna redakcija stajas speka vienlaikus ar Administrativas atbildibas likumu.65
+            
+              
+              
+            
+          (24.10.2019. likuma redakcija, kas stajas speka 20.11.2019.)
+12. Grozijums ša likuma VIII2 nodala par 37.5 panta izteikšanu jauna redakcija stajas speka vienlaikus ar Administrativas atbildibas likumu.66
+            
+              
+              
+            
+          (05.06.2020. likuma redakcija, kas stajas speka 10.06.2020. Minetais grozijums ieklauts likuma redakcija uz 01.07.2020.)
+Likums Saeima pienemts 1997.gada 11.decembri.
+Valsts prezidents G.Ulmanis
+Riga 1997.gada 30.decembri

@@ -1,0 +1,72 @@
+
+Notice of the making of this Statutory Instrument was published in
+
+“Iris Oifigiúil” of 29th September, 2020.
+
+I, HEATHER HUMPHREYS, Minister for Employment Affairs and Social Protection, having regard to the continuing risks to public health arising from COVID-19 and the consequent impact on employers and employees, and having regard to the matters specified in subsection (3) of section 68N, subsection (4) of section 68O and subsection (2) of section 68P of Chapter 5B (inserted by section 11 of the Social Welfare (Covid-19) (Amendment) Act 2020 (No. 12 of 2020 )) and in exercise of the powers conferred on me by sections 4 (as adapted by the Social Protection (Alteration of Name of Department and Title of Minister) Order 2017 (S.I. No. 366 of 2017)) and 68O(2), 68O(3) and 68P of the Social Welfare Consolidation Act 2005 (No. 26 of 2005), with the consent of the Minister for Public Expenditure and Reform, hereby make the following Regulations:
+
+Citation and construction
+
+1. (1) These Regulations may be cited as the Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 14) (Covid-19 Pandemic Unemployment Payment) Regulations 2020.
+
+(2) These Regulations and the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 to 2020 shall be construed together as one and may be cited together as the Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 to 2020.
+
+Commencement date
+
+2. These Regulations come into operation on 5th August.
+
+Covid-19 Pandemic Unemployment Payment
+
+3. The Social Welfare (Consolidated Claims, Payments and Control) Regulations 2007 ( S.I. No. 142 of 2007 ) are amended by the insertion of the following Chapter after Chapter 5A (inserted by article 4 of the Social Welfare (Consolidated Claims, Payments and Control) (Amendment) (No. 11) (Jobseekers Benefit (Self-Employed)) Regulations 2019 ( S.I. No. 551 of 2019 )):
+
+“Chapter 5B
+
+Covid-19 Pandemic Unemployment Payment
+
+Calculation of reckonable weekly income.
+
+52I (1) For the purposes of this Chapter, reckonable weekly income means-
+
+(a) in the case of an employed contributor, the income which ceased in the circumstances set out in subparagraph (i) of section 68L(1)(b), and
+
+(b) in the case of a self-employed contributor, the reckonable income or reckonable emoluments which ceased, or reduced in the circumstances set out in subparagraph (ii) of section 68L(1)(b).
+
+(2) For the purposes of section 68O(2) a person’s average reckonable weekly income shall be-
+
+(a) in the case of an employed contributor, that person’s reckonable earnings for the period 1 January 2019 to 31 December 2019 inclusive, divided by the number of contribution weeks in that period, or that person’s reckonable earnings for the period 1 January 2020 to 29 February 2020 inclusive, divided by the number of contribution weeks in that period, whichever is the greater,
+
+(b) in the case of a self-employed contributor, that person’s reckonable income or reckonable emoluments for the 2018 income tax year, divided by the number of contributions weeks in that period, or that person’s reckonable income or reckonable emoluments for the 2019 income tax year, divided by the number of contribution weeks in that period, whichever is the greater, and
+
+(c) in the case of a person whose reckonable weekly income during the 2019 income tax year derived from reckonable earnings as an employed contributor and reckonable income or reckonable emoluments as a self-employed contributor, the aggregate of that income divided by the number of contribution weeks in the said income tax year.
+
+Rates of payment.
+
+52J. From 17 September 2020, the weekly rates of Covid-19 pandemic unemployment payment shall be as follows:
+
+(i) Band A: €203.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I was less than €200.00,
+
+(ii) Band B: €300.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I was greater than €300.00,
+
+and
+
+(iii) Band C: €250.00 in the case of a person whose average reckonable weekly income calculated in accordance with article 52I is greater than €200.00 but less than €300.00.”.
+
+The Minister for Public Expenditure and Reform consents to the foregoing Regulations.
+
+/images/ls
+
+GIVEN under my Official Seal,
+
+17 September, 2020.
+
+MICHAEL MCGRATH,
+
+Minister for Public Expenditure and Reform.
+
+GIVEN under my Official Seal,
+
+24 September, 2020.
+
+HEATHER HUMPHREYS,
+
+Minister for Employment Affairs and Social Protection.

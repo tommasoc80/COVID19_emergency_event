@@ -1,0 +1,223 @@
+Anuncio de formalización de contratos de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Selección de suministradores y productos para hacer frente al COVID-19, así como la fijación de las condiciones a que habrán de ajustarse los suministros basados en este Acuerdo Marco. Expediente: AM 2020/070.
+2021
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Dirección del Instituto Nacional de Gestión Sanitaria (INGESA).
+          1.2) Número de identificación fiscal: 
+          Q2869002B.
+          1.3) Dirección: 
+          Alcalá, 56.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28014.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.11) Correo electrónico: 
+          bazuara@ingesa.sanidad.gob.es
+          1.12) Dirección principal: 
+          http://www.ingesa.mscbs.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=BCFBo8vhaU8%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Sanidad.
+        
+      4. Códigos CPV:
+      
+        4.1) CPV principal: 
+          33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.2) CPV 
+          Lote 01: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.3) CPV 
+          Lote 02: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.4) CPV 
+          Lote 03: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.5) CPV 
+          Lote 04: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.6) CPV 
+          Lote 05: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.7) CPV 
+          Lote 06: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.8) CPV 
+          Lote 07: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.9) CPV 
+          Lote 08: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.10) CPV 
+          Lote 09: 18143000 (Indumentaria de protección) y 33140000 (Material médico fungible).
+          4.11) CPV 
+          Lote 10: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+          4.12) CPV 
+          Lote 11: 33140000 (Material médico fungible) y 18143000 (Indumentaria de protección).
+        
+      5. Lugar principal de entrega de los suministros:
+      
+        5.1) Código NUTS principal: 
+          ES.
+          5.2) Código NUTS 
+          Lote 01: ES.
+          5.3) Código NUTS 
+          Lote 02: ES.
+          5.4) Código NUTS 
+          Lote 03: ES.
+          5.5) Código NUTS 
+          Lote 04: ES.
+          5.6) Código NUTS 
+          Lote 05: ES.
+          5.7) Código NUTS 
+          Lote 06: ES.
+          5.8) Código NUTS 
+          Lote 07: ES.
+          5.9) Código NUTS 
+          Lote 08: ES.
+          5.10) Código NUTS 
+          Lote 09: ES.
+          5.11) Código NUTS 
+          Lote 10: ES.
+          5.12) Código NUTS 
+          Lote 11: ES.
+        
+      6. Descripción de la licitación:
+      
+        6.1) Descripción genérica:
+          Selección de suministradores y productos para hacer frente al COVID-19, así como la fijación de las condiciones a que habrán de ajustarse los suministros basados en este Acuerdo Marco.
+          6.2)
+          Lote 01: Bata quirúrgica no estéril, desechable, prestación estándar (normativa Productos Sanitarios).
+          6.3)
+          Lote 02: Bata de protección contra agentes biológicos, desechable . Tipo PB [B]. Nivel 2 (normativa EPI).
+          6.4)
+          Lote 03: Bata quirúrgica no estéril, desechable, prestación alta (normativa Productos Sanitarios).
+          6.5)
+          Lote 04: Bata de protección contra agentes biológicos, desechable , tipo PB [B] Nivel 4 (normativa EPI).
+          6.6)
+          Lote 05: Guantes de nitrilo.
+          6.7)
+          Lote 06: Gafas de protección.
+          6.8)
+          Lote 07: Mascarillas quirúrgicas tipo II y tipo II R.
+          6.9)
+          Lote 08: Mascarillas de protección (eficacia de filtración equivalente a FFP2).
+          6.10)
+          Lote 09: Mascarillas de protección (eficacia de filtración equivalente a FFP3).
+          6.11)
+          Lote 10: Test molecular COVID-19.
+          6.12)
+          Lote 11: Kit de extracción.
+        
+      7. Tipo de procedimiento de adjudicación: 
+      
+        7.1) Tipo: 
+          Negociado sin publicidad acelerado (Adquisición de material necesario para hacer frente al COVID-19, que es de utilización común en el Sistema Nacional de Salud y que se requiere para el cumplimiento de los fines de las administraciones participantes).
+          7.2) Justificación: 
+          
+            7.2.1) 
+              Situación de extrema urgencia.
+            
+          7.3) Explicación: 
+          Covid19.
+        
+      8. Información sobre un acuerdo marco o un sistema dinámico de adquisición:
+      El anuncio se refiere al establecimiento de un acuerdo marco.
+      9. Criterios de adjudicación: 
+      
+        9.1) 
+          Precio (Ponderación: 100%).
+          9.2) 
+          Requisitos técnicos (Ponderación: 100%).
+        
+      10. Fecha de adjudicación: 
+      24 de febrero de 2021.
+      11. Ofertas recibidas: 
+      
+        11.10) Lote 10: 
+          
+            11.10.1) Número de ofertas recibidas: 
+              54.
+              11.10.2) Número de ofertas recibidas de PYMEs: 
+              39.
+            
+        
+      12. Adjudicatarios: 
+      
+        12.10) Lote 10: 
+          
+            12.10.1) Nombre: 
+              Genetic Analysis Strategies S.L.
+              12.10.2) Número de identificación fiscal: 
+              B54723549.
+              12.10.3) Dirección: 
+              Ronda Vall d´Uxo, 125 - Pol. Ind. Carrús-.
+              12.10.4) Localidad: 
+              Elche (Alicante).
+              12.10.6) Código postal: 
+              03206.
+              12.10.7) País: 
+              España.
+              12.10.13) 
+              El adjudicatario es una PYME.
+            
+        
+      13. Valor de las ofertas: 
+      
+        13.10) Lote 10: 
+          
+            13.10.1) Valor de la oferta seleccionada: 
+              7,82 euros.
+            
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              Instituto Nacional de Gestión Sanitaria.
+              16.1.2) Dirección: 
+              Alcalá, 56.
+              16.1.3) Localidad: 
+              Madrid.
+              16.1.5) Código postal: 
+              28014.
+              16.1.6) País: 
+              España.
+            
+          16.4) Servicio del que se puede obtener información sobre el procedimiento de recurso:
+          
+            16.4.1) Nombre: 
+              Instituto Nacional de Gestión Sanitaria.
+              16.4.2) Dirección: 
+              Alcalá, 56.
+              16.4.3) Localidad: 
+              Madrid.
+              16.4.5) Código postal: 
+              28014.
+              16.4.6) País: 
+              España.
+            
+        
+      17. Publicación anterior referente al presente procedimiento: 
+      
+        17.1) 
+           ID: 2020-455943. Anuncio de Formalización publicado en BOE (18 de diciembre de 2020).
+          17.2) 
+           ID: 2020/S 249-620398. Anuncio de Formalización publicado en DOUE (22 de diciembre de 2020).
+          17.3) 
+           ID: 2021-497507. Anuncio de Formalización publicado en BOE (8 de enero de 2021).
+          17.4) 
+           ID: 2021-541904. Anuncio de Formalización publicado en BOE (28 de enero de 2021).
+          17.5) 
+           ID: 2021/S 020-044928. Anuncio de Formalización publicado en DOUE (29 de enero de 2021).
+        
+      18. Fecha de envío del anuncio: 
+      26 de febrero de 2021.
+    Madrid, 26 de febrero de 2021.- Director del Instituto Nacional de Gestión Sanitaria, Alfonso María Jiménez Palacios.

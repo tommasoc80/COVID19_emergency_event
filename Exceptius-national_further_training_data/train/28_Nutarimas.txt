@@ -1,0 +1,283 @@
+
+
+Lietuvos Respublikos Vyriausybė
+
+nutarimas
+DĖL COVID-19 STEBĖSENOS INFORMACINĖS SISTEMOS ĮSTEIGIMO IR JOS NUOSTATŲ PATVIRTINIMO
+
+2020 m. balandžio 1 d. Nr. 335
+Vilnius
+
+
+Vadovaudamasi Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 30 straipsnio 2 dalimi, Valstybės informacinių sistemų steigimo, kūrimo, modernizavimo ir likvidavimo tvarkos aprašo, patvirtinto Lietuvos Respublikos Vyriausybės 2013 m. vasario 27 d. nutarimu Nr. 180 „Dėl Valstybės informacinių sistemų steigimo, kūrimo, modernizavimo ir likvidavimo tvarkos aprašo patvirtinimo“, 5 punktu, Lietuvos Respublikos Vyriausybė nutaria:
+1. Į s t e i g t i COVID-19 stebėsenos informacinę sistemą.
+2. P a t v i r t i n t i  COVID-19 stebėsenos informacinės sistemos nuostatus (pridedama).
+3. N u s t a t y t i COVID-19 stebėsenos informacinės sistemos veikimo pradžią – 2020 m. balandžio 6 d.
+4. P a v e s t i  Lietuvos Respublikos sveikatos apsaugos ministrui:
+4.1. Per 5 dienas nuo šio nutarimo įsigaliojimo dienos:
+4.1.1. patvirtinti COVID-19 stebėsenos informacinės sistemos duomenų saugos nuostatus;
+4.1.2. paskirti COVID-19 stebėsenos informacinės sistemos saugos įgaliotinį, COVID-19 stebėsenos informacinės sistemos administratorių, COVID-19 stebėsenos informacinės sistemos duomenų valdymo įgaliotinį;
+4.2. per 1 mėnesį nuo šio nutarimo įsigaliojimo dienos parengti ir patvirtinti:
+4.2.1. COVID-19 stebėsenos informacinės sistemos saugaus elektroninės informacijos tvarkymo taisykles;
+4.2.2. COVID-19 stebėsenos informacinės sistemos veiklos tęstinumo valdymo planą;
+4.2.3. COVID-19 stebėsenos informacinės sistemos naudotojų administravimo taisykles.
+
+
+
+Ministras Pirmininkas	Saulius Skvernelis
+
+
+
+Energetikos ministras, laikinai einantis
+ekonomikos ir inovacijų ministro pareiga	Žygimantas Vaičiūnas
+
+PATVIRTINTA
+Lietuvos Respublikos Vyriausybės
+2020 m. balandžio 1 d. nutarimu Nr. 335
+
+
+COVID-19 STEBĖSENOS INFORMACINĖS SISTEMOS NUOSTATAI 
+
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1. COVID-19 stebėsenos informacinės sistemos nuostatai (toliau – Nuostatai) reglamentuoja COVID-19 informacinės sistemos (toliau – Informacinė sistema) steigimo teisinį pagrindą, tikslus, uždavinius ir pagrindines funkcijas, organizacinę, informacinę ir funkcinę struktūras, duomenų teikimą ir naudojimą, bendruosius reikalavimus duomenų saugai, finansavimą, modernizavimą ir likvidavimą.
+2. Informacinės sistemos steigimo teisinis pagrindas – Lietuvos Respublikos   žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 21 straipsnis bei Lietuvos Respublikos civilinės saugos įstatymo 9 straipsnis.
+3. Pagrindiniai teisės aktai, kuriais vadovaujantis kuriama ir tvarkoma informacinė sistema:
+3.1. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES)2016/679);
+3.2. Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas (toliau – Įstatymas);
+3.3. Lietuvos Respublikos sveikatos sistemos įstatymas;
+3.4. Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas;
+3.5. Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas;
+3.6. Lietuvos Respublikos kibernetinio saugumo įstatymas;
+3.7. Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas.
+3.8. Lietuvos Respublikos civilinės saugos įstatymas.
+3.9. Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas;
+3.10. Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimas Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“.
+3.11. Lietuvos Respublikos Vyriausybė 2020 m. vasario 26 d. nutarimas Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“.
+3.12. Valstybės informacinių sistemų steigimo, kūrimo, modernizavimo ir likvidavimo tvarkos aprašas, patvirtintas Lietuvos Respublikos Vyriausybės 2013 m. vasario 27 d. nutarimu Nr. 180 „Dėl Valstybės informacinių sistemų steigimo, kūrimo, modernizavimo ir likvidavimo tvarkos aprašo patvirtinimo” (toliau – Aprašas);
+3.13. Bendrųjų elektroninės informacijos saugos reikalavimų aprašas, patvirtintas Lietuvos Respublikos Vyriausybės 2013 m. liepos 24 d. nutarimu Nr. 716 „Dėl Bendrųjų elektroninės informacijos saugos reikalavimų aprašo, Saugos dokumentų turinio gairių aprašo ir Elektroninės informacijos, sudarančios valstybės informacinius išteklius, svarbos įvertinimo ir valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairių aprašo patvirtinimo“;
+3.14. Organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, aprašas, patvirtintas Lietuvos Respublikos Vyriausybės 2018 m. rugpjūčio 13 d. nutarimu Nr. 818 „Dėl Lietuvos Respublikos kibernetinio saugumo įstatymo įgyvendinimo“;
+3.15. Valstybės informacinių sistemų gyvavimo ciklo valdymo metodika, patvirtinta Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos direktoriaus 2014 m. vasario 25 d. įsakymu Nr. T-29 „Dėl Valstybės informacinių sistemų gyvavimo ciklo valdymo metodikos patvirtinimo“;
+3.16. Nuostatais ir kitais teisės aktais, reglamentuojančiais elektroninės informacijos tvarkymą.
+4. Nuostatuose vartojamos sąvokos atitinka sąvokas, apibrėžtas Nuostatų 3 punkte nurodytuose teisės aktuose.
+5. Informacinės sistemos tikslas – informacinių technologijų priemonėmis surinkti, apdoroti ir pateikti analizei COVID-19 stebėsenos ir poveikio statistinius duomenis.
+6. Informacinės sistemos asmens duomenų tvarkymo tikslas – užtikrinti  visuomenės interesą sveikatos srityje, COVID-19 grėsmių valdymą, COVID-19 prevencinių priemonių taikymą ir vykdymą,   Informacinės sistemos naudotojų ir COVID- 19 pacientų identifikavimą.
+7. Informacinės sistemos uždaviniai:
+7.1. automatizuoti COVID-19 atvejų duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.2. automatizuoti karantinavimo atvejų duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.3. automatizuoti apsaugos priemonių duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.4. automatizuoti atliktų COVID-19 tyrimų duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.5. automatizuoti karantinavimo tvarkos pažeidimų duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.6. automatizuoti COVID-19 poveikio  verslui duomenų surinkimą, apdorojimą ir pateikimą analizei;
+7.7. automatizuoti asmenų migravimo karantino laikotarpiu duomenų surinkimą, apdorojimą ir pateikimą analizei.
+8. Pagrindinės Informacinės sistemos funkcijos:
+8.1. rinkti ir kaupti  COVID-19 atvejų, tyrimų, karantinavimo, apsaugos priemonių, asmenų migravimo stebėsenos duomenis;
+8.2. rinkti ir kaupti sveikatos priežiūros įstaigų ataskaitas;
+8.3. atlikti duomenų analizę ir formuoti ataskaitas;
+8.4. atvaizduoti COVID-19 stebėsenos rodiklius.
+
+II SKYRIUS
+Informacinės sistemos ORGANIZACINĖ STRUKTŪRA
+
+9. Informacinės sistemos valdytojas  ir asmens duomenų valdytojas – Užkrečiamųjų ligų ir AIDS centras.
+10. Pagrindinis Informacinės sistemos tvarkytojas  ir asmens duomenų tvarkytojas – Užkrečiamųjų ligų ir AIDS centras.
+11. Kiti Informacinės sistemos tvarkytojai  ir asmens duomenų tvarkytojai:
+11.1. Vyriausybės ekstremalių situacijų komisija;
+11.2. Valstybės ekstremaliųjų situacijų operacijų centras;
+11.3. Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos;
+11.4. Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos;
+11.5. Lietuvos Respublikos krašto apsaugos ministerija;
+11.6. Lietuvos Respublikos sveikatos apsaugos ministerija;
+11.7. Lietuvos Respublikos užsienio reikalų ministerija;
+11.8. Policijos departamentas prie Vidaus reikalų ministerijos;
+11.9. Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos;
+11.10. Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos;
+11.11. Nacionalinė visuomenės sveikatos priežiūros laboratorija;
+11.12. Lietuvos statistikos departamentas;
+11.13. Savivaldybių administracijos;
+11.14. VĮ Registrų centras.
+12. Informacinės sistemos valdytojas ir Informacinės sistemos tvarkytojai turi Įstatymo nustatytas teises ir pareigas, atlieka šio Įstatymo nustatytas funkcijas.
+13. Informacinės sistemos asmens duomenų valdytojas turi teises ir pareigas, nustatytas Reglamente (ES) 2016/679.
+14. Informacinės sistemos tvarkytojai:
+14.1. tvarko Informacinės sistemos duomenis (tarp jų – ir asmens duomenis) Informacinės sistemos duomenis valdytojo nustatyta tvarka;
+14.2. užtikrina, kad asmens duomenis tvarkyti įgalioti asmenys būtų įsipareigoję užtikrinti konfidencialumą arba jiems būtų taikomi atitinkamais teisės aktais nustatyti konfidencialumo reikalavimai;
+14.3. 	imasi visų priemonių, kurių reikalaujama pagal Reglamento (ES) 2016/679 32 straipsnį - techninėmis ir organizacinėmis priemonėmis užtikrina Informacinės sistemos saugą, Informacinės sistemos tvarkomų asmens duomenų konfidencialumą, vientisumą ir prieinamumą, apsaugą nuo netyčinio arba neteisėto sunaikinimo, praradimo, pakeitimo, atskleidimo be leidimo ar neteisėtos prieigos prie jų ir nuo bet kokio kito neteisėto tvarkymo, taip pat saugų duomenų perdavimą kompiuteriniais tinklais;
+14.4. atsižvelgdami į Informacinės sistemos duomenų tvarkymo pobūdį, padeda Informacinės sistemos asmens duomenų valdytojui, taikydamas tinkamas technines ir organizacines priemones, kiek tai įmanoma, įgyvendinti Informacinės sistemos asmens duomenų valdytojo prievolę atsakyti į prašymus pasinaudoti Reglamento (ES) 2016/679 III skyriuje nustatytomis duomenų subjektų teisėmis;
+14.5. Nuostatų nustatyta tvarka padeda Informacinės sistemos asmens duomenų valdytojui užtikrinti Reglamento 32–36 straipsniuose nustatytų prievolių laikymąsi, atsižvelgdamas į asmens duomenų tvarkymo pobūdį ir Informacinės sistemos asmens duomenų tvarkytojo turimą informaciją;
+14.6. baigus teikti su asmens duomenų tvarkymu susijusias paslaugas, ištrina visus asmens duomenis, išskyrus atvejus, kai teisės aktuose reikalaujama asmens duomenis saugoti;
+14.7. pateikia Informacinės sistemos asmens duomenų valdytojui visą informaciją, būtiną siekiant įrodyti, kad vykdomos Reglamento nustatytos prievolės, ir sudaro sąlygas bei padeda Informacinės sistemos asmens duomenų valdytojui arba kitam Informacinės sistemos asmens duomenų valdytojo įgaliotam auditoriui atlikti auditą, įskaitant patikrinimus. Nedelsdamas informuoja Informacinės sistemos asmens duomenų valdytoją, jei, jo nuomone, nurodymas pateikti informaciją pažeidžia Reglamentą ar kitas duomenų apsaugos nuostatas;
+14.8. Informacinės sistemos asmens duomenų tvarkytojas, nustatęs asmens duomenų saugumo pažeidimą, ne vėliau kaip per 24 valandas informuoja Informacinės sistemos asmens duomenų valdytoją apie įvykusius asmens duomenų saugumo pažeidimus – raštu ir (ar) el. paštu pateikia pranešimą pagal Reglamento 33 straipsnio 3 dalies reikalavimus. Asmens duomenų saugumo pažeidimai nagrinėjami vadovaujantis asmens duomenų valdytojo nustatyta pranešimų apie asmens duomenų saugumo pažeidimus teikimo ir nagrinėjimo tvarka.
+15.  Informacinės sistemos duomenų teikėjai: 
+15.1. Lietuvos Respublikos sveikatos apsaugos ministerija -  Elektroninė sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinė sistema (Registrų ir informacinių sistemų registro (toliau - RISR) kodas 2994), Visuomenės sveikatos priežiūros specialistų registras (RISR kodas 7789), Mirties atvejų ir jų priežasčių valstybės registras (RISR kodas 8879), Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registras (RISR kodas 1252),  Visuomenės sveikatos stebėsenos informacinė sistema (RISR kodas 6802), Visuomenės sveikatos saugos informacinė sistema (RISR kodas 0568), Vaikų sveikatos stebėsenos informacinė sistema (RISR kodas 0395)
+15.2. Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos teikia Privalomojo sveiktos draudimo informacinės sistemos „SVEIDRA“ duomenis (RISR kodas 5989), Detalios paciento lygio sąnaudų apskaitos informacinė sistema (RISR kodas 1079),  Eilių ir atsargų valdymo informacinė sistema (RISR kodas 6433),  Europos Sąjungos socialinės apsaugos duomenų mainų informacinė sistema (RISR kodas  2657), Lietuvos Respublikos draudžiamųjų privalomuoju sveikatos draudimu registras (RISR kodas 1109);  
+15.3. Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos - Policijos registruojamų įvykių registras (RISR kodas 7366); 
+15.4. Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos - Administracinių nusižengimų registras (RISR kodas 3963);  
+15.5. Valstybinė sienos apsaugos tarnyba teikia Valstybės sienos apsaugos informacinės sistemos duomenis (RISR kodas 9701);
+15.6. Informacinės visuomenės plėtros komitetas - Valstybės informacinių išteklių sąveikumo platforma (RISR kodas 8007), Tarpžinybinė mokestinių duomenų saugykla (RISR kodas 6463);
+15.7. Statistikos departamentas teikia – Integruota statistikos informacinės sistema (RISR kodas 3659);
+15.8. Sveikatos priežiūros institucijos teikia duomenis apie turimas apsaugos priemones;
+15.9. Savivaldybių administracijos teikia duomenis karantinui skirtas patalpas ir jų užimtumą;
+15.10. Nacionalinis visuomenės sveikatos centras teikia duomenis apie mėginių tyrimų laboratorijas.
+15.11. Užsienio reikalų ministerija teikia duomenis apie grįžti į Lietuvą užsiregistravusius asmenis. 
+16. Informacinės sistemos naudojai yra informacinės sistemos valdytojo ir Informacinės sistemos tvarkytojo valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis ir  pagal kompetenciją naudojantys ir (ar) tvarkantys Informacinės sistemos  duomenis, taip pat duomenų teikėjų darbuotojai įgalioti teikti duomenis į Informacinę sistemą.
+
+III SKYRIUS
+INFORMACINĖS SISTEMOS INFORMACINĖ STRUKTŪRA
+
+17. Informacinės sistemos struktūrą sudaro šios duomenų grupės:
+17.1 COVID-19 atvejų duomenys:
+17.1.1.Paciento asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis paštas ir kt.);
+17.1.2. Paciento užimtumas;
+17.1.3. Paciento būklės duomenys, susirgimai;
+17.1.4. Paciento sveikatos priežiūros įstaigos ar kitos gydymosi vietos duomenys;
+17.1.5. Paciento  gydymo eigos duomenys;
+17.1.6. Paciento asmens sveikatos priežiūros specialistų duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis parašas ir kt.).
+17.2. Atliktų tyrimų duomenys:
+17.2.1. Laboratorijos duomenys;
+17.2.2. Paimtų tepinėlių duomenys;
+17.2.3. Tyrimų rezultatų duomenys;
+17.2.4. Tiriamųjų asmenų asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis parašas ir kt.);
+17.2.5. Kiti tyrimo duomenys.
+17.2.6. Reagentų apyvartos duomenys.
+17.3. Karantinuojamų asmenų asmens duomenys:
+17.3.1. Atvykusių asmenų iš užsienio šalių  asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis paštas ir kt.);
+17.3.2. Asmenų esančių karantine asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis paštas ir kt.);
+17.3.3. Karantino laikotarpis;
+17.3.4. Karantino vieta;
+17.3.5. Karantino stebėjimo ir pažeidimų duomenys;
+17.3.6. Asmens,  stebinčio karantiną  asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis parašas ir kt.).
+17.4. Karantino patalpų duomenys:
+17.4.1. Karantino patalpų adresas;
+17.4.2. Karantino patalpų vietų skaičius ir išdėstymas;
+17.4.3. Karantino vietų užimtumo duomenys;
+17.5.  Apsaugos priemonių apyvartos duomenys:
+17.5.1. Sveikatos priežiūros įstaigos ar kitos institucijos duomenys;
+17.5.2. Apsauginiai kostiumai;
+17.5.3. Apsauginiai chalatai;
+17.5.4. Apsauginės kaukės;
+17.5.5. Respiratoriai;
+17.5.6. Vienkartinės pirštinės;
+17.5.7. Antbačiai;
+17.5.8. Kepuraitės;
+17.5.9. Kvėpavimo aparatai;
+17.5.10. Kraujo atsargų duomenys;
+17.5.11. Kitos apsaugos priemonės; 
+17.5.12. Apsaugos priemonių poreikio duomenys.
+17.6. Karantino sąlygų pažeidimų duomenys:
+17.6.1. Policijos fiksuoti karantino pažeidimai;
+17.6.2.  Kitų institucijų fiksuoti karantino pažeidimų duomenys;
+17.6.3. Pritaikytų sankcijų duomenys.
+17.7. Privalomojo sveikatos draudimo išlaidų duomenys;
+17.8. Užsiregistravusių grįžti į Lietuvą asmenų asmens duomenys (vardas pavardė, lytis, asmens kodas, gimimo vieta, adresas, telefonas, elektroninis parašas ir kt.).;
+17.9. Karantino poveikio verslo aplinkai duomenys.
+17.10. Valstybinės sienos kirtimo duomenys.
+18. Duomenų teikėjai nurodyti Nuostatų 15.1. - 15.7. punktuose duomenis teikia iš savo valdomų informacinių sistemų ir registrų.
+19. Duomenų teikėjai nurodyti Nuostatų 15.8. - 15.11. punktuose duomenis teikia tiesiogiai Informacinės sistemos priemonėmis.
+20. Už Nuostatų 17 punkte nurodytų duomenų, teikiamų į Informacinę sistemą, teisingumą, tikslumą ir pateikimą laiku įstatymų nustatyta tvarka atsako  duomenų teikėjo vadovas.
+
+IV SKYRIUS
+INFORMACINĖS SISTEMOS FUNKCINĖ STRUKTŪRA
+
+21. Informacinės sistemos funkcinę struktūrą sudaro:
+21.1. autentifikacijos posistemis, kurio funkcijos:
+21.1.1. vykdyti naudotojų prisijungimą prie Informacinės sistemos;
+21.1.2. autentifikuoti naudotojus;
+21.2. pranešimų posistemis, kurio funkcijos:
+21.2.1. siųsti priminimus ir pranešimus;
+21.2.2. informuoti apie gautus naujus ir patikslintus duomenis;
+21.3. sveikatos stebėsenos posistemis, kurio funkcijos:
+21.3.1. pateikti el. formas;
+21.3.2. sukaupti ir filtruoti duomenis;
+21.3.3. sisteminti ir filtruoti duomenis;
+21.4. duomenų rinkimo posistemis, kurio funkcijos:
+21.4.1. surinkti duomenis;
+21.4.2. vykdyti duomenų pateikimą;
+21.5. ataskaitų ir duomenų analizės posistemis:
+21.5.1. rodiklių valdymo modulis, kurio funkcijos:
+21.5.1.1. tvarkyti rodiklių sąrašus ir rodiklių parametrus;
+21.5.1.2. valdyti taisykles, kuriomis pagrįsti duomenų analizavimo įrankiai ir rezultatai;
+21.5.2. ataskaitų rengimo modulis, kurio funkcijos:
+21.5.2.1. formuoti sveikatos ir su ja susijusių duomenų ataskaitas;
+21.5.2.2. siųsti duomenų ataskaitas adresatams;
+21.5.3. pokyčių planavimo modulis, kurio funkcijos:
+21.5.3.1. kaupti sveikatos rodiklių rezultatus;
+21.5.3.2. prognozuoti rodiklių kitimą;
+21.5.4. analitikos modulis, kurio funkcijos:
+21.5.4.1. formuoti sveikatos rodiklius;
+21.5.4.2. valdyti el. pranešimus apie sveikatos rodiklių kitimą;
+21.5.4.3. atvaizduoti sveikatos rodiklius;
+21.5.4.4. atlikti duomenų analizę geografinės informacinės sistemos ir verslo analitikos sistemos (angl. business intelligence) įrankiais;
+21.6. duomenų atvaizdavimo posistemis, kurio funkcijos:
+21.6.1. formuoti statines ir „Ad-hoc“ ataskaitas;
+21.6.2. atvaizduoti sukauptus duomenis ir (ar) iš jų apskaičiuotus rodiklius įvairiomis formomis – lentelėmis, grafikais, žemėlapyje;
+21.6.3. vykdyti duomenų paiešką bei filtruoti duomenis;
+21.7. išorinio portalo turinio valdymo posistemis, kurio funkcijos:
+21.7.1. publikuoti informaciją;
+21.7.2. atlikti bendrines turinio valdymo funkcijas;
+21.8. administravimo posistemis, kurio funkcijos:
+21.8.1. saugoti ir kaupti informacinės sistemos atliktus veiksmus;
+21.8.2. tvarkyti klasifikatorius;
+21.9. duomenų mainų posistemis, kurio funkcijos:
+21.9.1. importuoti duomenis;
+21.9.2. eksportuoti duomenis;
+21.10. duomenų archyvavimo posistemis, kurio funkcijos:
+21.10.1. sudaryti statistinių duomenų archyvų bylas;
+21.10.2. saugoti statistinių duomenų archyvų bylas.
+
+V SKYRIUS
+INFORMACINĖS SISTEMOS DUOMENŲ TEIKIMAS IR NAUDOJIMAS
+
+22. Informacinės sistemos nuasmeninti apibendrinti duomenys yra vieši ir teikiami  institucijoms, kitiems juridiniams ir fiziniams asmenims. Informacinėje sistemoje tvarkomi asmens duomenys teikiami ir naudojami Reglamente (ES) 2016/679 nustatyta tvarka.
+23. Informacinės sistemos apibendrinti duomenys gali būti:
+23.1. pateikiami peržiūrėti leidžiamosios kreipties būdu internetu;
+23.2. perduodami automatiniu būdu;
+23.3. pateikiami raštu, paštu, elektroniniu paštu ar kitomis elektroninio komunikavimo priemonėmis.
+24. Informacinės sistemos duomenų gavėjai gautus duomenis ir informaciją gali naudoti tik tokiam tikslui, tokios apimties ir tokiu būdu, kaip nurodyta duomenų teikimo sutartyje arba prašyme. Informacinės sistemos duomenų gavėjas negali keisti iš Informacinės sistemos gautų duomenų ir informacijos ir juos naudodamas privalo nurodyti duomenų šaltinį.
+25. Informacinės sistemos duomenys Europos Sąjungos valstybių narių ir (arba) Europos ekonominės erdvės valstybių fiziniams, judriniams asmenims, juridinio statuso neturintiems subjektams, jų filialams ir atstovybėms teikiami vadovaujantis Įstatymu ir  Reglamentu (ES)2016/679.
+26. Kitų valstybių, išskyrus Europos Sąjungos valstybes nares ir Europos ekonominės erdvės valstybes, fiziniams, juridiniams asmenims, juridinio asmens statuso neturintiems subjektams, jų filialams ir atstovybėms duomenys teikiami, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams, Reglamentui (ES) 2016/679, tarptautinėms sutartims, Europos Sąjungos teisės aktams ir kitiems norminiams teisės aktams.
+27. Informacinės sistemos duomenis teikia pagrindinis Informacinės sistemos tvarkytojas. Duomenys teikiami tokio turinio ir tokios formos, kokie yra naudojami Informacinėje sistemoje, ir nereikalauja papildomo duomenų apdorojimo.
+28. Daugkartinio teikimo atveju Informacinės sistemos duomenys teikiami pagal pagrindinio Informacinės sistemos tvarkytojo ir duomenų gavėjo sudarytą duomenų teikimo sutartį.
+29. Vienkartinio teikimo atveju Informacinės sistemos duomenys teikiami pagal gavėjo prašymą pateiktą pagrindiniam Informacinės sistemos tvarkytojui. Prašyme turi būti nurodytas duomenų naudojimo tikslas, teikimo ir gavimo teisinis pagrindas, prašomų pateikti duomenų apimtis.
+30. Informacinės sistemos duomenys duomenų gavėjams teikiami neatlygintinai.
+31. Kai atsisakoma teikti Informacinės sistemos tvarkomus duomenis, asmeniui, pateikusiam prašymą juos gauti, pagrindinis Informacinės sistemos tvarkytojas praneša apie priimtą sprendimą atsisakyti tenkinti asmens prašymą ir suteikia informaciją apie tokio sprendimo apskundimo tvarką.
+32. Pagrindinio Informacinės sistemos tvarkytojo sprendimai atsisakyti teikti Informacinės sistemos duomenis gali būti skundžiami Lietuvos Respublikos teisės aktų nustatyta tvarka.
+33. Informacinės sistemos sudaryti dokumentų rinkiniai (COVID-19) stebėsenos statistinės ataskaitos) teikiami pakartotinai panaudoti bei publikuojami, vadovaujantis Teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 19–21 straipsnių nuostatomis.
+34. Duomenų gavėjai, duomenų subjektai, registro ar valstybės informacinės sistemos tvarkytojai, kiti asmenys turi teisę reikalauti ištaisyti netikslius duomenis. Gavęs šį reikalavimą, Informacinės sistemos tvarkytojas privalo per 5 darbo dienas nuo reikalavimo ir jame nurodytus faktus patvirtinančių dokumentų gavimo ištaisyti nurodytus netikslumus ir informuoti apie tai netikslius duomenis ištaisyti reikalavusį asmenį.
+
+VI SKYRIUS
+INFORMACINĖS SISTEMOS DUOMENŲ SAUGA
+
+35. Informacinės sistemos duomenų saugą reglamentuoja Informacinės sistemos valdytojo tvirtinami Informacinės sistemos duomenų saugos nuostatai ir kiti saugos politiką įgyvendinantys dokumentai, kurie rengiami, derinami ir tvirtinami Vyriausybės nustatyta tvarka. Siekiant užtikrinti Informacinės sistemos duomenų saugą, vadovaujamasi:
+35.1 Reglamentu (ES) 2016/679;
+35.2. Kibernetinio saugumo įstatymu;
+35.3. Bendrųjų elektroninės informacijos saugos reikalavimų aprašu, patvirtintu Lietuvos Respublikos Vyriausybės 2013 m. liepos 24 d. nutarimu Nr. 716 „Dėl Bendrųjų elektroninės informacijos saugos reikalavimų aprašo, Saugos dokumentų turinio gairių aprašo ir Elektroninės informacijos, sudarančios valstybės informacinius išteklius, svarbos įvertinimo ir valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairių aprašo patvirtinimo“;
+35.4. Organizacinių ir techninių kibernetinio saugumo reikalavimų, taikomų kibernetinio saugumo subjektams, aprašas, patvirtintas Lietuvos Respublikos Vyriausybės 2018 m. rugpjūčio 13 d. nutarimu Nr. 818 „Dėl Lietuvos Respublikos kibernetinio saugumo įstatymo įgyvendinimo“;
+35.5. Techniniais valstybės registrų (kadastrų), žinybinių registrų, valstybės informacinių sistemų ir kitų informacinių sistemų Bendrųjų elektroninės informacijos saugos reikalavimų aprašu, patvirtintu Lietuvos Respublikos Vyriausybės 2013 m. liepos 24 d. nutarimu Nr. 716 „Dėl Bendrųjų elektroninės informacijos saugos reikalavimų aprašo, Saugos dokumentų turinio gairių aprašo ir Elektroninės informacijos, sudarančios valstybės informacinius išteklius, svarbos įvertinimo ir valstybės informacinių sistemų, registrų ir kitų informacinių sistemų klasifikavimo gairių aprašo patvirtinimo“.
+36. Už Informacinės sistemos duomenų saugą atsako Informacinės sistemos valdytojas ir Informacinės sistemos tvarkytojai teisės aktų nustatyta tvarka.
+37. Asmens duomenų saugumas užtikrinamas vadovaujantis  Reglamentu (ES) 2016/679.
+38. Duomenys Informacinėje sistemoje saugomi 10 metų. Pasibaigus Informacinės sistemos duomenų saugojimo laikui, Informacinės sistemos duomenys yra perduodami Lietuvos vyriausiojo archyvaro tarnybai arba sunaikinami Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka. 
+39. Asmenys, kurie tvarko asmens duomenis, įpareigojami saugoti asmens duomenų paslaptį, jeigu šie asmens duomenys neskirti skelbti viešai. Ši pareiga galioja jiems pasitraukus iš valstybės tarnybos, perėjus dirbti į kitas pareigas, pasibaigus jų darbo ar sutartiniams santykiams.
+
+VII SKYRIUS
+INFORMACINĖS SISTEMOS FINANSAVIMAS
+
+40. Informacinės sistemos kūrimas ir plėtra finansuojami Lietuvos Respublikos valstybės biudžeto, įskaitant Europos Sąjungos fondus, lėšomis. Informacinės sistemos eksploatacija ir palaikymas finansuojami Lietuvos Respublikos valstybės biudžeto lėšomis bei gali būti apmokami iš kitų teisėtų finansavimo šaltinių.
+
+VIII SKYRIUS
+INFORMACINĖS SISTEMOS MODERNIZAVIMAS IR LIKVIDAVIMAS
+
+41. Informacinė sistema modernizuojama arba likviduojama Įstatymo ir Aprašo nustatyta tvarka.
+42. Likviduojamos Informacinės sistemos duomenys perduodami kitai informacinei sistemai, sunaikinami arba perduodami valstybės archyvams Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.  
+
+IX SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
+
+43. Asmenys, pažeidę Nuostatų ir kitų teisės aktų nuostatas, reglamentuojančias Informacinės sistemos veiklą, atsako įstatymų nustatyta tvarka.
+44. Duomenų subjekto teisių, susijusių su informavimu apie jo asmens duomenų tvarkymą, supažindinimu su tvarkomais savo asmens duomenimis ir reikalavimu ištaisyti, sunaikinti savo asmens duomenis arba sustabdyti, išskyrus saugojimą, savo asmens duomenų tvarkymo veiksmus, įtvirtintų Reglamente (ES) 2016/679, įgyvendinimo tvarką nustato Informacinės sistemos valdytojas.  
+
+___________________
+
+
+––––––––––––––––––––

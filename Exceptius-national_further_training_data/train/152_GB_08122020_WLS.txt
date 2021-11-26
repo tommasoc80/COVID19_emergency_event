@@ -1,0 +1,275 @@
+2020 No. 1487 (W. 317)
+AGRICULTURE, WALES
+
+FOOD, WALES
+
+The Official Feed and Food Controls (Miscellaneous Amendments) (Wales) Regulations 2020
+Made8 December 2020
+Laid before Senedd Cymru10 December 2020
+Coming into force31 December 2020
+The Welsh Ministers, in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972(1), make the following Regulations.
+
+The Welsh Ministers are designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures in respect of food (including drink) including the primary production of food and measures relating to feed produced for or fed to food-producing animals(2), measures in the veterinary and phytosanitary fields for the protection of public health(3), and measures in relation to the common agricultural policy of the European Union(4).
+
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for references to EU instruments inserted into the statutory instruments amended by these Regulations to be construed as a references to those EU instruments as amended from time to time.
+
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(5).
+
+Title and commencement
+1.—(1) The title of these Regulations is The Official Feed and Food Controls (Miscellaneous Amendments) (Wales) Regulations 2020.
+
+(2) These Regulations come into force on 31 December 2020.
+
+The Food Hygiene (Wales) Regulations 2006
+2.—(1) The Food Hygiene (Wales) Regulations 2006(6) are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+(a)in paragraph (1)—
+(i)in the definition of “the Community Regulations” (“Rheoliadau’r Gymuned”), for “, Regulation 2017/625 and the Regulation 2017/625 package” substitute “and the Regulation 2017/625 package”;
+(ii)omit the definition that begins “Directive 2004/41”;
+(iii)for the definition of “the Regulation 2017/625 package” substitute—““the Regulation 2017/625 package” (“pecyn Rheoliad 2017/625”) means Regulation 2017/625 and the other Regulations listed in Schedule 1 below the heading “The Regulation 2017/625 package”;”
+(b)after paragraph (1) insert—
+“(1A) Any reference in these Regulations to Regulation 2017/625 or any other Directive or Regulation referred to in Schedule 1 have the meanings respectively given to them in that Schedule.”
+
+(3) For Schedule 1 (definitions of EU legislation) substitute the Schedule set out in Schedule 1 to these Regulations.
+
+The Official Feed and Food Controls (Wales) Regulations 2009
+3.—(1) The Official Feed and Food Controls (Wales) Regulations 2009(7) are amended as follows.
+
+(2) In regulation 2 (interpretation)—
+
+(a)in paragraph (1)—
+(i)omit the definition that begins “Decision 2007/275”;
+(ii)in the definition of “the Official Control Regulations”, for “Regulation 2017/625 or the Regulation 2017/625 package” substitute “the Regulation 2017/625 package”;
+(iii)for the definition of “the Regulation 2017/625 package” substitute—““the Regulation 2017/625 package” (“pecyn Rheoliad 2017/625”) means Regulation 2017/625 and the other Regulations listed in Schedule 1 below the heading “The Regulation 2017/265 package”;”;
+(b)after paragraph (1), insert—
+“(1A) Any reference in these Regulations to Regulation 2017/625 or any other Directive or Regulation referred to in Schedule 1 have the meanings respectively given to them in that Schedule.”
+
+(c)for paragraph (3) substitute—
+“(3) Unless the contrary intention appears, any expression used both in these Regulations and in Regulation 178/2002 or in the Regulation 2017/625 package has the meaning it bears in Regulation 178/2002 or in the Regulation 2017/625 package as the case may be.”
+
+(3) In regulation 22 (interpretation of Part 3)—
+
+(a)for the definition of “product” substitute—““product” (“cynnyrch”) means feed and food of non-animal origin whose import is regulated by Article 44 or Article 47(1)(d), (e) or (f) of Regulation 2017/625 and includes composite products and foodstuffs which are not listed in Commission Decision 2007/275/EC concerning lists of composite products to be subject to controls at border control posts(8);”;
+(b)in the definition of “specified import provision”, for “Regulation 2017/625 or the Regulation 2017/625 package” substitute “the Regulation 2017/625 package”.
+(4) In regulation 29 (checks on products), for “and 45(1), (2) and (4)”, in each place it occurs, substitute “, 45(1), (2) and (4), and 49(1)”.
+
+(5) In regulation 36(2) (costs and fees) after “as referred to in”, insert “Article 79(2)(a) and”.
+
+(6) In regulation 41(1A) (offences and penalties), for the words from “Article 3” to “production of sprouts”, substitute “Article 13 of Regulation 2019/625, in so far as it applies to sprouts and seeds intended for the production of sprouts, as read with Article 27 of Regulation 2019/628”.
+
+(7) In Part 4 (recovery of expenses), at the appropriate place insert—
+
+“Fees or charges arising from unplanned official controls
+42A.  Fees or charges imposed by a competent authority on an operator pursuant to article 79(2)(c) of Regulation 2017/625 must be paid by the operator on the written demand of the competent authority.”
+
+(8) For Schedule 1 (definitions of EU legislation) substitute the Schedule set out in Schedule 2 to these Regulations.
+
+(9) For Schedule 4 (competent authorities for the purposes of certain provisions of Regulation 2017/625 in so far as they apply in relation to relevant feed law) substitute the Schedule set out in Schedule 3 to these Regulations.
+
+(10) For Schedule 5 (competent authorities for the purposes of certain provisions of Regulation 2017/625 in so far as they apply in relation to relevant food law) substitute the Schedule set out in Schedule 4 to these Regulations.
+
+(11) For Schedule 6 (specified import provisions) substitute the Schedule set out in Schedule 5 to these Regulations.
+
+The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016
+4.—(1) The Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016(9) are amended as follows.
+
+(2) In regulation 2 (interpretation and scope)—
+
+(a)in paragraph (1)
+(i)omit the definition of “Regulation 882/2004”;
+(ii)at the appropriate places, insert the following definitions—““Regulation 2017/625” (“Rheoliad 2017/625”) means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products (10);”““Regulation 2019/1793” (“Rheoliad 2019/1793”) means Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries (11);”
+(b)in paragraph (2), for “Regulation 882/2004, Regulation 183/2005 or Regulation 152/2009”, substitute “Regulation 183/2005, Regulation 152/2009 and Regulation 2017/625”.
+(3) In regulation 19 (analysis other than in the course of official controls), for paragraph (2) substitute—
+
+“(2) In cases where there is no appropriate method of analysis in Regulation 152/2009, the analysis must be carried out in the manner referred to in Article 34(1) and (2) of Regulation 2017/625 as read with Regulation 2019/1793.”
+
+(4) In Schedule 1 (specified feed law), in the table—
+
+(a)omit the entries for Regulation 882/2004 and for Commission Regulation (EC) No 669/2009;
+(b)at the appropriate place, insert the following entries—
+“Regulation 2017/625 in so far as it relates to feed”
+“Regulation 2019/1793 in so far as it relates to feed”.
+Eluned MorganMinister for Mental Health, Wellbeing and Welsh Language, one of the Welsh Ministers
+8 December 2020
+
+Regulation 2(3)
+SCHEDULE 1
+Schedule to be substituted for Schedule 1 to the Food Hygiene (Wales) Regulations 2006
+Regulation 2(1A)
+“SCHEDULE 1
+DEFINITIONS OF LEGISLATION
+“Directive 2004/41” means Directive 2004/41/EC of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives 89/662/EEC and 92/118/EEC and Council Decision 95/408/EC(12);“Regulation 178/2002” means Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(13), as read with Regulation 931/2011, and Regulation 208/2013;“Regulation 852/2004” means Regulation (EC) No. 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs(14) as read with Regulation 2073/2005 and Regulation 210/2013;“Regulation 853/2004” means Regulation (EC) No. 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin(15) as read with Directive 2004/41, Regulation 1688/2005, Regulation 2074/2005 and Regulation 2017/185;“Regulation 1688/2005” means Commission Regulation (EC) No. 1688/2005 implementing Regulation (EC) No. 853/2004 of the European Parliament and of the Council as regards special guarantees concerning salmonella for consignments to Finland and Sweden of certain meat and eggs(16);“Regulation 2073/2005” means Commission Regulation (EC) No. 2073/2005 on microbiological criteria for foodstuffs(17);“Regulation 2074/2005” means Commission Regulation (EC) No. 2074/2005 laying down implementing measures for certain products under Regulation (EC) No. 853/2004 of the European Parliament and of the Council and for the organisation of official controls under Regulation (EC) No. 854/2004 of the European Parliament and of the Council and Regulation (EC) No. 882/2004 of the European Parliament and of the Council, derogating from Regulation (EC) No. 852/2004 of the European Parliament and of the Council and amending Regulations (EC) No. 853/2004 and (EC) No. 854/2004(18);“Regulation 931/2011” means Commission Implementing Regulation (EU) No. 931/2011 on the traceability requirements set by Regulation (EC) No. 178/2002 of the European Parliament and of the Council for food of animal origin(19);“Regulation 1169/2011” means Regulation (EU) No. 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations (EC) No. 1924/2006 and (EC) No. 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No. 608/2004(20);“Regulation 208/2013” means Commission Implementing Regulation (EU) No. 208/2013 on traceability requirements for sprouts and seeds intended for the production of sprouts(21);“Regulation 210/2013” means Commission Regulation (EU) No. 210/2013 on the approval of establishments producing sprouts pursuant to Regulation (EC) No. 852/2004 of the European Parliament and of the Council(22);“Regulation 579/2014” means Commission Regulation (EU) No. 579/2014 granting derogation from certain provisions of Annex II to Regulation (EC) No. 852/2004 of the European Parliament and of the Council as regards the transport of liquid oils and fats by sea(23);“Regulation 2015/1375” means Commission Implementing Regulation (EU) 2015/1375 laying down specific rules on official controls for Trichinella in meat(24);“Regulation 2017/185” means Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations (EC) No. 853/2004 and (EC) No. 854/2004 of the European Parliament and of the Council(25);
+The Regulation 2017/625 package
+
+“Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No. 999/2001, (EC) No. 396/2005, (EC) No. 1069/2009, (EC) No. 1107/2009, (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No. 1/2005 and (EC) No. 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No. 854/2004 and (EC) No. 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC(26) as read with Regulation 2074/2005, Regulation 2017/185 and the Regulation 2017/625 package;“Regulation 2019/478” means Commission Delegated Regulation (EU) 2019/478 amending Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the categories of consignments to be subjected to official controls at border control posts(27);“Regulation 2019/624” means Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council(28);“Regulation 2019/625” means Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption(29);“Regulation 2019/626” means Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists(30);“Regulation 2019/627” means Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation (EC) No. 2074/2005 as regards official controls(31);“Regulation 2019/628” means Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation (EC) No. 2074/2005 and Implementing Regulation (EU) 2016/759 as regards these model certificates(32);“Regulation 2019/1012” means Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts(33);“Regulation 2019/1013” means Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union(34);“Regulation 2019/1014” means Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points(35);“Regulation 2019/1081” means Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border control posts(36);“Regulation 2019/1602” means Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination(37);“Regulation 2019/1666” means Commission Delegated Regulation (EU) 2019/1666 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union(38);“Regulation 2019/1715” means Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components(39);“Regulation 2019/1793” means Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and (EC) No. 178/2002 of the European Parliament and of the Council and repealing Commission Regulations (EC) No. 669/2009, (EU) No. 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660(40);“Regulation 2019/1873” means Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products(41).“Regulation 2019/2007” means Commission Implementing Regulation (EU) 2019/2007 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the lists of animals, products of animal origin, germinal products, animal by-products and derived products and hay and straw subject to official controls at border control posts and amending Decision 2007/275/EC(42);“Regulation 2019/2074” means Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country(43);“Regulation 2019/2122” means Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No. 142/2011(44);“Regulation 2019/2123” means Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts(45);“Regulation 2019/2124” means Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No. 798/2008, (EC) No. 1251/2008, (EC) No. 119/2009, (EU) No. 206/2010, (EU) No. 605/2010, (EU) No. 142/2011, (EU) No. 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC(46);“Regulation 2019/2126” means Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts(47);“Regulation 2019/2129” means Commission Implementing Regulation (EU) 2019/2129 establishing rules for the uniform application of frequency rates for identity checks and physical checks on certain consignments of animals and goods entering the Union(48);“Regulation 2019/2130” means Commission Implementing Regulation (EU) 2019/2130 establishing detailed rules on the operations to be carried out during and after documentary checks, identity checks and physical checks on animals and goods subject to official controls at border control posts(49);“Regulation 2020/466” means Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States’ control systems due to coronavirus disease(50);“Regulation 2020/1158” means Commission Implementing Regulation (EU) 2020/1158 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station(51).”
+Regulation 3(8)
+SCHEDULE 2
+Schedule to be substituted for Schedule 1 to the Official Feed and Food Controls (Wales) Regulations 2009
+Regulation 2(1A)
+“SCHEDULE 1
+DEFINITIONS OF LEGISLATION
+“Directive 2004/41” means Directive 2004/41/EC of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives 89/662/EEC and 92/118/EEC and Council Decision 95/408/EC(52);“Regulation 999/2001” means Regulation (EC) No. 999/2001 of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies(53);“Regulation 178/2002” means Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety(54);“Regulation 852/2004” means Regulation (EC) No. 852/2004 of the European Parliament and of the Council on the hygiene of foodstuffs(55) as read with Regulation 2073/2005;“Regulation 853/2004” means Regulation (EC) No. 853/2004 of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin(56) as read with Directive 2004/41, Regulation 1688/2005 and Regulation 2074/2005 and Regulation 2017/185;“Regulation 1688/2005” means Commission Regulation (EC) No. 1688/2005 implementing Regulation (EC) No. 853/2004 of the European Parliament and of the Council as regards special guarantees concerning salmonella for consignments to Finland and Sweden of certain meat and eggs(57);“Regulation 2073/2005” means Commission Regulation (EC) No. 2073/2005 on microbiological criteria for foodstuffs(58);“Regulation 2074/2005” means Commission Regulation (EC) No. 2074/2005 laying down implementing measures for certain products under Regulation (EC) No. 853/2004 of the European Parliament and of the Council and for the organisation of official controls under Regulation (EC) No. 854/2004 of the European Parliament and of the Council and Regulation (EC) No. 882/2004 of the European Parliament and of the Council, derogating from Regulation (EC) No. 852/2004 of the European Parliament and of the Council and amending Regulations (EC) No. 853/2004 and (EC) No. 854/2004(59);“Regulation 2017/185” means Commission Regulation (EU) 2017/185 laying down transitional measures for the application of certain provisions of Regulations (EC) No 853/2004 and (EC) No 854/2004 of the European Parliament and of the Council(60);
+The Regulation 2017/625 package
+
+“Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No. 999/2001, (EC) No. 396/2005, (EC) No. 1069/2009, (EC) No. 1107/2009, (EU) No. 1151/2012, (EU) No. 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No. 1/2005 and (EC) No. 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No. 854/2004 and (EC) No. 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC(61) as read with Regulation 2074/2005, Regulation 2017/185 and the Regulation 2017/625 package;“Regulation 2019/478” means Commission Delegated Regulation (EU) 2019/478 amending Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the categories of consignments to be subjected to official controls at border control posts(62);“Regulation 2019/624” means Commission Delegated Regulation (EU) 2019/624 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council(63);“Regulation 2019/625” means Commission Delegated Regulation (EU) 2019/625 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council with regard to requirements for the entry into the Union of consignments of certain animals and goods intended for human consumption(64);“Regulation 2019/626” means Commission Implementing Regulation (EU) 2019/626 concerning lists of third countries or regions thereof authorised for the entry into the European Union of certain animals and goods intended for human consumption, amending Implementing Regulation (EU) 2016/759 as regards these lists(65);“Regulation 2019/627” means Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation (EC) No. 2074/2005 as regards official controls(66);“Regulation 2019/628” means Commission Implementing Regulation (EU) 2019/628 concerning model official certificates for certain animals and goods and amending Regulation (EC) No. 2074/2005 and Implementing Regulation (EU) 2016/759 as regards these model certificates(67);“Regulation 2019/1012” means Commission Delegated Regulation (EU) 2019/1012 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council by derogating from the rules on the designation of control points and from the minimum requirements for border control posts(68);“Regulation 2019/1013” means Commission Implementing Regulation (EU) 2019/1013 on prior notification of consignments of certain categories of animals and goods entering the Union(69);“Regulation 2019/1014” means Commission Implementing Regulation (EU) 2019/1014 to lay down detailed rules on minimum requirements for border control posts, including inspection centres, and for the format, categories and abbreviations to use for listing border control posts and control points(70);“Regulation 2019/1081” means Commission Delegated Regulation (EU) 2019/1081 establishing rules on specific training requirements for staff for performing certain physical checks at border control posts(71);“Regulation 2019/1602” means Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination(72);“Regulation 2019/1666” means Commission Delegated Regulation (EU) 2019/1666 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards conditions for monitoring the transport and arrival of consignments of certain goods from the border control post of arrival to the establishment at the place of destination in the Union(73);“Regulation 2019/1715” means Commission Implementing Regulation (EU) 2019/1715 laying down rules for the functioning of the information management system for official controls and its system components(74);“Regulation 2019/1793” means Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and (EC) No. 178/2002 of the European Parliament and of the Council and repealing Commission Regulations (EC) No. 669/2009, (EU) No. 884/2014, (EU) 2015/175, (EU) 2017/186 and (EU) 2018/1660(75);“Regulation 2019/1873” means Commission Implementing Regulation (EU) 2019/1873 on the procedures at border control posts for a coordinated performance by competent authorities of intensified official controls on products of animal origin, germinal products, animal by-products and composite products(76);“Regulation 2019/2007” means Commission Implementing Regulation (EU) 2019/2007 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the lists of animals, products of animal origin, germinal products, animal by-products and derived products and hay and straw subject to official controls at border control posts and amending Decision 2007/275/EC(77);“Regulation 2019/2074” means Commission Delegated Regulation (EU) 2019/2074 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country(78);“Regulation 2019/2122” means Commission Delegated Regulation (EU) 2019/2122 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No. 142/2011(79);“Regulation 2019/2123” means Commission Delegated Regulation (EU) 2019/2123 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for the cases where and the conditions under which identity checks and physical checks on certain goods may be performed at control points and documentary checks may be performed at distance from border control posts(80);“Regulation 2019/2124” means Commission Delegated Regulation (EU) 2019/2124 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for official controls of consignments of animals and goods in transit, transhipment and onward transportation through the Union, and amending Commission Regulations (EC) No. 798/2008, (EC) No. 1251/2008, (EC) No. 119/2009, (EU) No. 206/2010, (EU) No. 605/2010, (EU) No. 142/2011, (EU) No. 28/2012, Commission Implementing Regulation (EU) 2016/759 and Commission Decision 2007/777/EC(81);“Regulation 2019/2126” means Commission Delegated Regulation (EU) 2019/2126 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules for specific official controls for certain categories of animals and goods, measures to be taken following the performance of such controls and certain categories of animals and goods exempted from official controls at border control posts(82);“Regulation 2019/2129” means Commission Implementing Regulation (EU) 2019/2129 establishing rules for the uniform application of frequency rates for identity checks and physical checks on certain consignments of animals and goods entering the Union(83);“Regulation 2019/2130” means Commission Implementing Regulation (EU) 2019/2130 establishing detailed rules on the operations to be carried out during and after documentary checks, identity checks and physical checks on animals and goods subject to official controls at border control posts(84);“Regulation 2020/466” means Commission Implementing Regulation (EU) 2020/466 on temporary measures to contain risks to human, animal and plant health and animal welfare during certain serious disruptions of Member States’ control systems due to coronavirus disease(85);“Regulation 2020/1158” means Commission Implementing Regulation (EU) 2020/1158 on the conditions governing imports of food and feed originating in third countries following the accident at the Chernobyl nuclear power station(86).”
+Regulation 3(9)
+SCHEDULE 3
+Schedule to be substituted for Schedule 4 to the Official Feed and Food Controls (Wales) Regulations 2009
+Regulation 3(1)
+“SCHEDULE 4
+COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 2017/625 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FEED LAW
+Column 1	Column 2
+Competent Authority	Provisions of Regulation 2017/625
+The Agency	Articles 4, 5(1), (4) and (5), 6, 7, 8, 11, 12, 15, 28, 29, 30, 31, 32, 33, 35, 37, 38, 39, 40, 42, 63(4)(a), 65(5), 66(6), 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 87, 88, 89, 91, 93, 96, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 124, 130, 135, 137, 138, 140.
+The feed authority	Articles 4, 5(1), (4) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 26, 28, 29, 30, 31, 32, 33, 35, 36, 38, 44, 45, 46, 47, 49, 50, 55, 56, 57, 63, 65(1), (2), (3), (4) and (5), 66, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 96, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 130, 135, 137, 138, 140.”
+Regulation 3(10)
+SCHEDULE 4
+Schedule to be substituted for Schedule 5 to the Official Feed and Food Controls (Wales) Regulations 2009
+Regulation 3(3)
+“SCHEDULE 5
+COMPETENT AUTHORITIES FOR THE PURPOSES OF CERTAIN PROVISIONS OF REGULATION 2017/625 IN SO FAR AS THEY APPLY IN RELATION TO RELEVANT FOOD LAW
+Column 1	Column 2
+Competent Authority	Provisions of Regulation 2017/625
+The Agency	Articles 4, 5(1), (4) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 18, 21, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39, 40, 42, 44, 45, 46, 47, 49, 50, 55, 56, 57(3), 63(4)(a), 65(5), 66(6), 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 93, 96, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 124, 130, 132, 133, 135, 137, 138, 140, 148, 150.
+The food authority	Articles 4(2), 5(1), (4) and (5), 6, 7, 8, 9, 10, 11, 12, 13, 15, 18, 21, 26, 28, 29, 30, 31, 32, 33, 35, 36, 38, 44, 45, 46, 47, 49, 50, 55, 56, 57, 63, 65(1), (2), (3), (4) and (5), 66, 67, 68, 69, 71, 72, 73, 75, 76, 78, 79, 81, 82, 83, 84, 85, 86, 87, 88, 89, 91, 96, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 130, 132, 133, 135, 137, 138, 140, 148, 150.”
+Regulation 3(11)
+SCHEDULE 5
+Schedule to be substituted for Schedule 6 to the Official Feed and Food Controls (Wales) Regulations 2009
+Regulations 22 and 41(1)(a)
+“SCHEDULE 6
+SPECIFIED IMPORT PROVISIONS
+Column 1	Column 2
+Provision of EU legislation	Subject matter
+Article 69(1) of Regulation 2017/625	Requirement that the operator responsible for the consignment is to carry out all the measures ordered by the competent authorities.
+Article 1 of Regulation 2019/1013	Requirement that the operator responsible for a consignment give prior notification to the competent authority of the border control post, at least one working day before the expected arrival of the consignment.
+Article 3 of Regulation 2019/1602	Requirement that a Common Health Entry Document (CHED) is to accompany each consignment irrespective of whether or not it is split at the border control post or subsequent to leaving the border control post.
+Article 4(a) of Regulation 2019/1602	Requirement that where a consignment is not split before being released for free circulation, the operator responsible for the consignment is to ensure that a copy of the CHED accompanies the consignment to the place of destination and until it is released into free circulation.
+Article 4(b) of Regulation 2019/1602	Requirement that where a consignment is not split before being released for free circulation, the operator responsible for the consignment is to indicate the reference number of the CHED in the customs declaration lodged with the customs authorities and is to keep a copy of the CHED at the disposal of the customs authorities.
+Article 5(1)(a) of Regulation 2019/1602	Requirement that where a consignment is to be split at the border control post, when giving prior notification, the operator responsible for the consignment is to declare the border control post as the place of destination in the CHED for the entire consignment.
+Article 5(1)(b) of Regulation 2019/1602	Requirement that where a consignment is to be split at the border control post, upon finalisation of the CHED for the entire consignment, the operator responsible for the consignment is to request that the consignment be split and is to submit, through the IMSOC, a CHED for each part of the split consignment and make a declaration.
+Article 5(1)(d) of Regulation 2019/1602	Requirement that where a consignment is to be split at the border control post, the operator responsible for the consignment is to ensure that a copy of the CHED for each part of the split consignment accompanies the relevant part to the place of destination and until it is released into free circulation.
+Article 5(1)(e) of Regulation 2019/1602	Requirement that where a consignment is to be split at the border control post, the operator responsible for the consignment is to indicate the reference number of the CHED for each part of the split consignment in the customs declaration lodged with the customs authorities and is to keep a copy of that CHED at the disposal of the customs authorities.
+Article 5(2)(a) of Regulation 2019/1602	Requirement that where a non-compliant consignment is to be split at the border control post, upon finalisation of the CHED for the entire consignment, the operator responsible for the consignment is to submit a CHED for each part of the split consignment and make a declaration.
+Article 6(a) of Regulation 2019/1602	Requirement that where a consignment is to be split after leaving the border control post and before being released for free circulation, the operator responsible for the consignment is to ensure that a copy of the CHED accompanies each part of the split consignment until it is released for free circulation.
+Article 6(b) of Regulation 2019/1602	Requirement that where a consignment is to be split after leaving the border control post and before being released for free circulation, the operator responsible for the consignment is to indicate the reference number of the CHED for each part of the split consignment in the customs declaration lodged with the customs authorities and is to keep a copy of that CHED at the disposal of the customs authorities.
+Article 3(1) of Regulation 2019/1666	Requirement that the operator responsible for the consignment is to, within one day upon arrival of the consignment, inform the competent authority responsible for performing the official controls at the establishment at the place of destination of the arrival of the consignment.
+Article 6(1) of Regulation 2019/2123	Requirement that after the competent authorities of the border control post have authorised or decided on the transfer of the consignment to the control point indicated in the CHED, the operator responsible for the consignment shall not present the consignment for identity and physical checks to a control point different from the one indicated in the CHED, unless the competent authorities of the border control post authorise the transfer of the consignment to another control point in accordance with point (a) of Article 3(1) and point (a) of Article 4(2).
+Article 6(4) of Regulation 2019/2123	Requirement that the operator shall provide the reference number of the finalised CHED referred to in Article 6(3) in the customs declaration which is lodged for the consignment with the customs authorities and shall keep a copy of that CHED at the disposal of the customs authorities.
+Article 6(1) of Regulation 2019/2124	Requirement that the operator responsible for the consignments authorised for onward transportation in accordance with Article 4 ensures that: (a) during transport to, and storage at, the onward transportation facility, the consignment is not tampered with in any manner; (b) the consignment is not subject to any alteration, processing, substitution or change of packaging; (c) the consignment does not leave the onward transportation facility pending the decision on the consignment being taken by the competent authorities of the border control post in accordance with Article 55 of Regulation 2017/625.
+Article 6(2) of Regulation 2019/2124	Requirement that the operator responsible for the consignment shall transport the consignment under customs supervision directly from the border control post to the onward transportation facility, without the goods being unloaded during transport, and shall store it in the onward transportation facility.
+Article 6(4) of Regulation 2019/2124	Requirement that the operator responsible for the consignment shall ensure that a copy, on paper or in electronic form, of the CHED referred to in Article 3 accompanies the consignment from the border control post to the onward transportation facility.
+Article 6(5) of Regulation 2019/2124	Requirement that the operator responsible for the consignment notifies the competent authorities at the place of final destination of the arrival of consignment at the onward transportation facility.
+Article 6(6) of Regulation 2019/2124	Requirement that after the competent authorities of the border control post have authorised the onward transportation of the consignment to the onward transportation facility, the operator responsible for the consignment shall not transport the consignment to a onward transportation facility that is different from the one indicated in the CHED, unless the competent authorities of the border control post authorise the change in accordance with Article 4 and provided that the conditions laid down in paragraphs 1 to 5 of Article 6 are complied with.”
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+
+These Regulations make amendments to legislation in the field of feed and food safety and hygiene to provide for the implementation and enforcement of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+
+Regulation 2 replaces and updates the list of EU Regulations set out in Schedule 1 to the Food Hygiene (Wales) Regulations 2006 (S.I. 2006/31 (W. 5)), and makes consequential amendments as a result of the updated list.
+
+Regulation 3 amends the Official Feed and Food Controls (Wales) Regulations 2009 (S.I. 2009/3376 (W. 298)).
+
+Paragraphs (2) and (8) replace and update the list of EU regulations set out in Schedule 1 to those Regulations, and make incidental and consequential amendments as a result of the updated list.
+
+Paragraph (3) substitutes a revised definition of “product” in regulation 22. Paragraph (4), makes a consequential amendment as a result of the revised definition.
+
+Paragraph (5) amends regulation 36 to make provision for the payment of costs of official controls under Article 79(2)(a) of Regulation 2017/625 in respect of Part 3. Paragraph (7) inserts a new regulation 42A into Part 4 that makes provision for the payment of costs of official controls under Article 79(2)(c) of Regulation 2017/625.
+
+Paragraph (6) amends regulation 41(1A) to replace the reference to Article 3 of Regulation (EU) No. 211/2013, which has been repealed and replaced by Regulations (EU) 2019/625 and 2019/628 (part of the package of Regulations made under Regulation (EU) 2017/625).
+
+Paragraphs (9) and (10) substitute new Schedules 4 and 5 respectively to correct errors in the existing Schedules.
+
+Paragraph (11) substitutes a new Schedule 6 to update the list of ‘specified import provisions’.
+
+Regulation 4 updates references to EU instruments in the Animal Feed (Hygiene, Sampling etc. and Enforcement) (Wales) Regulations 2016 (S.I. 2016/387 (W. 121)). In particular, it replaces references to Regulation (EC) No. 882/2004 and Regulation (EC) No. 669/2009, which have respectively been repealed and replaced by Regulation (EU) 2017/625 and Regulation (EU) 2019/1793.
+
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to these Regulations. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with these Regulations.
+
+(1)1972 c. 68. The European Communities Act 1972 (“the 1972 Act”) was repealed by section 1 of the European Union (Withdrawal) Act 2018 (c. 16) (“the 2018 Act”) with effect from exit day. “Exit day” is defined in section 20 of the 2018 Act as 31 January 2020 at 11pm. Despite that repeal the 1972 Act continues to have effect with modifications until IP completion day, by virtue of section 1A of the 2018 Act. Section 1A was inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1) (“the 2020 Act”). “IP completion day” is defined in section 1A by reference to the meaning given in section 39 of the 2020 Act (31 December 2020 at 11pm). Section 2(2) of the 1972 Act was also previously amended by section 27(1) of the Legislative and Regulatory Reform Act 2006 (c. 51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008 (c. 7). Paragraph 1A of Schedule 2 to the 1972 Act was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and S.I. 2007/1388.
+(2)S.I. 2005/1971, amended by S.I. 2005/2766. The functions conferred on the National Assembly for Wales by this designation are transferred to the Welsh Ministers by virtue of section 162 of, and paragraphs 28 and 30 of Schedule 11 to, the Government of Wales Act 2006 (c. 32). The designation does not extend to measures concerning feed containing medicinal products (including growth regulators) or medicinal products when destined for use in feed except stabilisers, or substances which favourably affect the environment. S.I. 2005/1971 is prospectively revoked by S.I. 2018/1011 from implementation period completion day.
+(3)S.I. 2008/1792, which is prospectively revoked by S.I. 2018/1011 from implementation period completion day.
+(4)S.I. 2010/2690. The designation does not extend to making provision in respect of feed that contains medicinal products destined for use in feed, except provision concerning substances that favourably affect the environment, digestibility enhancers, or gut flora stabilisers. S.I. 2010/2690 is prospectively revoked by S.I. 2018/1011 from implementation period completion day.
+(5)OJ No. L 31, 1.2.2002, p. 1, as last amended by Regulation (EU) 2019/1243 of the European Parliament and of the Council (OJ No. L 198, 25.7.2019, p. 241).
+(6)S.I. 2006/31 (W. 5), amended by S.I. 2019/1482; there are other amending instruments but none is relevant to these Regulations.
+(7)S.I. 2009/3376 (W. 298), amended by S.I. 2011/1043, 2019/1482 (W. 266); there are other amending instruments but none is relevant to these Regulations.
+(8)OJ No. L 116, 4.5.2007, p. 9, as last amended by Commission Implementing Regulation (EU) 2019/2007 of 18 November 2019 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the lists of animals, products of animal origin, germinal products, animal by-products and derived products and hay and straw subject to official controls at border control posts (OJ No. L 312, 3.12.19, p. 1).
+(9)S.I. 2016/387 (W. 121), amended by S.I. 2018/40 (W. 12), 2018/806 (W. 162) and 2019/1482 (W. 266).
+(10)OJ No. L 95, 7.4.2017, p. 1, as last amended by Commission Delegated Regulation (EU) 2019/2127 of 10 October 2019 amending Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the date of application of certain provisions of Council Directives 91/496/EEC, 97/78/EC and 2000/29/EC (OJ No. L 321, 12.12.2019, p.111).
+(11)OJ L 277, 29.10.2019, p. 89, as last amended by Commission Implementing Regulation (EU) 2020/1540 of 22 October 2020 in relation to sesamum seeds originating in India. (OJ No. L 353, 23.10.20, p. 4).
+(12)OJ No. L 157, 30.4.2004, p. 33. The revised text of Directive 2004/41/EC is now set out in a Corrigendum (OJ No. L 195, 2.6.2004, p. 12).
+(13)OJ No. L 31, 1.2.2002, p. 1.
+(14)OJ No. L 139, 30.4.2004, p. 1. The revised text of Regulation (EC) No. 852/2004 is now set out in a Corrigendum (OJ No. L 226, 25.6.2004, p. 3) which should be read with a further Corrigendum (OJ No. L 204, 4.8.2007, p. 26).
+(15)OJ No. L 139, 30.4.2004, p. 55. The revised text of Regulation (EC) No. 853/2004 is now set out in a Corrigendum (OJ No. L 226, 25.6.2004, p. 22) which should be read with a further Corrigendum (OJ No. L 204, 4.8.2007, p. 26).
+(16)OJ No. L 271, 15.10.2005, p. 17.
+(17)OJ No. L 338, 22.12.2005, p. 1, as read with the Corrigenda at OJ No. L 278, 10.10.2006, p. 32 and OJ No. L 283, 14.10.2006, p. 62.
+(18)OJ No. L 338, 22.12.2005, p. 27.
+(19)OJ No. L 242, 20.9.2011, p. 2.
+(20)OJ No. L 304, 22.11.2011, p. 18.
+(21)OJ No. L 68, 12.3.2013, p. 16.
+(22)OJ No. L 68, 12.3.2013, p. 24.
+(23)OJ No. L 160, 29.5.2014, p. 14.
+(24)OJ No. L 212, 11.8.2015, p. 7.
+(25)OJ No. L 29, 3.2.2017, p. 21.
+(26)OJ No. L 95, 7.4.2017, p. 1.
+(27)OJ No. L 82, 25.3.2019, p. 4.
+(28)OJ No. L 131, 17.5.2019, p. 1.
+(29)OJ No. L 131, 17.5.2019, p. 18.
+(30)OJ No. L 131, 17.5.2019, p. 31.
+(31)OJ No. L 131, 17.5.2019, p. 51.
+(32)OJ No. L 131, 17.5.2019, p. 101.
+(33)OJ No. L 165, 21.6.2019, p. 4.
+(34)OJ No. L 165, 21.6.2019, p. 8.
+(35)OJ No. L 165, 21.6.2019, p. 10.
+(36)OJ No. L 171, 26.6.2019, p. 1.
+(37)OJ No. L 250, 30.9.2019, p. 6.
+(38)OJ No. L 255, 4.10.2019, p. 1.
+(39)OJ No. L 261, 14.10.2019, p. 37.
+(40)OJ No. L 277, 29.10.2019, p. 89.
+(41)OJ No. L 289, 8.11.2019, p. 50.
+(42)OJ No. L 312, 3.12.2019, p. 1.
+(43)OJ No. L 316, 6.12.2019, p. 6.
+(44)OJ No. L 321, 12.12.2019, p. 45.
+(45)OJ No. L 321, 12.12.2019, p. 64.
+(46)OJ No. L 321, 12.12.2019, p. 73.
+(47)OJ No. L 321, 12.12.2019, p. 104.
+(48)OJ No. L 321, 12.12.2019, p. 122.
+(49)OJ No. L 321, 12.12.2019, p. 128.
+(50)OJ No. L 98, 31.3.2020, p. 30.
+(51)OJ No. L 257, 6.8.2020, p. 1.
+(52)OJ No. L 157, 30.4.2004, p. 33. The revised text of Directive 2004/41/EC is now set out in a Corrigendum (OJ No. L195, 2.6.2004, p. 12).
+(53)OJ No. L 157, 30.4.2004, p. 33.
+(54)OJ No. L 31, 1.2.2002, p. 1.
+(55)OJ No. L 139, 30.4.2004, p. 1.
+(56)OJ No. L 139, 30.4.2004, p. 55.
+(57)OJ No. L 271, 15.10.2005, p. 17
+(58)OJ No. L 338, 22.12.2005, p. 1.
+(59)OJ No. L 338, 22.12.2005, p. 27.
+(60)OJ No. L 29, 3.2.2017, p. 21.
+(61)OJ No. L 95, 7.4.2017, p. 1.
+(62)OJ No. L 82, 25.3.2019, p. 4.
+(63)OJ No. L 131, 17.5.2019, p. 1.
+(64)OJ No. L 131, 17.5.2019, p. 18.
+(65)OJ No. L 131, 17.5.2019, p. 31.
+(66)OJ No. L 131, 17.5.2019, p. 51.
+(67)OJ No. L 131, 17.5.2019, p. 101.
+(68)OJ No. L 165, 21.6.2019, p. 4.
+(69)OJ No. L 165, 21.6.2019, p. 8.
+(70)OJ No. L 165, 21.6.2019, p. 10.
+(71)OJ No. L 171, 26.6.2019, p. 1.
+(72)OJ No. L 250, 30.9.2019, p. 6.
+(73)OJ No. L 255, 4.10.2019, p. 1.
+(74)OJ No. L 261, 14.10.2019, p. 37.
+(75)OJ No. L 277, 29.10.2019, p. 89.
+(76)OJ No. L 289, 8.11.2019, p. 50.
+(77)OJ No. L 312, 3.12.2019, p. 1.
+(78)OJ No. L 316, 6.12.2019, p. 6.
+(79)OJ No. L 321, 12.12.2019, p. 45.
+(80)OJ No. L 321, 12.12.2019, p. 64.
+(81)OJ No. L 321, 12.12.2019, p. 73.
+(82)OJ No. L 321, 12.12.2019, p. 104.
+(83)OJ No. L 321, 12.12.2019, p. 122.
+(84)OJ No. L 321, 12.12.2019, p. 128.
+(85)OJ No. L 98, 31.3.2020, p. 30.
+(86)OJ No. L 257, 6.8.2020, p. 1.

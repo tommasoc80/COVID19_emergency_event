@@ -1,0 +1,227 @@
+﻿Ordinanza
+818.101.25
+sul test pilota con il «sistema svizzero di tracciamento
+di prossimità» per informare le persone che sono state
+potenzialmente esposte al coronavirus (COVID-19)
+(Ordinanza COVID-19 test pilota di tracciamento di prossimità)
+del 13 maggio 2020 (Stato 14 maggio 2020)
+Il Consiglio federale svizzero,
+visto l'articolo 17a capoversi 1 e 3 della legge federale del 19 giugno 1992* 1
+sulla protezione dei dati (LPD);
+visto l'articolo 78 capoverso 1 della legge del 28 settembre 20122
+sulle epidemie (LEp);
+e visto l'articolo 25 capoverso 1 della legge del 9 ottobre 19923
+sulla statistica federale (LStat),
+ordina:
+Art. 1 Oggetto
+La presente ordinanza disciplina il test pilota con il sistema svizzero di tracciamento
+di prossimità (Swiss Proximity Tracing System, SPTS) per informare le persone
+(art. 31 cpv. 2 e 33 LEp) che sono state potenzialmente esposte al coronavirus
+(COVID-19) durante il test pilota. Disciplina l'organizzazione, il funzionamento, i
+dati trattati e l'utilizzazione dell'SPTS.
+Art. 2	Scopo del test pilota
+1	Il test pilota serve a testare e valutare l'SPTS in vista della sua introduzione defini-
+tiva.
+2	Sono da testare e valutare in particolare:
+a.	le nuove soluzioni sviluppate per quanto concerne la decentralità del tratta-
+mento dei dati e i metodi crittografici;
+b.	la stabilità di funzionamento;
+c.	la sicurezza contro le manipolazioni involontarie o illecite;
+d.	la facilità d'impiego;
+e.	la comprensibilità delle informazioni per i partecipanti e gli specialisti aventi
+diritto di accesso.
+RU 2020 1589
+1 RS 235.1
+2 RS 818.101
+3 RS 431.01
+1
+818.101.25
+Lotta contro le malattie
+Art. 3 Scopo dell'SPTS e dei dati trattati
+1	L'SPTS e i dati trattati con questo sistema servono a:
+a.	informare, nel rispetto della protezione dei dati, i partecipanti che sono stati
+potenzialmente esposti al coronavirus;
+b.	elaborare statistiche in relazione al coronavirus.
+2	L'SPTS e i dati non possono essere utilizzati per altri scopi, in particolare per la
+prescrizione e il controllo di provvedimenti da parte delle autorità cantonali secondo
+gli articoli 33-38 LEp.
+Art. 4	Rapporto con l'ordinanza sulle epidemie
+L'articolo 60 LEp e le disposizioni dell'ordinanza del 29 aprile 20154 sulle epidemie
+concernenti il sistema d'informazione ivi disciplinato non sono applicabili all'SPTS.
+Art. 5	Struttura dell'SPTS
+1	L'SPTS include i seguenti componenti:
+a.	un sistema di gestione dei dati di prossimità (sistema GP), costituito da
+un'applicazione installata dai partecipanti sul proprio telefono cellulare
+(app) e da un back end (back end GP);
+b.	un sistema di gestione dei codici costituito da un front end basato sulla rete e
+da un back end.
+2	Il back end GP e il sistema di gestione dei codici sono gestiti come server centrali
+dall'Ufficio federale della sanità pubblica (UFSP).
+Art. 6	Partecipanti al test pilota
+1	La cerchia dei possibili partecipanti al test pilota è limitata ai seguenti gruppi di
+persone:
+a.	militari dell'esercito svizzero in servizio d'istruzione, d'appoggio e in servi-
+zio attivo;
+b.	collaboratori di scuole universitarie;
+c.	collaboratori di ospedali o cliniche;
+d.	collaboratori di amministrazioni cantonali o dell'Amministrazione federale;
+e.	membri di associazioni che vogliono contribuire al miglioramento della qua-
+lità del sistema.
+2	L'UFSP mette a disposizione di queste istituzioni e associazioni le informazioni
+necessarie per i partecipanti e l'accesso tecnico dal quale le persone di cui al capo-
+verso 1 possono scaricare l'app.
+4 RS 818.101.1
+2
+Ordinanza COVID-19 test pilota di tracciamento di prossimità
+818.101.25
+Art. 7 Volontarietà
+1	I partecipanti installano l'app e utilizzano l'SPTS su base volontaria.
+2	I partecipanti che sono stati potenzialmente esposti al coronavirus sono informati
+soltanto con il consenso esplicito della persona infetta.
+Art. 8	Principi del trattamento dei dati
+1 Per il trattamento dei dati devono essere adottate tutte le misure tecniche e organiz-
+zative adeguate per evitare che i partecipanti siano identificabili.
+2 I dati su altri partecipanti registrati sul telefono cellulare di un partecipante sono
+trattati e memorizzati esclusivamente su questo telefono cellulare.
+3	Nell'SPTS non sono raccolti o trattati in altro modo dati sulla posizione.
+4	Il codice sorgente e le specifiche tecniche di tutti i componenti dell'SPTS sono
+pubblici.
+5	È applicabile la legislazione federale sulla protezione dei dati.
+Art. 9 Organo federale responsabile
+L'UFSP è l'organo federale responsabile degli aspetti legali di protezione dei dati di
+tutti i componenti dell'SPTS.
+Art. 10	Modalità del funzionamento di base
+1 Durante il funzionamento di base il back end GP mette a disposizione delle app il
+suo contenuto mediante procedura di richiamo. Il contenuto consiste in un elenco
+con i seguenti dati:
+a.	le chiavi private dei partecipanti infetti che erano di attualità nel periodo in
+cui era probabile il contagio di altre persone (periodo rilevante);
+b.	la data di ogni chiave.
+2 L'app adempie le seguenti funzioni:
+a.	genera ogni giorno una nuova chiave privata che non permette di risalire
+all'app e al partecipante;
+b.	invia continuamente tramite Bluetooth un codice di identificazione che cam-
+bia ogni quindici minuti e che è ricavato dalla chiave privata dell'app at-
+tualmente in uso, ma che non può essere ricondotto a questa chiave e non
+permette di risalire all'app e al partecipante;
+c.	controlla continuamente se vengono ricevuti segnali compatibili emessi da
+altri telefoni cellulari. Se la prossimità con un altro telefono cellulare è di
+due metri o meno, l'app memorizza il codice d'identificazione di
+quest'ultimo in uso al momento, la potenza del segnale, la data e la durata
+stimata della prossimità. La prossimità è stimata in base alla potenza dei se-
+gnali ricevuti;
+3
+818.101.25
+Lotta contro le malattie
+d.	richiama periodicamente dal back end GP l'elenco delle chiavi private dei
+partecipanti infetti, ricava dall'elenco i codici di identificazione corrispon-
+denti di cui alla lettera b e li confronta con quelli che ha memorizzato local-
+mente;
+e.	se dal confronto risulta una prossimità di due metri o meno ad almeno un
+telefono cellulare di un partecipante infetto e se in un giorno la somma della
+durata di tutte queste prossimità raggiunge i quindici minuti, l'app invia
+l'informazione.
+Art. 11 Modalità di funzionamento dopo un'infezione
+1 In caso d'infezione, gli specialisti con diritto di accesso generano nel sistema di
+gestione dei codici un codice di attivazione univoco e limitato nel tempo. Registrano
+inoltre nel sistema di gestione dei codici la data in cui si sono manifestati i primi
+sintomi o, se la persona infetta non presenta sintomi, la data in cui è stato effettuato
+il test.
+2 Gli specialisti con diritto di accesso comunicano il codice di attivazione al parteci-
+pante infetto. Quest'ultimo lo può immettere nella sua app.
+3	Il back end del sistema di gestione dei codici conferma all'app la validità del
+codice immesso. Dalla data immessa dallo specialista avente diritto di accesso di cui
+al capoverso 1 il sistema sottrae al massimo tre giorni. La data risultante vale come
+data d'inizio del periodo rilevante. Il back end del sistema di gestione dei codici
+trasmette questa data all'app della persona infetta.
+4	L'app della persona infetta trasmette al back end GP le chiavi private che erano di
+attualità nel periodo rilevante unitamente alla data corrispondente.
+5	Il back end GP inserisce nel suo elenco le chiavi private ricevute unitamente alle
+date corrispondenti.
+6	Dopo la segnalazione di un'infezione, l'app genera una nuova chiave privata. Da
+quest'ultima non è possibile risalire a precedenti chiavi private.
+Art. 12 Contenuto dell'informazione
+1 L'informazione include:
+a. l'informazione che il partecipante è stato potenzialmente esposto al corona-
+virus;
+b. l'indicazione del giorno in cui lo è stato per l'ultima volta;
+c.	le raccomandazioni di comportamento dell'UFSP.
+2 L'SPTS non dà prescrizioni ai partecipanti. Non informa né su provvedimenti delle
+autorità cantonali competenti secondo gli articoli 33-38 LEp né sulle possibilità di
+accesso al test di accertamento del virus.
+4
+Ordinanza COVID-19 test pilota di tracciamento di prossimità
+818.101.25
+Art. 13 Ricorso a terzi per la diffusione delle chiavi private
+1 L'UFSP può incaricare terzi di mettere a disposizione delle app mediante procedu-
+ra di richiamo l'elenco dei dati di cui all'articolo 10 capoverso 1.
+2 I terzi incaricati devono impegnarsi a rispettare le prescrizioni della presente ordi-
+nanza.
+3	L'UFSP controlla il rispetto delle prescrizioni.
+Art. 14 Contenuto del sistema di gestione dei codici
+Il sistema di gestione dei codici contiene i seguenti dati:
+a. i codici di attivazione;
+b. la data in cui si sono manifestati i primi sintomi o, se la persona infetta non
+presenta sintomi, la data in cui è stato effettuato il test;
+c.	la data di distruzione dei dati di cui alle lettere a e b.
+Art. 15 Diritti di accesso al sistema di gestione dei codici
+1 Sono autorizzate a rilasciare il codice di attivazione le seguenti persone:
+a. i medici cantonali;
+b. il medico in capo dell'esercito;
+c.	altri collaboratori dei servizi medici cantonali o del servizio medico militare
+dell'esercito;
+d.	i terzi incaricati dai servizi medici cantonali o dal servizio medico militare
+dell'esercito;
+e.	il medico curante e i suoi assistenti.
+2 La registrazione nel sistema di gestione dei codici avviene tramite il sistema cen-
+trale di accesso e autorizzazione dell'Amministrazione federale per le applicazioni
+di rete. Sono applicabili le disposizioni dell'ordinanza del 19 ottobre 20165 sui
+sistemi di gestione delle identità e sui servizi di elenchi della Confederazione.
+3	L'UFSP concede e amministra i diritti di accesso al sistema di gestione dei codici.
+Ai medici cantonali e al medico in capo dell'esercito conferisce l'autorizzazione a
+concedere i diritti di accesso ai loro assistenti.
+Art. 16 Registro degli accessi
+1 Alla memorizzazione e all'analisi dei registri degli accessi al back end GP e al
+sistema di gestione dei codici sono applicabili gli articoli 57i-57q della legge del
+21 marzo 19976 sull'organizzazione del Governo e dell'Amministrazione e l'ordi-
+5 RS 172.010.59
+6 RS 172.010
+5
+818.101.25
+Lotta contro le malattie
+nanza del 22 febbraio 20127 sul trattamento di dati personali derivanti dall'utilizza-
+zione dell'infrastruttura elettronica della Confederazione.
+2 Oltre a questi registri e alla registrazione delle prossimità, l'SPTS non tiene registri
+delle attività del front end e delle app.
+Art. 17	Comunicazione per scopi statistici
+L'UFSP mette periodicamente a disposizione dell'Ufficio federale di statistica
+(UST) per valutazioni statistiche la raccolta dei dati disponibili in quel momento nei
+due back end in forma completamente anonimizzata.
+Art. 18	Distruzione dei dati
+1 I dati del sistema GP sono distrutti sia sul telefono cellulare sia nel back end GP 21
+giorni dopo la loro registrazione.
+2 I dati del sistema di gestione dei codici sono distrutti 24 ore dopo la loro registra-
+zione.
+3	I dati dei registri di terzi incaricati ai sensi dell'articolo 13 sono distrutti 7 giorni
+dopo la loro registrazione.
+4	Per il rimanente, la distruzione dei dati dei registri è retta dall'articolo 4 capover-
+so 1 lettera b dell'ordinanza del 22 febbraio 20128 sul trattamento di dati personali
+derivanti dall'utilizzazione dell'infrastruttura elettronica della Confederazione.
+5	Anche i dati messi a disposizione dell'UST sono distrutti conformemente al pre-
+sente articolo.
+Art. 19	Disinstallazione dell'app, installazione della versione definitiva
+Le istituzioni e le associazioni di cui all'articolo 6 capoverso 1 chiedono ai parteci-
+panti di disinstallare in modo autonomo l'app dal loro telefono cellulare dopo la
+conclusione del test pilota o, se l'SPTS è introdotto definitivamente e desiderano
+continuare a utilizzarlo, di installare la versione definitiva dell'app.
+Art. 20 Valutazione del test pilota
+1 Il Dipartimento federale dell'interno informa regolarmente il Consiglio federale e
+l'Assemblea federale sul test pilota.
+2 Presenta al Consiglio federale un rapporto sul test pilota al più tardi un mese dopo
+la fine del test.
+Art. 21 Entrata in vigore e durata di validità
+La presente ordinanza entra in vigore il 14 maggio 2020 alle ore 00.00 con effetto
+sino al 30 giugno 2020.
+7 RS 172.010.442
+8 RS 172.010.442
+6

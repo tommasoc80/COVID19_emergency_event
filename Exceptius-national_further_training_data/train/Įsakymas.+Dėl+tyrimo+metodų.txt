@@ -1,0 +1,490 @@
+
+
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTRAS
+
+ĮSAKYMAS
+DĖL COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO TYRIMŲ IR SEROLOGINIŲ TYRIMŲ ATLIKIMO TVARKOS APRAŠO PATVIRTINIMO
+
+2020 m. gruodžio 4 d. Nr. V-2797
+Vilnius
+
+Vadovaudamasis Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 9 straipsnio 1 dalies 3 punktu ir 10 straipsnio 6 punktu, Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 7 ir 8 straipsniais bei atsižvelgdamas į tai, kad Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta valstybės lygio ekstremalioji situacija visoje šalyje dėl COVID-19 ligos (koronaviruso infekcijos) plitimo grėsmės:
+1.	T v i r t i n u COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašą (pridedama).
+2.	P a v e d u įsakymo vykdymą kontroliuoti viceministrui pagal veiklos sritį.
+3. P r i p a ž į s t u netekusiu galios Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. birželio 16 d. įsakymą Nr. V-1483 „Dėl COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo valstybės lygio ekstremaliosios situacijos laikotarpiu“ su visais pakeitimais ir papildymais.
+
+
+
+Laikinai einantis sveikatos apsaugos ministro pareigas 	                                         Aurelijus Veryga 
+
+
+PATVIRTINTA
+Lietuvos Respublikos
+sveikatos apsaugos ministro 
+2020 m. gruodžio 4 d.
+įsakymu Nr. V-2797
+
+COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO TYRIMŲ IR SEROLOGINIŲ TYRIMŲ ATLIKIMO TVARKOS APRAŠAS
+
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+
+1.	COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimų ir serologinių tyrimų atlikimo tvarkos aprašas (toliau – Aprašas) nustato COVID-19 ligai (koronaviruso infekcijai) diagnozuoti atliekamiems tyrimams ir serologiniams imunologiniams tyrimams, taikomiems IgG, IgM ir (ar) IgA klasės antikūnams prieš SARS-CoV-2  nustatyti (toliau – serologiniai tyrimai), atlikti taikomus metodus ir jų naudojimo algoritmus.
+2.	Visų COVID-19 ligos (koronaviruso infekcijos) tyrimų užsakymai ir atsakymai turi būti pateikiami į Elektroninę sveikatos paslaugų ir bendradarbiavimo infrastruktūros informacinę sistemą (atitinkamai forma E200 ir E200-a).
+3.	Ėminių paėmimas organizuojamas vadovaujantis Ėminių iš paciento nosiaryklės ir ryklės paėmimo mobiliuosiuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. kovo 16 d. įsakymu Nr. V-390 „Dėl Ėminių iš paciento nosiaryklės ir ryklės paėmimo mobiliuosiuose punktuose COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti organizavimo tvarkos aprašo patvirtinimo“, nustatyta tvarka.
+
+II SKYRIUS
+COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) NUSTATYMO TYRIMŲ ATLIKIMO METODAI 
+
+4.	COVID-19 ligos (koronaviruso infekcijos) nustatymo tyrimai gali būti atliekami šiais metodais:
+4.1.	SARS-CoV-2 (2019-nCoV) RNR nustatymas tikralaikės PGR metodu (toliau – PGR tyrimas);
+4.2.	greitasis SARS-CoV-2 (2019-nCoV) RNR nustatymas tikralaikės PGR metodu, kai tyrimo trukmė analizatoriuje ne ilgesnė kaip 90 min. (toliau – greitasis PGR tyrimas);
+4.3.	nosiaryklės tepinėlių mėginių kaupinių tyrimas SARS-CoV-2 (2019-nCoV) RNR nustatymas tikralaikės PGR metodu (toliau – kaupinių PGR tyrimas);
+4.4.	greitasis SARS-CoV-2 antigeno testas (toliau – greitasis antigeno testas).
+5.	Atlikti PGR, greitųjų PGR ir kaupinių PGR tyrimus turi teisę laboratorijos:
+5.1.	 atitinkančios Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“, patvirtintos Lietuvos Respublikos sveikatos apsaugos ministro 2012 m. spalio 19 d. įsakymu Nr. V-946 „Dėl Lietuvos higienos normos HN 47-1:2012 „Sveikatos priežiūros įstaigos. Infekcijų kontrolės reikalavimai“ patvirtinimo“, nustatytus reikalavimus ir (ar) sukūrusios, įdiegusios ir palaikančios kokybės vadybos sistemą, atitinkančią standarte EN ISO/IEC 17025 „Tyrimo, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ (toliau – Standartas EN ISO/IEC 17025) arba LST EN ISO 15189 „Medicinos laboratorijos. Kokybės ir kompetencijos reikalavimai“ (toliau – Standartas LST EN ISO 15189) nurodytus reikalavimus;
+5.2.	 atitinkančios Laboratorinės diagnostikos paslaugų teikimo reikalavimų aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2007 m. gruodžio 5 d. įsakymu Nr. V-998 „Dėl Laboratorinės diagnostikos paslaugų teikimo reikalavimų aprašo patvirtinimo“, nurodytus reikalavimus ir (ar) sukūrusios, įdiegusios ir palaikančios kokybės vadybos sistemą, atitinkančią Standarte EN ISO/IEC 17025 arba Standarte LST EN ISO 15189 nurodytus reikalavimus.
+6.	Atliekant PGR ir kaupinių PGR tyrimus turi būti užtikrinama, kad:
+6.1.	 naudojami reagentai turi: 
+6.1.1.	galimybę vienu metu (viename mėgintuvėlyje) nustatyti ne mažiau kaip du specifinius genų taikinius; 
+6.1.2.	 ne mažesnį kaip 95 proc. analitinį jautrumą ir ne mažesnį kaip 99 proc. analitinį specifiškumą;
+6.1.3.	 neprivalomai – automatinę rezultatų analizavimo programą;
+6.2.	 kiekvienos polimerazės grandininės reakcijos (PGR) metu atliekant tyrimą (-us) dėl SARS-CoV-2 būtų naudojamos vidinė RNR išskyrimo kontrolė arba vidinė amplifikavimo kontrolė (jeigu procesas vyksta be RNR išskyrimo) (netaikoma kaupinių PGR tyrimams).
+7.	Atliekant greituosius PGR tyrimus turi būti užtikrinama, kad:
+7.1.	 naudojami reagentai turi:
+7.1.1.	tyrimo metu aptikti ne mažiau kaip dvi SARS CoV-2 RNR skirtingų genų sekas;
+7.1.2.	 SARS CoV-2 PGR tyrimo trukmė analizatoriuje turi būti ne ilgesnė kaip 90 min.;
+7.1.3.	 ne mažesnį kaip 95 proc. analitinį jautrumą ir ne mažesnį kaip 99 proc. analitinį specifiškumą;
+7.1.4.	 neprivalomai – automatinę rezultatų analizavimo programą;
+7.2.	 kiekvienoje greitojo PGR testo reakcijoje taikoma vidinė mėginio kontrolė, skirta mėginio pernašos sistemoje sėkmei įvertinti.
+8.	Atliekant kaupinio PGR tyrimus turi būti užtikrinama, kad:
+8.1.	naudojami reagentai turi ne mažesnį kaip 95 proc. analitinį jautrumą ir ne mažesnį kaip 99 proc. analitinį specifiškumą;
+8.2.	tiriami ne didesni nei 5 ėminių kaupiniai;
+8.3.	tyrimo jautrumas patikrinamas su konkrečioje laboratorijoje naudojamais reagentais ir įranga;
+8.4.	tyrimas atliekamas gryninat RNR (ne tiesioginės PGR principu);
+8.5.	rekomenduojama RNR gryninimą atlikti automatizuotai;  
+8.6.	jei nustatomas signalas nors viename kanale, tyrimas kartojamas su visais individualiais mėginiais;
+8.7.	metodas gali būti taikomas, kai šalyje nustatomų teigiamų tyrimų dalis yra ne daugiau nei 6,5 proc.
+9.	Greitieji antigeno testai gali būti naudojami, kai užtikrinama, kad:
+9.1.	testai COVID-19 ligos (koronaviruso infekcijos) simptomų turintiems asmenims atliekami ne vėliau kaip per 5 paras nuo simptomų pradžios, sąlytį su patvirtintu ar įtariamu COVID-19 ligos (koronaviruso infekcijos) atveju turėjusiems asmenims – ne vėliau kaip per 7 paras po turėto sąlyčio;
+9.2.	kai greitųjų antigeno testų rezultatus vertina ir interpretuoja sveikatos priežiūros specialistas;
+9.3.	greitųjų antigeno testų jautrumas turi būti ne mažesnis nei 90 proc. lyginant su PGR tyrimais ėminiams, kurių ciklo slenkstis (angl. cycle threshold) mažiau nei 25, specifiškumas – ne mažesnis nei 99 proc. 
+10.	COVID-19 ligos (koronaviruso infekcijos) tyrimų atlikimo metodas parenkamas vadovaujantis šiais algoritmais:
+10.1.	Simptomų turinčių asmenų tyrimo stacionarines asmens sveikatos priežiūros paslaugas teikiančioje asmens sveikatos priežiūros įstaigoje algoritmas (1 priedas);
+10.2.	Simptomų turinčių asmenų tyrimo institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas (2 priedas);
+10.3.	Simptomų turinčių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir mobiliuosiuose punktuose algoritmas (3 priedas);
+10.4.	Sąlytį turėjusių besimptomių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas (4 priedas);
+10.5.	Besimptomių asmenų tyrimo visuomenėje algoritmas (5 priedas);
+10.6.	Prevencinio besimptomių asmenų institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), ir besimptomių asmens sveikatos priežiūros įstaigų pacientų tyrimo algoritmas (6 priedas);
+10.7.	Masinio plačius sąlyčio tinklus turinčių asmenų testavimo tinklinėse geografinėse vietose algoritmas (7 priedas).
+
+III SKYRIUS
+SEROLOGINIAI TYRIMAI
+
+11.	Validuoti serologiniai tyrimai, gali būti naudojami:
+11.1.	diagnostikai kartu su PGR, greituoju PGR ar kaupinių PGR tyrimais COVID-19 ligai (koronaviruso infekcijai) arba serokonversijai patvirtinti:
+11.1.1.	imuniniam atsakui į SARS-CoV-2 identifikuoti ne anksčiau kaip 14 dienų nuo simptomų pradžios;
+11.1.2.	asmeniui, turinčiam ryškius COVID-19 ligai (koronaviruso infekcijai) būdingus klinikinius požymius ir pakartotinai neigiamus SARS-CoV-2 PGR tyrimus iš viršutinių kvėpavimo takų;
+11.2.	buvusiai COVID-19 ligai (koronaviruso infekcijai) nustatyti;
+11.3.	seroepidemiologiniams COVID-19 ligos (koronaviruso infekcijos) tyrimams.
+12.	Serologiniai tyrimai skirti profesionaliam naudojimui, kai rezultatus vertina ir interpretuoja sveikatos priežiūros specialistas.
+13.	Serologinių tyrimų jautrumas nustatant antikūnus prieš SARS-CoV-2 ne anksčiau nei 14 dienų nuo simptomų pradžios turi būti ne mažesnis nei 90 proc., specifiškumas – ne mažesnis kaip 90 pro.
+14.	Bendrosios praktikos slaugytojas turi teisę atlikti paciento ištyrimą serologiniais tyrimais ar paimti ėminį, reikalingą serologiniam tyrimui atlikti, sveikatos priežiūros, socialinės globos, kitose įstaigose (įmonėse) bei namuose, kur pacientas gyvena.
+
+IV SKYRIUS
+COVID-19 LIGOS (KORONAVIRUSO INFEKCIJOS) TYRIMUS ATLIEKANČIŲ LABORATORIJŲ VALIDAVIMAS 
+
+15.	Laboratorijų, kurios atlieka PGR, greituosius PGR ir (ar) kaupinių PGR tyrimus, atitiktį Aprašo 5.1 ir 5.2 papunkčiuose nustatytiems reikalavimams, jų validumą atlikti COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus vertina ir naudojamų reagentų verifikavimą vykdo Nacionalinė visuomenės sveikatos priežiūros laboratorija (toliau – NVSPL) (pagal pateiktus 5 tikrai teigiamus ir 5 tikrai neigiamus ėminius). PGR, greitųjų PGR ir (ar) kaupinių PGR tyrimų metodai prieš pradedant juos naudoti ir (ar) pasikeitus bent vienam, galinčiam turėti įtakos tyrimo rezultato kokybei, reagentui ar komponentui, turi būti patikrinti (verifikuoti) arba, jei reikia, validuoti kiekvienoje laboratorijoje.
+16.	Aprašo 15 punkte nustatyta tvarka, kaip atitinkančios nustatytus reikalavimus įvertintos laboratorijos COVID-19 ligos (koronaviruso infekcijos) laboratorinius tyrimus valstybės poreikiui patenkinti vykdo tik pagal sutartį, sudarytą su NVSPL.  
+17.	Laboratorijos, atliekančios PGR, greituosius PGR ir (ar) kaupinių PGR tyrimus, privalo ne rečiau kaip 2 kartus per metus dalyvauti nepriklausomose ir nešališkose išorinio kokybės vertinimo programose, kurių teikėjas atitinka esminius standarto LST ISO/IEC 17043 „Atitikties įvertinimas. Bendrieji tyrimų kokybės tikrinimo reikalavimai“ reikalavimus.
+18.	ASPĮ, atitinkančios Aprašo 15 punkte nustatytus reikalavimus, gali teikti mokamas ėminių COVID-19 ligos (koronaviruso infekcijos) laboratoriniams tyrimams atlikti paėmimo ir COVID-19 ligos (koronaviruso infekcijos) laboratorinių tyrimų atlikimo paslaugas, jei užtikrina, kad atliks laboratorinius tyrimus valstybės poreikiui patenkinti.
+19.	Paciento ištyrimą greitaisiais antigeno testais ir greitaisiais serologiniais antikūnų testais turi teisę atlikti visos asmens sveikatos priežiūros įstaigos, išskyrus teikiančios tik ergoterapijos, kineziterapijos, dietisto praktikos, optometrininko praktikos ir dantų techniko praktikos asmens sveikatos priežiūros paslaugas.
+_________________
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+1 priedas
+
+Simptomų turinčių asmenų tyrimo stacionarines asmens sveikatos priežiūros paslaugas teikiančioje asmens sveikatos priežiūros įstaigoje algoritmas
+ARBA
+ARBA
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+PGR tyrimas
+Greitasis PGR tyrimas 
+Greitasis antigenų testas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+PGR tyrimas arba greitasis PGR tyrimas
+
+ARBA
+ARBA
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+PGR tyrimas
+Greitasis PGR tyrimas 
+Greitasis antigenų testas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+PGR tyrimas arba greitasis PGR tyrimas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+2 priedas
+
+Simptomų turinčių asmenų tyrimo institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas
+
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+
+Greitasis antigenų testas
+PGR tyrimas (jei nėra greitųjų antigeno testų)
+Jei yra stipriai išreikšti klinikiniai SARS-CoV-2 infekcijos simptomai, kartojamas PGR arba greitasis PGR tyrimas
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų
+
+Greitasis antigenų testas
+PGR tyrimas (jei nėra greitųjų antigeno testų)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+3 priedas
+
+Simptomų turinčių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir mobiliuosiuose punktuose algoritmas
+
+Aktyvi infekcija neaptikta
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Greitasis antigenų testas
+PGR tyrimas (jei nėra greitųjų antigeno testų)
+Izoliacija 48 val. ir kartojamas greitasis antigenų testas
+ARBA
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų, kurį galima gydyti ambulatoriškai
+Aktyvi infekcija neaptikta
+Aktyvi infekcija neaptikta
+Aktyvi infekcija
+Aktyvi infekcija
+Greitasis antigenų testas
+PGR tyrimas (jei nėra greitųjų antigeno testų)
+Izoliacija 48 val. ir kartojamas greitasis antigenų testas
+ARBA
+Asmuo, turintis COVID-19 ligos (koronaviruso infekcijos) simptomų, kurį galima gydyti ambulatoriškai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+4 priedas
+
+Sąlytį turėjusių besimptomių asmenų tyrimo ambulatorines asmens sveikatos priežiūros paslaugas teikiančiose asmens sveikatos priežiūros įstaigose ir institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), algoritmas
+
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Greitasis antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+PGR arba kaupinių PGR tyrimas 
+
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija  7 dienas ir kartojamas PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Greitasis antigenų testas (jei po sąlyčio praėjo ne daugiau kaip 7 dienos)
+PGR arba kaupinių PGR tyrimas 
+
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija  7 dienas ir kartojamas PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Aukštos rizikos sąlytis
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+5 priedas
+
+Besimptomių asmenų tyrimo visuomenėje algoritmas
+
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Greitasis antigenų testas
+PGR arba kaupinių PGR tyrimas 
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija 7 dienas ir kartojamas PGR arba kaupinių PGR tyrimas arba greitasis antigenų testas
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+Besimptomis asmuo: sąlytis su patvirtintu COVID-19 ligos (koronaviruso infekcijos) atveju*
+Greitasis antigenų testas
+PGR arba kaupinių PGR tyrimas 
+Izoliacija 
+Aktyvi infekcija
+Aktyvi infekcija
+Izoliacija 7 dienas ir kartojamas PGR arba kaupinių PGR tyrimas arba greitasis antigenų testas
+
+Aktyvi infekcija
+Izoliacija nutraukiama
+ARBA
+ARBA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Aukštos rizikos sąlytis
+
+
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+6 priedas
+
+Prevencinio besimptomių asmenų institucijose, kuriose susiduriama su didesne rizika užsikrėsti COVID-19 liga (koronaviruso infekcija), ir besimptomių asmens sveikatos priežiūros įstaigų pacientų tyrimo algoritmas
+
+Aktyvi infekcija neaptikta
+Besimptomis asmuo: periodinis prevencinis testavimas 
+Greitasis antigenų testas. Taikoma jeigu:
+1) tiriamas židinys 
+2) nustatomas didelis paplitimas regione
+3) nėra pakankamai PGR tyrimų pajėgumų
+PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Aktyvi infekcija neaptikta
+Besimptomis asmuo: periodinis prevencinis testavimas 
+Greitasis antigenų testas. Taikoma jeigu:
+1) tiriamas židinys 
+2) nustatomas didelis paplitimas regione
+3) nėra pakankamai PGR tyrimų pajėgumų
+PGR arba kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COVID-19 ligos (koronaviruso 
+infekcijos) nustatymo tyrimų ir 
+serologinių tyrimų atlikimo 
+tvarkos aprašo 
+7 priedas
+
+Masinio plačius sąlyčio tinklus turinčių asmenų testavimo tinklinėse geografinėse vietose algoritmas
+Aktyvi infekcija
+Aktyvi infekcija neaptikta. Izoliuotis nereikia
+Masinis testavimas nepriklausomai nuo simptomų
+Greitasis antigenų testas (vengti, jei paplitimas mažas)
+Kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas (jeigu yra pajėgumų) 
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+
+Aktyvi infekcija
+Aktyvi infekcija neaptikta. Izoliuotis nereikia
+Masinis testavimas nepriklausomai nuo simptomų
+Greitasis antigenų testas (vengti, jei paplitimas mažas)
+Kaupinių PGR tyrimas 
+
+Aktyvi infekcija
+PGR tyrimas (jeigu yra pajėgumų) 
+Aktyvi infekcija
+Aktyvi infekcija neaptikta
+Galima atlikti serologinį IgG arba IgG/IgM tyrimą praėjus 14 dienų nuo simptomų pradžios (jei asmuo anksčiau nėra sirgęs COVID-19 liga (koronaviruso infekcija)
+

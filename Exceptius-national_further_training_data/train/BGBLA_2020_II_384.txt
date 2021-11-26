@@ -1,0 +1,241 @@
+BUNDESGESETZBLATT
+FÜR DIE REPUBLIK ÖSTERREICH
+Jahrgang 2020	Ausgegeben am 3. September 2020	Teil II
+384. Verordnung:	COVID-19-Schulverordnung 2020/21 – C-SchVO 2020/21
+384. Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Bewältigung der COVID-19 Folgen im Schulwesen für das Schuljahr 2020/21 (COVID-19-Schulverordnung 2020/21 – C-SchVO 2020/21)
+Aufgrund der §§ 6, 10, 21b, 23, 29, 39, 47, 58 bis 63c, 68a bis 81 und 132c des Schulorganisationsgesetzes, BGBl. Nr. 242/1962, §§ 18 bis 21, 22, 22a, 23, 25, 39, 42, 43 bis 50 und 82m des Schulunterrichtsgesetzes, BGBl. Nr. 472/1986, §§ 5 Abs. 3, 17 und 42 des Land- und forstwirtschaftlichen Bundesschulgesetzes, BGBl. Nr. 175/1966, jeweils zuletzt geändert durch BGBl. I Nr. 80/2020, des § 72b des Schulunterrichtsgesetzes für Berufstätige, Kollegs und Vorbereitungslehrgänge, BGBl. I Nr. 33/1997, des § 16e des Schulzeitgesetzes 1985, BGBl. Nr. 77/1985, jeweils zuletzt geändert durch BGBl. I Nr. 23/2020, sowie des § 119 des Forstgesetzes 1975, BGBl. Nr. 440/1975, zuletzt geändert durch BGBl. I Nr. 56/2016, wird verordnet:
+1. Teil
+Allgemeine Bestimmungen
+Ziel
+§ 1. Diese Verordnung regelt schulorganisatorische, schulunterrichtsrechtliche und schulzeitrechtliche Maßnahmen zur Verhinderung der Verbreitung von COVID-19 im Schulwesen.
+Geltungsbereich
+§ 2. Diese Verordnung gilt für die im Schulorganisationsgesetz, BGBl. Nr. 242/1962, (im Folgenden: SchOG) sowie in Art. V Z 2 der 5. SchOG-Novelle, BGBl. Nr. 323/1975, und im Land- und forstwirtschaftlichen Bundesschulgesetz, BGBl. Nr. 175/1966, sowie im Forstgesetz 1975, BGBl. Nr. 440/1975 geregelten öffentlichen und privaten Schulen.
+Begriffsbestimmungen
+§ 3. Im Sinne dieser Verordnung sind zu verstehen:
+	1.	unter Ampelphase die im 1. bis 4. Abschnitte des 2. Teils dieser Verordnung jeweils festgelegten, mit einer Farbbezeichnung als Kurzbezeichnung versehenen, Abweichungen von schulorganisatorischen, schulrechtlichen und schulzeitrechtlichen Normen, von welchen gleichzeitig immer nur ein Abschnitt zur Anwendung gelangen kann;
+	2.	unter Schulstatus der für den einzelnen Schulstandort oder für Teile der Schule aufgrund epidemiologischer Kriterien geltende Status mit den Werten „geschlossen“ oder „teilweise geschlossen“ bei entsprechender Entscheidung durch die zuständige Gesundheitsbehörde gemäß § 18 des Epidemiegesetzes 1950, BGBl. Nr. 186/1950, ansonsten mit dem Wert „offen“;
+	3.	unter Quarantäneentscheidung die Entscheidung der zuständigen Gesundheitsbehörde zur Absonderung einer oder mehrerer kranker, krankheitsverdächtiger oder ansteckungsverdächtiger Personen gemäß § 7 des Epidemiegesetzes 1950 oder die Anordnung von Verkehrsbeschränkungen für Bewohner bestimmter Ortschaften gemäß § 24 des Epidemiegesetzes 1950 sowie weitere auf einzelne Personen bezogene Anordnungen der zuständigen Gesundheitsbehörde nach dem Epidemiegesetz 1950, die Personen an der Betretung des Schulgebäudes hindern;
+	4.	unter Risikogruppe Personen gemäß COVID-19-Risikogruppe-Verordnung, BGBl. II Nr. 203/2020;
+	5.	unter Schülerinnen und Schüler die Schülerinnen und Schüler gemäß dem Schulunterrichtsgesetz – SchUG, BGBl. Nr. 472/1986, sowie Studierende gemäß dem Schulunterrichtsgesetz für Berufstätige, Kollegs und Vorbereitungslehrgänge – SchUG-BKV, BGBl. I Nr. 33/1997;
+	6.	unter Präsenzunterricht die Unterrichts- und Erziehungsarbeit mit Schülerinnen und Schülern in einem für schulische Zwecke bestimmten Gebäude oder auf Freiflächen;
+	7.	unter ortsungebundenem Unterricht die Unterrichts- und Erziehungsarbeit unter Anwendung elektronischer Kommunikation an einem Ort, der nicht für schulische Zwecke bestimmt ist, mit Ausnahme von Schulveranstaltungen oder schulbezogenen Veranstaltungen;
+	8.	unter elektronischer Kommunikation Telefonie sowie die Übertragung von Daten und Nachrichten über Computernetzwerke, insbesondere das Internet wie der Einsatz von E-Mail, Lern- und Arbeitsplattformen, Internettelefonie sowie Tonübertragung und Ton- und Videoübertragung;
+	9.	unter IT-gestütztem Unterricht die Unterrichts- und Erziehungsarbeit im Rahmen des Präsenzunterrichts oder des ortsungebundenen Unterrichts unter Einsatz von Einrichtungen zur elektronischen oder nachrichtentechnischen Übermittlung, Speicherung und Verarbeitung von Sprache, Text, Stand- und Bewegbildern sowie Daten (digitale Endgeräte) als Arbeitsmittel sowie von digitalen Lern- und Arbeitsplattformen, allenfalls auch unter Verwendung elektronischer Kommunikation;
+	10.	unter Standort die örtliche Lage einer Schule, die sich in der Schulkennzahl oder in der Anschrift einer Schule oder der Einlagezahl im Grundbuch ausdrückt.
+Maßnahmen zur Eindämmung der Weiterverbreitung von COVID-19
+§ 4. (1) An jeder Schule ist durch die Schulleitung ein Krisenteam einzurichten. Als Mitglieder des Krisenteams können insbesondere die Schulärztin oder der Schularzt, die erforderliche Anzahl an Lehrpersonen und Mitarbeiterinnen und Mitarbeitern des Verwaltungspersonals, IT-Koordination, eine Vertretung des Schulerhalters, allenfalls eine Vertretung des Internatserhalters und eine Vertretung der Erziehungsberechtigten sowie bei Schulen der Sekundarstufe II eine Vertretung der Schülerinnen und Schüler vorgesehen werden.
+(2) Die Aufgaben des Krisenteams umfassen die Unterstützung und Beratung der Schulleitung in folgenden Angelegenheiten:
+	1.	Sensibilisierung und Information über Hygienemaßnahmen und Sicherheitsvorkehrungen,
+	2.	Dokumentation und Nachverfolgung,
+	3.	Vorbereitung der Infrastruktur,
+	4.	Beschaffung von Hygienemitteln,
+	5.	Personaleinsatz an der Schule und
+	6.	Organisation des Unterrichts.
+(3) Die Hygienebestimmungen gemäß Anlage A und die dazu ergehenden Anweisungen der zuständigen Schulbehörde, der Schulleitung sowie der Lehrpersonen sind zur Sicherung der Aufrechterhaltung eines geordneten Präsenzunterrichts auf der gesamten Schulliegenschaft einzuhalten. Dies gilt auch vor Beginn und nach dem Ende des Unterrichts, aber auch bei Schulveranstaltungen oder schulbezogenen Veranstaltungen, an denen Schülerinnen und Schüler teilzunehmen haben. Verstöße gegen diese Regelungen und Anweisungen stellen Pflichtverletzungen dar. Die Schulleitung hat die allgemein geltenden Hygienebestimmungen durch Anschlag am Schulstandort gut sichtbar auszuhängen und der Schulgemeinschaft darüber hinaus in einer sonstigen geeigneten Weise zur Kenntnis zu bringen.
+(4) Im Rahmen der Schulraumüberlassung ist ab der Ampelphase „Orange“ sicher zu stellen, dass kein Kontakt zwischen den externen Nutzern der Schulräume und Schülerinnen und Schülern erfolgt.
+Unterrichtsorganisation bei Präsenzunterricht
+§ 5. Abweichend von § 9 und § 10 SchUG sowie § 11 und § 12 SchUG-BKV haben die Klassen- und Gruppenbildung und die Stundenplangestaltung nach dem Grundsatz der Kontaktreduktion zwischen Klassen- und Schülergruppen zu erfolgen. Bei Bedarf können dazu sowie zur Einhaltung der Hygienebestimmungen vorübergehende Änderungen des Stundenplans angeordnet werden.
+Anordnung von ortsungebundenem Unterricht aufgrund eines Schulstatus „geschlossen“ oder „teilweise geschlossen“
+§ 6. Ist der Unterricht in einem Schulgebäude aufgrund eines Schulstatus „geschlossen“ oder „teilweise geschlossen“ gemäß § 3 Z 2 oder einer anderen gesundheitsbehördlichen Entscheidung nicht möglich, so befinden sich die Schülerinnen und Schüler, welche die gesundheitsbehördliche Entscheidung umfasst, ab dem Zeitpunkt des Inkrafttretens dieser Entscheidung im ortsungebundenen Unterricht. Die Schulleitung hat die betroffenen Erziehungsberechtigten oder volljährigen Schülerinnen und Schüler davon zumindest elektronisch zu informieren. Die Bestimmungen des 4. Abschnittes des 2. Teiles dieser Verordnung finden mit der Maßgabe Anwendung, dass Ausnahmen vom ortsungebundenen Unterricht im Sinne des § 38 nicht zulässig sind.
+Leistungsfeststellung und Leistungsbeurteilung im ortsungebundenen Unterricht
+§ 7. (1) Die Leistungsfeststellung und die Leistungsbeurteilung der Schülerinnen und Schüler in einzelnen Unterrichtsgegenständen gemäß § 18 Abs. 1, § 20 Abs. 2, 3 und 4, § 23 und § 23a SchUG hat für Schülerinnen und Schüler im ortsungebundenen Unterricht im Wege der elektronischen Kommunikation zu erfolgen. Dabei ist eine Form der Leistungsfeststellung zu wählen, die eine sichere Beurteilung der Leistungen der Schülerinnen und Schüler in einer gesicherten Prüfungsumgebung zulässt. Eine gesicherte Prüfungsumgebung liegt dann vor, wenn der Lehrperson aufgrund der Prüfungsgestaltung und der technischen und örtlichen Gegebenheiten glaubhaft gemacht wurde, dass die Vortäuschung einer Leistung nicht möglich ist.
+(2) Leistungsfeststellungen, die im Wege der elektronischen Kommunikation nicht möglich sind, insbesondere lehrplanmäßig vorgeschriebene Schularbeiten, sind nach Aufhebung des ortsungebundenen Unterrichts nachzuholen. Ist das Nachholen einer Leistungsfeststellung aufgrund der Dauer des ortsungebundenen Unterrichts nicht möglich oder zweckmäßig, hat die Schulleitung die Durchführung der Leistungsfeststellung unter physischer Anwesenheit am Schulstandort anzuordnen, wenn ansonsten eine Beurteilung über das Schuljahr oder das Semester nicht möglich ist.
+(3) Abs. 1 und 2 sind an Schulen im Geltungsbereich des SchUG-BKV sinngemäß anzuwenden.
+Ortsungebundener Unterricht für Risikogruppen
+§ 8. (1) Für Schülerinnen und Schüler,
+	1.	die einer Risikogruppe gemäß § 3 Z 4 angehören,
+	2.	die mit Angehörigen einer solchen Risikogruppe im selben Haushalt leben,
+	3.	die eine individuelle Erkrankung oder eine Vorerkrankung aufweisen, die eine Isolation zwingend notwendig macht oder
+	4.	für welche steigende Infektionszahlen eine besondere psychische Belastung darstellen
+hat die Schulleitung auf Antrag den ortsungebundenen Unterricht nach Möglichkeit anzuordnen. Der Antrag ist durch Vorlage eines ärztlichen Attests zu begründen.
+(2) Die Schulbehörde hat für alle Schülerinnen und Schüler gemäß Abs. 1 einen besonderen schulstandort-, schulstufen-, klassen- oder gruppenübergreifenden ortsungebundenen Unterricht einzurichten. Der ortsungebundene Unterricht für Risikogruppen kann unter Bedachtnahme auf schulorganisatorische, pädagogische und didaktische Erfordernisse sowie die technischen Möglichkeiten und die möglichen Belastungen der Lehrpersonen gruppenweise organisiert werden. Für die Durchführung dieses Unterrichts sind vorrangig Lehrpersonen heranzuziehen, die keinen Präsenzunterricht am Schulstandort versehen.
+(3) Die Leistungsbeurteilung im ortsungebundenen Unterricht für Schülerinnen und Schüler gemäß Abs. 1 erfolgt durch die Lehrpersonen jener Schule, der die Schülerin oder der Schüler angehört, unter Einbeziehung jener Lehrpersonen, welche die Schülerin bzw. den Schüler im ortsungebundenen Unterricht gegenstandsbezogen unterrichtet haben. Letztere sind berechtigt und verpflichtet ihre Aufzeichnungen über die Leistungsfeststellung und Leistungsbeurteilung an die Lehrpersonen der Schule, der die Schülerin oder der Schuler angehört, weiterzugeben.
+(4) Lehrpersonen, die keinen Präsenzunterricht am Schulstandort versehen, sind jedenfalls für die Durchführung des Förderunterrichts in ortsungebundener Form heranzuziehen.
+Vorgehen im COVID-19 Verdachts- oder Erkrankungsfall
+§ 9. (1) Wird bei einer Schülerin bzw. einem Schüler der Verdacht einer COVID-19 Erkrankung durch eine Lehrperson wahrgenommen, ist nach den Vorgaben der allgemein geltenden Hygienebestimmungen gemäß Anlage B vorzugehen.
+(2) Die Erziehungsberechtigten haben die Schulleitung im Falle des Verdachtes bei einer Schülerin oder einem Schüler oder eines Haushaltsangehörigen der Schülerin oder des Schülers auf eine Infektion mit dem Virus SARS-CoV-2 oder einer Erkrankung der Schülerin oder des Schülers oder eines Haushaltsangehörigen der Schülerin oder des Schülers an COVID-19 umgehend hiervon zu verständigen. Diese Verpflichtung trifft die Schülerin oder den Schüler selbst, sofern diese oder dieser volljährig ist.
+(3) Zu Zwecken der Dokumentation von Kontakten und Information von Gesundheitsbehörden und Schulverwaltung dürfen Schulleitungen, Lehrpersonen und Mitarbeiter der Verwaltung personenbezogene Daten von Schülerinnen und Schülern, Lehrpersonen, Mitarbeiterinnen und Mitarbeitern der Schulverwaltung, Erziehungsberechtigten und schulfremden Personen, die sich auf der Schulliegenschaft aufgehalten haben, verarbeiten.
+(4) Die Schulbehörde kann für Schulen, an welchen Verdachtsfälle gemäß Anlage B aufgetreten sind oder die von Schülerinnen und Schülern besucht werden, die mit Personen in engem Kontakt sind oder waren, bei welchen eine Infektion mit SARS-CoV 2, ein Verdacht auf eine solche oder eine Erkrankung an COVID-19 vorliegt, bis zur Feststellung der Gesundheitsbehörde, dass keine Infektion oder Erkrankung mit COVID-19 (mehr) vorliegt, längstens aber bis zu zehn Tagen, anordnen, dass alle Personen, die sich im Schulgebäude aufhalten, während des gesamten Schultages eine den Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung (MNS) zu tragen haben.
+(5) Vom Vorliegen eines Verdachtsfalls ist jedenfalls bei einer Körpertemperatur von 37,5°C oder mehr oder plötzlichem Verlust des Geruchs- und Geschmacksinns auszugehen.
+Fernbleiben vom Unterricht aufgrund einer Quarantäneentscheidung
+§ 10. (1) Das Fernbleiben vom Unterricht aufgrund einer durch eine Quarantäneentscheidung gemäß § 3 Z 3 angeordneten Absonderung oder Verkehrsbeschränkung gilt als gerechtfertigtes Fernbleiben im Sinne des § 45 Abs. 2 SchUG bzw. des § 9 Abs. 3 des Schulpflichtgesetzes 1985, BGBl. Nr. 76/1985.
+(2) Schülerinnen und Schüler haben während der Zeit des Fernbleibens vom Unterricht das Recht, sich über den durchgenommenen Lehrstoff zu informieren.
+Elektronische Konferenzen
+§ 11. (1) Zu Beratungen und Beschlussfassungen von Konferenzen, Kommissionen und schulpartnerschaftlichen Gremien kann mittels elektronischer Kommunikation eingeladen und diese können auf elektronischem Wege durchgeführt werden.
+(2) Konferenzen und schulpartnerschaftliche Gremien sind abweichend von § 20 Abs. 6, § 63a Abs. 7 und § 64 Abs. 11 SchUG und § 58 Abs. 6 SchUG-BKV beschlussfähig, wenn die für eine Beschlussfassung bei physischer Abhaltung erforderliche Anzahl an Mitgliedern gleichzeitig im virtuellen Raum anwesend ist.
+(3) Beschlüsse können dabei während der elektronischen Konferenz gefasst, schriftlich protokolliert und anschließend im Umlaufweg auch elektronisch gezeichnet werden.
+Elektronische Kommunikation
+§ 12. (1) Die Aussprachen und Beratungen mit den Erziehungsberechtigten im Sinne des § 62 Abs. 1 SchUG bzw. mit den volljährigen Schülerinnen und Schülern bzw. Studierenden von Schulen im Geltungsbereich des SchUG-BKV können bei Bedarf auch in Form elektronischer Kommunikation erfolgen.
+(2) Zu Zwecken der Kommunikation und Beratung, der Unterrichtsgestaltung, einschließlich der Individuellen Lernbegleitung, der Leistungsfeststellung und Leistungsbeurteilung, für Beratungen schulpartnerschaftlicher Gremien und zur Information von Schülerinnen und Schülern, Studierenden und Erziehungsberechtigten dürfen Schulverwaltung, Schulleitungen und Lehrpersonen private Kontaktdaten von Schülerinnen und Schülern, Studierenden und Erziehungsberechtigten verarbeiten.
+(3) Schülerinnen und Schüler sind zur Teilnahme am ortsungebundenen Unterricht unter Einsatz elektronischer Kommunikation zu vorgegebenen Zeiten verpflichtet, wenn dies von der Schulleitung oder einer Lehrperson angeordnet wird, es der Schülerin oder dem Schüler technisch möglich ist und keine Gründe gemäß § 9 Abs. 3 und Abs. 6 des Schulpflichtgesetzes 1985, § 45 Abs. 1 und Abs. 4 SchUG oder § 45 SchUG-BKV vorliegen. Eine technische Unmöglichkeit ist durch die Schülerin oder den Schüler oder deren Erziehungsberechtigte glaubhaft zu machen.
+2. Teil
+Bestimmungen zu den Ampelphasen
+1. Abschnitt
+Bestimmungen für die Ampelphase „Grün“
+1. Unterabschnitt
+Allgemeine Bestimmungen
+Anwendungsbereich
+§ 13. (1) Die Bestimmungen des 1. Abschnittes des 2. Teiles dieser Verordnung gelten für alle Schulen gemäß § 2 dieser Verordnung, sofern die örtlich und sachlich zuständige Schulbehörde nicht für einzelne, mehrere oder alle Schulen, Schulstandorte oder Teile von diesen aufgrund der zur Verfügung stehenden Daten und Informationen zum Zweck der Verhinderung der Verbreitung von SARS-CoV 2 oder COVID-19 die Anwendung eines anderen Abschnittes dieser Verordnung anordnet. Der Gesundheitsbehörde ist vor Erlass der Verordnung die Mitwirkung an der Entscheidung zu ermöglichen.
+(2) Schulen, Schulstandorte oder Teile von diesen, auf welche dieser Abschnitt anzuwenden ist, befinden sich in der Ampelphase „Grün“.
+(3) Als Daten und Informationen gemäß Abs. 1, § 17, § 22 und § 33 kommen neben den allgemeinen epidemiologischen Daten des örtlichen Einzugsgebietes einer Schule insbesondere die Zahl der infizierten und erkrankten Schülerinnen und Schüler, der mit Infizierten oder Erkrankten im gleichen Haushalt lebenden oder in direktem Kontakt gestandenen Schülerinnen und Schüler, der Anteil der nicht erklärbaren Erkrankungen und Infektionen von Schülerinnen und Schülern, oder die Bündelung von Infektionen oder Erkrankungen bei bestimmten, nachvollziehbar zuordenbaren, Klassen oder Schülergruppen in Betracht.
+Schulveranstaltungen und schulbezogene Veranstaltungen
+§ 14. (1) Schulveranstaltungen und schulbezogene Veranstaltungen dürfen abweichend von den Bestimmungen der Schulveranstaltungenverordnung 1995, BGBl. Nr. 498/1995, nur geplant und durchgeführt werden, wenn die Einhaltung der Hygienebestimmungen für die gesamte Dauer der Veranstaltung gewährleistet werden kann.
+(2) Vor der Entscheidung über die Planung oder Durchführung von Veranstaltungen gemäß Abs. 1 ist eine Risikoanalyse betreffend den Schutz der körperlichen Sicherheit der an der Veranstaltung teilnehmenden Personen im Hinblick auf COVID-19 zu erstellen. Die Risikoanalyse ist in Anbetracht der epidemiologischen Situation am Ort der Veranstaltung laufend zu evaluieren und der Planung und der Durchführung der Veranstaltung zugrunde zu legen.
+Durchführung des Unterrichts
+§ 15. (1) Der Unterricht ist nach Maßgabe der Möglichkeiten im Freien abzuhalten.
+(2) Für die Durchführung der aufgrund der §§ 29 Abs. 1 lit. b, 47 Abs. 1, 58 Abs. 1, 59 Abs. 2, 60 Abs. 2, 62 Abs. 3, 63 Abs. 4, 63b Abs. 3, 72 Abs. 5, 73 Abs. 2, 74 Abs. 2, 76 Abs. 2, 77 Abs. 2, 78 Abs. 4 sowie 80 Abs. 4 SchOG sowie aufgrund des § 17 Abs. 1 lit. b des Land- und forstwirtschaftlichen Bundesschulgesetzes und des § 119 Abs. 1 und 2 des Forstgesetzes 1975 lehrplanmäßig vorgesehenen praktischen Unterrichtsgegenstände, für die Unterrichtsgegenstände Werkerziehung, Technisches und textiles Werken, Musikerziehung, Musikkunde, Instrumentalunterricht und Gesang, Musik, bildnerische Erziehung und kreativer Ausdruck, Kreativer Ausdruck und Rhythmisch-musikalische Erziehung, Sonderformen der Mittelschule und der allgemein bildenden höheren Schule mit sportlichem Schwerpunkt, die Bundessportakademien sowie für Schulversuche mit musikalischem oder sportlichem Schwerpunkt kann die oberste Schulbehörde ergänzende Hygienebestimmungen, insbesondere zum Abstandsgebot, zur Größe von Unterrichtsräumen, deren zeitversetzter Nutzung und zum Tragen einer Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) erlassen.
+2. Unterabschnitt
+Besondere Bestimmungen für die Berufsschule
+§ 16. Wenn für eine Berufsschule zumindest für einen Teil des Unterrichtsjahres oder des Lehrganges ein ortsungebundener Unterricht angeordnet war,
+	1.	können in Abweichung von § 49 SchOG und der dazu ergangenen Verordnung über die Lehrpläne für Berufsschulen, BGBl. II Nr. 211/2016, fachpraktischer Unterricht und Laboratoriumsübungen in geblockter Form bis zum Höchstausmaß der lehrplanmäßigen Gesamtstundenanzahl abgehalten werden,
+	2.	kann die Schulleitung diese Pflichtgegenstände zu verbindlichen Übungen erklären, wenn eine Beurteilung im fachpraktischen Unterricht oder in Laboratoriumsübungen nicht möglich ist,
+	3.	kann die Schulleitung Schülerinnen und Schüler abweichend von § 11 SchUG von der Teilnahme an diesen Pflichtgegenständen befreien, wenn kein fachpraktischer Unterricht oder kein Unterricht in Laboratoriumsübungen durchführbar war und
+	4.	darf abweichend von § 10 Abs. 8 des Schulzeitgesetzes 1985, BGBl. Nr. 77/1985, die Zahl an Unterrichtsstunden in Pflichtgegenständen zehn nicht überschreiten.
+2. Abschnitt
+Bestimmungen für die Ampelphase „Gelb“
+1. Unterabschnitt
+Allgemeine Bestimmungen
+Anwendungsbereich
+§ 17. Die Bestimmungen des 2. Abschnittes des 2. Teiles dieser Verordnung gelten für jene Schulen, Schulstandorte oder Teile von diesen, für welche die Schulbehörde dies aufgrund der zur Verfügung stehenden Daten und Informationen zum Zweck der Verhinderung der Verbreitung von SARS-CoV 2 oder COVID-19 im Einvernehmen mit der obersten Schulbehörde verordnet hat. Sie befinden sich in der Ampelphase „Gelb“.
+Schulveranstaltungen und schulbezogene Veranstaltungen
+§ 18. (1) Schulveranstaltungen und schulbezogene Veranstaltungen dürfen abweichend von den Bestimmungen der Schulveranstaltungenverordnung 1995 nur geplant und durchgeführt werden, wenn die Einhaltung der Hygienebestimmungen für die gesamte Dauer der Veranstaltung gewährleistet werden kann.
+(2) Vor der Entscheidung über die Planung oder Durchführung von Veranstaltungen gemäß Abs. 1 ist eine Risikoanalyse betreffend den Schutz der körperlichen Sicherheit der an der Veranstaltung teilnehmenden Personen im Hinblick auf COVID-19 zu erstellen. Die Risikoanalyse ist in Anbetracht der epidemiologischen Situation am Ort der Veranstaltung laufend zu evaluieren und der Planung und der Durchführung der Veranstaltung zugrunde zu legen.
+Vorkehrungen zur Verhinderung der Verbreitung der COVID-19 Erkrankung
+§ 19. (1) Alle Personen, die sich im Schulgebäude aufhalten, haben außerhalb der Klassen- und Gruppenräume eine den Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung (MNS) nach Maßgabe der Anlage A zu dieser Verordnung zu tragen.
+(2) Die Schulleitung oder von dieser ermächtigte Lehrpersonen können zudem das Tragen einer den Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) nach Maßgabe der Anlage A während der Unterrichtsstunden oder von Teilen von diesen anordnen, wenn der Unterricht in klassenübergreifenden Gruppen erfolgt.
+Durchführung des Unterrichts
+§ 20. (1) Der Unterricht ist nach Maßgabe der Möglichkeiten im Freien abzuhalten.
+(2) Singen ist im Unterricht nur mit einer den Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) oder im Freien zulässig. Musizieren mit Blasinstrumenten ist nur im Freien möglich.
+(3) Bewegung und Sport ist vorrangig im Freien, jedenfalls aber mit erhöhtem Sicherheitsabstand gemäß Anlage A durchzuführen. Soweit Lehrplaninhalte dies erfordern, ist ein kurzfristiges Unterschreiten des erhöhten Sicherheitsabstandes zulässig.
+(4) Für die Durchführung der aufgrund der §§ 29 Abs. 1 lit. b, 47 Abs. 1, 58 Abs. 1, 59 Abs. 2, 60 Abs. 2, 62 Abs. 3, 63 Abs. 4, 63b Abs. 3, 72 Abs. 5, 73 Abs. 2, 74 Abs. 2, 76 Abs. 2, 77 Abs. 2, 78 Abs. 4 sowie 80 Abs. 4 SchOG sowie aufgrund des § 17 Abs. 1 lit. b des Land- und forstwirtschaftlichen Bundesschulgesetzes und des § 119 Abs. 1 und 2 des Forstgesetzes 1975 lehrplanmäßig vorgesehenen praktischen Unterrichtsgegenstände, für die Unterrichtsgegenstände Werkerziehung, Technisches und textiles Werken, Musikerziehung, Musikkunde, Instrumentalunterricht und Gesang, Musik, bildnerische Erziehung und kreativer Ausdruck, Kreativer Ausdruck und Rhythmisch-musikalische Erziehung, Sonderformen der Mittelschule und der allgemein bildenden höheren Schule mit sportlichem Schwerpunkt, die Bundessportakademien sowie für Schulversuche mit musikalischem oder sportlichem Schwerpunkt kann die oberste Schulbehörde ergänzende Hygienebestimmungen, insbesondere zum Abstandsgebot, zur Größe von Unterrichtsräumen, deren zeitversetzter Nutzung und zum Tragen einer Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) erlassen.
+2. Unterabschnitt
+Besondere Bestimmungen für die Berufsschule
+§ 21. Wenn für eine Berufsschule zumindest für einen Teil des Unterrichtsjahres oder des Lehrganges ein ortsungebundener Unterricht angeordnet war,
+	1.	können in Abweichung von § 49 SchOG und der dazu ergangenen Verordnung über die Lehrpläne für Berufsschulen, BGBl. II Nr. 211/2016, fachpraktischer Unterricht und Laboratoriumsübungen in geblockter Form bis zum Höchstausmaß der lehrplanmäßigen Gesamtstundenanzahl abgehalten werden,
+	2.	kann die Schulleitung diese Pflichtgegenstände zu verbindlichen Übungen erklären, wenn eine Beurteilung im fachpraktischen Unterricht oder in Laboratoriumsübungen nicht möglich ist,
+	3.	kann die Schulleitung Schülerinnen und Schüler abweichend von § 11 SchUG von der Teilnahme an diesen Pflichtgegenständen befreien, wenn kein fachpraktischer Unterricht oder kein Unterricht in Laboratoriumsübungen durchführbar war und
+	4.	darf abweichend von § 10 Abs. 8 des Schulzeitgesetzes 1985 die Zahl an Unterrichtsstunden in Pflichtgegenständen zehn nicht überschreiten.
+3. Abschnitt
+Bestimmungen für die Ampelphase „Orange“
+1. Unterabschnitt
+Allgemeine Bestimmungen
+Anwendungsbereich
+§ 22. Die Bestimmungen des 3. Abschnittes des 2. Teiles dieser Verordnung gelten für jene Schulen, Schulstandorte oder Teile von diesen, für welche die Schulbehörde dies aufgrund der zur Verfügung stehenden Daten und Informationen zum Zweck der Verhinderung der Verbreitung von SARS-CoV 2 oder COVID-19 im Einvernehmen mit der obersten Schulbehörde verordnet hat. Sie befinden sich in der Ampelphase „Orange“.
+Vorkehrungen zur Verhinderung der Verbreitung der COVID-19 Erkrankung
+§ 23. (1) Alle Personen, die sich im Schulgebäude aufhalten, haben außerhalb der Klassen- und Gruppenräume eine den Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung (MNS) nach Maßgabe der Anlage A zu tragen. Dies gilt insbesondere im Eingangsbereich des Schulgebäudes vor dem Beginn und nach dem Ende des Unterrichts.
+(2) Die Schulleitung oder von dieser ermächtigte Lehrpersonen können das Tragen einer den Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) nach Maßgabe der Anlage A während der Unterrichtsstunden oder von Teilen von diesen anordnen, wenn der Unterricht in klassenübergreifenden Gruppen erfolgt.
+Schulveranstaltungen und schulbezogene Veranstaltungen
+§ 24. Abweichend von §§ 13, 13a, 63a und 64 SchUG sowie § 15 SchUG-BKV sind Schulveranstaltungen nicht durchzuführen, schulbezogene Veranstaltungen nicht zu besuchen.
+Beginn des Schultages, Pausen
+§ 25. (1) Bei Festlegung des Unterrichtsbeginnes hat die Schulleitung im Hinblick auf die Hygienebestimmungen darauf zu achten, dass größere Personenansammlungen möglichst vermieden werden. Zu diesem Zweck kann die Schulleitung abweichend von § 3 Abs. 2, § 9 Abs. 3 und § 10 Abs. 8 des Schulzeitgesetzes 1985 den Unterrichtsbeginn für einzelne Klassen unterschiedlich festlegen.
+(2) Bei Festlegung der Unterrichtsstunden und der Pausen nach §§ 4, 9 Abs. 1 und 10 Abs. 7 des Schulzeitgesetzes 1985 hat die Schulleitung drauf zu achten, dass die Einhaltung der Hygienebestimmungen gewährleistet ist und größere Personenansammlungen vermieden werden können.
+Kooperationen mit außerschulischen Einrichtungen und Personen
+§ 26. (1) Unterrichtsangebote außerschulischer Einrichtungen oder Personen sowie die Kooperation mit solchen Personen oder Einrichtungen zu diesem Zweck dürfen nicht wahrgenommen werden. Dies gilt insbesondere für Angebote im Rahmen der erweiterten Schulgemeinschaft und Kooperationsvereinbarungen gemäß der § 65, § 65a SchUG und § 59 SchUG-BKV, sofern diese mit physischer Anwesenheit im Schulgebäude verbunden sind.
+(2) Praxisschulmäßiger Unterricht durch Studierende von Lehramtsstudien findet nicht statt.
+Durchführung des Unterrichts
+§ 27. (1) Der Unterricht ist nach Maßgabe der Möglichkeiten im Freien abzuhalten.
+(2) Singen oder Musizieren mit Blasinstrumenten hat im Unterricht in geschlossenen Räumen zu unterbleiben.
+(3) Der Unterricht in Bewegung und Sport hat, wenn immer es möglich ist, im Freien zu erfolgen. Findet der Unterricht in geschlossenen Räumen statt, so ist der erhöhte Sicherheitsabstand gemäß Anlage A einzuhalten. Kontaktsportarten sind unzulässig.
+(4) Für die Durchführung der aufgrund der §§ 29 Abs. 1 lit. b, 47 Abs. 1, 58 Abs. 1, 59 Abs. 2, 60 Abs. 2, 62 Abs. 3, 63 Abs. 4, 63b Abs. 3, 72 Abs. 5, 73 Abs. 2, 74 Abs. 2, 76 Abs. 2, 77 Abs. 2, 78 Abs. 4 sowie 80 Abs. 4 SchOG sowie aufgrund des § 17 Abs. 1 lit. b des Land- und forstwirtschaftlichen Bundesschulgesetzes und des § 119 Abs. 1 und 2 des Forstgesetzes 1975 lehrplanmäßig vorgesehenen praktischen Unterrichtsgegenstände, für die Unterrichtsgegenstände Werkerziehung, Technisches und textiles Werken, Musikerziehung, Musikkunde, Instrumentalunterricht und Gesang, Musik, bildnerische Erziehung und kreativer Ausdruck, Kreativer Ausdruck und Rhythmisch-musikalische Erziehung, Sonderformen der Mittelschule und der allgemein bildenden höheren Schule mit sportlichem Schwerpunkt, die Bundessportakademien sowie für Schulversuche mit musikalischem oder sportlichem Schwerpunkt kann die oberste Schulbehörde ergänzende Hygienebestimmungen, insbesondere zum Abstandsgebot, zur Größe von Unterrichtsräumen, deren zeitversetzter Nutzung und zum Tragen einer Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) erlassen.
+2. Unterabschnitt
+Besondere Bestimmungen für die Berufsschule
+Fachpraktischer Unterricht und Pflichtgegenstände
+§ 28. (1) In Abweichung von § 49 SchOG und der dazu ergangenen Verordnung über die Lehrpläne für Berufsschulen, BGBl. II Nr. 211/2016, können fachpraktischer Unterricht und Laboratoriumsübungen in geblockter Form bis zum Höchstausmaß der lehrplanmäßigen Gesamtstundenanzahl abgehalten werden.
+(2) Wenn eine Beurteilung im fachpraktischen Unterricht oder in Laboratoriumsübungen nicht möglich ist, kann die Schulleitung diese Pflichtgegenstände zu verbindlichen Übungen erklären.
+(3) Wenn kein fachpraktischer Unterricht oder kein Unterricht in Laboratoriumsübungen durchführbar war oder ist, kann die Schulleitung Schülerinnen und Schüler abweichend von § 11 SchUG von der Teilnahme an diesen Pflichtgegenständen befreien.
+(4) Abweichend von § 49 Abs. 4 SchOG kann eine Unterbrechung des Lehrganges an einer lehrgangsmäßigen Berufsschule aus Anlass von Maßnahmen zur Eindämmung der COVID-19 Pandemie erfolgen.
+Verlängerung der Frist für das Ablegen von Wiederholungs- und Nachtragsprüfungen
+§ 29. An lehrgangs- und saisonmäßigen Berufsschulen sowie an über kein ganzes Unterrichtsjahr dauernden Berufsschulen dürfen Wiederholungs- und Nachtragsprüfungen abweichend von § 23 Abs. 1b und § 20 Abs. 3 SchUG spätestens zwei Wochen nach Beginn des folgenden, für die Schülerin bzw. den Schüler in Betracht kommenden Lehrganges abgelegt werden. Findet die Wiederholungsprüfung nach Beginn des folgenden, für die Schülerin bzw. den Schüler in Betracht kommenden Lehrganges statt, ist die Schülerin bzw. der Schüler bis zur Ablegung der Wiederholungs- bzw. Nachtragsprüfung berechtigt, den Unterricht der nächsthöheren Schulstufe zu besuchen.
+Höchstzulässige Zahl an Unterrichtsstunden
+§ 30. Abweichend von § 10 Abs. 8 des Schulzeitgesetzes 1985 darf die Zahl an Unterrichtsstunden in Pflichtgegenständen zehn nicht überschreiten.
+3. Unterabschnitt
+Besondere Bestimmungen für die allgemein bildenden höheren Schulen ab der 9. Schulstufe, Berufsschulen, berufsbildenden mittleren und höheren Schulen, land- und forstwirtschaftlichen Bundesschulen sowie für Schulen für Berufstätige, Kollegs, Vorbereitungslehrgänge und Sonderformen
+Anordnung des ortsungebundenen Unterrichts
+§ 31. (1) Jede Schule hat mit Inkrafttreten der Entscheidung der Gesundheitsbehörde gemäß § 6 oder mit Anordnung der Anwendbarkeit dieses Abschnittes durch die Schulbehörde den Unterricht in ortsungebundener Form durchzuführen. Mit Anwendbarkeit des 1. oder 2. Abschnittes des 2. Teils dieser Verordnung ist der Präsenzunterricht am Schulstandort binnen angemessener Frist, spätestens aber mit dem auf die Aufhebung folgenden Montag, wiederaufzunehmen.
+(2) Abweichend von § 6 SchOG und § 5 des Land- und forstwirtschaftlichen Bundesschulgesetzes hat für die Dauer des ortsungebundenen Unterrichts der Unterricht in Freigegenständen und in unverbindlichen Übungen zu entfallen, außer in den im Minderheitenschulgesetz für das Burgenland und im Minderheitenschulgesetz für Kärnten genannten Unterrichtssprachen an Schulen, auf welche das Minderheitenschulgesetz für das Burgenland oder das Minderheitenschulgesetz für Kärnten anzuwenden sind.
+(3) Abweichend von Abs. 1 kann die Schulleitung für einzelne Klassen oder Gruppen für einzelne oder mehrere zusammenhängende Tage oder einzelne Unterrichtsgegenstände Ausnahmen vom ortsungebundenen Unterricht anordnen.
+Besondere Bestimmungen für Schulen mit Internat
+Anordnung des ortsungebundenen Unterrichts
+§ 32. Abweichend von § 8a SchOG, vom 4. Abschnitt und § 63a oder § 64 SchUG, vom 4. Abschnitt des SchUG-BKV und von § 8a des Land- und forstwirtschaftlichen Bundesschulgesetzes kann die Schulleitung in Abstimmung mit der zuständigen Schulbehörde für einzelne Klassen oder für die gesamte Schule ortsungebundenen Unterricht für einzelne oder mehrere Schultage oder für beschränkte Zeiträume anordnen, wenn dies aus organisatorischen Gründen mit Hinblick auf Schülerinnen und Schüler, für die mit dem Besuch der Schule eine Nächtigung außerhalb des Hauptwohnsitzes verbunden ist, erforderlich ist und wenn die Anreise oder Nächtigung nicht möglich ist.
+4. Abschnitt
+Bestimmungen für die Ampelphase „Rot“
+1. Unterabschnitt
+Allgemeine Bestimmungen
+Anwendungsbereich
+§ 33. Die Bestimmungen des 4. Abschnittes des 2. Teiles dieser Verordnung gelten für jene Schulen, Schulstandorte oder Teile von diesen, für welche die Schulbehörde dies aufgrund der zur Verfügung stehenden Daten und Informationen zum Zweck der Verhinderung der Verbreitung von SARS-CoV 2 oder COVID-19 im Einvernehmen mit der obersten Schulbehörde verordnet hat. Sie befinden sich in der Ampelphase „rot“.
+Anordnung des ortsungebundenen Unterrichts
+§ 34. (1) Jede Schule hat mit Inkrafttreten der Entscheidung gemäß § 6 oder mit Anordnung der Anwendbarkeit dieses Abschnittes durch die Schulbehörde den Unterricht in ortsungebundener Form durchzuführen. Mit Anwendbarkeit eines anderen. Abschnittes des 2. Teils dieser Verordnung ist der Präsenzunterricht am Schulstandort, sofern nicht § 31 anwendbar ist, binnen angemessener Frist, spätestens aber mit dem auf die Aufhebung folgenden Montag, wiederaufzunehmen.
+(2) Abs. 1 gilt nicht für Sonderschulen. Schülerinnen und Schüler an diesen Schulen, welche sich aus mit der COVID-19-Pandemie in Zusammenhang stehenden Gründen nicht in der Lage sehen, am Unterricht teilzunehmen, kann die Erlaubnis zum Fernbleiben vom Unterricht aus wichtigen Gründen im Sinne des § 9 Abs. 6 Schulpflichtgesetz 1985 oder § 45 Abs. 4 SchUG erteilt werden.
+Vorkehrungen zur Verhinderung der Verbreitung der COVID-19 Erkrankung
+§ 35. Alle Personen, die sich im Schulgebäude aufhalten, haben eine den Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung (MNS) nach Maßgabe der Anlage A zu tragen.
+Schulveranstaltungen und schulbezogene Veranstaltungen
+§ 36. Abweichend von §§ 13, 13a, 63a und 64 SchUG sowie § 15 SchUG-BKV sind Schulveranstaltungen nicht durchzuführen, schulbezogene Veranstaltungen nicht zu besuchen.
+Freigegenstände und unverbindliche Übungen
+§ 37. Abweichend von § 6 SchOG und § 5 des Land- und forstwirtschaftlichen Bundesschulgesetzes hat für die Dauer des ortsungebundenen Unterrichts der Unterricht in Freigegenständen und in unverbindlichen Übungen zu entfallen, außer in den im Minderheitenschulgesetz für das Burgenland und im Minderheitenschulgesetz für Kärnten genannten Unterrichtssprachen an Schulen, auf welche das Minderheitenschulgesetz für das Burgenland oder das Minderheitenschulgesetz für Kärnten anzuwenden sind.
+2. Unterabschnitt
+Besondere Bestimmungen für die Volksschule, Mittelschule, Polytechnische Schule sowie die 5. bis 8. Schulstufe der allgemein bildenden höheren Schulen
+Ausnahmen vom ortsungebundenen Unterricht
+§ 38. (1) Wenn Schülerinnen und Schüler im ortsungebundenen Unterricht zur Erfüllung der Arbeitsaufgaben einen geeigneten Arbeitsplatz, einen Zugang zu IT-Endgeräten oder eine pädagogische Unterstützung benötigen, oder eine häusliche Betreuung ansonsten nicht sichergestellt ist, sind sie in der Schule zu beaufsichtigen und in einer dem Unterricht im Lehrerteam gemäß § 31a SchUG entsprechenden Form zu unterstützen.
+(2) Abweichend von § 5 kann die Schulleitung die Schülerinnen und Schüler, die am Unterricht gemäß Abs. 1 teilnehmen, nach Maßgabe der organisatorischen und räumlichen Möglichkeiten und der pädagogischen Zweckmäßigkeit in klassen-, gruppen- oder schulstufenübergreifende Gruppen zusammenfassen. Die Bestimmungen gemäß § 25 und § 27 Abs. 1 bis 3 sind sinngemäß anzuwenden.
+(3) Der Betreuungsteil ganztägiger Schulformen ist durchzuführen, wenn Schülerinnen und Schüler gemäß Abs. 1 zur ganztägigen Schulform angemeldet sind.
+3. Unterabschnitt
+Besondere Bestimmungen für die Berufsschule
+Fachpraktischer Unterricht und Pflichtgegenstände
+§ 39. (1) In Abweichung von § 49 SchOG und der dazu ergangenen Verordnung über die Lehrpläne für Berufsschulen, BGBl. II Nr. 211/2016, können fachpraktischer Unterricht und Laboratoriumsübungen in geblockter Form bis zum Höchstausmaß der lehrplanmäßigen Gesamtstundenanzahl abgehalten werden.
+(2) Wenn aufgrund von Maßnahmen zur Eindämmung der COVID-19 Pandemie eine Beurteilung im fachpraktischen Unterricht oder in Laboratoriumsübungen nicht möglich ist, kann die Schulleitung diese Pflichtgegenstände zu verbindlichen Übungen erklären.
+(3) Wenn kein fachpraktischer Unterricht oder kein Unterricht in Laboratoriumsübungen durchführbar war oder ist, kann die Schulleitung Schülerinnen und Schüler abweichend von § 11 SchUG von der Teilnahme an diesen Pflichtgegenständen befreien.
+(4) Abweichend von § 49 Abs. 4 SchOG kann eine Unterbrechung des Lehrganges an einer lehrgangsmäßigen Berufsschule aus Anlass von Maßnahmen zur Eindämmung der COVID-19 Pandemie erfolgen.
+Verlängerung der Frist für das Ablegen von Wiederholungs- und Nachtragsprüfungen
+§ 40. An lehrgangs- und saisonmäßigen Berufsschulen sowie an über kein ganzes Unterrichtsjahr dauernden Berufsschulen dürfen Wiederholungs- und Nachtragsprüfungen abweichend von § 23 Abs. 1b und § 20 Abs. 3 SchUG spätestens zwei Wochen nach Beginn des folgenden, für die Schülerin oder den Schüler in Betracht kommenden Lehrganges abgelegt werden. Findet die Wiederholungsprüfung nach Beginn des folgenden, für die Schülerin oder den Schüler in Betracht kommenden Lehrganges statt, ist die Schülerin oder der Schüler bis zur Ablegung der Wiederholungs- bzw. Nachtragsprüfung berechtigt, den Unterricht der nächsthöheren Schulstufe zu besuchen.
+Höchstzulässige Zahl an Unterrichtsstunden
+§ 41. Abweichend von § 10 Abs. 8 des Schulzeitgesetzes 1985 darf die Zahl an Unterrichtsstunden in Pflichtgegenständen zehn nicht überschreiten.
+Verlängerung der Frist für die Wahl der Schülervertreter
+§ 42. Abweichend von § 59a Abs. 5 SchUG kann die Schulleitung die Frist zur Wahl von Schülervertreterinnen oder Schülervertretern bis zum Ende des ortsungebundenen Unterrichts erstrecken. Die Aufgaben der Schülervertretung werden in dieser Zeit von der an Jahren ältesten Schülerin oder dem an Jahren ältesten Schüler oder an Jahren ältesten Klassensprecherin oder Klassensprecher und im Fall des Schulgemeinschaftsausschusses von den drei ältesten Klassensprecherinnen oder Klassensprechern wahrgenommen.
+3. Teil
+Schlussbestimmungen
+Verweisungen
+§ 43. (1) Soweit in dieser Verordnung auf Bundesgesetze verwiesen wird, sind diese in der beim Inkrafttreten dieser Verordnung geltenden Fassung anzuwenden.
+(2) Soweit in dieser Verordnung auf Bestimmungen anderer Verordnungen verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+Inkrafttreten
+§ 44. Diese Verordnung tritt mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft und mit dem Ende des Schuljahres 2020/21 außer Kraft.
+Außerkrafttreten anderer Rechtsvorschriften
+§ 45. (1) Die Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Bewältigung der COVID-19 Folgen im Schulwesen für die Schuljahre 2019/20 und 2020/21 (C-SchVO), BGBl. II Nr. 208/2020, zuletzt geändert durch die Verordnung, BGBl. II Nr. 248/2020, tritt abweichend von § 35 der genannten Verordnung wie folgt außer Kraft:
+	1.	§ 17 letzter Satz, § 20 letzter Satz, § 24, § 25 letzter Satz, § 30 sowie § 31 letzter Satz mit Ablauf des 30. September 2020;
+	2.	§ 13 Abs. 1 zweiter und dritter Satz sowie Abs. 4 mit Ablauf des 31. Oktober 2020;
+	3.	§ 23 Z 3 und 4 sowie § 29 Z 3 und 4 mit Ablauf des 30. November 2020;
+	4.	§ 14, § 15 Abs. 2, § 21 Abs. 2, § 27 Abs. 1 und § 34 mit dem Ende des Schuljahres 2020/21;
+	5.	im Übrigen mit dem Inkrafttreten der Verordnung BGBl. II Nr. 384/2020.
+(2) Die Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung zur Bewältigung der COVID-19 Folgen im Berufsschulwesen für die Schuljahre 2019/20 und 2020/21 (COVID-19-Berufsschulverordnung – C-BSchVO), BGBl. II Nr. 164/2020, zuletzt geändert durch die Verordnung BGBl. II Nr. 194/2020, tritt abweichend von § 17 der genannten Verordnung wie folgt außer Kraft:
+	1.	§§ 12 und 13 mit dem Ende des Schuljahres 2020/21;
+	2.	im Übrigen mit dem Inkrafttreten der Verordnung BGBl. II Nr. 384/2020.
+FaßmannAnlage A
+Allgemeine Hygieneregelungen zur Eindämmung der COVID-19 Pandemie (Hygienebestimmungen)
+1. Abstandsgebot
+	1.1	Sicherheitsabstand (Mindestabstand)
+Es ist grundsätzlich auf dem gesamten Schulgelände, außer in Klassen- und Gruppenräumen, immer ein Abstand von zumindest einem Meter gegenüber anderen Personen, die nicht im gemeinsamen Haushalt leben, einzuhalten. Die Verpflichtung zur Einhaltung des Abstandes gilt nicht zwischen Menschen mit Behinderungen und Personen, die persönliche Assistenz- oder Betreuungsleistungen erbringen, sowie in medizinisch erforderlichen Fällen.
+	1.2	erhöhter Sicherheitsabstand
+Der erhöhte Sicherheitsabstand beträgt zwei Meter.
+2. Maßnahmen zur Einhaltung des Abstandsgebotes
+	2.1	Zeitversetzter Unterrichtstag
+Insbesondere das Eintreffen in der Schule, Beginn und Ende der Unterrichtseinheiten sowie der Pausen, die Mittagsverpflegung, das Abholen oder Verlassen der Schule kann zeitversetzt gestaltet werden, um eine Durchmischung der Schülerinnen und Schüler verschiedener Klassen zu verhindern.
+	2.2	Auflagen für das Bewegen im Schulgebäude
+Zur Einhaltung des Abstandsgebotes kann die Schulleitung ergänzend oder abweichend von der Schul- oder Hausordnung Regelungen für das Betreten und Verlassen des Schulgeländes und der Schulgebäude sowie für die Bewegung auf allgemeinen Flächen im Schulgebäude treffen (zB Einbahnregelungen).
+	2.3	Getrennte und konstante Räumlichkeiten
+Nach Möglichkeit sollen nur die Lehrpersonen zwischen den Klassenräumen wechseln; davon ausgenommen ist Unterricht in erforderlichen Funktionsräumen (Werkstätten, Labors) sowie der Unterricht in klassenübergreifenden Gruppen, wo dies pädagogisch und organisatorisch notwendig ist (Sprachgruppen, Klassen ohne fest zugewiesenen Klassenraum uä.).
+3. Atemhygiene
+	3.1	Die Räume sind stündlich mehrmals durchzulüften
+	3.2	Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung (MNS)
+An Schulen auf welche die Ampelphase Gelb oder Orange anzuwenden ist, müssen alle Personen im Schulgebäude außerhalb der Klassen- und Gruppenräume eine den Mund- und Nasenbereich abdeckende mechanische Schutzvorrichtung tragen. Dies gilt während der Pausen für die gesamte Schulliegenschaft, wenn der Mindestabstand nicht eingehalten werden kann. Ausgenommen sind Räumlichkeiten, die Lehrpersonen und Mitarbeitern und Mitarbeiterinnen der Schulverwaltung vorbehalten sind, solange der Mindestabstand eingehalten werden kann. In der Ampelphase Rot müssen alle Personen, die sich in der Schule aufhalten einen Mund-Nasen-Schutz tragen. Vom verpflichtenden Tragen des Mund-Nasen-Schutzes sind jene Schülerinnen und Schüler, welchen aufgrund ihrer Behinderung oder Beeinträchtigung das Tragen nachgewiesenermaßen nicht zugemutet werden kann, ausgenommen.
+	3.3	Besondere Hygienebestimmungen zur Atemhygiene
+3.3.1 Bewegung und Sport ist ab Ampelphase Gelb vorrangig im Freien, jedenfalls aber mit erhöhtem Sicherheitsabstand durchzuführen. Ab Ampelphase Orange sind Kontaktsportarten unzulässig.
+3.3.2 Singen ist im Unterricht in der Ampelphase Gelb nur mit einer den Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) oder im Freien zulässig, ab der Ampelphase Orange nur im Freien. Musizieren mit Blasinstrumenten ist ab der Ampelphase Gelb nur im Freien möglich.
+3.3.3 Die Schulleitung kann für Teile einer Unterrichtsstunde für bestimmte Schülerinnen und Schüler, Gruppen oder Klassen, Unterrichtsräume und Unterrichtssituationen das Tragen einer den Mund- und Nasenbereich abdeckenden mechanischen Schutzvorrichtung (MNS) anordnen oder einzelne oder alle Lehrpersonen der Schule zu dieser Anordnung ermächtigen.
+Anlage B
+Hygieneregelungen zur Vorgangsweise bei COVID-19 Verdachtsfällen
+1. Der Verdachtsfall ist unverzüglich in einem eigenen Raum (nicht im Schularztzimmer) „abgesondert“ und unter Wahrung der Hygiene- und Distanzbedingungen beaufsichtigt bis zum Vorliegen einer Entscheidung der zuständigen Gesundheitsbehörde, längstens aber bis zum Ende des Schultages der Klasse, der die Schülerin oder der Schüler angehört, unterzubringen.
+2. Die Schulleitung hat
+2.1 unverzüglich Anzeige bei der zuständigen Gesundheitsbehörde zu erstatten,
+2.2 anschließend die zuständige Schulbehörde zu informieren und
+2.3 m Falle von Minderjährigkeit die Erziehungsberechtigten des/der unmittelbar Betroffenen zu informieren.
+3. Die Schulleitung hat die getroffenen Entscheidungen und gesetzten Maßnahmen zu dokumentieren (mit Uhrzeit).
+4. Die Schulleitung hat zu dokumentieren, welche Personen Kontakt mit der betroffenen Person hatten sowie welche Art des Kontaktes stattgefunden hat (zB durch Klassenlisten, Lehrkräftelisten und Stunden-, Sitz- und Raumpläne).

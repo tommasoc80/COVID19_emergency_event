@@ -1,0 +1,241 @@
+﻿Verordnung
+über den Pilotversuch mit dem «Swiss Proximity-Tracing-
+System» zur Benachrichtigung von Personen, die potenziell
+dem Coronavirus (Covid-19) ausgesetzt waren
+(Covid-19-Verordnung Pilotversuch Proximity-Tracing)
+vom 13. Mai 2020 (Stand am 14. Mai 2020)
+Der Schweizerische Bundesrat,
+gestützt auf Artikel 17a Absätze 1 und 3 des Bundesgesetzes vom 19. Juni 1992* 1
+über den Datenschutz (DSG),
+auf Artikel 78 Absatz 1 des Epidemiengesetzes vom 28. September 20122 (EpG)
+und auf Artikel 25 Absatz 1 des Bundesstatistikgesetzes vom 9. Oktober 19923,
+verordnet:
+Art. 1 Gegenstand
+Diese Verordnung regelt den Pilotversuch mit dem «Swiss Proximity-Tracing-
+System» (Swiss PT-System, SPTS) zur Benachrichtigung von Personen (Art. 31
+Abs. 2 und 33 EpG), die potenziell dem Coronavirus (Covid-19) ausgesetzt waren,
+während der Dauer des Pilotversuchs. Sie regelt die Organisation, den Betrieb, die
+bearbeiteten Daten und die Nutzung des SPTS.
+Art. 2 Zweck des Pilotversuchs
+1	Der Pilotversuch dient dem Testen und der Evaluation des SPTS im Hinblick auf
+dessen definitive Einführung.
+2	Zu testen und zu evaluieren sind insbesondere:
+a.	die neu entwickelten Lösungsansätze hinsichtlich der Dezentralität der Da-
+tenbearbeitung und der kryptografischen Methoden;
+b.	die Stabilität des Betriebs;
+c.	die Absicherung gegen unbeabsichtigte oder unbefugte Manipulationen;
+d.	die Nutzerfreundlichkeit;
+e.	die Verständlichkeit der Informationen für die Teilnehmenden und für die
+zugriffsberechtigten Fachpersonen.
+AS 2020 1589
+1 SR 235.1
+2 SR 818.101
+3 SR 431.01
+1
+818.101.25
+Übertragbare Krankheiten
+Art. 3 Zweck des SPTS und der damit bearbeiteten Daten
+1	Das SPTS und die mit ihm bearbeiteten Daten dienen dazu:
+a.	die Teilnehmenden, die potenziell dem Coronavirus ausgesetzt waren, unter
+Wahrung des Datenschutzes zu benachrichtigen;
+b.	Statistiken im Zusammenhang mit dem Coronavirus zu erstellen.
+2	Sie dürfen nicht zu anderen Zwecken verwendet werden, insbesondere nicht zur
+Anordnung und Überprüfung von Massnahmen durch kantonale Behörden nach den
+Artikeln 33-38 EpG.
+Art. 4	Verhältnis zur Epidemienverordnung
+Artikel 60 EpG und die Bestimmungen der Epidemienverordnung vom 29. April
+20154 über das dort geregelte Informationssystem sind auf das SPTS nicht anwend-
+bar.
+Art. 5 Aufbau des SPTS
+1	Das SPTS umfasst folgende Komponenten:
+a.	ein System zur Verwaltung der Annäherungsdaten (VA-System), bestehend
+aus einer Software, die von den Teilnehmenden auf ihren Mobiltelefonen in-
+stalliert wird (App), und einem Backend (VA-Backend);
+b.	ein Codeverwaltungssystem, bestehend aus einem webbasierten Frontend
+und einem Backend.
+2	Das VA-Backend und das Codeverwaltungssystem werden als zentrale Server vom
+Bundesamt für Gesundheit (BAG) betrieben.
+Art. 6	Teilnehmende am Pilotversuch
+1	Der Kreis der möglichen Teilnehmenden am Pilotversuch beschränkt sich auf
+folgende Personengruppen:
+a.	Angehörige der Schweizer Armee im Ausbildungs-, Assistenz- und Aktiv-
+dienst;
+b.	Mitarbeitende von Hochschulen;
+c.	Mitarbeitende von Spitälern und Kliniken;
+d.	Mitarbeitende von kantonalen Verwaltungen und der Bundesverwaltung;
+e.	Mitglieder von Vereinigungen, die Beiträge an die Qualitätsverbesserung
+des Systems leisten wollen.
+2	Das BAG stellt diesen Institutionen und Vereinigungen zuhanden der Teilnehmen-
+den die notwendigen Informationen und den technischen Zugang, über den die App
+durch die Personen nach Absatz 1 heruntergeladen werden kann, zur Verfügung.
+4 SR 818.101.1
+2
+Covid-19-Verordnung Pilotversuch Proximity-Tracing
+818.101.25
+Art. 7 Freiwilligkeit
+1	Die Installation der App und der Einsatz des SPTS sind für die Teilnehmenden
+freiwillig.
+2	Die Benachrichtigung der Teilnehmenden, die potenziell dem Coronavirus ausge-
+setzt waren, erfolgt nur mit der ausdrücklichen Einwilligung der infizierten Person.
+Art. 8 Grundsätze der Datenbearbeitung
+1 Bei der Datenbearbeitung sind alle angemessenen technischen und organisatori-
+schen Massnahmen zu treffen, um zu verhindern, dass die Teilnehmenden bestimm-
+bar sind.
+2 Die Daten, die auf dem Mobiltelefon einer oder eines Teilnehmenden über andere
+Teilnehmende erfasst werden, werden ausschliesslich auf diesem Mobiltelefon
+bearbeitet und gespeichert.
+3	Im SPTS werden keine Standortdaten beschafft oder in anderer Art und Weise
+bearbeitet.
+4	Der Quellcode und die technischen Spezifikationen aller Komponenten des SPTS
+sind öffentlich.
+5	Die Bundesgesetzgebung über den Datenschutz ist anwendbar.
+Art. 9	Verantwortliches Bundesorgan
+Das BAG ist für alle Komponenten des SPTS das datenschutzrechtlich verantwortli-
+che Bundesorgan.
+Art. 10	Funktionsweise im Grundbetrieb
+1 Das VA-Backend stellt im Grundbetrieb den Apps seinen Inhalt im Abrufverfahren
+zur Verfügung. Dieser besteht aus einer Liste mit folgenden Daten:
+a.	den privaten Schlüsseln der infizierten Teilnehmenden, die in dem Zeitraum
+aktuell waren, in dem eine Ansteckung von anderen Personen wahrschein-
+lich war (relevanter Zeitraum);
+b.	dem Datum jedes Schlüssels.
+2 Die App erfüllt folgende Funktionen:
+a.	Sie generiert jeden Tag einen neuen privaten Schlüssel, der keine Rück-
+schlüsse auf die App und die Teilnehmende oder den Teilnehmenden ermög-
+licht.
+b.	Sie sendet über Bluetooth kontinuierlich einen nach jeweils fünfzehn Minu-
+ten wechselnden Identifizierungscode aus, der aus dem aktuellen privaten
+Schlüssel der App abgeleitet wird, aber nicht auf diesen Schlüssel zurückge-
+führt werden kann, und der keine Rückschlüsse auf die App und die Teil-
+nehmende oder den Teilnehmenden ermöglicht.
+3
+818.101.25
+Übertragbare Krankheiten
+c.	Sie prüft kontinuierlich, ob von anderen Mobiltelefonen ausgesendete kom-
+patible Signale empfangen werden. Beträgt die Annäherung zu einem ande-
+ren Mobiltelefon zwei Meter oder weniger, so speichert die App dessen ak-
+tuellen Identifizierungscode, die Signalstärke, das Datum und die geschätzte
+Dauer der Annäherung. Die Annäherung wird aufgrund der Stärke der emp-
+fangenen Signale geschätzt.
+d.	Sie ruft vom VA-Backend periodisch die Liste der privaten Schlüssel der
+infizierten Teilnehmenden ab, ermittelt daraus die zugehörigen Identifizie-
+rungscodes gemäss Buchstabe b und gleicht die Identifizierungscodes mit
+den von ihr lokal gespeicherten Identifizierungscodes ab.
+e.	Ergibt der Abgleich eine Annäherung von zwei Metern oder weniger zu
+mindestens einem Mobiltelefon einer infizierten Teilnehmenden oder eines
+infizierten Teilnehmenden und erreicht die Summe der Dauer aller solchen
+Annäherungen innerhalb eines Tages fünfzehn Minuten, so gibt die App die
+Benachrichtigung aus.
+Art. 11	Funktionsweise nach einer Infektion
+1 Im Fall einer Infektion generieren die zugriffsberechtigten Fachpersonen im Code-
+verwaltungssystem einen einmaligen und zeitlich begrenzt gültigen Freischaltcode.
+Zusätzlich erfassen sie im Codeverwaltungssystem den Zeitpunkt des Auftretens der
+ersten Symptome oder, falls die infizierte Person keine Symptome zeigt, das Testda-
+tum.
+2 Die zugriffsberechtigten Fachpersonen geben den Freischaltcode der oder dem
+infizierten Teilnehmenden bekannt. Diese oder dieser kann den Freischaltcode in
+ihre oder seine App eingeben.
+3	Das Codeverwaltungs-Backend bestätigt gegenüber der App die Gültigkeit des
+eingegebenen Codes. Vom Datum, das die zugriffsberechtigte Fachperson nach
+Absatz 1 eingegeben hat, zieht es höchstens drei Tage ab. Das resultierende Datum
+gilt als Beginn des relevanten Zeitraums. Das Codeverwaltungs-Backend übermittelt
+dieses Datum der App der infizierten Person.
+4	Die App der infizierten Person übermittelt dem VA-Backend die privaten Schlüs-
+sel, die im relevanten Zeitraum aktuell waren, mit dem jeweiligen Datum.
+5	Das VA-Backend setzt die erhaltenen privaten Schlüssel mit ihrem jeweiligen
+Datum auf seine Liste.
+6	Die App erzeugt nach der Meldung einer Infizierung einen neuen privaten Schlüs-
+sel. Von diesem kann nicht auf frühere private Schlüssel zurückgeschlossen werden.
+Art. 12 Inhalt der Benachrichtigung
+1 Die Benachrichtigung umfasst:
+a. die Information, dass die oder der Teilnehmende potenziell dem Coronavirus
+ausgesetzt war;
+b. die Angabe, an welchem Tag dies zum letzten Mal der Fall war;
+4
+Covid-19-Verordnung Pilotversuch Proximity-Tracing
+818.101.25
+c.	Verhaltensempfehlungen des BAG.
+2 Das SPTS macht den Teilnehmenden keinerlei Vorgaben. Es informiert weder über
+Massnahmen der zuständigen kantonalen Behörden nach den Artikeln 33-38 EpG
+noch über Zugangsmöglichkeiten zu Virusnachweis-Tests.
+Art. 13	Beizug Dritter zur Verbreitung der privaten Schlüssel
+1	Das BAG kann Dritte beauftragen, die Liste mit den Daten nach Artikel 10 Ab-
+satz 1 den Apps im Abrufverfahren zur Verfügung zu stellen.
+2	Die Dritten müssen sich verpflichten, die Vorgaben nach dieser Verordnung einzu-
+halten.
+3	Das BAG kontrolliert die Einhaltung der Vorgaben.
+Art. 14	Inhalt des Codeverwaltungssystems
+Das Codeverwaltungssystem enthält folgende Daten:
+a.	die Freischaltcodes;
+b.	das Datum, an dem die ersten Symptome aufgetreten sind, oder, falls die in-
+fizierte Person keine Symptome zeigt, das Testdatum;
+c.	den Zeitpunkt der Vernichtung der Daten nach den Buchstaben a und b.
+Art. 15	Zugriffsberechtigungen auf das Codeverwaltungssystem
+1	Den Freischaltcode können folgende Personen ausgeben:
+a.	Kantonsärztinnen und Kantonsärzte;
+b.	der Oberfeldarzt der Armee;
+c.	andere Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste oder
+des militärärztlichen Dienstes der Armee;
+d.	die von den kantonsärztlichen Diensten oder vom militärärztlichen Dienst
+der Armee beauftragten Dritten;
+e.	die behandelnde Ärztin oder der behandelnde Arzt und deren Hilfspersonen.
+2	Die Anmeldung im Codeverwaltungssystem erfolgt über das zentrale Zugriffs- und
+Berechtigungssystem der Bundesverwaltung für Webapplikationen. Die Bestim-
+mungen der Verordnung vom 19. Oktober 20165 über Identitätsverwaltungs-
+Systeme und Verzeichnisdienste des Bundes sind anwendbar.
+3	Das BAG erteilt und verwaltet die Zugriffsrechte für das Codeverwaltungssystem.
+Den Kantonsärztinnen und Kantonsärzten sowie dem Oberfeldarzt der Armee erteilt
+es die Berechtigung zur Vergabe von Zugriffsrechten an ihre Hilfspersonen.
+5 SR 172.010.59
+5
+818.101.25
+Übertragbare Krankheiten
+Art. 16 Protokoll über Zugriffe
+1 Auf die Speicherung und Auswertung der Protokolle über die Zugriffe auf das VA-
+Backend und das Codeverwaltungssystem sind die Artikel 57i-57q des Regierungs-
+und Verwaltungsorganisationsgesetzes vom 21. März 19976 und die Verordnung
+vom 22. Februar 20127 über die Bearbeitung von Personendaten, die bei der Nut-
+zung der elektronischen Infrastruktur des Bundes anfallen, anwendbar.
+2 Über diese Protokolle und die Aufzeichnung von Annäherungen hinaus zeichnet
+das SPTS keine Protokolle von Aktivitäten der Frontends und Apps auf.
+Art. 17 Bekanntgabe zu Statistikzwecken
+Das BAG stellt dem Bundesamt für Statistik (BFS) periodisch den aktuellen Bestand
+der in den beiden Backends vorhandenen Daten in vollständig anonymisierter Form
+für statistische Auswertungen zur Verfügung.
+Art. 18	Vernichtung der Daten
+1	Die Daten des VA-Systems werden sowohl auf den Mobiltelefonen als auch im
+VA-Backend 21 Tage nach ihrer Erfassung vernichtet.
+2	Die Daten des Codeverwaltungssystems werden 24 Stunden nach ihrer Erfassung
+vernichtet.
+3	Protokolldaten von nach Artikel 13 beauftragten Dritten werden 7 Tage nach ihrer
+Erfassung vernichtet.
+4	Im Übrigen richtet sich die Vernichtung der Protokolldaten nach Artikel 4 Ab-
+satz 1 Buchstabe b der Verordnung vom 22. Februar 20128 über die Bearbeitung von
+Personendaten, die bei der Nutzung der elektronischen Infrastruktur des Bundes
+anfallen.
+5	Die dem BFS zur Verfügung gestellten Daten werden ebenfalls gemäss diesem
+Artikel vernichtet.
+Art. 19	Deinstallation der App, Installation der definitiven Version
+Die Institutionen und Vereinigungen nach Artikel 6 Absatz 1 fordern die betreffen-
+den Teilnehmenden nach Abschluss des Pilotversuchs dazu auf, entweder die App
+selbstständig auf dem Mobiltelefon zu deinstallieren oder, sofern das SPTS weiter-
+geführt wird und sie weiter teilnehmen möchten, die definitive Version der App zu
+installieren.
+Art. 20	Evaluation des Pilotversuchs
+1 Das EDI informiert laufend zuhanden des Bundesrates und der Bundesversamm-
+lung über den Pilotversuch.
+6	SR 172.010
+7	SR 172.010.442
+8	SR 172.010.442
+6
+Covid-19-Verordnung Pilotversuch Proximity-Tracing
+818.101.25
+2 Es erstattet dem Bundesrat spätestens einen Monat nach Ablauf des Pilotversuchs
+Bericht über den Versuch.
+Art. 21	Inkrafttreten und Geltungsdauer
+Diese Verordnung tritt am 14. Mai 2020 um 00.00 Uhr in Kraft und gilt bis zum
+30. Juni 2020.
+7
+818.101.25
+Übertragbare Krankheiten
+8

@@ -1,0 +1,206 @@
+Beleidsregel van de Minister voor Medische Zorg van 12 juni 2020, kenmerk 1697524-205856-CZ, houdende wijziging van de Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect in verband met diverse aanpassingen
+De Minister voor Medische Zorg,
+
+Gelet op artikel 1.3 van de Kaderregeling subsidies OCW, SZW en VWS;
+
+Besluit:
+
+ARTIKEL I
+De Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect wordt als volgt gewijzigd:
+
+A
+
+In artikel 1 komt de definitie van ‘regionaal partnerschap’ te luiden:
+
+regionaal partnerschap:
+een samenwerkingsverband
+
+a.dat bestaat uit minimaal drie VSV’s of IGO’s, tenzij door uitzonderlijke geografische omstandigheden slechts twee VSV’s in de regio beschikbaar zijn; en
+
+b.waar bij voorkeur de gemeentelijke gezondheidsdienst (GGD) of andere aanbieders van jeugdgezondheidszorg betrokken zijn.
+
+B
+
+Artikel 7, eerste lid, wordt gewijzigd als volgt:
+
+1. Aan het slot van onderdeel b vervalt ‘of’.
+
+2. Onder vervanging van de punt aan het slot van onderdeel c door een puntkomma worden twee onderdelen toegevoegd, luidende:
+
+d.1 februari 2021 tot en met 28 februari 2021;
+
+e.1 juni 2021 tot en met 30 juni 2021.
+
+C
+
+In artikel 12, tweede lid, wordt ‘1 januari 2023’ vervangen door ‘1 juli 2023’.
+
+D
+
+Bijlage 1 wordt gewijzigd en komt te luiden overeenkomstig Bijlage 1 bij deze beleidsregel.
+
+ARTIKEL II
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
+
+Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
+
+De Minister voor Medische Zorg,
+M.J. van Rijn
+
+BIJLAGE 1 EISEN TE STELLEN AAN EEN REGIONAAL PARTNERSCHAP, BEHORENDE BIJ ARTIKEL 3, EERSTE LID
+Een regionaal partnerschap en haar leden, moet voldoen aan:
+
+1.De uitgangspunten omtrent gegevensuitwisseling in ‘Zorgstandaard Integrale geboortezorg’1;
+
+2.Het Framework 2018-2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’2 en de Roadmap 2019-2022 ‘Realisatie digitaal informatie delen in geboortezorg Nederland’3;
+
+3.De publieke en één of meerdere door de overheid erkende private authenticatiediensten op minimaal betrouwbaarheidsniveau substantieel. Indien ‘substantieel’ nog niet breed beschikbaar is zal tenminste ‘2-factor authenticatie’ worden toegepast;
+
+4.Standaarden ten aanzien van de digitale toegankelijkheid, zoals de Web Content Accessibility Guidelines (WCAG);
+
+Toetsing
+
+• Een verklaring van de landelijke gebruikersgroepen dat de resultaten voldoen aan de in deze bijlage omschreven eisen;
+
+• Een verklaring van het programmabureau Babyconnect dat de resultaten voldoen aan de bovengenoemde eisen punt 1 t/m 4.
+
+5.De uitkomstdoelen van het informatieberaad Zorg, en meer specifiek:
+
+Uitkomstdoel 1
+
+Medicatieveiligheid
+
+Resultaten
+
+• Oplossingen worden op zodanige wijze geïmplementeerd, dat zodra de monodisciplinaire systemen, of via systeemintegrator, voldoen aan de informatiestandaard medicatieproces 9.06 of hoger1 de medicatie informatie in de hele keten en met de zorggebruiker gedeeld kan worden;
+
+• De resultaten ten behoeve van uitkomstdoel 1 zijn met name van toepassing voor de medisch specialisten. Daarnaast is het in belang van de zorggebruiker dat ook andere geboortezorgprofessionals inzage hebben – na toestemming van de zorggebruiker – in het actuele medicatie-overzicht.
+
+Toetsing
+
+• Toetsing van het presenteren van relevante informatie volgens de informatiestandaard medicatieproces 9.06 of hoger, mits beschikbaar en het betreffende zorginformatiesysteem voldoet aan de informatiestandaard 9.06 of hoger;
+
+• Toetsing van de mogelijkheid voor de andere geboortezorgverleners om het actuele medicatie-overzicht te kunnen inzien, mits relevant en nodig.
+
+1
+https://www.nictiz.nl/standaardisatie/informatiestandaarden/medicatieveiligheid.
+
+Uitkomstdoel 2
+
+Patiënt centraal
+
+Resultaten
+
+• Zorg- en gezondheidsgegevens van zorggebruikers, die relevant zijn om te delen, digitaal en gestandaardiseerd worden vastgelegd en beschikbaar gesteld voor zorggebruiker en de betrokken geboortezorgprofessionals;
+
+• De informatie die naar PGO’s wordt ontsloten, bestaat uit de volgende elementen:
+
+○ de (relevante onderdelen van de) Basis Gegevensset Zorg (hierna: BGZ)
+
+○ laboratoriumuitslagen,
+
+○ alle andere vormen van verslagen en uitslagen, mits aangeleverd als PDF/A. relevante, betrouwbare voorlichtingsinformatie op het juiste moment;
+
+° relevante, betrouwbare voorlichtingsinformatie op het juiste moment
+
+en overige relevante informatie, nog verder te specificeren door de gebruikersgroepen.
+
+• Alle zorgverleners uit de geboortezorgketen in het regionaal partnerschap aan iedere zorggebruiker die dat wil veilig, betrouwbaar, digitaal en gestandaardiseerd toegang kunnen verlenen tot de eigen gezondheidsgegevens;
+
+• Vanuit de applicaties en via de geïmplementeerde oplossing, dienen de gegevens binnen maximaal een week nadat deze informatie geregistreerd is, beschikbaar te zijn;
+
+• Deze gegevens kunnen worden ontsloten naar de PGO van de zorggebruiker als zij daarvoor kiest;
+
+• Uiterlijk aan het einde van het programma kan elke zorggebruiker zelf aangeven welke zorgverleners toegang hebben tot haar gegevens, hiermee wordt de wettelijk vereiste gespecificeerde toestemming geïmplementeerd. Dit is afhankelijk van (en in samenwerking met) GTS/OTV en moet voldoen aan de wet.
+
+Toetsing
+
+• De ontsluiting van de gegevens vanuit de geboorteketen naar een PGO voldoet aan het MedMij Afsprakenstelsel. Dit wordt getoetst aan de hand van de controle op de aanwezigheid van een verklaring van de Stichting MedMij dat de gegevens worden ontsloten middels een Dienstverlener Zorgaanbieder, die (kandidaat)deelnemer is in deze rol. Dit kunnen betrokken ICT leveranciers zijn als wel een systeemintegrator die deze rol vervult;
+
+• De aangesloten praktijken en zorgaanbieders zijn opgenomen in de Zorgaanbieder Adreslijst (ZAL) van MedMij, via hun leverancier, zodat zorggebruikers de praktijk in hun PGO kunnen vinden en selecteren voor gegevensuitwisseling;
+
+• Toetsing of er een verklaring is van gebruikersgroep 1 dat voldaan is aan de hierboven omschreven resultaten.
+
+Uitkomstdoel 3
+
+Digitale overdracht
+
+Resultaten
+
+• Het digitaal delen van informatie van een complete set aan informatie, dat wil zeggen alle informatie die in het kader van de geboortezorg gedeeld moet kunnen worden en op dat moment relevant is. Deze informatie moet interregionaal gedeeld kunnen worden volgens de PWD standaard versie 3.2 of hoger;
+
+• Om hier volledig in te kunnen zijn, is het regionaal partnerschap bereid om – zodra andere sectoren daarvoor gereed zijn, aansluiting te vinden bij aanpalende sectoren (zoals huisartsen, acute zorg, anesthesie, fysiotherapie, diëtiek, psychosociale zorgverlening, nuldelijns zorg etc.);
+
+• Met het uitvoeren van de activiteiten wordt het volgende mogelijk gemaakt binnen het regionaal partnerschap:
+
+° gecombineerde/ gestructureerde weergave van data conform de PWD informatiestandaard versie 3.2 of hoger, van echomeetresultaten metadata naar het register ten behoeve van andere geboortezorgverleners zodat deze informatie kan worden gedeeld;
+
+○ de monodisciplinaire applicaties aansluiten op een veilig zorgnetwerk en platform met een register voor metadata;
+
+○ er gegevensuitwisseling – in de vorm van relevante (geboorte)zibs – tussen de geboortezorg en de jeugdgezondheidszorg kan plaatsvinden;
+
+○ er een oplossing is voor controle op toestemming door de zorggebruiker, als beschikbaar via OTV.
+
+• Binnen het regionale partnerschap zijn organisatorische en financiële afspraken gemaakt om beheer en bekostiging van het zorgnetwerk, de toegang, werking en kwaliteit daarvan te continueren.
+
+Toetsing
+
+• Toetsing van het gebruik van de (relevante onderdelen van de) BGZ en de zib’s voor de geboortezorg;
+
+• Toetsing dat de gegevensuitwisseling in het regionaal partnerschap gebeurt volgens de volgende informatiestandaarden, geïmplementeerd danwel via systeemintegrator: acute overdracht verloskundige – gynaecoloog, conform de informatiestandaard Perinataal Woordenboek & Dataset (PWD) versie 3.2 of hoger;
+
+• Toetsing dat er een verklaring is van gebruikersgroepen 2 en 3 dat voldaan is aan de hierboven omschreven resultaten.
+
+Uitkomstdoel 4
+
+Eénmalig vastleggen, meervoudig gebruiken
+
+Resultaten
+
+• De beschikbare data uit het primaire proces beschikbaar gesteld is, volgens de vigerende standaarden en wetten, vanuit de betreffende applicaties of vanuit onderdelen van de geïmplementeerde oplossing. Deze informatie kan gebruikt worden voor workflow management, capaciteitsplanning, kwaliteitsrapportages (tenminste aanlevering van de gegevens aan Perined) en financiële administratie;
+
+• Informatie en gegevens betreffende de zorggebruiker worden gestandaardiseerd aan de bron geregistreerd, met de (Geboorte) zibs als uitgangspunt;
+
+• Alle informatie-uitwisseling gebeurt aan de hand van de vigerende standaarden zoals vastgesteld in de geboortezorg op landelijk niveau en sector overstijgend via Registratie aan de Bron.
+
+Toetsing
+
+• Toetsing of voldaan is aan de door AVG voorgeschreven ‘privacy by design’ en ‘privacy by default’;
+
+• Relevante en actuele informatie is beschikbaar voor zorgorganisaties voor bijvoorbeeld kwaliteits- en workflow management en voor financiële administratie en financieel management. De gestandaardiseerde processen moeten in ieder geval een bijdrage leveren aan een betere kwaliteitsrapportage en waar nodig en mogelijk aansluiten bij landelijke afspraken;
+
+• Toetsing of er een verklaring is vanuit gebruikersgroepen 3 en 4 dat voldaan is aan de hierboven omschreven resultaten.
+
+TOELICHTINGAlgemeen
+Op grond van de Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect (hierna: de Beleidsregel) kan subsidie worden verstrekt aan (de penvoerders van) regionale partnerschappen in de geboortezorgketen. Dit met het oog op de verdere intensivering van de digitale informatie-uitwisseling tussen zorgverleners onderling en met de zorggebruiker, om daarmee de samenwerking tussen geboortezorgverleners en de kwaliteit van zorg in de geboortezorgketen verder te kunnen verbeteren.
+
+Ervaringen in de praktijk tot nu vormen aanleiding om de Beleidsregel op enkele punten aan te passen. In de praktijk is gebleken dat sommige technische eisen op bijvoorbeeld de ICT-infrastructuur meer tijd vergen om tot stand te komen waardoor implementatie in de regionale partnerschappen niet haalbaar is. In overleg met diverse betrokken partijen is daarom besloten de Beleidsregel op een aantal punten aan te passen naar aanleiding van de nieuwe inzichten. Daarnaast is door het ontstaan van deze vertraging nodig dat regionale partnerschappen nog twee extra mogelijkheden hebben om een aanvraag in te dienen. Gezien zij dan ook later kunnen starten met de implementatie, is de looptijd van de Beleidsregel verlengd. Deze wijzigingen zijn ook wenselijk in het licht van de uitbraak van COVID-19, omdat partijen niet altijd in staat zullen zijn om de activiteiten tijdig uit te voeren.
+
+Met de onderhavige beleidsregel is de Beleidsregel derhalve op enkele punten aangepast. Met deze aanpassingen zijn onder andere extra tranches toegevoegd en is de looptijd aangepast. Tot slot is bijlage 1 op enkele punten aangepast.
+
+ArtikelsgewijsIA
+In artikel 1 is de definitie van ‘regionaal partnerschap’ gewijzigd omdat uit de praktijk blijkt dat het in sommige gevallen de aanbieder van jeugdgezondheidszorg (JGZ) later of niet wilt aansluiten. Om ervoor te zorgen dat het regionaal partnerschap alvast aan de slag kan gaan, wordt er daarom gesproken van de voorkeur dat de JGZ is aangesloten. Het blijft belangrijk dat de JGZ aansluit, inspanningen hiertoe moeten daarom ook duidelijk aangegeven worden bij de aanvraag tot subsidie.
+
+B
+In artikel 7 zijn twee tranches oftewel aanvraagrondes toegevoegd onder het eerste lid, onderdeel d en e. Op deze manier is het voor regionale partnerschappen mogelijk om ook in 2021 subsidie aan te vragen.
+
+C
+Artikel 12 is aangepast, vanwege de vertragingen die zijn ontstaan als gevolg van de uitbraak van COVID-19 en de technische specificaties die nodig zijn voor implementatie. Naast dat dit leidt tot twee extra aanvraagrondes, wordt extra implementatietijd gegeven. Regionale partnerschappen die in de twee laatste aanvraagrondes aanvragen, hebben zodoende ook voldoende tijd voor het uitvoeren van de activiteiten en het behalen van de eisen gesteld in bijlage 1. Op deze wijze krijgen regionale partnerschappen zes maanden meer de tijd voor het voltooien van de implementatie.
+
+D
+Bijlage 1 is aangepast in verband met nieuwe inzichten en die ertoe geleid hebben dat bepaalde gestelde eisen als niet haalbaar, als niet van toepassing of als onduidelijk geformuleerd werden geacht. Het gaat dan met name om de afspraken gemaakt in onder andere de gebruikersgroepen 1, 2, 3 en 4, waarbij het door de wijziging duidelijk wordt aan de hand waarvan zij bepalen of een regionaal partnerschap voldoet. Dit is aangepast bij alle vier de outcomedoelen. Daarnaast zijn een aantal tekstuele wijzigingen gemaakt, zo is bij outcomedoel 1 bij toetsing het woord ‘implementatie’ vervangen door ‘presenteren van’. Tot slot is bij outcomedoel 3 ‘eOverdracht’ veranderd naar ‘gegevensuitwisseling’. In de samenwerking tussen geboortezorg en jeugdgezondheidszorg is er sprake van netwerkzorg en er gedurende de hele zwangerschap gegevensuitwisseling kan plaatsvinden tussen beide sectoren. De bewoording ‘eOverdracht’ doet aan die samenwerking onvoldoende recht. Door deze wijzigingen wordt nog steeds het doel van landelijke gegevensuitwisseling in de geboortezorg bereikt.
+
+II
+In afwijking van de systematiek van vaste verandermomenten bij regelgeving (VVM), treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit met het oog op informeren van en zekerheid bieden aan partijen over de aanvullende aanvraagrondes en de wijzigingen in bijlage 1.
+
+De Minister voor Medische Zorg,
+M.J. van Rijn
+
+1
+https://www.zorginstituutnederland.nl/publicaties/publicatie/2016/06/28/zorgstandaard-integrale-geboortezorg-versie-1.
+
+2
+https://babyconnect.org/wp-content/uploads/2018/11/Framework-ECD-voor-de-geboortezorg-3.3.pdf.
+
+3
+https://babyconnect.org/roadmap/.

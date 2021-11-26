@@ -1,0 +1,263 @@
+Anuncio de formalización de contratos de: Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire. Objeto: 20209C44 suministro de diverso material COVID-19 EA 2020. Expediente: 4023020034100.
+2020
+TEXTO
+      
+        1. Poder adjudicador: 
+      
+        1.1) Nombre: 
+          Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire.
+          1.2) Número de identificación fiscal: 
+          S2830189C.
+          1.3) Dirección: 
+          Romero Robledo, 8.
+          1.4) Localidad: 
+          Madrid.
+          1.5) Provincia: 
+          Madrid.
+          1.6) Código postal: 
+          28071.
+          1.7) País: 
+          España.
+          1.8) Código NUTS: 
+          ES300.
+          1.10) Fax: 
+          915032321.
+          1.11) Correo electrónico: 
+          secme_dad_malog@mde.es
+          1.12) Dirección principal: 
+          http://www.ejercitodelaire.mde.es
+          1.13) Dirección del perfil de comprador: 
+          https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=ie%2FO6IJ%2B4gQQK2TEfXGy%2BA%3D%3D
+        
+      2. Tipo de poder adjudicador y principal actividad ejercida:
+      
+        2.1) Tipo: 
+          Administración General del Estado.
+          2.2) Actividad principal ejercida: 
+          Defensa.
+        
+      4. Códigos CPV:
+      
+        4.1) CPV principal: 
+          33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+          4.2) CPV 
+          Lote 1: 33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+          4.3) CPV 
+          Lote 2: 33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+          4.4) CPV 
+          Lote 3: 33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+          4.5) CPV 
+          Lote 4: 33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+          4.6) CPV 
+          Lote 5: 33000000 (Equipamiento y artículos médicos, farmacéuticos y de higiene personal).
+        
+      5. Lugar principal de entrega de los suministros:
+      
+        5.1) Código NUTS principal: 
+          ES300.
+          5.2) Código NUTS 
+          Lote 1: ES300.
+          5.3) Código NUTS 
+          Lote 2: ES300.
+          5.4) Código NUTS 
+          Lote 3: ES300.
+          5.5) Código NUTS 
+          Lote 4: ES300.
+          5.6) Código NUTS 
+          Lote 5: ES300.
+        
+      6. Descripción de la licitación:
+      
+        6.1) Descripción genérica:
+          20209C44 suministro de diverso material COVID-19 EA 2020.
+          6.2)
+          Lote 1: Mascarillas FFP2 sin válvula.
+          6.3)
+          Lote 2: Test rápido de detección de antígenos del virus SARS-CoV-2.
+          6.4)
+          Lote 3: Mascarillas higiénicas reutilizables.
+          6.5)
+          Lote 4: Guantes de nitrilo calidad sanitaria extralargos.
+          6.6)
+          Lote 5: Mascarillas quirúrgicas tipo IIR.
+        
+      7. Tipo de procedimiento de adjudicación: 
+      
+        7.1) Tipo: 
+          Negociado sin publicidad acelerado (EMERGENCIA COVID19).
+          7.2) Justificación: 
+          
+            7.2.1) 
+              Proveedor único por razones técnicas.
+            
+          7.3) Explicación: 
+          EMERGENCIA COVID-19.
+        
+      9. Criterios de adjudicación: 
+      PRECIO (Ponderación: 100%).
+      10. Fecha de adjudicación: 
+      
+        10.1) Lote 1: 
+          3 de noviembre de 2020.
+          10.2) Lote 2: 
+          3 de noviembre de 2020.
+          10.3) Lote 3: 
+          3 de noviembre de 2020.
+          10.4) Lote 4: 
+          3 de noviembre de 2020.
+          10.5) Lote 5: 
+          3 de noviembre de 2020.
+        
+      11. Ofertas recibidas: 
+      
+        11.1) Lote 1: 
+          
+            11.1.1) Número de ofertas recibidas: 
+              1.
+              11.1.2) Número de ofertas recibidas de PYMEs: 
+              1.
+            
+          11.2) Lote 2: 
+          
+            11.2.1) Número de ofertas recibidas: 
+              1.
+              11.2.2) Número de ofertas recibidas de PYMEs: 
+              1.
+            
+          11.3) Lote 3: 
+          
+            11.3.1) Número de ofertas recibidas: 
+              1.
+              11.3.2) Número de ofertas recibidas de PYMEs: 
+              1.
+            
+          11.4) Lote 4: 
+          
+            11.4.1) Número de ofertas recibidas: 
+              1.
+              11.4.2) Número de ofertas recibidas de PYMEs: 
+              1.
+            
+          11.5) Lote 5: 
+          
+            11.5.1) Número de ofertas recibidas: 
+              1.
+              11.5.2) Número de ofertas recibidas de PYMEs: 
+              1.
+            
+        
+      12. Adjudicatarios: 
+      
+        12.1) Lote 1: 
+          
+            12.1.1) Nombre: 
+              DIGAR SANITARIA S.L.
+              12.1.2) Número de identificación fiscal: 
+              B81371924.
+              12.1.4) Localidad: 
+              madrid.
+              12.1.7) País: 
+              España.
+              12.1.13) 
+              El adjudicatario es una PYME.
+            
+          12.2) Lote 2: 
+          
+            12.2.1) Nombre: 
+              ABBOTT RAPID DIAGNOSTICS HEALTHCARE.
+              12.2.2) Número de identificación fiscal: 
+              B58882952.
+              12.2.4) Localidad: 
+              madrid.
+              12.2.7) País: 
+              España.
+              12.2.13) 
+              El adjudicatario es una PYME.
+            
+          12.3) Lote 3: 
+          
+            12.3.1) Nombre: 
+              TEXCON Y CALIDAD S.L.
+              12.3.2) Número de identificación fiscal: 
+              B45769817.
+              12.3.4) Localidad: 
+              madrid.
+              12.3.7) País: 
+              España.
+              12.3.13) 
+              El adjudicatario es una PYME.
+            
+          12.4) Lote 4: 
+          
+            12.4.1) Nombre: 
+              MATERIAL MÉDICO S.L.N.E.
+              12.4.2) Número de identificación fiscal: 
+              B84907096.
+              12.4.4) Localidad: 
+              madrid.
+              12.4.7) País: 
+              España.
+              12.4.13) 
+              El adjudicatario es una PYME.
+            
+          12.5) Lote 5: 
+          
+            12.5.1) Nombre: 
+              BARNA IMPORT S.L.
+              12.5.2) Número de identificación fiscal: 
+              A58001686.
+              12.5.4) Localidad: 
+              madrid.
+              12.5.7) País: 
+              España.
+              12.5.13) 
+              El adjudicatario es una PYME.
+            
+        
+      13. Valor de las ofertas: 
+      
+        13.1) Lote 1: 
+          
+            13.1.1) Valor de la oferta seleccionada: 
+              202.500,00 euros.
+            
+          13.2) Lote 2: 
+          
+            13.2.1) Valor de la oferta seleccionada: 
+              136.800,00 euros.
+            
+          13.3) Lote 3: 
+          
+            13.3.1) Valor de la oferta seleccionada: 
+              995.840,00 euros.
+            
+          13.4) Lote 4: 
+          
+            13.4.1) Valor de la oferta seleccionada: 
+              29.962,50 euros.
+            
+          13.5) Lote 5: 
+          
+            13.5.1) Valor de la oferta seleccionada: 
+              42.000,00 euros.
+            
+        
+      16. Procedimientos de recurso: 
+      
+        16.1) Órgano competente para los procedimientos de recurso:
+          
+            16.1.1) Nombre: 
+              NO PROCEDE POR SER DE EMERGENCIA.
+              16.1.2) Dirección: 
+              00.
+              16.1.3) Localidad: 
+              MADRID.
+              16.1.5) Código postal: 
+              28000.
+              16.1.6) País: 
+              España.
+            
+        
+      18. Fecha de envío del anuncio: 
+      17 de noviembre de 2020.
+    Madrid, 17 de noviembre de 2020.- Director de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire, Alfredo Luis González Jiménez.
